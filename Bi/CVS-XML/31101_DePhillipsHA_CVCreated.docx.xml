@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:39 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913360306521"  usageLimitType="allocation" usageLimit="200" currentUsage="90" remainingUsage="110" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Henry A DePhillips Jr.</FormattedName>
+<GivenName>Henry</GivenName>
+<MiddleName>A</MiddleName>
+<FamilyName>DePhillips</FamilyName>
+<Affix type="generation">Jr.</Affix>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (860) 297-2211</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>860</AreaCityCode>
+<SubscriberNumber>297-2211</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Northwestern Univ.</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1963-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Fordham Univ.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1959-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>DePhillips&apos; work is</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>the area of art conservation, restoration, dating, and authentication.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Each summer he teaches a course</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Italy</Region>
+<Municipality>Rome</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>conservation science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>His courses frequently address such questions as</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>conservation sites.</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>need of repair* What information is needed to insure that the conservation work will yield the desired result* What is the desired result</Name>
+</DegreeMinor>
+<Comments>What is restoration/conservation* Who makes the decision to work on a piece</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Trinity College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>Hartford</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeMinor>
+<Name>addition to his work</Name>
+</DegreeMinor>
+<Comments>Professor DePhillips is a conservation scientist working primarily with the Wadsworth Atheneum</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>the Yale University Art Gallery</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>New Haven</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>and the Yale Center for British Art</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>and the Art of Patination</Title>
+<Name role="author">
+<FormattedName>DePhillips, Henry A., Jr. Paul Wayland Bartlett</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>SGVucnkgQSBEZVBoaWxsaXBzIEpyLg0KDQpWZXJub24gSy4gS3JpZWJsZSBQcm9mZXNzb3Igb2YgQ2hlbWlzdHJ5LCBFbWVyaXR1cw0KDQpQaG9uZTogKDg2MCkgMjk3LTIyMTENCg0KT2ZmaWNlIExvY2F0aW9uOiBDbGVtZW50IENoZW1pc3RyeSBCbGRnIDIxMkENCg0KU2VuZCBlLW1haWwgdG8gSGVucnkgQSBEZVBoaWxsaXBzIEpyLg0KDQpQZXJzb25hbCB3ZWIgcGFnZQ0KDQpUcmluaXR5IENvbGxlZ2UgZmFjdWx0eSBtZW1iZXIgc2luY2UgMTk2Mw0KDQpWaWV3IG9mZmljZSBob3VycyBmb3IgU3ByaW5nIDIwMTMNCg0KDQoNCkRlZ3JlZXM6DQoNClBoLkQuLCBOb3J0aHdlc3Rlcm4gVW5pdi4gKDE5NjMpwqANCg0KQi5TLiwgRm9yZGhhbSBVbml2LiAoMTk1OSnCoA0KDQoNCg0KUHJvZmVzc29yIERlUGhpbGxpcHMnIHdvcmsgaXMgaW4gdGhlIGFyZWEgb2YgYXJ0IGNvbnNlcnZhdGlvbiwgcmVzdG9yYXRpb24sIGRhdGluZywgYW5kIGF1dGhlbnRpY2F0aW9uLiBFYWNoIHN1bW1lciBoZcKgdGVhY2hlcyBhIGNvdXJzZSBpbiBjb25zZXJ2YXRpb24gc2NpZW5jZSBpbsKgUm9tZSwgSXRhbHkswqB3aGljaCBpbnZvbHZlZCB2aXNpdHMgdG8gb25nb2luZyBhbmQgY3VycmVudCBjb25zZXJ2YXRpb24gc2l0ZXMuIEhpcyBjb3Vyc2VzIGZyZXF1ZW50bHnCoGFkZHJlc3Mgc3VjaCBxdWVzdGlvbnMgYXM6IFdoYXQgaXMgcmVzdG9yYXRpb24vY29uc2VydmF0aW9uPyBXaG8gbWFrZXMgdGhlIGRlY2lzaW9uIHRvIHdvcmsgb24gYSBwaWVjZSBpbiBuZWVkIG9mIHJlcGFpcj8gV2hhdCBpbmZvcm1hdGlvbiBpcyBuZWVkZWQgdG8gaW5zdXJlIHRoYXQgdGhlIGNvbnNlcnZhdGlvbiB3b3JrIHdpbGwgeWllbGQgdGhlIGRlc2lyZWQgcmVzdWx0PyBXaGF0IGlzIHRoZSBkZXNpcmVkIHJlc3VsdD8NCg0KDQoNCkluIGFkZGl0aW9uIHRvIGhpcyB3b3JrIGF0IFRyaW5pdHkgQ29sbGVnZSwgUHJvZmVzc29yIERlUGhpbGxpcHMgaXMgYSBjb25zZXJ2YXRpb24gc2NpZW50aXN0IHdvcmtpbmcgcHJpbWFyaWx5IHdpdGggdGhlIFdhZHN3b3J0aCBBdGhlbmV1bSwgSGFydGZvcmQsIENUOyB0aGUgWWFsZSBVbml2ZXJzaXR5IEFydCBHYWxsZXJ5LCBOZXcgSGF2ZW4sIENUOyBhbmQgdGhlIFlhbGUgQ2VudGVyIGZvciBCcml0aXNoIEFydCwgTmV3IEhhdmVuLCBDVCBhbmQsIGZvciB0d28gdG8gdGhyZWUgbW9udGhzIGluIHRoZSBmYWxsLCBhdCBvbmUgb2YgdGhlIG5hdGlvbmFsIGNvbnNlcnZhdGlvbiBsYWJvcmF0b3JpZXMgaW4gUm9tZS4gSGUgc3BlY2lhbGl6ZXMgaW4gdGhlIGFuYWx5c2lzIG9mIG1hdGVyaWFscyBmcm9tIGFsbCB0eXBlcyBvZiBhcnQgbWVkaWE6IHBhaW50aW5ncywgY2VyYW1pY3MsIG1ldGFsLCBjbG90aCwgYW5kIHdvb2QuIFByb2Zlc3NvciBEZVBoaWxsaXBzJyByZWNlbnQgd29yayBpbmNsdWRlcyBhbiBhdXRoZW50aWNhdGlvbiBhbmQgYXR0cmlidXRpb24gc3R1ZHkgLSB0aGUgYW5hbHlzaXMgb2YgcGlnbWVudCBhbmQgbWVkaXVtIGluIGEgc2l4dGVlbnRoLWNlbnR1cnkgSXRhbGlhbiBjYXJ0b29uIC0gYW5kIGEgZGF0aW5nIGFuZCBpbmZvcm1hdGlvbmFsIHN0dWR5IC0gY29tcG9zaXRpb24gYW5hbHlzaXMgb2YgdHdlbnR5LXR3byBicm9uemUgR3JlZWsgc3RhdHVlcy7CoCBIZSBoYXMgYWxzbyB3b3JrZWQgb24gcHJvamVjdHMgaW4gSGVyY3VsYW5ldW0sIGZyb20gS29yZWEgYW5kIENoaW5hLg0KDQoNCg0KDQoNClB1YmxpY2F0aW9ucw0KDQoqIERlUGhpbGxpcHMsIEhlbnJ5IEEuLCBKci7CoFBhdWwgV2F5bGFuZCBCYXJ0bGV0dCBhbmQgdGhlIEFydCBvZiBQYXRpbmF0aW9uLsKgMTk5NC4NCg0KKiBNYW55IHJlcG9ydHMgdG8gbXVzZXVtIGNvbnNlcnZhdG9ycyBmcm9tIHRoZSByZXN1bHRzIG9mIGFuYWx5c2VzIG9mIG1hdGVyaWFscyBmcm9tIGVhc2VsIHBhaW50aW5ncywgY2VyYW1pY3MsIG1ldGFscywgdGFwZXN0cmllcywgZXRjLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913360306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

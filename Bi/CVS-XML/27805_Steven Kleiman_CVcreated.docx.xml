@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:17 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912250306521"  usageLimitType="allocation" usageLimit="200" currentUsage="80" remainingUsage="120" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Steven Kleiman</FormattedName>
+<GivenName>Steven</GivenName>
+<FamilyName>Kleiman</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>kleiman@math.mit.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>UNIVERSITY OF COPENHAGEN</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1965-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Kleiman received the S.B.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>MIT</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.A</DegreeName>
+<DegreeDate>
+<AnyDate>1961-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and the</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Harvard</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1962-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>subsequently joined the MIT mathematics faculty</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>1969-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>as a Ritt instructor, joining their faculty</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>the University of Copenhagen</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Doctorate of Science</DegreeName>
+<DegreeDate>
+<AnyDate>1989-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>he received the</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Honorary</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+<Comments>Member of the Norwegian Academy of Sciences and Letters, and of the Royal Danish Academy of Sciences and Letters in 2002.</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>U3RldmVuIEtsZWltYW4NCg0KDQoNClJvb20gMi0yNzgNCg0KUGhvbmU6IHgzLTQ5OTYNCg0Ka2xlaW1hbkBtYXRoLm1pdC5lZHUgIA0KDQpQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MNCg0KQWxnZWJyYWljIEdlb21ldHJ5LCBDb21tdXRhdGl2ZSBBbGdlYnJhDQoNCg0KDQpFZHVjYXRpb24NCg0KKiBQaC5ELiAxOTY1LCBVTklWRVJTSVRZIE9GIENPUEVOSEFHRU4NCg0KDQoNCg0KDQpTdGV2ZSBLbGVpbWFuIHJlY2VpdmVkIHRoZSBTLkIuIGZyb20gTUlUIGluIDE5NjEsIGFuZCB0aGUgTS5BLiBhbmQgUGguRC4gZnJvbSBIYXJ2YXJkIGluIDE5NjIgYW5kIDY1LiBPc2NhciBaYXJpc2tpIHdhcyBoaXMgZG9jdG9yYWwgYWR2aXNvci4gSGUgd2VudCB0byBDb2x1bWJpYSBVbml2ZXJzaXR5IGFzIGEgUml0dCBpbnN0cnVjdG9yLCBqb2luaW5nIHRoZWlyIGZhY3VsdHkgZnJvbSAxOTY2LTY5LiBIZSBzdWJzZXF1ZW50bHkgam9pbmVkIHRoZSBNSVQgbWF0aGVtYXRpY3MgZmFjdWx0eSwgcHJvZmVzc29yIGluIDE5NzYuIFByb2Zlc3NvciBLbGVpbWFuIGNvbmNlbnRyYXRlcyBvbiBwcm9ibGVtcyBpbiBhbGdlYnJhaWMgZ2VvbWV0cnkgYW5kIGNvbW11dGF0aXZlIGFsZ2VicmEuIEEgcmVjaXBpZW50IG9mIHRoZSBTbG9hbiBhbmQgR3VnZ2VuaGVpbSBmZWxsb3dzaGlwcywgaGUgcmVjZWl2ZWQgdGhlIEhvbm9yYXJ5IERvY3RvcmF0ZSBvZiBTY2llbmNlIGZyb20gdGhlIFVuaXZlcnNpdHkgb2YgQ29wZW5oYWdlbiBpbiAxOTg5LCBhbmQgd2FzIGVsZWN0ZWQgRm9yZWlnbiBNZW1iZXIgb2YgdGhlIE5vcndlZ2lhbiBBY2FkZW15IG9mIFNjaWVuY2VzIGFuZCBMZXR0ZXJzLCBhbmQgb2YgdGhlIFJveWFsIERhbmlzaCBBY2FkZW15IG9mIFNjaWVuY2VzIGFuZCBMZXR0ZXJzIGluIDIwMDIu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912250306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:02 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915340306521"  usageLimitType="allocation" usageLimit="200" currentUsage="71" remainingUsage="129" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr. Qiong Zhang PhD</FormattedName>
+<GivenName>Qiong</GivenName>
+<FamilyName>Zhang</FamilyName>
+<Affix type="formOfAddress">Dr.</Affix>
+<Affix type="qualification">PhD</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>33620-5350</PostalCode>
+<Region>FL</Region>
+<Municipality>Tampa</Municipality>
+<DeliveryAddress>
+<AddressLine>4202 E. Fowler Avenue</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (813) 974-6448</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>813</AreaCityCode>
+<SubscriberNumber>974-6448</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (813) 974-2957</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>813</AreaCityCode>
+<SubscriberNumber>974-2957</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>qiongzhang@usf.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Michigan Technological University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tsinghua University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>North-West Institute of Architecture Engineering</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>&quot;Modeling of Adsorption and Regeneration of Volatile Organic Compounds on Activated Carbon Fiber Cloth &quot; J. of Environmental Engineering</Title>
+<Name role="author">
+<FormattedName>Meng, Y., Q. Zhang, D.W. Hand, R. Taylor</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;User-Oriented Batch Reactor Solutions to the Homogeneous Surface Diffusion Model for Different Activated Carbon Dosages &quot; Water Research</Title>
+<Name role="author">
+<FormattedName>Zhang, Q., J.C. Crittenden, K. D. Hristovski, D.W. Hand, P. K. Westerhoff</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Development of an Environmental Multimedia Fate Model for the Great Lakes Region &quot; Chemosphere</Title>
+<Name role="author">
+<FormattedName>Zhang, Q., Crittenden, J.C., Shonnard, D.R., Mihelcic, J.R</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Integrating Economic Input-Output Life Cycle Assessment with Risk Assessment for a Screening-Level Analysis &quot; International Journal of Life Cycle Assessment</JournalOrSerialName>
+<Volume>2003.</Volume>
+<PageNumber>1377-1397</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Does Simplifying Transport and Exposure Yield Reliable Results* An Analysis of Four Risk Assessment Methods &quot; Environmental Science &amp; Technology 35:6 1282-1288 2001</Title>
+<Name role="author">
+<FormattedName>Zhang, Q., Crittenden, J.C., Mihelcic, J.R</FormattedName>
+</Name>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIFFpb25nIFpoYW5nLCBQaEQNCg0KQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcNCg0KQXNzaXN0YW50IFByb2Zlc3Nvcg0KDQo0MjAyIEUuIEZvd2xlciBBdmVudWUNCg0KVGFtcGEsIEZMIDMzNjIwLTUzNTANCg0KUGhvbmU6ICg4MTMpIDk3NC02NDQ4DQoNCkZheDogKDgxMykgOTc0LTI5NTcNCg0KRS1tYWlsOsKgcWlvbmd6aGFuZ0B1c2YuZWR1DQoNCsKgDQoNCkVkdWNhdGlvbg0KDQpQaC5ELiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBNaWNoaWdhbiBUZWNobm9sb2dpY2FsIFVuaXZlcnNpdHkNCg0KTS5TLiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBUc2luZ2h1YSBVbml2ZXJzaXR5DQoNCkIuUy4gRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgTm9ydGgtV2VzdCBJbnN0aXR1dGUgb2YgQXJjaGl0ZWN0dXJlIEVuZ2luZWVyaW5nDQoNCsKgDQoNCkFyZWFzIG9mIEludGVyZXN0OsKgR3JlZW4gZW5naW5lZXJpbmcsIHN1c3RhaW5hYmlsaXR5LCBsaWZlIGN5Y2xlIGFzc2Vzc21lbnQsIHdhdGVyLWVuZXJneSBuZXh1cywgY291cGxlZCBuYXR1cmUtaHVtYW4gc3lzdGVtIG1vZGVsaW5nLCBlbnZpcm9ubWVudGFsIGZhdGUgYW5kIHRyYW5zcG9ydCBtb2RlbGluZywgd2F0ZXIgc3VwcGx5IGFuZCB0cmVhdG1lbnQsIGVuZ2luZWVyaW5nIGVkdWNhdGlvbi4NCg0KwqANCg0KQmlvc2tldGNowqANCg0KUWlvbmcgWmhhbmcgaXMgYW4gYXNzaXN0YW50IHByb2Zlc3NvciBpbiB0aGUgRGVwYXJ0bWVudCBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZyBhdCB0aGUgVW5pdmVyc2l0eSBvZiBTb3V0aCBGbG9yaWRhIChVU0YpLiBTaGUgd29ya2VkIGZvciB0aGUgU3VzdGFpbmFibGUgRnV0dXJlcyBJbnN0aXR1dGUgYXQgTWljaGlnYW4gVGVjaCBhcyB0aGUgb3BlcmF0aW9uIG1hbmFnZXIgYmVmb3JlIHNoZSBqb2luZWQgVVNGLiBTaGUgaGFzIHNldmVyYWwgc3BvbnNvcmVkIHJlc2VhcmNoIHByb2plY3RzIGluY2x1ZGUgZW1ib2RpZWQgZW5lcmd5IG1vZGVsaW5nLCBsaWZlIGN5Y2xlIGFzc2Vzc21lbnQgb2YgYmlvLWVuZXJneSBzeXN0ZW1zLCBhbmQgc3VzdGFpbmFiaWxpdHkgZW5naW5lZXJpbmcgZWR1Y2F0aW9uLiBTaGUgaXMgaGFzIGNvbnRyaWJ1dGVkIGNoYXB0ZXIgZm9yIDIgYm9va3MgaW5jbHVkaW5nwqBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nOiBGdW5kYW1lbnRhbHMsIFN1c3RhaW5hYmlsaXR5LCBEZXNpZ24gKEpvaG4gV2lsZXkgJiBTb25zLCAyMDEwKSBhbmTCoFJlbmV3YWJsZSBFbmVyZ3kgZnJvbSBGb3Jlc3QgUmVzb3VyY2VzIGluIHRoZSBVbml0ZWQgU3RhdGVzwqAoUm91dGxlZGdlIDIwMDkpIGFuZCBwdWJsaXNoZWQgaGVyIHdvcmsgaW4gdmFyaW91cyBwZWVyIHJldmlld2VkIGpvdXJuYWxzLg0KDQrCoA0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnMNCg0KKiBNZW5nLCBZLiwgUS4gWmhhbmcsIEQuVy4gSGFuZCwgUi4gVGF5bG9yLCAiTW9kZWxpbmcgb2YgQWRzb3JwdGlvbiBhbmQgUmVnZW5lcmF0aW9uIG9mIFZvbGF0aWxlIE9yZ2FuaWMgQ29tcG91bmRzIG9uIEFjdGl2YXRlZCBDYXJib24gRmliZXIgQ2xvdGgsIsKgSi4gb2YgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgMTM1KDEyKTogMTM3MS0xMzc5LCAyMDA5Lg0KDQoqIFpoYW5nLCBRLiwgSi5DLiBDcml0dGVuZGVuLCBLLiBELiBIcmlzdG92c2tpLCBELlcuIEhhbmQsIFAuIEsuIFdlc3RlcmhvZmYuICJVc2VyLU9yaWVudGVkIEJhdGNoIFJlYWN0b3IgU29sdXRpb25zIHRvIHRoZSBIb21vZ2VuZW91cyBTdXJmYWNlIERpZmZ1c2lvbiBNb2RlbCBmb3IgRGlmZmVyZW50IEFjdGl2YXRlZCBDYXJib24gRG9zYWdlcywiwqBXYXRlciBSZXNlYXJjaCwgNDMoNyk6IDE4NTktMTg2NiwgMjAwOS4NCg0KKiBXcmlnaHQsIEguLCBRLiBaaGFuZywgSi5SLiBNaWhlbGNpYywgIkludGVncmF0aW5nIEVjb25vbWljIElucHV0LU91dHB1dCBMaWZlIEN5Y2xlIEFzc2Vzc21lbnQgd2l0aCBSaXNrIEFzc2Vzc21lbnQgZm9yIGEgU2NyZWVuaW5nLUxldmVsIEFuYWx5c2lzLCLCoEludGVybmF0aW9uYWwgSm91cm5hbCBvZiBMaWZlIEN5Y2xlIEFzc2Vzc21lbnQsIDEzKDUpOiA0MTItNDIwLCAyMDA4Lg0KDQoqIFpoYW5nLCBRLiwgQ3JpdHRlbmRlbiwgSi5DLiwgU2hvbm5hcmQsIEQuUi4sIE1paGVsY2ljLCBKLlIuICJEZXZlbG9wbWVudCBvZiBhbiBFbnZpcm9ubWVudGFsIE11bHRpbWVkaWEgRmF0ZSBNb2RlbCBmb3IgdGhlIEdyZWF0IExha2VzIFJlZ2lvbiwiwqBDaGVtb3NwaGVyZSwgNTAsIDEzNzctMTM5NywgMjAwMy4NCg0KKiBaaGFuZywgUS4sIENyaXR0ZW5kZW4sIEouQy4sIE1paGVsY2ljLCBKLlIuICJEb2VzIFNpbXBsaWZ5aW5nIFRyYW5zcG9ydCBhbmQgRXhwb3N1cmUgWWllbGQgUmVsaWFibGUgUmVzdWx0cz8gQW4gQW5hbHlzaXMgb2YgRm91ciBSaXNrIEFzc2Vzc21lbnQgTWV0aG9kcywiwqBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJiBUZWNobm9sb2d5LCAzNTo2LCAxMjgyLTEyODgsIDIwMDEu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915340306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

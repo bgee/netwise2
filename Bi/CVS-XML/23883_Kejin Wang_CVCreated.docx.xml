@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:04 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911440306521"  usageLimitType="allocation" usageLimit="200" currentUsage="72" remainingUsage="128" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Kejin Wang</FormattedName>
+<GivenName>Kejin</GivenName>
+<FamilyName>Wang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>50011-3232</PostalCode>
+<Region>IA</Region>
+<Municipality>Ames</Municipality>
+<DeliveryAddress>
+<AddressLine>492 Town Engr</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (515) 294-2152</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>515</AreaCityCode>
+<SubscriberNumber>294-2152</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (515) 294-8216</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>515</AreaCityCode>
+<SubscriberNumber>294-8216</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>kejinw@iastate.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Conducts research</EmployerOrgName>
+<PositionHistory>
+<Title>PCC Engineer CTRE</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>on the material properties of portland cement concrete and concrete durability.
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Design/Project Engineer Desman and Associates</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Chicago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Northwestern University</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Professor/Research Associate</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Assistant Professor/Lecturer Hefei University of Technology</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>China</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1986-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Northwestern University</EmployerOrgName>
+<PositionHistory>
+<Title>Research Engineer Institute of Structures and Materials</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1982-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1986-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>CE 382 - Design of Concretes</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>CE 383 - Design of Portland Cement Concretes CE 587 - Advanced Portland Cement Concretes
+</Description>
+<StartDate>
+<AnyDate>1982-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California Berkeley</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1994-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Chinese Academy of Sciences</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Hefei University of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Hefei</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1982-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Strategic Environmental Research and Development Program</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>recent research projects include</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>Concrete PI sponsor</Name>
+</DegreeMinor>
+<Comments>Sequestering Lead in Paint by Utilizing Deconstructed Masonry Materials as Recycled Aggregate</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Pervious Concrete Mix Design for Pavement Wearing Course Application</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Pooled Fund</Name>
+</DegreeMajor>
+<Comments>a Simple and Rapid Test for Monitoring Heat Evolution of Concrete for Lab and Field PI, sponsor: FHWA</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>sponsors: National Center for Concrete Pavement Technology</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Co-PI</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>CP Tech Center and RMC Research and Education Foundation</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Development of Performance Properties of Ternary Mixes</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>sponsors: FHWA/State DOTs/ Industry</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Co-PI</Name>
+</DegreeMajor>
+<Comments>Understanding rheology of cement-based materials through integrated experiments and computations at multiple scales PI, Sponsor: National Science Foundation</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California-Berkeley</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Berkeley</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>PhD</DegreeName>
+<DegreeDate>
+<AnyDate>1994-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Structures and Materials</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Chinese Academy of Sciences</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Structures and Materials</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Hefei University of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Hefei</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>1982-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Rudolphi</Title>
+<Name role="author">
+<FormattedName>G. Lu, K. Wang, T. J</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Modeling Rheological Behavior of Highly Flowable Mortar Using Concepts of Particle and Fluid Mechanics.&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Effect of Portland Cement Fineness on ASTM C1260 Expansion.&quot;</Title>
+<Name role="author">
+<FormattedName>F. Bektas, K. Wang, and H. Ceylan</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Testing and Evaluation Vol</JournalOrSerialName>
+<Volume>36</Volume>
+</Article>
+<Article>
+<Title>&quot;Use of Ground Clay Brick as a Pozzolanic Material in Concrete.&quot;</Title>
+<Name role="author">
+<FormattedName>F. Bektas, K. Wang, H. Ceylan</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>November 2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of ASTM International v5 n10 ID: JAI101681</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Modified Heat of Hydration and Strength Models for Concrete Containing Fly Ash and Slag.&quot;</Title>
+<Name role="author">
+<FormattedName>Z. Ge and K. Wang</FormattedName>
+</Name>
+<JournalOrSerialName>International Journal of Computers and Concrete Vol</JournalOrSerialName>
+<Volume>6</Volume>
+</Article>
+<Article>
+<Title>&quot;Characterization of Cement- based Materials Using a Simple Isothermal Calorimeter.&quot;</Title>
+<Name role="author">
+<FormattedName>Z. Ge, K. Wang, P. J. Sandberg, J. M. Ruiz</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Advanced Concrete Technology volume</JournalOrSerialName>
+<Volume>7</Volume>
+</Article>
+<Article>
+<Title>&quot;Test Methods for Characterizing Air Void Systems in Portland Cement Pervious Concrete.&quot;</Title>
+<Name role="author">
+<FormattedName>J.T. Kevern, K. Wang, and V.R. Schaefer</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of ASTM International Vol</JournalOrSerialName>
+<Volume>6</Volume>
+</Article>
+<Article>
+<Title>&quot;Effects of Strength</Title>
+<Name role="author">
+<FormattedName>G. Lomboy, K. Wang</FormattedName>
+</Name>
+<JournalOrSerialName>Permeability and Air Void Parameters on Freezing-Thawing Resistance of Concrete With and Without Air Entrainment.&quot; Journal of ASTM International Vol</JournalOrSerialName>
+<Volume>6</Volume>
+</Article>
+<Article>
+<Title>&quot;Investigation into Yield Behavior of Fresh Cement Paste: model and experiment.&quot;</Title>
+<Name role="author">
+<FormattedName>G. Lu and K. Wang</FormattedName>
+</Name>
+<JournalOrSerialName>ACI Materials Journal Vol</JournalOrSerialName>
+<Volume>107</Volume>
+</Article>
+<Article>
+<Title>&quot;Using Fly Ash</Title>
+<Name role="author">
+<FormattedName>T. Voigt, J. Mbele, K. Wang, S. P. Shah</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;The Effect of Coarse Aggregate on the Freeze-Thaw Durability of Pervious Concrete.&quot;</Title>
+<Name role="author">
+<FormattedName>Kevern, J. T., Wang, K., and Schaefer, V. R</FormattedName>
+</Name>
+<JournalOrSerialName>ASCE Journal of Materials in Civil Engineering 2009</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2008-01-01 - 2008-01-01</StringDate></Date>
+<Description>Journal of ASTM International Award for Outstanding Editorial Board Member</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>Honorary Professor Chongqing Jiaotong University of Technology China</Description>
+<IssuingAuthority>School of Civil Engineering</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>Charles W. Schafer Faculty Award for &quot;Excellence in Teaching Research and Service in Civil Construction and Environmental Engineering</Description>
+<IssuingAuthority>&quot; Iowa State University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>Honorary Professor Hefei University of Technology China</Description>
+<IssuingAuthority>School of Civil Engineering</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-01-01</StringDate></Date>
+<Description>Honorary Professor Lanzhou Jiaotong University China</Description>
+<IssuingAuthority>School of Civil Engineering</IssuingAuthority>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>S2VqaW4gV2FuZw0KDQoqIFByb2Zlc3Nvcg0KDQpNYWluIE9mZmljZQ0KDQo0OTIgVG93biBFbmdyDQoNCkFtZXMsIElBIDUwMDExLTMyMzINCg0KUGhvbmU6IDUxNS0yOTQtMjE1Mg0KDQpGYXg6IDUxNS0yOTQtODIxNg0KDQpFbWFpbDoga2VqaW53QGlhc3RhdGUuZWR1DQoNCg0KDQoNCg0KRWR1Y2F0aW9uDQoNClBoLkQuIENpdmlsIEVuZ2luZWVyaW5nLCBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEsIEJlcmtlbGV5LCAxOTk0DQoNCk0uUy4gQ2l2aWwgRW5naW5lZXJpbmcsIENoaW5lc2UgQWNhZGVteSBvZiBTY2llbmNlcyAoQmVpamluZywgQ2hpbmEpLCAxOTg1DQoNCkIuUy4gQ2l2aWwgRW5naW5lZXJpbmcsIEhlZmVpIFVuaXZlcnNpdHkgb2YgVGVjaG5vbG9neSAoSGVmZWksIENoaW5hKSwgMTk4Mg0KDQpJbnRlcmVzdCBBcmVhcw0KDQpLZWppbiBXYW5nJ3MgcmVzZWFyY2ggaW50ZXJlc3RzIGluY2x1ZGUgY2hlbWlzdHJ5IGFuZCBtaWNyb3N0cnVjdHVyZSBvZiBjb25jcmV0ZSwgcG9ydGxhbmQgY2VtZW50IGFuZCBzdXBwbGVtZW50YXJ5IGNlbWVudGl0aW91cyBtYXRlcmlhbHMgKHVzZXMgb2Ygc2xhZywgZmx5IGFzaCwgc2lsaWNhIGZ1bWUsIGV0Yy4pLCBjb25jcmV0ZSBwYXZlbWVudHMgKG1peCBkZXNpZ24sIHRlc3QgbWV0aG9kcywgYW5kIHN1cmZhY2UgY2hhcmFjdGVyaXphdGlvbiksIHNwZWNpYWwgY29uY3JldGUgKHBhcnRpY3VsYXJseSBpbiBzZWxmLWNvbnNvbGlkYXRpbmcgY29uY3JldGUgYW5kIHBlcnZpb3VzIGNvbmNyZXRlKSwgY29uY3JldGUgZHVyYWJpbGl0eSAoYWxrYWxpLXNpbGljYSByZWFjdGlvbiwgZnJlZXplLXRoYXcgYW5kIHN0ZWVsIGNvcnJvc2lvbiksIGFuZCBjb25jcmV0ZSBkaXN0cmVzcyBhbmQgcmVwYWlyLg0KDQpIZXIgcmVjZW50IHJlc2VhcmNoIHByb2plY3RzIGluY2x1ZGU6IA0KDQpTZXF1ZXN0ZXJpbmcgTGVhZCBpbiBQYWludCBieSBVdGlsaXppbmcgRGVjb25zdHJ1Y3RlZCBNYXNvbnJ5IE1hdGVyaWFscyBhcyBSZWN5Y2xlZCBBZ2dyZWdhdGUgaW4gQ29uY3JldGUgKFBJLCBzcG9uc29yOiBTdHJhdGVnaWMgRW52aXJvbm1lbnRhbCBSZXNlYXJjaCBhbmQgRGV2ZWxvcG1lbnQgUHJvZ3JhbSAoU0VST1ApKTsgDQoNCkltcHJvdmluZyBWYXJpYWJpbGl0eSBhbmQgUHJlY2lzaW9uIG9mIEFpciBWb2lkIEFuYWx5emVyIChBVkEpIFRlc3QgUmVzdWx0cyBhbmQgRGV2ZWxvcGluZyBSYXRpb25hbCBTcGVjaWZpY2F0aW9uIExpbWl0cyAoUGhhc2UgMSkgKENvLVBJLCBzcG9uc29yOiBGZWRlcmFsIEhpZ2h3YXkgQWRtaW5pc3RyYXRpb24gKEZIV0EpKTsgDQoNClNlbGYtQ29tcGFjdGluZyBDb25jcmV0ZSAtIEFwcGxpY2F0aW9ucyB0byBTbGlwIEZvcm0gUGF2aW5nIChQSSwgc3BvbnNvcnM6IEZIV0EsIFN0YXRlIERlcGFydG1lbnQgb2YgVHJhbnNwb3J0YXRpb24gKERPVCksIGFuZCBJbmR1c3RyeS0gUG9vbGVkIEZ1bmQpOyANCg0KRGV2ZWxvcCBhIFNpbXBsZSBhbmQgUmFwaWQgVGVzdCBmb3IgTW9uaXRvcmluZyBIZWF0IEV2b2x1dGlvbiBvZiBDb25jcmV0ZSBmb3IgTGFiIGFuZCBGaWVsZCAoUEksIHNwb25zb3I6IEZIV0EpOyANCg0KUGVydmlvdXMgQ29uY3JldGUgTWl4IERlc2lnbiBmb3IgUGF2ZW1lbnQgV2VhcmluZyBDb3Vyc2UgQXBwbGljYXRpb24gKENvLVBJLCBzcG9uc29yczogTmF0aW9uYWwgQ2VudGVyIGZvciBDb25jcmV0ZSBQYXZlbWVudCBUZWNobm9sb2d5IChDUCBUZWNoIENlbnRlcikgYW5kIFJNQyBSZXNlYXJjaCBhbmQgRWR1Y2F0aW9uIEZvdW5kYXRpb24pOyANCg0KRGV2ZWxvcG1lbnQgb2YgUGVyZm9ybWFuY2UgUHJvcGVydGllcyBvZiBUZXJuYXJ5IE1peGVzIChDby1QSSwgc3BvbnNvcnM6IEZIV0EvU3RhdGUgRE9Ucy8gSW5kdXN0cnkpOyANCg0KVW5kZXJzdGFuZGluZyByaGVvbG9neSBvZiBjZW1lbnQtYmFzZWQgbWF0ZXJpYWxzIHRocm91Z2ggaW50ZWdyYXRlZCBleHBlcmltZW50cyBhbmQgY29tcHV0YXRpb25zIGF0IG11bHRpcGxlIHNjYWxlcyAoUEksIFNwb25zb3I6IE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbikNCg0KQnJpZWYgQmlvZ3JhcGh5DQoNCg0KDQpFeHBlcmllbmNlDQoNCjIwMDAtUHJlc2VudCwgUENDIEVuZ2luZWVyICwgQ1RSRQ0KDQpDb25kdWN0cyByZXNlYXJjaCBvbiB0aGUgbWF0ZXJpYWwgcHJvcGVydGllcyBvZiBwb3J0bGFuZCBjZW1lbnQgY29uY3JldGUgYW5kIGNvbmNyZXRlIGR1cmFiaWxpdHkuIA0KDQoxOTk3LTE5OTcsIERlc2lnbi9Qcm9qZWN0IEVuZ2luZWVyICwgRGVzbWFuIGFuZCBBc3NvY2lhdGVzLCBDaGljYWdvLCBJTCANCg0KMTk5NS0yMDAwLCBBZGp1bmN0IFByb2Zlc3Nvci9SZXNlYXJjaCBBc3NvY2lhdGUgLCBOb3J0aHdlc3Rlcm4gVW5pdmVyc2l0eSANCg0KMTk4Ni0xOTg4LCBBc3Npc3RhbnQgUHJvZmVzc29yL0xlY3R1cmVyICwgSGVmZWkgVW5pdmVyc2l0eSBvZiBUZWNobm9sb2d5LCBDaGluYSANCg0KMTk4Mi0xOTg2LCBSZXNlYXJjaCBFbmdpbmVlciAsIEluc3RpdHV0ZSBvZiBTdHJ1Y3R1cmVzIGFuZCBNYXRlcmlhbHMsIEJlaWppbmcsIENoaW5hIA0KDQpFZHVjYXRpb24NCg0KUGhELCAxOTk0LCBTdHJ1Y3R1cmVzIGFuZCBNYXRlcmlhbHMsIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYS0tQmVya2VsZXksIEJlcmtlbGV5LCBDQSwgVVNBIA0KDQpNUywgMTk4NSwgU3RydWN0dXJlcyBhbmQgTWF0ZXJpYWxzLCBDaGluZXNlIEFjYWRlbXkgb2YgU2NpZW5jZXMsIEJlaWppbmcsIENoaW5hIA0KDQpCUywgMTk4MiwgQ2l2aWwgRW5naW5lZXJpbmcsIEhlZmVpIFVuaXZlcnNpdHkgb2YgVGVjaG5vbG9neSwgSGVmZWksIENoaW5hIA0KDQpUZWFjaGluZw0KDQpDRSAzODIgLSBEZXNpZ24gb2YgQ29uY3JldGVzDQoNCkNFIDM4MyAtIERlc2lnbiBvZiBQb3J0bGFuZCBDZW1lbnQgQ29uY3JldGVzDQoNCkNFIDU4NyAtIEFkdmFuY2VkIFBvcnRsYW5kIENlbWVudCBDb25jcmV0ZXMNCg0KDQoNCkhvbm9ycyBhbmQgQXdhcmRzIA0KDQpKb3VybmFsIG9mIEFTVE0gSW50ZXJuYXRpb25hbCBBd2FyZCBmb3IgIjIwMDggT3V0c3RhbmRpbmcgRWRpdG9yaWFsIEJvYXJkIE1lbWJlciwiIDIwMDgNCg0KSG9ub3JhcnkgUHJvZmVzc29yLCBTY2hvb2wgb2YgQ2l2aWwgRW5naW5lZXJpbmcsIENob25ncWluZyBKaWFvdG9uZyBVbml2ZXJzaXR5IG9mIFRlY2hub2xvZ3ksIENoaW5hLCAyMDA4IA0KDQpDaGFybGVzIFcuIFNjaGFmZXIgRmFjdWx0eSBBd2FyZCBmb3IgIkV4Y2VsbGVuY2UgaW4gVGVhY2hpbmcsIFJlc2VhcmNoIGFuZCBTZXJ2aWNlIGluIENpdmlsLCBDb25zdHJ1Y3Rpb24sIGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCIgSW93YSBTdGF0ZSBVbml2ZXJzaXR5LCAyMDA2IA0KDQpIb25vcmFyeSBQcm9mZXNzb3IsIFNjaG9vbCBvZiBDaXZpbCBFbmdpbmVlcmluZywgSGVmZWkgVW5pdmVyc2l0eSBvZiBUZWNobm9sb2d5LCBDaGluYSwgMjAwNiANCg0KSG9ub3JhcnkgUHJvZmVzc29yLCBTY2hvb2wgb2YgQ2l2aWwgRW5naW5lZXJpbmcsIExhbnpob3UgSmlhb3RvbmcgVW5pdmVyc2l0eSwgQ2hpbmEsIDIwMDMNCg0KU2VsZWN0ZWQgUHVibGljYXRpb25zDQoNCkcuIEx1LCBLLiBXYW5nLCBULiBKIFJ1ZG9scGhpLiAiTW9kZWxpbmcgUmhlb2xvZ2ljYWwgQmVoYXZpb3Igb2YgSGlnaGx5IEZsb3dhYmxlIE1vcnRhciBVc2luZyBDb25jZXB0cyBvZiBQYXJ0aWNsZSBhbmQgRmx1aWQgTWVjaGFuaWNzLiIgQ2VtZW50IGFuZCBDb25jcmV0ZSBDb21wb3NpdGVzLCBWb2wuIDMwLCBJc3N1ZSAxLCAxLTEyICgyMDA4KQ0KDQpGLiBCZWt0YXMsIEsuIFdhbmcsIGFuZCBILiBDZXlsYW4uICJFZmZlY3Qgb2YgUG9ydGxhbmQgQ2VtZW50IEZpbmVuZXNzIG9uIEFTVE0gQzEyNjAgRXhwYW5zaW9uLiIgSm91cm5hbCBvZiBUZXN0aW5nIGFuZCBFdmFsdWF0aW9uLCBWb2wuIDM2LCBwLiA0MzYtNDQyLCAyMDA4DQoNCkYuIEJla3RhcywsIEsuIFdhbmcsIEguIENleWxhbi4gIlVzZSBvZiBHcm91bmQgQ2xheSBCcmljayBhcyBhIFBvenpvbGFuaWMgTWF0ZXJpYWwgaW4gQ29uY3JldGUuIiBKb3VybmFsIG9mIEFTVE0gSW50ZXJuYXRpb25hbCwgdjUsIG4xMCwgSUQ6IEpBSTEwMTY4MSAoTm92ZW1iZXIgMjAwOCkNCg0KWi4gR2UgYW5kIEsuIFdhbmcuICJNb2RpZmllZCBIZWF0IG9mIEh5ZHJhdGlvbiBhbmQgU3RyZW5ndGggTW9kZWxzIGZvciBDb25jcmV0ZSBDb250YWluaW5nIEZseSBBc2ggYW5kIFNsYWcuIiBJbnRlcm5hdGlvbmFsIEpvdXJuYWwgb2YgQ29tcHV0ZXJzIGFuZCBDb25jcmV0ZSwgVm9sLiA2LCBOby4gMSwgcCAxOS00MCwgMjAwOQ0KDQpaLiBHZSwgSy4gV2FuZywgUC4gSi4gU2FuZGJlcmcsIEouIE0uIFJ1aXouICJDaGFyYWN0ZXJpemF0aW9uIG9mIENlbWVudC0gYmFzZWQgTWF0ZXJpYWxzIFVzaW5nIGEgU2ltcGxlIElzb3RoZXJtYWwgQ2Fsb3JpbWV0ZXIuIiBKb3VybmFsIG9mIEFkdmFuY2VkIENvbmNyZXRlIFRlY2hub2xvZ3ksIHZvbHVtZSA3LCBOby4gMywgT2N0b2JlciAyMDA5DQoNCkouVC4gS2V2ZXJuLCBLLiBXYW5nLCBhbmQgVi5SLiBTY2hhZWZlci4gIlRlc3QgTWV0aG9kcyBmb3IgQ2hhcmFjdGVyaXppbmcgQWlyIFZvaWQgU3lzdGVtcyBpbiBQb3J0bGFuZCBDZW1lbnQgUGVydmlvdXMgQ29uY3JldGUuIiBKb3VybmFsIG9mIEFTVE0gSW50ZXJuYXRpb25hbCBWb2wuIDYsIE5vLiA5IChJRCBKQUkxMDI0NTEpLCAyMDA5DQoNCkcuIExvbWJveSwgSy4gV2FuZy4gIkVmZmVjdHMgb2YgU3RyZW5ndGgsIFBlcm1lYWJpbGl0eSwgYW5kIEFpciBWb2lkIFBhcmFtZXRlcnMgb24gRnJlZXppbmctVGhhd2luZyBSZXNpc3RhbmNlIG9mIENvbmNyZXRlIFdpdGggYW5kIFdpdGhvdXQgQWlyIEVudHJhaW5tZW50LiIgSm91cm5hbCBvZiBBU1RNIEludGVybmF0aW9uYWwsIFZvbC4gNiwgTm8uIDEwLCAoSUQgSkFJMTAyNDU0KSwgMjAwOQ0KDQpHLiBMdSBhbmQgSy4gV2FuZy4gIkludmVzdGlnYXRpb24gaW50byBZaWVsZCBCZWhhdmlvciBvZiBGcmVzaCBDZW1lbnQgUGFzdGU6IG1vZGVsIGFuZCBleHBlcmltZW50LiIgQUNJIE1hdGVyaWFscyBKb3VybmFsLCBWb2wuIDEwNywgTm8uIDEsIHAgMS04LCBKYW51YXJ5LUZlYnJ1YXJ5LCAyMDEwDQoNClQuIFZvaWd0LCBKLiBNYmVsZSwgSy4gV2FuZywgUy4gUC4gU2hhaC4gIlVzaW5nIEZseSBBc2gsIENsYXkgYW5kIEZpYmVycyBmb3IgU2ltdWx0YW5lb3VzIEltcHJvdmVtZW50IG9mIENvbmNyZXRlIEdyZWVuIFN0cmVuZ3RoIGFuZCBDb25zb2xpZGF0YWJpbGl0eSBmb3IgU2xpcC1mb3JtIFBhdmVtZW50LiIoYWNjZXB0ZWQgYnkgQVNDRSBNYXQuIEouIFNlcHRlbWJlciAyMDA5KQ0KDQpLZXZlcm4sIEouIFQuLCBXYW5nLCBLLiwgYW5kIFNjaGFlZmVyLCBWLiBSLiAiVGhlIEVmZmVjdCBvZiBDb2Fyc2UgQWdncmVnYXRlIG9uIHRoZSBGcmVlemUtVGhhdyBEdXJhYmlsaXR5IG9mIFBlcnZpb3VzIENvbmNyZXRlLiIgQVNDRSBKb3VybmFsIG9mIE1hdGVyaWFscyBpbiBDaXZpbCBFbmdpbmVlcmluZywgMjAwOS4gKEFjY2VwdGVkLCBKdWx5IDA5KQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911440306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:22 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915220306521"  usageLimitType="allocation" usageLimit="200" currentUsage="46" remainingUsage="154" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>James W. Wilson</FormattedName>
+<GivenName>James</GivenName>
+<MiddleName>W.</MiddleName>
+<FamilyName>Wilson</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>19085</PostalCode>
+<Region>PA</Region>
+<Municipality>Villanova</Municipality>
+<DeliveryAddress>
+<AddressLine>800 Lancaster Avenue</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (610) 519-3037</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>610</AreaCityCode>
+<SubscriberNumber>519-3037</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>james.w.wilson@villanova.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Bates College</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1992-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Columbia University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Postdoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Yale University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Postdoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tulane University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Postdoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Arizona State University Biodesign Institute</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Serfecz and L.N</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., C.P. Santiago, J</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Characterization of Salmonella Type III Secretion Hyper-Activity Which Results in Biofilm-Like Cell Aggregation</Title>
+<Name role="author">
+<FormattedName>Jennings ME, Quick LN, Ubol N, Shrom S, Dollahon N, and J.W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>PLoS ONE</JournalOrSerialName>
+<Volume>e33080.</Volume>
+</Article>
+<Article>
+<Title>Microbial stress: spaceflight-induced alterations in microbial virulence and infectious disease risks for the crew</Title>
+<Name role="author">
+<FormattedName>Ott, C. M., A.CrabbÃ©, J. W. Wilson, J. Barrila, S. L. Castro, and C. A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In &quot;Stress Challenges and Immunity in Space&quot; ed</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Self-transmissible IncP R995 plasmids with alternative markers and utility for Flp/FRT cloning strategies</Title>
+<Name role="author">
+<FormattedName>Santiago, C. P., L. N. Quick, and J. W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Characterization of the Salmonella enterica Serovar Typhimurium ydcI Gene</Title>
+<Name role="author">
+<FormattedName>Jennings ME, Quick LN, Soni A, Davis RR, Crosby K, Ott CM, Nickerson CA, and J.W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Which Encodes a Conserved DNA Binding Protein Required for Full Acid Stress Resistance</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Analysis of interactions of Salmonella type III secretion mutants with 3-D intestinal epithelial cells</Title>
+<Name role="author">
+<FormattedName>Radtke, A.L., J.W. Wilson, S. Sarker, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>PLoS ONE</JournalOrSerialName>
+<Volume>5(12):e15750.</Volume>
+</Article>
+<Article>
+<Title>A series of vectors with alternative antibiotic resistance markers for use in lambda Red recombination</Title>
+<Name role="author">
+<FormattedName>Quick, L. N., A. Shah, and J. W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A series of IncQ-based reporter plasmids for use in a range of Gram negative genera</Title>
+<Name role="author">
+<FormattedName>O&apos;Sullivan, L. E., C. A. Nickerson, and J. W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Stomel J.M</Title>
+<Name role="author">
+<FormattedName>J.W. Wilson, M.A. Leon, P. Stafford, and J.C. Chaput</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>A man-made ATP-binding protein evolved independently of nature causes abnormal growth in bacterial cells</JournalOrSerialName>
+</Article>
+<Article>
+<Title>In-vivo excision cloning and broad-host-range transfer of large bacterial DNA segments using VEX-Capture</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W. and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Methods Mol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Cloning and transfer of the Salmonella SPI-2 type III secretion system for studies in a range of Gram negative bacteria</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., C. Coleman, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Appl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A new experimental approach for studying bacterial genomic island evolution identifies island genes with bacterial host-specific expression patterns</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W. and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>BMC Evol Biol</JournalOrSerialName>
+<Volume>6:2.</Volume>
+</Article>
+<Article>
+<Title>Cloning of a functional SPI-1 type III secretion system and development of a method to create mutations and epitope fusions in the cloned genes</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W. and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Biotechnol</JournalOrSerialName>
+<Volume>122(2):147-160.</Volume>
+</Article>
+<Article>
+<Title>Bacterial protein secretion mechanisms</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In C.A</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Genetic exchange in bacteria and the modular structure of mobile DNA elements</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In C.A</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microbial responses to microgravity and other low shear environments</Title>
+<Name role="author">
+<FormattedName>Nickerson, C.A., C.M. Ott, J.W. Wilson, R. Ramamurthy, and D.L. Pierson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microarray analysis identifies Salmonella genes belonging to the low-shear modeled microgravity regulon</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., R. Ramamurthy, S. Porwollik, M. McClelland, T. Hammond, P. Allen, C.M. Ott, D.L. Pierson, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Proc</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Low-shear modeled microgravity alters the Salmonella enterica serovar Typhimurium stress response in an RpoS-independent manner</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., C.M. Ott, R. Ramamurthy, S. Porwollik, M. McClelland, D.L. Pierson, C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Appl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Mechanisms of Bacterial Pathogenicity</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., M.J. Schurr, C.L. LeBlanc, R. Ramamurthy, K.L. Buchanan, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Postgrad</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Host-specific incompatibility by 9-bp direct repeats indicates a role in the maintenance of broad-host-range plasmid RK2</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., and D.H. Figurski</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Plasmid</JournalOrSerialName>
+<Volume>47(3):216-23.</Volume>
+</Article>
+<Article>
+<Title>Microarray analysis identifies Salmonella genes belonging to the low-shear modeled microgravity regulon</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., R. Ramamurthy, S. Porwollik, M. McClelland, T. Hammond, P. Allen, C.M. Ott, D.L. Pierson, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Proc</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Low-shear modeled microgravity alters the Salmonella enterica serovar Typhimurium stress response in an RpoS-independent manner</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., C.M. Ott, R. Ramamurthy, S. Porwollik, M. McClelland, D.L. Pierson, C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Appl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Low-shear modeled microgravity: A global environmental regulatory signal affecting bacterial gene expression physiology and pathogenesis</Title>
+<Name role="author">
+<FormattedName>Nickerson, C.A., C.M. Ott, J.W. Wilson, R. Ramamurthy, C.L. Leblanc, K. Honer zu Bentrup, T. Hammond, and D.L. Pierson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>VEX-Capture: a new technique that allows in vivo excision cloning and broad-host-range transfer of large bacterial genomic DNA segments</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., D.F. Figurski, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microbial responses to microgravity and other low shear environments</Title>
+<Name role="author">
+<FormattedName>Nickerson, C.A., C.M. Ott, J.W. Wilson, R. Ramamurthy, and D.L. Pierson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A new experimental approach for studying bacterial genomic island evolution identifies island genes with bacterial host-specific expression patterns</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W. and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>BMC Evol Biol</JournalOrSerialName>
+<Volume>6:2.</Volume>
+</Article>
+<Article>
+<Title>Cloning of a functional SPI-1 type III secretion system and development of a method to create mutations and epitope fusions in the cloned genes</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W. and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Biotechnol</JournalOrSerialName>
+<Volume>122(2):147-160.</Volume>
+</Article>
+<Article>
+<Title>Three-dimensional organotypic models of human colonic epithelium to study the early stages of enteric salmonellosis</Title>
+<Name role="author">
+<FormattedName>Honer zu Bentrup, K., R. Ramamurthy, C.M. Ott, K. Emami, M. Nelman-Gonzalez, J.W. Wilson, E.G. Richter, T.J. Goodwin, J.S. Alexander, D.L. Pierson, N. Pellis, K.L. Buchanan and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Microbes Infect</JournalOrSerialName>
+<Volume>8:1813-1825.</Volume>
+</Article>
+<Article>
+<Title>Bacterial protein secretion mechanisms</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In C.A</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Genetic exchange in bacteria and the modular structure of mobile DNA elements</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In C.A</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Stodieck and T. G. Hammond</Title>
+<Name role="author">
+<FormattedName>Johanson, K., P. L Allen, R. A. Gonzalez-Villalobos, J. Nesbitt, C. A. Nickerson, K. Honer zu Bentrup, J. W. Wilson, R. Ramamurthy, R. D&apos;Elia, K. E. Muse, J. Hammond, J. Freeman, L. S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Haploid deletion strains of Saccharomyces cerevisiae that determine survival during space flight</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A novel quantitative biosystem for modeling physiological fluid shear stress on cells</Title>
+<Name role="author">
+<FormattedName>Nauman, E.A, C.M. Ott, E. Sander, D.L. Tucker, D. Pierson, J.W. Wilson, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Appl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Cloning and transfer of the Salmonella SPI-2 type III secretion system for studies in a range of Gram negative bacteria</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W., C. Coleman, and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Appl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>In-vivo excision cloning and broad-host-range transfer of large bacterial DNA segments using VEX-Capture</Title>
+<Name role="author">
+<FormattedName>Wilson, J.W. and C.A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Methods Mol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Skim Milk Enhances the Preservation of Thawed -80 ï¿½C Bacterial Stocks</Title>
+<Name role="author">
+<FormattedName>Cody, W.L., J.W. Wilson, D.R. Hendrixson, K.S. McIver, K.E. Hagman, C.M. Ott, C.A. Nickerson, M. Schurr</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A man-made ATP-binding protein evolved independently of nature causes abnormal growth in bacterial cells</Title>
+<Name role="author">
+<FormattedName>Stomel, J.M., J.W. Wilson, M.A. Leon, P. Stafford, J.C. Chaput</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>PLoS ONE</JournalOrSerialName>
+<Volume>4(10):e7385.</Volume>
+</Article>
+<Article>
+<Title>A series of vectors with alternative antibiotic resistance markers for use in lambda Red recombination</Title>
+<Name role="author">
+<FormattedName>Quick, L.N., A. Shah and J.W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A series of IncQ-based reporter plasmids for use in a range of Gram negative genera</Title>
+<Name role="author">
+<FormattedName>O&apos;Sullivan, L.E. C.A. Nickerson, and J.W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Analysis of interactions of Salmonella type three secretion mutants with 3-D intestinal epithelial cells</Title>
+<Name role="author">
+<FormattedName>Radtke AL, Wilson JW, Sarker S, Nickerson CA</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>PLoS ONE</JournalOrSerialName>
+<Volume>5(12):e15750.</Volume>
+</Article>
+<Article>
+<Title>Transcriptional and proteomic response of Pseudomonas aeruginosa PAO1 to spaceflight conditions involves Hfq regulation and reveals a role for oxygen</Title>
+<Name role="author">
+<FormattedName>CrabbÃ© A, Schurr MJ, Monsieurs P, Morici L, Schurr J, Wilson JW, Ott CM, Tsaprailis G, Pierson DL, Stefanyshyn-Piper H, Nickerson CA</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Appl Environ Microbiol</JournalOrSerialName>
+<Volume>2011</Volume>
+</Article>
+<Article>
+<Title>Characterization of the Salmonella enterica Serovar Typhimurium ydcI Gene</Title>
+<Name role="author">
+<FormattedName>Jennings ME Quick LN, Soni A Davis RR, Crosby K Ott CM, Nickerson CA, and J.W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Which Encodes a Conserved DNA Binding Protein Required for Full Acid Stress Resistance</JournalOrSerialName>
+</Article>
+<Article>
+<Title>L. N. Quick and J. W. Wilson</Title>
+<Name role="author">
+<FormattedName>Santiago, C. P</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Self-transmissible IncP R995 plasmids with alternative markers and utility for Flp/FRT cloning strategies</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microbial stress: spaceflight-induced alterations in microbial virulence and infectious disease risks for the crew</Title>
+<Name role="author">
+<FormattedName>Ott, C. M., A.CrabbÃ©, J. W. Wilson, J. Barrila, S. L. Castro, and C. A. Nickerson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In &quot;Stress Challenges and Immunity in Space&quot; ed</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Characterization of Salmonella Type III Secretion Hyper-Activity Which Results in Biofilm-Like Cell Aggregation</Title>
+<Name role="author">
+<FormattedName>Jennings ME Quick LN, Ubol N Shrom S, Dollahon N, J.W. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>PLoS ONE</JournalOrSerialName>
+<Volume>e33080.</Volume>
+</Article>
+<Article>
+<Title>Recombination and conjugation as tools for targeted genomic cloning</Title>
+<Name role="author">
+<FormattedName>J.W. Wilson, C.P. Santiago J. Serfecz and L.N. Quick</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In &quot;Directed Mutagenesis&quot; ed</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>SmFtZXMgVy4gV2lsc29uLCBQaC5ELg0KDQpBc3Npc3RhbnQgUHJvZmVzc29yDQoNCk1lbmRlbCBIYWxsIFJtIDEyMkLCoA0KDQpCaW9sb2d5wqANCg0KODAwIExhbmNhc3RlciBBdmVudWXCoA0KDQpWaWxsYW5vdmEsIFBBIDE5MDg1DQoNCkVtYWlsOsKgamFtZXMudy53aWxzb25AdmlsbGFub3ZhLmVkdcKgDQoNClBob25lOsKgKDYxMCkgNTE5LTMwMzcNCg0KaHR0cDovL3d3dzQyLmhvbWVwYWdlLnZpbGxhbm92YS5lZHUvamFtZXMudy53aWxzb24vDQoNCkVkdWNhdGlvbjoNCg0K74K3ICBCLlMuIEJhdGVzIENvbGxlZ2UgMTk5Mg0KDQrvgrcgIFBoLkQuIENvbHVtYmlhIFVuaXZlcnNpdHkgMTk5OA0KDQrvgrcgIFBvc3Rkb2N0b3JhbDogWWFsZSBVbml2ZXJzaXR5IDE5OTgtMjAwMA0KDQrvgrcgIFBvc3Rkb2N0b3JhbDogVHVsYW5lIFVuaXZlcnNpdHkgMjAwMC0yMDA1DQoNCu+CtyAgUG9zdGRvY3RvcmFsOiBBcml6b25hIFN0YXRlIFVuaXZlcnNpdHkgQmlvZGVzaWduIEluc3RpdHV0ZSAyMDA2LTIwMDgNCg0KUHVibGljYXRpb25zOg0KDQrvgrcgIFdpbHNvbiwgSi5XLiwgQy5QLiBTYW50aWFnbywgSi4gU2VyZmVjeiwgYW5kIEwuTi4gUXVpY2suIDIwMTMuIFJlY29tYmluZWVyaW5nIGFuZCBjb25qdWdhdGlvbiBhcyB0b29scyBmb3IgdGFyZ2V0ZWQgZ2Vub21pYyBjbG9uaW5nLiBJbiAiR2VuZXRpYyBNYW5pcHVsYXRpb24gb2YgRE5BIGFuZCBQcm90ZWluIC0gRXhhbXBsZXMgZnJvbSBDdXJyZW50IFJlc2VhcmNoIiwgZWQuIERyLiBEYXZpZCBGaWd1cnNraSwgSW5UZWNoIFB1Ymxpc2hpbmcuIGh0dHA6Ly93d3cuaW50ZWNob3Blbi5jb20vYXJ0aWNsZXMvc2hvdy90aXRsZS9yZWNvbWJpbmVlcmluZy1hbmQtY29uanVnYXRpb24tYXMtdG9vbHMtZm9yLXRhcmdldGVkLWdlbm9taWMtY2xvbmluZw0KDQrvgrcgIEplbm5pbmdzIE1FLCBRdWljayBMTiwgVWJvbCBOLCBTaHJvbSBTLCBEb2xsYWhvbiBOLCBhbmQgSi5XLiBXaWxzb24uIDIwMTIuIENoYXJhY3Rlcml6YXRpb24gb2YgU2FsbW9uZWxsYSBUeXBlIElJSSBTZWNyZXRpb24gSHlwZXItQWN0aXZpdHkgV2hpY2ggUmVzdWx0cyBpbiBCaW9maWxtLUxpa2UgQ2VsbCBBZ2dyZWdhdGlvbi4gUExvUyBPTkUgNygzKTogZTMzMDgwLg0KDQrvgrcgIE90dCwgQy4gTS4sIEEuQ3JhYmLDqSwgSi4gVy4gV2lsc29uLCBKLiBCYXJyaWxhLCBTLiBMLiBDYXN0cm8sIGFuZCBDLiBBLiBOaWNrZXJzb24uIDIwMTIuIE1pY3JvYmlhbCBzdHJlc3M6IHNwYWNlZmxpZ2h0LWluZHVjZWQgYWx0ZXJhdGlvbnMgaW4gbWljcm9iaWFsIHZpcnVsZW5jZSBhbmQgaW5mZWN0aW91cyBkaXNlYXNlIHJpc2tzIGZvciB0aGUgY3Jldy4gSW4gIlN0cmVzcyBDaGFsbGVuZ2VzIGFuZCBJbW11bml0eSBpbiBTcGFjZSIsIGVkLiBBLiBDaG91a2VyLiBTcHJpbmdlciBQcmVzcywgSW5jLiBQYWdlcyAyMDMtMjI2Lg0KDQrvgrcgIFNhbnRpYWdvLCBDLiBQLiwgTC4gTi4gUXVpY2ssIGFuZCBKLiBXLiBXaWxzb24uIDIwMTEuIFNlbGYtdHJhbnNtaXNzaWJsZSBJbmNQIFI5OTUgcGxhc21pZHMgd2l0aCBhbHRlcm5hdGl2ZSBtYXJrZXJzIGFuZCB1dGlsaXR5IGZvciBGbHAvRlJUIGNsb25pbmcgc3RyYXRlZ2llcy4gSi4gTWljcm9iaW9sLiBCaW90ZWNobm9sLiAyMSgxMSk6MTEyMy0xMTI2Lg0KDQrvgrcgIEplbm5pbmdzIE1FLCBRdWljayBMTiwgU29uaSBBLCBEYXZpcyBSUiwgQ3Jvc2J5IEssIE90dCBDTSwgTmlja2Vyc29uIENBLCBhbmQgSi5XLiBXaWxzb24uIDIwMTEuIENoYXJhY3Rlcml6YXRpb24gb2YgdGhlIFNhbG1vbmVsbGEgZW50ZXJpY2EgU2Vyb3ZhciBUeXBoaW11cml1bSB5ZGNJIEdlbmUsIFdoaWNoIEVuY29kZXMgYSBDb25zZXJ2ZWQgRE5BIEJpbmRpbmcgUHJvdGVpbiBSZXF1aXJlZCBmb3IgRnVsbCBBY2lkIFN0cmVzcyBSZXNpc3RhbmNlLiBKLiBCYWN0ZXJpb2wuIDE5Myg5KToyMjA4LTE3Lg0KDQrvgrcgIENyYWJiZSwgQS4sIE0uSi4gU2NodXJyLCBQLiBNb25zaWV1cnMsIEouIFNjaHVyciwgSi5XLiBXaWxzb24sIEMuTS4gT3R0LCBldC4gYWwuIDIwMTEuIFRyYW5zY3JpcHRpb25hbCBhbmQgcHJvdGVvbWljIHJlc3BvbnNlcyBvZiBQc2V1ZG9tb25hcyBhZXJ1Z2lub3NhIFBBTzEgdG8gc3BhY2VmbGlnaHQgY29uZGl0aW9ucyBpbnZvbHZlIEhmcSByZWd1bGF0aW9uIGFuZCByZXZlYWwgYSByb2xlIGZvciBveHlnZW4uIEFwcGwuIEVudmlyb24uIE1pY3JvYmlvbC4gNzcoNCk6MTIyMS0zMA0KDQrvgrcgIFJhZHRrZSwgQS5MLiwgSi5XLiBXaWxzb24sIFMuIFNhcmtlciwgYW5kIEMuQS4gTmlja2Vyc29uLiAyMDEwLiBBbmFseXNpcyBvZiBpbnRlcmFjdGlvbnMgb2YgU2FsbW9uZWxsYSB0eXBlIElJSSBzZWNyZXRpb24gbXV0YW50cyB3aXRoIDMtRCBpbnRlc3RpbmFsIGVwaXRoZWxpYWwgY2VsbHMuIFBMb1MgT05FLiA1KDEyKTplMTU3NTAuDQoNCu+CtyAgUXVpY2ssIEwuIE4uLCBBLiBTaGFoLCBhbmQgSi4gVy4gV2lsc29uLiAyMDEwLiBBIHNlcmllcyBvZiB2ZWN0b3JzIHdpdGggYWx0ZXJuYXRpdmUgYW50aWJpb3RpYyByZXNpc3RhbmNlIG1hcmtlcnMgZm9yIHVzZSBpbiBsYW1iZGEgUmVkIHJlY29tYmluYXRpb24uIEouIE1pY3JvYmlvbC4gQmlvdGVjaG5vbC4gMjAoNCk6NjY2LTkuDQoNCu+CtyAgTydTdWxsaXZhbiwgTC4gRS4sIEMuIEEuIE5pY2tlcnNvbiwgYW5kIEouIFcuIFdpbHNvbi4gMjAxMC4gQSBzZXJpZXMgb2YgSW5jUS1iYXNlZCByZXBvcnRlciBwbGFzbWlkcyBmb3IgdXNlIGluIGEgcmFuZ2Ugb2YgR3JhbSBuZWdhdGl2ZSBnZW5lcmEuIEouIE1pY3JvYmlvbC4gQmlvdGVjaG5vbC4gMjAoNSk6ODcxLTg3NC4NCg0K74K3ICBTdG9tZWwsIEouTS4sIEouVy4gV2lsc29uLCBNLkEuIExlb24sIFAuIFN0YWZmb3JkLCBhbmQgSi5DLiBDaGFwdXQuIDIwMDkuIEEgbWFuLW1hZGUgQVRQLWJpbmRpbmcgcHJvdGVpbiBldm9sdmVkIGluZGVwZW5kZW50bHkgb2YgbmF0dXJlIGNhdXNlcyBhYm5vcm1hbCBncm93dGggaW4gYmFjdGVyaWFsIGNlbGxzLiBQTG9TIE9ORS4gNCgxMCk6NzM4NS4NCg0K74K3ICBXaWxzb24sIEouVy4sIEMuTS4gT3R0LCBMLiBRdWljaywgUi4gRGF2aXMsIGV0LmFsLiAyMDA4LiBNZWRpYSBpb24gY29tcG9zaXRpb24gY29udHJvbHMgcmVndWxhdG9yeSBhbmQgdmlydWxlbmNlIHJlc3BvbnNlIG9mU2FsbW9uZWxsYcKgaW4gc3BhY2VmbGlnaHQuIFBMb1MgT05FLiAzKDEyKTozOTIzLg0KDQrvgrcgIFdpbHNvbiwgSi5XLiBhbmQgQy5BLiBOaWNrZXJzb24uIDIwMDcuIEluLXZpdm8gZXhjaXNpb24sIGNsb25pbmcsIGFuZCBicm9hZC1ob3N0LXJhbmdlIHRyYW5zZmVyIG9mIGxhcmdlIGJhY3RlcmlhbCBETkEgc2VnbWVudHMgdXNpbmcgVkVYLUNhcHR1cmUuIE1ldGhvZHMgTW9sLiBCaW9sLiAzOTQ6MTA1LTExOC4NCg0K74K3ICBXaWxzb24sIEouVy4sIEMuTS4gT3R0LCBLLiBIb25lciB6dSBCZW50cnVwLCBldC4gYWwuIDIwMDcuIFNwYWNlZmxpZ2h0IGFsdGVycyBiYWN0ZXJpYWwgZ2VuZSBleHByZXNzaW9uIGFuZCB2aXJ1bGVuY2UgYW5kIHJldmVhbHMgYSByb2xlIGZvciBnbG9iYWwgcmVndWxhdG9yIEhmcS4gUHJvYy4gTmF0bC4gQWNhZC4gU2NpLiBVU0EuIDEwNCg0MSk6MTYyOTktMTYzMDQuDQoNCu+CtyAgV2lsc29uLCBKLlcuLCBDLiBDb2xlbWFuLCBhbmQgQy5BLiBOaWNrZXJzb24uIDIwMDcuIENsb25pbmcgYW5kIHRyYW5zZmVyIG9mIHRoZSBTYWxtb25lbGxhIFNQSS0yIHR5cGUgSUlJIHNlY3JldGlvbiBzeXN0ZW0gZm9yIHN0dWRpZXMgaW4gYSByYW5nZSBvZiBHcmFtIG5lZ2F0aXZlIGJhY3RlcmlhLiBBcHBsLiBFbnZpcm9uLiBNaWNyb2Jpb2wuIDczKDE4KTo1OTExLTU5MTguDQoNCu+CtyAgV2lsc29uLCBKLlcuIGFuZCBDLkEuIE5pY2tlcnNvbi4gMjAwNi4gQSBuZXcgZXhwZXJpbWVudGFsIGFwcHJvYWNoIGZvciBzdHVkeWluZyBiYWN0ZXJpYWwgZ2Vub21pYyBpc2xhbmQgZXZvbHV0aW9uIGlkZW50aWZpZXMgaXNsYW5kIGdlbmVzIHdpdGggYmFjdGVyaWFsIGhvc3Qtc3BlY2lmaWMgZXhwcmVzc2lvbiBwYXR0ZXJucy4gQk1DIEV2b2wgQmlvbC4gNjoyLg0KDQrvgrcgIFdpbHNvbiwgSi5XLiBhbmQgQy5BLiBOaWNrZXJzb24uIDIwMDYuIENsb25pbmcgb2YgYSBmdW5jdGlvbmFsIFNQSS0xIHR5cGUgSUlJIHNlY3JldGlvbiBzeXN0ZW0gYW5kIGRldmVsb3BtZW50IG9mIGEgbWV0aG9kIHRvIGNyZWF0ZSBtdXRhdGlvbnMgYW5kIGVwaXRvcGUgZnVzaW9ucyBpbiB0aGUgY2xvbmVkIGdlbmVzLiBKLiBCaW90ZWNobm9sLiAxMjIoMik6MTQ3LTE2MC4NCg0K74K3ICBXaWxzb24sIEouVy4gMjAwNi4gQmFjdGVyaWFsIHByb3RlaW4gc2VjcmV0aW9uIG1lY2hhbmlzbXMuIEluIEMuQS4gTmlja2Vyc29uIGFuZCBNLkouIFNjaHVyciAoZWQuKSwgTW9sZWN1bGFyIFBhcmFkaWdtcyBvZiBJbmZlY3Rpb3VzIERpc2Vhc2U6IEEgQmFjdGVyaWFsIFBlcnNwZWN0aXZlLiBTcHJpbmdlciBQdWJsaXNoaW5nLCBOWSwgTlkuDQoNCu+CtyAgV2lsc29uLCBKLlcuIDIwMDYuIEdlbmV0aWMgZXhjaGFuZ2UgaW4gYmFjdGVyaWEgYW5kIHRoZSBtb2R1bGFyIHN0cnVjdHVyZSBvZiBtb2JpbGUgRE5BIGVsZW1lbnRzLiBJbiBDLkEuIE5pY2tlcnNvbiBhbmQgTS5KLiBTY2h1cnIgKGVkLiksIE1vbGVjdWxhciBQYXJhZGlnbXMgb2YgSW5mZWN0aW91cyBEaXNlYXNlOiBBIEJhY3RlcmlhbCBQZXJzcGVjdGl2ZS4gU3ByaW5nZXIgUHVibGlzaGluZywgTlksIE5ZLg0KDQrvgrcgIE5pY2tlcnNvbiwgQy5BLiwgQy5NLiBPdHQsIEouVy4gV2lsc29uLCBSLiBSYW1hbXVydGh5LCBhbmQgRC5MLiBQaWVyc29uLiAyMDA0LiBNaWNyb2JpYWwgcmVzcG9uc2VzIHRvIG1pY3JvZ3Jhdml0eSBhbmQgb3RoZXIgbG93IHNoZWFyIGVudmlyb25tZW50cy4gTWljcm9iaW9sLiBNb2wuIEJpb2wuIFJldi4gNjggKDIpOiAzNDUtMzYxLg0KDQrvgrcgIFdpbHNvbiwgSi5XLiwgUi4gUmFtYW11cnRoeSwgUy4gUG9yd29sbGlrLCBNLiBNY0NsZWxsYW5kLCBULiBIYW1tb25kLCBQLiBBbGxlbiwgQy5NLiBPdHQsIEQuTC4gUGllcnNvbiwgYW5kIEMuQS4gTmlja2Vyc29uLiAyMDAyLiBNaWNyb2FycmF5IGFuYWx5c2lzIGlkZW50aWZpZXMgU2FsbW9uZWxsYSBnZW5lcyBiZWxvbmdpbmcgdG8gdGhlIGxvdy1zaGVhciBtb2RlbGVkIG1pY3JvZ3Jhdml0eSByZWd1bG9uLiBQcm9jLiBOYXRsLiBBY2FkLiBTY2kuIFUgUyBBLiA5OSgyMSk6MTM4MDctMTM4MTIuDQoNCu+CtyAgV2lsc29uLCBKLlcuLCBDLk0uIE90dCwgUi4gUmFtYW11cnRoeSwgUy4gUG9yd29sbGlrLCBNLiBNY0NsZWxsYW5kLCBELkwuIFBpZXJzb24sIEMuQS4gTmlja2Vyc29uLiAyMDAyLiBMb3ctc2hlYXIgbW9kZWxlZCBtaWNyb2dyYXZpdHkgYWx0ZXJzIHRoZSBTYWxtb25lbGxhIGVudGVyaWNhIHNlcm92YXIgVHlwaGltdXJpdW0gc3RyZXNzIHJlc3BvbnNlIGluIGFuIFJwb1MtaW5kZXBlbmRlbnQgbWFubmVyLiBBcHBsLiBFbnZpcm9uLiBNaWNyb2Jpb2wuIDY4KDExKTo1NDA4LTU0MTYuDQoNCkFyZWFzIG9mIEludGVyZXN0Og0KDQrvgrcgIFdlIHN0dWR5IGdlbmVzIGFuZCBncm93dGggY29uZGl0aW9ucyB0aGF0IGNhbiBiZSB1c2VkIHRvIGVuZ2luZWVyIGJhY3RlcmlhLiBUaGVyZSBpcyBpbW1lbnNlIHBvdGVudGlhbCB0byB1dGlsaXplIGJhY3RlcmlhbCBjZWxscyBmb3IgYSB2YXJpZXR5IG9mIGFwcGxpY2F0aW9ucyB0aGF0IGJlbmVmaXQgc29jaWV0eS4gVGhpcyBwb3RlbnRpYWwgaXMgbW9yZSBxdWlja2x5IGFuZCBlZmZpY2llbnRseSByZWFsaXplZCBieSBtYW5pcHVsYXRpbmcgc3BlY2lmaWMgZ2VuZXMgYW5kIGdyb3d0aCBwYXJhbWV0ZXJzIHVzaW5nIG11bHRpcGxlIGFwcHJvYWNoZXMgdGFpbG9yZWQgdG93YXJkIGRlc2lyZWQgZ29hbHMuIFRoZSB3b3JrIGluIG91ciBsYWIgY2FuIGJlIGRpdmlkZWQgaW50byBmb3VyIG1haW4gYXJlYXM6DQoNCu+CtyAgKDEpIFVuZXhwbG9yZWQgYmFjdGVyaWFswqBnZW5lcy7CoE91ciBwcmV2aW91cyBzdHVkaWVzIGhhdmUgZGVtb25zdHJhdGVkIHRoYXQgc3BlY2lhbGl6ZWQgZ3Jvd3RoIGVudmlyb25tZW50cywgc3VjaCBhcyBzcGFjZWZsaWdodCBhbmQgbG93LWZsdWlkLXNoZWFyIGN1bHR1cmUsIGNhbiBiZSB1c2VkIHRvIGFsdGVyIHRoZSBhYmlsaXR5IG9mIHRoZSBnYXN0cm9pbnRlc3RpbmFsIHBhdGhvZ2VuwqBTYWxtb25lbGxhIHR5cGhpbXVyaXVtwqB0byBjYXVzZSBkaXNlYXNlLiBXZSBoYXZlIGlkZW50aWZpZWQgc2V2ZXJhbCBub3ZlbCB0cmFuc2NyaXB0aW9uYWwgcmVndWxhdG9ycyBpbnZvbHZlZCBpbiB0aGUgcmVzcG9uc2UgdG8gdGhlc2UgZW52aXJvbm1lbnRzIGFuZCBoYXZlIGZvY3VzZWQgb24gc3R1ZHlpbmcgaG93IHRoZXNlIHByZXZpb3VzbHkgdW5jaGFyYWN0ZXJpemVkIHJlZ3VsYXRvcnMgaW1wYWN0IGJhY3RlcmlhbCBncm93dGgsIHN1cnZpdmFsLCBhbmQgdmlydWxlbmNlLg0KDQrvgrcgICgyKSBSb3RhdGluZyB3YWxsIHZlc3NlbCAoUldWKSBjdWx0dXJlLiBUaGUgUldWIGlzIGEgc3BlY2lhbGl6ZWQgZ3Jvd3RoIGFwcGFyYXR1cyB0aGF0IHByb21vdGVzIGJlbmVmaWNpYWwgYmFjdGVyaWFsIHBoZW5vdHlwZXMgdGhhdCBjYW5ub3QgYmUgb2J0YWluZWQgb3RoZXJ3aXNlIHVzaW5nIHRyYWRpdGlvbmFsIGN1bHR1cmUgbWV0aG9kcy4gVGhlIHBvdGVudGlhbCBvZiB0aGUgUldWIHRvIG9wZW4gbmV3IGRvb3JzIGluIGJhY3RlcmlhbCBlbmdpbmVlcmluZyBpcyB2YXN0LiBXZSBoYXZlIGZvY3VzZWQgb24gdXNpbmcgdGhlIFJXViB0byBjdWx0dXJlIGEgcmFuZ2Ugb2YgYmFjdGVyaWFsIHNwZWNpZXMgdG8gZXhwYW5kIHRoZSB1c2VzIG9mIHRoZSBhcHBhcmF0dXMuIFdlIGFsc28gd2FudCB0byBkZXRlcm1pbmUgaWYgc3BlY2lmaWMgcmVzcG9uc2VzIHRvIFJXViBjdWx0dXJlIGFyZSBjb25zZXJ2ZWQgYWNyb3NzIHNwZWNpZXMuDQoNCu+CtyAgKDMpIENsb25lZCB0eXBlIElJSSBzZWNyZXRpb24gc3lzdGVtcy7CoFdlIGhhdmUgY2xvbmVkIHR3byBzZXBhcmF0ZcKgUy4gdHlwaGltdXJpdW3CoHR5cGUgSUlJIHNlY3JldGlvbiBnZW5lIHN5c3RlbXMgdXNpbmcgYSBwbGFzbWlkIHZlY3RvciB0aGF0IGNhbiBlYXNpbHkgdHJhbnNmZXIgYmV0d2VlbiBiYWN0ZXJpYWwgY2VsbHMuIE91ciB3b3JrIGZvY3VzZXMgb24gYnVpbGRpbmcgbmV3IHR5cGUgSUlJIHNlY3JldGlvbiBwbGF0Zm9ybXMgaW4gYSByYW5nZSBvZiBkaWZmZXJlbnQgYmFjdGVyaWFsIHNwZWNpZXMuIFRoZXNlIHRyYW5zZmVycmVkIGdlbmUgc3lzdGVtcyBjYW4gYmUgdXNlZCBmb3IgYSB2YXJpZXR5IG9mIHNwZWNpZmljIGFwcGxpY2F0aW9ucyBpbmNsdWRpbmcgZnVuY3Rpb25hbCBwcm90ZWluIGRpc3BsYXkgYW5kIHZhY2NpbmUgZGVsaXZlcnkuDQoNCu+CtyAgKDQpwqBNb2xlY3VsYXIgcmVhZ2VudHMgZm9yIEROQSBtYW5pcHVsYXRpb24uwqBXZSBkZXNpZ24gYSB2YXJpZXR5IG9mIHBsYXNtaWRzIGFuZCBQQ1IgdGVtcGxhdGVzIHRoYXQgY2FuIGJlIHVzZWQgZm9yIG1vcmUgY29udmVuaWVudCBwZXJmb3JtYW5jZSBvZiBtb2xlY3VsYXIgYmlvbG9naWNhbCB0ZWNobmlxdWVzIHN1Y2ggYXMgbGFtYmRhIFJlZCByZWNvbWJpbmF0aW9uLCBjbG9uaW5nIG9mIGxhcmdlIEROQSBmcmFnbWVudHMsIGFuZCByZXBvcnRlciBnZW5lIGFzc2F5cy4NCg0KDQoNCg0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnMNCg0KwqANCg0KV2lsc29uLCBKLlcuLCBNLkouIFNjaHVyciwgQy5MLiBMZUJsYW5jLCBSLiBSYW1hbXVydGh5LCBLLkwuIEJ1Y2hhbmFuLCBhbmQgQy5BLiBOaWNrZXJzb24uIDIwMDIuIE1lY2hhbmlzbXMgb2YgQmFjdGVyaWFsIFBhdGhvZ2VuaWNpdHkuwqAgUG9zdGdyYWQuIE1lZC4gSi7CoCA3ODoyMTYtMjI0Lg0KDQpXaWxzb24sIEouVy4sIGFuZCBELkguIEZpZ3Vyc2tpLsKgIDIwMDIuwqAgSG9zdC1zcGVjaWZpYyBpbmNvbXBhdGliaWxpdHkgYnkgOS1icCBkaXJlY3QgcmVwZWF0cyBpbmRpY2F0ZXMgYSByb2xlIGluIHRoZSBtYWludGVuYW5jZSBvZiBicm9hZC1ob3N0LXJhbmdlIHBsYXNtaWQgUksyLsKgIFBsYXNtaWQuwqAgNDcoMyk6MjE2LTIzLg0KDQpXaWxzb24sIEouVy4sIFIuIFJhbWFtdXJ0aHksIFMuIFBvcndvbGxpaywgTS4gTWNDbGVsbGFuZCwgVC4gSGFtbW9uZCwgUC4gQWxsZW4sIEMuTS4gT3R0LCBELkwuIFBpZXJzb24sIGFuZCBDLkEuIE5pY2tlcnNvbi7CoCAyMDAyLiBNaWNyb2FycmF5IGFuYWx5c2lzIGlkZW50aWZpZXMgU2FsbW9uZWxsYSBnZW5lcyBiZWxvbmdpbmcgdG8gdGhlIGxvdy1zaGVhciBtb2RlbGVkIG1pY3JvZ3Jhdml0eSByZWd1bG9uLsKgIFByb2MuIE5hdGwuIEFjYWQuIFNjaS4gVSBTIEEuwqAgOTkoMjEpOjEzODA3LTEzODEyLg0KDQpXaWxzb24sIEouVy4swqAgQy5NLiBPdHQsIFIuIFJhbWFtdXJ0aHksIFMuIFBvcndvbGxpaywgTS4gTWNDbGVsbGFuZCwgRC5MLiBQaWVyc29uLCBDLkEuIE5pY2tlcnNvbi7CoCAyMDAyLsKgIExvdy1zaGVhciBtb2RlbGVkIG1pY3JvZ3Jhdml0eSBhbHRlcnMgdGhlIFNhbG1vbmVsbGEgZW50ZXJpY2Egc2Vyb3ZhciBUeXBoaW11cml1bSBzdHJlc3MgcmVzcG9uc2UgaW4gYW4gUnBvUy1pbmRlcGVuZGVudCBtYW5uZXIuwqAgQXBwbC7CoCBFbnZpcm9uLiBNaWNyb2Jpb2wuwqAgNjgoMTEpOjU0MDgtNTQxNi4NCg0KTmlja2Vyc29uLCBDLkEuLCBDLk0uIE90dCwgSi5XLiBXaWxzb24sIFIuIFJhbWFtdXJ0aHksIEMuTC4gTGVibGFuYywgSy4gSG9uZXIgenUgQmVudHJ1cCwgVC4gSGFtbW9uZCwgYW5kIEQuTC4gUGllcnNvbi7CoCAyMDAzLsKgIExvdy1zaGVhciBtb2RlbGVkIG1pY3JvZ3Jhdml0eTrCoCBBIGdsb2JhbCBlbnZpcm9ubWVudGFsIHJlZ3VsYXRvcnkgc2lnbmFsIGFmZmVjdGluZyBiYWN0ZXJpYWwgZ2VuZSBleHByZXNzaW9uLCBwaHlzaW9sb2d5IGFuZCBwYXRob2dlbmVzaXMuwqAgSi4gTWljcm9iaW9sLiBNZXRob2RzLsKgIDU0OjEtMTEuDQoNCldpbHNvbiwgSi5XLiwgRC5GLiBGaWd1cnNraSwgYW5kIEMuQS4gTmlja2Vyc29uLsKgIDIwMDQuwqAgVkVYLUNhcHR1cmU6wqAgYSBuZXcgdGVjaG5pcXVlIHRoYXQgYWxsb3dzIGluIHZpdm8gZXhjaXNpb24sIGNsb25pbmcsIGFuZCBicm9hZC1ob3N0LXJhbmdlIHRyYW5zZmVyIG9mIGxhcmdlIGJhY3RlcmlhbCBnZW5vbWljIEROQSBzZWdtZW50cy7CoCBKLiBNaWNyb2Jpb2wuIE1ldGhvZHMuwqAgNTc6Mjk3LTMwOC4NCg0KTmlja2Vyc29uLCBDLkEuLCBDLk0uIE90dCwgSi5XLiBXaWxzb24sIFIuIFJhbWFtdXJ0aHksIGFuZCBELkwuIFBpZXJzb24uwqAgMjAwNC7CoCBNaWNyb2JpYWwgcmVzcG9uc2VzIHRvIG1pY3JvZ3Jhdml0eSBhbmQgb3RoZXIgbG93IHNoZWFyIGVudmlyb25tZW50cy7CoCBNaWNyb2Jpb2wuIE1vbC4gQmlvbC4gUmV2LsKgIDY4ICgyKTogMzQ1LTM2MS4NCg0KV2lsc29uLCBKLlcuIGFuZCBDLkEuIE5pY2tlcnNvbi4gMjAwNi7CoCBBIG5ldyBleHBlcmltZW50YWwgYXBwcm9hY2ggZm9yIHN0dWR5aW5nIGJhY3RlcmlhbCBnZW5vbWljIGlzbGFuZCBldm9sdXRpb24gaWRlbnRpZmllcyBpc2xhbmQgZ2VuZXMgd2l0aCBiYWN0ZXJpYWwgaG9zdC1zcGVjaWZpYyBleHByZXNzaW9uIHBhdHRlcm5zLsKgIEJNQyBFdm9sIEJpb2wuwqAgNjoyLg0KDQpXaWxzb24sIEouVy4gYW5kIEMuQS4gTmlja2Vyc29uLiAyMDA2LsKgIENsb25pbmcgb2YgYSBmdW5jdGlvbmFsIFNQSS0xIHR5cGUgSUlJIHNlY3JldGlvbiBzeXN0ZW0gYW5kIGRldmVsb3BtZW50IG9mIGEgbWV0aG9kIHRvIGNyZWF0ZSBtdXRhdGlvbnMgYW5kIGVwaXRvcGUgZnVzaW9ucyBpbiB0aGUgY2xvbmVkIGdlbmVzLsKgIEouIEJpb3RlY2hub2wuIDEyMigyKToxNDctMTYwLg0KDQpIb25lciB6dSBCZW50cnVwLCBLLiwgUi4gUmFtYW11cnRoeSwgQy5NLiBPdHQsIEsuIEVtYW1pLCBNLiBOZWxtYW4tR29uemFsZXosIEouVy4gV2lsc29uLCBFLkcuIFJpY2h0ZXIsIFQuSi4gR29vZHdpbiwgSi5TLiBBbGV4YW5kZXIsIEQuTC4gUGllcnNvbiwgTi4gUGVsbGlzLCBLLkwuIEJ1Y2hhbmFuIGFuZCBDLkEuIE5pY2tlcnNvbi7CoCAyMDA2LsKgIFRocmVlLWRpbWVuc2lvbmFsIG9yZ2Fub3R5cGljIG1vZGVscyBvZiBodW1hbiBjb2xvbmljIGVwaXRoZWxpdW0gdG8gc3R1ZHkgdGhlIGVhcmx5IHN0YWdlcyBvZiBlbnRlcmljIHNhbG1vbmVsbG9zaXMuwqAgTWljcm9iZXMgSW5mZWN0LiA4OjE4MTMtMTgyNS4NCg0KV2lsc29uLCBKLlcuwqAgMjAwNi7CoCBCYWN0ZXJpYWwgcHJvdGVpbiBzZWNyZXRpb24gbWVjaGFuaXNtcy7CoCBJbiBDLkEuIE5pY2tlcnNvbiBhbmQgTS5KLiBTY2h1cnIgKGVkLiksIE1vbGVjdWxhciBQYXJhZGlnbXMgb2YgSW5mZWN0aW91cyBEaXNlYXNlOiBBIEJhY3RlcmlhbCBQZXJzcGVjdGl2ZS7CoCBTcHJpbmdlciBQdWJsaXNoaW5nLCBOWSwgTlkuDQoNCldpbHNvbiwgSi5XLsKgIDIwMDYuwqAgR2VuZXRpYyBleGNoYW5nZSBpbiBiYWN0ZXJpYSBhbmQgdGhlIG1vZHVsYXIgc3RydWN0dXJlIG9mIG1vYmlsZSBETkEgZWxlbWVudHMuwqAgSW4gQy5BLiBOaWNrZXJzb24gYW5kIE0uSi4gU2NodXJyIChlZC4pLCBNb2xlY3VsYXIgUGFyYWRpZ21zIG9mIEluZmVjdGlvdXMgRGlzZWFzZTogQSBCYWN0ZXJpYWwgUGVyc3BlY3RpdmUuwqAgU3ByaW5nZXIgUHVibGlzaGluZywgTlksIE5ZDQoNCkpvaGFuc29uLCBLLiwgUC4gTCBBbGxlbiwgUi4gQS4gR29uemFsZXotVmlsbGFsb2JvcywgSi4gTmVzYml0dCwgQy4gQS4gTmlja2Vyc29uLCBLLiBIb25lciB6dSBCZW50cnVwLCBKLiBXLiBXaWxzb24sIFIuIFJhbWFtdXJ0aHksIFIuIEQnRWxpYSwgSy4gRS4gTXVzZSwgSi4gSGFtbW9uZCwgSi4gRnJlZW1hbiwgTC4gUy4gU3RvZGllY2ssIGFuZCBULiBHLiBIYW1tb25kLsKgIDIwMDcuwqAgSGFwbG9pZCBkZWxldGlvbiBzdHJhaW5zIG9mIFNhY2NoYXJvbXljZXMgY2VyZXZpc2lhZSB0aGF0IGRldGVybWluZSBzdXJ2aXZhbCBkdXJpbmcgc3BhY2UgZmxpZ2h0LiBBY3RhIEFzdHJvbmF1dGljYS7CoCA2MCg0LTcpOjQ2MC00NzEuwqANCg0KTmF1bWFuLCBFLkEsIEMuTS4gT3R0LCBFLiBTYW5kZXIsIEQuTC4gVHVja2VyLCBELiBQaWVyc29uLCBKLlcuIFdpbHNvbiwgYW5kIEMuQS4gTmlja2Vyc29uLsKgIDIwMDcuwqAgQSBub3ZlbCBxdWFudGl0YXRpdmUgYmlvc3lzdGVtIGZvciBtb2RlbGluZyBwaHlzaW9sb2dpY2FsIGZsdWlkIHNoZWFyIHN0cmVzcyBvbiBjZWxscy7CoCBBcHBsLiBFbnZpcm9uLiBNaWNyb2Jpb2wuwqAgNzMoMyk6Njk5LTcwNS7CoA0KDQpXaWxzb24sIEouVy4sIEMuIENvbGVtYW4sIGFuZCBDLkEuIE5pY2tlcnNvbi4gMjAwNy4gQ2xvbmluZyBhbmQgdHJhbnNmZXIgb2YgdGhlIFNhbG1vbmVsbGEgU1BJLTIgdHlwZSBJSUkgc2VjcmV0aW9uIHN5c3RlbSBmb3Igc3R1ZGllcyBpbiBhIHJhbmdlIG9mIEdyYW0gbmVnYXRpdmUgYmFjdGVyaWEuIEFwcGwuIEVudmlyb24uIE1pY3JvYmlvbC4gNzMoMTgpOjU5MTEtNTkxOC4NCg0KV2lsc29uLCBKLlcuLCBDLk0uIE90dCwgSy4gSG9uZXIgenUgQmVudHJ1cCwgZXQuIGFsLiAyMDA3LiBTcGFjZWZsaWdodCBhbHRlcnMgYmFjdGVyaWFsIGdlbmUgZXhwcmVzc2lvbiBhbmQgdmlydWxlbmNlIGFuZCByZXZlYWxzIGEgcm9sZSBmb3IgZ2xvYmFsIHJlZ3VsYXRvciBIZnEuwqAgUHJvYy4gTmF0bC4gQWNhZC4gU2NpLiBVU0EuwqAgMTA0KDQxKToxNjI5OS0xNjMwNC7CoA0KDQpXaWxzb24sIEouVy4gYW5kIEMuQS4gTmlja2Vyc29uLiAyMDA3LiBJbi12aXZvIGV4Y2lzaW9uLCBjbG9uaW5nLCBhbmQgYnJvYWQtaG9zdC1yYW5nZSB0cmFuc2ZlciBvZiBsYXJnZSBiYWN0ZXJpYWwgRE5BIHNlZ21lbnRzIHVzaW5nIFZFWC1DYXB0dXJlLiBNZXRob2RzIE1vbC4gQmlvbC7CoCAzOTQ6MTA1LTExOC7CoA0KDQpDb2R5LCBXLkwuLMKgSi5XLiBXaWxzb24swqBELlIuIEhlbmRyaXhzb24sIEsuUy4gTWNJdmVyLCBLLkUuIEhhZ21hbiwgQy5NLiBPdHQsIEMuQS4gTmlja2Vyc29uLCBNLiBTY2h1cnIuwqAgMjAwOC7CoCBTa2ltIE1pbGsgRW5oYW5jZXMgdGhlIFByZXNlcnZhdGlvbiBvZiBUaGF3ZWQgLTgwwrBDIEJhY3RlcmlhbCBTdG9ja3MuwqAgSi4gTWljcm9iaW9sLiBNZXRob2RzLsKgIDc1OjEzNS0xMzguwqANCg0KV2lsc29uLCBKLlcuLCBDLk0uIE90dCwgTC4gUXVpY2ssIFIuIERhdmlzLCBLLiBIb25lciB6dSBCZW50cnVwLCBBLiBDcmFiYmUsIEUuIFJpY2h0ZXIsIFMuIFNhcmtlciwgSi4gQmFycmlsYSwgUy4gUG9yd29sbGlrLCBQLiBDaGVuZywgTS4gTWNDbGVsbGFuZCwgRy4gVHNhcHJhaWxpcywgVC4gUmFkYWJhdWdoLCBBLiBIdW50LCBNLiBTaGFoLCBNLiBOZWxtYW4tR29uemFsZXosIFMuIEhpbmcswqAgZXQuIGFsLsKgIDIwMDguwqAgTWVkaWEgaW9uIGNvbXBvc2l0aW9uIGNvbnRyb2xzIHJlZ3VsYXRvcnkgYW5kIHZpcnVsZW5jZSByZXNwb25zZSBvZsKgU2FsbW9uZWxsYcKgaW4gc3BhY2VmbGlnaHQuwqAgUExvUyBPTkUuIDMoMTIpOmUzOTIzLg0KDQpTdG9tZWwsIEouTS4swqBKLlcuIFdpbHNvbiwgTS5BLiBMZW9uLCBQLiBTdGFmZm9yZCwgSi5DLiBDaGFwdXQuwqAgMjAwOS7CoCBBIG1hbi1tYWRlIEFUUC1iaW5kaW5nIHByb3RlaW4gZXZvbHZlZCBpbmRlcGVuZGVudGx5IG9mIG5hdHVyZSBjYXVzZXMgYWJub3JtYWwgZ3Jvd3RoIGluIGJhY3RlcmlhbCBjZWxscy7CoCBQTG9TIE9ORSwgNCgxMCk6ZTczODUuDQoNClF1aWNrLCBMLk4uLCBBLiBTaGFoKiosIGFuZMKgSi5XLiBXaWxzb24uwqAgMjAxMC7CoCBBIHNlcmllcyBvZiB2ZWN0b3JzIHdpdGggYWx0ZXJuYXRpdmUgYW50aWJpb3RpYyByZXNpc3RhbmNlIG1hcmtlcnMgZm9yIHVzZSBpbiBsYW1iZGEgUmVkIHJlY29tYmluYXRpb24uwqAgSi4gTWljcm9iaW9sLiBCaW90ZWNobm9sLsKgIDIwKDQpOjY2Ni02NjkuDQoNCk8nU3VsbGl2YW4sIEwuRS4qKiwgQy5BLiBOaWNrZXJzb24sIGFuZMKgSi5XLiBXaWxzb24uwqAgMjAxMC7CoCBBIHNlcmllcyBvZiBJbmNRLWJhc2VkIHJlcG9ydGVyIHBsYXNtaWRzIGZvciB1c2UgaW4gYSByYW5nZSBvZiBHcmFtIG5lZ2F0aXZlIGdlbmVyYS7CoCBKLiBNaWNyb2Jpb2wuIEJpb3RlY2hub2wuIDIwKDUpOjg3MS04NzQuwqANCg0KUmFkdGtlIEFMLMKgV2lsc29uIEpXLMKgU2Fya2VyIFMsIE5pY2tlcnNvbiBDQS7CoCAyMDEwLsKgIEFuYWx5c2lzIG9mIGludGVyYWN0aW9ucyBvZsKgU2FsbW9uZWxsYcKgdHlwZSB0aHJlZSBzZWNyZXRpb24gbXV0YW50cyB3aXRoIDMtRCBpbnRlc3RpbmFsIGVwaXRoZWxpYWwgY2VsbHMuwqAgUExvUyBPTkUuwqAgNSgxMik6ZTE1NzUwLg0KDQpDcmFiYsOpIEEsIFNjaHVyciBNSiwgTW9uc2lldXJzIFAsIE1vcmljaSBMLCBTY2h1cnIgSizCoFdpbHNvbiBKVyzCoE90dCBDTSwgVHNhcHJhaWxpcyBHLCBQaWVyc29uIERMLCBTdGVmYW55c2h5bi1QaXBlciBILCBOaWNrZXJzb24gQ0EuwqAgMjAxMS7CoCBUcmFuc2NyaXB0aW9uYWwgYW5kIHByb3Rlb21pYyByZXNwb25zZSBvZiBQc2V1ZG9tb25hc8KgYWVydWdpbm9zYSBQQU8xIHRvIHNwYWNlZmxpZ2h0IGNvbmRpdGlvbnMgaW52b2x2ZXMgSGZxIHJlZ3VsYXRpb24gYW5kIHJldmVhbHMgYSByb2xlIGZvciBveHlnZW4uIEFwcGwgRW52aXJvbiBNaWNyb2Jpb2wuIMKgMjAxMSBGZWI7NzcoNCk6MTIyMS0zMC4NCg0KSmVubmluZ3MgTUUqKiosIFF1aWNrIExOLCBTb25pIEEqKiwgRGF2aXMgUlIsIENyb3NieSBLKiosIE90dCBDTSwgTmlja2Vyc29uIENBLCBhbmTCoEouVy4gV2lsc29uLsKgIDIwMTEuwqAgQ2hhcmFjdGVyaXphdGlvbiBvZiB0aGUgU2FsbW9uZWxsYSBlbnRlcmljYSBTZXJvdmFyIFR5cGhpbXVyaXVtIHlkY0kgR2VuZSwgV2hpY2ggRW5jb2RlcyBhIENvbnNlcnZlZCBETkEgQmluZGluZyBQcm90ZWluIFJlcXVpcmVkIGZvciBGdWxsIEFjaWQgU3RyZXNzIFJlc2lzdGFuY2UuwqAgSi4gQmFjdGVyaW9sLsKgIDIwMTEgTWF5OzE5Myg5KToyMjA4LTE3Lg0KDQpTYW50aWFnbywgQy4gUC4gKioqLCBMLiBOLiBRdWljaywgYW5kwqBKLiBXLiBXaWxzb24uIMKgMjAxMS7CoCBTZWxmLXRyYW5zbWlzc2libGUgSW5jUCBSOTk1IHBsYXNtaWRzIHdpdGggYWx0ZXJuYXRpdmUgbWFya2VycyBhbmQgdXRpbGl0eSBmb3IgRmxwL0ZSVCBjbG9uaW5nIHN0cmF0ZWdpZXMuwqAgSi7CoCBNaWNyb2Jpb2wuIEJpb3RlY2hub2wuwqAgMjEoMTEpOjExMjMtMTEyNi7CoCDCoA0KDQpPdHQsIEMuIE0uLCBBLkNyYWJiw6kswqBKLiBXLiBXaWxzb24sIEouIEJhcnJpbGEsIFMuIEwuIENhc3RybywgYW5kIEMuIEEuIE5pY2tlcnNvbi7CoMKgIDIwMTIuwqAgTWljcm9iaWFsIHN0cmVzczogc3BhY2VmbGlnaHQtaW5kdWNlZCBhbHRlcmF0aW9ucyBpbiBtaWNyb2JpYWwgdmlydWxlbmNlIGFuZCBpbmZlY3Rpb3VzIGRpc2Vhc2Ugcmlza3MgZm9yIHRoZSBjcmV3LsKgIEluICJTdHJlc3MgQ2hhbGxlbmdlcyBhbmQgSW1tdW5pdHkgaW4gU3BhY2UiLCBlZC4gQS4gQ2hvdWtlci7CoCBTcHJpbmdlciBQcmVzcywgSW5jLsKgIFBhZ2VzIDIwMy0yMjYuwqANCg0KSmVubmluZ3MgTUUqKiosIFF1aWNrIExOLCBVYm9sIE4qKiosIFNocm9tIFMsIERvbGxhaG9uIE4swqBKLlcuIFdpbHNvbi4gMjAxMi4gQ2hhcmFjdGVyaXphdGlvbiBvZsKgU2FsbW9uZWxsYcKgVHlwZSBJSUkgU2VjcmV0aW9uIEh5cGVyLUFjdGl2aXR5IFdoaWNoIFJlc3VsdHMgaW4gQmlvZmlsbS1MaWtlIENlbGwgQWdncmVnYXRpb24uIFBMb1MgT05FIDcoMyk6IGUzMzA4MC4NCg0KSi5XLiBXaWxzb24sIEMuUC4gU2FudGlhZ28qKiosIEouIFNlcmZlY3oqKiosIGFuZCBMLk4uIFF1aWNrLsKgIDIwMTIuwqAgUmVjb21iaW5hdGlvbiBhbmQgY29uanVnYXRpb24gYXMgdG9vbHMgZm9yIHRhcmdldGVkIGdlbm9taWMgY2xvbmluZy7CoCBJbiAiRGlyZWN0ZWQgTXV0YWdlbmVzaXMiLCBlZC4gRGF2aWQgRmlndXJza2kuwqAgSW4gVGVjaCBQcmVzcywgSW5jLsKgIEluIHByZXNzLsKg</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915220306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

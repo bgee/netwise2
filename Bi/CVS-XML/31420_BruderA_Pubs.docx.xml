@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:54 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912001306521"  usageLimitType="allocation" usageLimit="200" currentUsage="93" remainingUsage="107" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>A. Brown</FormattedName>
+<GivenName>A.</GivenName>
+<FamilyName>Brown</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Pura</Municipality>
+<DeliveryAddress>
+<AddressLine>with parameters Î±=Î²=-1 Ann. Mat.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+<PublicationHistory>
+<Article>
+<Title>the aphids got their spots: Predation drives self-organization of aphid colonies in a patchy habitat</Title>
+<Name role="author">
+<FormattedName>M. Kummel, D. Brown, A. Bruder, How</FormattedName>
+</Name>
+<JournalOrSerialName>Oikos to appear</JournalOrSerialName>
+</Article>
+<Article>
+<Title>orthogonality of the nonclassical Jacobi polynomials with parameters Î±=Î²=-1 Ann</Title>
+<Name role="author">
+<FormattedName>A. Bruder, L. L. Littlejohn, Classical and Sobolev</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>polynomials and Sobolev orthogonality</Title>
+<Name role="author">
+<FormattedName>A. Bruder, L. L. Littlejohn, Non-classical Jacobi</FormattedName>
+</Name>
+<JournalOrSerialName>Results Math</JournalOrSerialName>
+<Volume>61(2012</Volume>
+</Article>
+<Article>
+<Title>theory with applications to orthogonal polynomials J. Comput</Title>
+<Name role="author">
+<FormattedName>A. Bruder, L. L. Littlejohn, D. Tuncer, R. Wellman, Left-definite</FormattedName>
+</Name>
+<JournalOrSerialName>Appl</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5kcmVhIEJydWRlcg0KDQpBc3Npc3RhbnQgUHJvZmVzc29yDQoNClB1YmxpY2F0aW9ucw0KDQoxLiBNLiBLdW1tZWwsIEQuIEJyb3duLCBBLiBCcnVkZXIsIEhvdyB0aGUgYXBoaWRzIGdvdCB0aGVpciBzcG90czogUHJlZGF0aW9uIGRyaXZlcyBzZWxmLW9yZ2FuaXphdGlvbiBvZiBhcGhpZCBjb2xvbmllcyBpbiBhIHBhdGNoeSBoYWJpdGF0LCBPaWtvcywgdG8gYXBwZWFyLg0KDQoyLiBBLiBCcnVkZXIsIEwuIEwuIExpdHRsZWpvaG4sIENsYXNzaWNhbCBhbmQgU29ib2xldiBvcnRob2dvbmFsaXR5IG9mIHRoZSBub25jbGFzc2ljYWwgSmFjb2JpIHBvbHlub21pYWxzIHdpdGggcGFyYW1ldGVycyDOsT3Osj0tMSwgQW5uLiBNYXQuIFB1cmEgQXBwbC4sIHRvIGFwcGVhci4NCg0KMy4gQS4gQnJ1ZGVyLCBMLiBMLiBMaXR0bGVqb2huLCBOb24tY2xhc3NpY2FsIEphY29iaSBwb2x5bm9taWFscyBhbmQgU29ib2xldiBvcnRob2dvbmFsaXR5LCBSZXN1bHRzIE1hdGguLCA2MSAoMjAxMiksIG5vLiAzLTQsIDI4My0zMTMuDQoNCjQuIEEuIEJydWRlciwgTC4gTC4gTGl0dGxlam9obiwgRC4gVHVuY2VyLCBSLiBXZWxsbWFuLCBMZWZ0LWRlZmluaXRlIHRoZW9yeSB3aXRoIGFwcGxpY2F0aW9ucyB0byBvcnRob2dvbmFsIHBvbHlub21pYWxzLCBKLiBDb21wdXQuIEFwcGwuIE1hdGguLCAyMzMgKDIwMTApLCAxMzgwLTEzOTgu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912001306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

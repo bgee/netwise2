@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:14 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916510306521"  usageLimitType="allocation" usageLimit="200" currentUsage="40" remainingUsage="160" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr Atma R. Sahu</FormattedName>
+<GivenName>Atma</GivenName>
+<MiddleName>R.</MiddleName>
+<FamilyName>Sahu</FamilyName>
+<Affix type="formOfAddress">Dr</Affix>
+</PersonName>
+</ContactInfo>
+<Qualifications>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIEF0bWEgUi4gU2FodQ0KDQpQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MNCg0KQ29wcGluIFN0YXRlIFVuaXZlcnNpdHkNCg0KVW5pdmVyc2l0eSBTeXN0ZW0gb2YgTWFyeWxhbmQNCg0KW0Jlc3QgVmlld2VkIGluIEludGVybmV0IEV4cGxvcmVyXQ0KDQoNCg0KKiBQaC4gRC4gQXBwbGllZCBNYXRoZW1hdGljcywgVW5pdmVyc2l0eSBvZiBSb29ya2VlLCAxOTczLCBJbmRpYS4gRGlzc2VydGF0aW9uIFRvcGljOiBPbiBTb21lIFZpYnJhdGlvbnMgUHJvYmxlbXMgb2YgUm90YXRpbmcgYW5kIFByZS10d2lzdGVkIEVsYXN0aWMgQmVhbXMuwqAgDQoNCiogUGguIEQuIE1hdGhlbWF0aWNzIEVkdWNhdGlvbiwgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCBDb2xsZWdlIFBhcmssIDE5ODQsIFVTQS4gRGlzc2VydGF0aW9uIFRvcGljOiBBbiBFeHBsb3JhdGlvbiBvZiBDb2duaXRpdmUtSGV1cmlzdGljIFByb2Nlc3NlcyBhbmQgRGlmZmljdWx0aWVzIGluIFNvbHZpbmcgQ2FsY3VsdXMgV29yZCBQcm9ibGVtcy7CoCANCg0KKiBNLiBTLiBBcHBsaWVkIE1hdGhlbWF0aWNzLCBVbml2ZXJzaXR5IG9mIFJvb3JrZWUsIDE5NzEsIEluZGlhLiBFYXJuZWQgNDIgY3JlZGl0IGhvdXJzIG9mIGZ1bGwtdGltZSBncmFkdWF0ZSBjb3Vyc2Ugd29yayBpbiBNYXRoZW1hdGljczsgRmlyc3QgRGl2aXNpb24uwqAgDQoNCiogTS4gRWQuIFNlY29uZGFyeSBNYXRoZW1hdGljcyBFZHVjYXRpb24sIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQgYXQgQ29sbGVnZSBQYXJrLCAxOTgyLCBVU0EuIEVhcm5lZCAzNiBjcmVkaXQgaG91cnMgb2YgZnVsbC10aW1lIGdyYWR1YXRlIGNvdXJzZSB3b3JrOyBHUEEgMy44NyAoQSA9IDQpLsKgIA0KDQoqIENvbXB1dGVyIFN5c3RlbXMgTWFuYWdlbWVudCwgUHJvZmVzc2lvbmFsIERldmVsb3BtZW50IENlcnRpZmljYXRlOyBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kIFVuaXYuIENvbGxlZ2UsIENvbGxlZ2UgUGFyayBDYW1wdXMgLDE5OTAsIEVhcm5lZCAyNCBocnMuIEhhdmUgR3JhZHVhdGUgY3JlZGl0cywgYW5kIGdhaW5lZCBrbm93bGVkZ2UgJiBza2lsbHMgcmVxdWlyZWQgbWFuYWdpbmcgdGhlIGNvbXB1dGVyIHN5c3RlbXMuwqA=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916510306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

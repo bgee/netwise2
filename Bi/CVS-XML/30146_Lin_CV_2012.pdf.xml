@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:28 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912550306521"  usageLimitType="allocation" usageLimit="200" currentUsage="85" remainingUsage="115" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Joyce T. Lin joyce.lin@utah.edu</FormattedName>
+<GivenName>Joyce</GivenName>
+<MiddleName>T. Lin</MiddleName>
+<FamilyName>joyce.lin@utah.edu</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>84112</PostalCode>
+<Region>UT</Region>
+<Municipality>Salt Lake City</Municipality>
+<DeliveryAddress>
+<AddressLine>155 S. 1400 E. JWB 233</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (703) 593-4657</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>703</AreaCityCode>
+<SubscriberNumber>593-4657</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>business</Use>
+<Location>office</Location>
+<WhenAvailable>daytime</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (801) 585-7659</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>801</AreaCityCode>
+<SubscriberNumber>585-7659</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>joyce.lin@utah.edu</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>www.math.utah.edu/~lin</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>University of Utah</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Research</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>UT</Region>
+<Municipality>Salt Lake City</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Department of Mathematics Mentors: James Keener and Ken Golden
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of North Carolina</EmployerOrgName>
+<PositionHistory>
+<Title>Doctoral Dissertation Research</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>at Chapel Hill Carolina Center for Interdisciplinary Applied Mathematics, Department of Mathematics Advisors: Roberto Camassa and Richard M. McLaughlin
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Summer Workshop</EmployerOrgName>
+<PositionHistory>
+<Title>Research Intern, Los Alamos National Laboratory</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NM</Region>
+<Municipality>Los Alamos</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>in Mathematical Modeling: development and analysis of solutions to various classes of linear and nonlinear evolution equations.
+</Description>
+<StartDate>
+<AnyDate>2006-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Federal Reserve</EmployerOrgName>
+<PositionHistory>
+<Title>Intern</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+</PositionLocation>
+</OrgInfo>
+<Description>Board of Governors, Washington, D.C. Numerical implementation of automated data pick-up and analysis of mutual fund statistics
+</Description>
+<StartDate>
+<AnyDate>2003-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Oakridge Post-Graduate Research Program</EmployerOrgName>
+<PositionHistory>
+<Title>Intern, Food and Drug Administration</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Bethesda</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>development of new methods to create vaccines using polyacrylamide gels to separate lipopolysaccharides
+</Description>
+<StartDate>
+<AnyDate>2002-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Institute of Mental Health</EmployerOrgName>
+<PositionHistory>
+<Title>Research Intern</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Bethesda</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>Worked with laboratory scientists on a possible cause of schizophrenia, involving marking and imaging muscarinic cholinergic receptors in the brain. Joyce Lin 2
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Utah</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor, Department of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Accelerated Engineering Calculus 2 (Fall 2012), Partial Differential Equations for Engineering Students (Spring 2012), Introduction to Ordinary Differential Equations (Fall 2011), Accelerated Engineering Calculus 2 (Spring 2011), Calculus 2 (Spring 2011), Quantitative Analysis (Spring 2010), Calculus 1 (Fall 2009), Mathematical Survival Skills (Fall 2009).
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of North Carolina</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor, Department of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>at Chapel Hill Precalculus (Fall 2008, 2 sections), College Algebra (Spring 2005) Tutor, University of North Carolina at Chapel Hill Multivariable Calculus (Spring 2008), College Algebra (Fall 2007) 2003 Teaching Assistant, University of Virginia Software Development Methods (Fall 2003) Joyce Lin 3 CONFERENCE TALKS
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Ocean Sciences Meeting</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>UT</Region>
+<Municipality>Salt Lake City</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;Fluid Permeability and the Structure of Antarctic Sea Ice.&quot; Session on the Southern Ocean and Its Role in the Climate System.
+</Description>
+<StartDate>
+<AnyDate>2012-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>&quot;A New Electrical Model of Cardiac Cells.&quot;</EmployerOrgName>
+<PositionHistory>
+<Title>Session Chair</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Diego</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>SIAM Conference on Analysis of Partial Differential Equations
+</Description>
+<StartDate>
+<AnyDate>2011-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>AMS</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;A New Electrical Model of Cardiac Cells.&quot;
+</Description>
+<StartDate>
+<AnyDate>2011-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Western Section Meeting</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>UT</Region>
+<Municipality>Salt Lake City</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;A Multiscale Model of Electrical Activity in Cardiac Tissue.&quot; Special session on Understanding Bio-fluids via Modeling, Simulation and Analysis.
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>ICIAM</EmployerOrgName>
+<PositionHistory>
+<Title>the Effects of Ephaptic Coupling.&quot; Invited speaker, Association</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Canada</Region>
+<Municipality>Vancouver</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;A New Microscale Model for Electrical Activity of Myocardial Cells Incorporating the Effects of Ephaptic Coupling.&quot; Invited speaker, Association for Women in Mathematics Workshop.
+</Description>
+<StartDate>
+<AnyDate>2011-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Gould Lecture</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>UT</Region>
+<Municipality>Salt Lake City</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;Fire and Ice Measuring AntarcticaÊ¼s Frozen Sea.&quot;
+</Description>
+<StartDate>
+<AnyDate>2011-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Joint Mathematics Meetings</EmployerOrgName>
+<PositionHistory>
+<Title>Stratified Fluid.&quot; Session Chair</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>D.C</Region>
+<Municipality>Washington</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;A Falling Sphere, Contributed Paper Session:
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Quantum Theory and Fluid Mechanics</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>San Antonio</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Meeting of the APS Division of Fluid Dynamics &quot;A Falling Sphere in Stratified Fluid.&quot;
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>South Eastern Atlantic Mathematical Sciences Workshop</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NC</Region>
+<Municipality>Chapel Hill</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;A Falling Sphere in Stratified Fluid.&quot;
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>SIAM Conference on Applications of Dynamical Systems</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>UT</Region>
+<Municipality>Snowbird</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>2007 &quot;A Falling Sphere in Stratified Fluid.&quot; SEMINAR TALKS - &quot;A FALLING SPHERE IN STRATIFIED FLUID&quot;
+</Description>
+<StartDate>
+<AnyDate>2007-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Utah</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>UT</Region>
+<Municipality>Salt Lake City</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of North Carolina at Chapel Hill</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>VA</Region>
+<Municipality>Fairfax</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>George Mason University Applied Math Seminar MEETINGS AND WORKSHOPS
+</Description>
+<StartDate>
+<AnyDate>2009-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Workshop</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>VA</Region>
+<Municipality>Fairfax</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Ocean Ecologies and their Physical Habitats in a Changing
+</Description>
+<StartDate>
+<AnyDate>2011-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Climate</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Diego</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>Tutorial session organizer Math and Climate Research Network Meeting, Chapel Hill, NC Mathematics of Interacting Climate Processes, National Center for Atmospheric
+</Description>
+<StartDate>
+<AnyDate>2010-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research</EmployerOrgName>
+<PositionHistory>
+<Title>Joyce Lin</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CO</Region>
+<Municipality>Boulder</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of North Carolina at Chapel Hill Carolina Center for Interdisciplinary Applied Mathematics</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NC</Region>
+<Municipality>Chapel Hill</Municipality>
+</PostalAddress>
+<OrganizationUnit>Department of Mathematics</OrganizationUnit>
+<Degree degreeType="doctoral">
+<DegreeName>Doctorate of Philosophy</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Virginia</SchoolName>
+</School>
+<OrganizationUnit>Department of Mathematics Charlottesville VA</OrganizationUnit>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Arts</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>Computer Science</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>coupling in cardiac myocytes</Title>
+<Name role="author">
+<FormattedName>J. Lin and J. P. Keener, Ephaptic</FormattedName>
+</Name>
+<JournalOrSerialName>IEEE Trans</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Eng</Title>
+<Name role="author">
+<FormattedName>Accepted</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Lin D. Lubbers C. Furse and K. M. Golden</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Antarctic sea ice</Title>
+<JournalOrSerialName>(invited paper)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Biogeochemistry</Title>
+<Name role="author">
+<FormattedName>Ocean Dynamics and</FormattedName>
+</Name>
+<JournalOrSerialName>Submitted</JournalOrSerialName>
+</Article>
+<Article>
+<Title>signature of brine percolation in sea ice</Title>
+<Name role="author">
+<FormattedName>K. M. Golden, H. Eicken, A. Gully, M. Ingham, K. A. Jones, J. Lin, J. Reid, C. Sampson, and A. J. Worby, Electrical</FormattedName>
+</Name>
+<JournalOrSerialName>Preprint in final preparation for submission to Geophysical Research Letters</JournalOrSerialName>
+</Article>
+<Article>
+<Title>for recovery of microstructural parameters in composite materials</Title>
+<Name role="author">
+<FormattedName>E. Cherkaev, K. M. Golden, J. Lin, and C. Orum, Algorithms</FormattedName>
+</Name>
+<JournalOrSerialName>In preparation for Journal of Computational Physics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>on the complex permittivity of sea ice</Title>
+<Name role="author">
+<FormattedName>A. Gully, J. Lin, E. Cherkaev, and K. M. Golden, Polycrystalline bounds</FormattedName>
+</Name>
+<JournalOrSerialName>In preparation for Journal of Geophysical Research</JournalOrSerialName>
+</Article>
+<Article>
+<Title>for electrical activity of myocardial cells incorporating the effects of ephaptic coupling</Title>
+<Name role="author">
+<FormattedName>J. Lin and J. P. Keener, A model</FormattedName>
+</Name>
+<JournalOrSerialName>PNAS</JournalOrSerialName>
+<Volume>107(2010</Volume>
+<PageNumber>20935-40.</PageNumber>
+</Article>
+<Article>
+<Title>first principle predictive theory for a sphere falling through sharply stratified fluid at low Reynolds number J. Fluid Mech</Title>
+<Name role="author">
+<FormattedName>R. Camassa, C. Falcon, J. Lin, R. M. McLaughlin, and N. Mykins, A</FormattedName>
+</Name>
+<Volume>664(2010</Volume>
+<PageNumber>436-465.</PageNumber>
+</Article>
+<Article>
+<Title>residence times for particles settling through stratified miscible fluids in the Stokes regime Phys</Title>
+<Name role="author">
+<FormattedName>R. Camassa, C. Falcon, J. Lin, R. M. McLaughlin, and R. Parker, Prolonged</FormattedName>
+</Name>
+<JournalOrSerialName>Fluids</JournalOrSerialName>
+<Volume>21(2009</Volume>
+<PageNumber>031702-1-4.</PageNumber>
+</Article>
+<Article>
+<Title>experimental and mathematical study on the prolonged residence time of a sphere falling through stratified fluids at low Reynolds number</Title>
+<Name role="author">
+<FormattedName>J. Lin, An</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>of North Carolina at Chapel Hill</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Coalition for National Science Funding Annual Capitol Hill Exhibition</Title>
+<Name role="author">
+<FormattedName>Washington D.C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>May 2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Meeting of the APS Division of Fluids Dynamics</Title>
+<Name role="author">
+<FormattedName>San Antonio, TX</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>Nov. 2008</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Imaging">
+<CompetencyEvidence name ="Imaging" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Software Development">
+<CompetencyEvidence name ="Software Development" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Spring">
+<CompetencyEvidence name ="Spring" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">9</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Statistics">
+<CompetencyEvidence name ="Statistics" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2012-01-01</StringDate></Date>
+<Description>AND FELLOWSHIPS (SUPPORTED)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2012-01-01 - PRESENT</StringDate></Date>
+<Description>National Institutes of Health</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>1R01HL102298-01</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01 - 2012-01-01</StringDate></Date>
+<Description>NSF Vertical Integration of Research and Education Grant</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>NSF-DMS-0602219</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>Collaborations in Mathematical Geosciences (supported Antarctic trip)</Description>
+</Achievement>
+<Achievement>
+<Description>ARC-0934721 NSF Collaborative Research: Mathematics and Climate Change Research</Description>
+</Achievement>
+<Achievement>
+<Description>Network Grant (supported Antarctic trip) DMS-0940249</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-01-01 - 2009-01-01</StringDate></Date>
+<Description>NSF Research Training Grant</Description>
+</Achievement>
+<Achievement>
+<Description>RTG DMS-0502266 REFEREE</Description>
+</Achievement>
+<Achievement>
+<Description>Physical Review A Multiscale Modeling and Simulation</Description>
+</Achievement>
+<Achievement>
+<Description>Applications and Applied Mathematics: An International Journal OUTREACH</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>Family Fun with Engineering: Fire and Ice: From Antarctica to the Arctic</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>Demonstrations and a talk held at the city library</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>Online Math-Climate Resource Created exercises</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>9th Intermountain Jr. Science &amp; Humanities Symposium Judge</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>&quot;Aftermath&quot; Department Newsletter Contributor</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>Emerson Judge</Description>
+<IssuingAuthority>Elementary School Science Fair</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>Antarctica Expedition Blog Contributor</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>http://redthread.utah.edu/tag/antarctica</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>Antarctica Expedition Radio Interviews Interviewee</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>http://redthread.utah.edu/live-from-Antarctica-weeks-2-and-3/4613</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01 - 2011-01-01</StringDate></Date>
+<Description>Calculus Carnival Games organizer</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>American Physical Society Gallery of Fluid Motion Virtual Press Room</Description>
+</Achievement>
+<Achievement>
+<Description>http://www.aps.org/units/dfd/pressroom/gallery/2008/lin.cfm Joyce Lin 5</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>&quot;Women of Note&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>Commission on the Status of Women Selection</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>Lindau Nobel Laureates Meeting</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2004-01-01</StringDate></Date>
+<Description>NSF sponsored participant Physiology and Medicine</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2004-01-01</StringDate></Date>
+<Description>The Betty and Lee Smith Fund for Excellence in Mathematics</Description>
+</Achievement>
+<Achievement>
+<Description>COMPUTER PROFICIENCY Matlab Fortran COMSOL Mathematica C++ Java C# Maple</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>American Mathematical Society</Name>
+</Association>
+<Association>
+<Name>Association for Women in Mathematics</Name>
+</Association>
+<Association>
+<Name>Society for Industrial and Applied Mathematics</Name>
+</Association>
+<Association>
+<Name>American Physical Society</Name>
+</Association>
+</Associations>
+<References>
+<Reference type="Professional">
+<PersonName>
+<FormattedName>James P. Keener</FormattedName>
+<GivenName>James</GivenName>
+<MiddleName>P.</MiddleName>
+<FamilyName>Keener</FamilyName>
+</PersonName>
+<PositionTitle>Distinguished Professor of Mathematics</PositionTitle>
+<ContactMethod>
+<InternetEmailAddress>keener@math.utah.edu</InternetEmailAddress>
+</ContactMethod>
+</Reference>
+</References>
+<SecurityCredentials>
+<SecurityCredential>
+<Name>MBI</Name>
+</SecurityCredential>
+</SecurityCredentials>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcw0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE1NSBTLiAxNDAwIEUuLCBKV0IgMjMzDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTYWx0IExha2UgQ2l0eSwgVVQsIDg0MTEyDQoNCg0KDQpKb3ljZSBULiBMaW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpveWNlLmxpbkB1dGFoLmVkdQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGNlbGwpIDcwMy01OTMtNDY1Nw0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAod29yaykgODAxLTU4NS03NjU5DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHd3dy5tYXRoLnV0YWguZWR1L35saW4NCg0KDQoNCg0KDQoNCg0KDQoNClJFU0VBUkNIIElOVEVSRVNUUw0KDQpNYXRoZW1hdGljYWwgQmlvbG9neSBhbmQgR2VvcGh5c2ljYWwgRmx1aWQgRHluYW1pY3MNCg0KDQoNCkVEVUNBVElPTg0KDQoyMDA5ICAgICAgICAgICAgIERvY3RvcmF0ZSBvZiBQaGlsb3NvcGh5IGluIE1hdGhlbWF0aWNzDQoNCiAgICAgICAgICAgICAgICAgVW5pdmVyc2l0eSBvZiBOb3J0aCBDYXJvbGluYSBhdCBDaGFwZWwgSGlsbCwNCg0KICAgICAgICAgICAgICAgICBDYXJvbGluYSBDZW50ZXIgZm9yIEludGVyZGlzY2lwbGluYXJ5IEFwcGxpZWQgTWF0aGVtYXRpY3MsDQoNCiAgICAgICAgICAgICAgICAgRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcywgQ2hhcGVsIEhpbGwsIE5DDQoNCg0KDQoyMDA0ICAgICAgICAgICAgIEJhY2hlbG9yIG9mIEFydHMgaW4gTWF0aGVtYXRpY3MsIE1pbm9yIGluIENvbXB1dGVyIFNjaWVuY2UNCg0KICAgICAgICAgICAgICAgICBVbml2ZXJzaXR5IG9mIFZpcmdpbmlhLCBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzLCBDaGFybG90dGVzdmlsbGUsIFZBDQoNCiAgICAgICAgICAgICAgICAgICAgRGlzdGluZ3Vpc2hlZCBNYWpvciBhbmQgRWNob2xzIFNjaG9sYXINCg0KDQoNClBST0ZFU1NJT05BTCBFWFBFUklFTkNFDQoNCjIwMDktcHJlc2VudCAgICAgUG9zdGRvY3RvcmFsIFJlc2VhcmNoLCBVbml2ZXJzaXR5IG9mIFV0YWgsIFNhbHQgTGFrZSBDaXR5LCBVVA0KDQogICAgICAgICAgICAgICAgICAgIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MNCg0KICAgICAgICAgICAgICAgICAgICBNZW50b3JzOiBKYW1lcyBLZWVuZXIgYW5kIEtlbiBHb2xkZW4NCg0KDQoNCjIwMDUtMjAwOSAgICAgICAgRG9jdG9yYWwgRGlzc2VydGF0aW9uIFJlc2VhcmNoLCBVbml2ZXJzaXR5IG9mIE5vcnRoIENhcm9saW5hIGF0IENoYXBlbCBIaWxsDQoNCiAgICAgICAgICAgICAgICAgICAgQ2Fyb2xpbmEgQ2VudGVyIGZvciBJbnRlcmRpc2NpcGxpbmFyeSBBcHBsaWVkIE1hdGhlbWF0aWNzLA0KDQogICAgICAgICAgICAgICAgICAgIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MNCg0KICAgICAgICAgICAgICAgICAgICBBZHZpc29yczogUm9iZXJ0byBDYW1hc3NhIGFuZCBSaWNoYXJkIE0uIE1jTGF1Z2hsaW4NCg0KDQoNClN1bW1lciAyMDA2ICAgICAgUmVzZWFyY2ggSW50ZXJuLCBMb3MgQWxhbW9zIE5hdGlvbmFsIExhYm9yYXRvcnksIExvcyBBbGFtb3MsIE5NDQoNCiAgICAgICAgICAgICAgICAgICAgU3VtbWVyIFdvcmtzaG9wIGluIE1hdGhlbWF0aWNhbCBNb2RlbGluZzogZGV2ZWxvcG1lbnQgYW5kIGFuYWx5c2lzIG9mDQoNCiAgICAgICAgICAgICAgICAgICAgc29sdXRpb25zIHRvIHZhcmlvdXMgY2xhc3NlcyBvZiBsaW5lYXIgYW5kIG5vbmxpbmVhciBldm9sdXRpb24gZXF1YXRpb25zLg0KDQoNCg0KU3VtbWVyIDIwMDMgICAgICBJbnRlcm4sIFUuUy4gRmVkZXJhbCBSZXNlcnZlLCBCb2FyZCBvZiBHb3Zlcm5vcnMsIFdhc2hpbmd0b24sIEQuQy4NCg0KICAgICAgICAgICAgICAgICAgICAgTnVtZXJpY2FsIGltcGxlbWVudGF0aW9uIG9mIGF1dG9tYXRlZCBkYXRhIHBpY2stdXAgYW5kIGFuYWx5c2lzIG9mIG11dHVhbCBmdW5kDQoNCiAgICAgICAgICAgICAgICAgICAgIHN0YXRpc3RpY3MNCg0KDQoNClN1bW1lciAyMDAyICAgICAgSW50ZXJuLCBGb29kIGFuZCBEcnVnIEFkbWluaXN0cmF0aW9uLCBCZXRoZXNkYSwgTUQNCg0KICAgICAgICAgICAgICAgICAgICAgT2FrcmlkZ2UgUG9zdC1HcmFkdWF0ZSBSZXNlYXJjaCBQcm9ncmFtOiBkZXZlbG9wbWVudCBvZiBuZXcgbWV0aG9kcyB0bw0KDQogICAgICAgICAgICAgICAgICAgICBjcmVhdGUgdmFjY2luZXMgdXNpbmcgcG9seWFjcnlsYW1pZGUgZ2VscyB0byBzZXBhcmF0ZSBsaXBvcG9seXNhY2NoYXJpZGVzDQoNCg0KDQoxOTk5LTIwMDAgICAgICAgIFJlc2VhcmNoIEludGVybiwgTmF0aW9uYWwgSW5zdGl0dXRlIG9mIE1lbnRhbCBIZWFsdGgsIEJldGhlc2RhLCBNRA0KDQogICAgICAgICAgICAgICAgICAgIFdvcmtlZCB3aXRoIGxhYm9yYXRvcnkgc2NpZW50aXN0cyBvbiBhIHBvc3NpYmxlIGNhdXNlIG9mIHNjaGl6b3BocmVuaWEsIGludm9sdmluZw0KDQogICAgICAgICAgICAgICAgICAgIG1hcmtpbmcgYW5kIGltYWdpbmcgbXVzY2FyaW5pYyBjaG9saW5lcmdpYyByZWNlcHRvcnMgaW4gdGhlIGJyYWluLg0KDQpKb3ljZSBMaW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyDQoNCg0KDQoNCg0KUFVCTElDQVRJT05TDQoNCjEuICAgICAgICAgICAgIEouIExpbiBhbmQgSi4gUC4gS2VlbmVyLCBFcGhhcHRpYyBjb3VwbGluZyBpbiBjYXJkaWFjIG15b2N5dGVzLCBJRUVFIFRyYW5zLiBCaW9tZWQuDQoNCiAgICAgICAgICAgICAgIEVuZy4gKDIwMTIpLCBBY2NlcHRlZC4NCg0KDQoNCjIuICAgICAgICAgICAgIEouIExpbiwgRC4gTHViYmVycywgQy4gRnVyc2UsIGFuZCBLLiBNLiBHb2xkZW4sIEZsdWlkIHBlcm1lYWJpbGl0eSBhbmQgc3RydWN0dXJlIG9mDQoNCiAgICAgICAgICAgICAgIEFudGFyY3RpYyBzZWEgaWNlIChpbnZpdGVkIHBhcGVyKSwgRGVlcCBTZWEgUmVzZWFyY2ggSUkgU3BlY2lhbCBJc3N1ZTogU291dGhlcm4NCg0KICAgICAgICAgICAgICAgT2NlYW4gRHluYW1pY3MgYW5kIEJpb2dlb2NoZW1pc3RyeS4gU3VibWl0dGVkLg0KDQoNCg0KMy4gICAgICAgICAgICAgSy4gTS4gR29sZGVuLCBILiBFaWNrZW4sIEEuIEd1bGx5LCBNLiBJbmdoYW0sIEsuIEEuIEpvbmVzLCBKLiBMaW4sIEouIFJlaWQsIEMuDQoNCiAgICAgICAgICAgICAgIFNhbXBzb24sIGFuZCBBLiBKLiBXb3JieSwgRWxlY3RyaWNhbCBzaWduYXR1cmUgb2YgYnJpbmUgcGVyY29sYXRpb24gaW4gc2VhIGljZS4NCg0KICAgICAgICAgICAgICAgUHJlcHJpbnQgaW4gZmluYWwgcHJlcGFyYXRpb24gZm9yIHN1Ym1pc3Npb24gdG8gR2VvcGh5c2ljYWwgUmVzZWFyY2ggTGV0dGVycy4NCg0KDQoNCjQuICAgICAgICAgICAgIEUuIENoZXJrYWV2LCBLLiBNLiBHb2xkZW4sIEouIExpbiwgYW5kIEMuIE9ydW0sIEFsZ29yaXRobXMgZm9yIHJlY292ZXJ5IG9mDQoNCiAgICAgICAgICAgICAgIG1pY3Jvc3RydWN0dXJhbCBwYXJhbWV0ZXJzIGluIGNvbXBvc2l0ZSBtYXRlcmlhbHMuIEluIHByZXBhcmF0aW9uIGZvciBKb3VybmFsIG9mDQoNCiAgICAgICAgICAgICAgIENvbXB1dGF0aW9uYWwgUGh5c2ljcy4NCg0KDQoNCjUuICAgICAgICAgICAgIEEuIEd1bGx5LCBKLiBMaW4sIEUuIENoZXJrYWV2LCBhbmQgSy4gTS4gR29sZGVuLCBQb2x5Y3J5c3RhbGxpbmUgYm91bmRzIG9uIHRoZQ0KDQogICAgICAgICAgICAgICBjb21wbGV4IHBlcm1pdHRpdml0eSBvZiBzZWEgaWNlLiBJbiBwcmVwYXJhdGlvbiBmb3IgSm91cm5hbCBvZiBHZW9waHlzaWNhbCBSZXNlYXJjaC4NCg0KDQoNCjYuICAgICAgICAgICAgIEouIExpbiBhbmQgSi4gUC4gS2VlbmVyLCBBIG1vZGVsIGZvciBlbGVjdHJpY2FsIGFjdGl2aXR5IG9mIG15b2NhcmRpYWwgY2VsbHMNCg0KICAgICAgICAgICAgICAgaW5jb3Jwb3JhdGluZyB0aGUgZWZmZWN0cyBvZiBlcGhhcHRpYyBjb3VwbGluZywgUE5BUyAxMDcoMjAxMCksIDIwOTM1LTQwLg0KDQoNCg0KNy4gICAgICAgICAgICAgUi4gQ2FtYXNzYSwgQy4gRmFsY29uLCBKLiBMaW4sIFIuIE0uIE1jTGF1Z2hsaW4sIGFuZCBOLiBNeWtpbnMsIEEgZmlyc3QgcHJpbmNpcGxlDQoNCiAgICAgICAgICAgICAgIHByZWRpY3RpdmUgdGhlb3J5IGZvciBhIHNwaGVyZSBmYWxsaW5nIHRocm91Z2ggc2hhcnBseSBzdHJhdGlmaWVkIGZsdWlkIGF0IGxvdyBSZXlub2xkcw0KDQogICAgICAgICAgICAgICBudW1iZXIsIEouIEZsdWlkIE1lY2guIDY2NCgyMDEwKSwgNDM2LTQ2NS4NCg0KDQoNCjguICAgICAgICAgICAgIFIuIENhbWFzc2EsIEMuIEZhbGNvbiwgSi4gTGluLCBSLiBNLiBNY0xhdWdobGluLCBhbmQgUi4gUGFya2VyLCBQcm9sb25nZWQNCg0KICAgICAgICAgICAgICAgcmVzaWRlbmNlIHRpbWVzIGZvciBwYXJ0aWNsZXMgc2V0dGxpbmcgdGhyb3VnaCBzdHJhdGlmaWVkIG1pc2NpYmxlIGZsdWlkcyBpbiB0aGUgU3Rva2VzDQoNCiAgICAgICAgICAgICAgIHJlZ2ltZSwgUGh5cy4gRmx1aWRzIDIxKDIwMDkpLCAwMzE3MDItMS00Lg0KDQoNCg0KOS4gICAgICAgICAgICAgSi4gTGluLCBBbiBleHBlcmltZW50YWwgYW5kIG1hdGhlbWF0aWNhbCBzdHVkeSBvbiB0aGUgcHJvbG9uZ2VkIHJlc2lkZW5jZSB0aW1lIG9mIGENCg0KICAgICAgICAgICAgICAgc3BoZXJlIGZhbGxpbmcgdGhyb3VnaCBzdHJhdGlmaWVkIGZsdWlkcyBhdCBsb3cgUmV5bm9sZHMgbnVtYmVyLCBQaEQgdGhlc2lzLCBVbml2ZXJzaXR5DQoNCiAgICAgICAgICAgICAgIG9mIE5vcnRoIENhcm9saW5hIGF0IENoYXBlbCBIaWxsICgyMDA5KS4NCg0KDQoNCg0KDQpURUFDSElORyBFWFBFUklFTkNFDQoNCjIwMDktcHJlc2VudCAgIEluc3RydWN0b3IsIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MsIFVuaXZlcnNpdHkgb2YgVXRhaA0KDQogICAgICAgICAgICAgICAgICAgQWNjZWxlcmF0ZWQgRW5naW5lZXJpbmcgQ2FsY3VsdXMgMiAoRmFsbCAyMDEyKSwgUGFydGlhbCBEaWZmZXJlbnRpYWwgRXF1YXRpb25zIGZvcg0KDQogICAgICAgICAgICAgICAgICAgRW5naW5lZXJpbmcgU3R1ZGVudHMgKFNwcmluZyAyMDEyKSwgSW50cm9kdWN0aW9uIHRvIE9yZGluYXJ5IERpZmZlcmVudGlhbA0KDQogICAgICAgICAgICAgICAgICAgRXF1YXRpb25zIChGYWxsIDIwMTEpLCBBY2NlbGVyYXRlZCBFbmdpbmVlcmluZyBDYWxjdWx1cyAyIChTcHJpbmcgMjAxMSksDQoNCiAgICAgICAgICAgICAgICAgICBDYWxjdWx1cyAyIChTcHJpbmcgMjAxMSksIFF1YW50aXRhdGl2ZSBBbmFseXNpcyAoU3ByaW5nIDIwMTApLCBDYWxjdWx1cyAxIChGYWxsDQoNCiAgICAgICAgICAgICAgICAgICAyMDA5KSwgTWF0aGVtYXRpY2FsIFN1cnZpdmFsIFNraWxscyAoRmFsbCAyMDA5KS4NCg0KDQoNCjIwMDQtMjAwOSAgICAgIEluc3RydWN0b3IsIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MsIFVuaXZlcnNpdHkgb2YgTm9ydGggQ2Fyb2xpbmEgYXQgQ2hhcGVsIEhpbGwNCg0KICAgICAgICAgICAgICAgICAgIFByZWNhbGN1bHVzIChGYWxsIDIwMDgsIDIgc2VjdGlvbnMpLCBDb2xsZWdlIEFsZ2VicmEgKFNwcmluZyAyMDA1KQ0KDQoNCg0KICAgICAgICAgICAgICAgVHV0b3IsIFVuaXZlcnNpdHkgb2YgTm9ydGggQ2Fyb2xpbmEgYXQgQ2hhcGVsIEhpbGwNCg0KICAgICAgICAgICAgICAgICAgTXVsdGl2YXJpYWJsZSBDYWxjdWx1cyAoU3ByaW5nIDIwMDgpLCBDb2xsZWdlIEFsZ2VicmEgKEZhbGwgMjAwNykNCg0KDQoNCjIwMDMgICAgICAgICAgIFRlYWNoaW5nIEFzc2lzdGFudCwgVW5pdmVyc2l0eSBvZiBWaXJnaW5pYQ0KDQogICAgICAgICAgICAgICAgICBTb2Z0d2FyZSBEZXZlbG9wbWVudCBNZXRob2RzIChGYWxsIDIwMDMpDQoNCkpveWNlIExpbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMw0KDQoNCg0KDQoNCkNPTkZFUkVOQ0UgVEFMS1MNCg0KRmViLiAyMDEyICAgICAgIE9jZWFuIFNjaWVuY2VzIE1lZXRpbmcsDQoNCiAgICAgICAgICAgICAgICBTYWx0IExha2UgQ2l0eSwgVVQNCg0KICAgICAgICAgICAgICAgICAgICAiRmx1aWQgUGVybWVhYmlsaXR5IGFuZCB0aGUgU3RydWN0dXJlIG9mIEFudGFyY3RpYyBTZWEgSWNlLiINCg0KICAgICAgICAgICAgICAgICAgICBTZXNzaW9uIG9uIHRoZSBTb3V0aGVybiBPY2VhbiBhbmQgSXRzIFJvbGUgaW4gdGhlIENsaW1hdGUgU3lzdGVtLg0KDQoNCg0KTm92LiAyMDExICAgICAgIFNJQU0gQ29uZmVyZW5jZSBvbiBBbmFseXNpcyBvZiBQYXJ0aWFsIERpZmZlcmVudGlhbCBFcXVhdGlvbnMsDQoNCiAgICAgICAgICAgICAgICBTYW4gRGllZ28sIENBDQoNCiAgICAgICAgICAgICAgICAgICAiQSBOZXcgRWxlY3RyaWNhbCBNb2RlbCBvZiBDYXJkaWFjIENlbGxzLiINCg0KICAgICAgICAgICAgICAgICAgIFNlc3Npb24gQ2hhaXINCg0KDQoNCk9jdC4gMjAxMSAgICAgICBBTVMgMjAxMSBXZXN0ZXJuIFNlY3Rpb24gTWVldGluZywgU2FsdCBMYWtlIENpdHksIFVUDQoNCiAgICAgICAgICAgICAgICAgICJBIE11bHRpc2NhbGUgTW9kZWwgb2YgRWxlY3RyaWNhbCBBY3Rpdml0eSBpbiBDYXJkaWFjIFRpc3N1ZS4iDQoNCiAgICAgICAgICAgICAgICAgIFNwZWNpYWwgc2Vzc2lvbiBvbiBVbmRlcnN0YW5kaW5nIEJpby1mbHVpZHMgdmlhIE1vZGVsaW5nLCBTaW11bGF0aW9uIGFuZA0KDQogICAgICAgICAgICAgICAgICBBbmFseXNpcy4NCg0KDQoNCkp1bC4gMjAxMSAgICAgICBJQ0lBTSwgVmFuY291dmVyLCBDYW5hZGENCg0KICAgICAgICAgICAgICAgICAgICAiQSBOZXcgTWljcm9zY2FsZSBNb2RlbCBmb3IgRWxlY3RyaWNhbCBBY3Rpdml0eSBvZiBNeW9jYXJkaWFsIENlbGxzIEluY29ycG9yYXRpbmcNCg0KICAgICAgICAgICAgICAgICAgICB0aGUgRWZmZWN0cyBvZiBFcGhhcHRpYyBDb3VwbGluZy4iIEludml0ZWQgc3BlYWtlciwgQXNzb2NpYXRpb24gZm9yIFdvbWVuIGluDQoNCiAgICAgICAgICAgICAgICAgICAgTWF0aGVtYXRpY3MgV29ya3Nob3AuDQoNCg0KDQpGZWIuIDIwMTEgICAgICAgR291bGQgTGVjdHVyZSwgU2FsdCBMYWtlIENpdHksIFVUDQoNCiAgICAgICAgICAgICAgICAgICAiRmlyZSBhbmQgSWNlOiBNZWFzdXJpbmcgQW50YXJjdGljYcq8cyBGcm96ZW4gU2VhLiINCg0KDQoNCkphbi4gMjAwOSAgICAgICBKb2ludCBNYXRoZW1hdGljcyBNZWV0aW5ncywgV2FzaGluZ3RvbiwgRC5DLg0KDQogICAgICAgICAgICAgICAgICAgICJBIEZhbGxpbmcgU3BoZXJlIGluIFN0cmF0aWZpZWQgRmx1aWQuIiBTZXNzaW9uIENoYWlyLCBDb250cmlidXRlZCBQYXBlciBTZXNzaW9uOg0KDQogICAgICAgICAgICAgICAgICAgIFF1YW50dW0gVGhlb3J5IGFuZCBGbHVpZCBNZWNoYW5pY3MNCg0KDQoNCk5vdi4gMjAwOCAgICAgICBNZWV0aW5nIG9mIHRoZSBBUFMgRGl2aXNpb24gb2YgRmx1aWQgRHluYW1pY3MsIFNhbiBBbnRvbmlvLCBUWA0KDQogICAgICAgICAgICAgICAgICAgIkEgRmFsbGluZyBTcGhlcmUgaW4gU3RyYXRpZmllZCBGbHVpZC4iDQoNCg0KDQpOb3YuIDIwMDggICAgICAgU291dGggRWFzdGVybiBBdGxhbnRpYyBNYXRoZW1hdGljYWwgU2NpZW5jZXMgV29ya3Nob3AsDQoNCiAgICAgICAgICAgICAgICBDaGFwZWwgSGlsbCwgTkMNCg0KICAgICAgICAgICAgICAgICAgICJBIEZhbGxpbmcgU3BoZXJlIGluIFN0cmF0aWZpZWQgRmx1aWQuIg0KDQoNCg0KTWF5IDIwMDcgICAgICAgIDIwMDcgU0lBTSBDb25mZXJlbmNlIG9uIEFwcGxpY2F0aW9ucyBvZiBEeW5hbWljYWwgU3lzdGVtcywgU25vd2JpcmQsIFVUDQoNCiAgICAgICAgICAgICAgICAgICAiQSBGYWxsaW5nIFNwaGVyZSBpbiBTdHJhdGlmaWVkIEZsdWlkLiINCg0KDQoNClNFTUlOQVIgVEFMS1MgLSAiQSBGQUxMSU5HIFNQSEVSRSBJTiBTVFJBVElGSUVEIEZMVUlEIg0KDQpTZXB0LiAyMDA5ICAgICAgVW5pdmVyc2l0eSBvZiBVdGFoLCBTYWx0IExha2UgQ2l0eSwgVVQNCg0KDQoNCkZlYi4gMjAwOSAgICAgICBVbml2ZXJzaXR5IG9mIE5vcnRoIENhcm9saW5hIGF0IENoYXBlbCBIaWxsLCBDaGFwZWwgSGlsbCwgTkMNCg0KDQoNCkphbi4gMjAwOSAgICAgICBHZW9yZ2UgTWFzb24gVW5pdmVyc2l0eSBBcHBsaWVkIE1hdGggU2VtaW5hciwgRmFpcmZheCwgVkENCg0KDQoNCk1FRVRJTkdTIEFORCBXT1JLU0hPUFMNCg0KSnVuLiAyMDExICAgICAgIE1CSSBXb3Jrc2hvcDogT2NlYW4gRWNvbG9naWVzIGFuZCB0aGVpciBQaHlzaWNhbCBIYWJpdGF0cyBpbiBhIENoYW5naW5nDQoNCiAgICAgICAgICAgICAgICBDbGltYXRlLCBTYW4gRGllZ28sIENBDQoNCiAgICAgICAgICAgICAgICBUdXRvcmlhbCBzZXNzaW9uIG9yZ2FuaXplcg0KDQoNCg0KU2VwdC4gMjAxMCAgICAgIE1hdGggYW5kIENsaW1hdGUgUmVzZWFyY2ggTmV0d29yayBNZWV0aW5nLCBDaGFwZWwgSGlsbCwgTkMNCg0KDQoNCkZlYi4gMjAxMCAgICAgICBNYXRoZW1hdGljcyBvZiBJbnRlcmFjdGluZyBDbGltYXRlIFByb2Nlc3NlcywgTmF0aW9uYWwgQ2VudGVyIGZvciBBdG1vc3BoZXJpYw0KDQogICAgICAgICAgICAgICAgUmVzZWFyY2gsIEJvdWxkZXIsIENPDQoNCkpveWNlIExpbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQNCg0KDQoNCg0KDQpQT1NURVIgUFJFU0VOVEFUSU9OUw0KDQpNYXkgMjAxMSAgICAgICBDb2FsaXRpb24gZm9yIE5hdGlvbmFsIFNjaWVuY2UgRnVuZGluZyBBbm51YWwgQ2FwaXRvbCBIaWxsIEV4aGliaXRpb24sDQoNCiAgICAgICAgICAgICAgIFdhc2hpbmd0b24gRC5DLg0KDQoNCg0KTm92LiAyMDA4ICAgICAgTWVldGluZyBvZiB0aGUgQVBTIERpdmlzaW9uIG9mIEZsdWlkcyBEeW5hbWljcywgU2FuIEFudG9uaW8sIFRYDQoNCiAgICAgICAgICAgICAgICAgIEdhbGxlcnkgb2YgRmx1aWQgTW90aW9uDQoNCg0KDQpPY3QuIDIwMDcgICAgICBTb3V0aCBFYXN0ZXJuIEF0bGFudGljIE1hdGhlbWF0aWNhbCBTY2llbmNlcyBXb3Jrc2hvcCwgSGFtcHRvbiwgVkENCg0KICAgICAgICAgICAgICAgICAgTmF0aW9uYWwgSW5zdGl0dXRlIG9mIEFlcm9zcGFjZQ0KDQoNCg0KTWFyLiAyMDA3ICAgICAgVW5pdmVyc2l0eSBSZXNlYXJjaCBEYXksIENoYXBlbCBIaWxsLCBOQw0KDQoNCg0KU2VwdC4gMjAwNiAgICAgU291dGggRWFzdGVybiBBdGxhbnRpYyBNYXRoZW1hdGljYWwgU2NpZW5jZXMgV29ya3Nob3AsIENoYXJsZXN0b24sIFNDDQoNCg0KDQpHUkFOVFMgQU5EIEZFTExPV1NISVBTIChTVVBQT1JURUQpDQoNCjIwMTItcHJlc2VudCAgIE5hdGlvbmFsIEluc3RpdHV0ZXMgb2YgSGVhbHRoDQoNCiAgICAgICAgICAgICAgICAgICAxUjAxSEwxMDIyOTgtMDENCg0KDQoNCjIwMDktMjAxMiAgICAgIE5TRiBWZXJ0aWNhbCBJbnRlZ3JhdGlvbiBvZiBSZXNlYXJjaCBhbmQgRWR1Y2F0aW9uIEdyYW50DQoNCiAgICAgICAgICAgICAgICAgIE5TRi1ETVMtMDYwMjIxOQ0KDQoNCg0KMjAxMCAgICAgICAgICAgQ29sbGFib3JhdGlvbnMgaW4gTWF0aGVtYXRpY2FsIEdlb3NjaWVuY2VzIChzdXBwb3J0ZWQgQW50YXJjdGljIHRyaXApDQoNCiAgICAgICAgICAgICAgICAgICBBUkMtMDkzNDcyMQ0KDQoNCg0KICAgICAgICAgICAgICAgTlNGIENvbGxhYm9yYXRpdmUgUmVzZWFyY2g6IE1hdGhlbWF0aWNzIGFuZCBDbGltYXRlIENoYW5nZSBSZXNlYXJjaA0KDQogICAgICAgICAgICAgICBOZXR3b3JrIEdyYW50IChzdXBwb3J0ZWQgQW50YXJjdGljIHRyaXApDQoNCiAgICAgICAgICAgICAgICAgIERNUy0wOTQwMjQ5DQoNCg0KDQoyMDA1LTIwMDkgICAgICBOU0YgUmVzZWFyY2ggVHJhaW5pbmcgR3JhbnQNCg0KICAgICAgICAgICAgICAgICAgUlRHIERNUy0wNTAyMjY2DQoNCg0KDQpSRUZFUkVFDQoNCiAgICAgICAgICAgICAgIFBoeXNpY2FsIFJldmlldyBBDQoNCiAgICAgICAgICAgICAgIE11bHRpc2NhbGUgTW9kZWxpbmcgYW5kIFNpbXVsYXRpb24NCg0KICAgICAgICAgICAgICAgQXBwbGljYXRpb25zIGFuZCBBcHBsaWVkIE1hdGhlbWF0aWNzOiBBbiBJbnRlcm5hdGlvbmFsIEpvdXJuYWwNCg0KDQoNCk9VVFJFQUNIDQoNCjIwMTEgICAgICAgICAgIEZhbWlseSBGdW4gd2l0aCBFbmdpbmVlcmluZzogRmlyZSBhbmQgSWNlOiBGcm9tIEFudGFyY3RpY2EgdG8gdGhlIEFyY3RpYw0KDQogICAgICAgICAgICAgICAgICAgRGVtb25zdHJhdGlvbnMgYW5kIGEgdGFsayBoZWxkIGF0IHRoZSBjaXR5IGxpYnJhcnkuDQoNCjIwMTEgICAgICAgICAgIE9ubGluZSBNYXRoLUNsaW1hdGUgUmVzb3VyY2UsIENyZWF0ZWQgZXhlcmNpc2VzDQoNCjIwMTEgICAgICAgICAgIDl0aCBJbnRlcm1vdW50YWluIEpyLiBTY2llbmNlICYgSHVtYW5pdGllcyBTeW1wb3NpdW0sIEp1ZGdlDQoNCjIwMTEgICAgICAgICAgICJBZnRlcm1hdGgiIERlcGFydG1lbnQgTmV3c2xldHRlciwgQ29udHJpYnV0b3INCg0KMjAxMSAgICAgICAgICAgRW1lcnNvbiBFbGVtZW50YXJ5IFNjaG9vbCBTY2llbmNlIEZhaXIsIEp1ZGdlDQoNCjIwMTAgICAgICAgICAgIEFudGFyY3RpY2EgRXhwZWRpdGlvbiBCbG9nLCBDb250cmlidXRvcg0KDQogICAgICAgICAgICAgICAgICAgaHR0cDovL3JlZHRocmVhZC51dGFoLmVkdS90YWcvYW50YXJjdGljYQ0KDQoyMDEwICAgICAgICAgICBBbnRhcmN0aWNhIEV4cGVkaXRpb24gUmFkaW8gSW50ZXJ2aWV3cywgSW50ZXJ2aWV3ZWUNCg0KICAgICAgICAgICAgICAgICAgIGh0dHA6Ly9yZWR0aHJlYWQudXRhaC5lZHUvbGl2ZS1mcm9tLUFudGFyY3RpY2Etd2Vla3MtMi1hbmQtMy80NjEzDQoNCjIwMDktMjAxMSAgICAgIENhbGN1bHVzIENhcm5pdmFsLCBHYW1lcyBvcmdhbml6ZXINCg0KMjAwOCAgICAgICAgICAgQW1lcmljYW4gUGh5c2ljYWwgU29jaWV0eSBHYWxsZXJ5IG9mIEZsdWlkIE1vdGlvbiBWaXJ0dWFsIFByZXNzIFJvb20NCg0KICAgICAgICAgICAgICAgICAgIGh0dHA6Ly93d3cuYXBzLm9yZy91bml0cy9kZmQvcHJlc3Nyb29tL2dhbGxlcnkvMjAwOC9saW4uY2ZtDQoNCkpveWNlIExpbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDUNCg0KDQoNCg0KDQpIT05PUlMNCg0KMjAxMSAgICAgICAgICAiV29tZW4gb2YgTm90ZSINCg0KICAgICAgICAgICAgICAgICBQcmVzaWRlbnTKvHMgQ29tbWlzc2lvbiBvbiB0aGUgU3RhdHVzIG9mIFdvbWVuIFNlbGVjdGlvbg0KDQoNCg0KMjAwNyAgICAgICAgICBMaW5kYXUgTm9iZWwgTGF1cmVhdGVzIE1lZXRpbmcNCg0KICAgICAgICAgICAgICAgICBOU0Ygc3BvbnNvcmVkIHBhcnRpY2lwYW50LCBQaHlzaW9sb2d5IGFuZCBNZWRpY2luZQ0KDQoNCg0KMjAwNCAgICAgICAgICBUaGUgQmV0dHkgYW5kIExlZSBTbWl0aCBGdW5kIGZvciBFeGNlbGxlbmNlIGluIE1hdGhlbWF0aWNzDQoNCg0KDQpDT01QVVRFUiBQUk9GSUNJRU5DWQ0KDQogICAgICAgICAgICAgIE1hdGxhYiwgRm9ydHJhbiwgQ09NU09MLCBNYXRoZW1hdGljYSwgQysrLCBKYXZhLCBDIywgTWFwbGUNCg0KDQoNClBST0ZFU1NJT05BTCBBU1NPQ0lBVElPTlMNCg0KICAgICAgICAgICAgICBBbWVyaWNhbiBNYXRoZW1hdGljYWwgU29jaWV0eQ0KDQogICAgICAgICAgICAgIEFzc29jaWF0aW9uIGZvciBXb21lbiBpbiBNYXRoZW1hdGljcw0KDQogICAgICAgICAgICAgIFNvY2lldHkgZm9yIEluZHVzdHJpYWwgYW5kIEFwcGxpZWQgTWF0aGVtYXRpY3MNCg0KICAgICAgICAgICAgICBBbWVyaWNhbiBQaHlzaWNhbCBTb2NpZXR5DQoNCg0KDQpSRUZFUkVOQ0VTDQoNCiAgICAgICAgICAgICAgSmFtZXMgUC4gS2VlbmVyDQoNCiAgICAgICAgICAgICAgRGlzdGluZ3Vpc2hlZCBQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MNCg0KICAgICAgICAgICAgICBBZGp1bmN0IFByb2Zlc3NvciBvZiBCaW9lbmdpbmVlcmluZw0KDQogICAgICAgICAgICAgIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MsIFVuaXZlcnNpdHkgb2YgVXRhaA0KDQogICAgICAgICAgICAgIGtlZW5lckBtYXRoLnV0YWguZWR1DQoNCg0KDQogICAgICAgICAgICAgIEtlbm5ldGggTS4gR29sZGVuDQoNCiAgICAgICAgICAgICAgUHJvZmVzc29yIG9mIE1hdGhlbWF0aWNzDQoNCiAgICAgICAgICAgICAgQWRqdW5jdCBQcm9mZXNzb3Igb2YgQmlvZW5naW5lZXJpbmcNCg0KICAgICAgICAgICAgICBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzLCBVbml2ZXJzaXR5IG9mIFV0YWgNCg0KICAgICAgICAgICAgICBnb2xkZW5AbWF0aC51dGFoLmVkdQ0KDQoNCg0KICAgICAgICAgICAgICBSb2JlcnRvIENhbWFzc2ENCg0KICAgICAgICAgICAgICBQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MNCg0KICAgICAgICAgICAgICBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzLCBVbml2ZXJzaXR5IG9mIE5vcnRoIENhcm9saW5hIGF0IENoYXBlbCBIaWxsDQoNCiAgICAgICAgICAgICAgY2FtYXNzYUBhbWF0aC51bmMuZWR1DQoNCg0KDQogICAgICAgICAgICAgIEN5bnRoaWEgRnVyc2UNCg0KICAgICAgICAgICAgICBBc3NvY2lhdGUgVmljZSBQcmVzaWRlbnQgZm9yIFJlc2VhcmNoDQoNCiAgICAgICAgICAgICAgUHJvZmVzc29yIG9mIEVsZWN0cm9tYWduZXRpY3MNCg0KICAgICAgICAgICAgICBEZXBhcnRtZW50IG9mIEVsZWN0cmljYWwgYW5kIENvbXB1dGVyIEVuZ2luZWVyaW5nLCBVbml2ZXJzaXR5IG9mIFV0YWgNCg0KICAgICAgICAgICAgICBjeW50aGlhLmZ1cnNlQHV0YWguZWR1DQoNCg0KDQogICAgICAgICAgICAgIFN0ZXZlbiBQb2VsemluZw0KDQogICAgICAgICAgICAgIEFzc29jaWF0ZSBQcm9mZXNzb3IsIFZpcmdpbmlhIFRlY2ggQ2FyaWxpb24gUmVzZWFyY2ggSW5zdGl0dXRlDQoNCiAgICAgICAgICAgICAgQXNzb2NpYXRlIFByb2Zlc3NvciwgU2Nob29sIG9mIEJpb21lZGljYWwgRW5naW5lZXJpbmcgYW5kIFNjaWVuY2UNCg0KICAgICAgICAgICAgICBWaXJnaW5pYSBUZWNoDQoNCiAgICAgICAgICAgICAgcG9lbHppbmdAdnRjLnZ0LmVkdQ0KDQoNCg0KICAgICAgICAgICAgICBIZW5yeWsgSGVjaHQgKFRlYWNoaW5nKQ0KDQogICAgICAgICAgICAgIFByb2Zlc3NvciBvZiBNYXRoZW1hdGljcw0KDQogICAgICAgICAgICAgIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MsIFVuaXZlcnNpdHkgb2YgVXRhaA0KDQogICAgICAgICAgICAgIGhlY2h0QG1hdGgudXRhaC5lZHU=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912550306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

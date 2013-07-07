@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:50 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911530306521"  usageLimitType="allocation" usageLimit="200" currentUsage="61" remainingUsage="139" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Paul R. Anderson</FormattedName>
+<GivenName>Paul</GivenName>
+<MiddleName>R.</MiddleName>
+<FamilyName>Anderson</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (312) 567-3531</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>312</AreaCityCode>
+<SubscriberNumber>567-3531</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (312) 567-8874</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>312</AreaCityCode>
+<SubscriberNumber>567-8874</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>andersonp@iit.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Purdue University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1974-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California at San Diego</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Washington</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1987-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>UGF1bCBSLiBBbmRlcnNvbiwgUGhELCBQRQ0KDQpBc3NvY2lhdGUgUHJvZmVzc29yLCBFTlZFDQoNCkRpcmVjdG9yLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIFByb2dyYW0gDQoNCkVudmlyb25tZW50YWwgRW5naW5lZXJpbmcNCg0KT2ZmaWNlOiBQSCAyMzcNCg0KDQoNClBob25lOiAzMTIuNTY3LjM1MzENCg0KRmF4OiAzMTIuNTY3Ljg4NzQNCg0KRW1haWw6IGFuZGVyc29ucEBpaXQuZWR1IA0KDQpXZWI6IA0KDQpFeHBlcnRpc2UNCg0KKiBQcm9mZXNzb3IgQW5kZXJzb24gaXMgYSByZWdpc3RlcmVkIHByb2Zlc3Npb25hbCBlbmdpbmVlciB3aXRoIG1vcmUgdGhhbiAzMCB5ZWFycyBvZiBjb21iaW5lZCBpbmR1c3RyaWFsIGFuZCBhY2FkZW1pYyBleHBlcmllbmNlIHJlbGF0ZWQgdG8gd2F0ZXIgcmVzb3VyY2VzIG1hbmFnZW1lbnQuIENvdXJzZXMgaGUgdGVhY2hlcyBpbmNsdWRlIGVudmlyb25tZW50YWwgY2hlbWlzdHJ5LCBlbnZpcm9ubWVudGFsIHRyYW5zcG9ydCBwcm9jZXNzZXMsIGdyb3VuZHdhdGVyLCBhbmQgaW5kdXN0cmlhbCBlY29sb2d5LiBIaXMgcmVzZWFyY2ggaW50ZXJlc3RzIGluY2x1ZGUgcGh5c2ljYWwgYW5kIGNoZW1pY2FsIHByb2Nlc3NlcyBpbiB3YXRlciBhbmQgd2FzdGV3YXRlciB0cmVhdG1lbnQsIHdhdGVyIHJldXNlLCB0cmFjZSBlbGVtZW50IGdlb2NoZW1pc3RyeSwgYW5kIHByb2Nlc3MgbW9kZWxpbmcuIERyLiBBbmRlcnNvbiBpcyBjdXJyZW50bHkgY28tZGlyZWN0b3Igb2YgdGhlIEFybW91ciBDb2xsZWdlIG9mIEVuZ2luZWVyaW5nIGRpc3RpbmN0aXZlIGVkdWNhdGlvbiB0aGVtZSBmb2N1c2VkIG9uIHdhdGVyLiANCg0KRWR1Y2F0aW9uDQoNCiogQi5TLiBmcm9tIFB1cmR1ZSBVbml2ZXJzaXR5IChFbmdpbmVlcmluZywgMTk3NCkgDQoNCiogTS5TLiBmcm9tIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSBhdCBTYW4gRGllZ28NCg0KKiBQaC5ELiBmcm9tIFVuaXZlcnNpdHkgb2YgV2FzaGluZ3RvbiAoQ2l2aWwgRW5naW5lZXJpbmcsIDE5ODcp</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911530306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

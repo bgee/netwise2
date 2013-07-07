@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:40 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916030306521"  usageLimitType="allocation" usageLimit="200" currentUsage="55" remainingUsage="145" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Lan Jiang</FormattedName>
+<GivenName>Lan</GivenName>
+<FamilyName>Jiang</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (248) 370-3552</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>248</AreaCityCode>
+<SubscriberNumber>370-3552</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>jiang23@oakland.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<PublicationHistory>
+<Article>
+<Title>The Drosophila Dead end Arf-like3 GTPase controls vesicle trafficking during tracheal fusion cell morphogenesis</Title>
+<Name role="author">
+<FormattedName>Jiang, L., Roger S. and Crews, S.T</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Transcriptional specificity of Drosophila dysfusion and the control of tracheal fusion cell gene expression</Title>
+<Name role="author">
+<FormattedName>Jiang, L. and Crews, S.T</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Bio</JournalOrSerialName>
+</Article>
+<Article>
+<Title>dysfusion Transcriptional Control of Drosophila Tracheal Migration</Title>
+<Name role="author">
+<FormattedName>Jiang, L. and Crews, S.T</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Adhesion and Fusion</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The Drosophila dysfusion basic helix-loop-helix gene controls tracheal fusion and levels of the trachealess bHLH-PAS protein</Title>
+<Name role="author">
+<FormattedName>Jiang, L. and Crews, S.T</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Cancer">
+<CompetencyEvidence name ="Cancer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Cellular">
+<CompetencyEvidence name ="Cellular">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Local Area Network">
+<CompetencyEvidence name ="Local Area Network">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "VASCULAR">
+<CompetencyEvidence name ="VASCULAR">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TGFuIEppYW5nDQoNCkFzc2lzdGFudCBQcm9mZXNzb3IsIFBoLkQuDQoNCjMyMiBESEUNCg0KKDI0OCkgMzcwLTM1NTINCg0KTGFiIExvY2F0aW9uOiAzMjEgREhFLCAzMjMgREhFDQoNCmppYW5nMjNAb2FrbGFuZC5lZHUNCg0KDQoNClJlc2VhcmNoIDogTWVjaGFuaXNtcyBvZiBiaW9sb2dpY2FsIHR1YmUgZm9ybWF0aW9uIGluIERyb3NvcGhpbGEgdHJhY2hlYWwgc3lzdGVtDQoNCg0KDQpCaW9sb2dpY2FsIHR1YmUgZm9ybWF0aW9uIGlzIGEgZGV2ZWxvcG1lbnRhbCBwcm9jZXNzIHJlcXVpcmVkIGZvciB0aGUgZm9ybWF0aW9uIG9mIHRoZSByZXNwaXJhdG9yeSwgdmFzY3VsYXIgYW5kIGdsYW5kdWxhciBzeXN0ZW0gb2YgdGhlIGJvZHkuIERlZmVjdHMgaW4gdHViZSBmb3JtYXRpb24gcmVzdWx0IGluIG51bWVyb3VzIGh1bWFuIGRpc2Vhc2VzIGluY2x1ZGluZyBwb2x5Y3lzdGljIGtpZG5leSBkaXNlYXNlLCBhdGhlcm9zY2xlcm90aWMgaGVhcnQgZGlzZWFzZSBhbmQgY2FuY2VyLiBUaGUgRHJvc29waGxpYSB0cmFjaGVhIHN5c3RlbSBpcyBhIGNvbXBsZXggaW50ZXJjb25uZWN0ZWQgdHVidWxhciBuZXR3b3JrIHRoYXQgZGVsaXZlcnMgb3h5Z2VuIHRvIGV2ZXJ5IGNlbGwgb2YgdGhlIGJvZHkuIEl0IGlzIGFuIGV4Y2VsbGVudCBtb2RlbCBzeXN0ZW0gdG8gc3R1ZHkgdGhlIG1vbGVjdWxhciBiYXNpcyBvZiBjZWxsIG1pZ3JhdGlvbiwgY2VsbCByZWNvZ25pdGlvbiwgY2VsbCBhZGhlc2lvbiBhbmQgYnJhbmNoIGZ1c2lvbiBkdXJpbmcgdHViZSBmb3JtYXRpb24uIE15IHdvcmsgaXMgZm9jdXNlZCBvbiBzdHVkeWluZyB0aGUgcmVndWxhdGlvbiBvZiB0cmFjaGVhbCBnZW5lIGV4cHJlc3Npb24gYW5kIGhvdyB0cmFjaGVhbC1leHByZXNzZWQgZ2VuZXMgY29udHJvbCB0aGUgY29tcGxleCBjZWxsdWxhciBiZWhhdmlvcnMgdGhhdCByZXN1bHQgaW4gdGhlIGZvcm1hdGlvbiBvZiBhIGNvbnRpbnVvdXMgdHVidWxhciBuZXR3b3JrLiBDdXJyZW50IHByb2plY3RzIGluIG15IGxhYiBmb2N1cyBvbiAxKSB1c2luZyBtb2xlY3VsYXIgYmlvbG9neSB0ZWNobmlxdWVzIHRvIGRldGVybWluZSBtaW5pbWFsIHJlZ3VsYXRvcnkgcmVnaW9ucyBvZiB0cmFjaGVhbC1leHByZXNzZWQgZ2VuZXMgdG8gaWRlbnRpZnkgcG90ZW50aWFsIGRpcmVjdCByZWd1bGF0b3JzLCAyKSB1c2luZyBleHByZXNzaW9uIHByb2ZpbGluZyBhbmQgY2VsbC1zZXBhcmF0aW9uIHRlY2huaXF1ZXMgdG8gaXNvbGF0ZSB0cmFjaGVhbCBjZWxscyBhbmQgZXhhbWluZSBnZW5lIGV4cHJlc3Npb24gY2hhbmdlcyBhdCBkaWZmZXJlbnQgZGV2ZWxvcG1lbnRhbCB0aW1lLXBvaW50cy4gMykgdXNpbmcgZ2VuZXRpY3MgdG8gdW5kZXJzdGFuZCB0aGUgcm9sZSB0aGF0IHRyYWNoZWFsIGdlbmVzIHBsYXkgZHVyaW5nIHRoZSBkZXZlbG9wbWVudCBhbmQgZnVuY3Rpb24gb2YgdGhlIHRyYWNoZWFsIHN5c3RlbS4NCg0KDQoNCkxhbiBSZXNlYXJjaA0KDQoNCg0KQW4gaW1hZ2Ugb2YgdGhlIGRldmVsb3BpbmcgRHJvc29waGlsYSB0cmFjaGVhIGlsbHVzdHJhdGluZyB0aGUgbG9jYXRpb24gb2YgdGhlIHRyYWNoZWFsIGZ1c2lvbiBjZWxscyAobWFnZW50YSkgdGhhdCBsZWFkIGJyYW5jaCBtaWdyYXRpb24gYW5kIGZ1c2lvbi4gQ29uZm9jYWwgaW1hZ2Ugb2YgYSBzdGFnZSAxNSBicmVhdGhsZXNzLUdhbDQgVUFTLWxhY1ogZW1icnlvIHdpdGggdGhlIHRyYWNoZWEgdmlzdWFsaXplZCBieSBhbnRpLcOfLWdhbGFjdG9zaWRhc2UgaW1tdW5vc3RhaW5pbmcgKGdyZWVuKSwgYW5kIHRoZSBmdXNpb24gY2VsbHMgaW5kaWNhdGVkIGJ5IGFudGktRHlzZnVzaW9uLg0KDQoNCg0KUHVibGljYXRpb25zDQoNCg0KDQogICAgSmlhbmcsIEwuLCBSb2dlciBTLiBhbmQgQ3Jld3MsIFMuVC4gKDIwMDcpIFRoZSBEcm9zb3BoaWxhIERlYWQgZW5kIEFyZi1saWtlMyBHVFBhc2UgY29udHJvbHMgdmVzaWNsZSB0cmFmZmlja2luZyBkdXJpbmcgdHJhY2hlYWwgZnVzaW9uIGNlbGwgbW9ycGhvZ2VuZXNpcy4gRGV2LiBCaW8uMTU6NDg3LTQ5OS4gKFNlbGVjdGVkIGFzIGEgUmVjb21tZW5kZWQgUmVhZCBieSBGYWN1bHR5IG9mIDEwMDApDQoNCg0KDQogICAgSmlhbmcsIEwuIGFuZCBDcmV3cywgUy5ULiAoMjAwNykgVHJhbnNjcmlwdGlvbmFsIHNwZWNpZmljaXR5IG9mIERyb3NvcGhpbGEgZHlzZnVzaW9uIGFuZCB0aGUgY29udHJvbCBvZiB0cmFjaGVhbCBmdXNpb24gY2VsbCBnZW5lIGV4cHJlc3Npb24uIEouIEJpby4gQ2hlbS4gMjg6IDI4NjU5LTY4LiAod2l0aCBjb3ZlciBwaG90bykNCg0KDQoNCiAgICBKaWFuZywgTC4gYW5kIENyZXdzLCBTLlQuICgyMDA2KSBkeXNmdXNpb24gVHJhbnNjcmlwdGlvbmFsIENvbnRyb2wgb2YgRHJvc29waGlsYSBUcmFjaGVhbCBNaWdyYXRpb24sIEFkaGVzaW9uLCBhbmQgRnVzaW9uLiBNby4gQ2VsbC4gQmlvbC4gMjY6IDY1NDctNjU1Ni4od2l0aCBjb3ZlciBwaG90bykNCg0KDQoNCiAgICBKaWFuZywgTC4gYW5kIENyZXdzLCBTLlQuICgyMDAzKSBUaGUgRHJvc29waGlsYSBkeXNmdXNpb24gYmFzaWMgaGVsaXgtbG9vcC1oZWxpeCAoYkhMSCktUEFTIGdlbmUgY29udHJvbHMgdHJhY2hlYWwgZnVzaW9uIGFuZCBsZXZlbHMgb2YgdGhlIHRyYWNoZWFsZXNzIGJITEgtUEFTIHByb3RlaW4uIE1vbC4gQ2VsbC4gQmlvbC4gMjM6IDU2MjUtNTYzNy4od2l0aCBjb3ZlciBwaG90bykgKFNlbGVjdGVkIGFzIGEgcmVjb21tZW5kZWQgcmVhZCBieSBmYWN1bHR5IG9mIDEwMDAp</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916030306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

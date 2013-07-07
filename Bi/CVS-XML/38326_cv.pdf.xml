@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:41 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913021306521"  usageLimitType="allocation" usageLimit="200" currentUsage="110" remainingUsage="90" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Ethan D. Bolker</FormattedName>
+<GivenName>Ethan</GivenName>
+<MiddleName>D.</MiddleName>
+<FamilyName>Bolker</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>02461-1416</PostalCode>
+<Region>MA</Region>
+<Municipality>Newton Highlands</Municipality>
+<DeliveryAddress>
+<AddressLine>10 Chester Street University of Massachusetts Boston</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (617) 969-2892</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>617</AreaCityCode>
+<SubscriberNumber>969-2892</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>onPerson</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Mobile>
+<FormattedNumber>+1 (617) 287-6444</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>617</AreaCityCode>
+<SubscriberNumber>287-6444</SubscriberNumber>
+</Mobile>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (617) 287-6433</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>617</AreaCityCode>
+<SubscriberNumber>287-6433</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>eb@cs.umb.edu</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://www.cs.umb.edu/~eb</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>UMass Boston</EmployerOrgName>
+<PositionHistory>
+<Title>Professor, Department of Mathematics and Computer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1972-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bryn Mawr College.</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant and Associate Professor, Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Science (Chair 1989-2001)
+</Description>
+<StartDate>
+<AnyDate>1964-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1972-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Princeton University</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor, Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>ADJUNCT AND AFFILIATE POSITIONS 2000: Massachusetts Institute of Technology, Visiting Scholar, Department of Mathematics 1986: Harvard University, Visiting Scholar, Graduate School of Design
+</Description>
+<StartDate>
+<AnyDate>1963-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1964-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Harvard University</EmployerOrgName>
+<PositionHistory>
+<Title>Honorary Research Associate, Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1979-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1971-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of California</EmployerOrgName>
+<PositionHistory>
+<Title>Research Fellow, Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode><Municipality>Berkeley</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>ELEMENTARY AND SECONDARY EDUCATION
+</Description>
+<StartDate>
+<AnyDate>1967-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1968-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Manning Elementary School.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Working with teachers and students several grade levels at the J. P.
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>(Boston University)</EmployerOrgName>
+<PositionHistory>
+<Title>Consultant to Dean Edwin DeLattre</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>on the revision of the Massachusetts Frameworks for Mathematics. 1995: Worked with TEAMS - BC at UMass on a grant proposal (funded) to train elementary and secondary school teachers in science.
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>design &quot;Another Course to College&quot;</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Served on the steering committee an alternative high school staffed jointly by the Boston school system and UMass-Boston. Taught algebra for two years at the school. INDUSTRIAL EXPERIENCE
+</Description>
+<StartDate>
+<AnyDate>1976-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1979-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>BMC Software</EmployerOrgName>
+<PositionHistory>
+<Title>Consultant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Waltham</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>(formerly BGS Systems) BMC builds software for performance monitoring and modeling and capacity planning of large computer systems. Responsibilities included algorithm development (queueing theory), software architecture, user interface design, development environment tools and some project management. OTHER PROFESSIONAL ACTIVITY Reviewer for Mathematical Reviews (American Mathematical Society), Science Books and Films (American Association for the Advancement of Science) Active proselytizer for mathematics. Taught more times than I can count at neighborhood public libraries, community schools, adult education programs and in my childrens&apos; classes and schools. Occasional consultant to staff writers at the Boston Globe on matters mathematical. SCHOLARSHIPS, FELLOWSHIPS, ACADEMIC HONORS Chancellor&apos;s Award for Teaching, UMass Boston, 2003 Chancellor&apos;s Award for Scholarship, UMass Boston, 1979
+</Description>
+<StartDate>
+<AnyDate>1982-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>National Science Foundation Cooperative Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>A. B. degree summa cum laude
+</Description>
+<StartDate>
+<AnyDate>1960-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1964-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Harvard University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1965-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Harvard University</SchoolName>
+</School>
+<Degree>
+<DegreeName>A.B</DegreeName>
+<DegreeDate>
+<AnyDate>1961-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>A.M. mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Harvard College</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>1959-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>&quot;Andrew M. Gleason</Title>
+<Volume>83</Volume>
+<PageNumber>2001-2008&quot;</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Interactive computer simulations of genetics biochemistry and molecular biology&quot;</Title>
+<Name role="author">
+<FormattedName>Brian White)</FormattedName>
+</Name>
+<JournalOrSerialName>Biochemistry and Molecular Biology Education vol</JournalOrSerialName>
+<Volume>36</Volume>
+</Article>
+<Article>
+<Title>&quot;The Virtual Genetics Lab: a Freely-available Open-source Genetics Simulation&quot;</Title>
+<Name role="author">
+<FormattedName>(with BrianWhite</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Biology Teacher vol</Title>
+<Volume>69</Volume>
+</Article>
+<Article>
+<Title>&quot;A Simple Algorithm that Proves Half-Integrality of Bidirected Network Programming&quot;</Title>
+<Name role="author">
+<FormattedName>(with Thomas Zaslavsky)</FormattedName>
+</Name>
+<JournalOrSerialName>Networks vol</JournalOrSerialName>
+<Volume>48</Volume>
+</Article>
+<Article>
+<Title>&quot;Virtual performance won&apos;t do: Capacity planning for virtual systems&quot;</Title>
+<Name role="author">
+<FormattedName>(with Yiping</FormattedName>
+</Name>
+<JournalOrSerialName>Ding)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;GIS Maps Over the Internet&quot;</Title>
+<Name role="author">
+<FormattedName>(with Honglei Dai and Bill Mahoney)</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Proceedings of the</JournalOrSerialName>
+</Article>
+<Article>
+<Title>pp T4G-23 - T4G-28</Title>
+<PublicationDate>
+<StringDate>November 2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(http://fie.engrng.pitt.edu/fie2002/)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Fair Share Modeling for Large Systems: Aggregation</Title>
+<JournalOrSerialName>Hierarchical Decomposition and Randomization&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>pp S14-S17</Title>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>&quot;Goal Mode Scheduling&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Horizons (Mathematical Association of America)</Title>
+<PublicationDate>
+<StringDate>November 1997</StringDate>
+</PublicationDate>
+<JournalOrSerialName>pp. 12-16</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;The Combinatorial Radon Transform modulo the Symmetric Group&quot;</Title>
+<Name role="author">
+<FormattedName>(with Jan Boman Patrick</FormattedName>
+</Name>
+<JournalOrSerialName>O&apos;Neil)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Admissible Complexes for the Combinatorial Radon Transform&quot;</Title>
+<Name role="author">
+<FormattedName>(with Eric Grinberg Joseph Kung)</FormattedName>
+</Name>
+<JournalOrSerialName>Contemporary Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Convex Polyhedra</Title>
+<PublicationDate>
+<StringDate>1</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Dirichlet Tessellations and Spider Webs&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Whiteley)</Title>
+<Name role="author">
+<FormattedName>Crapo and Walter</FormattedName>
+</Name>
+<JournalOrSerialName>Chapter</JournalOrSerialName>
+<Volume>17</Volume>
+</Article>
+<Article>
+<Title>Editors</Title>
+<Name role="author">
+<FormattedName>Senechal and George Fleck</FormattedName>
+</Name>
+<JournalOrSerialName>Birkhauser</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;The Finite Radon Transform&quot;</Title>
+<JournalOrSerialName>Contemporary Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Society)</Title>
+<Volume>63</Volume>
+<PageNumber>27-49.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Generalized Dirichlet Tessellations&quot;</Title>
+<Name role="author">
+<FormattedName>(with Peter Ash)</FormattedName>
+</Name>
+<JournalOrSerialName>Geometreia Dedicata</JournalOrSerialName>
+<Volume>20243.</Volume>
+<PageNumber>209-</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Recognizing Dirichlet Tessellations&quot;</Title>
+<Name role="author">
+<FormattedName>(with Peter Ash)</FormattedName>
+</Name>
+<JournalOrSerialName>Geometreia Dedicata</JournalOrSerialName>
+<Volume>19206.</Volume>
+<PageNumber>175-</PageNumber>
+</Article>
+<Article>
+<Title>&quot;The bias of three pseudorandom shuffles&quot;</Title>
+<Name role="author">
+<FormattedName>(with David Robbins)</FormattedName>
+</Name>
+<JournalOrSerialName>Aequationes Mathematicae</JournalOrSerialName>
+<Volume>22</Volume>
+<PageNumber>268-292.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;When is a bipartite graph a rigid framework &quot;</Title>
+<Name role="author">
+<FormattedName>(With Ben Roth)</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Mathematics</Title>
+<PublicationDate>
+<StringDate>1981</StringDate>
+</PublicationDate>
+<PageNumber>27-44.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Counting permutations&quot;</Title>
+<Name role="author">
+<FormattedName>(with Andrew Gleason)</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Combinatorial Theory</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Bracing rectangular frameworks</Title>
+<Name role="author">
+<FormattedName>II&quot;, SIAM</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Applied Mathematics</JournalOrSerialName>
+<Volume>36508.</Volume>
+<PageNumber>491-</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Bracing rectangular frameworks</Title>
+<Name role="author">
+<FormattedName>(with Henry Crapo)</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Mathematics</Title>
+<PublicationDate>
+<StringDate>1979</StringDate>
+</PublicationDate>
+<Volume>4</Volume>
+<PageNumber>473-490.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;How to brace a one story building&quot;</Title>
+<Name role="author">
+<FormattedName>(with Henry Crapo)</FormattedName>
+</Name>
+<JournalOrSerialName>Environment and Planning B</JournalOrSerialName>
+<Volume>4</Volume>
+<PageNumber>125-152.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Bracing grids of cubes&quot;</Title>
+<JournalOrSerialName>Environment and Planning B</JournalOrSerialName>
+<Volume>4</Volume>
+<PageNumber>157-172.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;A topological proof of a well known fact about Fibonacci numbers&quot;</Title>
+<Name role="author">
+<FormattedName>The</FormattedName>
+</Name>
+<JournalOrSerialName>Fibonacci Quarterly</JournalOrSerialName>
+<Volume>1977245.</Volume>
+</Article>
+<Article>
+<Title>&quot;Simplicial geometry and transportation polytopes&quot;</Title>
+<JournalOrSerialName>Transactions of the American Mathematical Society</JournalOrSerialName>
+<Volume>217</Volume>
+<PageNumber>121-142.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Remarks on M. Balch and P. Fishburn&apos;s &quot;Subjective utility of conditional primitives&quot;&quot;</Title>
+<JournalOrSerialName>in Essays on Economic Behavior Under Uncertainty</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Degrees of Freedom Calculations for Multiway Contingency Tables&quot;</Title>
+<Name role="author">
+<FormattedName>(with Donald</FormattedName>
+</Name>
+<JournalOrSerialName>Olivier)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Science</Title>
+<Name role="author">
+<FormattedName>Ph.D., M.S., AND</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>May 1991</StringDate>
+</PublicationDate>
+<JournalOrSerialName>HONORS DISSERTATION COMMITTEES &quot;Performance Modeling and Capacity Planning&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>chair &quot;Workload Characterization Using UNIX System Accounting&quot;</Title>
+<PublicationDate>
+<StringDate>1991</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Jerik Tornheim MS</JournalOrSerialName>
+</Article>
+<Article>
+<Title>UMass-Boston</Title>
+<PublicationDate>
+<StringDate>1987</StringDate>
+</PublicationDate>
+<JournalOrSerialName>chair</JournalOrSerialName>
+<Volume>6</Volume>
+</Article>
+<Book>
+<Title>Java Outside In</Title>
+<Name role="author">
+<FormattedName>(with Bill</FormattedName>
+</Name>
+<Abstract>Cambridge University Press Cambridge England</Abstract>
+</Book>
+<Book>
+<Title>Using Algebra</Title>
+<Name role="author">
+<FormattedName>New York NY</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<Abstract>Little Brown and Co Boston MA. 1983 republished Wyndham Hall Press</Abstract>
+</Book>
+<Book>
+<Title>First Year Calculus</Title>
+<Name role="author">
+<FormattedName>(with Joseph Kitchen Jr.)</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1990</StringDate>
+</PublicationDate>
+<Abstract>Addison Wesley Reading MA 1974.</Abstract>
+</Book>
+<Book>
+<Title>Elementary Number Theory an Algebraic Approach W. A</Title>
+<Name role="author">
+<FormattedName>Benjamin, New York NY</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1970</StringDate>
+</PublicationDate>
+</Book>
+<Book>
+<Title>Notes on Harmonic Analysis from lectures by Lynn Loomis</Title>
+</Book>
+<ConferencePaper>
+<Title>&quot;Gergonne&apos;s Card Trick</Title>
+<EventName>AND CONFERENCE PROCEEDINGS</EventName>
+<ConferenceLocation>Mineola NY</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;How Many Guests Can You Serve* - On the Number of Partitions&quot;</Title>
+<Name role="author">
+<FormattedName>(with Yiping Ding)</FormattedName>
+</Name>
+<EventName>Proceedings of the 35th Computer Measurement Group Conference</EventName>
+<ConferenceDate>
+<StringDate>December 2006</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Mineola NY</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Performance Implications of Hyper-Threading&quot;</Title>
+<Name role="author">
+<FormattedName>(with Yiping Ding and Arjun Kumar)</FormattedName>
+</Name>
+<EventName>Proceedings of the 32nd Computer Measurement Group Conference</EventName>
+<ConferenceDate>
+<StringDate>December 2003</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Mineola NY</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Teaching programming by immersion reading and writing&quot;</Title>
+<Name role="author">
+<FormattedName>(with Bill Campbell)</FormattedName>
+</Name>
+<EventName>Proceedings of the 32nd ASEE/IEEE Conference on Frontiers in Education</EventName>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Interpreting Windows NT Processor Queue Length Measurements&quot;</Title>
+<Name role="author">
+<FormattedName>(with Yiping Ding, William Flynn, Debbie Sheetz and Yefim Somin)</FormattedName>
+</Name>
+<EventName>Proceedings of the 31st Computer Measurement Group Conference</EventName>
+<ConferenceDate>
+<StringDate>December 2002</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;On the Performance Impact of Fair Share Scheduling&quot;</Title>
+<Name role="author">
+<FormattedName>(with Yiping Ding)</FormattedName>
+</Name>
+<EventName>Measurement Group Conference</EventName>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;An Existence Theorem for the Logic of Decision&quot;</Title>
+<EventName>the 30th Computer Measurement Group Conference</EventName>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Modeling Jury Decay in a High Profile Criminal Trial&quot;</Title>
+<Name role="author">
+<FormattedName>(with Benjamin</FormattedName>
+</Name>
+<EventName>Group Conference</EventName>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;A Capacity Planning/Queueing Theory Primer&quot;</Title>
+<EventName>Proceedings of the 18th Computer Measurement Group conference</EventName>
+<ConferenceDate>
+<StringDate>December 1987</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Measuring and Modeling MVS under VM&quot;</Title>
+<EventName>Proceedings of the 16th Computer Measurement Group conference</EventName>
+<ConferenceDate>
+<StringDate>December 1985</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Modeling Memory &quot;</Title>
+<Name role="author">
+<FormattedName>(with S. Agrawal and A. Shum)</FormattedName>
+</Name>
+<EventName>Proceedings of the 17th Computer Measurement Group conference</EventName>
+<ConferenceDate>
+<StringDate>December 1986</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;On tuning the fair share scheduler in VM operating systems&quot;</Title>
+<Name role="author">
+<FormattedName>(with S. Agrawal, J. Buzen, J. Munoz and T. Grieser)</FormattedName>
+</Name>
+<EventName>Proceedings of the 15th Computer Measurement Group conference</EventName>
+<ConferenceDate>
+<StringDate>December 1984</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Accenture FOUNDATION">
+<CompetencyEvidence name ="Accenture FOUNDATION">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "BMC Software">
+<CompetencyEvidence name ="BMC Software" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Capacity Planning">
+<CompetencyEvidence name ="Capacity Planning" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Interface Design">
+<CompetencyEvidence name ="Interface Design" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Project Management">
+<CompetencyEvidence name ="Project Management" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Science">
+<CompetencyEvidence name ="Science" lastUsed="1972-01-01">
+<NumericValue description="Range in years of experience">8</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Software Architecture">
+<CompetencyEvidence name ="Software Architecture" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "User Interface">
+<CompetencyEvidence name ="User Interface" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Description>Common Sense: Quantitative Reasoning in the Undergraduate Curriculum. NSF grant number 0942186</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description> 2010</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>American Mathematical Society</Name>
+</Association>
+<Association>
+<Name>Mathematical Association of America</Name>
+</Association>
+<Association>
+<Name>Computer Professionals for Social Responsibility</Name>
+</Association>
+<Association>
+<Name>Association for Women in Mathematics</Name>
+</Association>
+<Association>
+<Name>Federation of American Scientists</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RXRoYW4gRC4gQm9sa2VyDQoNCg0KDQogICAgICAgICBNYXRoZW1hdGljcyBhbmQgQ29tcHV0ZXIgU2NpZW5jZSAgICAgICAgICAgICAgICAgICAgMTAgQ2hlc3RlciBTdHJlZXQNCg0KICAgICAgICAgVW5pdmVyc2l0eSBvZiBNYXNzYWNodXNldHRzLCBCb3N0b24gICAgICAgICAgICAgICAgIE5ld3RvbiBIaWdobGFuZHMsIE1BIDAyNDYxLTE0MTYNCg0KICAgICAgICAgQm9zdG9uLCBNQSAwMjEyNS0zMzEzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICg2MTcpIDk2OS0yODkyDQoNCiAgICAgICAgICg2MTcpIDI4Ny02NDQ0DQoNCiAgICAgICAgICg2MTcpIDI4Ny02NDMzIChmYXgpDQoNCiAgICAgICAgIGViQGNzLnVtYi5lZHUNCg0KICAgICAgICAgaHR0cDovL3d3dy5jcy51bWIuZWR1L35lYg0KDQoNCg0KDQoNCg0KDQoNCg0KRURVQ0FUSU9ODQoNCg0KDQogICAgICAgICBQaC5EICAgICBtYXRoZW1hdGljcyAgICAgICAgIEhhcnZhcmQgVW5pdmVyc2l0eSAgICAgICAxOTY1DQoNCiAgICAgICAgIEEuTS4gICAgIG1hdGhlbWF0aWNzICAgICAgICAgSGFydmFyZCBVbml2ZXJzaXR5ICAgICAgIDE5NjENCg0KICAgICAgICAgQS5CLiAgICAgbWF0aGVtYXRpY3MgICAgICAgICBIYXJ2YXJkIENvbGxlZ2UgICAgICAgICAgMTk1OQ0KDQoNCg0KDQoNClJFU0VBUkNIIEFORCBURUNITklDQUwgSU5URVJFU1RTDQoNCg0KDQogICAgICAgICBjb21iaW5hdG9yaWNzLCBnZW9tZXRyeSwgcGVyZm9ybWFuY2UgbW9kZWxpbmcgb2YgY29tcHV0ZXIgc3lzdGVtcywgcXVldWVpbmcgdGhlb3J5DQoNCg0KDQpBQ0FERU1JQyBQT1NJVElPTlMNCg0KDQoNCiAgICAgICAgIDE5NzItcHJlc2VudDogVU1hc3MgQm9zdG9uLCBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MgYW5kIENvbXB1dGVyDQoNCiAgICAgICAgIFNjaWVuY2UgKENoYWlyIDE5ODktMjAwMSksDQoNCiAgICAgICAgIDE5NjQtMTk3MjogQnJ5biBNYXdyIENvbGxlZ2UuIEFzc2lzdGFudCBhbmQgQXNzb2NpYXRlIFByb2Zlc3NvciwgTWF0aGVtYXRpY3MsDQoNCiAgICAgICAgIDE5NjMtMTk2NDogUHJpbmNldG9uIFVuaXZlcnNpdHksIEluc3RydWN0b3IsIE1hdGhlbWF0aWNzDQoNCg0KDQpBREpVTkNUIEFORCBBRkZJTElBVEUgUE9TSVRJT05TDQoNCg0KDQogICAgICAgICAyMDAwOiBNYXNzYWNodXNldHRzIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBWaXNpdGluZyBTY2hvbGFyLCBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzDQoNCiAgICAgICAgIDE5ODY6IEhhcnZhcmQgVW5pdmVyc2l0eSwgVmlzaXRpbmcgU2Nob2xhciwgR3JhZHVhdGUgU2Nob29sIG9mIERlc2lnbg0KDQogICAgICAgICAxOTc5LCAxOTcxLTE5NzI6IEhhcnZhcmQgVW5pdmVyc2l0eSwgSG9ub3JhcnkgUmVzZWFyY2ggQXNzb2NpYXRlLCBNYXRoZW1hdGljcw0KDQogICAgICAgICAxOTY3LTE5Njg6IFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSwgQmVya2VsZXksIFJlc2VhcmNoIEZlbGxvdywgTWF0aGVtYXRpY3MNCg0KDQoNCkVMRU1FTlRBUlkgQU5EIFNFQ09OREFSWSBFRFVDQVRJT04NCg0KDQoNCiAgICAgICAgIDIwMDAtcHJlc2VudDogV29ya2luZyB3aXRoIHRlYWNoZXJzIGFuZCBzdHVkZW50cyBhdCBzZXZlcmFsIGdyYWRlIGxldmVscyBhdCB0aGUgSi4gUC4NCg0KICAgICAgICAgTWFubmluZyBFbGVtZW50YXJ5IFNjaG9vbC4NCg0KDQoNCiAgICAgICAgIDIwMDAuIENvbnN1bHRhbnQgdG8gRGVhbiBFZHdpbiBEZUxhdHRyZSAoQm9zdG9uIFVuaXZlcnNpdHkpIG9uIHRoZSByZXZpc2lvbiBvZiB0aGUNCg0KICAgICAgICAgTWFzc2FjaHVzZXR0cyBGcmFtZXdvcmtzIGZvciBNYXRoZW1hdGljcy4NCg0KDQoNCiAgICAgICAgIDE5OTU6IFdvcmtlZCB3aXRoIFRFQU1TLUJDIGF0IFVNYXNzIG9uIGEgZ3JhbnQgcHJvcG9zYWwgKGZ1bmRlZCkgdG8gdHJhaW4gZWxlbWVudGFyeQ0KDQogICAgICAgICBhbmQgc2Vjb25kYXJ5IHNjaG9vbCB0ZWFjaGVycyBpbiBzY2llbmNlLg0KDQoNCg0KICAgICAgICAgMTk3Ni0xOTc5OiBTZXJ2ZWQgb24gdGhlIHN0ZWVyaW5nIGNvbW1pdHRlZSB0byBkZXNpZ24gIkFub3RoZXIgQ291cnNlIHRvIENvbGxlZ2UiLCBhbg0KDQogICAgICAgICBhbHRlcm5hdGl2ZSBoaWdoIHNjaG9vbCBzdGFmZmVkIGpvaW50bHkgYnkgdGhlIEJvc3RvbiBzY2hvb2wgc3lzdGVtIGFuZCBVTWFzcy1Cb3N0b24uDQoNCiAgICAgICAgIFRhdWdodCBhbGdlYnJhIGZvciB0d28geWVhcnMgYXQgdGhlIHNjaG9vbC4NCg0KSU5EVVNUUklBTCBFWFBFUklFTkNFDQoNCg0KDQogICAgICAgIDE5ODItMjAwNjogQ29uc3VsdGFudCB0byBCTUMgU29mdHdhcmUgKGZvcm1lcmx5IEJHUyBTeXN0ZW1zKSwgV2FsdGhhbSwgTUEuIEJNQw0KDQogICAgICAgIGJ1aWxkcyBzb2Z0d2FyZSBmb3IgcGVyZm9ybWFuY2UgbW9uaXRvcmluZyBhbmQgbW9kZWxpbmcgYW5kIGNhcGFjaXR5IHBsYW5uaW5nIG9mIGxhcmdlDQoNCiAgICAgICAgY29tcHV0ZXIgc3lzdGVtcy4gUmVzcG9uc2liaWxpdGllcyBpbmNsdWRlZCBhbGdvcml0aG0gZGV2ZWxvcG1lbnQgKHF1ZXVlaW5nIHRoZW9yeSksDQoNCiAgICAgICAgc29mdHdhcmUgYXJjaGl0ZWN0dXJlLCB1c2VyIGludGVyZmFjZSBkZXNpZ24sIGRldmVsb3BtZW50IGVudmlyb25tZW50IHRvb2xzIGFuZCBzb21lDQoNCiAgICAgICAgcHJvamVjdCBtYW5hZ2VtZW50Lg0KDQoNCg0KT1RIRVIgUFJPRkVTU0lPTkFMIEFDVElWSVRZDQoNCg0KDQogICAgICAgIFJldmlld2VyIGZvciBNYXRoZW1hdGljYWwgUmV2aWV3cyAoQW1lcmljYW4gTWF0aGVtYXRpY2FsIFNvY2lldHkpLCBTY2llbmNlIEJvb2tzIGFuZA0KDQogICAgICAgIEZpbG1zIChBbWVyaWNhbiBBc3NvY2lhdGlvbiBmb3IgdGhlIEFkdmFuY2VtZW50IG9mIFNjaWVuY2UpDQoNCg0KDQogICAgICAgIEFjdGl2ZSBwcm9zZWx5dGl6ZXIgZm9yIG1hdGhlbWF0aWNzLiBUYXVnaHQgbW9yZSB0aW1lcyB0aGFuIEkgY2FuIGNvdW50IGF0IG5laWdoYm9yaG9vZA0KDQogICAgICAgIHB1YmxpYyBsaWJyYXJpZXMsIGNvbW11bml0eSBzY2hvb2xzLCBhZHVsdCBlZHVjYXRpb24gcHJvZ3JhbXMgYW5kIGluIG15IGNoaWxkcmVucycNCg0KICAgICAgICBjbGFzc2VzIGFuZCBzY2hvb2xzLg0KDQoNCg0KICAgICAgICBPY2Nhc2lvbmFsIGNvbnN1bHRhbnQgdG8gc3RhZmYgd3JpdGVycyBhdCB0aGUgQm9zdG9uIEdsb2JlIG9uIG1hdHRlcnMgbWF0aGVtYXRpY2FsLg0KDQoNCg0KU0NIT0xBUlNISVBTLCBGRUxMT1dTSElQUywgQUNBREVNSUMgSE9OT1JTDQoNCg0KDQogICAgICAgIENoYW5jZWxsb3IncyBBd2FyZCBmb3IgVGVhY2hpbmcsIFVNYXNzIEJvc3RvbiwgMjAwMw0KDQogICAgICAgIENoYW5jZWxsb3IncyBBd2FyZCBmb3IgU2Nob2xhcnNoaXAsIFVNYXNzIEJvc3RvbiwgMTk3OQ0KDQogICAgICAgIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiBDb29wZXJhdGl2ZSBGZWxsb3csIDE5NjAtMTk2NA0KDQogICAgICAgIEEuIEIuIGRlZ3JlZSBzdW1tYSBjdW0gbGF1ZGUNCg0KDQoNCg0KDQpQUk9GRVNTSU9OQUwgU09DSUVUSUVTDQoNCg0KDQogICAgICAgIEFtZXJpY2FuIE1hdGhlbWF0aWNhbCBTb2NpZXR5DQoNCiAgICAgICAgTWF0aGVtYXRpY2FsIEFzc29jaWF0aW9uIG9mIEFtZXJpY2ENCg0KICAgICAgICBDb21wdXRlciBQcm9mZXNzaW9uYWxzIGZvciBTb2NpYWwgUmVzcG9uc2liaWxpdHkNCg0KICAgICAgICBBc3NvY2lhdGlvbiBmb3IgV29tZW4gaW4gTWF0aGVtYXRpY3MNCg0KICAgICAgICBGZWRlcmF0aW9uIG9mIEFtZXJpY2FuIFNjaWVudGlzdHMNCg0KDQoNCkJPT0tTDQoNCg0KDQogICAgICAgIEphdmEgT3V0c2lkZSBJbiAod2l0aCBCaWxsIENhbXBiZWxsKS4gQ2FtYnJpZGdlIFVuaXZlcnNpdHkgUHJlc3MsIENhbWJyaWRnZSwgRW5nbGFuZA0KDQogICAgICAgIGFuZCBOZXcgWW9yayBOWSwgMjAwMy4NCg0KDQoNCiAgICAgICAgVXNpbmcgQWxnZWJyYSwgTGl0dGxlLCBCcm93biBhbmQgQ28sIEJvc3RvbiBNQS4sIDE5ODM7IHJlcHVibGlzaGVkIFd5bmRoYW0gSGFsbCBQcmVzcywNCg0KICAgICAgICBCcmlzdG9sIElOLCAxOTkwLg0KDQoNCg0KICAgICAgICBGaXJzdCBZZWFyIENhbGN1bHVzICh3aXRoIEpvc2VwaCBLaXRjaGVuLCBKci4pLiBBZGRpc29uIFdlc2xleSwgUmVhZGluZyBNQSwgMTk3NC4NCg0KDQoNCiAgICAgICAgRWxlbWVudGFyeSBOdW1iZXIgVGhlb3J5LCBhbiBBbGdlYnJhaWMgQXBwcm9hY2gsIFcuIEEuIEJlbmphbWluLCBOZXcgWW9yayBOWSwgMTk3MCwNCg0KICAgICAgICByZWlzc3VlZCBEb3ZlciBQdWJsaWNhdGlvbnMsIE1pbmVvbGEgTlksIDIwMDcuDQoNCg0KDQogICAgICAgIE5vdGVzIG9uIEhhcm1vbmljIEFuYWx5c2lzLCBmcm9tIGxlY3R1cmVzIGJ5IEx5bm4gTG9vbWlzLCBNYXRoZW1hdGljYWwgQXNzb2NpYXRpb24gb2YNCg0KICAgICAgICBBbWVyaWNhLCAxOTY1Lg0KDQoNCg0KDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDINCg0KSk9VUk5BTCBQVUJMSUNBVElPTlMgQU5EIENPTkZFUkVOQ0UgUFJPQ0VFRElOR1MNCg0KDQoNCiAgICAgICAgIkdlcmdvbm5lJ3MgQ2FyZCBUcmljaywgUG9zaXRpb25hbCBOb3RhdGlvbiwgYW5kIFJhZGl4IFNvcnQiLCBNYXRoZW1hdGljcyBNYWdhemluZSwsIHZvbA0KDQogICAgICAgIDgzLCBubyAxICgyMDEwKSwgNDYtNDkuDQoNCg0KDQogICAgICAgICJBbmRyZXcgTS4gR2xlYXNvbiwgMjAwMS0yMDA4IiAoRWRpdG9yKSwgTm90aWNlcyBvZiB0aGUgQW1lcmljYW4gTWF0aGVtYXRpY2FsIFNvY2lldHksIHZvbA0KDQogICAgICAgIDU2LCBubyAxMCAoTm92ZW1iZXIgMjAwOSksIDEyMzItMTI2My4NCg0KDQoNCiAgICAgICAgIkludGVyYWN0aXZlIGNvbXB1dGVyIHNpbXVsYXRpb25zIG9mIGdlbmV0aWNzLCBiaW9jaGVtaXN0cnksIGFuZCBtb2xlY3VsYXIgYmlvbG9neSIgKHdpdGgNCg0KICAgICAgICBCcmlhbiBXaGl0ZSksIEJpb2NoZW1pc3RyeSBhbmQgTW9sZWN1bGFyIEJpb2xvZ3kgRWR1Y2F0aW9uLCB2b2wgMzYsIG5vIDEsIDc3LTg0Lg0KDQoNCg0KICAgICAgICAiVGhlIFZpcnR1YWwgR2VuZXRpY3MgTGFiOiBhIEZyZWVseS1hdmFpbGFibGUgT3Blbi1zb3VyY2UgR2VuZXRpY3MgU2ltdWxhdGlvbiIgKHdpdGgNCg0KICAgICAgICBCcmlhbldoaXRlLCBOaWt1bmogS29vbGFyLCBXZWkgTWEsIE5haW5nIE5haW5nIE1hdyBhbmQgQ2h1bmcgWWluZ1l1KSwgQW1lcmljYW4NCg0KICAgICAgICBCaW9sb2d5IFRlYWNoZXIgLCB2b2wuIDY5LCBuby4gMSwgcHAgNjk0LTY5Ny4NCg0KDQoNCiAgICAgICAgIkhvdyBNYW55IEd1ZXN0cyBDYW4gWW91IFNlcnZlPyAtIE9uIHRoZSBOdW1iZXIgb2YgUGFydGl0aW9ucyIgKHdpdGggWWlwaW5nIERpbmcpLA0KDQogICAgICAgIFByb2NlZWRpbmdzIG9mIHRoZSAzNXRoIENvbXB1dGVyIE1lYXN1cmVtZW50IEdyb3VwIENvbmZlcmVuY2UgKERlY2VtYmVyIDIwMDYpLCBwcCA/Py4NCg0KDQoNCiAgICAgICAgIkEgU2ltcGxlIEFsZ29yaXRobSB0aGF0IFByb3ZlcyBIYWxmLUludGVncmFsaXR5IG9mIEJpZGlyZWN0ZWQgTmV0d29yayBQcm9ncmFtbWluZyINCg0KICAgICAgICAod2l0aCBUaG9tYXMgWmFzbGF2c2t5KSwgTmV0d29ya3MsIHZvbC4gNDgsIG5vLiAxICgyMDA2KSwgcHAuIDM2LTM4Lg0KDQoNCg0KICAgICAgICAiVmlydHVhbCBwZXJmb3JtYW5jZSB3b24ndCBkbzogQ2FwYWNpdHkgcGxhbm5pbmcgZm9yIHZpcnR1YWwgc3lzdGVtcyIgKHdpdGggWWlwaW5nDQoNCiAgICAgICAgRGluZyksIFByb2NlZWRpbmdzIG9mIHRoZSAzNHRoIENvbXB1dGVyIE1lYXN1cmVtZW50IEdyb3VwIENvbmZlcmVuY2UgKERlY2VtYmVyIDIwMDUpLCBwcA0KDQogICAgICAgIDM5LTQ5Lg0KDQoNCg0KICAgICAgICAiUGVyZm9ybWFuY2UgSW1wbGljYXRpb25zIG9mIEh5cGVyLVRocmVhZGluZyIgKHdpdGggWWlwaW5nIERpbmcgYW5kIEFyanVuIEt1bWFyKSwNCg0KICAgICAgICBQcm9jZWVkaW5ncyBvZiB0aGUgMzJuZCBDb21wdXRlciBNZWFzdXJlbWVudCBHcm91cCBDb25mZXJlbmNlIChEZWNlbWJlciAyMDAzKSwgcHAgMjEtMjkNCg0KDQoNCiAgICAgICAgIkdJUyBNYXBzIE92ZXIgdGhlIEludGVybmV0IiAod2l0aCBIb25nbGVpIERhaSBhbmQgQmlsbCBNYWhvbmV5KSwgUHJvY2VlZGluZ3Mgb2YgdGhlDQoNCiAgICAgICAgMjAwMyBJbnRlcm5hdGlvbmFsIFN5bXBvc2l1bSBvbiBHUFMvR05TUywgKE5vdmVtYmVyIDIwMDMsIFRva3lvLCBKYXBhbiksIHBwIDExNy0xMjAuDQoNCg0KDQogICAgICAgICJUZWFjaGluZyBwcm9ncmFtbWluZyBieSBpbW1lcnNpb24sIHJlYWRpbmcgYW5kIHdyaXRpbmciLiAod2l0aCBCaWxsIENhbXBiZWxsKSAsDQoNCiAgICAgICAgUHJvY2VlZGluZ3Mgb2YgdGhlIDMybmQgQVNFRS9JRUVFIENvbmZlcmVuY2Ugb24gRnJvbnRpZXJzIGluIEVkdWNhdGlvbiwgQm9zdG9uLCBNQSwNCg0KICAgICAgICBOb3ZlbWJlciAyMDAyLiwgKGh0dHA6Ly9maWUuZW5ncm5nLnBpdHQuZWR1L2ZpZTIwMDIvKSwgcHAgVDRHLTIzIC0gVDRHLTI4Lg0KDQoNCg0KICAgICAgICAiSW50ZXJwcmV0aW5nIFdpbmRvd3MgTlQgUHJvY2Vzc29yIFF1ZXVlIExlbmd0aCBNZWFzdXJlbWVudHMiLCAod2l0aCBZaXBpbmcgRGluZywNCg0KICAgICAgICBXaWxsaWFtIEZseW5uLCBEZWJiaWUgU2hlZXR6IGFuZCBZZWZpbSBTb21pbiksIFByb2NlZWRpbmdzIG9mIHRoZSAzMXN0IENvbXB1dGVyDQoNCiAgICAgICAgTWVhc3VyZW1lbnQgR3JvdXAgQ29uZmVyZW5jZSAoRGVjZW1iZXIgMjAwMiksIHZvbC4gMiwgcHAgNzU5LTc3MC4NCg0KDQoNCiAgICAgICAgIkZhaXIgU2hhcmUgTW9kZWxpbmcgZm9yIExhcmdlIFN5c3RlbXM6IEFnZ3JlZ2F0aW9uLCBIaWVyYXJjaGljYWwgRGVjb21wb3NpdGlvbiBhbmQNCg0KICAgICAgICBSYW5kb21pemF0aW9uIiAod2l0aCBZaXBpbmcgRGluZyBhbmQgQW5hdG9saXkgUmlrdW4pICwgUHJvY2VlZGluZ3Mgb2YgdGhlIDMwdGggQ29tcHV0ZXINCg0KICAgICAgICBNZWFzdXJlbWVudCBHcm91cCBDb25mZXJlbmNlIChEZWNlbWJlciAyMDAxKSwgcHAuIDgwOC04MTgNCg0KDQoNCiAgICAgICAgIk9uIHRoZSBQZXJmb3JtYW5jZSBJbXBhY3Qgb2YgRmFpciBTaGFyZSBTY2hlZHVsaW5nIiAod2l0aCBZaXBpbmcgRGluZykgLFByb2NlZWRpbmdzIG9mDQoNCiAgICAgICAgdGhlIDMwdGggQ29tcHV0ZXIgTWVhc3VyZW1lbnQgR3JvdXAgQ29uZmVyZW5jZSwgKERlY2VtYmVyLCAyMDAwKSwgcHAuNzEtODEuDQoNCg0KDQogICAgICAgICJBbiBFeGlzdGVuY2UgVGhlb3JlbSBmb3IgdGhlIExvZ2ljIG9mIERlY2lzaW9uIiwgUGhpbG9zb3BoeSBvZiBTY2llbmNlLCA2NyAoUHJvY2VlZGluZ3MpOg0KDQogICAgICAgIDIwMDAsIHBwIFMxNC1TMTcuDQoNCg0KDQogICAgICAgICJHb2FsIE1vZGUgU2NoZWR1bGluZyIsICh3aXRoIEplZmYgQnV6ZW4pLiBQcm9jZWVkaW5ncyBvZiB0aGUgMjh0aCBDb21wdXRlciBNZWFzdXJlbWVudA0KDQogICAgICAgIEdyb3VwIENvbmZlcmVuY2UsIERlY2VtYmVyIDE5OTguDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzDQoNCiJNb2RlbGluZyBKdXJ5IERlY2F5IGluIGEgSGlnaCBQcm9maWxlIENyaW1pbmFsIFRyaWFsIiAod2l0aCBCZW5qYW1pbiBCb2xrZXIpLiBNYXRoDQoNCkhvcml6b25zIChNYXRoZW1hdGljYWwgQXNzb2NpYXRpb24gb2YgQW1lcmljYSksIE5vdmVtYmVyIDE5OTcsIHBwLiAxMi0xNi4NCg0KDQoNCiJUaGUgQ29tYmluYXRvcmlhbCBSYWRvbiBUcmFuc2Zvcm0gbW9kdWxvIHRoZSBTeW1tZXRyaWMgR3JvdXAiICh3aXRoIEphbiBCb21hbg0KDQphbmQgUGF0cmljayBPJ05laWwpLiBBZHZhbmNlcyBpbiBBcHBsaWVkIE1hdGhlbWF0aWNzLCAxMiwgMTk5MSwgcHAuIDQwMC00MTEuDQoNCg0KDQoiQWRtaXNzaWJsZSBDb21wbGV4ZXMgZm9yIHRoZSBDb21iaW5hdG9yaWFsIFJhZG9uIFRyYW5zZm9ybSIgKHdpdGggRXJpYyBHcmluYmVyZw0KDQphbmQgSm9zZXBoIEt1bmcpLCBDb250ZW1wb3JhcnkgTWF0aGVtYXRpY3MgKEFtZXJpY2FuIE1hdGhlbWF0aWNhbCBTb2NpZXR5KSwgMTEzLCAxOTg5LA0KDQoxLTMuDQoNCg0KDQoiQ29udmV4IFBvbHloZWRyYSwgRGlyaWNobGV0IFRlc3NlbGxhdGlvbnMsIGFuZCBTcGlkZXIgV2VicyIsICh3aXRoIFBldGVyIEFzaCwgSGVucnkNCg0KQ3JhcG8gYW5kIFdhbHRlciBXaGl0ZWxleSksIENoYXB0ZXIgMTcgaW4gU2hhcGluZyBTcGFjZSwgYSBQb2x5aGVkcmFsIEFwcHJvYWNoLCBNYXJqb3JpZQ0KDQpTZW5lY2hhbCBhbmQgR2VvcmdlIEZsZWNrLCBFZGl0b3JzLCBCaXJraGF1c2VyLCBCb3N0b24sIDE5ODgsIDIzMSAtIDI1MC4NCg0KDQoNCiJUaGUgRmluaXRlIFJhZG9uIFRyYW5zZm9ybSIsIENvbnRlbXBvcmFyeSBNYXRoZW1hdGljcyAgICAgICAgICAgKEFtZXJpY2FuIE1hdGhlbWF0aWNhbA0KDQpTb2NpZXR5KSA2MywgMTk4NywgMjctNDkuDQoNCg0KDQoiQSBDYXBhY2l0eSBQbGFubmluZy9RdWV1ZWluZyBUaGVvcnkgUHJpbWVyIiwgUHJvY2VlZGluZ3Mgb2YgdGhlIDE4dGggQ29tcHV0ZXINCg0KTWVhc3VyZW1lbnQgR3JvdXAgY29uZmVyZW5jZSwgRGVjZW1iZXIgMTk4Ny4gKEJlc3QgRWxlbWVudGFyeSBUdXRvcmlhbCBBd2FyZCkNCg0KDQoNCiJHZW5lcmFsaXplZCBEaXJpY2hsZXQgVGVzc2VsbGF0aW9ucyIgKHdpdGggUGV0ZXIgQXNoKSwgR2VvbWV0cmVpYSBEZWRpY2F0YSwgMjAsIDE5ODYsIDIwOS0NCg0KMjQzLg0KDQoNCg0KIk1lYXN1cmluZyBhbmQgTW9kZWxpbmcgTVZTIHVuZGVyIFZNIiwgUHJvY2VlZGluZ3Mgb2YgdGhlIDE2dGggQ29tcHV0ZXIgTWVhc3VyZW1lbnQNCg0KR3JvdXAgY29uZmVyZW5jZSwgRGVjZW1iZXIgMTk4NS4NCg0KDQoNCiJNb2RlbGluZyBNZW1vcnkgIiAod2l0aCBTLiBBZ3Jhd2FsIGFuZCBBLiBTaHVtKSwgUHJvY2VlZGluZ3Mgb2YgdGhlIDE3dGggQ29tcHV0ZXINCg0KTWVhc3VyZW1lbnQgR3JvdXAgY29uZmVyZW5jZSwgRGVjZW1iZXIgMTk4Ni4NCg0KDQoNCiJSZWNvZ25pemluZyBEaXJpY2hsZXQgVGVzc2VsbGF0aW9ucyIgKHdpdGggUGV0ZXIgQXNoKSwgR2VvbWV0cmVpYSBEZWRpY2F0YSwgMTksIDE5ODUsIDE3NS0NCg0KMjA2Lg0KDQoNCg0KIk9uIHR1bmluZyB0aGUgZmFpciBzaGFyZSBzY2hlZHVsZXIgaW4gVk0gb3BlcmF0aW5nIHN5c3RlbXMiICh3aXRoIFMuIEFncmF3YWwsIEouDQoNCkJ1emVuLCBKLiBNdW5veiBhbmQgVC4gR3JpZXNlciksIFByb2NlZWRpbmdzIG9mIHRoZSAxNXRoIENvbXB1dGVyIE1lYXN1cmVtZW50IEdyb3VwDQoNCmNvbmZlcmVuY2UsIERlY2VtYmVyIDE5ODQuDQoNCg0KDQoiVGhlIGJpYXMgb2YgdGhyZWUgcHNldWRvcmFuZG9tIHNodWZmbGVzIiAod2l0aCBEYXZpZCBSb2JiaW5zKSwgQWVxdWF0aW9uZXMNCg0KTWF0aGVtYXRpY2FlLCAyMiwgMTk4MSwgMjY4LTI5Mi4NCg0KDQoNCiJXaGVuIGlzIGEgYmlwYXJ0aXRlIGdyYXBoIGEgcmlnaWQgZnJhbWV3b3JrPyIgICAgICAgICAoV2l0aCBCZW4gUm90aCksIFBhY2lmaWMgSm91cm5hbCBvZg0KDQpNYXRoZW1hdGljcywgOTAsIDE5ODEsIDI3LTQ0Lg0KDQoNCg0KIkNvdW50aW5nIHBlcm11dGF0aW9ucyIgKHdpdGggQW5kcmV3IEdsZWFzb24pLCBKb3VybmFsIG9mIENvbWJpbmF0b3JpYWwgVGhlb3J5LCBTZXJpZXMgQSwNCg0KMjksIDE5ODAsIDIzNi0yNDIuDQoNCg0KDQoiQnJhY2luZyByZWN0YW5ndWxhciBmcmFtZXdvcmtzLCBJSSIsIFNJQU0gSm91cm5hbCBvZiBBcHBsaWVkIE1hdGhlbWF0aWNzLCAzNiwgMTk3OSwgNDkxLQ0KDQo1MDguDQoNCg0KDQoiQnJhY2luZyByZWN0YW5ndWxhciBmcmFtZXdvcmtzLCBJIiwgKHdpdGggSGVucnkgQ3JhcG8pLCBTSUFNIEpvdXJuYWwgb2YgQXBwbGllZA0KDQpNYXRoZW1hdGljcywgMzYsIDE5NzksIDQ3My00OTAuDQoNCg0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQNCg0KICAgICAgICAgIkhvdyB0byBicmFjZSBhIG9uZSBzdG9yeSBidWlsZGluZyIgKHdpdGggSGVucnkgQ3JhcG8pLCBFbnZpcm9ubWVudCBhbmQgUGxhbm5pbmcgQiwgNCwNCg0KICAgICAgICAgMTk3NywgMTI1LTE1Mi4NCg0KDQoNCiAgICAgICAgICJCcmFjaW5nIGdyaWRzIG9mIGN1YmVzIiwgRW52aXJvbm1lbnQgYW5kIFBsYW5uaW5nIEIsIDQsIDE5NzcsIDE1Ny0xNzIuDQoNCg0KDQogICAgICAgICAiQSB0b3BvbG9naWNhbCBwcm9vZiBvZiBhIHdlbGwga25vd24gZmFjdCBhYm91dCBGaWJvbmFjY2kgbnVtYmVycyIsIFRoZSBGaWJvbmFjY2kNCg0KICAgICAgICAgUXVhcnRlcmx5LCAxNSwgMTk3NywgMjQ1Lg0KDQoNCg0KICAgICAgICAgIlNpbXBsaWNpYWwgZ2VvbWV0cnkgYW5kIHRyYW5zcG9ydGF0aW9uIHBvbHl0b3BlcyIsIFRyYW5zYWN0aW9ucyBvZiB0aGUgQW1lcmljYW4NCg0KICAgICAgICAgTWF0aGVtYXRpY2FsIFNvY2lldHksIDIxNywgMTk3NiwgMTIxLTE0Mi4NCg0KDQoNCiAgICAgICAgICJSZW1hcmtzIG9uIE0uIEJhbGNoIGFuZCBQLiBGaXNoYnVybidzICJTdWJqZWN0aXZlIHV0aWxpdHkgb2YgY29uZGl0aW9uYWwgcHJpbWl0aXZlcyIiLCBpbg0KDQogICAgICAgICBFc3NheXMgb24gRWNvbm9taWMgQmVoYXZpb3IgVW5kZXIgVW5jZXJ0YWludHksIE5vcnRoIEhvbGxhbmQtQW1lcmljYW4gRWxzZXZpZXIsIE5ldw0KDQogICAgICAgICBZb3JrLCAxOTc0LCA3OS04Mi4NCg0KDQoNCiAgICAgICAgICJUaGUgc3Bpbm9yIHNwYW5uZXIiLCBBbWVyaWNhbiBNYXRoZW1hdGljYWwgTW9udGhseSwgODAsIDE5NzMsIDk3Ny05ODcuDQoNCg0KDQogICAgICAgICAiVHJhbnNwb3J0YXRpb24gcG9seXRvcGVzIiwgSm91cm5hbCBvZiBDb21iaW5hdG9yaWFsIFRoZW9yeSwgMTMsIDE5NzIsIDI1MS0yNjIuDQoNCg0KDQogICAgICAgICAiR3JvdXBzIHdob3NlIGVsZW1lbnRzIGFyZSBvZiBvcmRlciB0d28gb3IgdGhyZWUiLCBBbWVyaWNhbiBNYXRoZW1hdGljYWwgTW9udGhseSwgNzksDQoNCiAgICAgICAgIDE5NzIsIDEwMDctMTAxMC4NCg0KDQoNCiAgICAgICAgICJUaGUgem9ub2lkIHByb2JsZW0iLCBBbWVyaWNhbiBNYXRoZW1hdGljYWwgTW9udGhseSwgNzgsIDE5NzEsIDUyOS01MzEuDQoNCg0KDQogICAgICAgICAiQ2VudHJhbGx5IHN5bW1ldHJpYyBwb2x5dG9wZXMiLCBQcm9jZWVkaW5ncyBvZiB0aGUgMTJ0aCBCaWVubmlhbCBTZW1pbmFyIG9mIHRoZSBDYW5hZGlhbg0KDQogICAgICAgICBNYXRoZW1hdGljYWwgU29jaWV0eSwgcHVibGlzaGVkIGJ5IHRoZSBBbWVyaWNhbiBNYXRoZW1hdGljYWwgU29jaWV0eSwgMTk3MC4NCg0KDQoNCiAgICAgICAgICJBIGNsYXNzIG9mIGNvbnZleCBib2RpZXMiLCBUcmFuc2FjdGlvbnMgb2YgdGhlIEFtZXJpY2FuIE1hdGhlbWF0aWNhbCBTb2NpZXR5LCAxNDUsIDE5NjksIDMyMy0NCg0KICAgICAgICAgMzQ1Lg0KDQoNCg0KICAgICAgICAgIlNvbHV0aW9ucyBvZiBBayArIEJrID0gQ2sgaW4gbiB4IG4gaW50ZWdyYWwgbWF0cmljZXMiLCBBbWVyaWNhbiBNYXRoZW1hdGljYWwgTW9udGhseSwgNzUsDQoNCiAgICAgICAgIDE5NjgsIDc1OS03NjAuDQoNCg0KDQogICAgICAgICAiQSBzaW11bHRhbmVvdXMgYXhpb21hdGl6YXRpb24gb2YgdXRpbGl0eSBhbmQgc3ViamVjdGl2ZSBwcm9iYWJpbGl0eSIsIFBoaWxvc29waHkgb2YgU2NpZW5jZSwNCg0KICAgICAgICAgMzQsIDE5NjcsIDMzMy0zNDAuDQoNCg0KDQogICAgICAgICAiRnVuY3Rpb25zIHJlc2VtYmxpbmcgcXVvdGllbnRzIG9mIG1lYXN1cmVzIiwgVHJhbnNhY3Rpb25zIG9mIHRoZSBBbWVyaWNhbiBNYXRoZW1hdGljYWwNCg0KICAgICAgICAgU29jaWV0eSwgMTI0LCAxOTY2LCAyOTItMzEyLg0KDQoNCg0KICAgICAgICAgIkludmVyc2UgbGltaXRzIG9mIHNvbHZhYmxlIGdyb3VwcyIsIFByb2NlZWRpbmdzIG9mIHRoZSBBbWVyaWNhbiBNYXRoZW1hdGljYWwgU29jaWV0eSwgMTQsDQoNCiAgICAgICAgIDE5NjMsIDE0Ny0xNTIuDQoNCg0KDQpHUkFOVFMNCg0KDQoNCiAgICAgICAgIENvbW1vbiBTZW5zZTogUXVhbnRpdGF0aXZlIFJlYXNvbmluZyBpbiB0aGUgVW5kZXJncmFkdWF0ZSBDdXJyaWN1bHVtLiBOU0YgZ3JhbnQNCg0KICAgICAgICAgbnVtYmVyIDA5NDIxODYsIDIwMTAtMjAxMS4NCg0KDQoNClRFQ0hOSUNBTCBSRVBPUlRTDQoNCg0KDQogICAgICAgICAiRGVncmVlcyBvZiBGcmVlZG9tIENhbGN1bGF0aW9ucyBmb3IgTXVsdGl3YXkgQ29udGluZ2VuY3kgVGFibGVzIiAod2l0aCBEb25hbGQNCg0KICAgICAgICAgT2xpdmllcikuIFRlY2huaWNhbCBSZXBvcnQgOTEtMSwgVU1hc3MgQm9zdG9uIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MgYW5kIENvbXB1dGVyDQoNCiAgICAgICAgIFNjaWVuY2UsIE1heSAxOTkxLg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDUNCg0KUGguRC4sIE0uUy4sIEFORCBIT05PUlMgRElTU0VSVEFUSU9OIENPTU1JVFRFRVMNCg0KDQoNCiAgICAgICAgIlBlcmZvcm1hbmNlIE1vZGVsaW5nIGFuZCBDYXBhY2l0eSBQbGFubmluZyIsIExhbmEgV2hlZWxlciwgTVMsIFVNYXNzLUJvc3RvbiwNCg0KICAgICAgICAxOTkxLCBjaGFpcg0KDQoNCg0KICAgICAgICAiV29ya2xvYWQgQ2hhcmFjdGVyaXphdGlvbiBVc2luZyBVTklYIFN5c3RlbSBBY2NvdW50aW5nIiwgSmVyaWsgVG9ybmhlaW0sIE1TLA0KDQogICAgICAgIFVNYXNzLUJvc3RvbiwgMTk4NywgY2hhaXINCg0KDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913021306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

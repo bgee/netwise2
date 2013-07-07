@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:02 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912301306521"  usageLimitType="allocation" usageLimit="200" currentUsage="99" remainingUsage="101" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Brittan A. Wilson Ph.D.</FormattedName>
+<GivenName>Brittan</GivenName>
+<MiddleName>A.</MiddleName>
+<FamilyName>Wilson</FamilyName>
+<Affix type="qualification">Ph.D.</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Wilson</Municipality>
+<DeliveryAddress>
+<AddressLine>1. Cantwell M.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Texas A&amp;M International University</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>College of Arts and Sciences Department of Biology and Chemistry
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Massachusetts</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Boston</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>FIELD OF STUDY</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Kansas</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.A</DegreeName>
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Cornell University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Ecology and Evolutionary Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBRQ0KDQoNCg0KDQoNCk5BTUUNCg0KQnJpdHRhbiBBLiBXaWxzb24sIFBoLkQuDQoNCkNVUlJFTlQgUE9TSVRJT04gIA0KDQoNCg0KVGV4YXMgQSZNIEludGVybmF0aW9uYWwgVW5pdmVyc2l0eQ0KDQpDb2xsZWdlIG9mIEFydHMgYW5kIFNjaWVuY2VzDQoNCkRlcGFydG1lbnQgb2YgQmlvbG9neSBhbmQgQ2hlbWlzdHJ5DQoNCg0KDQpUSVRMRQ0KDQpBc3Npc3RhbnQgUHJvZmVzc29yDQoNCg0KDQpFRFVDQVRJT04NCg0KSU5TVElUVVRJT04gDQoNCg0KDQpERUdSRUUNCg0KDQoNCllFQVINCg0KRklFTEQgT0YgU1RVRFkNCg0KICAgICAgICAgICAgICAgICAgICANCg0KDQoNCg0KDQoNCg0KVW5pdmVyc2l0eSBvZiBNYXNzYWNodXNldHRzLCBCb3N0b24NCg0KUGguRC4NCg0KMjAwOQ0KDQpFbnZpcm9ubWVudGFsIFNjaWVuY2UNCg0KVW5pdmVyc2l0eSBvZiBLYW5zYXMNCg0KTS5BLg0KDQoyMDAyDQoNCkVjb2xvZ3kgYW5kIEV2b2x1dGlvbmFyeSBCaW9sb2d5DQoNCkNvcm5lbGwgVW5pdmVyc2l0eQ0KDQpCLlMuDQoNCjE5OTkNCg0KQWdyaWN1bHR1cmFsIGFuZCBCaW9sb2dpY2FsIEVuZ2luZWVyaW5nDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KQWNhZGVtaWMvUHJvZmVzc2lvbmFsIFBvc2l0aW9ucyANCg0KDQoNCjIwMDkgLSBQcmVzZW50ICAgICBUZXhhcyBBJk0gSW50ZXJuYXRpb25hbCBVbml2ZXJzaXR5LCBBc3Npc3RhbnQgUHJvZmVzc29yDQoNCjIwMDggLSAyMDA5ICAgICBFbWVyc29uIENvbGxlZ2UsIEFkanVuY3QgUHJvZmVzc29yIA0KDQoyMDA3IC0gMjAwOCAgICAgRmlzaGVyIENvbGxlZ2UsIEFkanVuY3QgUHJvZmVzc29yIA0KDQoyMDA3ICAgICAgIFVuaXZlcnNpdHkgb2YgTWFzc2FjaHVzZXR0cywgQm9zdG9uLCBMZWN0dXJlcg0KDQogIA0KDQogICAgICAgICAgICAgICAgICBQZWVyIFJldmlld2VkIFB1YmxpY2F0aW9ucyAocGFzdCBmaXZlIHllYXJzKQ0KDQogICANCg0KMS4gICBDYW50d2VsbCwgTS4sIFdpbHNvbiwgQi4sIFpodSwgSi4sIEtpbmcsIEouLCBXYWxsYWNlLCBHLiwgU21pdGgsIEouLCBPbHNlbiwgQy4sIEJ1cmdlc3MsIFIuIDIwMTAuIFRlbXBvcmFsIFRyZW5kcyBvZiBUcmljbG9zYW4gQ29udGFtaW5hdGlvbiBpbiBEYXRlZCBTZWRpbWVudCBDb3JlcyBmcm9tIEZvdXIgVXJiYW5pemVkIEVzdHVhcmllczogRXZpZGVuY2Ugb2YgUHJlc2VydmF0aW9uIGFuZCBBY2N1bXVsYXRpb24uIENoZW1vc3BoZXJlLiA3ODozNDctMzUyLiANCg0KICANCg0KMi4gICBXaWxzb24sIEIuLCBDaGVuLCBSLiwgT2xzZW4sIEMuLCBDYW50d2VsbCwgTS4sIEdvbnR6LCBBLiwgSG8sIEsuLCBaaHUsIEouIDIwMDkuIFRoZSBwYXJ0aXRpb25pbmcgb2YgVHJpY2xvc2FuIGJldHdlZW4gYXF1ZW91cyBhbmQgcGFydGljdWxhdGUgYm91bmQgcGhhc2VzIGluIHRoZSBIdWRzb24gUml2ZXIgRXN0dWFyeS4gTWFyaW5lIFBvbGx1dGlvbiBCdWxsZXRpbi4gNTkgKDIwMDkpLCBwcC4gMjA3LTIxLiANCg0KICANCg0KMy4gICBXaWxzb24sIEIuLCBPbHNlbiwgQy4sIFpodSwgSi4sIENhbnR3ZWxsLCBNLiAyMDA4LiAiU2hvcnQtdGVybSBkeW5hbWljcyBhbmQgcmV0ZW50aW9uIG9mIFRyaWNsb3NhbiBpbiB0aGUgTG93ZXIgSHVkc29uIFJpdmVyIEVzdHVhcnkuIiBNYXJpbmUgUG9sbHV0aW9uIEJ1bGxldGluLiA1Nig1KToxMjMwLTEyMzMuIA0KDQogIA0KDQo0LiAgIFdpbHNvbiwgQi4sIFNtaXRoLCBWLiwgZGVOb3llbGxlcywgSi4sIExhcml2ZSwgQy4sIDIwMDMuICAiVGhlIGVmZmVjdHMgb2YgdGhyZWUgcGhhcm1hY2V1dGljYWwgYW5kIHBlcnNvbmFsIGNhcmUgcHJvZHVjdHMgb24gbmF0dXJhbCBmcmVzaHdhdGVyIGFsZ2FsIGFzc2VtYmxhZ2VzLiIgRW52aXJvbm1lbnRhbCBTY2llbmNlIGFuZCBUZWNobm9sb2dpZXMuIDM3KDkpOjE3MTMtMTcxOS4NCg0KDQoNCkN1cnJlbnQgRnVuZGluZw0KDQoxLiBOU0YgUkFQSUQsIDIwMTAuICBFdmFsdWF0aW9uIG9mIFNvaWwgQ29udGFtaW5hdGlvbiBkdWUgdG8gUmlvIEdyYW5kZSBGbG9vZGluZyBKdWx5IDIwMTAgLSAkMzUsMDAwIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbi4NCg0KICANCg0KMi4gICBUQU1JVSBVUkcsIDIwMTAuICBFZmZlY3Qgb2YgQ29udGFtaW5hbnQgRGVwb3NpdGlvbiBvbiBNaWNyb2JpYWwgQ29tbXVuaXR5IER5bmFtaWNzIG9mIHRoZSBSaW8gR3JhbmRlIEZsb29kcGxhaW4gLSAkMTUsMDAwIFRBTUlVLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912301306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

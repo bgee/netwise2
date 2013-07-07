@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:36 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916060306521"  usageLimitType="allocation" usageLimit="200" currentUsage="88" remainingUsage="112" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Museum of Minnesota</FormattedName>
+<GivenName>Museum</GivenName>
+<MiddleName>of</MiddleName>
+<FamilyName>Minnesota</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>55102</PostalCode>
+<Region>MN</Region>
+<Municipality>St. Paul</Municipality>
+<DeliveryAddress>
+<AddressLine>120 W. Kellogg Blvd.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (651) 221-4717</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>651</AreaCityCode>
+<SubscriberNumber>221-4717</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (651) 221-4525</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>651</AreaCityCode>
+<SubscriberNumber>221-4525</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>krogers@smm.org</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Montana State University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1996-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Stony Brook University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Anatomical Sciences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Stony Brook University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Anatomical Sciences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Macalester College</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Visiting Assistant Professor in Geology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeMajor>
+<Name>Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Montana State University</SchoolName>
+</School>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeMajor>
+<Name>Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Montana State University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Women in Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Family</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Hamline University Biology Department</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Becoming a Paleontologist</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wyoming Distinguished Lecturer Speaker Series</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Microscopes: Breathing Life into Dinosaur Bones</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>college students</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>The latest and greatest</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>dinosaur discovery</Name>
+</DegreeMinor>
+<Comments>I have given over 200 talks, not including those listed above to K-12 kids</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mention, NSF Predoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeMajor>
+<Name>Gabor Inke</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1996-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Macalester College.</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeMajor>
+<Name>Research Grant</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>(red = undergraduate author)</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K</FormattedName>
+</Name>
+<JournalOrSerialName>Research Articles in Peer-Reviewed Journals</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(Sauropoda: Titanosauria)</Title>
+<Name role="author">
+<FormattedName>Erickson, G. M., K. Curry Rogers, D. J. Varricchio, M. A. Norell, and Xing Xu</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Vertebrate Paleontology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Growth patterns in brooding dinosaurs reveals the timing of sexual maturity in non-avian dinosaurs and genesis of the avian condition</Title>
+<Name role="author">
+<FormattedName>Biological Letters</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Rasoamiaramanana and L. Rahantarisoa</Title>
+<Name role="author">
+<FormattedName>Rogers, R. R., D. W. Krause, K. Curry Rogers, A. H</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Paleoenvironment and Paleoecology of Majungasaurus crenatissimus</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Madagascar</Title>
+<JournalOrSerialName>Journal of Vertebrate Paleontology Memoir</JournalOrSerialName>
+<Volume>27(suppl.</Volume>
+</Article>
+<Article>
+<Title>RÃ­o Negro</Title>
+<Name role="author">
+<FormattedName>(Salitral Ojo</FormattedName>
+</Name>
+<JournalOrSerialName>de Agua and Salinas de TrapalcÃ³-Salitral de Santa Rosa) northern Patagonia Argentina</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Late Cretaceous Terrestrial Vertebrates from Madagascar: Implications for Latin American Biogeography</Title>
+<Name role="author">
+<FormattedName>Krause, D. W., P. M. O&apos;Connor, K. Curry Rogers, S. Sampson, G. Buckley, and R. R. Rogers</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Annals of the Missouri Botanical Garden 93:178-208</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The skull of Rapetosaurus krausei</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K. and C. A. Forster</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Sauropoda: Titanosauria)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Vertebrate Paleontology 24:121-144</Title>
+<Name role="author">
+<FormattedName>Rogers, R. R., K. Curry Rogers, D. Munyikwa, R. Terry, and B. Singer</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>New insights into Karoo-equivalent rocks in the Limpopo Valley of Zimbabwe with observations on the preservation of early dinosaurs Journal of African Earth Sciences 40:147-161</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Cannibalism in the Madagascan dinosaur Majungatholus atopus</Title>
+<Name role="author">
+<FormattedName>Rogers, R. R., D. W. Krause, and K. Curry Rogers</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nature 422:515-518</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The last of the dinosaur titans: a new sauropod from Madagascar</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K. and C. A. Forster</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nature 412:530-534</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Dinosaurian growth patterns and rapid avian growth rates</Title>
+<Name role="author">
+<FormattedName>Erickson, G.M., K. Curry Rogers, and S. A. Yerby</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nature 412: 429-433</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Cubo and J. J. Boisard</Title>
+<Name role="author">
+<FormattedName>Castanet, J., K. Curry Rogers, J</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Quantification of periosteal osteogenesis in ostrich and emu: Implications for studies of extinct dinosaurian bone histology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>insights on growth rates and longevity</Title>
+<JournalOrSerialName>Ontogenetic histology of Apatosaurus Journal of Vertebrate Paleontology 19: (654-665)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Edited Volumes Curry Rogers K. and J. A. Wilson</Title>
+<Name role="author">
+<FormattedName>The Sauropods</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Evolution and Paleobiology University of California Press</JournalOrSerialName>
+<Volume>363</Volume>
+</Article>
+<Article>
+<Title>My contributions in this volume include: Curry Rogers K. 2005</Title>
+<Name role="author">
+<FormattedName>The Evolutionary History</FormattedName>
+</Name>
+<JournalOrSerialName>of the Titanosauria</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sauropods: Evolution and Paleobiology</Title>
+<Name role="author">
+<FormattedName>(K. Curry Rogers and J. A. Wilson</FormattedName>
+</Name>
+<JournalOrSerialName>eds.). University of California Press</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sauropod Histology: Microscopic Views on the Lives of Giants</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K. and G. M. Erickson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In: The Sauropods: Evolution and Paleobiology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sauropods: Evolution and Paleobiology</Title>
+<Name role="author">
+<FormattedName>(K. Curry Rogers and J. A. Wilson</FormattedName>
+</Name>
+<JournalOrSerialName>Monoliths of the Mesozoic eds.). University of California Press</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Growth patterns in brooding dinosaurs reveal the timing of sexual maturation in non- avian dinosaurs and the genesis of the avian condition</Title>
+<Name role="author">
+<FormattedName>Erickson, G. M., K. Curry Rogers, D. Varricchio, M. Norell, and X. Xu</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>27(3):71A.</Volume>
+</Article>
+<Article>
+<Title>Longevity and growth patterns in the dromaeosaurid Velociraptor mongoliensis inferred from long bone histology</Title>
+<Name role="author">
+<FormattedName>Garcia, B., G. Erickson, K. Curry Rogers, and M. Norell</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>27(3):79A.</Volume>
+</Article>
+<Article>
+<Title>Three-dimensional reconstruction of the skull of Rapetosaurus krausei</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K., J. Hertel, and J. Groenke</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Sauropoda: Titanosauria) Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>26(3):53A.</Volume>
+</Article>
+<Article>
+<Title>Osteohistology of the titanosaur \ Mendozasaurus</Title>
+<Name role="author">
+<FormattedName>GonzÃ¡lez Riga, B. J. and K. Curry Rogers</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Dinosauria: Sauropoda)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Congreso Argentino de PaleontologÃ­a y BioestatigrafÃ­a</Title>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(CÃ³rdoba</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The postcranial anatomy of Rapetosaurus krausei</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Sauropoda: Titanosauria)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Vertebrate Paleontology</Title>
+<Volume>25(3):48A.</Volume>
+</Article>
+<Article>
+<Title>A population analysis of Borealosuchus formidabalis from Wannagan Creek</Title>
+<Name role="author">
+<FormattedName>Sauter, M., D. Fox, and K. Curry Rogers</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>24(3):109A.</Volume>
+</Article>
+<Article>
+<Title>Titanosaur tails tell two tails: A second Malagasy titanosaur with saltasaurid affinities</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>22(3):</Volume>
+<PageNumber>47-48A.</PageNumber>
+</Article>
+<Article>
+<Title>Dinosaurian Life History Strategies</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K., G. Erickson, and M. Norell</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Growth Rates and Character Evolution: New insights garnered from bone histology and developmental mass extrapolation Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>23(3):90A.</Volume>
+</Article>
+<Article>
+<Title>Coelocanth and Amiid Fishes</Title>
+<Name role="author">
+<FormattedName>Gottfried, M., R. R. Rogers, and K. Curry Rogers</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>in the Late Cretaceous of Madagascar</Title>
+<PublicationDate>
+<StringDate>PRESENT</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>22(3):60A.</Volume>
+</Article>
+<Article>
+<Title>A new sauropod from Madagascar: Implications for titanosaur lower-level phylogeny</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Vertebrate Paleontology</JournalOrSerialName>
+<Volume>21(3):43A.</Volume>
+</Article>
+<Article>
+<Title>The anatomy and phylogeny of a new titanosaurid from Madagascar</Title>
+<Name role="author">
+<FormattedName>Curry, K. A</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Upper Cretaceous Maevarano Formation)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Argentinas de PaleontologÃ­a de Vertebrados</Title>
+<JournalOrSerialName>Esquel - Chubut 8</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Cubo and J.-J</Title>
+<Name role="author">
+<FormattedName>Curry Rogers, K., J. Castanet, J</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Boisard</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>titanosaur from the Late Cretaceous of Madagascar</Title>
+<EventName>(all linked to conference presentations red = undergraduate author) Journal of Vertebrate Paleontology</EventName>
+</ConferencePaper>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<StartDate><StringDate>1999-01-01</StringDate></StartDate>
+<EventName>Dinosaurs of Treasure Island Exhibit Stony Brook University (The</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Dinosaur Titans)</Title>
+<StartDate><StringDate>1999-01-01</StringDate></StartDate>
+<EventName>NSF Chattaqua Course Stony Brook University (Vertebrate Growth</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Rates and the Origin of Avialae)</Title>
+<StartDate><StringDate>1999-01-01</StringDate></StartDate>
+<EventName>Symposium on the Pranhita-Godavari Valley Indian Statistical</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Olaf College Biology Department (Dinosaur Growth Rates)</Title>
+<StartDate><StringDate>2000-01-01</StringDate></StartDate>
+<EventName>University of Minnesota Bell Museum of Natural History (Dinosaur paleobiology)</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Science Museum of Minnesota Adult Education (Short course: The Fossil Record 4 lectures)</Title>
+<StartDate><StringDate>2000-01-01</StringDate></StartDate>
+<EventName>University of Minnesota Department of Ecology Evolution and</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>St. Croix Research Station Science Museum of Minnesota (Titanosaurs from Dinosaur Growth Rates)</Title>
+<StartDate><StringDate>2001-01-01</StringDate></StartDate>
+<EventName>Geological Society of Minnesota (The Origin of Dinosaurs)</EventName>
+<EventType>conference</EventType>
+<Location>Madagascar</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Macalester College Chicago Alumni Chapter</Title>
+<StartDate><StringDate>2003-01-01</StringDate></StartDate>
+<EventName>Keynote Speaker Eye to the Future Conference for girls in science</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Gustavus Adolphus College Biology Department Seminar Series (Dinosaurs on the Lost Continent)</Title>
+<StartDate><StringDate>2003-01-01</StringDate></StartDate>
+<EventName>Association of Science and Technology Centers Annual Meeting</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Invited Panelist (Teaching Evolution to the Public)</Title>
+<StartDate><StringDate>2004-01-01</StringDate></StartDate>
+<EventName>13th Annual Kids Plus Conference (Dinosaurs on the Lost</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Continent) (&gt;2000 kids in attendance)</Title>
+<StartDate><StringDate>2004-01-01</StringDate></StartDate>
+<EventName>University of Minnesota - Duluth Geology Department Seminar</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Series (Dinosaurian growth rates)</Title>
+<StartDate><StringDate>2004-01-01</StringDate></StartDate>
+<EventName>Norwich University Geology Department Seminar Series (Soaring</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Sauropods: Growth Rates and Life History Strategies)</Title>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>McGill University Biology Department Seminar Series (Microscopic</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Growth Rates)</Title>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>University of Minnesota Raptor Center (The Dinosaur-Bird</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Connection)</Title>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>Annual China Day University of Minnesota (The Dinosaur-Bird</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Connection) (&gt;500 kids in attendance)</Title>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>Women in the Society of Vertebrate Paleontology Invited Panelist</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>The University of St. Thomas Biology Department (Breathing life into fossil bones: interpreting dinosaurian growth rates)</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>Association of University Women University of Minnesota (Dinosaur</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Madagascar to Microscopes: Breathing Life into Dinosaur Bones)</Title>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>California State University - Fresno Geology Department (Field work in Madagascar and dinosaur growth rates)</EventName>
+<EventType>conference</EventType>
+<Location>Rockford Illinois</Location>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Data General Nova">
+<CompetencyEvidence name ="Data General Nova">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Email">
+<CompetencyEvidence name ="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Illustration">
+<CompetencyEvidence name ="Illustration">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Radiation">
+<CompetencyEvidence name ="Radiation">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>National Geographic Society &quot;Paleontology and</Name>
+</Association>
+<Association>
+<Name>Society of America twice</Name>
+</Association>
+<Association>
+<Name>and Service</Name>
+</Association>
+<Association>
+<Name>Role Model, &quot;50 Careers You Never Heard Of, &quot; College of St.</Name>
+</Association>
+<Association>
+<Name>Catherine</Name>
+</Association>
+<Association>
+<Name>Distinguished Mentor, Geological Society of America Shlemon Mentor</Name>
+</Association>
+<Association>
+<Name>Program  Chair, Media Liaisons Committee, Society of Vertebrate Paleontology</Name>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Distinguished Lecturer, Paleontological Society</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<Role><Name>Lecturer</Name></Role>
+</Association>
+<Association>
+<Name>Chair, Host Committee for the Society of Vertebrate Paleontology 2003</Name>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Meeting  Member, Society of Vertebrate Paleontology Media Liaisons</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Committee  Member, Society of Vertebrate Paleontology Program Committee</Name>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member, Society of Vertebrate Paleontology Skinner Prize Committee</Name>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Symposium Co-Convener, Sauropod Evolution and Paleobiology, 2001</Name>
+</Association>
+<Association>
+<Name>Annual Meeting of the Society of Vertebrate Paleontology  Member, Society of Vertebrate Paleontology Education and Outreach</Name>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Committee</Name>
+</Association>
+<Association>
+<Name>Grant Reviews National Science Foundation, National Geographic Society Ms.</Name>
+</Association>
+<Association>
+<Name>Reviews Journal of Vertebrate Paleontology, Paleobiology, Zoological Journal of</Name>
+</Association>
+<Association>
+<Name>the Linnean Society, Trends in Evolution and Ecology, Nature, Science</Name>
+</Association>
+<Association>
+<Name>Journal of Anatomical Research, Ameghiniana, Journal of the Royal</Name>
+</Association>
+<Association>
+<Name>Society of London, Historical Biology, Acta Palaeontologica</Name>
+</Association>
+<Association>
+<Name>Polonica</Name>
+</Association>
+<Association>
+<Name>Geodiversitas</Name>
+</Association>
+<Association>
+<Name>Other Synergistic Activities</Name>
+</Association>
+<Association>
+<Name>Science Content Advisor, Carnegie Museum of Natural History Exhibit:</Name>
+</Association>
+<Association>
+<Name>Dinosaur Worlds.</Name>
+</Association>
+<Association>
+<Name>Nova Science Now, on screen expert on dinosaur soft tissue, aired on</Name>
+</Association>
+<Association>
+<Name>PBS in July 2007</Name>
+</Association>
+<Association>
+<Name>BBC, &quot;My Pet Dinosaur&quot; on screen expert, program aired on BBC  &amp; to air on Discovery Channel in summer 2007</Name>
+<StartDate>
+<AnyDate>2007-03-12</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>2003 Science Content Advisor, Maryland Science Center exhibit &quot;Dinosaur</Name>
+</Association>
+<Association>
+<Name>Mysteries&quot;</Name>
+</Association>
+<Association>
+<Name>Science Content Advisor, &quot;Dinorevolution&quot; Exhibit, by Minotaur Mazes  Science Content Advisor &quot;Dinosaurs!&quot; IMAX, released July 2007</Name>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+<Role><Name>Advisor</Name></Role>
+</Association>
+<Association>
+<Name>Science Content Advisor, onscreen expert, PBS documentary &quot;The</Name>
+</Association>
+<Association>
+<Name>Shape of Life&quot;</Name>
+</Association>
+<Association>
+<Name>Students Advised/Internships</Name>
+</Association>
+<Association>
+<Name>Adrian Sutter, Macalester College Senior Honor&apos;s Thesis (outside</Name>
+</Association>
+<Association>
+<Name>committee member), vertebrate microsites in the Judith River Formation</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Narissa Tappitake (Macalester College).</Name>
+</Association>
+<Association>
+<Name>Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Collections Intern - invertebrate paleontology collection organization</Name>
+</Association>
+<Association>
+<Name>Michelle Casey (Macalester College), Science Museum of Minnesota Collections</Name>
+</Association>
+<Association>
+<Name>Intern - ichnofossil collection organization</Name>
+</Association>
+<Association>
+<Name>Rebecca Terry, Macalester College Senior Honor&apos;s Thesis (outside</Name>
+</Association>
+<Association>
+<Name>committee member), silcretes in the Limpopo Valley Zimbabwe.</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Liz Hajek, Macalester College Senior Honor&apos;s Thesis (committee</Name>
+</Association>
+<Association>
+<Name>member), Cretaceous paleoenvironments in Western Minnesota.</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Edward Schexnayder (Macalester College) Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - fossil preparation</Name>
+</Association>
+<Association>
+<Name>Christine Wong (Macalester college), Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - vertebrate paleontology collection organization</Name>
+</Association>
+<Association>
+<Name>Kathleen Dull (Macalester College) Science Museum of Minnesota Paleontology</Name>
+</Association>
+<Association>
+<Name>Intern - paleontology archives research</Name>
+</Association>
+<Association>
+<Name>Rebekah Merrill (Grinell College) Science Museum of Minnesota Paleontology</Name>
+</Association>
+<Association>
+<Name>Intern - fossil preparation</Name>
+</Association>
+<Association>
+<Name>Demetrios Vital (University of Minnesota) Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - technical illustration</Name>
+</Association>
+<Association>
+<Name>2005 Matthew Sauter (University of Minnesota) Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - Paleocene fossil collection research</Name>
+</Association>
+<Association>
+<Name>Senior Honor&apos;s Thesis (outside committee member), Crocodile Age</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>distributions in the Wannagan Creek Quarry, Paleocene, North Dakota.</Name>
+</Association>
+<Association>
+<Name>Beth Welle (College of St.</Name>
+</Association>
+<Association>
+<Name>Benedict&apos;s), Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - senior research on Jurassic dinosaur collection</Name>
+</Association>
+<Association>
+<Name>Barbara Betz (Macalester College), Science Museum of Minnesota Paleontology</Name>
+</Association>
+<Association>
+<Name>Intern - organization/tracking of paleopathology collection.</Name>
+</Association>
+<Association>
+<Name>Melanie Imker (University of St.</Name>
+</Association>
+<Association>
+<Name>Thomas) Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - Malagasy sauropod research</Name>
+</Association>
+<Association>
+<Name>Chris Schodt (Macalester College) Science Museum of Minnesota Paleontology</Name>
+</Association>
+<Association>
+<Name>Intern - paleontology preparation</Name>
+</Association>
+<Association>
+<Name>Oscar Boyle-Meija (Macalester College) Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - paleontology preparation</Name>
+</Association>
+<Association>
+<Name>Krista Jankowski (Macalester College) Science Museum of Minnesota</Name>
+</Association>
+<Association>
+<Name>Paleontology Intern - paleontology preparation</Name>
+</Association>
+<Association>
+<Name>Jeff Dobbins (Macalester College) Science Museum of Minnesota Paleontology</Name>
+</Association>
+<Association>
+<Name>Intern - paleontology preparation</Name>
+</Association>
+<Association>
+<Name>W.</Name>
+</Association>
+<Association>
+<Name>Scott Persons, Macalester College Senior Honor&apos;s Thesis (committee</Name>
+</Association>
+<Association>
+<Name>member), Invertebrate fossil taxonomy and paleobiology</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Sophia Kast, Macalester College Senior Honor&apos;s Thesis (committee member)</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Paleosols and paleoclimate of Late Cretaceous Madagascar</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBRQ0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBLcmlzdGluYSBDdXJyeSBSb2dlcnMNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGENCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTIwIFcuIEtlbGxvZ2cgQmx2ZC4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0LiBQYXVsLCBNTiA1NTEwMg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQaG9uZTogNjUxLTIyMS00NzE3DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGYXg6IDY1MS0yMjEtNDUyNQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRW1haWw6IGtyb2dlcnNAc21tLm9yZw0KDQoNCg0KDQoNCkVkdWNhdGlvbg0KDQogICAgICBNb250YW5hIFN0YXRlIFVuaXZlcnNpdHkgKEJvemVtYW4pICAgICAgICAgICAgICAgICAgQmlvbG9neSAgICAgICAgICAgICBCLlNjLiwgMTk5Ng0KDQogICAgICBTdG9ueSBCcm9vayBVbml2ZXJzaXR5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQW5hdG9taWNhbCBTY2llbmNlcyBNLlNjLiwgMTk5OQ0KDQogICAgICBTdG9ueSBCcm9vayBVbml2ZXJzaXR5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQW5hdG9taWNhbCBTY2llbmNlcyBQaC5ELiwgMjAwMQ0KDQoNCg0KUHJvZmVzc2lvbmFsIEFwcG9pbnRtZW50cy9BZmZpbGlhdGlvbnMNCg0KICAgICAgQXNzaXN0YW50IFByb2Zlc3NvciBpbiBCaW9sb2d5IGFuZCBHZW9sb2d5ICgyMDA4LXByZXNlbnQpDQoNCiAgICAgIEN1cmF0b3Igb2YgUGFsZW9udG9sb2d5ICgyMDAyLTIwMDcpLCBBc3Npc3RhbnQgQ3VyYXRvciBvZiBQYWxlb250b2xvZ3kgKDIwMDEtMjAwMiksDQoNCiAgICAgICAgICAgICAgQ3VyYXRvcmlhbCBBc3Npc3RhbnQgaW4gUGFsZW9udG9sb2d5ICgxOTk5LTIwMDEpLCBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGENCg0KICAgICAgVmlzaXRpbmcgQXNzaXN0YW50IFByb2Zlc3NvciBpbiBHZW9sb2d5LCBNYWNhbGVzdGVyIENvbGxlZ2UgKDIwMDItMjAwNykNCg0KICAgICAgQWRqdW5jdCBBc3Npc3RhbnQgUHJvZmVzc29yIGluIEdlb2xvZ3kgYW5kIEdlb3BoeXNpY3MsIFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhICgyMDA2LQ0KDQogICAgICAgICAgICAgIHByZXNlbnQpDQoNCiAgICAgIFJlc2VhcmNoIEFzc29jaWF0ZSwgQmVsbCBNdXNldW0gb2YgTmF0dXJhbCBIaXN0b3J5LCBVbml2ZXJzaXR5IG9mIE1pbm5lc290YSAoMTk5OS0NCg0KICAgICAgICAgICAgICBwcmVzZW50KQ0KDQogICAgICBSZXNlYXJjaCBBc3NvY2lhdGUsIE11c2V1bSBvZiB0aGUgUm9ja2llcywgTW9udGFuYSBTdGF0ZSBVbml2ZXJzaXR5ICgxOTk2LXByZXNlbnQpDQoNCg0KDQpQdWJsaWNhdGlvbnMNCg0KICBSZXNlYXJjaCBBcnRpY2xlcyBpbiBQZWVyLVJldmlld2VkIEpvdXJuYWxzIChyZWQgPSB1bmRlcmdyYWR1YXRlIGF1dGhvcikNCg0KICAgICAgICBDdXJyeSBSb2dlcnMsIEsuIGluIHJldmlldy4gVGhlIHBvc3RjcmFuaWFsIGFuYXRvbXkgb2YgUmFwZXRvc2F1cnVzIGtyYXVzZWkNCg0KICAgICAgICAgICAgICAgKFNhdXJvcG9kYTogVGl0YW5vc2F1cmlhKS4gSm91cm5hbCBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neS4NCg0KICAgICAgICBFcmlja3NvbiwgRy4gTS4sIEsuIEN1cnJ5IFJvZ2VycywgRC4gSi4gVmFycmljY2hpbywgTS4gQS4gTm9yZWxsLCBhbmQgWGluZyBYdS4gMjAwNy4NCg0KICAgICAgICAgICAgICAgR3Jvd3RoIHBhdHRlcm5zIGluIGJyb29kaW5nIGRpbm9zYXVycyByZXZlYWxzIHRoZSB0aW1pbmcgb2Ygc2V4dWFsIG1hdHVyaXR5IGluDQoNCiAgICAgICAgICAgICAgICAgICAgICAgbm9uLWF2aWFuIGRpbm9zYXVycyBhbmQgZ2VuZXNpcyBvZiB0aGUgYXZpYW4gY29uZGl0aW9uLiBCaW9sb2dpY2FsDQoNCkxldHRlcnMgMzo1NTgtICAgICAgICAgICAgICAgICA1NjEuDQoNCiAgICAgICAgUm9nZXJzLCBSLiBSLiwgRC4gVy4gS3JhdXNlLCBLLiBDdXJyeSBSb2dlcnMsIEEuIEguIFJhc29hbWlhcmFtYW5hbmEsIGFuZCBMLg0KDQogICAgICAgICAgICAgICBSYWhhbnRhcmlzb2EuIDIwMDcuIFBhbGVvZW52aXJvbm1lbnQgYW5kIFBhbGVvZWNvbG9neSBvZiBNYWp1bmdhc2F1cnVzDQoNCiAgICAgICAgICAgICAgIGNyZW5hdGlzc2ltdXMgKFRoZXJvcG9kYTogQWJlbGlzYXVyaWRhZSkgZnJvbSB0aGUgTGF0ZSBDcmV0YWNlb3VzIG9mDQoNCiAgICAgICAgICAgICAgICAgICAgICAgTWFkYWdhc2Nhci4gSm91cm5hbCBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSBNZW1vaXIgOCAyNyhzdXBwbC4gdG8NCg0KMik6MjEtMzEuDQoNCiAgICAgICAgU2FsZ2FkbywgTC4sIFIuIEEuIENvcmlhLCBDLiBNLiBNYWdhbGhhZXMgUmliZWlybywgQS4gR2FycmlkbywgUi4gUm9nZXJzLCBNLiBFLiBTaW3Ds24sDQoNCiAgICAgICAgICAgICAgIEEuIEIuIEFyY3VjY2ksIEsuIEN1cnJ5IFJvZ2VycywgQS5QLiBDYXJhYmFqYWwsIFMuIEFwZXN0ZWd1w61hLCBNLiBGZXJuw6FuZGV6LA0KDQogICAgICAgICAgICAgICBSLiBBLiBHYXJjw61hLCBhbmQgTS4gVGFsZXZpLiAyMDA3LiBVcHBlciBDcmV0YWNlb3VzIGRpbm9zYXVyIG5lc3Rpbmcgc2l0ZXMgb2YNCg0KICAgICAgICAgICAgICAgUsOtbyBOZWdybyAoU2FsaXRyYWwgT2pvIGRlIEFndWEgYW5kIFNhbGluYXMgZGUgVHJhcGFsY8OzLVNhbGl0cmFsIGRlIFNhbnRhDQoNCiAgICAgICAgICAgICAgIFJvc2EpLCBub3J0aGVybiBQYXRhZ29uaWEsIEFyZ2VudGluYS4gQ3JldGFjZW91cyBSZXNlYXJjaCAyODozOTItNDA0Lg0KDQogICAgICAgIEtyYXVzZSwgRC4gVy4sIFAuIE0uIE8nQ29ubm9yLCBLLiBDdXJyeSBSb2dlcnMsIFMuIFNhbXBzb24sIEcuIEJ1Y2tsZXksIGFuZCBSLiBSLg0KDQogICAgICAgICAgICAgICBSb2dlcnMuIDIwMDYuIExhdGUgQ3JldGFjZW91cyBUZXJyZXN0cmlhbCBWZXJ0ZWJyYXRlcyBmcm9tIE1hZGFnYXNjYXI6DQoNCiAgICAgICAgICAgICAgIEltcGxpY2F0aW9ucyBmb3IgTGF0aW4gQW1lcmljYW4gQmlvZ2VvZ3JhcGh5LiBBbm5hbHMgb2YgdGhlIE1pc3NvdXJpIEJvdGFuaWNhbA0KDQogICAgICAgICAgICAgICBHYXJkZW4gOTM6MTc4LTIwOC4NCg0KICAgICAgICBDdXJyeSBSb2dlcnMsIEsuIGFuZCBDLiBBLiBGb3JzdGVyLiAyMDA0LiBUaGUgc2t1bGwgb2YgUmFwZXRvc2F1cnVzIGtyYXVzZWkNCg0KICAgICAgICAgICAgICAgKFNhdXJvcG9kYTogVGl0YW5vc2F1cmlhKSBmcm9tIHRoZSBMYXRlIENyZXRhY2VvdXMgb2YgTWFkYWdhc2Nhci4gSm91cm5hbCBvZg0KDQogICAgICAgICAgICBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSAyNDoxMjEtMTQ0Lg0KDQogICAgIFJvZ2VycywgUi4gUi4sIEsuIEN1cnJ5IFJvZ2VycywgRC4gTXVueWlrd2EsIFIuIFRlcnJ5LCBhbmQgQi4gU2luZ2VyLiAyMDA0LiBOZXcNCg0KICAgICAgICAgICAgaW5zaWdodHMgaW50byBLYXJvby1lcXVpdmFsZW50IHJvY2tzIGluIHRoZSBMaW1wb3BvIFZhbGxleSBvZiBaaW1iYWJ3ZSwgd2l0aA0KDQogICAgICAgICAgICBvYnNlcnZhdGlvbnMgb24gdGhlIHByZXNlcnZhdGlvbiBvZiBlYXJseSBkaW5vc2F1cnMuIEpvdXJuYWwgb2YgQWZyaWNhbiBFYXJ0aA0KDQogICAgICAgICAgICBTY2llbmNlcyA0MDoxNDctMTYxLg0KDQogICAgIFJvZ2VycywgUi4gUi4sIEQuIFcuIEtyYXVzZSwgYW5kIEsuIEN1cnJ5IFJvZ2Vycy4gMjAwMy4gQ2FubmliYWxpc20gaW4gdGhlDQoNCiAgICAgICAgICBNYWRhZ2FzY2FuIGRpbm9zYXVyIE1hanVuZ2F0aG9sdXMgYXRvcHVzLiBOYXR1cmUgNDIyOjUxNS01MTguDQoNCiAgICAgQ3VycnkgUm9nZXJzLCBLLiBhbmQgQy4gQS4gRm9yc3Rlci4gMjAwMS4gVGhlIGxhc3Qgb2YgdGhlIGRpbm9zYXVyIHRpdGFuczogYSBuZXcNCg0KICAgICAgICAgICAgc2F1cm9wb2QgZnJvbSBNYWRhZ2FzY2FyLiBOYXR1cmUgNDEyOjUzMC01MzQuDQoNCiAgICAgRXJpY2tzb24sIEcuTS4sIEsuIEN1cnJ5IFJvZ2VycywgYW5kIFMuIEEuIFllcmJ5LiAyMDAxLiBEaW5vc2F1cmlhbiBncm93dGggcGF0dGVybnMNCg0KICAgICAgICAgICAgYW5kIHJhcGlkIGF2aWFuIGdyb3d0aCByYXRlcy4gTmF0dXJlIDQxMjogNDI5LTQzMy4NCg0KICAgICBDYXN0YW5ldCwgSi4sIEsuIEN1cnJ5IFJvZ2VycywgSi4gQ3VibywgYW5kIEouIEouIEJvaXNhcmQuIDIwMDAuIFF1YW50aWZpY2F0aW9uIG9mDQoNCiAgICAgICAgICAgIHBlcmlvc3RlYWwgb3N0ZW9nZW5lc2lzIGluIG9zdHJpY2ggYW5kIGVtdTogSW1wbGljYXRpb25zIGZvciBzdHVkaWVzIG9mIGV4dGluY3QNCg0KICAgICAgICAgICAgZGlub3NhdXJpYW4gYm9uZSBoaXN0b2xvZ3kuIENvbXB0ZXMgUmVuZHVzIGwnQWNhZGVtaWUgZGVzIFNjaWVuY2VzIDMyMzo1NDMtDQoNCiAgICAgICAgICAgIDU1MC4NCg0KICAgICBDdXJyeSwgSy4gQS4gMTk5OS4gT250b2dlbmV0aWMgaGlzdG9sb2d5IG9mIEFwYXRvc2F1cnVzIChEaW5vc2F1cmlhOlNhdXJvcG9kYSk6IE5ldw0KDQogICAgICAgICAgICBpbnNpZ2h0cyBvbiBncm93dGggcmF0ZXMgYW5kIGxvbmdldml0eS4gSm91cm5hbCBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neQ0KDQogICAgICAgICAgICAxOTooNjU0LTY2NSkuDQoNCg0KDQpFZGl0ZWQgVm9sdW1lcw0KDQogICAgIEN1cnJ5IFJvZ2VycywgSy4gYW5kIEouIEEuIFdpbHNvbi4gMjAwNS4gVGhlIFNhdXJvcG9kczogRXZvbHV0aW9uIGFuZCBQYWxlb2Jpb2xvZ3kuDQoNCiAgICAgICAgICAgIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSBQcmVzczogMzYzIHBwLg0KDQogIE15IGNvbnRyaWJ1dGlvbnMgaW4gdGhpcyB2b2x1bWUgaW5jbHVkZToNCg0KICAgICBDdXJyeSBSb2dlcnMsIEsuIDIwMDUuIFRoZSBFdm9sdXRpb25hcnkgSGlzdG9yeSBvZiB0aGUgVGl0YW5vc2F1cmlhLiBJbjogVGhlDQoNCiAgICAgICAgICAgIFNhdXJvcG9kczogRXZvbHV0aW9uIGFuZCBQYWxlb2Jpb2xvZ3kgKEsuIEN1cnJ5IFJvZ2VycyBhbmQgSi4gQS4gV2lsc29uLCBlZHMuKS4NCg0KICAgICAgICAgICAgVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhIFByZXNzLCBCZXJrZWxleTogNTAtMTAzLg0KDQogICAgIEN1cnJ5IFJvZ2VycywgSy4gYW5kIEcuIE0uIEVyaWNrc29uLiAyMDA1LiBTYXVyb3BvZCBIaXN0b2xvZ3k6IE1pY3Jvc2NvcGljDQoNCiAgICAgICAgICAgIFZpZXdzIG9uIHRoZSBMaXZlcyBvZiBHaWFudHMuIEluOiBUaGUgU2F1cm9wb2RzOiBFdm9sdXRpb24gYW5kIFBhbGVvYmlvbG9neSAoSy4NCg0KICAgICAgICAgICAgQ3VycnkgUm9nZXJzIGFuZCBKLiBBLiBXaWxzb24sIGVkcy4pLiBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEgUHJlc3MsIEJlcmtlbGV5Og0KDQogICAgICAgICAgICAzMDMtMzI2Lg0KDQogICAgIFdpbHNvbiwgSi4gQS4gYW5kIEsuIEN1cnJ5IFJvZ2Vycy4gMjAwNS4gTW9ub2xpdGhzIG9mIHRoZSBNZXNvem9pYy4gSW46IFRoZQ0KDQogICAgICAgICAgICBTYXVyb3BvZHM6IEV2b2x1dGlvbiBhbmQgUGFsZW9iaW9sb2d5IChLLiBDdXJyeSBSb2dlcnMgYW5kIEouIEEuIFdpbHNvbiwgZWRzLikuDQoNCiAgICAgICAgICAgIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSBQcmVzcywgQmVya2VsZXk6IDEtMTQuDQoNCg0KDQpCb29rIENoYXB0ZXJzL0VuY3ljbG9wZWRpYSBDb250cmlidXRpb25zDQoNCiAgICBDdXJyeSBSb2dlcnMsIEsuIGluIHJldmlldy4gVGl0YW5vc2F1ciBTYXVyb3BvZC4gTWNHcmF3IEhpbGwgMjAwOSBZZWFyYm9vayBvZg0KDQogICAgICAgICAgICBTY2llbmNlIGFuZCBUZWNobm9sb2d5LiBNY0dyYXcgSGlsbCwgSW5jLg0KDQogICAgQ3VycnkgUm9nZXJzLCBLLiBpbiByZXZpZXcuIFNjaWVuY2UgYW5kIG5hdHVyYWwgaGlzdG9yeSBtdXNldW1zLiBJbjogRW5jeWNsb3BlZGlhIG9mDQoNCiAgICAgICAgICAgIExpYnJhcnkgYW5kIEluZm9ybWF0aW9uIFNjaWVuY2VzLCBUaGlyZCBFZGl0aW9uIChNLiBCYXRlcyBhbmQgTS4gTmlsZXMgTWFhY2ssDQoNCiAgICAgICAgICAgIGVkcy4pLiBUYXlsb3IgYW5kIEZyYW5jaXMuDQoNCiAgICBXaWxzb24sIEouIEEuIGFuZCBLLiBDdXJyeSBSb2dlcnMuIEluIHByZXNzLiBUaGUgU2F1cm9wb2RzLiBJbjogVGhlIENvbXBsZXRlDQoNCiAgICAgICAgICAgIERpbm9zYXVyLFNlY29uZCBFZGl0aW9uIChKLiBPLiBGYXJsb3cgYW5kIE0uIEJyZXR0LVN1cm1hbiwgZWRzLikuIEluZGlhbmENCg0KICAgICAgICAgICAgVW5pdmVyc2l0eSBQcmVzcy4NCg0KICAgIEN1cnJ5IFJvZ2VycywgSy4gMjAwMS4gRXZpZGVuY2UgZm9yIEV2b2x1dGlvbi4gQmlvbG9neSwgTWFjbWlsbGFuIFNjaWVuY2UgTGlicmFyeSAoUi4NCg0KICAgICAgICAgICAgUm9iaW5zb24sIGVkLiksIE1hY21pbGxhbiBSZWZlcmVuY2UgVVNBLg0KDQogICAgQ3VycnkgUm9nZXJzLCBLLiAyMDAxLiBHcm93dGggUmF0ZXMgYW1vbmcgdGhlIGRpbm9zYXVycy4gSW46IFRoZSBTY2llbnRpZmljDQoNCiAgICAgICAgICAgIEFtZXJpY2FuIEJvb2sgb2YgRGlub3NhdXJzIChHLiBQYXVsLCBlZC4pLiBCeXJvbiBQcmVzcyBWaXN1YWwgUHVibGljYXRpb25zLA0KDQogICAgICAgICAgICBJbmMuLCBOZXcgWW9yazogMjk3LTMwOS4NCg0KICAgIEdvdHRmcmllZCwgTS5ELiwgSy4gQ3VycnkgUm9nZXJzLCBhbmQgUi4gUm9nZXJzLiAyMDA0LiBGaXJzdCByZWNvcmQgb2YgTGF0ZQ0KDQogICAgICAgICAgICBDcmV0YWNlb3VzIGNvZWxhY2FudGhzIGZyb20gTWFkYWdhc2Nhci4gSW46IFJlY2VudCBhZHZhbmNlcyBpbiB0aGUgb3JpZ2luDQoNCiAgICAgICAgICAgIGFuZCBlYXJseSByYWRpYXRpb24gb2YgdmVydGVicmF0ZXMgKEcuIEFycmF0aWEsIGVkLikgRi4gUGZlaWwsIEJlcmxpbjogNjg3LTY5MS4NCg0KUG9wdWxhciBBcnRpY2xlcw0KDQogICAgICBDdXJyeSBSb2dlcnMsIEsuIDIwMDYuIFF1ZWxsZSBwb3Vzc8OpZSBkZSBjcm9pc3NhbmNlISBMYSBSZWNoZXJjaGUgNDAzOjM5LTQ0Lg0KDQogICAgICBDdXJyeSBSb2dlcnMsIEsuIDIwMDcuIERpbm9zYXVyIGdyb3d0aDogdGhlIGNhc2UgZm9yIEFwYXRvc2F1cnVzLiBJbjogRGlub3NhdXJzIChULg0KDQogICAgICAgICAgICAgIEhvbHR6KS4gUmFuZG9tIEhvdXNlLCBOZXcgWW9yazogMzAxLg0KDQogICAgICBDdXJyeSBSb2dlcnMsIEsuIDIwMDMtcHJlc2VudC4gTW9udGhseSBuZXdzcGFwZXIgYXJ0aWNsZSAiTm8gQm9uZXMgQWJvdXQgSXQiIGluIHRoZQ0KDQogICAgICAgICAgICAgIFN0LiBBbnRob255IFBhcmsgQnVnbGUuDQoNCg0KDQpCb29rIFJldmlld3MNCg0KICAgICAgQ3VycnkgUm9nZXJzLCBLLiAyMDA2LiBUaGUgRXZvbHV0aW9uIGFuZCBFeHRpbmN0aW9uIG9mIERpbm9zYXVycywgMm5kIGVkaXRpb24uDQoNCiAgICAgICAgICAgIFBhbGFpb3MgMjE6MzExLTMxMi4NCg0KICAgICAgQ3VycnkgUm9nZXJzLCBLLiAyMDA1LiBEZWVwIGludG8gRGlub3NhdXIgQm9uZXMuIFRyZW5kcyBpbiBFY29sb2d5IGFuZCBFdm9sdXRpb24NCg0KICAgICAgICAgICAgMjAoNik6Mjk4LTI5OS4NCg0KICAgICAgQ3VycnkgUm9nZXJzLCBLLiAyMDAyLiBEaW5vbWF6ZSAtIENvbG9zc2FsIEZvc3NpbCBNYXplIEJvb2suIFBhbGFpb3MgMTcoNSk6IDUyOS4NCg0KDQoNCiBBYnN0cmFjdHMgKGFsbCBsaW5rZWQgdG8gY29uZmVyZW5jZSBwcmVzZW50YXRpb25zLCByZWQgPSB1bmRlcmdyYWR1YXRlIGF1dGhvcikNCg0KICAgICAgIEN1cnJ5IFJvZ2VycywgSyBhbmQgTS4gSi4gSW1rZXIuIDIwMDcuIE5ldyBkYXRhIG9uICJNYWxhZ2FzeSBUYXhvbiBCLCIgYQ0KDQogICAgICAgICAgICAgICB0aXRhbm9zYXVyIGZyb20gdGhlIExhdGUgQ3JldGFjZW91cyBvZiBNYWRhZ2FzY2FyLiBKb3VybmFsIG9mIFZlcnRlYnJhdGUNCg0KICAgICAgICAgICAgICAgUGFsZW9udG9sb2d5IDI3KDMpOjY0QS4NCg0KICAgICAgIEVyaWNrc29uLCBHLiBNLiwgSy4gQ3VycnkgUm9nZXJzLCBELiBWYXJyaWNjaGlvLCBNLiBOb3JlbGwsIGFuZCBYLiBYdS4gMjAwNy4gR3Jvd3RoDQoNCiAgICAgICAgICAgICAgIHBhdHRlcm5zIGluIGJyb29kaW5nIGRpbm9zYXVycyByZXZlYWwgdGhlIHRpbWluZyBvZiBzZXh1YWwgbWF0dXJhdGlvbiBpbiBub24tDQoNCiAgICAgICAgICAgICAgICAgICAgICAgYXZpYW4gZGlub3NhdXJzIGFuZCB0aGUgZ2VuZXNpcyBvZiB0aGUgYXZpYW4gY29uZGl0aW9uLiBKb3VybmFsIG9mDQoNClZlcnRlYnJhdGUgICAgICAgICAgICAgICAgICAgICAgUGFsZW9udG9sb2d5IDI3KDMpOjcxQS4NCg0KICAgICAgIEdhcmNpYSwgQi4sIEcuIEVyaWNrc29uLCBLLiBDdXJyeSBSb2dlcnMsIGFuZCBNLiBOb3JlbGwuIExvbmdldml0eSBhbmQgZ3Jvd3RoDQoNCiAgICAgICAgICAgICAgIHBhdHRlcm5zIGluIHRoZSBkcm9tYWVvc2F1cmlkIFZlbG9jaXJhcHRvciBtb25nb2xpZW5zaXMgaW5mZXJyZWQgZnJvbSBsb25nIGJvbmUNCg0KICAgICAgICAgICAgICAgICAgICAgICBoaXN0b2xvZ3kuIEpvdXJuYWwgb2YgVmVydGVicmF0ZSBQYWxlb250b2xvZ3kgMjcoMyk6NzlBLg0KDQogICAgICAgQ3VycnkgUm9nZXJzLCBLLiwgSi4gSGVydGVsLCBhbmQgSi4gR3JvZW5rZS4gMjAwNi4gVGhyZWUtZGltZW5zaW9uYWwgcmVjb25zdHJ1Y3Rpb24NCg0KICAgICAgICAgICAgICAgb2YgdGhlIHNrdWxsIG9mIFJhcGV0b3NhdXJ1cyBrcmF1c2VpIChTYXVyb3BvZGE6IFRpdGFub3NhdXJpYSkuIEpvdXJuYWwgb2YNCg0KICAgICAgICAgICAgICAgICAgICAgICBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSAyNigzKTogNTNBLg0KDQogICAgICAgR29uesOhbGV6IFJpZ2EsIEIuIEouIGFuZCBLLiBDdXJyeSBSb2dlcnMuIDIwMDYuIE9zdGVvaGlzdG9sb2d5IG9mIHRoZSB0aXRhbm9zYXVyIFwNCg0KICAgICAgICAgICAgICAgICAgICAgICBNZW5kb3phc2F1cnVzIChEaW5vc2F1cmlhOiBTYXVyb3BvZGEpOiBwcmVsaW1pbmFyeSBpbnRlcnByZXRhdGlvbnMuIDl0aA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbmdyZXNvIEFyZ2VudGlubyBkZSBQYWxlb250b2xvZ8OtYSB5IEJpb2VzdGF0aWdyYWbDrWEgKEPDs3Jkb2JhLA0KDQoyMDA2KSwgICAgICAgICAgICAgICAgICAgICAgICAgIEFjYWRlbWlhIE5hY2lvbmFsIGRlIENpZW5pY2FzLCBSZXPDum1lbmVzOiA4NC4NCg0KICAgICAgIEN1cnJ5IFJvZ2VycywgSy4gMjAwNS4gVGhlIHBvc3RjcmFuaWFsIGFuYXRvbXkgb2YgUmFwZXRvc2F1cnVzIGtyYXVzZWkNCg0KICAgICAgICAgICAgICAgKFNhdXJvcG9kYTogVGl0YW5vc2F1cmlhKSwgd2l0aCBjb21tZW50cyBvbiBsaWZlIGhpc3Rvcnkgc3RyYXRlZ3kuIEpvdXJuYWwgb2YNCg0KICAgICAgICAgICAgICAgVmVydGVicmF0ZSBQYWxlb250b2xvZ3kgMjUoMyk6NDhBLg0KDQogICAgICAgU2F1dGVyLCBNLiwgRC4gRm94LCBhbmQgSy4gQ3VycnkgUm9nZXJzLiAyMDA0LiBBIHBvcHVsYXRpb24gYW5hbHlzaXMgb2YNCg0KICAgICAgICAgICAgICAgQm9yZWFsb3N1Y2h1cyAoPUxlaWR5b3N1Y2h1cykgZm9ybWlkYWJhbGlzIChDcm9jb2R5bGlhKSBmcm9tIFdhbm5hZ2FuIENyZWVrDQoNCiAgICAgICAgICAgICAgIFF1YXJyeSwgTm9ydGggRGFrb3RhLiBKb3VybmFsIG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5IDI0KDMpOiAxMDlBLg0KDQogICAgICAgQ3VycnkgUm9nZXJzLCBLLiAyMDAzLiBUaXRhbm9zYXVyIHRhaWxzIHRlbGwgdHdvIHRhaWxzOiBBIHNlY29uZCBNYWxhZ2FzeSB0aXRhbm9zYXVyDQoNCiAgICAgICAgICAgICAgIHdpdGggc2FsdGFzYXVyaWQgYWZmaW5pdGllcy4gSm91cm5hbCBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSAyMigzKTogNDctNDhBLg0KDQogICAgICAgQ3VycnkgUm9nZXJzLCBLLiwgRy4gRXJpY2tzb24sIGFuZCBNLiBOb3JlbGwuIDIwMDMuIERpbm9zYXVyaWFuIExpZmUgSGlzdG9yeQ0KDQogICAgICAgICAgICAgICBTdHJhdGVnaWVzLCBHcm93dGggUmF0ZXMsIGFuZCBDaGFyYWN0ZXIgRXZvbHV0aW9uOiBOZXcgaW5zaWdodHMgZ2FybmVyZWQgZnJvbQ0KDQogICAgICAgICAgICAgICBib25lIGhpc3RvbG9neSBhbmQgZGV2ZWxvcG1lbnRhbCBtYXNzIGV4dHJhcG9sYXRpb24uIEpvdXJuYWwgb2YgVmVydGVicmF0ZQ0KDQogICAgICAgICAgICAgICBQYWxlb250b2xvZ3kgMjMoMyk6OTBBLg0KDQogICAgICAgR290dGZyaWVkLCBNLiwgUi4gUi4gUm9nZXJzLCBhbmQgSy4gQ3VycnkgUm9nZXJzLiAyMDAyLiBDb2Vsb2NhbnRoIGFuZCBBbWlpZCBGaXNoZXMNCg0KICAgICAgICAgICAgICAgcHJlc2VudCBpbiB0aGUgTGF0ZSBDcmV0YWNlb3VzIG9mIE1hZGFnYXNjYXIuIEpvdXJuYWwgb2YgVmVydGVicmF0ZQ0KDQogICAgICAgICAgICAgICBQYWxlb250b2xvZ3kgMjIoMyk6NjBBLg0KDQogICAgICAgQ3VycnkgUm9nZXJzLCBLLiAyMDAxLiBBIG5ldyBzYXVyb3BvZCBmcm9tIE1hZGFnYXNjYXI6IEltcGxpY2F0aW9ucyBmb3IgdGl0YW5vc2F1cg0KDQogICAgICAgICAgICAgICBsb3dlci1sZXZlbCBwaHlsb2dlbnkuIEpvdXJuYWwgb2YgVmVydGVicmF0ZSBQYWxlb250b2xvZ3kgMjEoMyk6NDNBLg0KDQogICAgICAgQ3VycnksIEsuIEEuIDIwMDEuIFRoZSBhbmF0b215IGFuZCBwaHlsb2dlbnkgb2YgYSBuZXcgdGl0YW5vc2F1cmlkIGZyb20NCg0KICAgICAgICAgICAgIE1hZGFnYXNjYXIgKFVwcGVyIENyZXRhY2VvdXMgTWFldmFyYW5vIEZvcm1hdGlvbikuIFhWSUkgSm9ybmFkYXMNCg0KICAgICAgICAgICAgIEFyZ2VudGluYXMgZGUgUGFsZW9udG9sb2fDrWEgZGUgVmVydGVicmFkb3MsIEVzcXVlbCAtIENodWJ1dCwgOC4NCg0KICAgICAgQ3VycnkgUm9nZXJzLCBLLiwgSi4gQ2FzdGFuZXQsIEouIEN1Ym8sIGFuZCBKLi1KLiBCb2lzYXJkLiAyMDAwLiBIb3cgZmFzdCBpcyBmYXN0Pw0KDQogICAgICAgICAgICAgQm9uZSBncm93dGggcmF0ZSBxdWFudGlmaWNhdGlvbiBpbiBleHRhbnQgcmF0aXRlcyBhbmQgaW1wbGljYXRpb25zIGZvciBkaW5vc2F1cnMuDQoNCiAgICAgICAgICAgICBKb3VybmFsIG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5IDIwKDMpOjM3QS4NCg0KICAgICAgRXJpY2tzb24sIEcuIGFuZCBLLiBDdXJyeSBSb2dlcnMuIDIwMDAuIENvbXBhcmlzb24gb2YgRXhwb25lbnRpYWwtU3RhZ2UgR3Jvd3RoDQoNCiAgICAgICAgICAgICBSYXRlcyBiZXR3ZWVuIGRpbm9zYXVycyBhbmQgZXh0YW50IHZlcnRlYnJhdGVzLiBKb3VybmFsIG9mIFZlcnRlYnJhdGUNCg0KICAgICAgICAgICAgIFBhbGVvbnRvbG9neSAyMCgzKTogNDBBLg0KDQogICAgICBSb2dlcnMsIFIuLCBLLiBDdXJyeSBSb2dlcnMsIEQuIE11bnlpa3dhLCAmIFIuIFRlcnJ5LiAyMDAwLiBUaGUgYmVnaW5uaW5nIG9mIHRoZQ0KDQogICAgICAgICAgICAgQWdlIG9mIERpbm9zYXVycyBpbiBTb3V0aGVybiBaaW1iYWJ3ZTogQSBnZW9sb2dpY2FsIGFuZCBwYWxlb250b2xvZ2ljYWwNCg0KICAgICAgICAgICAgIG92ZXJ2aWV3LiBKb3VybmFsIG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5IDIwKDMpOiA2NEEuDQoNCiAgICAgIEN1cnJ5LCBLLiBBLiAxOTk5LiBGb3NzaWwgdmVydGVicmF0ZXMgZnJvbSB0aGUgTGF0ZSBDcmV0YWNlb3VzIG9mIE1hZGFnYXNjYXI6IE5ldw0KDQogICAgICAgICAgICAgdGF4YSBhbmQgdGhlaXIgYmlvZ2VvZ3JhcGhpYyBpbXBsaWNhdGlvbnMuIENvbmZlcmVuY2Ugb24gdGhlIFBHIFZhbGxleS4NCg0KICAgICAgICAgICAgIEFic3RyYWN0czozMC4gQ2FsY3V0dGEuDQoNCiAgICAgIEN1cnJ5LCBLLiBBLiBhbmQgQy4gQS4gRm9yc3Rlci4gMTk5OS4gTmV3IGV2aWRlbmNlIG9mIHRpdGFub3NhdXJpYW4gc2F1cm9wb2RzIGluIHRoZQ0KDQogICAgICAgICAgICAgTGF0ZSBDcmV0YWNlb3VzIG9mIE1hZGFnYXNjYXIuIFZJSSBJbnRlcm5hdGlvbmFsIFN5bXBvc2l1bSBvbiBNZXNvem9pYw0KDQogICAgICAgICAgICAgVGVycmVzdHJpYWwgRWNvc3lzdGVtcy4gQWJzdHJhY3RzOiAyMC4gQnVlbm9zIEFpcmVzLg0KDQogICAgICBDdXJyeSwgSy4gQS4gYW5kIEMuIEEuIEZvcnN0ZXIuIDE5OTkuIE5ldyBzYXVyb3BvZHMgZnJvbSBNYWRhZ2FzY2FyOiBBIGdsaW1wc2UNCg0KICAgICAgICAgICAgIGludG8gdGl0YW5vc2F1ciBjcmFuaWFsIG1vcnBob2xvZ3kgYW5kIGV2b2x1dGlvbi4gSm91cm5hbCBvZiBWZXJ0ZWJyYXRlDQoNCiAgICAgICAgICAgICBQYWxlb250b2xvZ3kgMTkoMyk6NDFBLg0KDQogICAgICBNdW55aWt3YSwgRC4sIFMuIEQuIFNhbXBzb24sIFIuIFIuIFJvZ2VycywgQy4gQS4gRm9yc3RlciwgSy4gQS4gQ3VycnksIGFuZCBCLiBELg0KDQogICAgICAgICAgICAgQ3VydGljZS4gMTk5OC4gVmVydGVicmF0ZSBwYWxlb250b2xvZ3kgYW5kIGdlb2xvZ3kgb2YgdGhlIEdva3dlIEZvcm1hdGlvbiwNCg0KICAgICAgICAgICAgIFppbWJhYndlLiBKb3VybmFsIG9mIEFmcmljYW4gRWFydGggU2NpZW5jZXMgMjc6MTQyLTE0My4NCg0KICAgICAgQ3VycnksIEsuIEEuIDE5OTguIEhpc3RvbG9naWNhbCBxdWFudGlmaWNhdGlvbiBvZiBncm93dGggcmF0ZXMgaW4gQXBhdG9zYXVydXMuIEpvdXJuYWwNCg0KICAgICAgICAgICAgIG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5LiAxNSgzKTozNkEuDQoNCiAgICAgIEN1cnJ5LCBLLiBBLiAxOTk3LiBWZXJ0ZWJyYXRlIGZvc3NpbHMgZnJvbSB0aGUgQW5rYXpvbWloYWJva2EgRm9ybWF0aW9uLCBNYWhhamFuZ2ENCg0KICAgICAgICAgICAgIEJhc2luLCBNYWRhZ2FzY2FyLiBKb3VybmFsIG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5LiAxNigzKTo0MEEuDQoNCiAgICAgIEN1cnJ5LCBLLiBBLiAxOTk2LiBEaXBsb2RvY2lkIE9zdGVvZ2VuZXNpcy4gSm91cm5hbCBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neS4NCg0KICAgICAgICAgICAgIDE2KDMpOjI5QS4NCg0KICAgICAgQ3VycnksIEsuIEEuIDE5OTQuIEp1dmVuaWxlIHNhdXJvcG9kcyBvZiB0aGUgTW9ycmlzb24gRm9ybWF0aW9uIG9mIE1vbnRhbmEuIEpvdXJuYWwNCg0KICAgICAgICAgICAgIG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5LiAxNCgzKToyMkEuDQoNCg0KDQpDb3Vyc2VzIFRhdWdodC9Dby1UYXVnaHQNCg0KICAgICAgMTk5OC0xOTk5ICAgIEh1bWFuIEdyb3NzIEFuYXRvbXkgKFQuQS4pICAgICAgICAgU3RvbnkgQnJvb2sgVW5pdmVyc2l0eQ0KDQogICAgICAyMDAxICAgICAgICAgVmVydGVicmF0ZSBFdm91dGlvbiBhbmQgUGFsZW9iaW9sb2d5ICAgICAgTWFjYWxlc3RlciBDb2xsZWdlDQoNCiAgICAgIDIwMDIgICAgICAgICBDb21wYXJhdGl2ZSBWZXJ0ZWJyYXRlIEFuYXRvbXkgICAgICAgICAgICBNYWNhbGVzdGVyIENvbGxlZ2UNCg0KICAgICAgMjAwMi0yMDA3ICAgIERpbm9zYXVycyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hY2FsZXN0ZXIgQ29sbGVnZQ0KDQogICAgICAyMDA4ICAgICAgICAgRXBpc29kZXMgaW4gdGhlIEhpc3Rvcnkgb2YgTGlmZSAgICAgICAgICAgTWFjYWxlc3RlciBDb2xsZWdlDQoNCg0KDQpJbnZpdGVkIExlY3R1cmVzDQoNCiAgICAgICAxOTk5ICAgICAgICAgRGlub3NhdXJzIG9mIFRyZWFzdXJlIElzbGFuZCBFeGhpYml0LCBTdG9ueSBCcm9vayBVbml2ZXJzaXR5IChUaGUNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgRGlub3NhdXIgVGl0YW5zKQ0KDQogICAgICAxOTk5ICAgICAgICAgIE5TRiBDaGF0dGFxdWEgQ291cnNlLCBTdG9ueSBCcm9vayBVbml2ZXJzaXR5IChWZXJ0ZWJyYXRlIEdyb3d0aA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICBSYXRlcyBhbmQgdGhlIE9yaWdpbiBvZiBBdmlhbGFlKQ0KDQogICAgICAxOTk5ICAgICAgICAgIFN5bXBvc2l1bSBvbiB0aGUgUHJhbmhpdGEtR29kYXZhcmkgVmFsbGV5LCBJbmRpYW4gU3RhdGlzdGljYWwNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgSW5zdGl0dXRlLCBDYWxjdXR0YSAoRm9zc2lsIFZlcnRlYnJhdGVzIGZyb20gdGhlIExhdGUNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3JldGFjZW91cyBvZiBNYWRhZ2FzY2FyKQ0KDQogICAgICAyMDAwICAgICAgICAgIE9sYWYgQ29sbGVnZSwgQmlvbG9neSBEZXBhcnRtZW50IChEaW5vc2F1ciBHcm93dGggUmF0ZXMpDQoNCiAgICAgIDIwMDAgICAgICAgICAgVW5pdmVyc2l0eSBvZiBNaW5uZXNvdGEsIEJlbGwgTXVzZXVtIG9mIE5hdHVyYWwgSGlzdG9yeSAoRGlub3NhdXINCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFsZW9iaW9sb2d5KQ0KDQogICAgICAyMDAwLTIwMDQgICAgIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YSBBZHVsdCBFZHVjYXRpb24gKFNob3J0IGNvdXJzZTogVGhlDQoNCiAgICAgICAgICAgICAgICAgICAgIEZvc3NpbCBSZWNvcmQsIDQgbGVjdHVyZXMpDQoNCjIwMDAsIDIwMDEgICBVbml2ZXJzaXR5IG9mIE1pbm5lc290YSwgRGVwYXJ0bWVudCBvZiBFY29sb2d5LCBFdm9sdXRpb24sIGFuZA0KDQogICAgICAgICAgICAgICAgICAgICBCZWhhdmlvciAoTWFsYWdhc3kgRGlub3NhdXJzLCBQYWxlb2Jpb2xvZ3kgYW5kDQoNCiAgICAgICAgICAgICAgICAgICAgIEJpb2dlb2dyYXBoeSkNCg0KMjAwMCwgMjAwMSAgIFN0LiBDcm9peCBSZXNlYXJjaCBTdGF0aW9uLCBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGENCg0KICAgICAgICAgICAgICAgICAgICAgKFRpdGFub3NhdXJzIGZyb20gTWFkYWdhc2NhciwgRGlub3NhdXIgR3Jvd3RoIFJhdGVzKQ0KDQoyMDAxICAgICAgICAgR2VvbG9naWNhbCBTb2NpZXR5IG9mIE1pbm5lc290YSAoVGhlIE9yaWdpbiBvZiBEaW5vc2F1cnMpDQoNCjIwMDEtMjAwMyAgICBBc3NvY2lhdGlvbiBvZiBQcm9mZXNzaW9uYWwgR2VvbG9naXN0cyAoUmVjZW50IGFkdmFuY2VzIGluDQoNCiAgICAgICAgICAgICAgICAgICAgIGRpbm9zYXVyIHBhbGVvYmlvbG9neSwgMyBsZWN0dXJlcykNCg0KMjAwMSAgICAgICAgIEFzc29jaWF0aW9uIG9mIFdvbWVuIEdlb3NjaWVudGlzdHMsIE1pbm5lc290YSAoRGlub3NhdXINCg0KICAgICAgICAgICAgICAgICAgICAgcGFsZW9iaW9sb2d5KQ0KDQoyMDAyICAgICAgICAgTWFjYWxlc3RlciBDb2xsZWdlIENoaWNhZ28gQWx1bW5pIENoYXB0ZXINCg0KMjAwMyAgICAgICAgIEtleW5vdGUgU3BlYWtlciwgRXllIHRvIHRoZSBGdXR1cmUgQ29uZmVyZW5jZSBmb3IgZ2lybHMgaW4gc2NpZW5jZSwNCg0KICAgICAgICAgICAgIEF1Z3NiZXJnIENvbGxlZ2UgKFdoYXQgSSBsb3ZlIGFib3V0IHN0dWR5aW5nIERpbm9zYXVycykgKD40MDANCg0KICAgICAgICAgICAgICAgICAgICAga2lkcyBpbiBhdHRlbmRhbmNlKQ0KDQoyMDAzICAgICAgICAgR3VzdGF2dXMgQWRvbHBodXMgQ29sbGVnZSwgQmlvbG9neSBEZXBhcnRtZW50IFNlbWluYXIgU2VyaWVzDQoNCiAgICAgICAgICAgICAgICAgICAgIChEaW5vc2F1cnMgb24gdGhlIExvc3QgQ29udGluZW50KQ0KDQoyMDAzICAgICAgICAgQXNzb2NpYXRpb24gb2YgU2NpZW5jZSBhbmQgVGVjaG5vbG9neSBDZW50ZXJzLCBBbm51YWwgTWVldGluZywNCg0KICAgICAgICAgICAgICAgICAgICAgSW52aXRlZCBQYW5lbGlzdCAoVGVhY2hpbmcgRXZvbHV0aW9uIHRvIHRoZSBQdWJsaWMpDQoNCjIwMDQgICAgICAgICAxM3RoIEFubnVhbCBLaWRzIFBsdXMgQ29uZmVyZW5jZSAoRGlub3NhdXJzIG9uIHRoZSBMb3N0DQoNCiAgICAgICAgICAgICAgICAgICAgIENvbnRpbmVudCkgKD4yMDAwIGtpZHMgaW4gYXR0ZW5kYW5jZSkNCg0KMjAwNCAgICAgICAgIFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhIC0gRHVsdXRoLCBHZW9sb2d5IERlcGFydG1lbnQgU2VtaW5hcg0KDQogICAgICAgICAgICAgICAgICAgICBTZXJpZXMgKERpbm9zYXVyaWFuIGdyb3d0aCByYXRlcykNCg0KMjAwNCAgICAgICAgIE5vcndpY2ggVW5pdmVyc2l0eSwgR2VvbG9neSBEZXBhcnRtZW50IFNlbWluYXIgU2VyaWVzIChTb2FyaW5nDQoNCiAgICAgICAgICAgICAgICAgICAgIFNhdXJvcG9kczogR3Jvd3RoIFJhdGVzIGFuZCBMaWZlIEhpc3RvcnkgU3RyYXRlZ2llcykNCg0KMjAwNSAgICAgICAgIE1jR2lsbCBVbml2ZXJzaXR5LCBCaW9sb2d5IERlcGFydG1lbnQgU2VtaW5hciBTZXJpZXMgKE1pY3Jvc2NvcGljDQoNCiAgICAgICAgICAgICAgICAgICAgIFZpZXdzIG9uIHRoZSBMaXZlcyBvZiBHaWFudHM6IEJvbmUgSGlzdG9sb2d5IGFuZCBEaW5vc2F1cg0KDQogICAgICAgICAgICAgICAgICAgICBHcm93dGggUmF0ZXMpDQoNCjIwMDUgICAgICAgICBVbml2ZXJzaXR5IG9mIE1pbm5lc290YSBSYXB0b3IgQ2VudGVyIChUaGUgRGlub3NhdXItQmlyZA0KDQogICAgICAgICAgICAgICAgICAgICBDb25uZWN0aW9uKQ0KDQoyMDA1ICAgICAgICAgQW5udWFsIENoaW5hIERheSwgVW5pdmVyc2l0eSBvZiBNaW5uZXNvdGEgKFRoZSBEaW5vc2F1ci1CaXJkDQoNCiAgICAgICAgICAgICAgICAgICAgIENvbm5lY3Rpb24pICg+NTAwIGtpZHMgaW4gYXR0ZW5kYW5jZSkNCg0KMjAwNSAgICAgICAgIFdvbWVuIGluIHRoZSBTb2NpZXR5IG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5LCBJbnZpdGVkIFBhbmVsaXN0DQoNCjIwMDUgICAgICAgICBUaGUgVW5pdmVyc2l0eSBvZiBTdC4gVGhvbWFzIEJpb2xvZ3kgRGVwYXJ0bWVudCAoQnJlYXRoaW5nIGxpZmUNCg0KICAgICAgICAgICAgICAgICAgICAgaW50byBmb3NzaWwgYm9uZXM6IGludGVycHJldGluZyBkaW5vc2F1cmlhbiBncm93dGggcmF0ZXMpDQoNCjIwMDUgICAgICAgICBBc3NvY2lhdGlvbiBvZiBVbml2ZXJzaXR5IFdvbWVuLCBVbml2ZXJzaXR5IG9mIE1pbm5lc290YSAoRGlub3NhdXINCg0KICAgICAgICAgICAgICAgICAgICAgUGFsZW9iaW9sb2d5KQ0KDQoyMDA1ICAgICAgICAgUGFsZW9mZXN0LCBCdXJwZWUgTXVzZXVtIG9mIE5hdHVyYWwgSGlzdG9yeSwgUm9ja2ZvcmQgSWxsaW5vaXMNCg0KICAgICAgICAgICAgICAgICAgICAgKERpbm9zYXVycyBvbiB0aGUgTG9zdCBDb250aW5lbnQpDQoNCjIwMDUgICAgICAgICBLZXlub3RlIFNwZWFrZXIsIE1hY2FsZXN0ZXIgQ29sbGVnZSwgT2ZmaWNlIG9mIFJlc2VhcmNoIGFuZA0KDQogICAgICAgICAgICAgICAgICAgICBFeHBlcmllbnRpYWwgTGVhcm5pbmcgU3R1ZGVudCBSZXNlYXJjaCBQb3N0ZXIgU2Vzc2lvbiAoRnJvbQ0KDQogICAgICAgICAgICAgICAgICAgICBNYWRhZ2FzY2FyIHRvIE1pY3Jvc2NvcGVzOiBCcmVhdGhpbmcgTGlmZSBpbnRvIERpbm9zYXVyIEJvbmVzKQ0KDQoyMDA1ICAgICAgICAgQ2FsaWZvcm5pYSBTdGF0ZSBVbml2ZXJzaXR5IC0gRnJlc25vLCBHZW9sb2d5IERlcGFydG1lbnQgKEZpZWxkIHdvcmsgaW4NCg0KICAgICAgICAgICAgICAgICAgICAgTWFkYWdhc2NhciBhbmQgZGlub3NhdXIgZ3Jvd3RoIHJhdGVzKS4NCg0KMjAwNiAgICAgICAgIEdyYWR1YXRlIFdvbWVuIGluIFNjaWVuY2UsIFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhIChCYWxhbmNpbmcgRmllbGQNCg0KICAgICAgICAgICAgICAgICAgICAgUmVzZWFyY2ggd2l0aCBGYW1pbHkpDQoNCjIwMDcgICAgICAgICBHcmFkdWF0ZSBXb21lbiBpbiBTY2llbmNlLCBOYXRpb25hbCBDb252ZW50aW9uLCBJbml2aXRlZCBwYW5lbGlzdA0KDQogICAgICAgICAgICAgICAgICAgICAoQ29tbXVuaWNhdGluZyBSZXNlYXJjaCB0byB0aGUgUHVibGljKQ0KDQoyMDA3ICAgICAgICAgU2NpZW5jZSBTYXR1cmRheSwgQ29sbGVnZSBvZiBTdC4gQ2F0aGVyaW5lIChCZWNvbWluZyBhIFBhbGVvbnRvbG9naXN0KQ0KDQoyMDA3ICAgICAgICAgSGFtbGluZSBVbml2ZXJzaXR5IEJpb2xvZ3kgRGVwYXJ0bWVudCAoRnJvbSBNYWRhZ2FzY2FyIHRvDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWljcm9zY29wZXM6IEJyZWF0aGluZyBMaWZlIGludG8gRGlub3NhdXIgQm9uZXMpDQoNCiAgICAgICAyMDA3ICAgICAgICAgICBVbml2ZXJzaXR5IG9mIFd5b21pbmcgRGlzdGluZ3Vpc2hlZCBMZWN0dXJlciBTcGVha2VyIFNlcmllcyAoRnJvbQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hZGFnYXNjYXIgdG8gTWljcm9zY29wZXM6IEJyZWF0aGluZyBMaWZlIGludG8gRGlub3NhdXIgQm9uZXMpDQoNCiAgICAgICAyMDA3ICAgICAgICAgICBDb252ZXJzYXRpb25zIG9mIHRoZSBWYWxsZXksIE1hcmluZSBvbiBTdC4gQ3JvaXggU3BlYWtlciBTZXJpZXMgKERpZ2dpbmcNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEaW5vc2F1cnMsIENvbW11bmljYXRpbmcgaW4gdGhlIENvbW11bml0eSkNCg0KICAgICAgIDIwMDcgICAgICAgICAgIFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhIFdvbWVuIGluIFNjaWVuY2UgYW5kIEVuZ2luZWVyaW5nIChEaWdnaW5nDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRGlub3NhdXJzLCBDb21tdW5pY2F0aW5nIGluIHRoZSBDb21tdW5pdHkpDQoNCiAgICAgICAyMDA3ICAgICAgICAgICBNaW5uZXNvdGEgR2VvbG9naWNhbCBTb2NpZXR5IChUaGUgbGF0ZXN0IGFuZCBncmVhdGVzdCBpbiBkaW5vc2F1cg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzY292ZXJ5KQ0KDQogICAgICAgKlNpbmNlIDIwMDIgSSBoYXZlIGdpdmVuIG92ZXIgMjAwIHRhbGtzLCBub3QgaW5jbHVkaW5nIHRob3NlIGxpc3RlZCBhYm92ZSB0byBLLTEyIGtpZHMsDQoNCiAgICAgICBjb2xsZWdlIHN0dWRlbnRzLCBhbmQgYWR1bHQgZ3JvdXBzLg0KDQoNCg0KR3JhbnRzL0F3YXJkcw0KDQogICAgICAxOTk2ICAgICAgICBIb25vcmFibGUgTWVudGlvbiwgTlNGIFByZWRvY3RvcmFsIEZlbGxvd3NoaXANCg0KICAgICAgMTk5Ni0xOTk5ICAgR2Fib3IgSW5rZSBHcmFkdWF0ZSBSZXNlYXJjaCBGZWxsb3dzaGlwDQoNCiAgICAgIDE5OTYgICAgICAgIEJyaWFuIFBhdHRlcnNvbiBBd2FyZCwgU29jaWV0eSBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSAoZm9yIGZpZWxkIHdvcmsNCg0KICAgICAgICAgICAgICAgICAgICAgICAgIGluIHZlcnRlYnJhdGUgcGFsZW9udG9sb2d5KQ0KDQogICAgICAgMTk5NiAgICAgICBTdHVkZW50IFJlc2VhcmNoIEdyYW50LCBUaGUgUGFsZW9udG9sb2dpY2FsIFNvY2lldHkgKGluIHN1cHBvcnQgb2YNCg0KICAgICAgICAgICAgICAgICAgICAgICAgIHJlc2VhcmNoIG9uIGRpbm9zYXVyaWFuL21vZGVybiBhdmlhbiBncm93dGggcmF0ZXMpLg0KDQogICAgICAgMTk5NyBSZXNlYXJjaCBHcmFudCwgVGhlIE5hdGlvbmFsIEdlb2dyYXBoaWMgU29jaWV0eSAiUGFsZW9udG9sb2d5IGFuZA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgR2VvbG9neSBvZiB0aGUgTGltcG9wbyBWYWxsZXksIFppbWJhYndlOiBFeHBsb3JpbmcgRWFybHkNCg0KICAgICAgICAgICAgICAgICAgICAgICAgIERpbm9zYXVyIEV2b2x1dGlvbiBpbiBTb3V0aGVybiBBZnJpY2EiKENvLVBJcyBSLiBSLiBSb2dlcnMsIEsuDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyeSwgYW5kIEQuIE11bnlpa3dhKTogJDEwLDUzMA0KDQogICAgICAgMTk5OCwgMTk5OSBOb3JtYW4gQ3JlZWwgUHJpemUgZm9yIFN0dWRlbnQgUmVzZWFyY2ggaW4gQW5hdG9taWNhbCBTY2llbmNlcyAodHdpY2UNCg0KICAgICAgICAgICAgICAgICAgICAgICAgIGF3YXJkZWQpDQoNCiAgICAgICAxOTk4LCAxOTk5IFJlc2VhcmNoIEdyYW50LCBUaGUgR2VvbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EgKHR3aWNlIGF3YXJkZWQgaW4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgIHN1cHBvcnQgb2YgZG9jdG9yYWwgcmVzZWFyY2gpDQoNCiAgICAgICAxOTk5LCAyMDAwIFJlc2VhcmNoIEdyYW50LCBUaGUgSnVyYXNzaWMgRm91bmRhdGlvbiAodHdpY2UgYXdhcmRlZCBpbiBzdXBwb3J0IG9mDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICBkb2N0b3JhbCByZXNlYXJjaCkNCg0KICAgICAgIDIwMDAgICAgICAgSGVhdG9uIEZ1bmQsIFN0dWRlbnQgU3VwcG9ydCBBd2FyZCwgUm95YWwgVHlyZWxsIE11c2V1bSAoZm9yDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICBoaXN0b2xvZ2ljYWwgcmVzZWFyY2ggaW4gVHlyZWxsIE11c2V1bSBjb2xsZWN0aW9ucykNCg0KICAgICAgIDIwMDEgICAgICAgSG9ub3JhYmxlIE1lbnRpb24sIERpc3Rpbmd1aXNoZWQgRG9jdG9yYWwgRGlzc2VydGF0aW9uLCBTdG9ueSBCcm9vaw0KDQogICAgICAgICAgICAgICAgICAgICAgICAgVW5pdmVyc2l0eQ0KDQogICAgICAgMjAwMiAgICAgICBOU0YgR3JhbnQgRUFSLTAyMDczNDkgIkNvbGxhYm9yYXRpdmUgUmVzZWFyY2g6IExpZmUgSGlzdG9yeQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgU3RyYXRlZ2llcywgR3Jvd3RoIFJhdGVzLCBhbmQgTWljcm9zdHJ1Y3R1cmFsIENoYXJhY3RlciBFdm9sdXRpb24NCg0KICAgICAgICAgICAgICAgICAgICAgICAgIEFjcm9zcyB0aGUgQ29lbHVyb3NhdXJpYW4vQXZpYWxhbiBUcmFuc2l0aW9uLiIgKENvLVBJcyBHLg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgRXJpY2tzb24gYW5kIE0uIE5vcmVsbCk6ICQ2Myw3NDINCg0KICAgICAgIDIwMDYgICAgICAgV2FsbGFjZSBSZXNlYXJjaCBHcmFudCwgTWFjYWxlc3RlciBDb2xsZWdlLiAkODE1MA0KDQogICAgICAgMjAwNyAgICAgICBOU0YgR3JhbnQgLSBERUItMDY0MDMzMiwgIkNvbGxhYm9yYXRpdmUgUmVzZWFyY2g6IEV2b2x1dGlvbiBhbmQNCg0KICAgICAgICAgICAgICAgICAgICAgICAgIFBoeWxvZ2VueSBvZiBUaXRhbm9zYXVyaWEuIiAoQ28tUEkgSi4gQS4gV2lsc29uKTogJDEzOCw4MzYNCg0KDQoNClByb2Zlc3Npb25hbCBBc3NvY2lhdGlvbnMgYW5kIFNlcnZpY2UNCg0KICAgICAyMDA1ICAgICAgICAgICAgIFJvbGUgTW9kZWwsICI1MCBDYXJlZXJzIFlvdSBOZXZlciBIZWFyZCBPZiwiIENvbGxlZ2Ugb2YgU3QuDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgIENhdGhlcmluZQ0KDQogICAgIDIwMDUgICAgICAgICAgICAgRGlzdGluZ3Vpc2hlZCBNZW50b3IsIEdlb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhIFNobGVtb24gTWVudG9yDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9ncmFtDQoNCiAgICAgMjAwNC1wcmVzZW50ICAgICBDaGFpciwgTWVkaWEgTGlhaXNvbnMgQ29tbWl0dGVlLCBTb2NpZXR5IG9mIFZlcnRlYnJhdGUgUGFsZW9udG9sb2d5DQoNCiAgICAgMjAwMy1wcmVzZW50ICAgICBEaXN0aW5ndWlzaGVkIExlY3R1cmVyLCBQYWxlb250b2xvZ2ljYWwgU29jaWV0eQ0KDQogICAgIDIwMDItMjAwMyAgICAgICAgQ2hhaXIsIEhvc3QgQ29tbWl0dGVlIGZvciB0aGUgU29jaWV0eSBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSAyMDAzDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNZWV0aW5nDQoNCiAgICAgMjAwMy1wcmVzZW50ICAgICBNZW1iZXIsIFNvY2lldHkgb2YgVmVydGVicmF0ZSBQYWxlb250b2xvZ3kgTWVkaWEgTGlhaXNvbnMNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbW1pdHRlZQ0KDQogICAgIDIwMDEtcHJlc2VudCAgICAgIE1lbWJlciwgU29jaWV0eSBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSBQcm9ncmFtIENvbW1pdHRlZQ0KDQogICAgIDIwMDEtcHJlc2VudCAgICAgIE1lbWJlciwgU29jaWV0eSBvZiBWZXJ0ZWJyYXRlIFBhbGVvbnRvbG9neSBTa2lubmVyIFByaXplIENvbW1pdHRlZQ0KDQogICAgIDIwMDEgICAgICAgICAgICAgIFN5bXBvc2l1bSBDby1Db252ZW5lciwgU2F1cm9wb2QgRXZvbHV0aW9uIGFuZCBQYWxlb2Jpb2xvZ3ksIDIwMDENCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQW5udWFsIE1lZXRpbmcgb2YgdGhlIFNvY2lldHkgb2YgVmVydGVicmF0ZSBQYWxlb250b2xvZ3kNCg0KICAgICAxOTk5LXByZXNlbnQgICAgICBNZW1iZXIsIFNvY2lldHkgb2YgVmVydGVicmF0ZSBQYWxlb250b2xvZ3kgRWR1Y2F0aW9uIGFuZCBPdXRyZWFjaA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDb21taXR0ZWUNCg0KICAgICBHcmFudCBSZXZpZXdzICAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24sIE5hdGlvbmFsIEdlb2dyYXBoaWMgU29jaWV0eQ0KDQogICAgIE1zLiBSZXZpZXdzICAgICAgIEpvdXJuYWwgb2YgVmVydGVicmF0ZSBQYWxlb250b2xvZ3ksIFBhbGVvYmlvbG9neSwgWm9vbG9naWNhbCBKb3VybmFsIG9mDQoNCiAgICAgICAgICAgICAgICAgICAgICAgdGhlIExpbm5lYW4gU29jaWV0eSwgVHJlbmRzIGluIEV2b2x1dGlvbiBhbmQgRWNvbG9neSwgTmF0dXJlLCBTY2llbmNlLA0KDQogICAgICAgICAgICAgICAgICAgICAgIEpvdXJuYWwgb2YgQW5hdG9taWNhbCBSZXNlYXJjaCwgQW1lZ2hpbmlhbmEsIEpvdXJuYWwgb2YgdGhlIFJveWFsDQoNCiAgICAgICAgICAgICAgICAgICAgICAgU29jaWV0eSBvZiBMb25kb24sIEhpc3RvcmljYWwgQmlvbG9neSwgQWN0YSBQYWxhZW9udG9sb2dpY2ENCg0KICAgICAgUG9sb25pY2EsDQoNCiAgICAgICAgICAgICAgICAgICAgICAgR2VvZGl2ZXJzaXRhcw0KDQoNCg0KIE90aGVyIFN5bmVyZ2lzdGljIEFjdGl2aXRpZXMNCg0KICAgICBwcmVzZW50ICAgICAgICAgICBTY2llbmNlIENvbnRlbnQgQWR2aXNvciwgQ2FybmVnaWUgTXVzZXVtIG9mIE5hdHVyYWwgSGlzdG9yeSBFeGhpYml0Og0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEaW5vc2F1ciBXb3JsZHMuDQoNCiAgICAgMjAwNyAgICAgICAgICAgICAgTm92YSBTY2llbmNlIE5vdywgb24gc2NyZWVuIGV4cGVydCBvbiBkaW5vc2F1ciBzb2Z0IHRpc3N1ZSwgYWlyZWQgb24NCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUEJTIGluIEp1bHkgMjAwNw0KDQogICAgIDIwMDYgICAgICAgICAgICAgIEJCQywgIk15IFBldCBEaW5vc2F1ciIgb24gc2NyZWVuIGV4cGVydCwgcHJvZ3JhbSBhaXJlZCBvbiBCQkMNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFyY2ggMTIsIDIwMDcgJiB0byBhaXIgb24gRGlzY292ZXJ5IENoYW5uZWwgaW4gc3VtbWVyIDIwMDcNCg0KICAgICAyMDAzICAgICAgICAgICAgICBTY2llbmNlIENvbnRlbnQgQWR2aXNvciwgTWFyeWxhbmQgU2NpZW5jZSBDZW50ZXIgZXhoaWJpdCAiRGlub3NhdXINCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTXlzdGVyaWVzIg0KDQogICAgIDIwMDMgICAgICAgICAgICAgIFNjaWVuY2UgQ29udGVudCBBZHZpc29yLCAiRGlub3Jldm9sdXRpb24iIEV4aGliaXQsIGJ5IE1pbm90YXVyIE1hemVzDQoNCiAgICAgMjAwMi0yMDA2ICAgICAgICAgU2NpZW5jZSBDb250ZW50IEFkdmlzb3IgIkRpbm9zYXVycyEiIElNQVgsIHJlbGVhc2VkIEp1bHkgMjAwNw0KDQogICAgIDIwMDEgICAgICAgICAgICAgIFNjaWVuY2UgQ29udGVudCBBZHZpc29yLCBvbnNjcmVlbiBleHBlcnQsIFBCUyBkb2N1bWVudGFyeSAiVGhlDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNoYXBlIG9mIExpZmUiDQoNCg0KDQpTdHVkZW50cyBBZHZpc2VkL0ludGVybnNoaXBzDQoNCjIwMDAgICAgICAgIEFkcmlhbiBTdXR0ZXIsIE1hY2FsZXN0ZXIgQ29sbGVnZSBTZW5pb3IgSG9ub3IncyBUaGVzaXMgKG91dHNpZGUNCg0KICAgICAgICAgICAgICAgICAgICBjb21taXR0ZWUgbWVtYmVyKSwgdmVydGVicmF0ZSBtaWNyb3NpdGVzIGluIHRoZSBKdWRpdGggUml2ZXIgRm9ybWF0aW9uDQoNCjE5OTkgICAgICAgIE5hcmlzc2EgVGFwcGl0YWtlIChNYWNhbGVzdGVyIENvbGxlZ2UpLiBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGENCg0KICAgICAgICAgICAgICAgICAgICBDb2xsZWN0aW9ucyBJbnRlcm4gLSBpbnZlcnRlYnJhdGUgcGFsZW9udG9sb2d5IGNvbGxlY3Rpb24gb3JnYW5pemF0aW9uDQoNCjIwMDEgICAgICAgIE1pY2hlbGxlIENhc2V5IChNYWNhbGVzdGVyIENvbGxlZ2UpLCBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGEgQ29sbGVjdGlvbnMNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludGVybiAtIGljaG5vZm9zc2lsIGNvbGxlY3Rpb24gb3JnYW5pemF0aW9uDQoNCjIwMDEgICAgICAgIFJlYmVjY2EgVGVycnksIE1hY2FsZXN0ZXIgQ29sbGVnZSBTZW5pb3IgSG9ub3IncyBUaGVzaXMgKG91dHNpZGUNCg0KICAgICAgICAgICAgICAgICAgICBjb21taXR0ZWUgbWVtYmVyKSwgc2lsY3JldGVzIGluIHRoZSBMaW1wb3BvIFZhbGxleSwgWmltYmFid2UuDQoNCjIwMDIgICAgICAgIExpeiBIYWplaywgTWFjYWxlc3RlciBDb2xsZWdlIFNlbmlvciBIb25vcidzIFRoZXNpcyAoY29tbWl0dGVlDQoNCiAgICAgICAgICAgICAgICAgICAgbWVtYmVyKSwgQ3JldGFjZW91cyBwYWxlb2Vudmlyb25tZW50cyBpbiBXZXN0ZXJuIE1pbm5lc290YS4NCg0KMjAwMyAgICAgICAgRWR3YXJkIFNjaGV4bmF5ZGVyIChNYWNhbGVzdGVyIENvbGxlZ2UpIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YQ0KDQogICAgICAgICAgICAgICAgICAgIFBhbGVvbnRvbG9neSBJbnRlcm4gLSBmb3NzaWwgcHJlcGFyYXRpb24NCg0KMjAwMyAgICAgICAgQ2hyaXN0aW5lIFdvbmcgKE1hY2FsZXN0ZXIgY29sbGVnZSksIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YQ0KDQogICAgICAgICAgICAgICAgICAgIFBhbGVvbnRvbG9neSBJbnRlcm4gLSB2ZXJ0ZWJyYXRlIHBhbGVvbnRvbG9neSBjb2xsZWN0aW9uIG9yZ2FuaXphdGlvbg0KDQoyMDA0ICAgICAgICBLYXRobGVlbiBEdWxsIChNYWNhbGVzdGVyIENvbGxlZ2UpIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YSBQYWxlb250b2xvZ3kNCg0KICAgICAgICAgICAgICAgICAgICBJbnRlcm4gLSBwYWxlb250b2xvZ3kgYXJjaGl2ZXMgcmVzZWFyY2gNCg0KMjAwNCAgICAgICAgUmViZWthaCBNZXJyaWxsIChHcmluZWxsIENvbGxlZ2UpIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YSBQYWxlb250b2xvZ3kNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludGVybiAtIGZvc3NpbCBwcmVwYXJhdGlvbg0KDQoyMDA0ICAgICAgICBEZW1ldHJpb3MgVml0YWwgKFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhKSBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGENCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBhbGVvbnRvbG9neSBJbnRlcm4gLSB0ZWNobmljYWwgaWxsdXN0cmF0aW9uDQoNCjIwMDQsIDIwMDUgIE1hdHRoZXcgU2F1dGVyIChVbml2ZXJzaXR5IG9mIE1pbm5lc290YSkgU2NpZW5jZSBNdXNldW0gb2YgTWlubmVzb3RhDQoNCiAgICAgICAgICAgICAgICAgICAgUGFsZW9udG9sb2d5IEludGVybiAtIFBhbGVvY2VuZSBmb3NzaWwgY29sbGVjdGlvbiByZXNlYXJjaA0KDQogICAgICAgICAgICAgICBTZW5pb3IgSG9ub3IncyBUaGVzaXMgKG91dHNpZGUgY29tbWl0dGVlIG1lbWJlciksIENyb2NvZGlsZSBBZ2UNCg0KICAgICAgICAgICAgICAgZGlzdHJpYnV0aW9ucyBpbiB0aGUgV2FubmFnYW4gQ3JlZWsgUXVhcnJ5LCBQYWxlb2NlbmUsIE5vcnRoIERha290YS4NCg0KMjAwNSAgIEJldGggV2VsbGUgKENvbGxlZ2Ugb2YgU3QuIEJlbmVkaWN0J3MpLCBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGENCg0KICAgICAgICAgICAgICAgUGFsZW9udG9sb2d5IEludGVybiAtIHNlbmlvciByZXNlYXJjaCBvbiBKdXJhc3NpYyBkaW5vc2F1ciBjb2xsZWN0aW9uDQoNCjIwMDYgICBCYXJiYXJhIEJldHogKE1hY2FsZXN0ZXIgQ29sbGVnZSksIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YSBQYWxlb250b2xvZ3kNCg0KICAgICAgICAgICAgICAgSW50ZXJuIC0gb3JnYW5pemF0aW9uL3RyYWNraW5nIG9mIHBhbGVvcGF0aG9sb2d5IGNvbGxlY3Rpb24uDQoNCjIwMDcgICBNZWxhbmllIElta2VyIChVbml2ZXJzaXR5IG9mIFN0LiBUaG9tYXMpIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YQ0KDQogICAgICAgICAgICAgICBQYWxlb250b2xvZ3kgSW50ZXJuIC0gTWFsYWdhc3kgc2F1cm9wb2QgcmVzZWFyY2gNCg0KMjAwNyAgIENocmlzIFNjaG9kdCAoTWFjYWxlc3RlciBDb2xsZWdlKSBTY2llbmNlIE11c2V1bSBvZiBNaW5uZXNvdGEgUGFsZW9udG9sb2d5DQoNCiAgICAgICAgICAgICAgIEludGVybiAtIHBhbGVvbnRvbG9neSBwcmVwYXJhdGlvbg0KDQoyMDA3ICAgT3NjYXIgQm95bGUtTWVpamEgKE1hY2FsZXN0ZXIgQ29sbGVnZSkgU2NpZW5jZSBNdXNldW0gb2YgTWlubmVzb3RhDQoNCiAgICAgICAgICAgICAgIFBhbGVvbnRvbG9neSBJbnRlcm4gLSBwYWxlb250b2xvZ3kgcHJlcGFyYXRpb24NCg0KMjAwNyAgIEtyaXN0YSBKYW5rb3dza2kgKE1hY2FsZXN0ZXIgQ29sbGVnZSkgU2NpZW5jZSBNdXNldW0gb2YgTWlubmVzb3RhDQoNCiAgICAgICAgICAgICAgICAgICAgICAgUGFsZW9udG9sb2d5IEludGVybiAtIHBhbGVvbnRvbG9neSBwcmVwYXJhdGlvbg0KDQoyMDA3ICAgSmVmZiBEb2JiaW5zIChNYWNhbGVzdGVyIENvbGxlZ2UpIFNjaWVuY2UgTXVzZXVtIG9mIE1pbm5lc290YSBQYWxlb250b2xvZ3kNCg0KICAgICAgICAgICAgICAgSW50ZXJuIC0gcGFsZW9udG9sb2d5IHByZXBhcmF0aW9uDQoNCjIwMDcgICBXLiBTY290dCBQZXJzb25zLCBNYWNhbGVzdGVyIENvbGxlZ2UgU2VuaW9yIEhvbm9yJ3MgVGhlc2lzIChjb21taXR0ZWUNCg0KICAgICAgICAgICAgICAgbWVtYmVyKSwgSW52ZXJ0ZWJyYXRlIGZvc3NpbCB0YXhvbm9teSBhbmQgcGFsZW9iaW9sb2d5DQoNCjIwMDggICBTb3BoaWEgS2FzdCwgTWFjYWxlc3RlciBDb2xsZWdlIFNlbmlvciBIb25vcidzIFRoZXNpcyAoY29tbWl0dGVlIG1lbWJlciksDQoNCiAgICAgICAgICAgICAgIFBhbGVvc29scyBhbmQgcGFsZW9jbGltYXRlIG9mIExhdGUgQ3JldGFjZW91cyBNYWRhZ2FzY2Fy</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916060306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

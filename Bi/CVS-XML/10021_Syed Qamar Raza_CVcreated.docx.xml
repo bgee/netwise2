@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:37 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912506206521"  usageLimitType="allocation" usageLimit="200" currentUsage="27" remainingUsage="173" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Raza Syed</FormattedName>
+<GivenName>Raza</GivenName>
+<FamilyName>Syed</FamilyName>
+</PersonName>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Punjab University of Pakistan</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Professor of Mathematics and Computer Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Punjab University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Science">
+<CompetencyEvidence name ="Science">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>UmF6YSwgU3llZCBRYW1hciAoMjAwMSkgDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MgYW5kIENvbXB1dGVyIFNjaWVuY2UgDQoNCkIuUy4sIFB1bmphYiBVbml2ZXJzaXR5IG9mIFBha2lzdGFuOyBNLlMuLCBQdW5qYWIgVW5pdmVyc2l0eQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912506206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

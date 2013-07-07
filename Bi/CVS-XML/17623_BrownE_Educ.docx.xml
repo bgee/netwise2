@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:52 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910630306521"  usageLimitType="allocation" usageLimit="200" currentUsage="63" remainingUsage="137" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr. Evelyn Brown PhD</FormattedName>
+<GivenName>Evelyn</GivenName>
+<FamilyName>Brown</FamilyName>
+<Affix type="formOfAddress">Dr.</Affix>
+<Affix type="qualification">PhD</Affix>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (252) 737-1027</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>252</AreaCityCode>
+<SubscriberNumber>737-1027</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>browne@ecu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Systems Engineering: University of Virginia</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>PhD</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>North Carolina State University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeMajor>
+<Name>Operations Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Furman University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+<Comments>Specifically, the application of grouping genetic algorithms to grouping problems such as bin packing</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RmFjdWx0eSBQcm9maWxlDQoNCg0KDQpEci4gRXZlbHluIEJyb3duLCBQaEQNCg0KRHIuIEJyb3duIGhhcyBiZWVuIGluIGFjYWRlbWlhIGZvciBvdmVyIDEwIHllYXJzIGFuZCBzZXJ2ZXMgYXMgdGhlIGNvb3JkaW5hdG9yIGZvciB0aGUgSW5kdXN0cmlhbCBhbmQgU3lzdGVtcyBFbmdpbmVlcmluZyBjb25jZW50cmF0aW9uIGFzIHdlbGwgYXMgdGhlIEFzc29jaWF0ZSBEZWFuIGZvciBSZXNlYXJjaCBhbmQgR3JhZHVhdGUgU3R1ZGllcyBpbiB0aGUgQ29sbGVnZSBvZiBUZWNobm9sb2d5IGFuZCBDb21wdXRlciBTY2llbmNlLg0KDQpQcm9mZXNzb3I6DQoNCiogRGVwYXJ0bWVudCBvZiBFbmdpbmVlcmluZw0KDQoqIEVhc3QgQ2Fyb2xpbmEgVW5pdmVyc2l0eQ0KDQoqIFNjaWVuY2UgYW5kIFRlY2ggQmxkZywgU3VpdGUgMTA3QQ0KDQoqIFBob25lOiAyNTItNzM3LTEwMjcNCg0KKiBFLW1haWw6IGJyb3duZUBlY3UuZWR1DQoNCkVkdWNhdGlvbjoNCg0KKiBQaEQgU3lzdGVtcyBFbmdpbmVlcmluZzogVW5pdmVyc2l0eSBvZiBWaXJnaW5pYQ0KDQoqIE1TIE9wZXJhdGlvbnMgUmVzZWFyY2g6IE5vcnRoIENhcm9saW5hIFN0YXRlIFVuaXZlcnNpdHkNCg0KKiBCUyBNYXRoZW1hdGljczogRnVybWFuIFVuaXZlcnNpdHkNCg0KUmVzZWFyY2ggSW50ZXJlc3RzOg0KDQpUaGUgYXBwbGljYXRpb24gb2YgZ2VuZXRpYyBhbGdvcml0aG1zIHRvIG1hbnVmYWN0dXJpbmcgcHJvYmxlbXMuwqAgU3BlY2lmaWNhbGx5LCB0aGUgYXBwbGljYXRpb24gb2YgZ3JvdXBpbmcgZ2VuZXRpYyBhbGdvcml0aG1zIHRvIGdyb3VwaW5nIHByb2JsZW1zIHN1Y2ggYXMgYmluIHBhY2tpbmcsIG1hY2hpbmUtcGFydCBjZWxsIGZvcm1hdGlvbiwgYW5kIGFzc2VtYmx5LWxpbmUgYmFsYW5jaW5nLsKgIEFkZGl0aW9uYWwgaW50ZXJlc3RzIGluIG1ldGhvZG9sb2dpZXMgdG8gaW1wcm92ZSB0aGUgc3VwcGx5IGNoYWluIGluIHRoZSBoZWFsdGgtY2FyZSBzZWN0b3IgYW5kIGluIHRoZSBhcHBsaWNhdGlvbiBvZiBvcGVyYXRpb24gcmVzZWFyY2ggdG9vbHMgdG8gb3B0aW1pemF0aW9uIHByb2JsZW1zLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910630306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

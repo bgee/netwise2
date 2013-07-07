@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:15 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915610306521"  usageLimitType="allocation" usageLimit="200" currentUsage="42" remainingUsage="158" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Stanley S. Chang</FormattedName>
+<GivenName>Stanley</GivenName>
+<MiddleName>S.</MiddleName>
+<FamilyName>Chang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Massachusetts</Region>
+<Municipality>Wellesley</Municipality>
+<DeliveryAddress>
+<AddressLine>02481~ Wellesley College</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (781) 283-3155</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>781</AreaCityCode>
+<SubscriberNumber>283-3155</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation Three-Year Research Grant</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>National Science Foundation Research Opportunity Award
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Anna and Samuel Pinanski Teaching Prize</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>The Apgar Award for Teaching Excellence
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Rice University</EmployerOrgName>
+<PositionHistory>
+<Title>G.C. Evans Postdoctoral Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Texas</Region>
+<Municipality>Houston</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>National Science Foundation Postdoctoral Grant, 2001.
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The University of Chicago</EmployerOrgName>
+<PositionHistory>
+<Title>Doctor of Philosophy, Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Illinois</Region>
+<Municipality>Chicago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Lecturer of the College</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>* Dissertation: Coarse obstruction positive scalar curvature metrics in noncompact quotients of symmetric spaces. Advisor: Shmuel Weinberger. * Lawrence and Josephine Graves Teaching Award, 1997. * William Booth Graduate Teaching Award, 1996.
+</Description>
+<StartDate>
+<AnyDate>1999-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cambridge University</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>England</Region>
+<Municipality>Cambridge</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Trinity College Bachelor of Arts, Mathematics, June 1993.
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>British Marshall Scholar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>scholarship awarded 1991 by the Marshall Aid Commemoration Commission. * Class I Honors in Mathematics II, June 1993 election to Senior Scholarship of Trinity College, Fall 1992. * Recipient of the Trinity College Yeats Mathematical Essay Prize, November 1992, for work submitted on topics in analytic number theory.
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of California</EmployerOrgName>
+<PositionHistory>
+<Title>Bachelor of Arts</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>California</Region>
+<Municipality>Berkeley</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Mathematics, May 1991, with Highest University Honors and Highest Departmental Honors. * Phi Beta Kappa, awarded as junior, Spring 1990. * Rhodes Scholarship California State Finalist, 1991. * Finalist and runner-up for University Medal, top academic award given to university undergraduates, awarded May 1991. * Dorothea Klumpke Roberts Prize in Mathematics, May 1991.
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Regents&apos; Scholar</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Alumni Scholar</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University Dean&apos;s List</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>top 4% of university
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<PublicationHistory>
+<Article>
+<Title>Positive scalar curvature of totally nonspin manifolds to be published in the Proceedings of the American Mathematical Society 2008</Title>
+<JournalOrSerialName>Bounded rigidity of spaces of slow asymptotic growth to appear in the Journal of K-theory 2008</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Topological nonrigidity of nonuniform lattices</Title>
+<JournalOrSerialName>Communications on Pure and Applied Mathematics vol</JournalOrSerialName>
+<Volume>60(2007</Volume>
+<PageNumber>282-290.</PageNumber>
+</Article>
+<Article>
+<Title>On Novikov-type conjectures</Title>
+<Name role="author">
+<FormattedName>(with Weinberger)</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>On conjectures of Mathai and Borel</Title>
+<JournalOrSerialName>Geometriae Dedicata</JournalOrSerialName>
+<Volume>106(2004</Volume>
+<PageNumber>161-167.</PageNumber>
+</Article>
+<Article>
+<Title>On invariants of Hirzebruch and Cheeger-Gromov</Title>
+<Name role="author">
+<FormattedName>(with Weinberger)</FormattedName>
+</Name>
+<JournalOrSerialName>Geometry and Topology</JournalOrSerialName>
+<Volume>7(2003</Volume>
+<PageNumber>311-319.</PageNumber>
+</Article>
+<Article>
+<Title>Coarse obstructions to positive scalar curvature metrics in noncompact arithmetic manifolds</Title>
+<JournalOrSerialName>Journal of Differential Geometry vol</JournalOrSerialName>
+<Volume>57</Volume>
+</Article>
+<Article>
+<Title>special linear operator on M_4 (R)</Title>
+<Name role="author">
+<FormattedName>(with Li)</FormattedName>
+</Name>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Spring">
+<CompetencyEvidence name ="Spring" lastUsed="1991-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>U3RhbmxleSBTLiBDaGFuZw0KDQoNCg0KMTA2IENlbnRyYWwgU3RyZWV0IH4gRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcyB+IFdlbGxlc2xleSBDb2xsZWdlIH4gV2VsbGVzbGV5LCBNQSAwMjQ4MX4gKDc4MSkgMjgzLTMxNTXCoA0KDQoNCg0KV2VsbGVzbGV5IENvbGxlZ2UsIFdlbGxlc2xleSwgTWFzc2FjaHVzZXR0cywgMjAwMS1wcmVzZW50Lg0KDQpBc3NvY2lhdGUgUHJvZmVzc29yIG9mIE1hdGhlbWF0aWNzLCAyMDA3LXByZXNlbnQuDQoNCkFzc2lzdGFudCBQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MsIDIwMDEtMjAwNy4NCg0KTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIFRocmVlLVllYXIgUmVzZWFyY2ggR3JhbnQsIDIwMDUtMjAwNy4NCg0KTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIFJlc2VhcmNoIE9wcG9ydHVuaXR5IEF3YXJkLCAyMDA0LTIwMDUuDQoNClRoZSBBbm5hIGFuZCBTYW11ZWwgUGluYW5za2kgVGVhY2hpbmcgUHJpemUsIDIwMDMuDQoNClRoZSBBcGdhciBBd2FyZCBmb3IgVGVhY2hpbmcgRXhjZWxsZW5jZSwgMjAwMy4NCg0KDQoNClJpY2UgVW5pdmVyc2l0eSwgSG91c3RvbiwgVGV4YXMsIDE5OTktMjAwMS4NCg0KRy5DLiBFdmFucyBQb3N0ZG9jdG9yYWwgRmVsbG93LsKgDQoNCk5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiBQb3N0ZG9jdG9yYWwgR3JhbnQsIDIwMDEuDQoNCg0KDQpUaGUgVW5pdmVyc2l0eSBvZiBDaGljYWdvLCBDaGljYWdvLCBJbGxpbm9pcywgMTk5My0xOTk5Lg0KDQpEb2N0b3Igb2YgUGhpbG9zb3BoeSwgTWF0aGVtYXRpY3MsIEp1bmUgMTk5OS4NCg0KDQoNCiogRGlzc2VydGF0aW9uOsKgQ29hcnNlIG9ic3RydWN0aW9uIHRvIHBvc2l0aXZlIHNjYWxhciBjdXJ2YXR1cmUgbWV0cmljcyBpbiBub25jb21wYWN0IHF1b3RpZW50cyBvZiBzeW1tZXRyaWMgc3BhY2VzLsKgQWR2aXNvcjogU2htdWVsIFdlaW5iZXJnZXIuwqANCg0KKiBMZWN0dXJlciBvZiB0aGUgQ29sbGVnZS4NCg0KKiBMYXdyZW5jZSBhbmQgSm9zZXBoaW5lIEdyYXZlcyBUZWFjaGluZyBBd2FyZCwgMTk5Ny4NCg0KKiBXaWxsaWFtIEJvb3RoIEdyYWR1YXRlIFRlYWNoaW5nIEF3YXJkLCAxOTk2LsKgDQoNCkNhbWJyaWRnZSBVbml2ZXJzaXR5LCBUcmluaXR5IENvbGxlZ2UsIENhbWJyaWRnZSwgRW5nbGFuZCwgMTk5MS0xOTkzLsKgDQoNCkJhY2hlbG9yIG9mIEFydHMsIE1hdGhlbWF0aWNzLCBKdW5lIDE5OTMuwqANCg0KDQoNCiogQnJpdGlzaCBNYXJzaGFsbCBTY2hvbGFyLCBzY2hvbGFyc2hpcCBhd2FyZGVkIDE5OTEgYnkgdGhlIE1hcnNoYWxsIEFpZCBDb21tZW1vcmF0aW9uIENvbW1pc3Npb24uwqANCg0KKiBDbGFzcyBJIEhvbm9ycyBpbiBNYXRoZW1hdGljcyBJSSwgSnVuZSAxOTkzOyBlbGVjdGlvbiB0byBTZW5pb3IgU2Nob2xhcnNoaXAgb2YgVHJpbml0eSBDb2xsZWdlLCBGYWxsIDE5OTIuwqANCg0KKiBSZWNpcGllbnQgb2YgdGhlIFRyaW5pdHkgQ29sbGVnZSBZZWF0cyBNYXRoZW1hdGljYWwgRXNzYXkgUHJpemUsIE5vdmVtYmVyIDE5OTIsIGZvciB3b3JrIHN1Ym1pdHRlZCBvbiB0b3BpY3MgaW4gYW5hbHl0aWMgbnVtYmVyIHRoZW9yeS4NCg0KVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhLCBCZXJrZWxleSwgQ2FsaWZvcm5pYSwgMTk4Ny0xOTkxLsKgDQoNCkJhY2hlbG9yIG9mIEFydHMsIE1hdGhlbWF0aWNzLCBNYXkgMTk5MSwgd2l0aCBIaWdoZXN0IFVuaXZlcnNpdHkgSG9ub3JzIGFuZCBIaWdoZXN0IERlcGFydG1lbnRhbCBIb25vcnMuDQoNCg0KDQoqIFBoaSBCZXRhIEthcHBhLCBhd2FyZGVkIGFzIGp1bmlvciwgU3ByaW5nIDE5OTAuDQoNCiogUmhvZGVzIFNjaG9sYXJzaGlwIENhbGlmb3JuaWEgU3RhdGUgRmluYWxpc3QsIDE5OTEuDQoNCiogRmluYWxpc3QgYW5kIHJ1bm5lci11cCBmb3IgVW5pdmVyc2l0eSBNZWRhbCwgdG9wIGFjYWRlbWljIGF3YXJkIGdpdmVuIHRvIHVuaXZlcnNpdHkgdW5kZXJncmFkdWF0ZXMsIGF3YXJkZWQgTWF5IDE5OTEuDQoNCiogRG9yb3RoZWEgS2x1bXBrZSBSb2JlcnRzIFByaXplIGluIE1hdGhlbWF0aWNzLCBNYXkgMTk5MS4NCg0KKiBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEgUmVnZW50cycgU2Nob2xhciwgMTk4Ny0xOTkxLg0KDQoqIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSBBbHVtbmkgU2Nob2xhciwgMTk4Ny0xOTkxLg0KDQoqIFVuaXZlcnNpdHkgRGVhbidzIExpc3QsIHRvcCA0JSBvZiB1bml2ZXJzaXR5LCAxOTg3LTE5OTEuDQoNClBVQkxJQ0FUSU9OUw0KDQoqIFBvc2l0aXZlIHNjYWxhciBjdXJ2YXR1cmUgb2YgdG90YWxseSBub25zcGluIG1hbmlmb2xkcywgdG8gYmUgcHVibGlzaGVkIGluIHRoZSBQcm9jZWVkaW5ncyBvZiB0aGUgQW1lcmljYW4gTWF0aGVtYXRpY2FsIFNvY2lldHksIDIwMDguDQoNCiogQm91bmRlZCByaWdpZGl0eSBvZiBzcGFjZXMgb2Ygc2xvdyBhc3ltcHRvdGljIGdyb3d0aCwgdG8gYXBwZWFyIGluIHRoZSBKb3VybmFsIG9mIEstdGhlb3J5LCAyMDA4Lg0KDQoqIFRvcG9sb2dpY2FsIG5vbnJpZ2lkaXR5IG9mIG5vbnVuaWZvcm0gbGF0dGljZXMsIENvbW11bmljYXRpb25zIG9uIFB1cmUgYW5kIEFwcGxpZWQgTWF0aGVtYXRpY3MsIHZvbCA2MCAoMjAwNyksIDI4Mi0yOTAuDQoNCiogT24gTm92aWtvdi10eXBlIGNvbmplY3R1cmVzICh3aXRoIFdlaW5iZXJnZXIpLCBDbGF5IE1hdGhlbWF0aWNhbCBQcm9jZWVkaW5ncywgdm9sdW1lIDYgKDIwMDYpLCA0My03MC4NCg0KKiBPbiBjb25qZWN0dXJlcyBvZiBNYXRoYWkgYW5kIEJvcmVsLCBHZW9tZXRyaWFlIERlZGljYXRhIDEwNiAoMjAwNCksIDE2MS0xNjcuDQoNCiogT24gaW52YXJpYW50cyBvZiBIaXJ6ZWJydWNoIGFuZCBDaGVlZ2VyLUdyb21vdiAod2l0aCBXZWluYmVyZ2VyKSwgR2VvbWV0cnkgYW5kIFRvcG9sb2d5IDcgKDIwMDMpLCAzMTEtMzE5Lg0KDQoqIENvYXJzZSBvYnN0cnVjdGlvbnMgdG8gcG9zaXRpdmUgc2NhbGFyIGN1cnZhdHVyZSBtZXRyaWNzIGluIG5vbmNvbXBhY3QgYXJpdGhtZXRpYyBtYW5pZm9sZHMsIEpvdXJuYWwgb2YgRGlmZmVyZW50aWFsIEdlb21ldHJ5LCB2b2wgNTcsIG5vLiAxICgyMDAxKSwgMS0yMi4NCg0KKiBBIHNwZWNpYWwgbGluZWFyIG9wZXJhdG9yIG9uIE1fNChSKSAod2l0aCBMaSksIExpbmVhciBBbGdlYnJhIGFuZCBNdWx0aWxpbmVhciBBbGdlYnJhLCAzMDo2NS03NSwgMTk5MC4NCg0KKiBDZXJ0YWluIGlzb21ldHJpZXMgaW4gUl5uICh3aXRoIExpKSwgTGluZWFyIEFsZ2VicmEgYW5kIEl0cyBBcHBsaWNhdGlvbnMsIDE2NToyNTEtMjU2LCAxOTkyLg0KDQpPVEhFUiBJTlRFUkVTVFMNCg0KKiBMYW5ndWFnZXM6IGNsYXNzcm9vbSBleHBlcmllbmNlIHdpdGggQmlibGljYWwgSGVicmV3LCBBbmNpZW50IEdyZWVrLCBMYXRpbiwgR2VybWFuLCBGcmVuY2gsIFNwYW5pc2gsIEl0YWxpYW4sIG9yYWwgZmFtaWxpYXJpdHkgd2l0aCBNYW5kYXJpbi4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915610306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

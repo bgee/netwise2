@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:00 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913201306521"  usageLimitType="allocation" usageLimit="200" currentUsage="97" remainingUsage="103" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Benita Brink Ph.D.</FormattedName>
+<GivenName>Benita</GivenName>
+<FamilyName>Brink</FamilyName>
+<Affix type="qualification">Ph.D.</Affix>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (719) 587-7426</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>719</AreaCityCode>
+<SubscriberNumber>587-7426</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>babrink@adams.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Aquinas College</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Marquette University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Rhizobial purine and pyrimidine auxotrophs: Nutrient supplementation genetic analysis and the symbiotic requirement for de novo purine biosynthesis</Title>
+<Name role="author">
+<FormattedName>Noel, K.D., R.J. Diebold, J.R. Cava and B.A. Brink</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1987</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Expression of Rhizobium leguminosarum CFN42 genes for lipopolysaccharide in strains derived from different R. leguminosarum soil isolates</Title>
+<Name role="author">
+<FormattedName>Brink, B.A., J. Miller, R.W. Carlson and K.D. Noel</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1990</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J.Bacteriol</JournalOrSerialName>
+<Volume>172:548-555.</Volume>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QmVuaXRhIEJyaW5rLCBQaC5ELg0KDQoNCg0KRGVwYXJ0bWVudCBDaGFpciAmIEFzc29jaWF0ZSBQcm9mZXNzb3Igb2YgQmlvbG9neQ0KDQpQaG9uZTogNzE5LjU4Ny43NDI2DQoNCmJhYnJpbmtAYWRhbXMuZWR1DQoNCkVkdWNhdGlvbg0KDQoqIEIuUy4gQXF1aW5hcyBDb2xsZWdlDQoNCiogUGguRCBNYXJxdWV0dGUgVW5pdmVyc2l0eQ0KDQpDb3Vyc2VzIFRhdWdodA0KDQoqIENlbGx1bGFyIEJpb2xvZ3kgYW5kIEdlbmV0aWNzIExhYm9yYXRvcnkNCg0KKiBHZW5lcmFsIEJpb2xvZ3kNCg0KKiBHZW5ldGljcw0KDQoqIE1pY3JvYmlvbG9neQ0KDQoqIE1vbGVjdWxhciBCaW9sb2d5DQoNCkFjYWRlbWljIEFkdmlzaW5nDQoNCiogR2VuZXRpY3MNCg0KKiBNaWNyb2Jpb2xvZ3kNCg0KKiBNb2xlY3VsYXIgQmlvbG9neQ0KDQoqIFByZS1NZWRpY2luZQ0KDQoqIFByZS1QaHlzaWNpYW4ncyBBc3Npc3RhbnQNCg0KKiBQcmUtRGVudGFsDQoNClJlc2VhcmNoIEludGVyZXN0cw0KDQpNeSBjdXJyZW50IHJlc2VhcmNoIGludGVyZXN0cyBpbmNsdWRlIG1pY3JvYmlhbCBnZW5ldGljcyBhbmQgbWljcm9iaWFsIGVjb2xvZ3kuIFByZXZpb3VzIHJlc2VhcmNoIGZvY3VzZWQgb24gdGhlIHJvbGUgb2YgbGlwb3BvbHlzYWNjaGFyaWRlIGluIHRoZSBlc3RhYmxpc2htZW50IG9mIGEgc3ltYmlvc2lzIGJldHdlZW4gUmhpem9iaXVtIGxlZ3VtaW5vc2FydW0gYW5kIGl0cyBsZWd1bWUgaG9zdC4gVGhlIGdlbmV0aWNzIG9mIGxpcG9wb2x5c2FjY2hhcmlkZSwgaW4gcGFydGljdWxhciB0aGUgY29uc2VydmF0aW9uIGFuZCBnZW5vbWljIGxvY2F0aW9uIG9mIHRoZXNlIGdlbmVzIGFtb25nIHZhcmlvdXMgUmhpem9iaXVtIHN0cmFpbnMgYW5kIHNwZWNpZXMsIHdhcyBpbnZlc3RpZ2F0ZWQuDQoNCk15IGN1cnJlbnQgcmVzZWFyY2ggaW50ZXJlc3RzIGluY2x1ZGUgbWljcm9iaWFsIGdlbmV0aWNzIGFuZCBtaWNyb2JpYWwgZWNvbG9neS4gUHJldmlvdXMgcmVzZWFyY2ggZm9jdXNlZCBvbiB0aGUgcm9sZSBvZiBsaXBvcG9seXNhY2NoYXJpZGUgaW4gdGhlIGVzdGFibGlzaG1lbnQgb2YgYSBzeW1iaW9zaXMgYmV0d2VlbiBSaGl6b2JpdW0gbGVndW1pbm9zYXJ1bSBhbmQgaXRzIGxlZ3VtZSBob3N0LiBUaGUgZ2VuZXRpY3Mgb2YgbGlwb3BvbHlzYWNjaGFyaWRlLCBpbiBwYXJ0aWN1bGFyIHRoZSBjb25zZXJ2YXRpb24gYW5kIGdlbm9taWMgbG9jYXRpb24gb2YgdGhlc2UgZ2VuZXMgYW1vbmcgdmFyaW91cyBSaGl6b2JpdW0gc3RyYWlucyBhbmQgc3BlY2llcywgd2FzIGludmVzdGlnYXRlZC4NCg0KU2VsZWN0ZWQgUHVibGljYXRpb25zDQoNCiogTm9lbCxLLkQuLCBSLkouIERpZWJvbGQsIEouUi4gQ2F2YSBhbmQgQi5BLiBCcmluayAoMTk4NykuIFJoaXpvYmlhbCBwdXJpbmUgYW5kIHB5cmltaWRpbmUgYXV4b3Ryb3BoczogTnV0cmllbnQgc3VwcGxlbWVudGF0aW9uLCBnZW5ldGljIGFuYWx5c2lzLCBhbmQgdGhlIHN5bWJpb3RpYyByZXF1aXJlbWVudCBmb3IgZGUgbm92byBwdXJpbmUgYmlvc3ludGhlc2lzLiBBcmNoLiBNaWNyb2Jpb2wuIDE0OTo0OTktNTA2Lg0KDQoqIEJyaW5rLEIuQS4sIEouIE1pbGxlciwgUi5XLiBDYXJsc29uIGFuZCBLLkQuIE5vZWwgKDE5OTApLiBFeHByZXNzaW9uIG9mIFJoaXpvYml1bSBsZWd1bWlub3NhcnVtIENGTjQyIGdlbmVzIGZvciBsaXBvcG9seXNhY2NoYXJpZGUgaW4gc3RyYWlucyBkZXJpdmVkIGZyb20gZGlmZmVyZW50IFIuIGxlZ3VtaW5vc2FydW0gc29pbCBpc29sYXRlcy4gSi5CYWN0ZXJpb2wuIDE3Mjo1NDgtNTU1Lg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913201306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:29 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912520306521"  usageLimitType="allocation" usageLimit="200" currentUsage="50" remainingUsage="150" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr Yingfu Frank Li</FormattedName>
+<GivenName>Yingfu</GivenName>
+<PreferredGivenName>Frank</PreferredGivenName>
+<FamilyName>Li</FamilyName>
+<Affix type="formOfAddress">Dr</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>77058-1098</PostalCode>
+<Region>TX</Region>
+<Municipality>Houston</Municipality>
+<DeliveryAddress>
+<AddressLine>2700 Bay Area Boulevard</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (281) 283-3728</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>281</AreaCityCode>
+<SubscriberNumber>283-3728</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (281) 226-7628</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>281</AreaCityCode>
+<SubscriberNumber>226-7628</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>li@uhcl.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<PublicationHistory>
+<Article>
+<Title>Uniformly Minimum Variance Nonnegative Quadratic Unbiased Estimation in a Generalized Growth Curve Model</Title>
+<Name role="author">
+<FormattedName>(with X. Wu &amp; G</FormattedName>
+</Name>
+<JournalOrSerialName>Aggarwal)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Projection estimation capacity of Hadamard designs</Title>
+<Name role="author">
+<FormattedName>(with M.L</FormattedName>
+</Name>
+<JournalOrSerialName>Aggarwal) Journal of Statistical Planning and Inference</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Equivalence of Nonparametric Estimators as well as of Noninformative Censoring Conditions</Title>
+<Name role="author">
+<FormattedName>(with J</FormattedName>
+</Name>
+<JournalOrSerialName>Wang)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Imputation for Missing Data and Variance Estimation when Auxiliary Information Is Incomplete</Title>
+<Name role="author">
+<FormattedName>(with G. Zou et</FormattedName>
+</Name>
+<JournalOrSerialName>al.)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Estimators for Survival Function When Censoring Times Are Known</Title>
+<Name role="author">
+<FormattedName>(with J</FormattedName>
+</Name>
+<JournalOrSerialName>Wang)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Dependency Measures under Bivariate Homogeneous Shock Models</Title>
+<Name role="author">
+<FormattedName>(with J</FormattedName>
+</Name>
+<JournalOrSerialName>Wang)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Non-Regular Designs from Hadamard Matrices and Their Estimation Capacity</Title>
+<Name role="author">
+<FormattedName>(with J</FormattedName>
+</Name>
+<JournalOrSerialName>Wang)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Design Catalog Based On Minimum G-Aberration</Title>
+<Name role="author">
+<FormattedName>(with L. Deng and B</FormattedName>
+</Name>
+<JournalOrSerialName>Tang) Journal of Statistical Planning and Inference Vol</JournalOrSerialName>
+<Volume>124(2004</Volume>
+<PageNumber>219-</PageNumber>
+</Article>
+<Article>
+<Title>New factorial designs that cannot be embedded into Hadamard matrices</Title>
+<Name role="author">
+<FormattedName>International Math</FormattedName>
+</Name>
+<JournalOrSerialName>J. Vol</JournalOrSerialName>
+<Volume>2(2002</Volume>
+<PageNumber>527-</PageNumber>
+</Article>
+<Article>
+<Title>Another look at GMA orthogonal arrays</Title>
+<Name role="author">
+<FormattedName>(with T</FormattedName>
+</Name>
+<JournalOrSerialName>Wittig)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Catalogue of small runs non-regular designs from Hadamard matrices with generalized minimum aberration</Title>
+<Name role="author">
+<FormattedName>(with L. Deng, and B</FormattedName>
+</Name>
+<JournalOrSerialName>Tang)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Enumerating nonequivalent orthogonal arrays via minimum G-aberration</Title>
+<Name role="author">
+<FormattedName>(with L. Deng, and B</FormattedName>
+</Name>
+<JournalOrSerialName>Tang)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Limit theorems for arrays of row-column exchangeable random variables</Title>
+<Name role="author">
+<FormattedName>(with Y. Zhao and Q</FormattedName>
+</Name>
+<JournalOrSerialName>Miao)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Central limit theorems for row-column exchangeable arrays</Title>
+<Name role="author">
+<FormattedName>(with X</FormattedName>
+</Name>
+<JournalOrSerialName>Wang)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Limit theorems for exchangeable random variables</Title>
+<Name role="author">
+<FormattedName>Chinese Journal</FormattedName>
+</Name>
+<JournalOrSerialName>of Applied Probability and Statistics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>On laws of large numbers for row-column exchangeable random variables</Title>
+<Name role="author">
+<FormattedName>(with X</FormattedName>
+</Name>
+<JournalOrSerialName>Wang)</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Email">
+<CompetencyEvidence name ="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Statistics">
+<CompetencyEvidence name ="Statistics">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Wang">
+<CompetencyEvidence name ="Wang">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIFlpbmdmdSAoRnJhbmspIExpDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3Igb2YgU3RhdGlzdGljcw0KDQpEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNhbCBTY2llbmNlc8KgDQoNClNjaG9vbCBvZiBTY2llbmNlICYgQ29tcHV0ZXIgRW5naW5lZXJpbmcNCg0KVW5pdmVyc2l0eSBvZiBIb3VzdG9uIC0gQ2xlYXIgTGFrZcKgDQoNCjI3MDAgQmF5IEFyZWEgQm91bGV2YXJkDQoNCkhvdXN0b24sIFRYIDc3MDU4LTEwOTjCoA0KDQoNCg0KT2ZmaWNlOsKgQmF5b3UgMzUyMcKgDQoNClBob25lOsKgKDI4MSkgMjgzLTM3MjgNCg0KRmF4OsKgwqDCoMKgwqAoMjgxKSAyMjYtNzYyOA0KDQpFbWFpbDrCoMKgbGlAdWhjbC5lZHUNCg0KDQoNClB1YmxpY2F0aW9ucw0KDQoqIE5vbnJlZ3VsYXIgUm9idXN0IFBhcmFtZXRlciBEZXNpZ25zwqAod2l0aCBKLiBXYW5nICYgTS5MLiBBZ2dhcndhbCkuIFN0YXRpc3RpY3MgaW4gQmlvcGhhcm1hY2V1dGljYWwgUmVzZWFyY2gsIFZvbCAxICgyMDA5KSwgMzk5IC0gNDA2Lg0KDQoqIFVuaWZvcm1seSBNaW5pbXVtIFZhcmlhbmNlIE5vbm5lZ2F0aXZlIFF1YWRyYXRpYyBVbmJpYXNlZCBFc3RpbWF0aW9uIGluIGEgR2VuZXJhbGl6ZWQgR3Jvd3RoIEN1cnZlIE1vZGVswqAod2l0aCBYLiBXdSAmIEcuIFpvdSkuIEpvdXJuYWwgb2YgTXVsdGl2YXJpYXRlIEFuYWx5c2lzLCBWb2wgMTAwICgyMDA5KSwgMTA2MSAtIDEwNzIuDQoNCiogUHJvamVjdGlvbiBlc3RpbWF0aW9uIGNhcGFjaXR5IG9mIEhhZGFtYXJkIGRlc2lnbnPCoCh3aXRoIE0uTC4gQWdnYXJ3YWwpLiBKb3VybmFsIG9mIFN0YXRpc3RpY2FsIFBsYW5uaW5nIGFuZCBJbmZlcmVuY2UsIFZvbCAxMzggKDIwMDgpLCAxNTQgLSAxNTkuDQoNCiogRXF1aXZhbGVuY2Ugb2YgTm9ucGFyYW1ldHJpYyBFc3RpbWF0b3JzIGFzIHdlbGwgYXMgb2YgTm9uaW5mb3JtYXRpdmUgQ2Vuc29yaW5nIENvbmRpdGlvbnPCoCh3aXRoIEouIFdhbmcpLiBGYXIgRWFzdCBKb3VybmFsIG9mIFRoZW9yZXRpY2FsIFN0YXRpc3RpY3MsIFZvbCAyMSAoMjAwNyksIDI2NyAtIDI3OS4NCg0KKiBJbXB1dGF0aW9uIGZvciBNaXNzaW5nIERhdGEgYW5kIFZhcmlhbmNlIEVzdGltYXRpb24gd2hlbiBBdXhpbGlhcnkgSW5mb3JtYXRpb24gSXMgSW5jb21wbGV0ZcKgKHdpdGggRy4gWm91IGV0IGFsLikuIE1vZGVsIEFzc2lzdGVkIFN0YXRpc3RpY3MgYW5kIEFwcGxpY2F0aW9ucywgVm9sIDEgKDIwMDYpLCA4MyAtIDk0Lg0KDQoqIEEgTm90ZSBvbiBOb24taWRlbnRpZmlhYmlsaXR5IG9mIE1hcmsgU3Vydml2YWwgRnVuY3Rpb27CoCh3aXRoIEouIFdhbmcpLiBKb3VybmFsIG9mIE5vbnBhcmFtZXRyaWMgU3RhdGlzdGljcywgVm9sLiAxNyAoMjAwNSksIDk4OSAtIDk5NC4NCg0KKiBFc3RpbWF0b3JzIGZvciBTdXJ2aXZhbCBGdW5jdGlvbiBXaGVuIENlbnNvcmluZyBUaW1lcyBBcmUgS25vd27CoCh3aXRoIEouIFdhbmcpLiBDb21tdW5pY2F0aW9ucyBpbiBTdGF0aXN0aWNzIC0gVGhlb3J5IGFuZCBNZXRob2RzLCBWb2wgMzQgKDIwMDUpLCA0NDkgLSA0NTkuDQoNCiogRGVwZW5kZW5jeSBNZWFzdXJlcyB1bmRlciBCaXZhcmlhdGUgSG9tb2dlbmVvdXMgU2hvY2sgTW9kZWxzwqAod2l0aCBKLiBXYW5nKS4gU3RhdGlzdGljcywgVm9sLiAzOSAoMjAwNSksIDczIC0gODAuDQoNCiogTm9uLVJlZ3VsYXIgRGVzaWducyBmcm9tIEhhZGFtYXJkIE1hdHJpY2VzIGFuZCBUaGVpciBFc3RpbWF0aW9uIENhcGFjaXR5wqAod2l0aCBKLiBXYW5nKS4gTWV0cmlrYSwgVm9sIDYwICgyMDA0KSwgMjk1IC0gMzAzLg0KDQoqIERlc2lnbiBDYXRhbG9nIEJhc2VkIE9uIE1pbmltdW0gRy1BYmVycmF0aW9uwqAod2l0aCBMLiBEZW5nIGFuZCBCLiBUYW5nKS4gSm91cm5hbCBvZiBTdGF0aXN0aWNhbCBQbGFubmluZyBhbmQgSW5mZXJlbmNlIFZvbC4gMTI0ICgyMDA0KSwgMjE5IC0gMjMwLg0KDQoqIE5ldyBmYWN0b3JpYWwgZGVzaWducyB0aGF0IGNhbm5vdCBiZSBlbWJlZGRlZCBpbnRvIEhhZGFtYXJkIG1hdHJpY2VzLiBJbnRlcm5hdGlvbmFsIE1hdGguIEouIFZvbC4gMiAoMjAwMiksIDUyNyAtIDUzNC4NCg0KKiBBbm90aGVyIGxvb2sgYXQgR01BIG9ydGhvZ29uYWwgYXJyYXlzwqAod2l0aCBULiBXaXR0aWcpLiBQcm9jZWVkaW5nIG9mIEFwcGxpZWQgU3RhdGlzdGljcyBpbiBBZ3JpY3VsdHVyZSAoMjAwMSksIDExNiAtIDEyOC4NCg0KKiBDYXRhbG9ndWUgb2Ygc21hbGwgcnVucyBub24tcmVndWxhciBkZXNpZ25zIGZyb20gSGFkYW1hcmQgbWF0cmljZXMgd2l0aCBnZW5lcmFsaXplZCBtaW5pbXVtIGFiZXJyYXRpb27CoCh3aXRoIEwuIERlbmcsIGFuZCBCLiBUYW5nKS4gQ29tbXVuaWNhdGlvbnMgaW4gU3RhdGlzdGljcyAtIFRoZW9yeSBhbmQgTWV0aG9kcywgVm9sLiAyOSAoMjAwMCksIDEzNzkgLSAxMzk1Lg0KDQoqIEVudW1lcmF0aW5nIG5vbmVxdWl2YWxlbnQgb3J0aG9nb25hbCBhcnJheXMgdmlhIG1pbmltdW0gRy1hYmVycmF0aW9uwqAod2l0aCBMLiBEZW5nLCBhbmQgQi4gVGFuZykuIEFTQSBQcm9jZWVkaW5nIG9uIFBoeXNpY2FsIGFuZCBFbmdpbmVlcmluZyBTY2llbmNlcyAoMTk5OSksIDIzNyAtIDI0MS4NCg0KKiBMaW1pdCB0aGVvcmVtcyBmb3IgYXJyYXlzIG9mIHJvdy1jb2x1bW4gZXhjaGFuZ2VhYmxlIHJhbmRvbSB2YXJpYWJsZXPCoCh3aXRoIFkuIFpoYW8gYW5kIFEuIE1pYW8pLiBHYW94aWFvIFlpbmd5b25nIFNodXh1ZSBYdWViYW8gU2VyLiBBLCBWb2wuIDExICgxOTk2KSwgNDM1IC0gNDQyLg0KDQoqIEEgbGF3IG9mIHRoZSBpdGVyYXRlZCBsb2dhcml0aG0gZm9yIHJvdy1jb2x1bW4gZXhjaGFuZ2VhYmxlIGFycmF5c8KgKHdpdGggWS4gWmhhbykuIEFjdGEgU2NpLiBOYXR1ci4gVW5pdi4gSmlsaW4uIE5vLiAzICgxOTkzKSwgMzYgLSA0MC4NCg0KKiBDZW50cmFsIGxpbWl0IHRoZW9yZW1zIGZvciByb3ctY29sdW1uIGV4Y2hhbmdlYWJsZSBhcnJheXPCoCh3aXRoIFguIFdhbmcpLiBDaGluZXNlIE5vcnRoZWFzdGVybiBNYXRoLiBKLiwgVm9sLiA2ICgxOTkwKSwgMzY5IC0gMzc4Lg0KDQoqIExpbWl0IHRoZW9yZW1zIGZvciBleGNoYW5nZWFibGUgcmFuZG9tIHZhcmlhYmxlcy4gQ2hpbmVzZSBKb3VybmFsIG9mIEFwcGxpZWQgUHJvYmFiaWxpdHkgYW5kIFN0YXRpc3RpY3MuIFZvbC4gMyAoMTk5MCksIDI3OSAtIDI4My4NCg0KKiBPbiBsYXdzIG9mIGxhcmdlIG51bWJlcnMgZm9yIHJvdy1jb2x1bW4gZXhjaGFuZ2VhYmxlIHJhbmRvbSB2YXJpYWJsZXPCoCh3aXRoIFguIFdhbmcpLiBBY3RhIFNjaS4gTmF0dXIuIFVuaXYuIEppbGluLiBOby4gNCAoMTk5MCksIDE3IC0gMjAu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912520306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

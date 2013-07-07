@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:13 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910510306521"  usageLimitType="allocation" usageLimit="200" currentUsage="38" remainingUsage="162" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr Mohammed Karim</FormattedName>
+<GivenName>Mohammed</GivenName>
+<FamilyName>Karim</FamilyName>
+<Affix type="formOfAddress">Dr</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Maxwell</Municipality>
+<DeliveryAddress>
+<AddressLine>18. C.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+11996-5529</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode></AreaCityCode>
+<SubscriberNumber>1996-5529</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Concordia University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>CA</CountryCode>
+<Region>QC</Region>
+<Municipality>Montreal</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1997-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Concordia University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>CA</CountryCode>
+<Region>QC</Region>
+<Municipality>Montreal</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1992-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Dhaka University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Bangladesh</Region>
+<Municipality>Dhaka</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Applied Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Dhaka University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Bangladesh</Region>
+<Municipality>Dhaka</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1983-01-01</AnyDate>
+</DegreeDate>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Honors in Mathematics</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>&quot;Solutions of Higher-Degree Reduced Polynomial Equations by Using Unipodal Numbers&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R</FormattedName>
+</Name>
+<JournalOrSerialName>The Theoretical Mathematics &amp; Applications vol</JournalOrSerialName>
+<Volume>2</Volume>
+</Article>
+<Article>
+<Title>&quot;The Sums of Alternating Series of Odd Powers of the Reciprocals of Odd Positive Integers&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R</FormattedName>
+</Name>
+<JournalOrSerialName>KBM Journal of Mathematical Sciences and Computer Applications</JournalOrSerialName>
+<Volume>1(1):</Volume>
+<PageNumber>14-</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Solutions of Pentagonal Equation under Certain Conditions&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R</FormattedName>
+</Name>
+<JournalOrSerialName>KBM Journal of Mathematical Sciences and Computer Applications</JournalOrSerialName>
+<Volume>1(2</Volume>
+<PageNumber>33-</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Precalculus Algebra: Original Purpose - Its Relevancy to Students&apos; Needs - and Some Suggestions&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R., Leisher, D., and Liu, C</FormattedName>
+</Name>
+<JournalOrSerialName>KBM Journal of Science Education</JournalOrSerialName>
+<Volume>1(2</Volume>
+<PageNumber>19-</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Approximation of Apery&apos;s Constant&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R., Liu, C</FormattedName>
+</Name>
+<JournalOrSerialName>International Journal of Academic Research vol</JournalOrSerialName>
+<Volume>2</Volume>
+</Article>
+<Article>
+<Title>&quot;Tune the Sequence with the Parameter c&quot;</Title>
+<Name role="author">
+<FormattedName>Liu, C. and Karim, M. R</FormattedName>
+</Name>
+<JournalOrSerialName>International Journal of Academic Research vol</JournalOrSerialName>
+<Volume>2</Volume>
+</Article>
+<Article>
+<Title>&quot;The Relationships Among Number Theoretic functions&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Allied Fields</Title>
+<JournalOrSerialName>Volume</JournalOrSerialName>
+<Volume>3</Volume>
+</Article>
+<Article>
+<Title>&quot;Birthday Problem that Includes a Leap Day&quot; Math</Title>
+<Name role="author">
+<FormattedName>Karim, M. R</FormattedName>
+</Name>
+<JournalOrSerialName>Scientist</JournalOrSerialName>
+<Volume>Vol.43,49-50(2009).</Volume>
+</Article>
+<Article>
+<Title>pp</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<PageNumber>-314.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Free Convection Flow Past an Accelerated Vertical Permeable Plate&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R</FormattedName>
+</Name>
+<JournalOrSerialName>in the proceedings of Dynamical Systems &amp; Applications</JournalOrSerialName>
+<Volume>4(2004</Volume>
+</Article>
+<ConferencePaper>
+<Title>&quot;A Class of Series and Sums&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R. and Gonzalez, C</FormattedName>
+</Name>
+<EventName>in the Proceedings of the National Conference on Undergraduate Research</EventName>
+<ConferenceLocation>Missoula Montana</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Leap Day Extension of the Birthday Problem&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R., Dunning, R</FormattedName>
+</Name>
+<EventName>in the proceedings of the National Conference on Undergraduate Research</EventName>
+<ConferenceLocation>Missoula Montana</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Applications of Congruences in Finding the Day of a Given Date&quot;</Title>
+<Name role="author">
+<FormattedName>Karim, M. R., Gonzalez, C</FormattedName>
+</Name>
+<EventName>in the proceedings of the National Conference on Undergraduate Research</EventName>
+<ConferenceLocation>Missoula Montana</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Teaching Functions by Interactive Explorations&quot;</Title>
+<Name role="author">
+<FormattedName>M. R. Karim and Kyle Siegrist</FormattedName>
+</Name>
+<EventName>in the Proceedings of Huntsville Simulation Conference</EventName>
+<ConferenceDate>
+<StringDate>2002</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Huntsville Alabama.</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Egarievewe S</Title>
+<Name role="author">
+<FormattedName>Lexington, Kentucky</FormattedName>
+</Name>
+<EventName>&apos;&apos;Some Formulae for Evaluation of a Class of Single and Repeated Indefinite Integrals&apos;&apos; in the Proceedings of the National Conference on Undergraduate Research</EventName>
+<ConferenceLocation>Huntsville Alabama.</ConferenceLocation>
+</ConferencePaper>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIE1vaGFtbWVkIEthcmltIA0KDQoNCg0KUHJvZmVzc29yIGFuZCBDb29yZGluYXRvcg0KDQpNYXRoIFByb2dyYW0NCg0KDQoNCkVEVUNBVElPTg0KDQoNCg0KUGguRC4oTWF0aGVtYXRpY3MpLCBDb25jb3JkaWEgVW5pdmVyc2l0eSwgTW9udHJlYWwsIFFDLiBDYW5hZGEgKDE5OTcpDQoNCk0uU2MuKE1hdGhlbWF0aWNzKSwgQ29uY29yZGlhIFVuaXZlcnNpdHksIE1vbnRyZWFsLCBRQy4gQ2FuYWRhICgxOTkyKQ0KDQpNLlNjLihBcHBsaWVkIE1hdGhlbWF0aWNzKSwgRGhha2EgVW5pdmVyc2l0eSwgRGhha2EsIEJhbmdsYWRlc2ggKDE5ODYpDQoNCkIuU2MuKEhvbm9ycyBpbiBNYXRoZW1hdGljcyksIERoYWthIFVuaXZlcnNpdHksIERoYWthLCBCYW5nbGFkZXNoICgxOTgzKQ0KDQoNCg0KDQoNClBVQkxJQ0FUSU9OUyANCg0KDQoNCjEuIEthcmltLCBNLiBSLiwgIlNvbHV0aW9ucyBvZiBIaWdoZXItRGVncmVlIFJlZHVjZWQgUG9seW5vbWlhbCBFcXVhdGlvbnMgYnkgVXNpbmfCoMKgIFVuaXBvZGFsIE51bWJlcnMiLCANCg0KwqDCoMKgIFRoZSBUaGVvcmV0aWNhbCBNYXRoZW1hdGljcyAmIEFwcGxpY2F0aW9ucywgdm9sLiAyLCBuby4gMSwgMTMgLSAyMSgyMDEyKS4NCg0KDQoNCjIuIEthcmltLCBNLiBSLiwgIlRoZSBTdW1zIG9mIEFsdGVybmF0aW5nIFNlcmllcyBvZiBPZGQgUG93ZXJzIG9mIHRoZSBSZWNpcHJvY2FscyBvZiBPZGQgUG9zaXRpdmUgSW50ZWdlcnMiLA0KDQrCoMKgIEtCTSBKb3VybmFsIG9mIE1hdGhlbWF0aWNhbCBTY2llbmNlcyBhbmQgQ29tcHV0ZXIgQXBwbGljYXRpb25zLCAxKDEpOiAxNCAtIDIyICgyMDEwKS4NCg0KDQoNCjMuIEthcmltLCBNLiBSLiwgIlNvbHV0aW9ucyBvZiBQZW50YWdvbmFsIEVxdWF0aW9uIHVuZGVyIENlcnRhaW4gQ29uZGl0aW9ucyIsIEtCTcKgwqAgSm91cm5hbCBvZiBNYXRoZW1hdGljYWwNCg0KwqDCoMKgIFNjaWVuY2VzIGFuZCBDb21wdXRlciBBcHBsaWNhdGlvbnMswqAgMSgyKSwgMzMgLSAzOSAoMjAxMCkuDQoNCg0KDQo0LiBLYXJpbSwgTS4gUi4sIExlaXNoZXIsIEQuLCBhbmQgTGl1LCBDLiwgIlByZWNhbGN1bHVzIEFsZ2VicmE6IE9yaWdpbmFsIFB1cnBvc2UgLSBJdHMgUmVsZXZhbmN5IHRvIFN0dWRlbnRzJyANCg0KwqDCoMKgIE5lZWRzIC0gYW5kIFNvbWUgU3VnZ2VzdGlvbnMiLCBLQk0gSm91cm5hbCBvZiBTY2llbmNlIEVkdWNhdGlvbiwgMSAoMiksIDE5IC0gMjMgKDIwMTApLg0KDQoNCg0KNS4gS2FyaW0sIE0uIFIuLCBMaXUsIEMuLCAiQXBwcm94aW1hdGlvbiBvZiBBcGVyeSdzIENvbnN0YW50IiwgSW50ZXJuYXRpb25hbCBKb3VybmFsIG9mIEFjYWRlbWljIFJlc2VhcmNoLCB2b2wNCg0KwqDCoMKgIC4gMixOby4gNiwgOSAtIDEyLCBOb3ZlbWJlciAyMDEwLg0KDQoNCg0KNi4gTGl1LCBDLiBhbmQgS2FyaW0sIE0uIFIuLCAiVHVuZSB0aGUgU2VxdWVuY2UgKDErMS9uKV4obitjKSB3aXRoIHRoZSBQYXJhbWV0ZXIgYyIsIEludGVybmF0aW9uYWwgSm91cm5hbCBvZiANCg0KwqDCoMKgIEFjYWRlbWljIFJlc2VhcmNoLCB2b2wuIDIsIE5vLiA1LCAxMSAtIDE3LCBTZXB0ZW1iZXIgMjAxMC4NCg0KDQoNCjcuIEthcmltLCBNLiBSLiBhbmQgR29uemFsZXosIEMsICJBIENsYXNzIG9mIFNlcmllcyBhbmQgU3VtcyIgaW4gdGhlIFByb2NlZWRpbmdzIG9mIHRoZSBOYXRpb25hbCBDb25mZXJlbmNlDQoNCsKgwqDCoCBvbiBVbmRlcmdyYWR1YXRlIFJlc2VhcmNoLCBNaXNzb3VsYSxNb250YW5hLCBBcHJpbCAxNSAtIDE3LCAyMDEwLCBwcC4gMjAtMjQuDQoNCg0KDQo4LiBLYXJpbSwgTS4gUi4sICJUaGUgUmVsYXRpb25zaGlwcyBBbW9uZyBOdW1iZXIgVGhlb3JldGljIGZ1bmN0aW9ucyIsIEpvdXJuYWwgb2YgTWF0aGVtYXRpY3MsIFN0YXRpc3RpY3MgYW5kDQoNCsKgwqDCoCBBbGxpZWQgRmllbGRzLCBWb2x1bWUgMywgSXNzdWUgMSwgMS01ICgyMDA5KS4NCg0KDQoNCjkuIEthcmltLCBNLiBSLiwgIkJpcnRoZGF5IFByb2JsZW0gdGhhdCBJbmNsdWRlcyBhIExlYXAgRGF5IiwgTWF0aC4gU2NpZW50aXN0LCBWb2wuNDMsNDktNTAgKDIwMDkpLg0KDQoNCg0KMTAuIEthcmltLCBNLiBSLiwgRHVubmluZywgUi4sICJMZWFwIERheSBFeHRlbnNpb24gb2YgdGhlIEJpcnRoZGF5IFByb2JsZW0iLCBpbiB0aGUgcHJvY2VlZGluZ3Mgb2YgdGhlIE5hdGlvbmFsDQoNCsKgwqDCoMKgwqAgQ29uZmVyZW5jZSBvbiBVbmRlcmdyYWR1YXRlIFJlc2VhcmNoLCBMYSBDcm9zcyxXaXNjb25zaW4sIEFwcmlsIDE2LSAxOCwgMjAwOSwgcHAuIDMxNSAtIDMxOC4NCg0KDQoNCjExLiBLYXJpbSwgTS4gUi4sIEdvbnphbGV6LCBDLiwgIkFwcGxpY2F0aW9ucyBvZiBDb25ncnVlbmNlcyBpbiBGaW5kaW5nIHRoZSBEYXkgb2YgYSBHaXZlbiBEYXRlIiwgaW4gdGhlDQoNCsKgwqDCoMKgIHByb2NlZWRpbmdzIG9mIHRoZSBOYXRpb25hbCBDb25mZXJlbmNlIG9uIFVuZGVyZ3JhZHVhdGUgUmVzZWFyY2gsIExhIENyb3NzLCBXaXNjb25zaW4sIEFwcmlsIDE2IC0gMTgsDQoNCsKgwqDCoMKgwqAyMDA5LCBwcC4gMzEwIC0zMTQuDQoNCg0KDQoxMi4gS2FyaW0sIE0uIFIuLCAiRnJlZSBDb252ZWN0aW9uIEZsb3cgUGFzdCBhbiBBY2NlbGVyYXRlZCBWZXJ0aWNhbCBQZXJtZWFibGUgUGxhdGUiIGluIHRoZSBwcm9jZWVkaW5ncyBvZg0KDQrCoMKgwqDCoMKgIER5bmFtaWNhbCBTeXN0ZW1zICYgQXBwbGljYXRpb25zIDQgKDIwMDQpLCBwcC4gNjEzIC0gNjE5Lg0KDQoNCg0KMTMuIE0uIFIuIEthcmltIGFuZCBLeWxlIFNpZWdyaXN0LCAiVGVhY2hpbmcgRnVuY3Rpb25zIGJ5IEludGVyYWN0aXZlIEV4cGxvcmF0aW9ucyIsIGluIHRoZSBQcm9jZWVkaW5ncyBvZiBIdW50c3ZpbGxlDQoNCsKgwqDCoMKgwqAgU2ltdWxhdGlvbiBDb25mZXJlbmNlIDIwMDIsIEh1bnRzdmlsbGUsIEFsYWJhbWEuIHBwLjM4NC0gMzg2LsKgwqAgDQoNCg0KDQoxNC4gUi4gR3JlZW4sIE0uIFIuIEthcmltLCAnJ1NvbWUgRm9ybXVsYWUgZm9yIEV2YWx1YXRpb24gb2YgYSBDbGFzcyBvZiBTaW5nbGUgYW5kIFJlcGVhdGVkIEluZGVmaW5pdGUgSW50ZWdyYWxzJycsaW4NCg0KwqDCoMKgwqDCoCB0aGUgUHJvY2VlZGluZ3Mgb2YgdGhlIE5hdGlvbmFsIENvbmZlcmVuY2Ugb24gVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCwgKE5DVVIpIDIwMDEsIE1hcmNoIDE1IC0gMTcsIDIwMDEsDQoNCsKgwqDCoMKgwqAgTGV4aW5ndG9uLCBLZW50dWNreS4NCg0KDQoNCjE1LiBFZ2FyaWV2ZXdlLCBTLiwgQWRlYml5aSwgQi4sIE9uYWZvd29rYW4sIE8uLCBDb2tlLCBELiBLYXJpbSwgTS4gUi4sIFJpZ2J5LCBLLixBZGV0dW5qaSwgTy4sICJXZWIgQmFzZWQNCg0KwqDCoMKgwqDCoCBMZWFybmluZyBFbnZpcm9ubWVudCBmb3IgRnVuY3Rpb25zIGFuZCBHcmFwaHMiLEV1cm9wZWFuIEpvdXJuYWwgb2YgT3BlbiBEaXN0YW5jZSBhbmQgRS1MZWFybmluZyAoMjAwMCkuDQoNCg0KDQoxNi4gTS4gUi4gS2FyaW0gYW5kIFMuVC4gQWxpIGFuZCBNLiBCb2RydXp6YW1hbiAnJ0EgUmVsYXRpdmlzdGljIFdpbmRvd2VkIEZvdXJpZXIgVHJhbnNmb3JtIiwgaW4gdGhlIHByb2NlZWRpbmdzDQoNCsKgwqDCoMKgwqAgb2YgSUVFRSBTb3V0aGVhc3RDb24gMjAwMCwgTmFzaHZpbGxlLCBUZW5uZXNzZWUsMjAwMCwgcHAuIDI1MyAtIDI2MC4NCg0KDQoNCjE3LiBNLiBCb2RydXp6YW1hbiwgUi4gR3VwdGEsIE0uIFIuIEthcmltLCBhbmQgUy4gQm9kcnV6emFtYW4sICcnTmV1cmFsIE5ldHdvcmstQmFzZWQgQ29kZWJvb2sgU2VhcmNoIGZvcg0KDQrCoMKgwqDCoMKgIEltYWdlIENvbXByZXNzaW9uIiwgaW4gdGhlIHByb2NlZWRpbmdzIG9mIElFRUUgU291dGhlYXN0Q29uMjAwMCwgTmFzaHZpbGxlLCBUZW5uZXNzZWUsIEFwcmlsIDctIDksIA0KDQrCoMKgwqDCoMKgIDIwMDAscHAuNDE3IC0gNDI0Lg0KDQoNCg0KMTguIEMuIE1heHdlbGwsIE0uIFIuIEthcmltIGFuZCBNLiBHdW5hc2VrYXJhbiwgJydBIE1vZGVsIG9mIE1lZGljYWwgRGVjaXNpb24gTWFraW5nIiwgaW4gdGhlIHByb2NlZWRpbmdzIG9mIHRoZQ0KDQrCoMKgwqDCoMKgIE5hdGlvbmFsIENvbmZlcmVuY2Ugb24gVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCAoTkNVUikgOTksIHBwLiAxMjgxLTEyODQuDQoNCg0KDQoxOS4gUy5ULiBBbGksIEotUC4gR2F6ZWF1IGFuZCBNLiBSLiBLYXJpbSwgJydGcmFtZXMsIHRoZSBiZXRhLWR1YWxpdHkgaW4gTWlua293c2tpIFNwYWNlIGFuZCBTcGluIENvaGVyZW50DQoNCsKgwqDCoMKgIFN0YXRlcycnLCBKLiBQaHlzLsKgIEE6IE1hdGguwqAgR2VuLiAyOSAoMTk5NikgNTUyOSAtIDU1DQoNCg0KDQpFWFRFUk5BTCBGVU5ESU5HDQoNCg0KDQpUaHJlZSBvZiBvdXIgcHJvcG9zYWxzIGhhdmUgYmVlbiBmdW5kZWQgYnkgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIChOU0YpIGluIHRoZSByZWNlbnQgeWVhcnM6IChJIHdhcyBhIENvLVBJIGluIGFsbCB0aGUgcHJvamVjdHMpIGFuZCBvbmUgcHJvcG9zYWwgaGFzIGJlZW4gc3VibWl0dGVkIHRvIERlcGFydG1lbnQgb2YgRGVmZW5zZS4NCg0KDQoNCjEuIFByb3Bvc2FsIE51bWJlcjogMDkyODkwNA0KDQrCoMKgwqAgUHJvcG9zYWwgVGl0bGU6IFN0cmF0ZWdpYyBQbGFuIHRvIEVuaGFuY2UgU1RFTSBFZHVjYXRpb24gYW5kIFJlc2VhcmNoIGF0IEFBTVUNCg0KwqDCoMKgIFRvdGFsIEZ1bmRpbmc6ICQyLDE2Myw2NzkuMDAgZm9yIGZpdmUgeWVhcnMgKGN1cnJlbnQpLg0KDQoNCg0KMi4gUHJvcG9zYWwgTnVtYmVyOiAwMjY1MTU1DQoNCsKgwqDCoCBQcm9wb3NhbCBUaXRsZTogU3RyYXRlZ2ljIFBsYW4gZm9yIEVuaGFuY2VtZW50LCBFeHBhbnNpb24gYW5kIERldmVsb3BtZW50IG9mIFVuZGVyZ3JhZHVhdGUgUHJvZ3JhbXMNCg0KwqDCoMKgIChTUEVFRCAtIFVQKQ0KDQrCoMKgwqAgVG90YWwgRnVuZGluZzogJDIsMTAwLDAwMC4wMCBmb3IgZml2ZSB5ZWFycyAoZW5kZWQgaW4gQXVndXN0IDIwMTEpDQoNCg0KDQozLiBQcm9wb3NhbCBOdW1iZXI6IDA1NTI2NzgNCg0KwqDCoMKgIFByb3Bvc2FsIFRpdGxlOiBSRVUtU2l0ZSBhdCBBbGFiYW1hIEEmTSBVbml2ZXJzaXR5DQoNCsKgwqDCoCBUb3RhbCBGdW5kaW5nOiAkMTY1LDAwMC4wMCBmb3IgdGhyZWUgeWVhcnMgKGVuZGVkIGluIHN1bW1lciAyMDA5KQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910510306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

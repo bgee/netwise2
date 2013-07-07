@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:15:15 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916543306521"  usageLimitType="allocation" usageLimit="200" currentUsage="125" remainingUsage="75" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr Alex C. C. Wilson CV</FormattedName>
+<GivenName>Alex</GivenName>
+<MiddleName>C. C. Wilson</MiddleName>
+<FamilyName>CV</FamilyName>
+<Affix type="formOfAddress">Dr</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>33124</PostalCode>
+<Region>Florida</Region>
+<Municipality>Coral Gables</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>acwilson@bio.miami.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>University of Miami</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Department of Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>PERT Postdoctoral Fellow, Department of Ecology and Evolutionary Biology, University of Arizona
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of California</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Fellow, Section of Evolution and Ecology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Davis</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Australian National University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>AU</CountryCode>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Graduate and Undergraduate Classes</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>BIL250 - Genetics (Spring 2007, 2008, 2009 2010) BIL 385 - Ecological and Evolutionary Genomics (Fall 2010) BIL556 - Ecological and Evolutionary Genomics (Fall 2009, 2010, 2011) BIL575 - Molecular Ecology (Fall 2006) BIL613 - Graduate Core Module - Manual and Functional Genome Annotation (Spring 2010)
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Macquarie University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Macquarie University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Class I</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Hons</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Macquarie University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1994-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Macquarie University</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship Program</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Postdoctoral Excellence in Research and Teaching PERT</Name>
+</DegreeMajor>
+<Comments>The PERT program is part of a National Institutes of Health postdoctoral education and research training program that aims to better prepare postdoctoral researchers for an academic position see</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Pea Aphid Genome Annotation Workshop II</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Spain</Region>
+<Municipality>Barcelona</Municipality>
+</PostalAddress>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Fifth Meeting of the International Aphid Genomics Consortium</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Pea Aphid Genome Annotation Workshop I</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Fourth Meeting of the International Aphid Genomics Consortium</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Princeton University</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeMajor>
+<Name>&amp; 15 2008</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>(h-index</Title>
+<Volume>15</Volume>
+</Article>
+<Article>
+<Title>(in review)</Title>
+<Name role="author">
+<FormattedName>Duncan R. P., Nathanson L., Wilson A. C. C</FormattedName>
+</Name>
+<JournalOrSerialName>Novel male-biased expression in paralogs of the aphid slimfast nutrient amino acid transporter expansion</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Genome expansion and differential expression of amino acid transporters at the aphid/Buchnera symbiotic interface</Title>
+<Name role="author">
+<FormattedName>Price D. R. G., Duncan R. P., Shigenobu S, Wilson A. C. C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Molecular Biology and Evolution</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Aphids alter host-plant nitrogen isotope fractionation</Title>
+<Name role="author">
+<FormattedName>Wilson ACC, Sternberg LdSL, Hurley KB</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Proceedings of the National Academy of Sciences of the United States of America</JournalOrSerialName>
+<Volume>108(25):10220-10224.</Volume>
+</Article>
+<Article>
+<Title>The power of paired genomes</Title>
+<Name role="author">
+<FormattedName>Gerardo NM, Wilson A. C. C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Molecular Ecology</JournalOrSerialName>
+<Volume>20(10):</Volume>
+<PageNumber>2038-2040.</PageNumber>
+</Article>
+<Article>
+<Title>Genomic revelations of a mutualism: the pea aphid and its obligate bacterial symbiont</Title>
+<Name role="author">
+<FormattedName>Shigenobu S, Wilson A. C. C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Cellular and Molecular Life Sciences 68:1297-1309</JournalOrSerialName>
+</Article>
+<Article>
+<Title>RamÃ­rez C. C</Title>
+<Name role="author">
+<FormattedName>Zepeda-Paulo, F. A., Simon, J.-C</FormattedName>
+</Name>
+<JournalOrSerialName>Fuentes-Contreras E</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Genome sequence of the pea aphid Acyrthosiphon pisum</Title>
+<Name role="author">
+<FormattedName>International Aphid Genomics Consortium</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>PLoS Biology</JournalOrSerialName>
+<Volume>8(2):e1000313.</Volume>
+</Article>
+<Article>
+<Title>Genomic insight into the amino acid relations of the pea aphid Acyrthosiphon pisum with its symbiotic bacterium Buchnera aphidicola</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., P. Ashton, F. Calevro, C. Hubert, S. Colella, G. Febvay, G. Jander, P. F. Kushlan, S. J. Macdonald, J. F. Schwartz, G. H. Thomas and A. E. Douglas</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Insect Molecular Biology</JournalOrSerialName>
+<Volume>2):249-258.</Volume>
+</Article>
+<Article>
+<Title>Genomic resources for Myzus persicae: EST sequencing</Title>
+<Name role="author">
+<FormattedName>Ramsey, J. S., A. C. C. Wilson, M. De Vos, Q. Sun, C. Tamborindeguy, A. Winfield, G. Malloch, D. M. Smith, B. Fenton, S. M. Gray and G. Jander</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>SNP identification and microarray design</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Aphid thermal tolerance is governed by a point mutation in bacterial symbionts</Title>
+<Name role="author">
+<FormattedName>Dunbar, H. E., A. C. C. Wilson, N. R. Ferguson, and N. A. Moran</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>PLoS Biology 5:e96</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The genetic outcomes of sex and recombination in long-term functionally parthenogenetic lineages of Australian Sitobion aphids</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., and P. Sunnucks</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Genetical Research</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A dual-genome microarray for the pea aphid</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., H. E. Dunbar, G. K. Davis, W. B. Hunter, D. L. Stern and N. A. Moran</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Acyrthosiphon pisum and its obligate symbiont</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Bedo and J. S. F. Barker</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., P. Sunnucks, D. G</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Microsatellites reveal male recombination and neo-Y formation in Scaptodrosophila hibisci</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Ontogenetic shifts in fusion-rejection thresholds in a colonial marine hydrozoan</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., and R. K. Grosberg</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Hydractinia symbiolongicarpus</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Massonnet J.-C</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., B</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Sunnucks and D. F. Hales</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., P</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Heritable genetic variation and potential for adaptive evolution in asexual aphids</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sunnucks and J. S. F. Barker 2002</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., P</FormattedName>
+</Name>
+<JournalOrSerialName>Isolation and characterization of</JournalOrSerialName>
+<Volume>20</Volume>
+</Article>
+<Article>
+<Title>Microsatellite variation in cyclically parthenogenetic populations of Myzus persicae in south-eastern Australia</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., P. Sunnucks, R. L. Blackman and D. Hales</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Heredity 88: 258-266</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Segregation of autosomes during spermatogenesis in the peach-potato aphid</Title>
+<Name role="author">
+<FormattedName>Hales, D. F., M. A. Sloane, A. C. C. Wilson and P. Sunnucks</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Myzus persicae)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Taxonomy of rock-wallabies</Title>
+<Name role="author">
+<FormattedName>Eldridge, M. D. B., A. C. C. Wilson, C. J. Metcalfe, A. E. Dollin, J. N. Bell et al</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Petrogale (Marsupialia : Macropodidae)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microsatellite isolation linkage group identification and determination of recombination frequency in the peach-potato aphid</Title>
+<Name role="author">
+<FormattedName>Sloane, M. A., P. Sunnucks, A. C. C. Wilson and D. F. Hales</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Myzus persicae (Hemiptera: Aphididae)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>SSCP is not so difficult: the application and utility of single-stranded conformation polymorphism in evolutionary biology and molecular ecology</Title>
+<Name role="author">
+<FormattedName>Sunnucks, P., A. C. C. Wilson, L. B. Beheregaray, K. Zenger, J. French et al</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Molecular Ecology 9: 1699-1710</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Confirmation that Myzus antirrhinii (Hemiptera: Aphididae) occurs in Australia using morphometrics microsatellite typing and analysis of novel karyotypes by fluorescence in situ hybridisation</Title>
+<Name role="author">
+<FormattedName>Hales, D., A. C. C. Wilson, J. M. Spence and R. L. Blackman</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Australian Journal of Entomology 39: 123-129</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sunnucks and D. F. H. Hales 1999</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., P</FormattedName>
+</Name>
+<JournalOrSerialName>Microevolution low clonal diversity and genetic affinities of parthenogenetic Sitobion aphids in New Zealand</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microsatellite markers for the onychophoran Euperipatoides rowelii</Title>
+<Name role="author">
+<FormattedName>Sunnucks, P., and A. C. C. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Molecular Ecology 8: 899-900</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sunnucks and D. F. Hales</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C., P</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1997</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Random loss of X chromosome at male determination in an aphid</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Dissertation &amp; Theses Wilson A. C. C. 2000</Title>
+<JournalOrSerialName>Reproductive strategy and genetic variation in aphids of the genera Sitobion and Myzus</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Analysis of mitochondrial DNA D-loop sequence of black-footed rock-wallabies</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Honours thesis</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Chlorophyll turnover in light-grown Festuca pratensis transferred to darkness: effect of chlorophyll and protein synthesis inhibitors</Title>
+<Name role="author">
+<FormattedName>Wilson, A. C. C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Honours thesis</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Relating Similarity</Title>
+<Name role="author">
+<FormattedName>Featured Speaker, Kansas City, MO, USA</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>June 2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Invited Symposium Speaker 5th Annual Arthropod Genomics Symposium: Exploring Diversity</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Function of Microbial Symbioses in Solitary and Social Insects Symposium Speaker</Title>
+<Name role="author">
+<FormattedName>Diversity and</FormattedName>
+</Name>
+<JournalOrSerialName>Entomological Society of America</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The Role of Microorganisms in the Ecology and Evolution of Tri-Trophic Interactions Organized Oral Session Speaker</Title>
+<Name role="author">
+<FormattedName>Pittsburgh, PA, USA</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>August 2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecological Society of America</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Celebrating the Role of Entomology in the Genomics Revolution Symposium Speaker</Title>
+<JournalOrSerialName>Entomological Society of America</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Keynote Speaker</Title>
+<Name role="author">
+<FormattedName>Royal</FormattedName>
+</Name>
+<JournalOrSerialName>Entomological Society Aphid Special Interest Group</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Keynote Speaker</Title>
+<Name role="author">
+<FormattedName>Royal</FormattedName>
+</Name>
+<JournalOrSerialName>Entomological Society Aphid Special Interest Group</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Annotation of male specific genes in the aphid Myzus persicae</Title>
+<Name role="author">
+<FormattedName>Duncan, R. P., and A. C. C. Wilson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>4th Annual Arthropod Genomics Symposium</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Annotation and transcriptional analysis of pea aphid amino acid transporters</Title>
+<Name role="author">
+<FormattedName>Price, D. R. G., R. P. Duncan and A. C. C. Wilson</FormattedName>
+</Name>
+<JournalOrSerialName>4th Annual Arthropod Genomics Symposium</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The aphid sex determination pathway: Identification of DM domain genes</Title>
+<Name role="author">
+<FormattedName>Huang, W. T., and A. C. C. Wilson</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>S.L</Title>
+<Name role="author">
+<FormattedName>Kushlan, P. F., J.F. Schwartz, D.H. Jones, K.B. Hurley, T. Wyss, L</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>International Whitefly Genomics Consortium</Title>
+<Name role="author">
+<FormattedName>Advisory Committee</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Departmental Graduate Recruitment Visit to Lewis &amp; Clark</Title>
+<Name role="author">
+<FormattedName>Portland, OR</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>September 2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chair Graduate Symposium Organizing Committee</JournalOrSerialName>
+<PageNumber>(2009-</PageNumber>
+</Article>
+<Article>
+<Title>Graduate Curriculum Committee</Title>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Faculty Mentor - Department of Biology Journal Club</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Chair Seminar Committee - Spring &amp;</Title>
+<PublicationDate>
+<StringDate>Fall 2008</StringDate>
+</PublicationDate>
+<Volume>2008</Volume>
+</Article>
+<Article>
+<Title>Chair Graduate Recruitment Committee</Title>
+<PublicationDate>
+<StringDate>Fall 2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chair Selection Committee for Visiting Assistant Professor in Genomics</JournalOrSerialName>
+<Volume>2007</Volume>
+</Article>
+<Article>
+<Title>Selection Committee for Full-time Lecturer</Title>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Selection Committee for Molecular Core Facility Manager</JournalOrSerialName>
+<Volume>2006</Volume>
+</Article>
+<Article>
+<Title>Graduate Admissions and Advisory Committee</Title>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Reviewer - Grant Proposals Swiss National Science Foundation</JournalOrSerialName>
+<Volume>2009(declined</Volume>
+</Article>
+<Article>
+<Title>K-State Arthropod Genomics Center Competitive Seed Grant Proposal</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Agence Nationale de la Recherche</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Canada Foundation for Innovation</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>National Science Foundation</JournalOrSerialName>
+<Volume>2011</Volume>
+</Article>
+<Article>
+<Title>National Research Council of the National Academies</Title>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Spring">
+<CompetencyEvidence name ="Spring">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2009-01-01 - PRESENT</StringDate></Date>
+<Description>Scholarly and Creative Activity Award University of Miami 2008-2009</Description>
+<IssuingAuthority>College of Arts and Sciences</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2001-01-01</StringDate></Date>
+<Description>Vice Chancellor&apos;s Commendation for outstanding doctoral research</Description>
+<IssuingAuthority>Macquarie University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1997-03-01 - 2000-05-01</StringDate></Date>
+<Description>Australian Postgraduate Award (tuition and stipend) ($88,000)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1993-01-01</StringDate></Date>
+<Description>Milthorpe Memorial Prize for excellence in undergraduate plant biology</Description>
+<IssuingAuthority>Macquarie University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>and Funding Awarded</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01 - 2014-01-01</StringDate></Date>
+<Description>The National Science Foundation Characterization of Aphid Nutrient Amino Acid Transporters with Focus on the Symbiotic Interface PI: Wilson CoPI: Price ($535,411)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01 - 2013-01-01</StringDate></Date>
+<Description>USDA Arthropod and Nematode Biology and Management: Suborganismal Biology Program Code 91112 Functional Analysis of Proteins and Metabolites in Aphid Saliva PD: Jander Co-PD: Wilson ($395,453)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>University of Miami General Research Support Award in the Natural Science and Engineering ($6,000)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>University of Miami Summer Award in the Natural Sciences and Engineering ($9,300)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>The American Genetic Association Special Event Award Pea Aphid Genome Annotation Workshop I 2007 ($9,000)</Description>
+</Achievement>
+<Achievement>
+<Description>USDA Tools Resources and Genomics for Arthropods and Nematodes Pea Aphid Genome Annotation Workshop I 2008 ($10,000) Paul and Maxine Frohring Foundation ($3,000)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>University of Miami General Research Support Award in the Natural Sciences and Engineering ($4,919)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>University of Miami Summer Award in the Natural Sciences and Engineering ($9,300)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-01-01 - 2009-01-01</StringDate></Date>
+<Description>USDA Functional Genomics of Agriculturally Important Organisms Microarray analysis of agriculturally relevant gene expression in the peach-potato aphid Myzus persicae PD: Jander Co-PDs: Moran Wilson &amp; Gray ($900,000)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-01-01</StringDate></Date>
+<Description>Center for Population Biology Postdoctoral Travel Award ($1,000)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01 - 2014-01-01</StringDate></Date>
+<Description>Declined USDA - NIFA Foundational Program Plant Health and Production and Plant Products b. Pest and Beneficial Insects in Plant Systems Program Code: A1111 Functional Analysis of Amino Acid Transporters at the Symbiotic Interface in Aphids that Cause Direct Feeding Damage PD: Wilson</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01 - 2014-01-01</StringDate></Date>
+<Description>The National Science Foundation Characterization of Aphid Nutrient Amino Acid Transporters with Focus on the Symbiotic Interface PI: Wilson CoPI: Price ($535,033)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01 - 2013-01-01</StringDate></Date>
+<Description>The National Science Foundation Genome Evolution in a Cyclically Parthenogenetic Insect with a Completely Sequenced Genome PI: Wilson Co-PIs: Hedges Johnston and Papamichail ($586,926)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>University of Miami Interdisciplinary Research Development Initiative Development and Application of a Novel next Generation Sequencing Approach for Elucidating the Evolution of Genome Architecture Co-PIs Wilson Hedges and Papamichail ($88,547)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01 - 2011-01-01</StringDate></Date>
+<Description>The National Science Foundation Genome Evolution in a Cyclically Parthenogenetic Insect with a Completely Sequenced Genome PI: Wilson Co-PIs: Hedges Johnston and Papamichail ($567,386)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>University of Miami General Research Support Award in the Natural Sciences and Engineering ($6,500)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-01-01 - 2010-01-01</StringDate></Date>
+<Description>The National Science Foundation Aspects of Genome Evolution in a Cyclically Parthenogenetic Insect with a Completely Sequenced Genome PI: Wilson Co-PI: Johnston ($439,145)</Description>
+</Achievement>
+<Achievement>
+<Description>Research Interests Genome Evolution</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Elected Representative for the Americas to the International Aphid Genomics Consortium Board Member</Name>
+<Role><Name>Board Member</Name></Role>
+</Association>
+<Association>
+<Name>Entomological Society of America Annual Meeting</Name>
+</Association>
+<Association>
+<Name>Society for Molecular Biology and Evolution</Name>
+</Association>
+<Association>
+<Name>(*currently active)</Name>
+</Association>
+<Association>
+<Name>American Association for the Advancement of Science</Name>
+</Association>
+<Association>
+<Name>American Genetic Association</Name>
+</Association>
+<Association>
+<Name>Entomological Society of America</Name>
+</Association>
+<Association>
+<Name>Genetics Society of Australasia</Name>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>International Aphid Genomics Consortium*</Name>
+</Association>
+<Association>
+<Name>Society for the Study of Evolution</Name>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Society for the Study of Molecular Biology and Evolution</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBRQ0KDQoNCg0KQWxleGFuZHJhIEMuIEMuIFdpbHNvbg0KDQpBc3Npc3RhbnQgUHJvZmVzc29yLCBEZXBhcnRtZW50IG9mIEJpb2xvZ3kNCg0KVW5pdmVyc2l0eSBvZiBNaWFtaSwgQ29yYWwgR2FibGVzLCBGbG9yaWRhIDMzMTI0IFVTQQ0KDQphY3dpbHNvbkBiaW8ubWlhbWkuZWR1DQoNCmh0dHA6Ly93d3cuYmlvLm1pYW1pLmVkdS9hY3dpbHNvbi9ob21lLmh0bQ0KDQoNCg0KRWR1Y2F0aW9uDQoNCk1hY3F1YXJpZSBVbml2ZXJzaXR5LCBQaC5ELiwgMjAwMQ0KDQpNYWNxdWFyaWUgVW5pdmVyc2l0eSwgQi5TYy4gSG9ucyAoQ2xhc3MgSSksIDE5OTUNCg0KTWFjcXVhcmllIFVuaXZlcnNpdHksIEIuU2MuLCAxOTk0DQoNCg0KDQpQb3NpdGlvbnMNCg0KQXNzaXN0YW50IFByb2Zlc3NvciwgRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBVbml2ZXJzaXR5IG9mIE1pYW1pLCAyMDA2IC0gcHJlc2VudA0KDQpQRVJUIFBvc3Rkb2N0b3JhbCBGZWxsb3csIERlcGFydG1lbnQgb2YgRWNvbG9neSBhbmQgRXZvbHV0aW9uYXJ5IEJpb2xvZ3ksIFVuaXZlcnNpdHkgb2YgQXJpem9uYSwgMjAwMy0yMDA2DQoNClBvc3Rkb2N0b3JhbCBGZWxsb3csIFNlY3Rpb24gb2YgRXZvbHV0aW9uIGFuZCBFY29sb2d5LCBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEsIERhdmlzLCAyMDAwLTIwMDMNCg0KVmlzaXRpbmcgRmVsbG93LCBUaGUgQXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5LCBBdXN0cmFsaWEsIDE5OTgtMjAwMA0KDQoNCg0KSG9ub3JzIGFuZCBBd2FyZHMNCg0KRWxlY3RlZCBSZXByZXNlbnRhdGl2ZSBmb3IgdGhlIEFtZXJpY2FzIHRvIHRoZSBJbnRlcm5hdGlvbmFsIEFwaGlkIEdlbm9taWNzIENvbnNvcnRpdW0gQm9hcmQgTWVtYmVyLCAyMDA5LXByZXNlbnQuDQoNClNjaG9sYXJseSBhbmQgQ3JlYXRpdmUgQWN0aXZpdHkgQXdhcmQsIENvbGxlZ2Ugb2YgQXJ0cyBhbmQgU2NpZW5jZXMsIFVuaXZlcnNpdHkgb2YgTWlhbWksIDIwMDgtMjAwOQ0KDQpWaWNlIENoYW5jZWxsb3IncyBDb21tZW5kYXRpb24gZm9yIG91dHN0YW5kaW5nIGRvY3RvcmFsIHJlc2VhcmNoLCBNYWNxdWFyaWUgVW5pdmVyc2l0eSwgMjAwMQ0KDQpBdXN0cmFsaWFuIFBvc3RncmFkdWF0ZSBBd2FyZCAodHVpdGlvbiBhbmQgc3RpcGVuZCksIE1hcmNoIDE5OTcgLSBNYXkgMjAwMCwgKCQ4OCwwMDApDQoNCk1pbHRob3JwZSBNZW1vcmlhbCBQcml6ZSBmb3IgZXhjZWxsZW5jZSBpbiB1bmRlcmdyYWR1YXRlIHBsYW50IGJpb2xvZ3ksIE1hY3F1YXJpZSBVbml2ZXJzaXR5LCAxOTkzDQoNCg0KDQpHcmFudHMgYW5kIEZ1bmRpbmcNCg0KQXdhcmRlZA0KDQpUaGUgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBDaGFyYWN0ZXJpemF0aW9uIG9mIEFwaGlkIE51dHJpZW50IEFtaW5vIEFjaWQgVHJhbnNwb3J0ZXJzIHdpdGggRm9jdXMgb24gdGhlIFN5bWJpb3RpYyBJbnRlcmZhY2UsIFBJOiBXaWxzb24sIENvUEk6IFByaWNlLCAyMDExLTIwMTQgKCQ1MzUsNDExKQ0KDQpVU0RBIEFydGhyb3BvZCBhbmQgTmVtYXRvZGUgQmlvbG9neSBhbmQgTWFuYWdlbWVudDogU3Vib3JnYW5pc21hbCBCaW9sb2d5LCBQcm9ncmFtIENvZGUgOTExMTIsIEZ1bmN0aW9uYWwgQW5hbHlzaXMgb2YgUHJvdGVpbnMgYW5kIE1ldGFib2xpdGVzIGluIEFwaGlkIFNhbGl2YSwgUEQ6IEphbmRlciwgQ28tUEQ6IFdpbHNvbiwgMjAxMC0yMDEzICgkMzk1LDQ1MykNCg0KVW5pdmVyc2l0eSBvZiBNaWFtaSBHZW5lcmFsIFJlc2VhcmNoIFN1cHBvcnQgQXdhcmQgaW4gdGhlIE5hdHVyYWwgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcgMjAwOSAoJDYsMDAwKQ0KDQpVbml2ZXJzaXR5IG9mIE1pYW1pIFN1bW1lciBBd2FyZCBpbiB0aGUgTmF0dXJhbCBTY2llbmNlcyBhbmQgRW5naW5lZXJpbmcsIDIwMDgsICgkOSwzMDApDQoNClRoZSBBbWVyaWNhbiBHZW5ldGljIEFzc29jaWF0aW9uIFNwZWNpYWwgRXZlbnQgQXdhcmQsIFBlYSBBcGhpZCBHZW5vbWUgQW5ub3RhdGlvbiBXb3Jrc2hvcCBJLCAyMDA3LTIwMDggKCQ5LDAwMCkNCg0KVVNEQSBUb29scywgUmVzb3VyY2VzIGFuZCBHZW5vbWljcyBmb3IgQXJ0aHJvcG9kcyBhbmQgTmVtYXRvZGVzLCBQZWEgQXBoaWQgR2Vub21lIEFubm90YXRpb24gV29ya3Nob3AgSSwgMjAwOCAoJDEwLDAwMCkNCg0KUGF1bCBhbmQgTWF4aW5lIEZyb2hyaW5nIEZvdW5kYXRpb24gKCQzLDAwMCkNCg0KVW5pdmVyc2l0eSBvZiBNaWFtaSBHZW5lcmFsIFJlc2VhcmNoIFN1cHBvcnQgQXdhcmQgaW4gdGhlIE5hdHVyYWwgU2NpZW5jZXMgYW5kIEVuZ2luZWVyaW5nLCAyMDA3ICgkNCw5MTkpDQoNClVuaXZlcnNpdHkgb2YgTWlhbWkgU3VtbWVyIEF3YXJkIGluIHRoZSBOYXR1cmFsIFNjaWVuY2VzIGFuZCBFbmdpbmVlcmluZywgMjAwNywgKCQ5LDMwMCkNCg0KVVNEQSBGdW5jdGlvbmFsIEdlbm9taWNzIG9mIEFncmljdWx0dXJhbGx5IEltcG9ydGFudCBPcmdhbmlzbXMsIE1pY3JvYXJyYXkgYW5hbHlzaXMgb2YgYWdyaWN1bHR1cmFsbHkgcmVsZXZhbnQgZ2VuZSBleHByZXNzaW9uIGluIHRoZSBwZWFjaC1wb3RhdG8gYXBoaWQsIE15enVzIHBlcnNpY2FlLCBQRDogSmFuZGVyLCBDby1QRHM6IE1vcmFuLCBXaWxzb24gJiBHcmF5LCAyMDA1LTIwMDkgKCQ5MDAsMDAwKQ0KDQpDZW50ZXIgZm9yIFBvcHVsYXRpb24gQmlvbG9neSBQb3N0ZG9jdG9yYWwgVHJhdmVsIEF3YXJkLCAyMDAzICgkMSwwMDApDQoNCg0KDQpEZWNsaW5lZA0KDQpVU0RBLU5JRkEgRm91bmRhdGlvbmFsIFByb2dyYW0sIFBsYW50IEhlYWx0aCBhbmQgUHJvZHVjdGlvbiBhbmQgUGxhbnQgUHJvZHVjdHMgYi4gUGVzdCBhbmQgQmVuZWZpY2lhbCBJbnNlY3RzIGluIFBsYW50IFN5c3RlbXMsIFByb2dyYW0gQ29kZTogQTExMTEsIEZ1bmN0aW9uYWwgQW5hbHlzaXMgb2YgQW1pbm8gQWNpZCBUcmFuc3BvcnRlcnMgYXQgdGhlIFN5bWJpb3RpYyBJbnRlcmZhY2UgaW4gQXBoaWRzIHRoYXQgQ2F1c2UgRGlyZWN0IEZlZWRpbmcgRGFtYWdlLCBQRDogV2lsc29uLCAyMDExLTIwMTQgKCQ0ODksMTg5KQ0KDQpUaGUgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBDaGFyYWN0ZXJpemF0aW9uIG9mIEFwaGlkIE51dHJpZW50IEFtaW5vIEFjaWQgVHJhbnNwb3J0ZXJzIHdpdGggRm9jdXMgb24gdGhlIFN5bWJpb3RpYyBJbnRlcmZhY2UsIFBJOiBXaWxzb24sIENvUEk6IFByaWNlLCAyMDExLTIwMTQgKCQ1MzUsMDMzKQ0KDQpUaGUgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBHZW5vbWUgRXZvbHV0aW9uIGluIGEgQ3ljbGljYWxseSBQYXJ0aGVub2dlbmV0aWMgSW5zZWN0IHdpdGggYSBDb21wbGV0ZWx5IFNlcXVlbmNlZCBHZW5vbWUsIFBJOiBXaWxzb24sIENvLVBJczogSGVkZ2VzLCBKb2huc3RvbiBhbmQgUGFwYW1pY2hhaWwsIDIwMTAtMjAxMywgKCQ1ODYsOTI2KQ0KDQpVbml2ZXJzaXR5IG9mIE1pYW1pIEludGVyZGlzY2lwbGluYXJ5IFJlc2VhcmNoIERldmVsb3BtZW50IEluaXRpYXRpdmUsIDIwMDgsIERldmVsb3BtZW50IGFuZCBBcHBsaWNhdGlvbiBvZiBhIE5vdmVsIG5leHQgR2VuZXJhdGlvbiBTZXF1ZW5jaW5nIEFwcHJvYWNoIGZvciBFbHVjaWRhdGluZyB0aGUgRXZvbHV0aW9uIG9mIEdlbm9tZSBBcmNoaXRlY3R1cmUsIENvLVBJcyBXaWxzb24sIEhlZGdlcyBhbmQgUGFwYW1pY2hhaWwsICgkODgsNTQ3KQ0KDQpUaGUgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBHZW5vbWUgRXZvbHV0aW9uIGluIGEgQ3ljbGljYWxseSBQYXJ0aGVub2dlbmV0aWMgSW5zZWN0IHdpdGggYSBDb21wbGV0ZWx5IFNlcXVlbmNlZCBHZW5vbWUsIFBJOiBXaWxzb24sIENvLVBJczogSGVkZ2VzLCBKb2huc3RvbiBhbmQgUGFwYW1pY2hhaWwsIDIwMDktMjAxMSwgKCQ1NjcsMzg2KQ0KDQpVbml2ZXJzaXR5IG9mIE1pYW1pIEdlbmVyYWwgUmVzZWFyY2ggU3VwcG9ydCBBd2FyZCBpbiB0aGUgTmF0dXJhbCBTY2llbmNlcyBhbmQgRW5naW5lZXJpbmcsIDIwMDggKCQ2LDUwMCkNCg0KVGhlIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiwgQXNwZWN0cyBvZiBHZW5vbWUgRXZvbHV0aW9uIGluIGEgQ3ljbGljYWxseSBQYXJ0aGVub2dlbmV0aWMgSW5zZWN0IHdpdGggYSBDb21wbGV0ZWx5IFNlcXVlbmNlZCBHZW5vbWUsIFBJOiBXaWxzb24sIENvLVBJOiBKb2huc3RvbiwgMjAwOC0yMDEwLCAoJDQzOSwxNDUpDQoNCg0KDQpSZXNlYXJjaCBJbnRlcmVzdHMNCg0KR2Vub21lIEV2b2x1dGlvbjsgU3ltYmlvc2lzOyBFdm9sdXRpb24gb2YgU2V4OyBBcGhpZCBCaW9sb2d5OyBBcGhpZCBHZW5ldGljcy4NCg0KDQoNClB1YmxpY2F0aW9ucyAoaC1pbmRleDogMTUsIFRvdGFsIGNpdGF0aW9uczogNzM1LCBBdmVyYWdlIGNpdGF0aW9ucyBwZXIgYXJ0aWNsZTogMjk7IEpvdXJuYWwgSW1wYWN0IEZhY3RvcnMgYXJlIHJlcG9ydGVkIGZyb20gdGltZSBvZiBwdWJsaWNhdGlvbikNCg0KRHVuY2FuIFIuIFAuLCBOYXRoYW5zb24gTC4sIFdpbHNvbiBBLiBDLiBDLiAoaW4gcmV2aWV3KSBOb3ZlbCBtYWxlLWJpYXNlZCBleHByZXNzaW9uIGluIHBhcmFsb2dzIG9mIHRoZSBhcGhpZCBzbGltZmFzdCBudXRyaWVudCBhbWlubyBhY2lkIHRyYW5zcG9ydGVyIGV4cGFuc2lvbi4gQk1DIEV2b2x1dGlvbmFyeSBCaW9sb2d5Lg0KDQoyOC4gUHJpY2UgRC4gUi4gRy4sIER1bmNhbiBSLiBQLiwgU2hpZ2Vub2J1IFMsIFdpbHNvbiBBLiBDLiBDLiAoMjAxMSkgR2Vub21lIGV4cGFuc2lvbiBhbmQgZGlmZmVyZW50aWFsIGV4cHJlc3Npb24gb2YgYW1pbm8gYWNpZCB0cmFuc3BvcnRlcnMgYXQgdGhlIGFwaGlkL0J1Y2huZXJhIHN5bWJpb3RpYyBpbnRlcmZhY2UuIE1vbGVjdWxhciBCaW9sb2d5IGFuZCBFdm9sdXRpb24uIEluIHByZXNzLg0KDQoyNy4gV2lsc29uIEFDQywgU3Rlcm5iZXJnIExkU0wsIEh1cmxleSBLQiAoMjAxMSkgQXBoaWRzIGFsdGVyIGhvc3QtcGxhbnQgbml0cm9nZW4gaXNvdG9wZSBmcmFjdGlvbmF0aW9uLiBQcm9jZWVkaW5ncyBvZiB0aGUgTmF0aW9uYWwgQWNhZGVteSBvZiBTY2llbmNlcyBvZiB0aGUgVW5pdGVkIFN0YXRlcyBvZiBBbWVyaWNhIDEwOCgyNSk6MTAyMjAtMTAyMjQuIChJbXBhY3QgRmFjdG9yOiA5LjQzMikNCg0KMjYuIEdlcmFyZG8gTk0sIFdpbHNvbiBBLiBDLiBDLiwgMjAxMSBUaGUgcG93ZXIgb2YgcGFpcmVkIGdlbm9tZXMuIE1vbGVjdWxhciBFY29sb2d5LiAyMCgxMCk6IDIwMzgtMjA0MC4gKEltcGFjdCBGYWN0b3I6IDUuOTYwKQ0KDQoyNS4gU2hpZ2Vub2J1IFMsIFdpbHNvbiBBLiBDLiBDLiwgMjAxMSBHZW5vbWljIHJldmVsYXRpb25zIG9mIGEgbXV0dWFsaXNtOiB0aGUgcGVhIGFwaGlkIGFuZCBpdHMgb2JsaWdhdGUgYmFjdGVyaWFsIHN5bWJpb250LiBDZWxsdWxhciBhbmQgTW9sZWN1bGFyIExpZmUgU2NpZW5jZXMsIDY4OjEyOTctMTMwOS4gKEltcGFjdCBGYWN0b3I6IDYuMDkwLCBDaXRlZCBvbmNlKQ0KDQoyNC4gWmVwZWRhLVBhdWxvLCBGLiBBLiwgU2ltb24sIEouLUMuLCBSYW3DrXJleiwgQy4gQy4sIEZ1ZW50ZXMtQ29udHJlcmFzLCBFLiwgTWFyZ2FyaXRvcG91bG9zLCBKLiBULiwgU29yZW5zb24sIEMuIEUuLCBXaWxzb24sIEEuIEMuIEMuLCBCcmlvbmVzLCBMLiBNLiwgRGUgQWNldmVkbywgUi4sIE9oYXNoaSwgRC4gVi4sIExhY3JvaXgsIEMuLCBHbGFpcywgTC4gJiBGaWd1ZXJvYSwgQy4gQy4gKDIwMTApIFRoZSBJbnZhc2lvbiBSb3V0ZSBmb3IgYW4gSW5zZWN0IFBlc3QgU3BlY2llczogdGhlIFRvYmFjY28gQXBoaWQgaW4gdGhlIE5ldyBXb3JsZC4gTW9sZWN1bGFyIEVjb2xvZ3ksIDE5OjQ3MzgtNDc1Mi4gKEltcGFjdCBGYWN0b3I6IDUuOTYwKQ0KDQoyMy4gSW50ZXJuYXRpb25hbCBBcGhpZCBHZW5vbWljcyBDb25zb3J0aXVtLCAyMDEwIEdlbm9tZSBzZXF1ZW5jZSBvZiB0aGUgcGVhIGFwaGlkIEFjeXJ0aG9zaXBob24gcGlzdW0uIFBMb1MgQmlvbG9neSwgOCgyKTplMTAwMDMxMy4gICoqTWVtYmVyIG9mIFByb2plY3QgTGVhZGVyc2hpcCBUZWFtLCBMZWFkZXIgb2YgU2V4IERldGVybWluYXRpb24gVGVhbSwgTWVtYmVyIG9mIE1ldGFib2xpc20gYW5kIFRyYW5zcG9zYWJsZSBFbGVtZW50IFRlYW1zLiAoSW1wYWN0IEZhY3RvcjogMTIuNjgzLCBDaXRlZCAzOCB0aW1lcykNCg0KMjIuIFdpbHNvbiwgQS4gQy4gQy4sIFAuIEFzaHRvbiwgRi4gQ2FsZXZybywgQy4gSHViZXJ0LCBTLiBDb2xlbGxhLCBHLiBGZWJ2YXksIEcuIEphbmRlciwgUC4gRi4gS3VzaGxhbiwgUy4gSi4gTWFjZG9uYWxkLCBKLiBGLiBTY2h3YXJ0eiwgRy4gSC4gVGhvbWFzIGFuZCBBLiBFLiBEb3VnbGFzLCAyMDEwIEdlbm9taWMgaW5zaWdodCBpbnRvIHRoZSBhbWlubyBhY2lkIHJlbGF0aW9ucyBvZiB0aGUgcGVhIGFwaGlkIEFjeXJ0aG9zaXBob24gcGlzdW0gd2l0aCBpdHMgc3ltYmlvdGljIGJhY3Rlcml1bSBCdWNobmVyYSBhcGhpZGljb2xhLiBJbnNlY3QgTW9sZWN1bGFyIEJpb2xvZ3ksIDE5IChTdXBwbC4gMik6MjQ5LTI1OC4gKEltcGFjdCBGYWN0b3I6IDIuODcxLCBDaXRlZCA4IHRpbWVzKQ0KDQoyMS4gTGVnZWFpLCBGLiwgUy4gU2hpZ2Vub2J1LCBKLi1QLiBHYXV0aGllciwgSi4gSy4gQ29sYm91cm5lLCBDLiBSaXNwZSwgTy4gQ29sbGluLCBTLiBSaWNoYXJkcywgQS4gQy4gQy4gV2lsc29uLCBNdXJwaHksIFQuIGFuZCBELiBUYWd1LCAyMDEwIEFwaGlkQmFzZTogQSBjZW50cmFsaXplZCBiaW9pbmZvcm1hdGljIHJlc291cmNlIGZvciBhbm5vdGF0aW9uIG9mIHRoZSBwZWEgYXBoaWQgZ2Vub21lLiBJbnNlY3QgTW9sZWN1bGFyIEJpb2xvZ3ksIDE5IChTdXBwbC4gMik6NS0xMi4gKEltcGFjdCBGYWN0b3I6IDIuODcxLCBDaXRlZCA2IHRpbWVzKQ0KDQoyMC4gUmFtc2V5LCBKLiBTLiwgQS4gQy4gQy4gV2lsc29uLCBNLiBEZSBWb3MsIFEuIFN1biwgQy4gVGFtYm9yaW5kZWd1eSwgQS4gV2luZmllbGQsIEcuIE1hbGxvY2gsIEQuIE0uIFNtaXRoLCBCLiBGZW50b24sIFMuIE0uIEdyYXkgYW5kIEcuIEphbmRlciwgMjAwNyBHZW5vbWljIHJlc291cmNlcyBmb3IgTXl6dXMgcGVyc2ljYWU6IEVTVCBzZXF1ZW5jaW5nLCBTTlAgaWRlbnRpZmljYXRpb24sIGFuZCBtaWNyb2FycmF5IGRlc2lnbi4gQk1DIEdlbm9taWNzIDg6IDQyMyAoSW1wYWN0IEZhY3RvcjogNC4wMywgQ2l0ZWQgMTYgdGltZXMpDQoNCjE5LiBEdW5iYXIsIEguIEUuLCBBLiBDLiBDLiBXaWxzb24sIE4uIFIuIEZlcmd1c29uLCBhbmQgTi4gQS4gTW9yYW4sIDIwMDcgQXBoaWQgdGhlcm1hbCB0b2xlcmFuY2UgaXMgZ292ZXJuZWQgYnkgYSBwb2ludCBtdXRhdGlvbiBpbiBiYWN0ZXJpYWwgc3ltYmlvbnRzLiBQTG9TIEJpb2xvZ3kgNTplOTYgKEltcGFjdCBGYWN0b3I6IDE0LjEwMSwgQ2l0ZWQgNDAgdGltZXMpDQoNCjE4LiBXaWxzb24sIEEuIEMuIEMuLCBhbmQgUC4gU3VubnVja3MsIDIwMDYgVGhlIGdlbmV0aWMgb3V0Y29tZXMgb2Ygc2V4IGFuZCByZWNvbWJpbmF0aW9uIGluIGxvbmctdGVybSBmdW5jdGlvbmFsbHkgcGFydGhlbm9nZW5ldGljIGxpbmVhZ2VzIG9mIEF1c3RyYWxpYW4gU2l0b2Jpb24gYXBoaWRzLiBHZW5ldGljYWwgUmVzZWFyY2gsIENhbWJyaWRnZSA4NzoxNzUtMTg1IChJbXBhY3QgRmFjdG9yOiAyLjAwMCwgQ2l0ZWQgNiB0aW1lcykNCg0KMTcuIFdpbHNvbiwgQS4gQy4gQy4sIEguIEUuIER1bmJhciwgRy4gSy4gRGF2aXMsIFcuIEIuIEh1bnRlciwgRC4gTC4gU3Rlcm4gYW5kIE4uIEEuIE1vcmFuLCAyMDA2IEEgZHVhbC1nZW5vbWUgbWljcm9hcnJheSBmb3IgdGhlIHBlYSBhcGhpZCwgQWN5cnRob3NpcGhvbiBwaXN1bSwgYW5kIGl0cyBvYmxpZ2F0ZSBzeW1iaW9udCwgQnVjaG5lcmEgYXBoaWRpY29sYS4gQk1DIEdlbm9taWNzLCA3OjUwIChJbXBhY3QgRmFjdG9yOiA0LjAzLCBDaXRlZCAyNyB0aW1lcykNCg0KMTYuIFdpbHNvbiwgQS4gQy4gQy4sIFAuIFN1bm51Y2tzLCBELiBHLiBCZWRvIGFuZCBKLiBTLiBGLiBCYXJrZXIsIDIwMDYgTWljcm9zYXRlbGxpdGVzIHJldmVhbCBtYWxlIHJlY29tYmluYXRpb24gYW5kIG5lby1ZIGZvcm1hdGlvbiBpbiBTY2FwdG9kcm9zb3BoaWxhIGhpYmlzY2kgKERyb3NvcGhpbGlkYWUpLiBHZW5ldGljYWwgUmVzZWFyY2gsIENhbWJyaWRnZSA4NzozMy00My4gKEltcGFjdCBGYWN0b3I6IDIuMDAwLCBDaXRlZCB0d2ljZSkNCg0KMTUuIFdpbHNvbiwgQS4gQy4gQy4sIGFuZCBSLiBLLiBHcm9zYmVyZywgMjAwNCBPbnRvZ2VuZXRpYyBzaGlmdHMgaW4gZnVzaW9uLXJlamVjdGlvbiB0aHJlc2hvbGRzIGluIGEgY29sb25pYWwgbWFyaW5lIGh5ZHJvem9hbiwgSHlkcmFjdGluaWEgc3ltYmlvbG9uZ2ljYXJwdXMuIEJlaGF2aW9yYWwgRWNvbG9neSBhbmQgU29jaW9iaW9sb2d5IDU3OjQwLTQ5LiAoSW1wYWN0IEZhY3RvcjogMi4zMTYsIENpdGVkIDcgdGltZXMpDQoNCjE0LiBXaWxzb24sIEEuIEMuIEMuLCBCLiBNYXNzb25uZXQsIEouLUMuIFNpbW9uLCBOLiBQcnVuaWVyLUxldGVybWUsIEwuIERvbGF0dGkgZXQgYWwuLCAyMDA0IENyb3NzLXNwZWNpZXMgYW1wbGlmaWNhdGlvbiBvZiBtaWNyb3NhdGVsbGl0ZSBsb2NpIGluIGFwaGlkczogYXNzZXNzbWVudCBhbmQgYXBwbGljYXRpb24uIE1vbGVjdWxhciBFY29sb2d5IE5vdGVzIDQ6IDEwNC0xMDkuIChJbXBhY3QgRmFjdG9yOiAxLjIyMCwgQ2l0ZWQgNDggdGltZXMpDQoNCjEzLiBXaWxzb24sIEEuIEMuIEMuLCBQLiBTdW5udWNrcyBhbmQgRC4gRi4gSGFsZXMsIDIwMDMgSGVyaXRhYmxlIGdlbmV0aWMgdmFyaWF0aW9uIGFuZCBwb3RlbnRpYWwgZm9yIGFkYXB0aXZlIGV2b2x1dGlvbiBpbiBhc2V4dWFsIGFwaGlkcyAoQXBoaWRvaWRlYSkuIEJpb2xvZ2ljYWwgSm91cm5hbCBvZiB0aGUgTGlubmVhbiBTb2NpZXR5IDc5OiAxMTUtMTM1LiAoSW1wYWN0IEZhY3RvcjogMi40NDUsIENpdGVkIDUyIHRpbWVzKQ0KDQoxMi4gV2lsc29uLCBBLiBDLiBDLiwgUC4gU3VubnVja3MgYW5kIEouIFMuIEYuIEJhcmtlciwgMjAwMi4gSXNvbGF0aW9uIGFuZCBjaGFyYWN0ZXJpemF0aW9uIG9mIDIwIHBvbHltb3JwaGljIG1pY3Jvc2F0ZWxsaXRlIGxvY2kgZm9yIFNjYXB0b2Ryb3NvcGhpbGEgaGliaXNjaS4gTW9sZWN1bGFyIEVjb2xvZ3kgTm90ZXMgMjogMjQyLTI0NC4gKEltcGFjdCBGYWN0b3I6IDEuMjIwLCBDaXRlZCAxMSB0aW1lcykNCg0KMTEuIFdpbHNvbiwgQS4gQy4gQy4sIFAuIFN1bm51Y2tzLCBSLiBMLiBCbGFja21hbiBhbmQgRC4gSGFsZXMsIDIwMDIuIE1pY3Jvc2F0ZWxsaXRlIHZhcmlhdGlvbiBpbiBjeWNsaWNhbGx5IHBhcnRoZW5vZ2VuZXRpYyBwb3B1bGF0aW9ucyBvZiBNeXp1cyBwZXJzaWNhZSBpbiBzb3V0aC1lYXN0ZXJuIEF1c3RyYWxpYS4gSGVyZWRpdHkgODg6IDI1OC0yNjYuIChJbXBhY3QgRmFjdG9yOiAyLjg3MiwgQ2l0ZWQgNDEgdGltZXMpDQoNCjEwLiBIYWxlcywgRC4gRi4sIEEuIEMuIEMuIFdpbHNvbiwgTS4gQS4gU2xvYW5lLCBKLi1DLiBTaW1vbiwgSi4tRi4gTGUgR2FsbGljIGV0IGFsLiwgMjAwMiBMYWNrIG9mIGRldGVjdGFibGUgZ2VuZXRpYyByZWNvbWJpbmF0aW9uIG9uIHRoZSBYIGNocm9tb3NvbWUgZHVyaW5nIHRoZSBwYXJ0aGVub2dlbmV0aWMgcHJvZHVjdGlvbiBvZiBmZW1hbGUgYW5kIG1hbGUgYXBoaWRzLiBHZW5ldGljYWwgUmVzZWFyY2gsIENhbWJyaWRnZSA3OTogMjAzLTIwOS4gKEltcGFjdCBGYWN0b3I6IDIuMDAwLCBDaXRlZCAxNiB0aW1lcykNCg0KOS4gSGFsZXMsIEQuIEYuLCBNLiBBLiBTbG9hbmUsIEEuIEMuIEMuIFdpbHNvbiBhbmQgUC4gU3VubnVja3MsIDIwMDIgU2VncmVnYXRpb24gb2YgYXV0b3NvbWVzIGR1cmluZyBzcGVybWF0b2dlbmVzaXMgaW4gdGhlIHBlYWNoLXBvdGF0byBhcGhpZCAoTXl6dXMgcGVyc2ljYWUpIChTdWx6ZXIpLCAoSGVtaXB0ZXJhOiBBcGhpZGlkYWUpLiBHZW5ldGljYWwgUmVzZWFyY2gsIENhbWJyaWRnZSA3OTogMTE5LTEyNy4gKEltcGFjdCBGYWN0b3I6IDIuMDAwLCBDaXRlZCA0IHRpbWVzKQ0KDQo4LiBFbGRyaWRnZSwgTS4gRC4gQi4sIEEuIEMuIEMuIFdpbHNvbiwgQy4gSi4gTWV0Y2FsZmUsIEEuIEUuIERvbGxpbiwgSi4gTi4gQmVsbCBldCBhbC4sIDIwMDEuIFRheG9ub215IG9mIHJvY2std2FsbGFiaWVzLCBQZXRyb2dhbGUgKE1hcnN1cGlhbGlhIDogTWFjcm9wb2RpZGFlKS4gSUlJLiBNb2xlY3VsYXIgZGF0YSBjb25maXJtcyB0aGUgc3BlY2llcyBzdGF0dXMgb2YgdGhlIHB1cnBsZS1uZWNrZWQgcm9jay13YWxsYWJ5IChQZXRyb2dhbGUgcHVycHVyZWljb2xsaXMgTGUgU291ZWYpLiBBdXN0cmFsaWFuIEpvdXJuYWwgb2YgWm9vbG9neSA0OTogMzIzLTM0My4gKEltcGFjdCBGYWN0b3I6IDAuOTMzLCBDaXRlZCAxMSB0aW1lcykNCg0KNy4gU2xvYW5lLCBNLiBBLiwgUC4gU3VubnVja3MsIEEuIEMuIEMuIFdpbHNvbiBhbmQgRC4gRi4gSGFsZXMsIDIwMDEuIE1pY3Jvc2F0ZWxsaXRlIGlzb2xhdGlvbiwgbGlua2FnZSBncm91cCBpZGVudGlmaWNhdGlvbiBhbmQgZGV0ZXJtaW5hdGlvbiBvZiByZWNvbWJpbmF0aW9uIGZyZXF1ZW5jeSBpbiB0aGUgcGVhY2gtcG90YXRvIGFwaGlkLCBNeXp1cyBwZXJzaWNhZSAoU3VsemVyKSAoSGVtaXB0ZXJhOiBBcGhpZGlkYWUpLiBHZW5ldGljYWwgUmVzZWFyY2gsIENhbWJyaWRnZSA3NzogMjUxLTI2MC4gKEltcGFjdCBGYWN0b3I6IDIuMDAwLCBDaXRlZCA0NCB0aW1lcykNCg0KNi4gU3VubnVja3MsIFAuLCBBLiBDLiBDLiBXaWxzb24sIEwuIEIuIEJlaGVyZWdhcmF5LCBLLiBaZW5nZXIsIEouIEZyZW5jaCBldCBhbC4sIDIwMDAuIFNTQ1AgaXMgbm90IHNvIGRpZmZpY3VsdDogdGhlIGFwcGxpY2F0aW9uIGFuZCB1dGlsaXR5IG9mIHNpbmdsZS1zdHJhbmRlZCBjb25mb3JtYXRpb24gcG9seW1vcnBoaXNtIGluIGV2b2x1dGlvbmFyeSBiaW9sb2d5IGFuZCBtb2xlY3VsYXIgZWNvbG9neS4gTW9sZWN1bGFyIEVjb2xvZ3kgOTogMTY5OS0xNzEwLiAoSW1wYWN0IEZhY3RvcjogNC44MjUsIENpdGVkIDIxMyB0aW1lcykNCg0KNS4gSGFsZXMsIEQuLCBBLiBDLiBDLiBXaWxzb24sIEouIE0uIFNwZW5jZSBhbmQgUi4gTC4gQmxhY2ttYW4sIDIwMDAuIENvbmZpcm1hdGlvbiB0aGF0IE15enVzIGFudGlycmhpbmlpIChNYWNjaGlhdGkpIChIZW1pcHRlcmE6IEFwaGlkaWRhZSkgb2NjdXJzIGluIEF1c3RyYWxpYSwgdXNpbmcgbW9ycGhvbWV0cmljcywgbWljcm9zYXRlbGxpdGUgdHlwaW5nLCBhbmQgYW5hbHlzaXMgb2Ygbm92ZWwga2FyeW90eXBlcyBieSBmbHVvcmVzY2VuY2UgaW4gc2l0dSBoeWJyaWRpc2F0aW9uLiBBdXN0cmFsaWFuIEpvdXJuYWwgb2YgRW50b21vbG9neSAzOTogMTIzLTEyOS4gKEltcGFjdCBGYWN0b3I6IDAuNzI3LCBDaXRlZCAxOCB0aW1lcykuDQoNCjQuIFdpbHNvbiwgQS4gQy4gQy4sIFAuIFN1bm51Y2tzIGFuZCBELiBGLiBILiBIYWxlcywgMTk5OS4gTWljcm9ldm9sdXRpb24sIGxvdyBjbG9uYWwgZGl2ZXJzaXR5IGFuZCBnZW5ldGljIGFmZmluaXRpZXMgb2YgcGFydGhlbm9nZW5ldGljIFNpdG9iaW9uIGFwaGlkcyBpbiBOZXcgWmVhbGFuZC4gTW9sZWN1bGFyIEVjb2xvZ3kgODogMTY1NS0xNjY2LiAoSW1wYWN0IEZhY3RvcjogNC44MjUsIENpdGVkIDYzIHRpbWVzKQ0KDQozLiBUZXJyYWRvdCwgTC4sIEouLUMuIFNpbW9uLCBOLiBMZXRlcm1lLCBELiBCb3VyZGluLCBBLiBDLiBDLiBXaWxzb24gZXQgYWwuLCAxOTk5LiBNb2xlY3VsYXIgY2hhcmFjdGVyaXphdGlvbiBvZiBjbG9uZXMgb2YgdGhlIE15enVzIHBlcnNpY2FlIGNvbXBsZXggKEhlbWlwdGVyYTogQXBoaWRpZGFlKSBkaWZmZXJpbmcgaW4gdGhlaXIgYWJpbGl0eSB0byB0cmFuc21pdCB0aGUgcG90YXRvIGxlYWZyb2xsIGx1dGVvdmlydXMgKFBMUlYpLiBCdWxsZXRpbiBvZiBFbnRvbW9sb2dpY2FsIFJlc2VhcmNoIDg5OiAzNTUtMzYzLiAoSW1wYWN0IEZhY3RvcjogMi4wNDYsIENpdGVkIDI4IHRpbWVzKQ0KDQoyLiBTdW5udWNrcywgUC4sIGFuZCBBLiBDLiBDLiBXaWxzb24sIDE5OTkuIE1pY3Jvc2F0ZWxsaXRlIG1hcmtlcnMgZm9yIHRoZSBvbnljaG9waG9yYW4gRXVwZXJpcGF0b2lkZXMgcm93ZWxpaS4gTW9sZWN1bGFyIEVjb2xvZ3kgODogODk5LTkwMC4gKEltcGFjdCBGYWN0b3I6IDQuODI1LCBDaXRlZCAxNiB0aW1lcykNCg0KMS4gV2lsc29uLCBBLiBDLiBDLiwgUC4gU3VubnVja3MgYW5kIEQuIEYuIEhhbGVzLCAxOTk3IFJhbmRvbSBsb3NzIG9mIFggY2hyb21vc29tZSBhdCBtYWxlIGRldGVybWluYXRpb24gaW4gYW4gYXBoaWQsIFNpdG9iaW9uIG5lYXIgZnJhZ2FyaWFlLCBkZXRlY3RlZCB1c2luZyBhbiBYLWxpbmtlZCBwb2x5bW9ycGhpYyBtaWNyb3NhdGVsbGl0ZSBtYXJrZXIuIEdlbmV0aWNhbCBSZXNlYXJjaCwgQ2FtYnJpZGdlIDY5OiAyMzMtMjM2LiAoSW1wYWN0IEZhY3RvcjogMi4wMDAsIENpdGVkIDI3IHRpbWVzKQ0KDQoNCg0KRGlzc2VydGF0aW9uICYgVGhlc2VzDQoNCldpbHNvbiwgQS4gQy4gQy4sIDIwMDAuIFJlcHJvZHVjdGl2ZSBzdHJhdGVneSBhbmQgZ2VuZXRpYyB2YXJpYXRpb24gaW4gYXBoaWRzIG9mIHRoZSBnZW5lcmEgU2l0b2Jpb24gYW5kIE15enVzLiBQaEQgdGhlc2lzLCBNYWNxdWFyaWUgVW5pdmVyc2l0eSwgQXVzdHJhbGlhLg0KDQpXaWxzb24sIEEuIEMuIEMuLCAxOTk0LiBBbmFseXNpcyBvZiBtaXRvY2hvbmRyaWFsIEROQSBELWxvb3Agc2VxdWVuY2Ugb2YgYmxhY2stZm9vdGVkIHJvY2std2FsbGFiaWVzLiBIb25vdXJzIHRoZXNpcywgTWFjcXVhcmllIFVuaXZlcnNpdHksIEF1c3RyYWxpYS4NCg0KV2lsc29uLCBBLiBDLiBDLiwgMTk5NC4gQ2hsb3JvcGh5bGwgdHVybm92ZXIgaW4gbGlnaHQtZ3Jvd24gRmVzdHVjYSBwcmF0ZW5zaXMgdHJhbnNmZXJyZWQgdG8gZGFya25lc3M6IGVmZmVjdCBvZiBjaGxvcm9waHlsbCBhbmQgcHJvdGVpbiBzeW50aGVzaXMgaW5oaWJpdG9ycy4gSG9ub3VycyB0aGVzaXMsIE1hY3F1YXJpZSBVbml2ZXJzaXR5LCBBdXN0cmFsaWEuDQoNCg0KDQoNCg0KSW52aXRlZCBTeW1wb3NpdW0gU3BlYWtlcg0KDQo1dGggQW5udWFsIEFydGhyb3BvZCBHZW5vbWljcyBTeW1wb3NpdW06IEV4cGxvcmluZyBEaXZlcnNpdHksIFJlbGF0aW5nIFNpbWlsYXJpdHksIEZlYXR1cmVkIFNwZWFrZXIsIEthbnNhcyBDaXR5LCBNTywgVVNBIChKdW5lIDIwMTEpDQoNCkRpdmVyc2l0eSBhbmQgRnVuY3Rpb24gb2YgTWljcm9iaWFsIFN5bWJpb3NlcyBpbiBTb2xpdGFyeSBhbmQgU29jaWFsIEluc2VjdHMgU3ltcG9zaXVtIFNwZWFrZXIsIEVudG9tb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhLCBTYW4gRGVpZ28sIENBLCBVU0EgKERlY2VtYmVyIDIwMTApIChkZWNsaW5lZCBiZWNhdXNlIG9mIG1hdGVybml0eSBsZWF2ZSAtIHRhbGsgcHJlc2VudGVkIGJ5IHBvc3Rkb2MgRGFuaWVsIFByaWNlKQ0KDQpUaGUgUm9sZSBvZiBNaWNyb29yZ2FuaXNtcyBpbiB0aGUgRWNvbG9neSBhbmQgRXZvbHV0aW9uIG9mIFRyaS1Ucm9waGljIEludGVyYWN0aW9ucyBPcmdhbml6ZWQgT3JhbCBTZXNzaW9uIFNwZWFrZXIsIEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhLCBQaXR0c2J1cmdoLCBQQSwgVVNBIChBdWd1c3QgMjAxMCkNCg0KQ2VsZWJyYXRpbmcgdGhlIFJvbGUgb2YgRW50b21vbG9neSBpbiB0aGUgR2Vub21pY3MgUmV2b2x1dGlvbiBTeW1wb3NpdW0gU3BlYWtlciwgRW50b21vbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EsIEluZGlhbmFwb2xpcywgSW5kaWFuYSwgVVNBIChEZWNlbWJlciAyMDA5KQ0KDQpLZXlub3RlIFNwZWFrZXIsIFJveWFsIEVudG9tb2xvZ2ljYWwgU29jaWV0eSBBcGhpZCBTcGVjaWFsIEludGVyZXN0IEdyb3VwLCBSb3RoYW1zdGVkLCBVSyAoTm92ZW1iZXIgMjAwOSkNCg0KS2V5bm90ZSBTcGVha2VyLCBSb3lhbCBFbnRvbW9sb2dpY2FsIFNvY2lldHkgQXBoaWQgU3BlY2lhbCBJbnRlcmVzdCBHcm91cCwgRWRpbmJ1cmdoLCBTY290bGFuZCAoQXVndXN0IDIwMDgpIChpbnZpdGF0aW9uIGRlY2xpbmVkKQ0KDQpJbnRlcm5hdGlvbmFsIFdoaXRlZmx5IEdlbm9taWNzIFdvcmtzaG9wLCBIYXdrJ3MgQ2F5IFJlc29ydCwgRHVjayBLZXksIEZMIFVTQSAoRGVjZW1iZXIgMjAwNikNCg0KSm9pbnQgbWVldGluZyBvZiBUaGUgUm95YWwgRW50b21vbG9naWNhbCBTb2NpZXR5IGFuZCBUaGUgTGlubmVhbiBTb2NpZXR5IG9mIExvbmRvbiwgTG9uZG9uIFVLICgyMDAyKQ0KDQoNCg0KSW52aXRlZCBSZXNlYXJjaCBTZW1pbmFycw0KDQpEZXBhcnRtZW50IG9mIE1vbGVjdWxhciBhbmQgQ2VsbHVsYXIgUGhhcm1hY29sb2d5LCBVbml2ZXJzaXR5IG9mIE1pYW1pJ3MgTWlsbGVyIFNjaG9vbCBvZiBNZWRpY2luZSwgTWlhbWkgRkwgKEFwcmlsIDIwMTEpDQoNCkRlcGFydG1lbnQgb2YgQmlvbG9neSwgTGV3aXMgJiBDbGFyaywgUG9ydGxhbmQgT1IgKFNlcHRlbWJlciAyMDEwKQ0KDQpDZW50ZXIgZm9yIERpc2Vhc2UtVmVjdG9yIFJlc2VhcmNoLCBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEgYXQgUml2ZXJzaWRlIChNYXkgMjAwOSkNCg0KSW5zdGl0dXRlIG9mIFpvb2xvZ3ksIFVuaXZlcnNpdHkgb2YgWnVyaWNoLCBTd2l0emVybGFuZCAoTWFyY2ggMjAwOCkNCg0KRGVwYXJ0bWVudCBvZiBFbnRvbW9sb2d5LCBVbml2ZXJzaXR5IG9mIEZsb3JpZGEsIEdhaW5lc3ZpbGxlIEZsb3JpZGEgKE5vdmVtYmVyIDIwMDcpDQoNCkRlcGFydG1lbnQgb2YgRW50b21vbG9neSwgUHVyZHVlIFVuaXZlcnNpdHksIFdlc3QgTGFmYXlldHRlIEluZGlhbmEgKEF1Z3VzdCAyMDA3KQ0KDQpEZXBhcnRtZW50IG9mIEJvdGFueSBhbmQgWm9vbG9neSwgVGhlIEF1c3RyYWxpYW4gTmF0aW9uYWwgVW5pdmVyc2l0eSAoMjAwNSkNCg0KRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBVbml2ZXJzaXR5IG9mIE1pYW1pICgyMDA1KQ0KDQpTY2hvb2wgb2YgQmlvbG9naWNhbCBTY2llbmNlcywgVW5pdmVyc2l0eSBvZiBOZWJyYXNrYSBhdCBMaW5jb2xuICgyMDA0KQ0KDQpEaXZpc2lvbiBvZiBFbnRvbW9sb2d5LCBDU0lSTywgQ2FuYmVycmEgQXVzdHJhbGlhICgyMDA0KQ0KDQpEZXBhcnRtZW50IG9mIEdlbmV0aWNzLCBVbml2ZXJzaXR5IG9mIE1lbGJvdXJuZSwgQXVzdHJhbGlhICgyMDA0KQ0KDQpEZXBhcnRtZW50IG9mIEdlbmV0aWNzLCBMYSBUcm9iZSBVbml2ZXJzaXR5ICgyMDAzKQ0KDQpEaXZpc2lvbiBvZiBCb3RhbnkgYW5kIFpvb2xvZ3ksIFRoZSBBdXN0cmFsaWFuIE5hdGlvbmFsIFVuaXZlcnNpdHkgKDIwMDEpDQoNCkNlbnRlciBmb3IgUG9wdWxhdGlvbiBCaW9sb2d5LCBVQyBEYXZpcyAoMjAwMCkNCg0KRGVwYXJ0bWVudCBvZiBFbnRvbW9sb2d5LCBVQyBEYXZpcyAoMjAwMCkNCg0KSW5zdGl0dXQgTmF0aW9uYWwgZGUgbGEgUmVjaGVyY2hlIEFncm9ub21pcXVlLCBMZSBSaGV1LCBGcmFuY2UgKDE5OTkpDQoNClRoZSBOYXR1cmFsIEhpc3RvcnkgTXVzZXVtLCBMb25kb24gKDE5OTkpDQoNClRoZSBFbnRvbW9sb2dpY2FsIFNvY2lldHkgb2YgTmV3IFNvdXRoIFdhbGVzLCBBdXN0cmFsaWEgKDE5OTkpDQoNCg0KDQpDb250cmlidXRlZCBPcmFsIFByZXNlbnRhdGlvbnMgKHNpbmNlIDIwMDkpDQoNCldpbHNvbiwgQS4gQy4gQy4sIFAuIEFzaHRvbiwgRi4gQ2FsZXZybywgQy4gSHViZXJ0LCBTLiBDb2xlbGxhLCBHLiBGZWJ2YXksIEcuIEphbmRlciwgUC4gRi4gS3VzaGxhbuKAoSwgUy4gSi4gTWFjZG9uYWxkLCBKLiBGLiBTY2h3YXJ0euKAoSwgRy4gSC4gVGhvbWFzIGFuZCBBLiBFLiBEb3VnbGFzLiBHZW5vbWljIGluc2lnaHQgaW50byB0aGUgYW1pbm8gYWNpZCByZWxhdGlvbnMgb2YgdGhlIHBlYSBhcGhpZCB3aXRoIGl0cyBzeW1iaW90aWMgYmFjdGVyaXVtIEJ1Y2huZXJhIGFwaGlkaWNvbGEuIDh0aCBJbnRlcm5hdGlvbmFsIFN5bXBvc2l1bSBvbiBBcGhpZHMsIENhdGFuaWEsIEl0YWx5IChKdW5lIDgtMTIsIDIwMDkpDQoNCldpbHNvbiwgQS5DLkMuLCBLLkIuIEh1cmxleSwgUy5VLiBDaGFuLCBELkguIEpvbmVzIGFuZCBMLiBkYSBTLkwuIFN0ZXJuYmVyZy4gQ29tcGxldGUgdHJvcGhpYyBzaWduYXR1cmUgcmV2ZXJzYWwgYnkgYXBoaWQgcGFyYXNpdGlzbS4gOHRoIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIEFwaGlkcywgQ2F0YW5pYSwgSXRhbHkgKEp1bmUgOC0xMiwgMjAwOSkNCg0KDQoNClBvc3RlciBQcmVzZW50YXRpb25zIChzaW5jZSAyMDA4KQ0KDQpEdW5jYW4sIFIuIFAuLCBhbmQgQS4gQy4gQy4gV2lsc29uLiBBbm5vdGF0aW9uIG9mIG1hbGUgc3BlY2lmaWMgZ2VuZXMgaW4gdGhlIGFwaGlkIE15enVzIHBlcnNpY2FlLiA0dGggQW5udWFsIEFydGhyb3BvZCBHZW5vbWljcyBTeW1wb3NpdW0sIEthbnNhcyBDaXR5IChKdW5lIDEwLTEzLCAyMDEwKQ0KDQpQcmljZSwgRC4gUi4gRy4sIFIuIFAuIER1bmNhbiBhbmQgQS4gQy4gQy4gV2lsc29uLiBBbm5vdGF0aW9uIGFuZCB0cmFuc2NyaXB0aW9uYWwgYW5hbHlzaXMgb2YgcGVhIGFwaGlkIGFtaW5vIGFjaWQgdHJhbnNwb3J0ZXJzLiA0dGggQW5udWFsIEFydGhyb3BvZCBHZW5vbWljcyBTeW1wb3NpdW0sIEthbnNhcyBDaXR5IChKdW5lIDEwLTEzLCAyMDEwKQ0KDQpIdWFuZywgVy4gVC4sIGFuZCBBLiBDLiBDLiBXaWxzb24uIFRoZSBhcGhpZCBzZXggZGV0ZXJtaW5hdGlvbiBwYXRod2F5OiBJZGVudGlmaWNhdGlvbiBvZiBETSBkb21haW4gZ2VuZXMuIEZvdXJ0aCBNZWV0aW5nIG9mIHRoZSBJbnRlcm5hdGlvbmFsIEFwaGlkIEdlbm9taWNzIENvbnNvcnRpdW0gLSBQZWEgQXBoaWQgR2Vub21lIEFubm90YXRpb24gV29ya3Nob3AgSSAtIFByaW5jZXRvbiBVbml2ZXJzaXR5IChKdWx5IDE0ICYgMTUgMjAwOCkNCg0KS3VzaGxhbiwgUC4gRi4sIEouRi4gU2Nod2FydHosIEQuSC4gSm9uZXMsIEsuQi4gSHVybGV5LCBULiBXeXNzLCBMLiBkYSBTLkwuIFN0ZXJuYmVyZywgYW5kIEEuQy5DLiBXaWxzb24uIEFubm90YXRpb24gb2YgdHJhbnNhbWluYXNlIGdlbmVzIGluIHRoZSBwZWEgYXBoaWQgZ2Vub21lOiBpbXBsaWNhdGlvbnMgZm9yIHVudXN1YWwgcGF0dGVybnMgb2Ygbml0cm9nZW4gbWV0YWJvbGlzbS4gRm91cnRoIE1lZXRpbmcgb2YgdGhlIEludGVybmF0aW9uYWwgQXBoaWQgR2Vub21pY3MgQ29uc29ydGl1bSAtIFBlYSBBcGhpZCBHZW5vbWUgQW5ub3RhdGlvbiBXb3Jrc2hvcCBJIC0gUHJpbmNldG9uIFVuaXZlcnNpdHkgKEp1bHkgMTQgJiAxNSAyMDA4KQ0KDQoNCg0KUHJvZmVzc2lvbmFsIFRyYWluaW5nIChzaW5jZSAyMDAzKQ0KDQpFdWthcnlvdGljIEdlbm9tZSBBbm5vdGF0aW9uIFdvcmtzaG9wLCBKLiBDcmFpZyBWZW50ZXIgSW5zdGl0dXRlLCBSb2NrdmlsbGUgTUQgKEFwcmlsIDktMTEgMjAwOCkNCg0KUGVkYWdvZ3kgV29ya3Nob3AgLSBUZWFjaGluZyBhcyBQZXJmb3JtYW5jZSwgQnJ1Y2UgTGVjdXJlLCBVbml2ZXJzaXR5IG9mIE1pYW1pLCBDb3JhbCBHYWJsZXMgRkwgKE1hcmNoIC0gTWF5IDIwMDgpDQoNClBlZGFnb2d5IFdvcmtzaG9wIC0gSW1wcm92aW5nIFlvdXIgUGVyZm9ybWFuY2U6IE1heGltaXppbmcgdGhlIENvbW11bmljYXRpb24gU2tpbGxzIG9mIFlvdXIgVm9pY2UgYW5kIEJvZHksIEJydWNlIExlY3VyZSwgVW5pdmVyc2l0eSBvZiBNaWFtaSwgQ29yYWwgR2FibGVzIEZMIChPY3RvYmVyIDIwMDcpDQoNCldlc3Rlcm4gUmVnaW9uIENTUkVFUyBHcmFudHNtYW5zaGlwIFdvcmtzaG9wLCBEZW52ZXIgQ08gKE9jdG9iZXIgMjAwNykNCg0KV3JpdGluZyBXaW5uaW5nIEdyYW50cyBXb3Jrc2hvcCwgRHIgVGhvbWFzIEEuIEZyZXR6IGFuZCBEciBILiBNaWNoYWVsIEhhcnJpbmd0b24sIERlbnZlciBDTyAoT2N0b2JlciAyMDA3KQ0KDQpNYWtpbmcgU2Vuc2Ugb2YgdGhlIFNjaWVuY2UgLSBBIFdvcmtzaG9wIG9uIEVmZmVjdGl2ZSBTY2llbnRpZmljIFdyaXRpbmcsIEp1ZGl0aCBBLiBTd2FuLCBQaC5ELiwgVW5pdmVyc2l0eSBvZiBNaWFtaSBNaWxsZXIgU2Nob29sIG9mIE1lZGljaW5lIChNYXkgMjAwNykNCg0KUGVkYWdvZ3kgV29ya3Nob3AsIFVuaXZlcnNpdHkgb2YgQXJpem9uYSwgVHVjc29uIEFaIChNYXkgMjAwNCkNCg0KUG9zdGRvY3RvcmFsIEV4Y2VsbGVuY2UgaW4gUmVzZWFyY2ggYW5kIFRlYWNoaW5nIChQRVJUKSBGZWxsb3dzaGlwIFByb2dyYW0gKDIwMDMtMjAwNikgVGhlIFBFUlQgcHJvZ3JhbSBpcyBwYXJ0IG9mIGEgTmF0aW9uYWwgSW5zdGl0dXRlcyBvZiBIZWFsdGggcG9zdGRvY3RvcmFsIGVkdWNhdGlvbiBhbmQgcmVzZWFyY2ggdHJhaW5pbmcgcHJvZ3JhbSB0aGF0IGFpbXMgdG8gYmV0dGVyIHByZXBhcmUgcG9zdGRvY3RvcmFsIHJlc2VhcmNoZXJzIGZvciBhbiBhY2FkZW1pYyBwb3NpdGlvbiAoc2VlOiBodHRwOi8vY2lzLmFybC5hcml6b25hLmVkdS9QRVJULyBmb3IgbW9yZSBpbmZvcm1hdGlvbikuDQoNCg0KDQpDb25mZXJlbmNlIFBhcnRpY2lwYXRpb24gKHNpbmNlIDIwMDYpDQoNCjV0aCBBbm51YWwgQXJ0aHJvcG9kIEdlbm9taWNzIFN5bXBvc2l1bSwgS2Fuc2FzIENpdHkgKEp1bmUgOS0xMiwgMjAxMSkNCg0KN3RoIE1lZXRpbmcgb2YgdGhlIEludGVybmF0aW9uYWwgQXBoaWQgR2Vub21pY3MgQ29uc29ydGl1bSwgS2Fuc2FzIENpdHkgKEp1bmUgOWggMjAxMSkNCg0KNHRoIEFubnVhbCBBcnRocm9wb2QgR2Vub21pY3MgU3ltcG9zaXVtLCBLYW5zYXMgQ2l0eSAoSnVuZSAxMC0xMywgMjAxMCkNCg0KNnRoIE1lZXRpbmcgb2YgdGhlIEludGVybmF0aW9uYWwgQXBoaWQgR2Vub21pY3MgQ29uc29ydGl1bSwgS2Fuc2FzIENpdHkgKEp1bmUgMTB0aCAyMDEwKQ0KDQpFbnRvbW9sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYSBBbm51YWwgTWVldGluZywgSW5kaWFuYXBvbGlzIChEZWNlbWJlciAxMy0xNiwgMjAwOSkNCg0KOHRoIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIEFwaGlkcywgQ2F0YW5pYSwgSXRhbHkgKEp1bmUgOC0xMiwgMjAwOSkNCg0KRmlmdGggTWVldGluZyBvZiB0aGUgSW50ZXJuYXRpb25hbCBBcGhpZCBHZW5vbWljcyBDb25zb3J0aXVtIC0gUGVhIEFwaGlkIEdlbm9tZSBBbm5vdGF0aW9uIFdvcmtzaG9wIElJIC0gQmFyY2Vsb25hLCBTcGFpbiAoSnVuZSA0ICYgNSAyMDA5KQ0KDQpGb3VydGggTWVldGluZyBvZiB0aGUgSW50ZXJuYXRpb25hbCBBcGhpZCBHZW5vbWljcyBDb25zb3J0aXVtIC0gUGVhIEFwaGlkIEdlbm9tZSBBbm5vdGF0aW9uIFdvcmtzaG9wIEkgLSBQcmluY2V0b24gVW5pdmVyc2l0eSAoSnVseSAxNCAmIDE1IDIwMDgpDQoNClBsYW50ICYgQW5pbWFsIEdlbm9tZSBYViAtIFRoZSBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gdGhlIFN0YXR1cyBvZiBQbGFudCAmIEFuaW1hbCBHZW5vbWUgUmVzZWFyY2gsIFNhbiBEaWVnbywgQ0EgVVNBIChKYW51YXJ5IDEzLTE3LCAyMDA3KQ0KDQpTb2NpZXR5IGZvciBNb2xlY3VsYXIgQmlvbG9neSBhbmQgRXZvbHV0aW9uLCBIYWxpZmF4LCBOb3ZhIFNjb3RpYSwgQ2FuYWRhIChKdW5lIDI0IC0yOCwgMjAwNykNCg0KTWVjaGFuaXNtcyBvZiBHZW5vbWUgRXZvbHV0aW9uIC0gQW1lcmljYW4gR2VuZXRpYyBBc3NvY2lhdGlvbiBBbm51YWwgU3ltcG9zaXVtLCBJbmRpYW5hIFVuaXZlcnNpdHksIEJsb29taW5ndG9uLCBJTiwgVVNBIChKdWx5IDExLTEzLCAyMDA3KQ0KDQpHZW5vbWljcyBvZiBDbG9zZWx5IFJlbGF0ZWQgT3JnYW5pc21zLCBVbml2ZXJzaXR5IG9mIEFyaXpvbmEsIFR1Y3NvbiBBWiAoSmFudWFyeSAxMi0xNCAyMDA2KQ0KDQpDU1JFRVMsIFVTREEsIE5hdGlvbmFsIFJlc2VhcmNoIEluaXRpYXRpdmUgQXdhcmRlZSBXb3Jrc2hvcCAtIEdhdGV3YXlzIHRvIEdlbm9taWNzIGFuZCBGdW5jdGlvbmFsIEdlbm9taWNzIG9mIEFydGhyb3BvZHMgJiBOZW1hdG9kZXMgUHJvZ3JhbXMsIFR1Y3NvbiBBWiwgKE1heSAyMHRoIDIwMDYpDQoNCkZpZnRoIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIE1vbGVjdWxhciBJbnNlY3QgU2NpZW5jZSwgVGhlIENlbnRlciBmb3IgSW5zZWN0IFNjaWVuY2UsIFR1Y3NvbiBBWiAoTWF5IDIwLTI0IDIwMDYpDQoNCg0KDQpSZXNlYXJjaCBNZW50b3Jpbmc6IFN0dWRlbnQgUHVibGljYXRpb25zIGFuZCBBd2FyZHMgDQoNCuKAoWRlbm90ZXMgc3R1ZGVudCByZXNlYXJjaGVyIHRyYWluZWQgYnkgQUNDVw0KDQpSZWJlY2NhIFAuIER1bmNhbiAtIDIwMTEgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIEdyYWR1YXRlIFJlc2VhcmNoIEZlbGxvd3NoaXAgUHJvZ3JhbSBGZWxsb3dzaGlwIHJlY2lwaWVudA0KDQpSZWJlY2NhIFAuIER1bmNhbiAtIERlcGFydG1lbnQgb2YgQmlvbG9neSBFdm95IEF3YXJkIGZvciBncmFkdWF0ZSBzdHVkZW50IHJlc2VhcmNoICgyMDEwKSAkNjAwDQoNClBoaWxpcCBLdXNobGFuIC0gQmVzdCBQb3N0ZXIsIDJuZCBQcml6ZSBpbiBCaW9sb2d5LCBVbml2ZXJzaXR5IG9mIE1pYW1pIENpdGl6ZW5zIEJvYXJkIFJlc2VhcmNoLCBDcmVhdGl2aXR5IGFuZCBJbm5vdmF0aW9uIEZvcnVtICgyMDEwKQ0KDQpSZWJlY2NhIFAuIER1bmNhbiAtIEhvbm9yYWJsZSBNZW50aW9uLCBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gR3JhZHVhdGUgUmVzZWFyY2ggRmVsbG93c2hpcCBQcm9ncmFtIDIwMTANCg0KUmViZWNjYSBQLiBEdW5jYW4gLSBCZXN0IFBvc3RlciwgRGVwYXJ0bWVudCBvZiBCaW9sb2d5IEdyYWR1YXRlIFN0dWRlbnQgUmVzZWFyY2ggU3ltcG9zaXVtLCAoSmFudWFyeSAyMDEwKQ0KDQpXaWxzb24sIEEuIEMuIEMuLCBQLiBBc2h0b24sIEYuIENhbGV2cm8sIEMuIEh1YmVydCwgUy4gQ29sZWxsYSwgRy4gRmVidmF5LCBHLiBKYW5kZXIsIFAuIEYuIEt1c2hsYW7igKEsIFMuIEouIE1hY2RvbmFsZCwgSi4gRi4gU2Nod2FydHrigKEsIEcuIEguIFRob21hcyBhbmQgQS4gRS4gRG91Z2xhcywgMjAwOSBHZW5vbWljIGluc2lnaHQgaW50byB0aGUgYW1pbm8gYWNpZCByZWxhdGlvbnMgb2YgdGhlIHBlYSBhcGhpZCBBY3lydGhvc2lwaG9uIHBpc3VtIHdpdGggaXRzIHN5bWJpb3RpYyBiYWN0ZXJpdW0gQnVjaG5lcmEgYXBoaWRpY29sYS4gSW5zZWN0IE1vbGVjdWxhciBCaW9sb2d5LCBpbiBwcmVzcy4NCg0KUGhpbGlwIEt1c2hsYW4sIERlcGFydG1lbnQgb2YgQmlvbG9neSBXaWxsaWFtIEguIEV2b3kgQXdhcmQgZm9yIGdyYWR1YXRlIHN0dWRlbnQgcmVzZWFyY2ggKDIwMDkpICQxLDEwMA0KDQpQaGlsaXAgS3VzaGxhbiwgRGVwYXJ0bWVudCBvZiBCaW9sb2d5IEpheSBNLiBTYXZhZ2UgQXdhcmQgZm9yIGdyYWR1YXRlIHN0dWRlbnQgcmVzZWFyY2ggKDIwMDkpICQxLDEwMA0KDQpBbm5lIENoZW4gLSBTdW1tZXIgUmVzZWFyY2ggUHJvZ3JhbSBmb3IgVW5kZXJyZXByZXNlbnRlZCBNaW5vcml0aWVzIGFuZCBXb21lbiwgQ29sbGVnZSBvZiBBcnRzIGFuZCBTY2llbmNlcywgVW5pdmVyc2l0eSBvZiBNaWFtaSAoMjAwOSkNCg0KSnVsaWEgU2Nod2FydHogLSBIb25vcnMgU3VtbWVyIFJlc2VhcmNoIEZlbGxvdywgVW5pdmVyc2l0eSBvZiBNaWFtaSAoMjAwOCkNCg0KUGVlci1yZXZpZXdlZCBwdWJsaWNhdGlvbjogRHVuYmFyIEhFLCBXaWxzb24gQUNDLCDigKFGZXJndXNvbiBOUiwgTW9yYW4gTkEgKDIwMDcpIEFwaGlkIHRoZXJtYWwgdG9sZXJhbmNlIGlzIGdvdmVybmVkIGJ5IGEgcG9pbnQgbXV0YXRpb24gaW4gYmFjdGVyaWFsIHN5bWJpb250cy4gUExvUyBCaW9sb2d5IDU6MTAwNi0xMDE1Lg0KDQpDaHJpc3RpZSBCdWNob3ZlY2t5IC0gU3VtbWVyIFJlc2VhcmNoIFByb2dyYW0gZm9yIFVuZGVycmVwcmVzZW50ZWQgTWlub3JpdGllcyBhbmQgV29tZW4sIENvbGxlZ2Ugb2YgQXJ0cyBhbmQgU2NpZW5jZXMsIFVuaXZlcnNpdHkgb2YgTWlhbWkgKDIwMDcpDQoNCk5pY29sZSBGZXJndXNvbiAtIFVuZGVyZ3JhZHVhdGUgQmlvbG9neSBSZXNlYXJjaCBQcm9ncmFtIEF3YXJkIHJlY2lwaWVudCwgVW5pdmVyc2l0eSBvZiBBcml6b25hICgyMDA2KQ0KDQpSeWFuIERlbGdhZG8gLSBVbmRlcmdyYWR1YXRlIEJpb2xvZ3kgUmVzZWFyY2ggUHJvZ3JhbSBhd2FyZCByZWNpcGllbnQsIFVuaXZlcnNpdHkgb2YgQXJpem9uYSAoMjAwNikNCg0KUnlhbiBEZWxnYWRvIC0gTWlub3JpdHkgQWNjZXNzIHRvIFJlc2VhcmNoIENhcmVlcnMgYXdhcmQgcmVjaXBpZW50LCBVbml2ZXJzaXR5IG9mIEFyaXpvbmEgKDIwMDYpDQoNClBlZXItcmV2aWV3ZWQgcHVibGljYXRpb246IOKAoVRzYWksIEouLCBNYWxvbmV5LCBLLiBhbmQgQXJub2xkLCBFLiAoMjAwNikgQmlvdGljIGFuZCBhYmlvdGljIGZhY3RvcnMgaW5mbHVlbmNpbmcgdGhlIGRpc3RyaWJ1dGlvbiBvZiB0aGUgSHVhY2h1Y2Egc3ByaW5nc25haWwgKFB5cmd1bG9wc2lzIFRob21wc29uaSkuIEpvdXJuYWwgb2YgRnJlc2h3YXRlciBFY29sb2d5IDIyOiAyMTMtMjE4Lg0KDQpCZXN0IHVuZGVyZ3JhZHVhdGUgcG9zdGVyIC0gQUFBUy1TV0FSTSBNZWV0aW5nIFR1Y3NvbiwgQVo6IOKAoU1vbmljYSBWaWxsYXIsIEFsZXggQy4gQy4gV2lsc29uIGFuZCBDaHJpc3RvcGggVm9yYnVyZ2VyICJYLWNocm9tb3NvbWUgZWxpbWluYXRpb24gYXQgbWFsZS1wcm9kdWN0aW9uIGluIHNleHVhbCBhbmQgYXNleHVhbCBhcGhpZHMiICgyMDA1KQ0KDQpNLiBTYWJyaW5hIFBhbmtleSwgUHJlc2lkZW50J3MgVW5kZXJncmFkdWF0ZSBGZWxsb3dzaGlwLCBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEsIERhdmlzICgyMDAyKQ0KDQoNCg0KUmVzZWFyY2ggTWVudG9yaW5nOiBTdHVkZW50IFBvc3RlciBQcmVzZW50YXRpb25zIChzaW5jZSAyMDEwKQ0KDQpLYXRoZXJpbmUgQi4gSHVybGV5LCBSZWd1bGF0aW9uIG9mIG5pdHJhdGUgcmVkdWN0YXNlIGluIEFyYWJpZG9wc2lzIHRoYWxpYW5hIGluIHJlc3BvbnNlIHRvIGFwaGlkIChNeXp1cyBwZXJzaWNhZSkgcGFyYXNpdGlzbSAtIFVuaXZlcnNpdHkgb2YgTWlhbWkgU3R1ZGVudCBSZXNlYXJjaCBhbmQgQ3JlYXRpdml0eSBGb3J1bSAoMjAxMCkuDQoNClBoaWxpcCBGLiBLdXNobGFuLCBUaGUgcm9sZSBvZiBlbmRvc3ltYmlvbnQgbWV0YWJvbGlzbSBpbiBnZW5lcmF0aW5nIHRoZSBkZXBsZXRlZCBEZDE1TiBzaWduYXR1cmUgb2JzZXJ2ZWQgaW4gcGVhIGFwaGlkcyBwYXJhc2l0aXppbmcgYWxmYWxmYSAtIFVuaXZlcnNpdHkgb2YgTWlhbWkgU3R1ZGVudCBSZXNlYXJjaCBhbmQgQ3JlYXRpdml0eSBGb3J1bSAoMjAxMCkuDQoNClJlYmVjY2EgUC4gRHVuY2FuLCBNYXBwaW5nIHRoZSBBcGhpZCBHZW5vbWUgd2l0aCBhIENvbXBhcmF0aXZlIEdlbm9taWMgSHlicmlkaXphdGlvbiBNaWNyb2FycmF5OiBUaGUgRmlyc3QgU3RlcCB0byBVbmRlcnN0YW5kaW5nIEFwaGlkIFggQ2hyb21vc29tZSBFdm9sdXRpb24gLSBVbml2ZXJzaXR5IG9mIE1pYW1pIFN0dWRlbnQgUmVzZWFyY2ggYW5kIENyZWF0aXZpdHkgRm9ydW0gKDIwMTApLg0KDQoNCg0KUmVzZWFyY2ggTWVudG9yIC0gUG9zdGRvY3RvcmFsDQoNCkRhbmllbCBSLiBHLiBQcmljZSAoTWFyY2ggMjAxMCAtIEZlYnJ1YXJ5IDIwMTEpDQoNCg0KDQpSZXNlYXJjaCBNZW50b3IgLSBHcmFkdWF0ZQ0KDQpSZWJlY2NhIER1bmNhbiAoRmFsbCAyMDA5IC0gcHJlc2VudCkgUmVndWxhdGlvbiBvZiB0aGUgbmVzdGVkIG51dHJpdGlvbmFsIHN5bWJpb3NpcyBpbiB0aGUgbWVhbHlidWcgUGxhbm9jb2NjdXMgY2l0cmkNCg0KUGhpbGlwIEt1c2hsYW4gKEZhbGwgMjAwOCAtIHByZXNlbnQpIFRoZSBpbmZsdWVuY2Ugb2YgZW5kb3N5bWJpb250IG1ldGFib2xpc20gb24gdGhlIDE1TiBzaWduYXR1cmUgb2YgdGhlIHBlYSBhcGhpZCwgQWN5cnRob3NpcGhvbiBwaXN1bS4NCg0KV2VudGluZyBIdWFuZyAoRmFsbCAyMDA3IC0gRmFsbCAyMDA5KSBSZXByb2R1Y3RpdmUgbW9kZSBhbmQgZ2Vub21lIGV2b2x1dGlvbiBpbiB0aGUgYXBoaWRzDQoNCg0KDQpSZXNlYXJjaCBNZW50b3IgLSBDb21taXR0ZWUgbWVtYmVyDQoNCkFudXJhZGhhIEd1bmF0aGlsYWtlIChTcHJpbmcgMjAxMCAtIEZhbGwgMjAxMCkgVGVzdGluZyBzcGVjaWVzIGxpbWl0cyBhbmQgcGh5bG9nZW55IG9mIEdvcmRvbmlhIEVsbGlzIChUaGVhY2VhZSkgZW5kZW1pYyB0byBTcmkgTGFua2EgdXNpbmcgbW9sZWN1bGFyIGRhdGENCg0KUGF0cmljayBFbGxzd29ydGggKEZhbGwgMjAwNiAtIHByZXNlbnQpIFRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiB3YXRlciBhbmQgbnV0cmllbnQgdXB0YWtlIGFuZCBpdHMgZWZmZWN0IG9uIGxlYWYgcGhlbm9sb2dpY2FsIHN0cmF0ZWd5IGluIGRyeSB0cm9waWNhbCBmb3Jlc3RzDQoNClRhbmlhIFd5c3MgKEZhbGwgMjAwNiAtIHByZXNlbnQpIFN5bWJpb3RpYyBhc3NvY2lhdGlvbnMgYmV0d2VlbiBQaW51cyBlbGlvdHRpIGFuZCBteWNvcnJoaXphbCBmdW5naQ0KDQpIZXJtYW4gV2lyc2hpbmcgLSBSU01BUyAoRmFsbCAyMDA3IC0gcHJlc2VudCkgRnJvbSBtb2xlY3VsYXIgbWFya2VycyB0byBtb2xlY3VsYXIgZHJpdmVyczogVGVzdGluZyBhIG5ldyBhcHByb2FjaCB0byBjb3JhbCBzeXN0ZW1hdGljcyB1c2luZyBiaW9taW5lcmFsaXphdGlvbiBnZW5lcyBhcyBkZXRlcm1pbmFudHMgb2Ygc2tlbGV0YWwgbW9ycGhvbG9neQ0KDQpLYXQgTG9mdHVzIC0gUlNNQVMgKEZhbGwgMjAwNyAtIHByZXNlbnQpIFJlZ3VsYXRpb24gb2YgY29leHByZXNzZWQgZ2VuZXMgaW4gRnVuZHVsdXMgaGV0ZXJvY2xpdHVzDQoNCk5hdmVlbiBXaWplc2VuYSAoU3ByaW5nIDIwMDggLSBwcmVzZW50KSBUaGUgUm9sZSBvZiBXbnQgc2lnbmFsaW5nIGluIHRoZSBldm9sdXRpb24gb2YgZW1icnlvbmljIHBvbGFyaXR5DQoNClJvYmVydCBNdXNjYXJlbGxhIChHcmFkdWF0ZWQgTVNjIFNwcmluZyAyMDA4KSBUaGUgZWZmZWN0IG9mIHN1cmZhY2UtbGV2ZWwgdHJhZGV3aW5kcyBvbiBnZW5lIGZsb3cgaW4gYSBDYXJpYmJlYW4gYmF0DQoNCg0KDQpSZXNlYXJjaCBNZW50b3IgLSBVbmRlcmdyYWR1YXRlIEhvbm9ycw0KDQpLYXRlIEh1cmxleSAoRmFsbCAyMDA5IC0gU3ByaW5nIDIwMTApIFJlZ3VsYXRpb24gb2Ygbml0cmF0ZSByZWR1Y3Rhc2UgaW4gQXJhYmlkb3BzaXMgdGhhbGlhbmEgaW4gcmVzcG9uc2UgdG8gYXBoaWQgcGFyYXNpdGlzbQ0KDQoNCg0KUmVzZWFyY2ggbWVudG9yc2hpcCBvZiB1bmRlcmdyYWR1YXRlIHN0dWRlbnRzICgyMyBzdHVkZW50cyBzaW5jZSAxOTk2KQ0KDQpDYXRoZXJpbmUgSGVybmFuZGV6LCBVbml2ZXJzaXR5IG9mIE1pYW1pIHVuZGVyZ3JhZHVhdGUgcmVzZWFyY2ggU3VtbWVyIDIwMTEtcHJlc2VudA0KDQpTaHJpbmlkaGkgQmFsYXN1YnJhbWFuaWFuLCBVbml2ZXJzaXR5IG9mIE1pYW1pIHVuZGVyZ3JhZHVhdGUgcmVzZWFyY2ggRmFsbCAyMDEwDQoNClJ5YW4gTWNNaW5kcywgVW5pdmVyc2l0eSBvZiBNaWFtaSB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIFN1bW1lciAyMDEwIC0gRmFsbCAyMDEwICYgU3VtbWVyIDIwMTEtcHJlc2VudA0KDQpCZW5qYW1pbiBDYXJtZWwsIFVuaXZlcnNpdHkgb2YgTWlhbWkgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBTcHJpbmcgMjAxMA0KDQpLYXRlIEh1cmxleSwgVW5pdmVyc2l0eSBvZiBNaWFtaSB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIFN1bW1lciAyMDA3IC0gU3ByaW5nIDIwMTANCg0KQW5uZSBDaGVuLCBVbml2ZXJzaXR5IG9mIE1pYW1pIHVuZGVyZ3JhZHVhdGUgcmVzZWFyY2ggU3VtbWVyIDIwMDkgLSBGYWxsIDIwMDkNCg0KSXNhYmVsIExsYW5lcywgVW5pdmVyc2l0eSBvZiBNaWFtaSB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIFN1bW1lciAyMDA5DQoNCkp1bGlhIFNjaHdhcnR6LCBVbml2ZXJzaXR5IG9mIE1pYW1pIHVuZGVyZ3JhZHVhdGUgcmVzZWFyY2ggU3VtbWVyIDIwMDggLSBGYWxsIDIwMDgNCg0KUGhpbGlwIEt1c2hsYW4sIFVuaXZlcnNpdHkgb2YgTWlhbWkgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBTcHJpbmcgLSBTdW1tZXIgMjAwOA0KDQpHYWJyaWVsIFdhbHRvbiwgVW5pdmVyc2l0eSBvZiBNaWFtaSB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIEZhbGwgMjAwNyAtIFNwcmluZyAyMDA4DQoNCkNocmlzdGllIEJ1Y2hvdmVja3ksIFVuaXZlcnNpdHkgb2YgTWlhbWkgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBTcHJpbmcgMjAwNyAtIEZhbGwgMjAwNw0KDQpEaWFuYSBMaXUsIFVuaXZlcnNpdHkgb2YgTWlhbWkgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBTcHJpbmcgMjAwNyAtIEZhbGwgMjAwNw0KDQpBcmp1biBTb25kaGksIFVuaXZlcnNpdHkgb2YgTWlhbWkgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBGYWxsIDIwMDYgLSBTcHJpbmcgMjAwNw0KDQpEZXJlayBKb25lcywgVW5pdmVyc2l0eSBvZiBNaWFtaSB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIEZhbGwgMjAwNiAtIFNwcmluZyAyMDA3DQoNCk5pY29sZSBGZXJndXNvbiwgVW5pdmVyc2l0eSBvZiBBcml6b25hLCB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIFNwcmluZyAyMDA2DQoNClJ5YW4gRGVsZ2FkbywgVW5pdmVyc2l0eSBvZiBBcml6b25hLCB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIFNwcmluZyAyMDA2DQoNClNhcmEgTGV3aXMsIFVuaXZlcnNpdHkgb2YgQXJpem9uYSwgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBTdW1tZXIgMjAwNCAtIFN1bW1lciAyMDA1DQoNCk1vbmljYSBWaWxsYXIsIFBpbWEgQ29tbXVuaXR5IENvbGxlZ2UsIHVuZGVyZ3JhZHVhdGUgcmVzZWFyY2ggRmFsbCAyMDAzLzIwMDQgLSBTdW1tZXIgMjAwNQ0KDQpKZXNzaWNhIEpvaG5zdG9uLCBQaW1hIENvbW11bml0eSBDb2xsZWdlLCB1bmRlcmdyYWR1YXRlIHJlc2VhcmNoIFN1bW1lciAyMDA0DQoNCkFsaWNlIERlbm5pcywgVUMgRGF2aXMsIHVuZGVyZ3JhZHVhdGUgcmVzZWFyY2ggcHJvamVjdCBGYWxsIDIwMDIgLSBTdW1tZXIgMjAwMw0KDQpNLiBTYWJyaW5hIFBhbmtleSwgVUMgRGF2aXMsIHVuZGVyZ3JhZHVhdGUgcmVzZWFyY2ggcHJvamVjdCBGYWxsIDIwMDIgLSBTdW1tZXIgMjAwMw0KDQpFbWlseSBDdXJkLCBVQyBEYXZpcywgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBwcm9qZWN0IFdpbnRlciAmIFNwcmluZyAyMDAyDQoNCk1vbGxpZSBCb29ybWFuLCBVQyBEYXZpcywgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCBwcm9qZWN0IFNwcmluZyAmIFN1bW1lciAyMDAxDQoNCkpvcmRhbiBGcmVuY2gsIEhvbm91cnMsIDFzdCBDbGFzcyBhbmQgVW5pdmVyc2l0eSBNZWRhbCBIb2xkZXIgYXdhcmRlZCAxOTk3LCBNYWNxdWFyaWUgVW5pdmVyc2l0eSwgQXVzdHJhbGlhDQoNCk5hdGFsaWUgQ3VyYWNoLCBIb25vdXJzLCAybmQgQ2xhc3MgRGl2aXNpb24gSSBhd2FyZGVkIDE5OTcsIE1hY3F1YXJpZSBVbml2ZXJzaXR5LCBBdXN0cmFsaWENCg0KVGltIFNsb2FuZSwgSG9ub3VycywgMm5kIENsYXNzIERpdmlzaW9uIEkgYXdhcmRlZCAxOTk2LCBNYWNxdWFyaWUgVW5pdmVyc2l0eSwgQXVzdHJhbGlhDQoNCg0KDQpNZW50b3JpbmcgLSBvdGhlcg0KDQpQYW5lbGlzdCAtIENWIERldmVsb3BtZW50IC0gRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBVbml2ZXJzaXR5IG9mIE1pYW1pIChOb3ZlbWJlciAyMDA5KQ0KDQoNCg0KVGVhY2hpbmcNCg0KR3JhZHVhdGUgYW5kIFVuZGVyZ3JhZHVhdGUgQ2xhc3Nlcw0KDQpCSUwyNTAgLSBHZW5ldGljcyAoU3ByaW5nIDIwMDcsIDIwMDgsIDIwMDksIDIwMTApDQoNCkJJTCAzODUgLSBFY29sb2dpY2FsIGFuZCBFdm9sdXRpb25hcnkgR2Vub21pY3MgKEZhbGwgMjAxMCkNCg0KQklMNTU2IC0gRWNvbG9naWNhbCBhbmQgRXZvbHV0aW9uYXJ5IEdlbm9taWNzIChGYWxsIDIwMDksIDIwMTAsIDIwMTEpDQoNCkJJTDU3NSAtIE1vbGVjdWxhciBFY29sb2d5IChGYWxsIDIwMDYpDQoNCkJJTDYxMyAtIEdyYWR1YXRlIENvcmUgTW9kdWxlIC0gTWFudWFsIGFuZCBGdW5jdGlvbmFsIEdlbm9tZSBBbm5vdGF0aW9uIChTcHJpbmcgMjAxMCkNCg0KDQoNClNlcnZpY2UNCg0KTmF0aW9uYWwvSW50ZXJuYXRpb25hbA0KDQpJbnRlcm5hdGlvbmFsIEFwaGlkIEdlbm9taWNzIENvbnNvcnRpdW0gQm9hcmQgTWVtYmVyIChlbGVjdGVkKSAtIHJlcHJlc2VudGF0aXZlIGZvciB0aGUgQW1lcmljYXMsIDIwMDktcHJlc2VudC4NCg0KT3JnYW5pemluZyBjb21taXR0ZWUgbWVtYmVyLCA2dGggTWVldGluZyBvZiB0aGUgSW50ZXJuYXRpb25hbCBBcGhpZCBHZW5vbWljcyBDb25zb3J0aXVtLCBLYW5zYXMgQ2l0eSBKdW5lIDEwdGggMjAxMA0KDQpPcmdhbml6aW5nIGNvbW1pdHRlZSBtZW1iZXIsIFBlYSBBcGhpZCBHZW5vbWUgQW5ub3RhdGlvbiBXb3Jrc2hvcCBJSSwgQmFyY2Vsb25hLCBTcGFpbiBKdW5lIDQgJiA1IDIwMDkNCg0KU2NpZW50aWZpYyBjb21taXR0ZWUgbWVtYmVyLCA4dGggSW50ZXJuYXRpb25hbCBTeW1wb3NpdW0gb24gQXBoaWRzLCBDYXRhbmlhLCBJdGFseSwgSnVuZSA3LTExdGggMjAwOQ0KDQpQZWEgYXBoaWQgZ2Vub21lIHNlcXVlbmNpbmcgcHJvamVjdCBsZWFkZXJzaGlwIGdyb3VwIG1lbWJlciAoNyBtZW1iZXJzIGxlYWRpbmcgMTAwKyBtZW1iZXIgY29uc29ydGl1bSkgMjAwNy1wcmVzZW50DQoNCkNoYWlyIG9mIHRoZSBTZXggRGV0ZXJtaW5hdGlvbiBhbm5vdGF0aW9uIGdyb3VwIGZvciB0aGUgcGVhIGFwaGlkIGdlbm9tZSBhbm5vdGF0aW9uIDIwMDgtcHJlc2VudCANCg0KQ2hhaXIsIE9yZ2FuaXppbmcgQ29tbWl0dGVlIGZvciB0aGUgRm91cnRoIE1lZXRpbmcgb2YgdGhlIEludGVybmF0aW9uYWwgQXBoaWQgR2Vub21pY3MgQ29uc29ydGl1bSAtIFBlYSBBcGhpZCBHZW5vbWUgQW5ub3RhdGlvbiBXb3Jrc2hvcCBJIC0gUHJpbmNldG9uIFVuaXZlcnNpdHksIEp1bHkgMTQgJiAxNSAyMDA4DQoNCk5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiwgUG9wdWxhdGlvbiBhbmQgRXZvbHV0aW9uYXJ5IFByb2Nlc3NlcyBEb2N0b3JhbCBEaXNzZXJ0YXRpb24gSW1wcm92ZW1lbnQgR3JhbnRzIC0gUGFuZWwgTWVtYmVyIC0gMjAwOA0KDQpXaGl0ZSBQYXBlciBBZHZpc29yeSBDb21taXR0ZWUgLSBJbnRlcm5hdGlvbmFsIFdoaXRlZmx5IEdlbm9taWNzIENvbnNvcnRpdW0gKDIwMDYgLSBwcmVzZW50KQ0KDQoNCg0KRGVwYXJ0bWVudGFsDQoNCkdyYWR1YXRlIFJlY3J1aXRtZW50IFZpc2l0IHRvIExld2lzICYgQ2xhcmssIFBvcnRsYW5kLCBPUiAoU2VwdGVtYmVyIDIwMTApDQoNCkNoYWlyIEdyYWR1YXRlIFN5bXBvc2l1bSBPcmdhbml6aW5nIENvbW1pdHRlZSAoMjAwOSAtIHByZXNlbnQpDQoNCkNoYWlyIEFubnVhbCBCaW9sb2d5IERlcGFydG1lbnQgUGVkYWdvZ3kgV29ya3Nob3AgKDIwMDkgLSBwcmVzZW50KQ0KDQpGYWN1bHR5IE1lbnRvciAtIERlcGFydG1lbnQgb2YgQmlvbG9neSBKb3VybmFsIENsdWIgKDIwMDYgLSBwcmVzZW50KQ0KDQpHcmFkdWF0ZSBDdXJyaWN1bHVtIENvbW1pdHRlZSAoR0NDKSAoMjAwNiAtIDIwMDgpDQoNCkNoYWlyIFNlbWluYXIgQ29tbWl0dGVlIC0gU3ByaW5nICYgRmFsbCAyMDA4ICgyMDA3IC0gMjAwOCkNCg0KQ2hhaXIgR3JhZHVhdGUgUmVjcnVpdG1lbnQgQ29tbWl0dGVlIChGYWxsIDIwMDcpDQoNCkNoYWlyIFNlbGVjdGlvbiBDb21taXR0ZWUgZm9yIFZpc2l0aW5nIEFzc2lzdGFudCBQcm9mZXNzb3IgaW4gR2Vub21pY3MgKDIwMDcpDQoNClNlbGVjdGlvbiBDb21taXR0ZWUgZm9yIEZ1bGwtdGltZSBMZWN0dXJlciAoMjAwNikNCg0KU2VsZWN0aW9uIENvbW1pdHRlZSBmb3IgTW9sZWN1bGFyIENvcmUgRmFjaWxpdHkgTWFuYWdlciAoMjAwNikNCg0KR3JhZHVhdGUgQWRtaXNzaW9ucyBhbmQgQWR2aXNvcnkgQ29tbWl0dGVlIChHQUFDKSAoMjAwNikNCg0KDQoNClJldmlld2VyIC0gR3JhbnQgUHJvcG9zYWxzDQoNClN3aXNzIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiAtIDIwMDkgKGRlY2xpbmVkKQ0KDQpLLVN0YXRlIEFydGhyb3BvZCBHZW5vbWljcyBDZW50ZXIgQ29tcGV0aXRpdmUgU2VlZCBHcmFudCBQcm9wb3NhbCAtIDIwMDkNCg0KQWdlbmNlIE5hdGlvbmFsZSBkZSBsYSBSZWNoZXJjaGUsIEZyYW5jZSAtIDIwMDkoMikNCg0KQ2FuYWRhIEZvdW5kYXRpb24gZm9yIElubm92YXRpb24gLSAyMDA5DQoNCk5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiAtIDIwMDgsIDIwMDksIDIwMTAsIDIwMTENCg0KTmF0aW9uYWwgUmVzZWFyY2ggQ291bmNpbCBvZiB0aGUgTmF0aW9uYWwgQWNhZGVtaWVzIC0gMjAwOA0KDQpJc3JhZWwgU2NpZW5jZSBGb3VuZGF0aW9uIC0gMjAwNg0KDQoNCg0KUmV2aWV3ZXIgLSBKb3VybmFscw0KDQpCaW9sb2d5IG9mIHRoZSBDZWxsIC0gMjAwNzsgQk1DIEdlbm9taWNzIC0gMjAxMDsgQnVsbGV0aW4gb2YgRW50b21vbG9naWNhbCBSZXNlYXJjaCAtIDIwMDIsIDIwMDUsIDIwMDYoMiksIDIwMDk7IENvbnNlcnZhdGlvbiBHZW5ldGljcyAtIDIwMDYsIDIwMDcsIDIwMDg7IERldmVsb3BtZW50IC0gMjAxMDsgRWNvbG9naWNhbCBFbnRvbW9sb2d5IC0gMjAwMzsgRXVyb3BlYW4gSm91cm5hbCBvZiBFbnRvbW9sb2d5IC0gMjAwNTsgRXZvbHV0aW9uIC0gMjAwMSwgMjAwMjsgR2VuZSAtIDIwMDc7IEdlbmV0aWNhIC0gMjAwNjsgR2Vub21lIC0gMjAwNTsgSW5zZWN0IE1vbGVjdWxhciBCaW9sb2d5IC0gMjAwOSwgMjAxMTsgSW50ZXJuYXRpb25hbCBKb3VybmFsIG9mIEV2b2x1dGlvbmFyeSBCaW9sb2d5IC0gMjAxMDsgSm91cm5hbCBvZiBFeHBlcmltZW50YWwgWm9vbG9neSBQYXJ0IEIgLSAyMDExOyBNb2xlY3VsYXIgRWNvbG9neSAtIDIwMDAsIDIwMDIsIDIwMDMsIDIwMDQsIDIwMDUsIDIwMDk7IE1vbGVjdWxhciBFY29sb2d5IFJlc291cmNlcyAtIDIwMDk7IE1vbGVjdWxhciBCaW9sb2d5IGFuZCBFdm9sdXRpb24gLSAyMDA4LCAyMDA5OyBQTG9TIE9uZSAtIDIwMTA7IFBOQVMgLSAyMDEwOyBQcm9jZWVkaW5ncyBvZiB0aGUgNnRoIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIEFwaGlkcywgUmVubmVzLCBGcmFuY2UgLSAyMDAxOyBQcm9jZWVkaW5ncyBvZiB0aGUgOHRoIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIEFwaGlkcywgQ2F0YW5pYSwgSXRhbHkgLSAyMDA5ICg4KTsgUHJvY2VlZGluZ3Mgb2YgdGhlIFJveWFsIFNvY2lldHkgb2YgTG9uZG9uLCBTZXJpZXMgQiAtIDIwMDgoMiksIDIwMTA7IFN5c3RlbWF0aWMgRW50b21vbG9neSAtIDIwMDQ7IExhbmRzY2FwZSBFY29sb2d5IC0gMjAwNA0KDQoNCg0KUHJvZmVzc2lvbmFsIFNvY2lldHkgTWVtYmVyc2hpcCAoKmN1cnJlbnRseSBhY3RpdmUpDQoNCkFtZXJpY2FuIEFzc29jaWF0aW9uIGZvciB0aGUgQWR2YW5jZW1lbnQgb2YgU2NpZW5jZQ0KDQpBbWVyaWNhbiBHZW5ldGljIEFzc29jaWF0aW9uDQoNCkVudG9tb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhDQoNCkdlbmV0aWNzIFNvY2lldHkgb2YgQXVzdHJhbGFzaWEgMTk5NiAtIDIwMDMNCg0KSW50ZXJuYXRpb25hbCBBcGhpZCBHZW5vbWljcyBDb25zb3J0aXVtKg0KDQpTb2NpZXR5IGZvciB0aGUgU3R1ZHkgb2YgRXZvbHV0aW9uIDE5OTkgLSAyMDA2DQoNClNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBNb2xlY3VsYXIgQmlvbG9neSBhbmQgRXZvbHV0aW9uDQoNCg0KDQpEciBBbGV4IEMuIEMuIFdpbHNvbiAgQ1YgIEp1bmUgMjAxMQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916543306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

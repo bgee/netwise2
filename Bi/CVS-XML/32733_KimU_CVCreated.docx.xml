@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:03 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915301306521"  usageLimitType="allocation" usageLimit="200" currentUsage="100" remainingUsage="100" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Ph.D. KIM Uksun</FormattedName>
+<GivenName>Ph.D.</GivenName>
+<MiddleName>KIM</MiddleName>
+<FamilyName>Uksun</FamilyName>
+</PersonName>
+</ContactInfo>
+<ExecutiveSummary>Main work scope was research activities for steel market development in construction. Most project topics were related to steel framed houses metal building systems etc. For more imformation you can visit RIST. Same work scope and activities as above.</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>California State University - Fullerton</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Department of Civil and Environmental Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Fullerton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2005-08-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Research Scholar</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2004-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research Tech III</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Georgia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2003-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2003-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Georgia Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Research Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research Institute of Industrial Science &amp; Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Senior Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Korea</Region>
+<Municipality>Seoul</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1997-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>POSCO Engineering &amp; Construction, Co.</EmployerOrgName>
+<PositionHistory>
+<Title>Senior Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Korea</Region>
+<Municipality>Seoul</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1996-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research Institute of Industrial Science &amp; Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Senior Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Korea</Region>
+<Municipality>Pohang</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1992-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering Major</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Georgia Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Structural Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Michigan State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1992-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Structural Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Yonsei University Korea</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1990-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Architectural Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>1999-09-01</StringDate></Date>
+<Description>RECEIVED Emergency Tuition Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1999-08-01</StringDate></Date>
+<Description>The KASF (Korean American Scholarship Foundation) Scholarship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1999-05-01</StringDate></Date>
+<Description>Graduate School Incentive Fellowship</Description>
+</Achievement>
+<Achievement>
+<Description>Scholarship for undergraduate study (4 semesters) PROFESSIONAL AFFILIATION</Description>
+</Achievement>
+<Achievement>
+<Description>American Society of Civil Engineers (M.ASCE) American</Description>
+</Achievement>
+<Achievement>
+<Description>Institute of Steel Construction American Society for Engineering Education</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>SELECTED PUBLICATION 1. Kim U.S. Leon R.T. and Galambos T.V</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>&quot;Seismic Design of Steel Joist Girder Structures&quot; (Accepted for publication to the AISC Engineering Journal) 2. Kim U.S. Leon R.T. and Galambos T.V</Description>
+</Achievement>
+<Achievement>
+<Description>&quot;Behavior of Steel Joist Girder Structures with PR Column Bases&quot; (Accepted for publication to the AISC Engineering Journal) 3. Kim</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>U.S. and Chakrabarti P.R &quot;Simplified Analysis and Design of Partially Restrained Frames&quot; 4th ASCE Int. Engineering and Construction Conference Fullerton CA.</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>4. Hong H. Chakrabarti P.R. and Kim U.S &quot;Post-Tensioned Slab and Repair System with Composite Materials&quot; 4th ASCE Int. Engineering and Construction Conference Fullerton CA.</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-01-01</StringDate></Date>
+<Description>5. Leon R.T. Kim U.S. and Galambos T.V &quot;Seismic Design of Trussed Girder Systems&quot; Keynote Presentation ASSCCA&apos;03 Sydney Australia.</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>VWtzdW4gS0lNLCBQaC5ELg0KDQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoA0KDQrCoEVEVUNBVElPTiANCg0KwqAyMDAzwqDCoCBQaC5ELiwgQ2l2aWwgRW5naW5lZXJpbmcgKE1ham9yIDogU3RydWN0dXJhbCBFbmdpbmVlcmluZyksIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kgKFVTQSkgDQoNCsKgMTk5OcKgwqAgTS5TLiwgQ2l2aWwgRW5naW5lZXJpbmcgKE1ham9yIDogU3RydWN0dXJhbCBFbmdpbmVlcmluZyksIE1pY2hpZ2FuIFN0YXRlwqAgVW5pdmVyc2l0eSAoVVNBKSANCg0KwqAxOTkywqDCoCBNLlMuLCBBcmNoaXRlY3R1cmFsIEVuZ2luZWVyaW5nLCBZb25zZWkgVW5pdmVyc2l0eSAoS29yZWEpIA0KDQrCoDE5OTDCoMKgIEIuUy4sIEFyY2hpdGVjdHVyYWwgRW5naW5lZXJpbmcsIFlvbnNlaSBVbml2ZXJzaXR5IChLb3JlYSkgDQoNCsKgIA0KDQpFWFBFUklFTkNFUyANCg0KwqANCg0KQXVnLiAyMDA1fnByZXNlbnTCoMKgwqDCoMKgIEFzc2lzdGFudCBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIA0KDQrCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgQ2FsaWZvcm5pYSBTdGF0ZSBVbml2ZXJzaXR5IC0gRnVsbGVydG9uIChGdWxsZXJ0b24sIENBKSANCg0KQXVnLiAyMDA0fkF1Zy4gMjAwNcKgIFJlc2VhcmNoIFNjaG9sYXIsIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kgKEF0bGFudGEsIEdBKSANCg0KTWF5IDIwMDN+TWF5IDIwMDTCoMKgwqAgUmVzZWFyY2ggVGVjaCBJSUksIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kgKEF0bGFudGEsIEdBKSANCg0KSmFuLiAyMDAwfk1heSAyMDAzwqDCoMKgwqAgR3JhZHVhdGUgUmVzZWFyY2ggQXNzaXN0YW50LCBHZW9yZ2lhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5IChBdGxhbnRhLCBHQSkgDQoNCkp1bHkgMTk5N35KdWx5IDE5OTjCoMKgwqDCoMKgIFNlbmlvciBSZXNlYXJjaGVyLCBSZXNlYXJjaMKgIEluc3RpdHV0ZcKgIG9mwqAgSW5kdXN0cmlhbMKgIFNjaWVuY2XCoCAmIFRlY2hub2xvZ3kgKFNlb3VsLCBLb3JlYSkgDQoNCsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIE1haW4gd29yayBzY29wZSB3YXMgcmVzZWFyY2ggYWN0aXZpdGllcyBmb3Igc3RlZWwgbWFya2V0IGRldmVsb3BtZW50IGluIGNvbnN0cnVjdGlvbi4gDQoNCsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIE1vc3QgcHJvamVjdCB0b3BpY3Mgd2VyZSByZWxhdGVkIHRvIHN0ZWVsIGZyYW1lZCBob3VzZXMsIG1ldGFsIGJ1aWxkaW5nIHN5c3RlbXMsIGV0Yy4gDQoNCsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgIEZvciBtb3JlIGltZm9ybWF0aW9uLCB5b3UgY2FuIHZpc2l0IFJJU1QuIA0KDQpGZWIuIDE5OTZ+SnVseSAxOTk3wqDCoMKgwqAgU2VuaW9yIFJlc2VhcmNoZXIswqAgUE9TQ08gRW5naW5lZXJpbmcgJiBDb25zdHJ1Y3Rpb24sIENvLiAoU2VvdWwsIEtvcmVhKSANCg0KwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqAgU2FtZSB3b3JrIHNjb3BlIGFuZCBhY3Rpdml0aWVzIGFzIGFib3ZlLiANCg0KwqANCg0KRmViLiAxOTkyfkphbi4gMTk5NsKgwqDCoMKgwqAgU2VuaW9yIFJlc2VhcmNoZXIsIFJlc2VhcmNowqAgSW5zdGl0dXRlwqAgb2bCoCBJbmR1c3RyaWFswqAgU2NpZW5jZcKgICYgVGVjaG5vbG9neSAoUG9oYW5nLCBLb3JlYSkgDQoNCsKgDQoNCsKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCANCg0KQVdBUkRTIFJFQ0VJVkVEIA0KDQotwqAgRW1lcmdlbmN5IFR1aXRpb24gQXdhcmTCoCAoU2VwdGVtYmVyLCAxOTk5KSDCoCANCg0KLSBUaGUgS0FTRiAoS29yZWFuIEFtZXJpY2FuIFNjaG9sYXJzaGlwIEZvdW5kYXRpb24pIFNjaG9sYXJzaGlwwqAgKEF1Z3VzdCwgMTk5OSkgDQoNCi0gR3JhZHVhdGUgU2Nob29sIEluY2VudGl2ZSBGZWxsb3dzaGlwwqAgKE1heSwgMTk5OSkgDQoNCi0gU2Nob2xhcnNoaXAgZm9yIHVuZGVyZ3JhZHVhdGUgc3R1ZHnCoCAoNCBzZW1lc3RlcnMpIA0KDQrCoA0KDQpQUk9GRVNTSU9OQUwgQUZGSUxJQVRJT04gDQoNCi3CoCBBbWVyaWNhbiBTb2NpZXR5IG9mIENpdmlsIEVuZ2luZWVycyAoTS5BU0NFKSDCoCANCg0KLSBBbWVyaWNhbiBJbnN0aXR1dGUgb2YgU3RlZWwgQ29uc3RydWN0aW9uIA0KDQotIEFtZXJpY2FuIFNvY2lldHkgZm9yIEVuZ2luZWVyaW5nIEVkdWNhdGlvbiANCg0KwqANCg0KU0VMRUNURUQgUFVCTElDQVRJT04gwqANCg0KMS4gS2ltLCBVLlMuLCBMZW9uLCBSLlQuLCBhbmQgR2FsYW1ib3MsIFQuVi4gKDIwMDcpLiAiU2Vpc21pYyBEZXNpZ24gb2YgU3RlZWwgSm9pc3QgR2lyZGVyIFN0cnVjdHVyZXMiLCAoQWNjZXB0ZWQgZm9yIHB1YmxpY2F0aW9uIHRvIHRoZSBBSVNDIEVuZ2luZWVyaW5nIEpvdXJuYWwpLiANCg0KMi4gS2ltLCBVLlMuLCBMZW9uLCBSLlQuLCBhbmQgR2FsYW1ib3MsIFQuVi4gKDIwMDcpLiAiQmVoYXZpb3Igb2YgU3RlZWwgSm9pc3QgR2lyZGVyIFN0cnVjdHVyZXMgd2l0aCBQUiBDb2x1bW4gQmFzZXMiLCAoQWNjZXB0ZWQgZm9yIHB1YmxpY2F0aW9uIHRvIHRoZSBBSVNDIEVuZ2luZWVyaW5nIEpvdXJuYWwpLiANCg0KMy4gS2ltLCBVLlMuIGFuZCBDaGFrcmFiYXJ0aSwgUC5SLiAoMjAwNikuICJTaW1wbGlmaWVkIEFuYWx5c2lzIGFuZCBEZXNpZ24gb2YgUGFydGlhbGx5IFJlc3RyYWluZWQgRnJhbWVzIiwgNHRoIEFTQ0UgSW50LiBFbmdpbmVlcmluZyBhbmQgQ29uc3RydWN0aW9uIENvbmZlcmVuY2UsIEZ1bGxlcnRvbiwgQ0EuDQoNCjQuIEhvbmcsIEguLCBDaGFrcmFiYXJ0aSwgUC5SLiwgYW5kIEtpbSwgVS5TLiAoMjAwNikuICJQb3N0LVRlbnNpb25lZCBTbGFiIGFuZCBSZXBhaXIgU3lzdGVtIHdpdGggQ29tcG9zaXRlIE1hdGVyaWFscyIsNHRoIEFTQ0UgSW50LiBFbmdpbmVlcmluZyBhbmQgQ29uc3RydWN0aW9uIENvbmZlcmVuY2UsIEZ1bGxlcnRvbiwgQ0EuDQoNCjUuIExlb24sIFIuVC4sIEtpbSwgVS5TLiwgYW5kIEdhbGFtYm9zLCBULlYuICgyMDAzKS4gIlNlaXNtaWMgRGVzaWduIG9mIFRydXNzZWQgR2lyZGVyIFN5c3RlbXMiLCBLZXlub3RlIFByZXNlbnRhdGlvbiwgQVNTQ0NBJzAzLCBTeWRuZXksIEF1c3RyYWxpYS4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915301306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:12 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911050306521"  usageLimitType="allocation" usageLimit="200" currentUsage="77" remainingUsage="123" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Sharon L. Wood Ph.D.</FormattedName>
+<GivenName>Sharon</GivenName>
+<MiddleName>L.</MiddleName>
+<FamilyName>Wood</FamilyName>
+<Affix type="qualification">Ph.D.</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>78712-1068</PostalCode>
+<Region>TX</Region>
+<Municipality>Austin</Municipality>
+<DeliveryAddress>
+<AddressLine>301 E. Dean Keeton St. Stop C1747</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (512) 471-4558</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>512</AreaCityCode>
+<SubscriberNumber>471-4558</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (512) 471-1944</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>512</AreaCityCode>
+<SubscriberNumber>471-1944</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>swood@mail.utexas.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Illinois</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1986-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Illinois</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1983-08-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Virginia</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1982-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+<Comments>Technical Interests: Design and behavior of reinforced concrete structures evaluation of existing structures earthquake engineering</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>&quot;Development of New Seismic Design Provisions for Diaphragms Based on the Observed Behavior of Precast Concrete Parking Garages during the</Title>
+<Name role="author">
+<FormattedName>Wood, S.L., Stanton, J.F., and Hawkins, N.M</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Northridge Earthquake &quot; Journal</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Increasing the Flexural Capacity of Typical Reinforced Concrete Bridges in Texas using Carbon Fiber Reinforcing Polymer Composites &quot; Research Report 1776-2</Title>
+<Name role="author">
+<FormattedName>BreÃ±a, S.F., Wood, S.L., and Kreger, M.E</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>American Concrete Institute Vol</Title>
+<Name role="author">
+<FormattedName>Sittipunt, C., Wood, S.L., Lukkunaprasit, P., and Pattararattanakul, P</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Cyclic Behavior of Reinforced Concrete Structural Walls with Diagonal Web Reinforcement &quot; Structural Journal</JournalOrSerialName>
+<Volume>98</Volume>
+</Article>
+<Article>
+<Title>&quot;Development of a Passive Sensor to Detect Cracks in Welded Steel Construction &quot; Proceedings</Title>
+<Name role="author">
+<FormattedName>Wood, S.L. and Neikirk, D.P</FormattedName>
+</Name>
+<JournalOrSerialName>U.S.-Japan Cooperative Research in Urban Earthquake Disaster Mitigation</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>Earthquake Engineering Research Institute</Title>
+<Name role="author">
+<FormattedName>Posada, M. and Wood, S.L</FormattedName>
+</Name>
+<EventName>&quot;Seismic Performance of Precast Industrial Buildings in Turkey &quot; Proceedings 7th U.S. National Conference on Earthquake Engineering</EventName>
+<ConferenceLocation>Boston MA</ConferenceLocation>
+</ConferencePaper>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Architectural">
+<CompetencyEvidence name ="Architectural">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Bridges">
+<CompetencyEvidence name ="Bridges">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Civil Engineering">
+<CompetencyEvidence name ="Civil Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Email">
+<CompetencyEvidence name ="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Structural Engineering">
+<CompetencyEvidence name ="Structural Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>U2hhcm9uIEwuIFdvb2QsIFBoLkQuwqANCg0KUHJvZmVzc29yIC0gUm9iZXJ0IEwuIFBhcmtlciwgU3IuIENlbnRlbm5pYWwgUHJvZmVzc29yIGluIEVuZ2luZWVyaW5nIC0gRGVwYXJ0bWVudCBDaGFpcg0KDQpPZmZpY2U6wqBFQ0ogNC4yMDANCg0KUGhvbmU6wqAoNTEyKSA0NzEtNDU1OA0KDQpGYXg6wqAoNTEyKSA0NzEtMTk0NA0KDQpFbWFpbDrCoHN3b29kQG1haWwudXRleGFzLmVkdQ0KDQpVVCBNYWlsOsKgQzE3NDcNCg0KTWFpbGluZyBBZGRyZXNzOg0KDQpUaGUgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBdXN0aW4NCg0KQ2l2aWwsIEFyY2hpdGVjdHVyYWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcgRGVwYXJ0bWVudC1TVFINCg0KMzAxIEUuIERlYW4gS2VldG9uIFN0LiBTdG9wIEMxNzQ3DQoNCkF1c3RpbiwgVFggNzg3MTItMTA2OA0KDQpBcmVhKHMpIG9mIEV4cGVydGlzZToNCg0KU3RydWN0dXJhbCBFbmdpbmVlcmluZw0KDQpFZHVjYXRpb25hbCBRdWFsaWZpY2F0aW9uczoNCg0KUGguRC4sIFVuaXZlcnNpdHkgb2YgSWxsaW5vaXMsIENpdmlsIEVuZ2luZWVyaW5nLCBNYXkgMTk4Ng0KDQpNLlMuLCBVbml2ZXJzaXR5IG9mIElsbGlub2lzLCBDaXZpbCBFbmdpbmVlcmluZywgQXVndXN0IDE5ODMNCg0KQi5TLiwgVW5pdmVyc2l0eSBvZiBWaXJnaW5pYSwgQ2l2aWwgRW5naW5lZXJpbmcsIE1heSAxOTgyDQoNClRlY2huaWNhbCBJbnRlcmVzdHM6DQoNCkRlc2lnbiBhbmQgYmVoYXZpb3Igb2YgcmVpbmZvcmNlZCBjb25jcmV0ZSBzdHJ1Y3R1cmVzOyBldmFsdWF0aW9uIG9mIGV4aXN0aW5nIHN0cnVjdHVyZXM7IGVhcnRocXVha2UgZW5naW5lZXJpbmcNCg0KwqANCg0KU2VsZWN0ZWQgUHVibGljYXRpb25zOg0KDQpXb29kLCBTLkwuLCBTdGFudG9uLCBKLkYuLCBhbmQgSGF3a2lucywgTi5NLiwgIkRldmVsb3BtZW50IG9mIE5ldyBTZWlzbWljIERlc2lnbiBQcm92aXNpb25zIGZvciBEaWFwaHJhZ21zIEJhc2VkIG9uIHRoZSBPYnNlcnZlZCBCZWhhdmlvciBvZiBQcmVjYXN0IENvbmNyZXRlIFBhcmtpbmcgR2FyYWdlcyBkdXJpbmcgdGhlIDE5OTQgTm9ydGhyaWRnZSBFYXJ0aHF1YWtlLCIgSm91cm5hbCwgUHJlY2FzdC9QcmVzdHJlc3NlZCBDb25jcmV0ZSBJbnN0aXR1dGUsIFZvbC4gNDUsIE5vLiAxLCBKYW51YXJ5L0ZlYnJ1YXJ5IDIwMDAsIHBwLiA1MC02NQ0KDQoNCg0KQnJlw7FhLCBTLkYuLCBXb29kLCBTLkwuLCBhbmQgS3JlZ2VyLCBNLkUuLCAiSW5jcmVhc2luZyB0aGUgRmxleHVyYWwgQ2FwYWNpdHkgb2YgVHlwaWNhbCBSZWluZm9yY2VkIENvbmNyZXRlIEJyaWRnZXMgaW4gVGV4YXMgdXNpbmcgQ2FyYm9uIEZpYmVyIFJlaW5mb3JjaW5nIFBvbHltZXIgQ29tcG9zaXRlcywiIFJlc2VhcmNoIFJlcG9ydCAxNzc2LTIsIEZlcmd1c29uIFN0cnVjdHVyYWwgRW5naW5lZXJpbmcgTGFib3JhdG9yeSwgVW5pdmVyc2l0eSBvZiBUZXhhcywgTWF5IDIwMDENCg0KDQoNClNpdHRpcHVudCwgQy4sIFdvb2QsIFMuTC4sIEx1a2t1bmFwcmFzaXQsIFAuLCBhbmQgUGF0dGFyYXJhdHRhbmFrdWwsIFAuLCAiQ3ljbGljIEJlaGF2aW9yIG9mIFJlaW5mb3JjZWQgQ29uY3JldGUgU3RydWN0dXJhbCBXYWxscyB3aXRoIERpYWdvbmFsIFdlYiBSZWluZm9yY2VtZW50LCIgU3RydWN0dXJhbCBKb3VybmFsLCBBbWVyaWNhbiBDb25jcmV0ZSBJbnN0aXR1dGUsIFZvbC4gOTgsIE5vLiA0LCBKdWx5L0F1Z3VzdCAyMDAxLCBwcC4gNTU0LTU2Mg0KDQoNCg0KV29vZCwgUy5MLiBhbmQgTmVpa2lyaywgRC5QLiwgIkRldmVsb3BtZW50IG9mIGEgUGFzc2l2ZSBTZW5zb3IgdG8gRGV0ZWN0IENyYWNrcyBpbiBXZWxkZWQgU3RlZWwgQ29uc3RydWN0aW9uLCIgUHJvY2VlZGluZ3MsIFUuUy4tSmFwYW4gQ29vcGVyYXRpdmUgUmVzZWFyY2ggaW4gVXJiYW4gRWFydGhxdWFrZSBEaXNhc3RlciBNaXRpZ2F0aW9uLCBUaGlyZCBHcmFudGVlcyBNZWV0aW5nLCBTZWF0dGxlLCBXYXNoaW5ndG9uLCBBdWd1c3QgMjAwMQ0KDQoNCg0KUG9zYWRhLCBNLiBhbmQgV29vZCwgUy5MLiwgIlNlaXNtaWMgUGVyZm9ybWFuY2Ugb2YgUHJlY2FzdCBJbmR1c3RyaWFsIEJ1aWxkaW5ncyBpbiBUdXJrZXksIiBQcm9jZWVkaW5ncywgN3RoIFUuUy4gTmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBFYXJ0aHF1YWtlIEVuZ2luZWVyaW5nLCBFYXJ0aHF1YWtlIEVuZ2luZWVyaW5nIFJlc2VhcmNoIEluc3RpdHV0ZSwgQm9zdG9uLCBNQSwgUGFwZXIgNTQzLCBKdWx5IDIwMDI=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911050306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:42 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910016206521"  usageLimitType="allocation" usageLimit="200" currentUsage="31" remainingUsage="169" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>David B. Cooke III</FormattedName>
+<GivenName>David</GivenName>
+<MiddleName>B.</MiddleName>
+<FamilyName>Cooke</FamilyName>
+<Affix type="generation">III</Affix>
+</PersonName>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>North Carolina Central University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>North Carolina Central University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Howard University College of Medicine</SchoolName>
+</School>
+<OrganizationUnit>Department of Physiology and Biophysics</OrganizationUnit>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of North Carolina at Chapel Hill Lineberger Cancer Research Center</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Howard University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1983-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Physiology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Ph.D Thesis</Title>
+</Article>
+<Article>
+<Title>N.Emmett and D.B</Title>
+<Name role="author">
+<FormattedName>Donald, C., D.E. Montgomery</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Genomic methylation patterns of the Dunning R-3327 prostatic adenocarcinoma system</Title>
+<Name role="author">
+<FormattedName>Blount, L.V. and D.B. Cooke, III</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Cancer Letters</JournalOrSerialName>
+<Volume>98(2</Volume>
+<PageNumber>213-218.</PageNumber>
+</Article>
+<Article>
+<Title>Biometric assessment of prostate cancer metastatic potential</Title>
+<Name role="author">
+<FormattedName>Cooper, C.R., N. Emmett, S. Harris-Hooker, R. Patterson and D.B. Cooke, III</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>The adhesion and invasion potential of rat prostatic cancer cells: A correlation with metastatic potential</Title>
+<Name role="author">
+<FormattedName>Cooper, C.R., C.D. Donald, N. Emmet, S. Harris-Hooker, D.B. Cooke, III</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1993</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Invasion and Metastasis 13:169-177</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGF2aWQgQi4gQ29va2UgSUlJDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2Zlc3NvciAvIENoYWlyDQoNCg0KDQogICAgIEVkdWNhdGlvbg0KDQogICAgIENvdXJzZXMgVGF1Z2h0DQoNCiAgICAgUmVzZWFyY2ggSW50ZXJlc3RzDQoNCiAgICAgUHVibGljYXRpb25zDQoNCg0KDQpQaC5EIFRoZXNpczoNCg0KDQoNCkVkdWNhdGlvbjoNCg0KDQoNCkIuUy4gTm9ydGggQ2Fyb2xpbmEgQ2VudHJhbCBVbml2ZXJzaXR5DQoNCk0uUy4gTm9ydGggQ2Fyb2xpbmEgQ2VudHJhbCBVbml2ZXJzaXR5DQoNClBoLkQuIEhvd2FyZCBVbml2ZXJzaXR5LCBDb2xsZWdlIG9mIE1lZGljaW5lLCBEZXBhcnRtZW50IG9mIFBoeXNpb2xvZ3kgYW5kIEJpb3BoeXNpY3MNCg0KRmVsbG93c2hpcDogVW5pdmVyc2l0eSBvZiBOb3J0aCBDYXJvbGluYSBhdCBDaGFwZWwgSGlsbDsgTGluZWJlcmdlciBDYW5jZXIgUmVzZWFyY2ggQ2VudGVyDQoNCg0KDQpDb3Vyc2VzIFRhdWdodDoNCg0KDQoNCkJTOiBTdWJqZWN0LCBJbnN0aXR1dGlvbiwgWWVhcg0KDQpNUzogU3ViamVjdCwgSW5zdGl0dXRpb24sIFllYXINCg0KUGguRDogUGh5c2lvbG9neSwgSG93YXJkIFVuaXZlcnNpdHksIDE5ODMgDQoNCg0KDQpSZXNlYXJjaCBJbnRlcmVzdHM6DQoNCg0KDQpFbmRvY3Jpbm9sb2d5IGFuZCBDZWxsIE1ldGFib2xpc20NCg0KUm9sZSBvZiBPbmNvZ2VuZSBFeHByZXNzaW9uIGluIFByb3N0YXRlIENhbmNlcg0KDQpUdW1vciBQcm9ncmVzc2lvbiBpbiBQcm9zdGF0ZSBDYW5jZXINCg0KDQoNClJlc2VhcmNoIGluIHRoaXMgbGFib3JhdG9yeSB1dGlsaXplcyB0aGUgRHVubmluZyBSLTMzMjcgcmF0IGRvcnNhbCBwcm9zdGF0aWMgYWRlbm9jYXJjaW5vbWEgc3lzdGVtLiBUaGlzIHNwb250YW5lb3VzbHkgZGV2ZWxvcGluZyBjYW5jZXIgY29uc2lzdHMgb2Ygc2V2ZXJhbCB3ZWxsIGRlZmluZWQgc3VibGluZXMgd2hpY2ggZXhoaWJpdCB2YXJ5aW5nIHN0YWdlcyBvZiB0dW1vciBwcm9ncmVzc2lvbiBzaW1pbGFyIHRvIHRoYXQgb2YgaHVtYW4gcHJvc3RhdGUgY2FuY2VyLiBPdXIgc3R1ZHkgb2YgcHJvc3RhdGUgY2FuY2VyIGhhcyBkZW1vbnN0cmF0ZWQgY29ycmVsYXRpb25zIGJldHdlZW4gbWV0YXN0YXRpYyBvbmNvZ2VuZSBleHByZXNzaW9uIChyYXMgZmFtaWx5KSBhbmQgY2VsbHVsYXIgZGlmZmVyZW50aWF0aW9uIChyZXRpbm9pYyBhY2lkLCBkaWZsb3Vyb21ldGh5bCBvcm5pdGhpbmUpLiBUaGUgbWV0YXN0YXRpYyBwcm9jZXNzIGludm9sdmVzIHRoZSBhYmlsaXR5IG9mIGEgcHJvbGlmZXJhdGl2ZSBjZWxsdWxhciBtYXNzIHRvIGJlIG1vdGlsZSwgd2hpY2ggc3VnZ2VzdHMgYSBkZXJlZ3VsYXRpb24gb2YgZ2VuZXRpYyBhbmQgY2VsbHVsYXIgY29udHJvbHMuIFRvIHRoaXMgZW5kLCB3ZSBoYXZlIHV0aWxpemVkIGludmFzaW9uLCBjaGVtb2ludmFzaW9uIGFuZCBhZGhlc2lvbiBhc3NheXMgYXMgYSBtZWFucyBvZiBkaXN0aW5ndWlzaGluZyB0aGUgbWV0YXN0YXRpYyBwaGVub21lbm9tLiBJbiBhZGRpdGlvbiwgY29uZm9jYWwgbGFzZXIgbWljcm9zY29weSBoYXMgYmVlbiB1dGlsaXplZCB0byBlbHVjaWRhdGUgY2hhbmdlcyBpbiB0aGUgZGlzdHJpYnV0aW9uIG9mIGN5dG9za2VsZXRhbCBwcm90ZWlucyAoYWN0aW4sIGFscGhhLWFjdGluaW4sIHZpbmN1bGluLHZpbWVudGluKSBhcyBhIG1lYW5zIG9mIGNoYXJhY3Rlcml6aW5nIHRoZSBtZXRhc3RhdGljIHByb2Nlc3MuIEluIHN1bSwgdGhpcyBsYWJvcmF0b3J5IHNlZWtzIHRvIGZ1cnRoZXIgY2hhcmFjdGVyaXplIGdlbm90eXBpYyBhbmQgcGhlbm90eXBpYyBlbnRpdGllcyBhc3NvY2lhdGVkIHdpdGggdHVtb3IgcHJvZ3Jlc3Npb24gb2YgdGhlIHByb3N0YXRlIGFzIHdlbGwgYXMgdG8gZGVtb25zdHJhdGUgaG93IGRpZmZlcmVudGlhdGlvbiB0aGVyYXB5IGNvdWxkIGJlIHV0aWxpemVkIGFzIGEgdG9vbCBmb3IgdHVtb3Igc3VwcHJlc3Npb24uDQoNCg0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnM6DQoNCg0KDQpEb25hbGQsIEMuLCBELkUuIE1vbnRnb21lcnksIE4uRW1tZXR0IGFuZCBELkIuIENvb2tlLCBJSUkuIDE5OTkuIEludmFzaXZlIHBvdGVudGlhbCBhbmQgc3Vic3RyYXRlIGRlcGVuZGVuY2Ugb2YgYXR0YWNobWVudCBpbiB0aGUgRHVubmluZyBSLTMzMjcgcmF0IHByb3N0YXRlIGFkZW5vY2FyY2lub21hIG1vZGVsLiBJbnZhc2lvbiBhbmQgTWV0YXN0YXNpcyAoYWNjZXB0ZWQgZm9yIHB1YmxpY2F0aW9uKS4NCg0KQmxvdW50LCBMLlYuIGFuZCBELkIuIENvb2tlLCBJSUkuIDE5OTYuIEdlbm9taWMgbWV0aHlsYXRpb24gcGF0dGVybnMgb2YgdGhlIER1bm5pbmcgUi0zMzI3IHByb3N0YXRpYyBhZGVub2NhcmNpbm9tYSBzeXN0ZW0uIENhbmNlciBMZXR0ZXJzIDk4KDIpMjEzLTIxOC4NCg0KDQoNCkJsb3VudCwgTC5WLiBhbmQgRC5CLiBDb29rZSwgSUlJLiAxOTk2LiBQb2ludCBtdXRhdGlvbnMgaW4gdGhlIEtpLXJhczIgZ2VuZSBvZiBjb2RvbjEyIGluIHRoZSBEdW5uaW5nIFItMzMyNyBwcm9zdGF0aWMgYWRlbm9jYXJjaW5vbWEgc3lzdGVtLiBQcm9zdGF0ZSAyOCgxKTo0NC01MC4NCg0KDQoNCkNvb3BlciwgQy5SLiwgTi4gRW1tZXR0LCBTLiBIYXJyaXMtSG9va2VyLCBSLiBQYXR0ZXJzb24gYW5kIEQuQi4gQ29va2UsIElJSS4gMTk5NC4gQmlvbWV0cmljIGFzc2Vzc21lbnQgb2YgcHJvc3RhdGUgY2FuY2VyIG1ldGFzdGF0aWMgcG90ZW50aWFsLiBXb3JsZCBKb3VybmFsIG9mIFVyb2xvZ3kgMTIoNik6MzA0LTMwNy4NCg0KDQoNCkNvb3BlciwgQy5SLiwgQy5ELiBEb25hbGQsIE4uIEVtbWV0LCBTLiBIYXJyaXMtSG9va2VyLCBELkIuIENvb2tlLCBJSUkuIDE5OTMuIFRoZSBhZGhlc2lvbiBhbmQgaW52YXNpb24gcG90ZW50aWFsIG9mIHJhdCBwcm9zdGF0aWMgY2FuY2VyIGNlbGxzOiBBIGNvcnJlbGF0aW9uIHdpdGggbWV0YXN0YXRpYyBwb3RlbnRpYWwuIEludmFzaW9uIGFuZCBNZXRhc3Rhc2lzIDEzOjE2OS0xNzcu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910016206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

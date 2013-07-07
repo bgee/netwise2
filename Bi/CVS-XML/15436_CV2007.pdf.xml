@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:34 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911620306521"  usageLimitType="allocation" usageLimit="200" currentUsage="52" remainingUsage="148" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Charles Frederick &quot;Rick&quot; Williams</FormattedName>
+<GivenName>Charles</GivenName>
+<MiddleName>Frederick &quot;Rick&quot;</MiddleName>
+<FamilyName>Williams</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>83209-8007</PostalCode>
+<Region>ID</Region>
+<Municipality>Pocatello</Municipality>
+<DeliveryAddress>
+<PostOfficeBox>Box 8007</PostOfficeBox>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (208) 478-6986</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>208</AreaCityCode>
+<SubscriberNumber>478-6986</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>willcha2@isu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>ADDRESS</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Idaho</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>State University</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Idaho</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>208-478-6986
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Campus Box 8007</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<PostalCode>83209-8007</PostalCode>
+<Region>ID</Region>
+<Municipality>Pocatello</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>- 29483765 (dept. office), 282 - 4570 (fax) email: willcha2@isu.edu
+</Description>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Idaho State Univ.</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Department of Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>AND TEACHING RECORD
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Plant-Animal Interactions</EmployerOrgName>
+<PositionHistory>
+<Title>Evolutionary Ecology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Systematic Botany</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Seminars</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Genetics in Evolution, Ecological Genetics, and Floral Biology
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Program Coordinator</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>NSF Research Experience for Undergraduates (REU) Site Grant Rocky Mountain Biological Laboratory
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Idaho State Univ.</EmployerOrgName>
+<PositionHistory>
+<Title>Research Assistant Professor, Department of Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Molecular Methods in Ecology Seminar General Ecology
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Nebraska Wesleyan University</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor of Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Introductory Botany, Genetics, Evolution, Research Design, Natural History of Yucatan.
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Field Ecology</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Rocky Mountain Biological Laboratory</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Research Design and Analysis (96), supervised undergraduate independent research students and REUs
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Nebraska Wesleyan University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Assistant Professor of Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California-Riverside and RMBL</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>1992/93 NSF Postdoctoral</Name>
+</DegreeMajor>
+<Comments>Project Title: Spatial genetic structure and genetic demography of Delphinium nelsonii.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wisconsin</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>WI</Region>
+<Municipality>Madison</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Advisor: Nickolas M. Waser</Name>
+</DegreeMajor>
+<Comments>Dissertation title: Spatial genetic consequences of seed dispersal: a comparative study of three sympatric forest herbs Umbelliferae. Advisor: Donald M. Waller</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Miami</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>FL</Region>
+<Municipality>Coral Gables</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biology</Name>
+</DegreeMajor>
+<Comments>Thesis title: Social organization of the bat, Carollia perspicillata Chiroptera: Phyllostomidae. Advisor: Theodore H. Fleming</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Oklahoma</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>OK</Region>
+<Municipality>Norman</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1979-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Zoology</Name>
+</DegreeMajor>
+<Comments>dispersal biology, plant evolutionary ecology, ecology/behavior of bats</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Sutherland</Municipality>
+</PostalAddress>
+<Degree degreeType="postgraduate">
+<DegreeName>J.D</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and C.F.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>ISU</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>using amplified fragment length polymorphism AFLP</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>INVITED SEMINARS</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Research Symposium</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wisconsin-Madison</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1991-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Rocky Mountain Biological Laboratory</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California-Riverside</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Minnesota</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Nebraska-Lincoln</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Tennessee</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Nebraska-Omaha</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Georgia Southern University</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Grinnell College</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Nebraska-Lincoln</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Canterbury</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>NZ</CountryCode>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1998-12-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Vermont-Burlington</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Idaho State University</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Boise State</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Utah State University</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Idaho State University</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeMajor>
+<Name>Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Guichan Hou</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Melissa Merrick</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Griffith U., Australia</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>advisor Jane Hughes</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Aren Eddingsaas</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Byron Weckworth</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>U. Canterbury, NZ</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>advisor Hazel Chapman</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Kayce Bell</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Amy Runck</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Deborah Johnson</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Chris Jenkins</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeMajor>
+<Name>advisor Chuck Peterson</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Nancy Hampton</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>advisor Nancy Huntly dropped out of program</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Cameron Pederson</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>advisor Maureen Brandon dropped out of program</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Julie Wemple</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>advisor Maureen Brandon dropped out of program</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Zhen Li</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Amelia Nugent</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Quinn Shurtliff</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Jennifer Claypool</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Sheel Bansal</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Jason Beck</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Katie Miller</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Chang Liu</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Kira Pontius</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Faith Rudebusch</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>UNDERGRADUATE</DegreeName>
+<DegreeMajor>
+<Name>STUDENTS</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>research advisor</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Boston U.</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Colorado1993-94</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Prof. U. Nebraska</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mark Viera RMBL-REU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Colorado State University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Jessica Ruvinsky</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Stanford U.</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>RMBL and Yale</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Law School</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>1996-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(NWU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>RMBL and NWU</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1996-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Sarah Harney</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Texas A&amp;M</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>U.C. Berkeley</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1997-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Allison Drew RMBL and Cornell</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Duke University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(RMBL-REU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>RMBL and UNAM</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Martha Palomino Tovar</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>U.C. Berkeley</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Maryland</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Amanda Gibson RMBL-REU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>U.C. Berkeley</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Maria Piantek</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Jodi McKay ISU</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Texas</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(RMBL</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Iowa State U.</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Jose Ramirez ISU</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>U.C. Riverside</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Jonathan Godfrey ISU</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Creighton U. Medical School Jeff Wheeler ISU</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Creighton U. Medical School</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Donald Sandmann</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>a high school teacher</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>ID</Region>
+<Municipality>Burley</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>(ISU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Jeremy Green ISU</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>a high school teacher</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Carla Cortez Baez</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Medical School Andrew Stoddard ISU</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(RMBL-REU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>ISU</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(ISU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Utah State University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(ISU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Jared Matson ISU</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>USFS Linsay Hose ISU</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>USFS</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Dorian Rammell</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Mariko Squires ISU</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(ISU</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Rachel Winston ISU</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Josh Sutherland ISU</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Idaho</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Jill McNeil (D.A</Name>
+<EffectiveDate>
+<ValidFrom>
+<AnyDate>2003-01-01</AnyDate>
+</ValidFrom>
+</EffectiveDate>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<PublicationHistory>
+<Article>
+<Title>Phenology seed dispersal and colonization in Muntingia calabura a neotropical pioneer tree</Title>
+<Name role="author">
+<FormattedName>Fleming, T.H., C.F. Williams, F.J. Bonaccorso, and L.H. Herbst</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1985</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Phyllostomidae)</Title>
+<JournalOrSerialName>Social organization of the bat</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Flexibility in the development of heron sibling aggression: an intraspecific test of the prey-size hypothesis</Title>
+<Name role="author">
+<FormattedName>Mock, D.W., T. C. Lamey, C.F. Williams, and A. Pelletier</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1987</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Anim</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Genetic consequences of seed dispersal in three sympatric forest herbs</Title>
+<Name role="author">
+<FormattedName>Williams, C. F. and R. P. Guries</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Phenology seed dispersal and recruitment in Cecropia peltata in Costa Rican tropical dry forest</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Genetic consequences of seed dispersal in three sympatric forest herbs</Title>
+<Name role="author">
+<FormattedName>Williams, C. F</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>II</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microspatial genetic structure within populations</Title>
+<JournalOrSerialName>Evolution</JournalOrSerialName>
+<Volume>48(6):1959-1972.</Volume>
+</Article>
+<Article>
+<Title>population structure of subablpine bats in Colorado</Title>
+<Name role="author">
+<FormattedName>Storz, J. F., and C. F. Williams</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996 Summer</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Southwestern Naturalist</JournalOrSerialName>
+<Volume>41(3):322-324.</Volume>
+</Article>
+<Article>
+<Title>Spatial genetic structure in Delphinium nuttallianum: inferences about gene flow</Title>
+<Name role="author">
+<FormattedName>Williams, C. F. and N. M. Waser</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Heredity</JournalOrSerialName>
+<Volume>83(5):541-550.</Volume>
+</Article>
+<Article>
+<Title>Kuchenreuther and A. Drew</Title>
+<Name role="author">
+<FormattedName>Williams, C. F., M. A</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Floral dimorphism pollinator attraction and self-fertilization in gynodioecious Geranium richardsonii</JournalOrSerialName>
+</Article>
+<Article>
+<Title>and genetic structure in two sympatric Delphinium species</Title>
+<JournalOrSerialName>American Journal of Botany 87:661-669</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Inbreeding and outbreeding</Title>
+<Name role="author">
+<FormattedName>Waser, N. M., and C. F. Williams</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Botany</JournalOrSerialName>
+<Volume>88(9):1623-1633.</Volume>
+</Article>
+<Article>
+<Title>ecology: concepts and case studies</Title>
+<Name role="author">
+<FormattedName>A. Roff, and D. J. Fairburn (eds.), Evolutionary</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>(Big Bluestem)</Title>
+<JournalOrSerialName>Univ. Press</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Effects of floral display size and biparental inbreeding on outcrossing rates in Delphinium barbeyi</Title>
+<Name role="author">
+<FormattedName>Williams, C. F</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Ranunculaceae).</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(provisionally accepted with minor revision</Title>
+<Name role="author">
+<FormattedName>MANUSCRIPTS IN REVIEW OR REVISION: Thomas, D.T., A.R. Ahedor, C.F. Williams, C. DePamphilis, D.J. Crawford, and Q.-Y. Xiang</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>10/8/07</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Genetic analysis of a broad hybrid zone in Aesculus - Is there evidence of long- distance pollen dispersal* International Journal of Plant Sciences</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Saprolegniaceae identified on amphibian eggs throughout the Pacific Northwest</Title>
+<Name role="author">
+<FormattedName>Petrisko, J., C.A. Pearl, D.S. Pilliod, P. Sheridan, C.F. Williams, C.R. Peterson, and R.B. Bury</FormattedName>
+</Name>
+<JournalOrSerialName>USA by Internal Transcribed Spacer sequences and phylogenetic analysis</JournalOrSerialName>
+</Article>
+<Article>
+<Title>dePamphillis and Q.-Y</Title>
+<Name role="author">
+<FormattedName>Ahedor, A.R., C.F. Williams, C</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>hybrid zone of Aesculus pavia and A. sylvatica in Southeastern USA</Title>
+<JournalOrSerialName>Southeastern Naturalist</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Savaedra</Title>
+<Name role="author">
+<FormattedName>MANUSCRIPTS IN PREPARATION: Williams, C. F and F</FormattedName>
+</Name>
+<JournalOrSerialName>Phenological variation in fecundity and the mating system of Delphinium nutallianum</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Kuchenreuther</Title>
+<Name role="author">
+<FormattedName>Williams, C. F., K. L. O&apos;Malley, D.F. Sandmann, and M. A</FormattedName>
+</Name>
+<JournalOrSerialName>Female fitness advantages for outcrossing fecundity and inbreeding depression in gynodioecious Geranium richardsonii</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<Title>BY UNDERGRADUATE RESEARCH STUDENTS at ISU</Title>
+<StartDate><StringDate>2002-01-01</StringDate></StartDate>
+<EventName>Sandmann D. Effects of selfing and outcrossing on the maintenance of gynodioecy in wild geranium (Geranium richardsonii). ISU Undergraduate Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>study gender variation and gene flow in a gynodioecious plant Geranium richardsonii</Title>
+<EventName>ISU Undergraduate Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>nuttallianum due to phenology and density. NIH-BRIN Summer Undergraduate</Title>
+<EventName>Research Symposium</EventName>
+<EventType>conference</EventType>
+<Location>Moscow ID.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>McKay J. J. Ramirez C.F. Williams and R.J Smith. Paternity analysis of beetles to</Title>
+<EventName>determine alternative mating tactics. ISU Undergraduate Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Kemper B. K. Danyal C.F. Williams and R.J Smith. Behavior of small male beetles</Title>
+<EventName>(Nicrophorus) in mating with females. ISU Undergraduate Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Stoddard A. T. Jensen R.J. Smith and C.F Williams. Sperm selectivity in female</Title>
+<EventName>burying beetles. ISU Undergraduate Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Sato E. A. Prasad J. Delahanty and J Bala. Effects of nutrient limitation on floral</Title>
+<EventName>biomass in gynodioecious geraniums. ISU Undergraduate Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>population genetics studies of Geranium richardsonii. ISU Undergraduate Research</Title>
+<EventName>Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Ciak P.L and R Williams. A plant-pollinator interaction web for a sage steppe</Title>
+<EventName>community. ISU Undergraduate Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Email">
+<CompetencyEvidence name ="Email" lastUsed="2082-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2001-01-01">
+<NumericValue description="Range in years of experience">12</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>American Society of Naturalists, Botanical Society of America, Ecological Society of</Name>
+</Association>
+<Association>
+<Name>America, Society for the Study of Evolution, Sigma Xi.</Name>
+</Association>
+<Association>
+<Name>Williams Vitae 2</Name>
+</Association>
+<Association>
+<Name>FUNDED GRANTS, AWARDS AND FELLOWSHIPS:</Name>
+</Association>
+<Association>
+<Name>Ecology and genetics of plant-pollinator interactions in the conservation and recovery</Name>
+</Association>
+<Association>
+<Name>of native plant populations.</Name>
+</Association>
+<Association>
+<Name>Release Time Support for External Funding, Research</Name>
+</Association>
+<Association>
+<Name>Coordinating Council, ISU ($3767)</Name>
+</Association>
+<Association>
+<Name>AFLP to study plant reproductive ecology and evolution.</Name>
+</Association>
+<Association>
+<Name>Faculty Research Committee</Name>
+</Association>
+<Association>
+<Name>Idaho State University ($5000)</Name>
+</Association>
+<Association>
+<Name>Field-based research in molecular ecology.</Name>
+</Association>
+<Association>
+<Name>University Research Committee, Idaho</Name>
+</Association>
+<Association>
+<Name>State University ($9492)</Name>
+</Association>
+<Association>
+<Name>Molecular analysis of plant breeding system evolution.</Name>
+</Association>
+<Association>
+<Name>NIH-BRIN Seed Grant ($4000)</Name>
+</Association>
+<Association>
+<Name>Density-dependent mating success in Delphinium nuttallianum.</Name>
+</Association>
+<Association>
+<Name>NIH-BRIN</Name>
+</Association>
+<Association>
+<Name>Undergraduate Research Fellowship for Jeremy Green ($6000)</Name>
+</Association>
+<Association>
+<Name>Molecular markers to study sex in plants and insects.</Name>
+</Association>
+<Association>
+<Name>Faculty Research Grant</Name>
+</Association>
+<Association>
+<Name>Idaho</Name>
+</Association>
+<Association>
+<Name>State University, co-PI with R.J.</Name>
+</Association>
+<Association>
+<Name>Smith, ISU ($4000)</Name>
+</Association>
+<Association>
+<Name>Supplemental Academic Computing Grant</Name>
+</Association>
+<Association>
+<Name>Idaho State Univ.</Name>
+</Association>
+<Association>
+<Name>($1645)  Howard Hughes Medical Institute Summer Research Fellowship</Name>
+<StartDate>
+<AnyDate>1995/97/98</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Ameritas Fellowship for Faculty Development, Nebraska Wesleyan University.</Name>
+</Association>
+<Association>
+<Name>NSF Short Term Grant for Exploratory Research, with K.</Name>
+</Association>
+<Association>
+<Name>Keeler U.</Name>
+</Association>
+<Association>
+<Name>of Nebraska</Name>
+</Association>
+<Association>
+<Name>NSF Postdoctoral Research Fellowship, with N.</Name>
+</Association>
+<Association>
+<Name>M.</Name>
+</Association>
+<Association>
+<Name>Waser, UC-Riverside and RMBL</Name>
+</Association>
+<Association>
+<Name>O.</Name>
+</Association>
+<Association>
+<Name>N.</Name>
+</Association>
+<Association>
+<Name>Allen Fellowship, Department of Botany, University of Wisconsin-Madison</Name>
+</Association>
+<Association>
+<Name>NIH Graduate Traineeship in Genetics, University of Wisconsin-Madison</Name>
+</Association>
+<Association>
+<Name>NSF Dissertation Improvement Grant, with D.</Name>
+</Association>
+<Association>
+<Name>M.</Name>
+</Association>
+<Association>
+<Name>Waller and R.</Name>
+</Association>
+<Association>
+<Name>P.</Name>
+</Association>
+<Association>
+<Name>Guries, University</Name>
+</Association>
+<Association>
+<Name>of Wisconsin-Madison  Advanced Opportunity Fellowship for Graduate Study U.</Name>
+<StartDate>
+<AnyDate>1986-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>of Wisconsin-Madison</Name>
+</Association>
+<Association>
+<Name>PROPOSALS SUBMITTED BUT NOT FUNDED:</Name>
+</Association>
+<Association>
+<Name>Density and frequency-dependent fitness in gynodioecious Geranium richardsonii:</Name>
+</Association>
+<Association>
+<Name>effects of local and global population structure.</Name>
+</Association>
+<Association>
+<Name>NSF Population Biology, $186,841 for</Name>
+</Association>
+<Association>
+<Name>36 mo.</Name>
+</Association>
+<Association>
+<Name>Preproposal - Effects of introduced plant species on native plant pollination success.</Name>
+</Association>
+<Association>
+<Name>Marsden Fund of New Zealand, with Dr.</Name>
+</Association>
+<Association>
+<Name>Hazel Chapman U.</Name>
+</Association>
+<Association>
+<Name>Canterbury, Christchurch</Name>
+</Association>
+<Association>
+<Name>NZ, request 36 mo.</Name>
+</Association>
+<Association>
+<Name>funding (preliminary - no budget).</Name>
+</Association>
+<Association>
+<Name>Preproposal - Effects of introduced plant species on native plant pollination success.</Name>
+</Association>
+<Association>
+<Name>Marsden Fund of New Zealand, with Dr.</Name>
+</Association>
+<Association>
+<Name>Hazel Chapman</Name>
+</Association>
+<Association>
+<Name>Preproposal - Usurped at the Post:</Name>
+</Association>
+<Association>
+<Name>and all because of color* Marsden Fund of New</Name>
+</Association>
+<Association>
+<Name>Zealand, with Dr.</Name>
+</Association>
+<Association>
+<Name>Hazel Chapman</Name>
+</Association>
+<Association>
+<Name>Supplemental Academic Computing Grant</Name>
+</Association>
+<Association>
+<Name>Idaho State University ($2045)</Name>
+</Association>
+<Association>
+<Name>Effects of herbivory on population dynamics and genetic structure of a clonal plant.</Name>
+</Association>
+<Association>
+<Name>NSF Ecology, with Dr.</Name>
+</Association>
+<Association>
+<Name>K.N.</Name>
+</Association>
+<Association>
+<Name>Jones, Harvard, $331,213 for 36 mo.</Name>
+</Association>
+<Association>
+<Name>The genetic, ecological, and developmental basis of mating system evolution in</Name>
+</Association>
+<Association>
+<Name>Mimulus parishii and Mimulus lewisii.</Name>
+</Association>
+<Association>
+<Name>NSF Population and Evolutionary Processes</Name>
+</Association>
+<Association>
+<Name>with Dr.</Name>
+</Association>
+<Association>
+<Name>Paul Beardsley and Dr.</Name>
+</Association>
+<Association>
+<Name>Jeff Hill, ISU, $989,066 for 48 mo.</Name>
+</Association>
+<Association>
+<Name>PROPOSALS IN REVIEW:</Name>
+</Association>
+<Association>
+<Name>Costs and benefits of floral display size in Delphinium.</Name>
+</Association>
+<Association>
+<Name>Submitted to NSF Population</Name>
+</Association>
+<Association>
+<Name>and Evolutionary Processes, July 2007, $387,938 for 36 mo.</Name>
+</Association>
+<Association>
+<Name>Williams Vitae 3</Name>
+</Association>
+<Association>
+<Name>Idaho Native Plant Society</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBRQ0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoYXJsZXMgRnJlZGVyaWNrICJSaWNrIiBXaWxsaWFtcw0KDQoNCg0KQ1VSUkVOVCBQT1NJVElPTiBBTkQgQUREUkVTUzoNCg0KQXNzaXN0YW50IFByb2Zlc3NvciAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE3MzQgTi4gRWxrIFJvYWQNCg0KRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzICAgICAgICAgICAgICAgICAgICAgICAgIFBvY2F0ZWxsbywgSUQgODMyMDQNCg0KSWRhaG8gU3RhdGUgVW5pdmVyc2l0eSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwOC00NzgtNjk4Ng0KDQpDYW1wdXMgQm94IDgwMDcNCg0KUG9jYXRlbGxvLCBJRCA4MzIwOS04MDA3DQoNCjIwOC0yODItMjk0OC8zNzY1IChkZXB0LiBvZmZpY2UpLCAyODItNDU3MCAoZmF4KQ0KDQplbWFpbDogd2lsbGNoYTJAaXN1LmVkdQ0KDQoNCg0KRURVQ0FUSU9OIGFuZCBUUkFJTklORzoNCg0KMTk5Mi85MyBOU0YgUG9zdGRvY3RvcmFsIEZlbGxvdywgVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhLVJpdmVyc2lkZSBhbmQgUk1CTA0KDQogICAgICAgIFByb2plY3QgVGl0bGU6IFNwYXRpYWwgZ2VuZXRpYyBzdHJ1Y3R1cmUgYW5kIGdlbmV0aWMgZGVtb2dyYXBoeSBvZiBEZWxwaGluaXVtDQoNCiAgICAgICAgbmVsc29uaWkuDQoNCiAgICAgICAgQWR2aXNvcjogTmlja29sYXMgTS4gV2FzZXINCg0KMTk5MSAgICBQaC5ELiBpbiBCb3RhbnksIFVuaXZlcnNpdHkgb2YgV2lzY29uc2luLCBNYWRpc29uLCBXSS4NCg0KICAgICAgICBEaXNzZXJ0YXRpb24gdGl0bGU6IFNwYXRpYWwgZ2VuZXRpYyBjb25zZXF1ZW5jZXMgb2Ygc2VlZCBkaXNwZXJzYWw6IGEgY29tcGFyYXRpdmUgc3R1ZHkNCg0KICAgICAgICBvZiB0aHJlZSBzeW1wYXRyaWMgZm9yZXN0IGhlcmJzIChVbWJlbGxpZmVyYWUpLiBBZHZpc29yOiBEb25hbGQgTS4gV2FsbGVyDQoNCjE5ODUgICAgTS5TLiBpbiBCaW9sb2d5LCBVbml2ZXJzaXR5IG9mIE1pYW1pLCBDb3JhbCBHYWJsZXMsIEZMLg0KDQogICAgICAgIFRoZXNpcyB0aXRsZTogU29jaWFsIG9yZ2FuaXphdGlvbiBvZiB0aGUgYmF0LCBDYXJvbGxpYSBwZXJzcGljaWxsYXRhIChDaGlyb3B0ZXJhOg0KDQogICAgICAgIFBoeWxsb3N0b21pZGFlKS4gQWR2aXNvcjogVGhlb2RvcmUgSC4gRmxlbWluZw0KDQoxOTc5ICAgIEIuUy4gaW4gWm9vbG9neSwgVW5pdmVyc2l0eSBvZiBPa2xhaG9tYSwgTm9ybWFuLCBPSy4NCg0KDQoNClJFU0VBUkNIIElOVEVSRVNUUzoNCg0KICAgIFBvcHVsYXRpb24gZ2VuZXRpYyBjb25zZXF1ZW5jZXMgb2YgcGxhbnQtYW5pbWFsIGludGVyYWN0aW9ucyBhbmQgZGlzcGVyc2FsLCBlY29sb2d5IGFuZA0KDQogICAgZXZvbHV0aW9uIG9mIGd5bm9kaW9lY3ksIGNhdXNlcyBhbmQgY29uc2VxdWVuY2VzIG9mIGluYnJlZWRpbmcsIG1vbGVjdWxhciBwb3B1bGF0aW9uDQoNCiAgICBnZW5ldGljcywgc3BhdGlhbCBnZW5ldGljIHN0cnVjdHVyZSBvZiBwbGFudCBwb3B1bGF0aW9ucywgZXZvbHV0aW9uIG9mIHBsYW50IG1hdGluZyBzeXN0ZW1zIGFuZA0KDQogICAgY28tZXZvbHV0aW9uIG9mIHBsYW50cyBhbmQgcG9sbGluYXRvcnMsIGVjb2xvZ3kgYW5kIGdlbmV0aWNzIG9mIGludmFzaXZlIHBsYW50cywgcG9sbGluYXRpb24gYW5kDQoNCiAgICBzZWVkIGRpc3BlcnNhbCBiaW9sb2d5LCBwbGFudCBldm9sdXRpb25hcnkgZWNvbG9neSwgZWNvbG9neS9iZWhhdmlvciBvZiBiYXRzLCBiaXJkcywgYW5kIGluc2VjdHMuDQoNCg0KDQpFTVBMT1lNRU5UIEFORCBURUFDSElORyBSRUNPUkQ6DQoNCjIwMDEtIHByZXNlbnQgQXNzaXN0YW50IFByb2Zlc3NvciwgRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBJZGFobyBTdGF0ZSBVbml2LjsNCg0KICAgICAgICAgICAgICBFdm9sdXRpb25hcnkgRWNvbG9neSwgUGxhbnQtQW5pbWFsIEludGVyYWN0aW9ucywgR2VuZXRpY3MsIFN5c3RlbWF0aWMgQm90YW55LA0KDQogICAgICAgICAgICAgIEdyYWR1YXRlIFNlbWluYXJzIGluIEV2b2x1dGlvbiwgRWNvbG9naWNhbCBHZW5ldGljcywgYW5kIEZsb3JhbCBCaW9sb2d5DQoNCjIwMDAtIDIwMDIgICAgUHJvZ3JhbSBDb29yZGluYXRvcjsgTlNGIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yIFVuZGVyZ3JhZHVhdGVzIChSRVUpIFNpdGUNCg0KICAgICAgICAgICAgICBHcmFudDsgUm9ja3kgTW91bnRhaW4gQmlvbG9naWNhbCBMYWJvcmF0b3J5DQoNCjE5OTktMjAwMSAgICAgUmVzZWFyY2ggQXNzaXN0YW50IFByb2Zlc3NvciwgRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBJZGFobyBTdGF0ZQ0KDQogICAgICAgICAgICAgIFVuaXYuOyBNb2xlY3VsYXIgTWV0aG9kcyBpbiBFY29sb2d5IFNlbWluYXI7IEdlbmVyYWwgRWNvbG9neQ0KDQoxOTk0LTE5OTggICAgIEFzc2lzdGFudCBQcm9mZXNzb3Igb2YgQmlvbG9neSwgTmVicmFza2EgV2VzbGV5YW4gVW5pdmVyc2l0eTsgSW50cm9kdWN0b3J5DQoNCiAgICAgICAgICAgICAgQm90YW55LCBHZW5ldGljcywgRXZvbHV0aW9uLCBSZXNlYXJjaCBEZXNpZ24sIE5hdHVyYWwgSGlzdG9yeSBvZiBZdWNhdGFuLg0KDQoxOTkzLSAyMDAyICAgIEluc3RydWN0b3IsIEZpZWxkIEVjb2xvZ3ksIFJvY2t5IE1vdW50YWluIEJpb2xvZ2ljYWwgTGFib3JhdG9yeSAoOTMtOTQpLA0KDQogICAgICAgICAgICAgIFJlc2VhcmNoIERlc2lnbiBhbmQgQW5hbHlzaXMgKDk2KSwgc3VwZXJ2aXNlZCB1bmRlcmdyYWR1YXRlIGluZGVwZW5kZW50DQoNCiAgICAgICAgICAgICAgcmVzZWFyY2ggc3R1ZGVudHMgYW5kIFJFVXMgKDkzLTAyKS4NCg0KMTk5MyAgICAgICAgICBWaXNpdGluZyBBc3Npc3RhbnQgUHJvZmVzc29yIG9mIEJpb2xvZ3ksIE5lYnJhc2thIFdlc2xleWFuIFVuaXZlcnNpdHkNCg0KDQoNClBST0ZFU1NJT05BTCBBRkZJTElBVElPTlM6DQoNCiAgICBBbWVyaWNhbiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBCb3RhbmljYWwgU29jaWV0eSBvZiBBbWVyaWNhLCBFY29sb2dpY2FsIFNvY2lldHkgb2YNCg0KICAgIEFtZXJpY2EsIFNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBFdm9sdXRpb24sIFNpZ21hIFhpLg0KDQpXaWxsaWFtcyBWaXRhZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMg0KDQpGVU5ERUQgR1JBTlRTLCBBV0FSRFMgQU5EIEZFTExPV1NISVBTOg0KDQoyMDA2ICAgICAgIEVjb2xvZ3kgYW5kIGdlbmV0aWNzIG9mIHBsYW50LXBvbGxpbmF0b3IgaW50ZXJhY3Rpb25zIGluIHRoZSBjb25zZXJ2YXRpb24gYW5kIHJlY292ZXJ5DQoNCiAgICAgICAgICAgb2YgbmF0aXZlIHBsYW50IHBvcHVsYXRpb25zLiBSZWxlYXNlIFRpbWUgU3VwcG9ydCBmb3IgRXh0ZXJuYWwgRnVuZGluZywgUmVzZWFyY2gNCg0KICAgICAgICAgICBDb29yZGluYXRpbmcgQ291bmNpbCwgSVNVICgkMzc2NykNCg0KMjAwMyAgICAgICBBRkxQIHRvIHN0dWR5IHBsYW50IHJlcHJvZHVjdGl2ZSBlY29sb2d5IGFuZCBldm9sdXRpb24uIEZhY3VsdHkgUmVzZWFyY2ggQ29tbWl0dGVlLA0KDQogICAgICAgICAgIElkYWhvIFN0YXRlIFVuaXZlcnNpdHkgKCQ1MDAwKQ0KDQoyMDAyICAgICAgIEZpZWxkLWJhc2VkIHJlc2VhcmNoIGluIG1vbGVjdWxhciBlY29sb2d5LiBVbml2ZXJzaXR5IFJlc2VhcmNoIENvbW1pdHRlZSwgSWRhaG8NCg0KICAgICAgICAgICBTdGF0ZSBVbml2ZXJzaXR5ICgkOTQ5MikNCg0KMjAwMiAgICAgICBNb2xlY3VsYXIgYW5hbHlzaXMgb2YgcGxhbnQgYnJlZWRpbmcgc3lzdGVtIGV2b2x1dGlvbi4gTklILUJSSU4gU2VlZCBHcmFudCAoJDQwMDApDQoNCjIwMDIgICAgICAgRGVuc2l0eS1kZXBlbmRlbnQgbWF0aW5nIHN1Y2Nlc3MgaW4gRGVscGhpbml1bSBudXR0YWxsaWFudW0uIE5JSC1CUklODQoNCiAgICAgICAgICAgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBGZWxsb3dzaGlwIGZvciBKZXJlbXkgR3JlZW4gKCQ2MDAwKQ0KDQoyMDAxICAgICAgIE1vbGVjdWxhciBtYXJrZXJzIHRvIHN0dWR5IHNleCBpbiBwbGFudHMgYW5kIGluc2VjdHMuIEZhY3VsdHkgUmVzZWFyY2ggR3JhbnQ7IElkYWhvDQoNCiAgICAgICAgICAgU3RhdGUgVW5pdmVyc2l0eSwgY28tUEkgd2l0aCBSLkouIFNtaXRoLCBJU1UgKCQ0MDAwKQ0KDQoyMDAwICAgICAgIFN1cHBsZW1lbnRhbCBBY2FkZW1pYyBDb21wdXRpbmcgR3JhbnQ7IElkYWhvIFN0YXRlIFVuaXYuICgkMTY0NSkNCg0KMTk5NS85Ny85OCBIb3dhcmQgSHVnaGVzIE1lZGljYWwgSW5zdGl0dXRlIFN1bW1lciBSZXNlYXJjaCBGZWxsb3dzaGlwDQoNCjE5OTYgICAgICAgQW1lcml0YXMgRmVsbG93c2hpcCBmb3IgRmFjdWx0eSBEZXZlbG9wbWVudCwgTmVicmFza2EgV2VzbGV5YW4gVW5pdmVyc2l0eS4NCg0KMTk5MyAgICAgICBOU0YgU2hvcnQgVGVybSBHcmFudCBmb3IgRXhwbG9yYXRvcnkgUmVzZWFyY2gsIHdpdGggSy4gS2VlbGVyLCBVLiBvZiBOZWJyYXNrYQ0KDQoxOTkxICAgICAgIE5TRiBQb3N0ZG9jdG9yYWwgUmVzZWFyY2ggRmVsbG93c2hpcCwgd2l0aCBOLiBNLiBXYXNlciwgVUMtUml2ZXJzaWRlIGFuZCBSTUJMDQoNCjE5OTAgICAgICAgTy4gTi4gQWxsZW4gRmVsbG93c2hpcCwgRGVwYXJ0bWVudCBvZiBCb3RhbnksIFVuaXZlcnNpdHkgb2YgV2lzY29uc2luLU1hZGlzb24NCg0KICAgICAgICAgICBOSUggR3JhZHVhdGUgVHJhaW5lZXNoaXAgaW4gR2VuZXRpY3MsIFVuaXZlcnNpdHkgb2YgV2lzY29uc2luLU1hZGlzb24NCg0KMTk4OSAgICAgICBOU0YgRGlzc2VydGF0aW9uIEltcHJvdmVtZW50IEdyYW50LCB3aXRoIEQuIE0uIFdhbGxlciBhbmQgUi4gUC4gR3VyaWVzLCBVbml2ZXJzaXR5DQoNCiAgICAgICAgICAgb2YgV2lzY29uc2luLU1hZGlzb24NCg0KMTk4Ni0xOTg4IEFkdmFuY2VkIE9wcG9ydHVuaXR5IEZlbGxvd3NoaXAgZm9yIEdyYWR1YXRlIFN0dWR5LCBVLiBvZiBXaXNjb25zaW4tTWFkaXNvbg0KDQoNCg0KUFJPUE9TQUxTIFNVQk1JVFRFRCBCVVQgTk9UIEZVTkRFRDoNCg0KMTk5OSAgICBEZW5zaXR5IGFuZCBmcmVxdWVuY3ktZGVwZW5kZW50IGZpdG5lc3MgaW4gZ3lub2Rpb2VjaW91cyBHZXJhbml1bSByaWNoYXJkc29uaWk6DQoNCiAgICAgICAgZWZmZWN0cyBvZiBsb2NhbCBhbmQgZ2xvYmFsIHBvcHVsYXRpb24gc3RydWN0dXJlLiBOU0YgUG9wdWxhdGlvbiBCaW9sb2d5LCAkMTg2LDg0MSBmb3INCg0KICAgICAgICAzNiBtby4NCg0KMTk5OSAgICBQcmVwcm9wb3NhbCAtIEVmZmVjdHMgb2YgaW50cm9kdWNlZCBwbGFudCBzcGVjaWVzIG9uIG5hdGl2ZSBwbGFudCBwb2xsaW5hdGlvbiBzdWNjZXNzLg0KDQogICAgICAgIE1hcnNkZW4gRnVuZCBvZiBOZXcgWmVhbGFuZCwgd2l0aCBEci4gSGF6ZWwgQ2hhcG1hbiwgVS4gQ2FudGVyYnVyeSwgQ2hyaXN0Y2h1cmNoLA0KDQogICAgICAgIE5aLCByZXF1ZXN0IDM2IG1vLiBmdW5kaW5nIChwcmVsaW1pbmFyeSAtIG5vIGJ1ZGdldCkuDQoNCjIwMDAgICAgUHJlcHJvcG9zYWwgLSBFZmZlY3RzIG9mIGludHJvZHVjZWQgcGxhbnQgc3BlY2llcyBvbiBuYXRpdmUgcGxhbnQgcG9sbGluYXRpb24gc3VjY2Vzcy4NCg0KICAgICAgICBNYXJzZGVuIEZ1bmQgb2YgTmV3IFplYWxhbmQsIHdpdGggRHIuIEhhemVsIENoYXBtYW4NCg0KMjAwMSAgICBQcmVwcm9wb3NhbCAtIFVzdXJwZWQgYXQgdGhlIFBvc3Q6IGFuZCBhbGwgYmVjYXVzZSBvZiBjb2xvcj8gTWFyc2RlbiBGdW5kIG9mIE5ldw0KDQogICAgICAgIFplYWxhbmQsIHdpdGggRHIuIEhhemVsIENoYXBtYW4sDQoNCjIwMDIgICAgU3VwcGxlbWVudGFsIEFjYWRlbWljIENvbXB1dGluZyBHcmFudDsgSWRhaG8gU3RhdGUgVW5pdmVyc2l0eSAoJDIwNDUpDQoNCjIwMDQgICAgRWZmZWN0cyBvZiBoZXJiaXZvcnkgb24gcG9wdWxhdGlvbiBkeW5hbWljcyBhbmQgZ2VuZXRpYyBzdHJ1Y3R1cmUgb2YgYSBjbG9uYWwgcGxhbnQuDQoNCiAgICAgICAgTlNGIEVjb2xvZ3ksIHdpdGggRHIuIEsuTi4gSm9uZXMsIEhhcnZhcmQsICQzMzEsMjEzIGZvciAzNiBtby4NCg0KMjAwNSAgICBUaGUgZ2VuZXRpYywgZWNvbG9naWNhbCwgYW5kIGRldmVsb3BtZW50YWwgYmFzaXMgb2YgbWF0aW5nIHN5c3RlbSBldm9sdXRpb24gaW4NCg0KICAgICAgICBNaW11bHVzIHBhcmlzaGlpIGFuZCBNaW11bHVzIGxld2lzaWkuIE5TRiBQb3B1bGF0aW9uIGFuZCBFdm9sdXRpb25hcnkgUHJvY2Vzc2VzLA0KDQogICAgICAgIHdpdGggRHIuIFBhdWwgQmVhcmRzbGV5IGFuZCBEci4gSmVmZiBIaWxsLCBJU1UsICQ5ODksMDY2IGZvciA0OCBtby4NCg0KDQoNClBST1BPU0FMUyBJTiBSRVZJRVc6DQoNCjIwMDcgICAgQ29zdHMgYW5kIGJlbmVmaXRzIG9mIGZsb3JhbCBkaXNwbGF5IHNpemUgaW4gRGVscGhpbml1bS4gU3VibWl0dGVkIHRvIE5TRiBQb3B1bGF0aW9uDQoNCiAgICAgICAgYW5kIEV2b2x1dGlvbmFyeSBQcm9jZXNzZXMsIEp1bHkgMjAwNywgJDM4Nyw5MzggZm9yIDM2IG1vLg0KDQpXaWxsaWFtcyBWaXRhZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzDQoNClBVQkxJQ0FUSU9OUzoNCg0KRmxlbWluZywgVC5ILiwgQy5GLiBXaWxsaWFtcywgRi5KLiBCb25hY2NvcnNvLCBhbmQgTC5ILiBIZXJic3QuIDE5ODUuIFBoZW5vbG9neSwgc2VlZCBkaXNwZXJzYWwsDQoNCiAgICAgIGFuZCBjb2xvbml6YXRpb24gaW4gTXVudGluZ2lhIGNhbGFidXJhLCBhIG5lb3Ryb3BpY2FsIHBpb25lZXIgdHJlZS4gQW1lci4gSi4gQm90YW55IDcyOjM4My0NCg0KICAgICAgMzkxLg0KDQpXaWxsaWFtcywgQy5GLiAxOTg2LiBTb2NpYWwgb3JnYW5pemF0aW9uIG9mIHRoZSBiYXQsIENhcm9sbGlhIHBlcnNwaWNpbGxhdGEgKENoaXJvcHRlcmE6DQoNCiAgICAgIFBoeWxsb3N0b21pZGFlKS4gRXRob2xvZ3kgNzE6MjY1LTI4Mi4NCg0KTW9jaywgRC5XLiwgVC4gQy4gTGFtZXksIEMuRi4gV2lsbGlhbXMsIGFuZCBBLiBQZWxsZXRpZXIuIDE5ODcuIEZsZXhpYmlsaXR5IGluIHRoZSBkZXZlbG9wbWVudA0KDQogICAgICBvZiBoZXJvbiBzaWJsaW5nIGFnZ3Jlc3Npb246IGFuIGludHJhc3BlY2lmaWMgdGVzdCBvZiB0aGUgcHJleS1zaXplIGh5cG90aGVzaXMuIEFuaW0uIEJlaGF2Lg0KDQogICAgICAzNToxMzg2LTEzOTMuDQoNCkZsZW1pbmcsIFQuSC4sIGFuZCBDLkYuIFdpbGxpYW1zLiAxOTkwLiBQaGVub2xvZ3ksIHNlZWQgZGlzcGVyc2FsLCBhbmQgcmVjcnVpdG1lbnQgaW4gQ2Vjcm9waWENCg0KICAgICAgcGVsdGF0YSAoQ2Vjcm9waWFjZWFlKSBpbiBDb3N0YSBSaWNhbiB0cm9waWNhbCBkcnkgZm9yZXN0LiBKLiBUcm9wLiBFY29sLiA2OjE2My0xNzguDQoNCldpbGxpYW1zLCBDLiBGLiBhbmQgUi4gUC4gR3VyaWVzLiAxOTk0LiBHZW5ldGljIGNvbnNlcXVlbmNlcyBvZiBzZWVkIGRpc3BlcnNhbCBpbiB0aHJlZSBzeW1wYXRyaWMNCg0KICAgICAgZm9yZXN0IGhlcmJzLiBJLiBIaWVyYXJjaGljYWwgcG9wdWxhdGlvbiBnZW5ldGljIHN0cnVjdHVyZS4gRXZvbHV0aW9uIDQ4KDMpOjc5MS04MDUuDQoNCldpbGxpYW1zLCBDLiBGLiAxOTk0LiBHZW5ldGljIGNvbnNlcXVlbmNlcyBvZiBzZWVkIGRpc3BlcnNhbCBpbiB0aHJlZSBzeW1wYXRyaWMgZm9yZXN0IGhlcmJzLiBJSS4NCg0KICAgICAgTWljcm9zcGF0aWFsIGdlbmV0aWMgc3RydWN0dXJlIHdpdGhpbiBwb3B1bGF0aW9ucy4gRXZvbHV0aW9uIDQ4KDYpOjE5NTktMTk3Mi4NCg0KU3RvcnosIEouIEYuLCBhbmQgQy4gRi4gV2lsbGlhbXMuIDE5OTYuIFN1bW1lciBwb3B1bGF0aW9uIHN0cnVjdHVyZSBvZiBzdWJhYmxwaW5lIGJhdHMgaW4NCg0KICAgICAgQ29sb3JhZG8uIFNvdXRod2VzdGVybiBOYXR1cmFsaXN0IDQxKDMpOjMyMi0zMjQuDQoNCldpbGxpYW1zLCBDLiBGLiBhbmQgTi4gTS4gV2FzZXIuIDE5OTkuIFNwYXRpYWwgZ2VuZXRpYyBzdHJ1Y3R1cmUgaW4gRGVscGhpbml1bSBudXR0YWxsaWFudW06DQoNCiAgICAgIGluZmVyZW5jZXMgYWJvdXQgZ2VuZSBmbG93LiBIZXJlZGl0eSA4Myg1KTo1NDEtNTUwLg0KDQpXaWxsaWFtcywgQy4gRi4sIE0uIEEuIEt1Y2hlbnJldXRoZXIsIGFuZCBBLiBEcmV3LiAyMDAwLiBGbG9yYWwgZGltb3JwaGlzbSwgcG9sbGluYXRvcg0KDQogICAgICBhdHRyYWN0aW9uIGFuZCBzZWxmLWZlcnRpbGl6YXRpb24gaW4gZ3lub2Rpb2VjaW91cyBHZXJhbml1bSByaWNoYXJkc29uaWkuIChHZXJhbmlhY2VhZSkuDQoNCiAgICAgIEFtZXJpY2FuIEpvdXJuYWwgb2YgQm90YW55IDg3OjY2MS02NjkuDQoNCldpbGxpYW1zLCBDLiBGLiwgUnV2aW5za3ksIEouLCBTY290dCwgUC4gRS4sIGFuZCBELiBLLiBIZXdzLiAyMDAxLiBQb2xsaW5hdGlvbiwgYnJlZWRpbmcgc3lzdGVtLA0KDQogICAgICBhbmQgZ2VuZXRpYyBzdHJ1Y3R1cmUgaW4gdHdvIHN5bXBhdHJpYyBEZWxwaGluaXVtIChSYW51bmN1bGFjZWFlKSBzcGVjaWVzLiBBbWVyaWNhbg0KDQogICAgICBKb3VybmFsIG9mIEJvdGFueSA4OCg5KToxNjIzLTE2MzMuDQoNCldhc2VyLCBOLiBNLiwgYW5kIEMuIEYuIFdpbGxpYW1zLiAyMDAxLiBJbmJyZWVkaW5nIGFuZCBvdXRicmVlZGluZy4gUHAuIDg0LTk4IEluIEMuVy4gRm94LCBELg0KDQogICAgICBBLiBSb2ZmLCBhbmQgRC4gSi4gRmFpcmJ1cm4gKGVkcy4pLCBFdm9sdXRpb25hcnkgZWNvbG9neTogY29uY2VwdHMgYW5kIGNhc2Ugc3R1ZGllcy4gT3hmb3JkDQoNCiAgICAgIFVuaXYuIFByZXNzLCBPeGZvcmQsIFVLLg0KDQpLZWVsZXIsIEsuIEguLCBDLiBGLiBXaWxsaWFtcywgYW5kIEwuIFMuIFZlc2Npby4gMjAwMi4gQ2xvbmUgc2l6ZSBvZiBBbmRyb3BvZ29uIGdlcmFyZGlpIFZpdG1hbg0KDQogICAgKEJpZyBCbHVlc3RlbSkgYXQgS29uemEgUHJhaXJpZSwgS2Fuc2FzLiBBbWVyaWNhbiBNaWRsYW5kIE5hdHVyYWxpc3QgMTQ3OjI5NS0zMDQuDQoNCldpbGxpYW1zLCBDLiBGLiAyMDA3LiBFZmZlY3RzIG9mIGZsb3JhbCBkaXNwbGF5IHNpemUgYW5kIGJpcGFyZW50YWwgaW5icmVlZGluZyBvbiBvdXRjcm9zc2luZyByYXRlcyBpbg0KDQogICAgICBEZWxwaGluaXVtIGJhcmJleWkgKFJhbnVuY3VsYWNlYWUpLiBBbWVyaWNhbiBKb3VybmFsIG9mIEJvdGFueSA5NCgxMCk6IDE2OTYtMTcwNS4NCg0KDQoNCk1BTlVTQ1JJUFRTIElOIFJFVklFVyBPUiBSRVZJU0lPTjoNCg0KVGhvbWFzLCBELlQuLCBBLlIuIEFoZWRvciwgQy5GLiBXaWxsaWFtcywgQy4gRGVQYW1waGlsaXMsIEQuSi4gQ3Jhd2ZvcmQsIGFuZCBRLi1ZLiBYaWFuZy4NCg0KICAgICAgR2VuZXRpYyBhbmFseXNpcyBvZiBhIGJyb2FkIGh5YnJpZCB6b25lIGluIEFlc2N1bHVzIChTYXBpbmRhY2VhZSkgLSBJcyB0aGVyZSBldmlkZW5jZSBvZiBsb25nLQ0KDQogICAgICBkaXN0YW5jZSBwb2xsZW4gZGlzcGVyc2FsPyBJbnRlcm5hdGlvbmFsIEpvdXJuYWwgb2YgUGxhbnQgU2NpZW5jZXMgKHByb3Zpc2lvbmFsbHkgYWNjZXB0ZWQgd2l0aA0KDQogICAgICBtaW5vciByZXZpc2lvbiAtIDEwLzgvMDcpDQoNClBldHJpc2tvLCBKLiwgQy5BLiBQZWFybCwgRC5TLiBQaWxsaW9kLCBQLiBTaGVyaWRhbiwgQy5GLiBXaWxsaWFtcywgQy5SLiBQZXRlcnNvbiwgYW5kIFIuQi4gQnVyeS4NCg0KICAgICAgU2Fwcm9sZWduaWFjZWFlIGlkZW50aWZpZWQgb24gYW1waGliaWFuIGVnZ3MgdGhyb3VnaG91dCB0aGUgUGFjaWZpYyBOb3J0aHdlc3QsIFVTQSBieQ0KDQogICAgICBJbnRlcm5hbCBUcmFuc2NyaWJlZCBTcGFjZXIgc2VxdWVuY2VzIGFuZCBwaHlsb2dlbmV0aWMgYW5hbHlzaXMuIE15Y29sb2dpYSAoaW4gcmV2aWV3KQ0KDQpBaGVkb3IsIEEuUi4sIEMuRi4gV2lsbGlhbXMsIEMuIGRlUGFtcGhpbGxpcywgYW5kIFEuLVkuIFhpYW5nLiBNaWNyb3NhdGVsbGl0ZSBhbmFseXNlcyBvZiB0aGUNCg0KICAgICAgaHlicmlkIHpvbmUgb2YgQWVzY3VsdXMgcGF2aWEgYW5kIEEuIHN5bHZhdGljYSAoSGlwcG9jYXN0YW5hY2VhZSkgaW4gU291dGhlYXN0ZXJuIFVTQS4NCg0KICAgICAgU291dGhlYXN0ZXJuIE5hdHVyYWxpc3QgKGluIHJldmlldykNCg0KDQoNCk1BTlVTQ1JJUFRTIElOIFBSRVBBUkFUSU9OOg0KDQpXaWxsaWFtcywgQy4gRiBhbmQgRi4gU2F2YWVkcmEuIFBoZW5vbG9naWNhbCB2YXJpYXRpb24gaW4gZmVjdW5kaXR5IGFuZCB0aGUgbWF0aW5nIHN5c3RlbSBvZg0KDQogICAgIERlbHBoaW5pdW0gbnV0YWxsaWFudW0uIFRvIGJlIHN1Ym1pdHRlZCB0byBPZWNvbG9naWENCg0KV2lsbGlhbXMsIEMuIEYuLCBLLiBMLiBPJ01hbGxleSwgRC5GLiBTYW5kbWFubiwgYW5kIE0uIEEuIEt1Y2hlbnJldXRoZXIuIEZlbWFsZSBmaXRuZXNzDQoNCiAgICAgYWR2YW50YWdlcyBmb3Igb3V0Y3Jvc3NpbmcsIGZlY3VuZGl0eSBhbmQgaW5icmVlZGluZyBkZXByZXNzaW9uIGluIGd5bm9kaW9lY2lvdXMgR2VyYW5pdW0NCg0KICAgICByaWNoYXJkc29uaWkuIFRvIGJlIHN1Ym1pdHRlZCB0byBBbWVyaWNhbiBKb3VybmFsIG9mIEJvdGFueQ0KDQpXaWxsaWFtcyBWaXRhZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQNCg0KV2lsbGlhbXMsIEMuRi4sIEEuIEdpYnNvbiwgYW5kIE0uIFBpYW50ZWsuIERlbnNpdHkgYW5kIGZyZXF1ZW5jeS1kZXBlbmRlbnQgZml0bmVzcyBpbg0KDQogICAgIGd5bm9kaW9lY2lvdXMgR2VyYW5pdW0gcmljaGFyc29uaWk6IGVmZmVjdHMgYXQgdGhlIGxvY2FsIGFuZCBwb3B1bGF0aW9uIHNjYWxlcy4NCg0KDQoNCkFUVEVOREFOQ0UgQU5EIFBSRVNFTlRBVElPTlMqIEFUIFNDSUVOVElGSUMgTUVFVElOR1M6DQoNCjE5ODkgICAgICAgICAgIE5pbnRoIEFubnVhbCBNaWR3ZXN0IEVjb2xvZ3kgYW5kIEV2b2x1dGlvbiBDb25mZXJlbmNlKiwgTWFkaXNvbiwgV0kNCg0KICAgICAgICAgICAgICAgQXNzb2NpYXRpb24gZm9yIFRyb3BpY2FsIEJpb2xvZ3ksIEFJQlMqLCBUb3JvbnRvLCBPTlQuDQoNCjE5OTAgICAgICAgICAgIEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhKiwgU25vd2JpcmQsIFVULg0KDQoxOTkxICAgICAgICAgICBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYSosIFNhbiBBbnRvbmlvLCBUWC4NCg0KMTk5MiAgICAgICAgICAgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEV2b2x1dGlvbiosIEJlcmtlbGV5LCBDQS4NCg0KICAgICAgICAgICAgICAgR3VpbGQgb2YgUm9ja3kgTW91bnRhaW4gUG9wdWxhdGlvbiBCaW9sb2dpc3RzKiwgQm91bGRlciwgQ08uDQoNCjE5OTMgICAgICAgICAgIFNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBFdm9sdXRpb24qLCBTbm93YmlyZCwgVVQNCg0KICAgICAgICAgICAgICAgRWNvbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EqLCBNYWRpc29uLCBXSS4NCg0KMTk5NCAgICAgICAgICAgTmVicmFza2EgQWNhZGVteSBvZiBTY2llbmNlcywgTGluY29sbiwgTkUuDQoNCjE5OTUgICAgICAgICAgIFByYWlyaWUgU3RhdGVzIEVjb2xvZ3kgQ29uY2xhdmUqLCBQaXR0c2J1cmcsIEtBDQoNCiAgICAgICAgICAgICAgIE1pZHdlc3QgQ29uZmVyZW5jZSBvbiBQb3B1bGF0aW9uIEJpb2xvZ3ksIEFtZXMsIElBDQoNCiAgICAgICAgICAgICAgIE5lYnJhc2thIEFjYWRlbXkgb2YgU2NpZW5jZXMsIExpbmNvbG4sIE5FLg0KDQoxOTk2ICAgICAgICAgICBOZWJyYXNrYSBBY2FkZW15IG9mIFNjaWVuY2VzKiwgTGluY29sbiwgTkUuDQoNCjE5OTcgICAgICAgICAgIFNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBFdm9sdXRpb24qLCBCb3VsZGVyLCBDTw0KDQogICAgICAgICAgICAgICBOZWJyYXNrYSBBY2FkZW15IG9mIFNjaWVuY2VzKiwgTGluY29sbiwgTkUuDQoNCjE5OTggICAgICAgICAgIE5lYnJhc2thIEFjYWRlbXkgb2YgU2NpZW5jZXMsIExpbmNvbG4sIE5FDQoNCiAgICAgICAgICAgICAgIEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBOZXcgWmVhbGFuZCBhbmQgQXVzdHJhbGlhLCBEdW5uZWRpbiwgTmV3IFplYWxhbmQNCg0KKCp0aXRsZXMgb2YgcHJlc2VudGF0aW9ucyBiZWZvcmUgY29taW5nIHRvIElTVSBhcmUgbG9zdCBpbiB0aGUgbWlzdHMgb2YgdGltZSkuDQoNCg0KDQoxOTk5ICAgICAgICBXaWxsaWFtcywgQy4gRi4sIE0uIEt1Y2hlbnJldXRoZXIsIEEuIERyZXcsIGFuZCBLLiBMLiBPJ01hbGxleS4gU2VsZi1mZXJ0aWxpemF0aW9uDQoNCiAgICAgICAgICAgICBhbmQgZnJlcXVlbmN5IGRlcGVuZGVudCBwb2xsaW5hdGlvbiBzdWNjZXNzIGluIGd5bm9kaW9lY2lvdXMgR2VyYW5pdW0NCg0KICAgICAgICAgICAgIHJpY2hhcmRzb25paS4gU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEV2b2x1dGlvbiwgTWFkaXNvbiwgV0kNCg0KMjAwMCAgICAgICAgRWNvbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EsIFNub3diaXJkLCBVVA0KDQoyMDAxICAgICAgICBXaWxsaWFtcywgQy5GLiwgYW5kIEYuIFNhYXZlZHJhLiBTcGF0aWFsIGFuZCB0ZW1wb3JhbCB2YXJpYXRpb24gaW4gdGhlIG1hdGluZyBzeXN0ZW0NCg0KICAgICAgICAgICAgIG9mIERlbHBoaW5pdW0gbnV0dGFsbGlhbnVtLiBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYSwgTWFkaXNvbiwgV0kuDQoNCjIwMDEgICAgICAgIEtlZWxlciwgSy4sIEMuRi4gV2lsbGlhbXMsIGFuZCBMLiBWZXNjaW8uIENsb25hbCBzdHJ1Y3R1cmUgb2YgQW5kcm9wb2dvbiBnZXJhcmRpaQ0KDQogICAgICAgICAgICAgKEJpZyBCbHVlc3RlbSkgaW4gdGFsbGdyYXNzIHByYWlyaWUuIEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhLCBNYWRpc29uLCBXSS4NCg0KMjAwMiAgICAgICAgV2lsbGlhbXMsIEMuRi4sIEEuIEdpYnNvbiwgYW5kIE0uIFBpYW50ZWsuIERlbnNpdHkgYW5kIGZyZXF1ZW5jeS1kZXBlbmRlbnQgZml0bmVzcw0KDQogICAgICAgICAgICAgaW4gZ3lub2Rpb2VjaW91cyBHZXJhbml1bSByaWNoYXJzb25paTogZWZmZWN0cyBhdCB0aGUgbG9jYWwgYW5kIHBvcHVsYXRpb24gc2NhbGVzLg0KDQogICAgICAgICAgICAgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEV2b2x1dGlvbiwgQ2hhbXBhZ25lLVVyYmFuYSwgSUwNCg0KMjAwMyAgICAgICAgQWhlZG9yLCBBLiwgQy5GLiBXaWxsaWFtcywgYW5kIFEuSi4gWGlhbmcuIEV2aWRlbmNlIG9mIGludHJvZ3Jlc3Npb24gaW4gdGhlIGJyb2FkDQoNCiAgICAgICAgICAgICBoeWJyaWQgem9uZSBvZiB0aGUgYnVja2V5ZSBnZW51cyBBZXNjdWx1cyAoSGlwcG9jYXRhbmFjZWFlKS4gQm90YW5pY2FsIFNvY2lldHkgb2YNCg0KICAgICAgICAgICAgIEFtZXJpY2EsIFNhdmFubmFoLCBHQQ0KDQoyMDAzICAgICAgICBYaWFuZywgUS5KLiwgRC4gVGhvbWFzLCBBLiBBaGVkb3IsIGFuZCBDLkYuIFdpbGxpYW1zLiBNaWNyb3NhdGVsbGl0ZSBwb2x5bW9ycGhpc20NCg0KICAgICAgICAgICAgIGFuZCBnZW5ldGljIHN0cnVjdHVyZSBvZiBhIGJyb2FkIGh5YnJpZCB6b25lIG9mIEFlc2N1bHVzIChIaXBwb2Nhc3RhbmFjZWFlKS4NCg0KICAgICAgICAgICAgIEJvdGFuaWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EsIFNhdmFubmFoLCBHQQ0KDQoyMDAzICAgICAgICBSTUJMIDc1dGggQW5uaXZlcnNhcnkgUmVzZWFyY2ggU3ltcG9zaXVtDQoNCjIwMDQgICAgICAgIFNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBFdm9sdXRpb24sIEZvcnQgQ29sbGlucywgQ08NCg0KMjAwNCAgICAgICAgV2lsbGlhbXMsIEMuRi4gRWZmZWN0cyBvZiBpbmZsb3Jlc2NlbmNlIHNpemUgb24gb3V0Y3Jvc3NpbmcgcmF0ZXMgaW4gRGVscGhpbml1bQ0KDQogICAgICAgICAgICAgYmFyYmV5aS4gQm90YW5pY2FsIFNvY2lldHkgb2YgQW1lcmljYSwgU25vd2JpcmQsIFVUDQoNCjIwMDQgICAgICAgIEJhbGEsIEouLCBDLkYuIFdpbGxpYW1zLCBhbmQgVC4gUC4gTWNHb25pZ2xlLiBFZmZlY3RzIG9mIG51dHJpZW50IGxpbWl0YXRpb24gb24gZmxvcmFsDQoNCiAgICAgICAgICAgICBmdW5jdGlvbiBhbmQgYmlvbWFzcyBpbiBHZXJhbml1bSByaWNoYXJkc29uaWkgKEdlcmFuaWFjZWFlKS4gQm90YW5pY2FsIFNvY2lldHkgb2YNCg0KICAgICAgICAgICAgIEFtZXJpY2EsIFNub3diaXJkLCBVVA0KDQpXaWxsaWFtcyBWaXRhZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA1DQoNClBSRVNFTlRBVElPTlMgQlkgVU5ERVJHUkFEVUFURSBSRVNFQVJDSCBTVFVERU5UUyBhdCBJU1U6DQoNCg0KDQoyMDAyICAgICAgICAgIFNhbmRtYW5uLCBELiBFZmZlY3RzIG9mIHNlbGZpbmcgYW5kIG91dGNyb3NzaW5nIG9uIHRoZSBtYWludGVuYW5jZSBvZiBneW5vZGlvZWN5IGluDQoNCiAgICAgICAgICAgICAgd2lsZCBnZXJhbml1bSAoR2VyYW5pdW0gcmljaGFyZHNvbmlpKS4gSVNVIFVuZGVyZ3JhZHVhdGUgUmVzZWFyY2ggU3ltcG9zaXVtDQoNCjIwMDIgICAgICAgICAgV2hlZWxlciwgSi4sIEouIEdvZGZyZXksIGFuZCBSLiBXaWxsaWFtcy4gRGV2ZWxvcGluZyBjaGxvcm9wbGFzdCBETkEgbWFya2VycyB0bw0KDQogICAgICAgICAgICAgIHN0dWR5IGdlbmRlciB2YXJpYXRpb24gYW5kIGdlbmUgZmxvdyBpbiBhIGd5bm9kaW9lY2lvdXMgcGxhbnQsIEdlcmFuaXVtIHJpY2hhcmRzb25paS4NCg0KICAgICAgICAgICAgICBJU1UgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBTeW1wb3NpdW0NCg0KMjAwMiAgICAgICAgICBHcmVlbiwgSi4sIGFuZCBDLkYuIFdpbGxpYW1zLiBWYXJpYXRpb24gaW4gb3V0Y3Jvc3NpbmcgcmF0ZXMgaW4gRGVscGhpbml1bQ0KDQogICAgICAgICAgICAgIG51dHRhbGxpYW51bSBkdWUgdG8gcGhlbm9sb2d5IGFuZCBkZW5zaXR5LiBOSUgtQlJJTiBTdW1tZXIgVW5kZXJncmFkdWF0ZQ0KDQogICAgICAgICAgICAgIFJlc2VhcmNoIFN5bXBvc2l1bSwgTW9zY293LCBJRC4NCg0KMjAwMiAgICAgICAgICBNY0theSwgSi4sIEouIFJhbWlyZXosIEMuRi4gV2lsbGlhbXMsIGFuZCBSLkouIFNtaXRoLiBQYXRlcm5pdHkgYW5hbHlzaXMgb2YgYmVldGxlcyB0bw0KDQogICAgICAgICAgICAgIGRldGVybWluZSBhbHRlcm5hdGl2ZSBtYXRpbmcgdGFjdGljcy4gSVNVIFVuZGVyZ3JhZHVhdGUgUmVzZWFyY2ggU3ltcG9zaXVtDQoNCjIwMDMgICAgICAgICAgS2VtcGVyLCBCLiwgSy4gRGFueWFsLCBDLkYuIFdpbGxpYW1zLCBhbmQgUi5KLiBTbWl0aC4gQmVoYXZpb3Igb2Ygc21hbGwgbWFsZSBiZWV0bGVzDQoNCiAgICAgICAgICAgICAgKE5pY3JvcGhvcnVzKSBpbiBtYXRpbmcgd2l0aCBmZW1hbGVzLiBJU1UgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBTeW1wb3NpdW0NCg0KMjAwMyAgICAgICAgICBTdG9kZGFyZCwgQS4sIFQuIEplbnNlbiwgUi5KLiBTbWl0aCBhbmQgQy5GLiBXaWxsaWFtcy4gU3Blcm0gc2VsZWN0aXZpdHkgaW4gZmVtYWxlDQoNCiAgICAgICAgICAgICAgYnVyeWluZyBiZWV0bGVzLiBJU1UgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBTeW1wb3NpdW0NCg0KMjAwNCAgICAgICAgICBTYXRvLCBFLiwgQS4gUHJhc2FkLCBKLiBEZWxhaGFudHksIGFuZCBKLiBCYWxhLiBFZmZlY3RzIG9mIG51dHJpZW50IGxpbWl0YXRpb24gb24gZmxvcmFsDQoNCiAgICAgICAgICAgICAgYmlvbWFzcyBpbiBneW5vZGlvZWNpb3VzIGdlcmFuaXVtcy4gSVNVIFVuZGVyZ3JhZHVhdGUgUmVzZWFyY2ggU3ltcG9zaXVtDQoNCjIwMDQgICAgICAgICAgV2luc3RvbiwgUi4sIEQuIFJhbW1lbGwsIGFuZCBSLiBXaWxsaWFtcy4gQ2hsb3JvcGxhc3QgRE5BIHNlcXVlbmNpbmcgZm9yDQoNCiAgICAgICAgICAgICAgcG9wdWxhdGlvbiBnZW5ldGljcyBzdHVkaWVzIG9mIEdlcmFuaXVtIHJpY2hhcmRzb25paS4gSVNVIFVuZGVyZ3JhZHVhdGUgUmVzZWFyY2gNCg0KICAgICAgICAgICAgICBTeW1wb3NpdW0NCg0KMjAwNCAgICAgICAgICBDaWFrLCBQLkwsIGFuZCBSLiBXaWxsaWFtcy4gQSBwbGFudC1wb2xsaW5hdG9yIGludGVyYWN0aW9uIHdlYiBmb3IgYSBzYWdlIHN0ZXBwZQ0KDQogICAgICAgICAgICAgIGNvbW11bml0eS4gSVNVIFVuZGVyZ3JhZHVhdGUgUmVzZWFyY2ggU3ltcG9zaXVtDQoNCjIwMDUgICAgICAgICAgU3V0aGVybGFuZCwgSi5ELiwgYW5kIEMuRi4gV2lsbGlhbXMuIEVzdGltYXRpbmcgY2xvbmUgc2l6ZSBhbmQgZGl2ZXJzaXR5IGluIGZpcmV3ZWVkDQoNCiAgICAgICAgICAgICAgKENoYW1lcmlvbiBhbmd1c3RpZm9saXVtKSB1c2luZyBhbXBsaWZpZWQgZnJhZ21lbnQgbGVuZ3RoIHBvbHltb3JwaGlzbSAoQUZMUCkuDQoNCiAgICAgICAgICAgICAgSVNVIFVuZGVyZ3JhZHVhdGUgUmVzZWFyY2ggU3ltcG9zaXVtDQoNCg0KDQoNCg0KSU5WSVRFRCBTRU1JTkFSUzoNCg0KDQoNCiAgICAgICBSb2NreSBNb3VudGFpbiBCaW9sb2dpY2FsIExhYm9yYXRvcnkgKEp1bmUgMTk5MSk7IFVuaXZlcnNpdHkgb2YgV2lzY29uc2luLU1hZGlzb24NCg0KICAgICAgIChPY3RvYmVyIDE5OTEpOyBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEtUml2ZXJzaWRlIChGZWJydWFyeSAxOTkyKTsgVW5pdmVyc2l0eSBvZiBNaW5uZXNvdGENCg0KICAgICAgIChBcHJpbCAxOTkyKTsgVW5pdmVyc2l0eSBvZiBOZWJyYXNrYS1MaW5jb2xuIChKYW51YXJ5IDE5OTMpOyBVbml2ZXJzaXR5IG9mIFRlbm5lc3NlZSAoTWFyY2gNCg0KICAgICAgIDE5OTMpOyBVbml2ZXJzaXR5IG9mIE5lYnJhc2thLU9tYWhhIChGZWJydWFyeSAxOTk0KTsgR2VvcmdpYSBTb3V0aGVybiBVbml2ZXJzaXR5IChNYXkNCg0KICAgICAgIDE5OTQpLCBHcmlubmVsbCBDb2xsZWdlIChNYXkgMTk5NCksIFVuaXZlcnNpdHkgb2YgTmVicmFza2EtTGluY29sbiAoRGVjZW1iZXIgMTk5NSksDQoNCiAgICAgICBSTUJMIChKdWx5IDE5OTYpLiBVbml2ZXJzaXR5IG9mIENhbnRlcmJ1cnksIE5ldyBaZWFsYW5kIChEZWNlbWJlciAxOTk4KSwgVW5pdmVyc2l0eSBvZg0KDQogICAgICAgVmVybW9udC1CdXJsaW5ndG9uIChBcHJpbCAxOTk5KSwgSWRhaG8gU3RhdGUgVW5pdmVyc2l0eSAoU2VwdGVtYmVyIDE5OTkpLCBCb2lzZSBTdGF0ZQ0KDQogICAgICAgVW5pdmVyc2l0eSAoU2VwdGVtYmVyIDE5OTkpLCBVdGFoIFN0YXRlIFVuaXZlcnNpdHkgKE9jdG9iZXIgMjAwMiksIElkYWhvIFN0YXRlIFVuaXZlcnNpdHkNCg0KICAgICAgICgyMDA1KSwgSWRhaG8gTmF0aXZlIFBsYW50IFNvY2lldHkgKDIwMDYpLCBSb2NreSBNb3VudGFpbiBCaW9sb2dpY2FsIExhYm9yYXRvcnkgKEp1bHkNCg0KICAgICAgIDIwMDcpLg0KDQpXaWxsaWFtcyBWaXRhZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYNCg0KU0VSVklDRToNCg0KDQoNCiAgIE5hdGlvbmFsL0ludGVybmF0aW9uYWw6DQoNCiAgICBBc3NvY2lhdGUgRWRpdG9yIGZvcjogRXZvbHV0aW9uICgyMDAyLTIwMDQpDQoNCiAgICBSZXZpZXdlciBmb3I6IEFtZXJpY2FuIEpvdXJuYWwgb2YgQm90YW55LCBBbWVyaWNhbiBOYXR1cmFsaXN0LCBCaW90cm9waWNhLCBDYW5hZGlhbiBKb3VybmFsDQoNCiAgICAgIG9mIEJvdGFueSwgRWNvbG9neSwgRWNvbG9neSBMZXR0ZXJzLCBFdm9sdXRpb24sIEdlbmV0aWNzLCBIZXJlZGl0eSwgSm91cm5hbCBvZiBIZXJlZGl0eSwNCg0KICAgICAgSm91cm5hbCBvZiBUcm9waWNhbCBFY29sb2d5LCBPZWNvbG9naWEsIFRoZSBQcmFpcmllIE5hdHVyYWxpc3QsIFRyZW5kcyBpbiBFY29sb2d5IGFuZA0KDQogICAgICBFdm9sdXRpb24sIElkYWhvIFN0YXRlIEJvYXJkIG9mIEVkdWNhdGlvbiwgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBOYXR1cmFsDQoNCiAgICAgIEVudmlyb25tZW50IFJlc2VhcmNoIENvdW5jaWwtVUsNCg0KDQoNCiAgIElkYWhvIFN0YXRlIFVuaXZlcnNpdHkgLSBEZXBhcnRtZW50IG9mIEJpb2xvZ2ljYWwgU2NpZW5jZXM6DQoNCiAgICAgRXZvbHV0aW9uYXJ5IEdlbmV0aWNpc3Qgc2VhcmNoIGNvbW1pdHRlZSAoMjAwMSkNCg0KICAgICBDdXJyaWN1bHVtIFJldmlldyBDb21taXR0ZWUgKDIwMDItMDMpDQoNCiAgICAgSW50ZXJpbSBDaGFpciBBZHZpc29yeSBDb21taXR0ZWUgKDIwMDMtMDQpDQoNCiAgICAgRGVwYXJ0bWVudCBDaGFpciBTZWFyY2ggQ29tbWl0dGVlICgyMDAzKQ0KDQogICAgIFBsYW50IEJpb2xvZ2lzdCBTZWFyY2ggQ29tbWl0dGVlICgyMDAzKQ0KDQogICAgIFBlcmlvZGljIFBlcmZvcm1hbmNlIFJldmlldyBDb21taXR0ZWUgZm9yIFJpY2hhcmQgSW5vdXllICgyMDA0KQ0KDQogICAgIFRlYWNoaW5nIENvbW1pdHRlZSAoMjAwNC1wcmVzZW50KQ0KDQogICAgIFBlcmlvZGljIFBlcmZvcm1hbmNlIFJldmlldyBDb21taXR0ZWUgZm9yIE5hbmN5IEh1bnRseSAoMjAwNikNCg0KICAgICBGYWN1bHR5IFNwb25zb3IgZm9yIEJpb2xvZ3kgR3JhZHVhdGUgU3R1ZGVudHMgLSBCR1MgKDIwMDMtcHJlc2VudCkNCg0KICAgICBEZXBhcnRtZW50IFNlbWluYXIgY29vcmRpbmF0b3IgKHdpdGggQ29sZGVuIEJheHRlciAtIDIwMDctMDgpDQoNCg0KDQogICBSb2NreSBNb3VudGFpbiBCaW9sb2dpY2FsIExhYm9yYXRvcnk6DQoNCiAgICBTZWNyZXRhcnkgb2YgQm9hcmQgb2YgVHJ1c3RlZXMgKDIwMDEtMjAwMykNCg0KICAgIE1lbWJlciBCb2FyZCBvZiBUcnVzdGVlcyAodHdvIHRlcm1zOyAxOTk2LTIwMDAsIDIwMDEtMjAwMykuDQoNCiAgICBTZXJ2aWNlIG9uIG51bWVyb3VzIGNvbW1pdHRlZXM6IE1hc3RlciBQbGFuIFJldmlzaW9uIENvbW1pdHRlZSAoMTk5OS0yMDAwKSwNCg0KICAgICAgUmVzZWFyY2ggQ29tbWl0dGVlICgxOTkzLTIwMDMsIENoYWlyIDE5OTMtOTYsIDIwMDAtMDEpLCBMYW5kIFByb3RlY3Rpb24gQ29tbWl0dGVlDQoNCiAgICAgIChDaGFpciAxOTk2LTk3KSwgSW50ZXJuYWwgQXVkaXQgQ29tbWl0dGVlICgxOTk2LTk3KSwgUmVzZWFyY2gsIFRlYWNoaW5nIGFuZCBGYWNpbGl0aWVzDQoNCiAgICAgIFJldmlldyBDb21taXR0ZWVzIGZvciBJbnRlcm5hbCBSZXZpZXcgYW5kIFJlc3BvbnNlIHRvIEV4dGVybmFsIFJldmlldyBvZiBSTUJMICgxOTk2LQ0KDQogICAgICAxOTk4KSwgRG91Z2xhcyBEaXN0aW5ndWlzaGVkIExlY3R1cmVyIENvbW1pdHRlZSAoMTk5NC1wcmVzZW50LCBjaGFpciAyMDA0KSwgQ3VycmljdWx1bQ0KDQogICAgICBDb21taXR0ZWUgKDE5OTUtMTk5NywgMjAwMCksIENoYWlyZWQgU2NpZW50aWZpYyBTZW1pbmFyIFNlcmllcyAoMTk5My05NCkuDQoNCiAgICBFZGl0b3JpYWwgYm9hcmQgb2Ygb25saW5lIGpvdXJuYWwgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBpbiBCZWhhdmlvciwgRWNvbG9neSBhbmQgRXZvbHV0aW9uDQoNCg0KDQogICBOZWJyYXNrYSBXZXNsZXlhbiBVbml2ZXJzaXR5IGFuZCBPdGhlcjoNCg0KICAgIFNlY3JldGFyeSwgTmF0dXJhbCBTY2llbmNlcyBEaXZpc2lvbiAoMTk5Ny0xOTk4KQ0KDQogICAgQXJib3JldHVtIENvbW1pdHRlZQ0KDQogICAgQ2hhaXIsIENvbGxlZ2lhdGUgQmlvbG9neSwgTmVicmFza2EgQWNhZGVteSBvZiBTY2llbmNlcyAoMTk5Ni0xOTk4KQ0KDQogICAgSnVkZ2UsIFNpZ21hIFhpIFN0dWRlbnQgUmVzZWFyY2ggQXdhcmRzDQoNCldpbGxpYW1zIFZpdGFlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDcNCg0KR1JBRFVBVEUgU1RVREVOVFMNCg0KDQoNCiBNYWpvciBBZHZpc29yOg0KDQogIEFkam9hIEFoZWRvciAoTS5TLiAyMDAxKSAtIGNvYWR2aXNvciBKZW5ueSBYaWFuZw0KDQogIEphbmV0IEJhbGEgKE0uUy4tIGV4cGVjdGVkIGdyYWR1YXRpb24gMjAwNykNCg0KICBLYXJlbiBLcmF1cyAoTS5TLi0gZXhwZWN0ZWQgZ3JhZHVhdGlvbiAyMDA3KQ0KDQogIEVyaW4gT2xzb24gKE0uUy4tZXhwZWN0ZWQgZ3JhZHVhdGlvbiAyMDA3KSAtIGNvLWFkdmlzb3IgUm9zZW1hcnkgU21pdGgNCg0KICBTdGV2ZW4gQWxiYW5vIChNLlMuLXdpdGhkcmV3IGZyb20gcHJvZ3JhbSAyMDA2KQ0KDQoNCg0KIEdyYWR1YXRlIENvbW1pdHRlZSBNZW1iZXIgKGNvbXBsZXRlZCk6DQoNCiAgR3VpY2hhbiBIb3UgKFBoLkQuIDIwMDEpIC0gYWR2aXNvciBKZWZmIEhpbGwNCg0KICBNZWxpc3NhIE1lcnJpY2sgKE0uUy4gMjAwMiAtIGV4IG9mZmljaW8pIC0gYWR2aXNvciBSb3NlbWFyeSBTbWl0aA0KDQogIEppbGwgTWNOZWlsIChELkEgMjAwMykgLSBhZHZpc29yIFZlcm4gV2luc3Rvbg0KDQogIEphbWVzIEhvbG1hbiAoRC5QaGlsLiAyMDAzIC0gcmVhZGVyKSAtIGFkdmlzb3IgSmFuZSBIdWdoZXMsIEdyaWZmaXRoIFUuLCBBdXN0cmFsaWENCg0KICBFcmljIFRvbWFzaWsgKE0uUy4gMjAwMykgLSBhZHZpc29yIEpvZSBDb29rDQoNCiAgQXJlbiBFZGRpbmdzYWFzIChNLlMuIDIwMDMpIC0gYWR2aXNvciBKb2UgQ29vaw0KDQogIEJ5cm9uIFdlY2t3b3J0aCAoTS5TLiAyMDAzKSAtIGFkdmlzb3IgSm9lIENvb2sNCg0KICBEYXZlIFRydW1tIChELlBoaWwuIC0gcmV2aWV3ZXIpIC0gYWR2aXNvciBIYXplbCBDaGFwbWFuLCBVLiBDYW50ZXJidXJ5LCBOWg0KDQogIEVyaWMgV2FsdGFyaSAoUGguRC4gMjAwNCkgLSBhZHZpc29ycyBNYXJqb3JpZSBNYXRvY3EvSm9lIENvb2sNCg0KICBSeWFuIE1jTmFiIChNTlMgMjAwNSkgLWFkdmlzb3IgTWF1cmVlbiBCcmFuZG9uDQoNCiAgS2F5Y2UgQmVsbCAoTS5TLiAyMDA2KSAtIGFkdmlzb3IgTWFyam9yaWUgTWF0b2NxDQoNCiAgQW15IFJ1bmNrIChQaC5ELiAyMDA2KSAtIGFkdmlzb3JzIE1hcmpvcmllIE1hdG9jcS9Kb2UgQ29vaw0KDQogIERlYm9yYWggSm9obnNvbiAoUGguRC4gMjAwNykgLSBhZHZpc29ycyBKZWZmIEhpbGwvTWlrZSBUaG9tYXMNCg0KICBDaHJpcyBKZW5raW5zIChQaC5ELiAyMDA3KSAtIGFkdmlzb3IgQ2h1Y2sgUGV0ZXJzb24NCg0KDQoNCiBHcmFkdWF0ZSBDb21taXR0ZWUgTWVtYmVyIChpbiBwcm9ncmVzcyk6DQoNCiAgTm9haCBBbmRlcnNvbiAoRC5BLikgLSBhZHZpc29yIEN1cnQgQW5kZXJzb24NCg0KICBOYW5jeSBIYW1wdG9uIChQaC5ELikgLSBhZHZpc29yIE5hbmN5IEh1bnRseQ0KDQogIENhbWVyb24gUGVkZXJzb24gKFBoLkQuKSAtIGFkdmlzb3IgTmFuY3kgSHVudGx5IChkcm9wcGVkIG91dCBvZiBwcm9ncmFtIDIwMDYpDQoNCiAgSnVsaWUgV2VtcGxlIChQaC5ELikgLSBhZHZpc29yIE1hdXJlZW4gQnJhbmRvbiAoZHJvcHBlZCBvdXQgb2YgcHJvZ3JhbSkNCg0KICBaaGVuIExpIChQaC5ELikgLSBhZHZpc29yIEthcmVuIFdlaWxlciAoY2hhbmdlZCB0byBNYWxjb2xtIFNoaWVsZHMgZm9yIE0uUy4vUGguRC4pDQoNCiAgQW1lbGlhIE51Z2VudCAoTS5TLikgLSBhZHZpc29yIFBhdWwgQmVhcmRzbGV5ICh3aXRoZHJldyBhZnRlciAxIHlyLiAtIDIwMDYpDQoNCiAgUXVpbm4gU2h1cnRsaWZmIChQaC5ELikgLSBhZHZpc29yIE1hcmpvcmllIE1hdG9jcQ0KDQogIEplbm5pZmVyIENsYXlwb29sIChNLlMuKSAtIGFkdmlzb3IgTWFyam9yaWUgTWF0b2NxDQoNCiAgU2hlZWwgQmFuc2FsIChQaC5ELikgLSBhZHZpc29yIE1hdHQgR2VybWlubw0KDQogIEphc29uIEJlY2sgKFBoLkQuKSAtIGFkdmlzb3IgSmVmZiBNZWxkcnVtDQoNCiAgS2F0aWUgTWlsbGVyIChNLlMuKSAtIGFkdmlzb3IgTWFyam9yaWUgTWF0b2NxDQoNCiAgQ2hhbmcgTGl1IChNLlMuKSAtIGFkdmlzb3JzIFBhdWwgQmVhcmRzbGV5L1Njb3QgS2VsY2huZXINCg0KICBFcmluIE5hZWdsZSAoRC5BLikgLSBhZHZpc29ycyBQYXVsIEJlYXJkc2xleS9NaWtlIFRob21hcw0KDQogIEtpcmEgUG9udGl1cyAoTS5TLikgLSBhZHZpc29yIFJvc2VtYXJ5IFNtaXRoDQoNCiAgRmFpdGggUnVkZWJ1c2NoIChNLlMuKSAtIGFkdmlzb3IgTmFuY3kgSHVudGx5DQoNCiAgU3VzYW4gUGFyc29ucyAoTS5TLikgLSBhZHZpc29yIENodWNrIFBldGVyc29uDQoNCg0KDQogTWVudG9yIGZvciB0ZWFjaGluZyBpbnRlcm5zaGlwOg0KDQogIEplbm5pZmVyIE1lcnJpYW0gKEVjb2xvZ3ksIEJJT1MgMjA5IC0gMjAwMCkNCg0KICBKZW5uaWZlciBMZXdpcyAoR2VuZXRpY3MsIEJJT1MgMzU4LzM1OSAtIDIwMDEpDQoNCiAgU2NvdHQgU21pZHQgKEVjb2xvZ3ksIEJJT1MgMjA5IC0gMjAwMikNCg0KICBOb2FoIEFuZGVyc29uIChQaGVub3R5cGljIEV2b2x1dGlvbiBTZW1pbmFyLCBCSU9TIDY5MiAtIDIwMDUpDQoNCldpbGxpYW1zIFZpdGFlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDgNCg0KIFVOREVSR1JBRFVBVEUgU1RVREVOVFMNCg0KDQoNCiBVbmRlcmdyYWR1YXRlIHJlc2VhcmNoIGFkdmlzb3I6IChtb3N0IG9mIHRoZXNlIHN0dWRlbnRzIHdlbnQgb24gdG8gZWFybiBhZHZhbmNlZCBkZWdyZWVzKQ0KDQogIEpheSBTdG9yeiAoUk1CTCAmVS4gQ29sb3JhZG8xOTkzLTk0KSAtIEJvc3RvbiBVLiAoUGguRC4pLCBub3cgQXNzdC4gUHJvZi4gVS4gTmVicmFza2ENCg0KICBNYXJrIFZpZXJhIChSTUJMLVJFVSAxOTk1KSAtIENvbG9yYWRvIFN0YXRlIFVuaXZlcnNpdHkgKE0uUy4pDQoNCiAgSmVzc2ljYSBSdXZpbnNreSAoUk1CTCBhbmQgWWFsZSAxOTk1KSAtIFN0YW5mb3JkIFUuIChQaC5ELiksIG5vdyBhIHNjaWVuY2Ugd3JpdGVyDQoNCiAgU3RldmUgS2FycmVyIChOV1UgMTk5NikgLSBMYXcgU2Nob29sDQoNCiAgU2FyYWggSGFybmV5IChSTUJMIGFuZCBOV1UgMTk5NikgLSBVLiBDb25uZWN0aWN1dCAoTS5TLikNCg0KICBUcmVudCBXaW1tZXIgKE5XVSAxOTk2KQ0KDQogIE1hcmlhIEdhcnphIChSTUJMIDE5OTYpIC0gVGV4YXMgQSZNIChNLlMuKQ0KDQogIEFsbGlzb24gRHJldyAoUk1CTCBhbmQgQ29ybmVsbCAxOTk3KSAtIFUuQy4gQmVya2VsZXkgKE0uUy4pDQoNCiAgS2VsbHkgTydNYWxsZXkgKFJNQkwtUkVVIDE5OTgpIC0gRHVrZSBVbml2ZXJzaXR5IChNLlMuKQ0KDQogIE1hcnRoYSBQYWxvbWlubyBUb3ZhciAoUk1CTCBhbmQgVU5BTSAxOTk5KSAtIFUuQy4gQmVya2VsZXkgKFBoLkQuKQ0KDQogIEFtYW5kYSBHaWJzb24gKFJNQkwtUkVVIDIwMDApIC0gVS4gTWFyeWxhbmQgKFBoLkQuKQ0KDQogIE1hcmlhIFBpYW50ZWsgKFJNQkwtUkVVIDIwMDEpIC0gbm93IGEgcmVzZWFyY2ggdGVjaG5pY2lhbg0KDQogIEplbm5pZmVyIEhvd2V0aCAoUk1CTCAyMDAwLTIwMDEpIC0gVS4gVGV4YXMgKFBoLkQuKQ0KDQogIEpvZGkgTWNLYXkgKElTVSAyMDAxLTAyKSAtIElvd2EgU3RhdGUgVS4gKFBoLkQuKQ0KDQogIEpvc2UgUmFtaXJleiAoSVNVIDIwMDEtMDMpIC0gVS5DLiBSaXZlcnNpZGUgKFBoLkQuKQ0KDQogIEpvbmF0aGFuIEdvZGZyZXkgKElTVSAyMDAxLTAyKSAtIENyZWlnaHRvbiBVLiBNZWRpY2FsIFNjaG9vbA0KDQogIEplZmYgV2hlZWxlciAoSVNVIDIwMDEtMDIpIC0gQ3JlaWdodG9uIFUuIE1lZGljYWwgU2Nob29sDQoNCiAgRG9uYWxkIFNhbmRtYW5uIChJU1UgMjAwMikgLSBub3cgYSBoaWdoIHNjaG9vbCB0ZWFjaGVyLCBCdXJsZXksIElEDQoNCiAgSmVyZW15IEdyZWVuIChJU1UgMjAwMikgLSBub3cgYSBoaWdoIHNjaG9vbCB0ZWFjaGVyIGluIElkYWhvDQoNCiAgQ2FybGEgQ29ydGV6IEJhZXogKFJNQkwtUkVVIDIwMDIpIC0gTWVkaWNhbCBTY2hvb2wNCg0KICBBbmRyZXcgU3RvZGRhcmQgKElTVSAyMDAyLTAzKQ0KDQogIFBlbm55IENpYWsgKElTVSAyMDAyLTA0KSAtIElTVSAoU2Vjb25kYXJ5IEVkdWNhdGlvbikNCg0KICBLYXJhbWF0dWxsYWggRGFueWFsIChJU1UgMjAwMi0wMykgLSBVdGFoIFN0YXRlIFVuaXZlcnNpdHkgKFBoLkQuKQ0KDQogIEphcmVkIE1hdHNvbiAoSVNVIDIwMDMpIC0gbm93IGF0IFVTRlMNCg0KICBMaW5zYXkgSG9zZSAoSVNVIDIwMDQpIC0gbm93IGF0IFVTRlMNCg0KICBEb3JpYW4gUmFtbWVsbCAoSVNVIDIwMDQpDQoNCiAgTWFyaWtvIFNxdWlyZXMgKElTVSAyMDA0KQ0KDQogIFJhY2hlbCBXaW5zdG9uIChJU1UgMjAwNCkgLSBVLiBJZGFobyAoTS5TLikNCg0KICBKb3NoIFN1dGhlcmxhbmQgKElTVSAyMDA0LTA1KQ0KDQogIE5ldHRpZSBNY01pY2hhZWwgKElTVSAyMDA2LTIwMDcpDQoNCiAgTWVsYW5pZSBQb3BpZW4gKElTVSAyMDA3KQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911620306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

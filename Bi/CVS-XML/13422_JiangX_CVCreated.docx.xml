@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:28 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916420306521"  usageLimitType="allocation" usageLimit="200" currentUsage="49" remainingUsage="151" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Xin Jessica Jiang</FormattedName>
+<GivenName>Xin</GivenName>
+<PreferredGivenName>Jessica</PreferredGivenName>
+<FamilyName>Jiang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>10314</PostalCode>
+<Region>NY</Region>
+<Municipality>Staten Island</Municipality>
+<DeliveryAddress>
+<AddressLine>2800 Victory Blvd</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (718) 982-3475</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>718</AreaCityCode>
+<SubscriberNumber>982-3475</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (718) 982-2830</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>718</AreaCityCode>
+<SubscriberNumber>982-2830</SubscriberNumber>
+</Fax>
+</ContactMethod>
+</ContactInfo>
+<Qualifications>
+<Competency name = "Email">
+<CompetencyEvidence name ="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "IEEE">
+<CompetencyEvidence name ="IEEE">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Networking">
+<CompetencyEvidence name ="Networking">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "SAN (Storage Area Network)">
+<CompetencyEvidence name ="SAN (Storage Area Network)">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Science">
+<CompetencyEvidence name ="Science">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>KEplc3NpY2EpIFhpbiBKaWFuZyANCg0KKiBQaC5ELiAoRWxlY3Ryb25pY3MgRW5naW5lZXJpbmcpLCBUc2luZ2h1YSBVbml2ZXJzaXR5IDE5OTUgDQoNCiogTS5TLiAoRWxlY3Ryb25pY3MgRW5naW5lZXJpbmcpLCBUc2luZ2h1YSBVbml2ZXJzaXR5IDE5OTUgDQoNCiogQi5TLiAoRWxlY3Ryb25pY3MgRW5naW5lZXJpbmcpLCBUc2luZ2h1YSBVbml2ZXJzaXR5IDE5OTAgDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgRW5naW5lZXJpbmcgU2NpZW5jZSBhbmQgUGh5c2ljcyANCg0KQXJlYXMgb2YgSW50ZXJlc3Q6DQoNCkZpYmVyIENvbW11bmljYXRpb24sIERhdGEgQ29tbXVuaWNhdGlvbiwgTmV0d29ya2luZyANCg0KUHJvamVjdCBUaGVtZXM6DQoNClBhc3NpdmUgT3B0aWNhbCBOZXR3b3JrLCBIaWdoIHNwZWVkIERhdGEgQ29tbXVuaWNhdGlvbg0KDQpDb250YWN0Og0KDQpPZmZpY2U6IDFOLTIzMiANCg0KVGVsOiAoNzE4KSA5ODItMzQ3NQ0KDQpGYXg6ICg3MTgpIDk4Mi0yODMwDQoNCkVtYWlsOiBqZXNzaWNhIFtkb3RdIGppYW5nIFthdF0gY3NpIFtkb3RdIGN1bnkgW2RvdF0gZWR1DQoNCkFkZHJlc3M6DQoNCkRlcGFydG1lbnQgb2YgRW5naW5lZXJpbmcgU2NpZW5jZSBhbmQgUGh5c2ljcyANCg0KQ29sbGVnZSBvZiBTdGF0ZW4gSXNsYW5kIA0KDQpDaXR5IFVuaXZlcnNpdHkgb2YgTmV3IFlvcmsgDQoNCjI4MDAgVmljdG9yeSBCbHZkIA0KDQpTdGF0ZW4gSXNsYW5kLCBOWSAxMDMxNCANCg0KwqBSZWNlbnQgUHVibGljYXRpb24gwqAgDQoNCg0KDQpbMV0uIFguSmlhbmcgYW5kIEkuIFJvdWRhcywgIiBBc3ltbWV0cmljIHByb2JhYmlsaXR5IGRlbnNpdHkgZnVuY3Rpb24gb2YgYSBzaWduYWwgd2l0aCBpbnRlcmZlcm9tZXRyaWMgY3Jvc3N0YWxrIiwgSUVFRSBQaG90b25pYyBUZWNobm9sb2d5IExldHRlcnMsIHZvbC4gMTMsIHBwLjE2MC0xNjIsIDIwMDEuDQoNCg0KDQpbMl0uIFguSmlhbmcsIEsuTS4gRmVuZywgTS4gQ2FyZGFrbGksIEouWC4gQ2FpLCBBLkUuIFdpbGxuZXIsIFYuIEdydWJza3ksIEQuUy4gU3Rhcm9kdWJvdiwgYW5kIEouIEZlaW5iZXJnLCAiIENvbnRyb2wgbW9uaXRvcmluZyBvZiByb3V0aW5nIGJpdHMgYW5kIGRhdGEgcGFja2V0cyBpbiBXRE0gbmV0d29ya3MgdXNpbmcgd2F2ZWxlbmd0aC10by10aW1lIG1hcHBpbmciLCBJRUVFIFBob3RvbmljIFRlY2hub2xvZ3kgTGV0dGVycywgdm9sLiAxMSwgcHAuIDExODYtMTE4OCwgMTk5OQ0KDQoNCg0KWzNdLiBYLkppYW5nLCBNLkNhcmRha2xpLCBLLi1NLkZlbmcsIEouLVguQ2FpLCBBLkUuV2lsbG5lciwgVi5HcnVic2t5LCBELlMuU3Rhcm9kdWJvdiwgYW5kIEouIEZlaW5iZXJnLCAiQ29udHJvbCBNb25pdG9yaW5nIG9mIFJvdXRpbmcgQml0cyBhbmQgRGF0YSBQYWNrZXRzIGluIFdETSBOZXR3b3JrcyBVc2luZyBXYXZsZW5ndGgtdG8tVGltZSBNYXBwaW5nIiwgT3B0aWNhbCBGaWJlciBDb21tdW5pY2F0aW9ucyBjb25mZXJlbmNlIChPRkMnOTkpLCBUdUo3LCBTYW4gRGllZ28sIENBLCBGZWIuIDE5OTkuIA0KDQoNCg0KWzRdLiBYLkppYW5nLCBYLlAuQ2hlbiwgYW5kIEEuRS5XaWxsbmVyLCAiQWxsIG9wdGljYWwgd2F2ZWxlbmd0aCBpbmRlcGVuZGVudCBwYWNrZXQgaGVhZGVyIHJlcGxhY2VtZW50IHVzaW5nIGEgbG9uZyBDVyByZWdpb24gZ2VuZXJhdGVkIGRpcmVjdGx5IGZyb20gdGhlIHBhY2tldCBmbGFnIiwgSUVFRSBQaG90b25pYyBUZWNobm9sb2d5IExldHRlcnMsIHZvbC4gMTAsIHBwLjE2MzgtMTY0MCwgMTk5OC4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916420306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

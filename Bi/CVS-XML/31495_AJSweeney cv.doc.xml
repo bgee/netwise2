@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:55 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915001306521"  usageLimitType="allocation" usageLimit="200" currentUsage="94" remainingUsage="106" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>DATE \@ &quot;M/d/yy&quot;</FormattedName>
+<GivenName>DATE</GivenName>
+<MiddleName>\@</MiddleName>
+<FamilyName>&quot;M/d/yy&quot;</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>55104</PostalCode>
+<Region>MN</Region>
+<Municipality>St. Paul</Municipality>
+<DeliveryAddress>
+<AddressLine>2006 Carroll Avenue</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>The College of St. Catherine</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Instructor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mathematical Structures for Elementary Education Majors</EmployerOrgName>
+<PositionHistory>
+<Title>Finite Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<PostalCode>55105</PostalCode>
+<Region>MN</Region>
+<Municipality>St. Paul</Municipality>
+<DeliveryAddress>
+<AddressLine>2004 Randolph Avenue</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>I have taught, Precalculus, Calculus, Functions with Calculus, Mathematics for Middle School Teachers, Statistical Analysis and Mathematical Ideas in Contemporary Society. I developed the course for education majors seeking a middle school mathematics specialty, Mathematics For Middle School Teachers, as well as courses for a planned MAED program for teachers of mathematics and science. I have also taught the core course The Reflective Woman.
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Metropolitan State University</EmployerOrgName>
+<PositionHistory>
+<Title>community faculty member</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<PostalCode>55106</PostalCode>
+<Region>MN</Region>
+<Municipality>St. Paul</Municipality>
+<DeliveryAddress>
+<AddressLine>700 East Seventh Street</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>I taught Statistics in Human Services.
+</Description>
+<StartDate>
+<AnyDate>1990-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Concordia College St. Paul</EmployerOrgName>
+<PositionHistory>
+<Title>During the eight years that I was an adjunct professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<PostalCode>55104</PostalCode>
+<Region>MN</Region>
+<Municipality>St. Paul</Municipality>
+<DeliveryAddress>
+<AddressLine>275 North Syndicate Street</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>I taught every mathematics course offered from Elementary Algebra to Abstract Algebra. I developed the Finite Mathematics, Business Statistics and Abstract Algebra courses introducing them to the college. I also taught the statistics module in Concordia&apos;s School of Adult Learning. In 1991, I rewrote the student manual used in the course to tailor it to the needs of the class.
+</Description>
+<StartDate>
+<AnyDate>1982-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The College of St. Thomas</EmployerOrgName>
+<PositionHistory>
+<Title>an adjunct instructor I taught Finite Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<PostalCode>55105</PostalCode>
+<Region>MN</Region>
+<Municipality>St. Paul</Municipality>
+<DeliveryAddress>
+<AddressLine>2115 Summit Avenue</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1982-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1984-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>the New College Program.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<PostalCode>61820</PostalCode>
+<Region>IL</Region>
+<Municipality>Champaign</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Parkland College As a part time instructor, I taught Statistics and the Intermediate Algebra through Precalculus sequence.
+</Description>
+<StartDate>
+<AnyDate>1978-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1981-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<PostalCode>61843</PostalCode>
+<Region>IL</Region>
+<Municipality>Fisher</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Fisher Community Unit District #1 As a tenured faculty member of the Fisher School District, I taught mathematics to students in the sixth through twelfth grades. I also served as the grade school mathematics coordinator and established and ran the mathematics laboratory in the grade school. The year that I was assigned the Practical Mathematics class at the high school, I designed and wrote all of the units used.
+</Description>
+<StartDate>
+<AnyDate>1970-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1978-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeMajor>
+<Name>I received my</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>the University of Illinois at Urbana-Champaign</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>1973-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Teaching Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Loyola University Chicago</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1970-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Committees: Jan</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Aug</Title>
+<PublicationDate>
+<StringDate>Sept. 2006</StringDate>
+</PublicationDate>
+<Volume>2009</Volume>
+</Article>
+<Article>
+<Title>Aug</Title>
+<PublicationDate>
+<StringDate>Sept. 2005</StringDate>
+</PublicationDate>
+<Volume>2008</Volume>
+</Article>
+<Article>
+<Title>Sept</Title>
+<PublicationDate>
+<StringDate>Sept. 2005</StringDate>
+</PublicationDate>
+<Volume>2008</Volume>
+</Article>
+<Article>
+<Title>the Board of Trustees of the College of St. Catherine Jan</Title>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Sept</Title>
+<PublicationDate>
+<StringDate>Sept. 2004</StringDate>
+</PublicationDate>
+<Volume>2006</Volume>
+</Article>
+<Article>
+<Title>New/Future Teachers into a Community of Mathematics Teaching) For MCTM Jan</Title>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Sept</Title>
+<PublicationDate>
+<StringDate>Sept. 2003</StringDate>
+</PublicationDate>
+<Volume>2005</Volume>
+</Article>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<Title>What&apos;s New - Comparing the 2003 and MN Mathematics Standards</Title>
+<StartDate><StringDate>2008-04-01</StringDate></StartDate>
+<EventName>Mathematics Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Navigating through Algebra in Grades 3 - 5 Invited speaker for the MCTM 10th</Title>
+<EventName>Symposium on Mathematics Education</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2007-05-01</StringDate></StartDate>
+<EventName>Teaching Mathematics in a Liberal Arts College University of MN Preparing Future Faculty</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2007-04-01</StringDate></StartDate>
+<EventName>Why Preservice Beginning Math Teachers Should Become Virtual Mentees Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Teaching Fractions - Activities Games and Ideas MCTM Spring</Title>
+<EventName>Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>CONNECT Session</Title>
+<StartDate><StringDate>2006-03-01</StringDate></StartDate>
+<EventName>Preparing Future Faculty Presentation and Panel University of MN</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>CONNECT Session</Title>
+<StartDate><StringDate>2005-04-01</StringDate></StartDate>
+<EventName>Preparing Future Faculty Presentation and Panel University of MN</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Tips and Helpful Hints for New and Beginning Teachers NCTM</Title>
+<EventName>Regional Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2004-04-01</StringDate></StartDate>
+<EventName>Using Decimal Squares( to Teach Percents MCTM Spring Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2003-03-01</StringDate></StartDate>
+<EventName>Black Holes and Other Number Oddities MCTM Spring Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2002-03-01</StringDate></StartDate>
+<EventName>Pascal&apos;s Triangle Its Patterns and Sequences MCTM Spring Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2001-04-01</StringDate></StartDate>
+<EventName>Debunking Math Myths MCTM Spring Conference</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Statistical Analysis">
+<CompetencyEvidence name ="Statistical Analysis" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Statistics">
+<CompetencyEvidence name ="Statistics" lastUsed="1995-01-01">
+<NumericValue description="Range in years of experience">16</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>1996-05-01</StringDate></Date>
+<Description>The College of St. Catherine Faculty Teaching Award for Outstanding</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1994-10-01</StringDate></Date>
+<Description>Achievement as an Educator</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1994-10-01</StringDate></Date>
+<Description>The Outstanding Teacher of the Year 1994 Award from Metropolitan</Description>
+</Achievement>
+<Achievement>
+<Description>State University</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>I am a member of the Mathematics Association of America (MAA), National Council of Teachers of Mathematics (NCTM), the Minnesota Council of Teachers of Mathematics (MCTM) and SciMath MN.</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5uIEouIFN3ZWVuZXkNCg0KMjAwNiBDYXJyb2xsIEF2ZW51ZQ0KU3QuIFBhdWwsIE1OICA1NTEwNA0KDQpFeHBlcmllbmNlOg0KDQogU2VwdGVtYmVyIDE5OTkgLSBwcmVzZW50ICBBc3Npc3RhbnQgUHJvZmVzc29yDQogU2VwdGVtYmVyIDE5OTQgLSBNYXkgMTk5OSAgSW5zdHJ1Y3Rvcg0KIFNlcHRlbWJlciAxOTkwIC0gTWF5IDE5OTQgIEFkanVuY3QgSW5zdHJ1Y3RvciAgICAgICAgICBUaGUgQ29sbGVnZSBvZiBTdC4gQ2F0aGVyaW5lDQogICAgICAyMDA0IFJhbmRvbHBoIEF2ZW51ZQ0KICAgICAgU3QuIFBhdWwsIE1OICA1NTEwNQ0KSSBoYXZlIHRhdWdodCBNYXRoZW1hdGljYWwgU3RydWN0dXJlcyBmb3IgRWxlbWVudGFyeSBFZHVjYXRpb24gTWFqb3JzLCBGaW5pdGUgTWF0aGVtYXRpY3MsIFByZWNhbGN1bHVzLCBDYWxjdWx1cywgRnVuY3Rpb25zIHdpdGggQ2FsY3VsdXMsIE1hdGhlbWF0aWNzIGZvciBNaWRkbGUgU2Nob29sIFRlYWNoZXJzLCBTdGF0aXN0aWNhbCBBbmFseXNpcyBhbmQgTWF0aGVtYXRpY2FsIElkZWFzIGluIENvbnRlbXBvcmFyeSBTb2NpZXR5LiAgSSBkZXZlbG9wZWQgdGhlIGNvdXJzZSBmb3IgZWR1Y2F0aW9uIG1ham9ycyBzZWVraW5nIGEgbWlkZGxlIHNjaG9vbCBtYXRoZW1hdGljcyBzcGVjaWFsdHksIE1hdGhlbWF0aWNzIEZvciBNaWRkbGUgU2Nob29sIFRlYWNoZXJzLCBhcyB3ZWxsIGFzIGNvdXJzZXMgZm9yIGEgcGxhbm5lZCBNQUVEIHByb2dyYW0gZm9yIHRlYWNoZXJzIG9mIG1hdGhlbWF0aWNzIGFuZCBzY2llbmNlLiAgSSBoYXZlIGFsc28gdGF1Z2h0IHRoZSBjb3JlIGNvdXJzZSBUaGUgUmVmbGVjdGl2ZSBXb21hbi4NCg0KIFNlcHRlbWJlciAxOTkwIC0gSnVuZSAxOTk1ICBNZXRyb3BvbGl0YW4gU3RhdGUgVW5pdmVyc2l0eQ0KICAgICAgNzAwIEVhc3QgU2V2ZW50aCBTdHJlZXQNCiAgICAgIFN0LiBQYXVsLCBNTiAgNTUxMDYNCkFzIGEgY29tbXVuaXR5IGZhY3VsdHkgbWVtYmVyLCBJIHRhdWdodCBTdGF0aXN0aWNzIGluIEh1bWFuIFNlcnZpY2VzLg0KDQogU2VwdGVtYmVyIDE5ODIgLSBKdW5lIDE5OTAgIENvbmNvcmRpYSBDb2xsZWdlIFN0LiBQYXVsDQogICAgICAyNzUgTm9ydGggU3luZGljYXRlIFN0cmVldA0KICAgICAgU3QuIFBhdWwsIE1OICA1NTEwNA0KRHVyaW5nIHRoZSBlaWdodCB5ZWFycyB0aGF0IEkgd2FzIGFuIGFkanVuY3QgcHJvZmVzc29yLCBJIHRhdWdodCBldmVyeSBtYXRoZW1hdGljcyBjb3Vyc2Ugb2ZmZXJlZCBmcm9tIEVsZW1lbnRhcnkgQWxnZWJyYSB0byBBYnN0cmFjdCBBbGdlYnJhLiAgSSBkZXZlbG9wZWQgdGhlIEZpbml0ZSBNYXRoZW1hdGljcywgQnVzaW5lc3MgU3RhdGlzdGljcyBhbmQgQWJzdHJhY3QgQWxnZWJyYSBjb3Vyc2VzIGludHJvZHVjaW5nIHRoZW0gdG8gdGhlIGNvbGxlZ2UuICBJIGFsc28gdGF1Z2h0IHRoZSBzdGF0aXN0aWNzIG1vZHVsZSBpbiBDb25jb3JkaWEncyBTY2hvb2wgb2YgQWR1bHQgTGVhcm5pbmcuICBJbiAxOTkxLCBJIHJld3JvdGUgdGhlIHN0dWRlbnQgbWFudWFsIHVzZWQgaW4gdGhlIGNvdXJzZSB0byB0YWlsb3IgaXQgdG8gdGhlIG5lZWRzIG9mIHRoZSBjbGFzcy4NCg0KIFNlcHRlbWJlciAxOTgyIC0gRGVjZW1iZXIgMTk4NCBUaGUgQ29sbGVnZSBvZiBTdC4gVGhvbWFzDQogICAgICAyMTE1IFN1bW1pdCBBdmVudWUNCiAgICAgIFN0LiBQYXVsLCBNTiAgNTUxMDUNCkFzIGFuIGFkanVuY3QgaW5zdHJ1Y3RvciBJIHRhdWdodCBGaW5pdGUgTWF0aGVtYXRpY3MgaW4gdGhlIE5ldyBDb2xsZWdlIFByb2dyYW0uDQoNCiBBdWd1c3QgMTk3OCAtIE1heSAxOTgxICBQYXJrbGFuZCBDb2xsZWdlDQogICAgICBDaGFtcGFpZ24sIElMICA2MTgyMA0KQXMgYSBwYXJ0IHRpbWUgaW5zdHJ1Y3RvciwgSSB0YXVnaHQgU3RhdGlzdGljcyBhbmQgdGhlIEludGVybWVkaWF0ZSBBbGdlYnJhIHRocm91Z2ggUHJlY2FsY3VsdXMgc2VxdWVuY2UuDQoNCiBTZXB0ZW1iZXIgMTk3MCAtIEp1bmUgMTk3OCAgRmlzaGVyIENvbW11bml0eSBVbml0IERpc3RyaWN0ICMxDQogICAgICBGaXNoZXIsIElMICA2MTg0Mw0KQXMgYSB0ZW51cmVkIGZhY3VsdHkgbWVtYmVyIG9mIHRoZSBGaXNoZXIgU2Nob29sIERpc3RyaWN0LCBJIHRhdWdodCBtYXRoZW1hdGljcyB0byBzdHVkZW50cyBpbiB0aGUgc2l4dGggdGhyb3VnaCB0d2VsZnRoIGdyYWRlcy4gIEkgYWxzbyBzZXJ2ZWQgYXMgdGhlIGdyYWRlIHNjaG9vbCBtYXRoZW1hdGljcyBjb29yZGluYXRvciBhbmQgZXN0YWJsaXNoZWQgYW5kIHJhbiB0aGUgbWF0aGVtYXRpY3MgbGFib3JhdG9yeSBpbiB0aGUgZ3JhZGUgc2Nob29sLiAgVGhlIHllYXIgdGhhdCBJIHdhcyBhc3NpZ25lZCB0aGUgUHJhY3RpY2FsIE1hdGhlbWF0aWNzIGNsYXNzIGF0IHRoZSBoaWdoIHNjaG9vbCwgSSBkZXNpZ25lZCBhbmQgd3JvdGUgYWxsIG9mIHRoZSB1bml0cyB1c2VkLg0KRWR1Y2F0aW9uOg0KSSByZWNlaXZlZCBteSBNUyBpbiBUZWFjaGluZyBNYXRoZW1hdGljcyBmcm9tIHRoZSBVbml2ZXJzaXR5IG9mIElsbGlub2lzIGF0IFVyYmFuYS1DaGFtcGFpZ24gaW4gMTk3MyBhbmQgbXkgQlMgaW4gTWF0aGVtYXRpY3MgZnJvbSBMb3lvbGEgVW5pdmVyc2l0eSBDaGljYWdvIGluIDE5NzAuDQoNCkF3YXJkczoNCk1heSAxOTk2IFRoZSBDb2xsZWdlIG9mIFN0LiBDYXRoZXJpbmUgRmFjdWx0eSBUZWFjaGluZyBBd2FyZCBmb3IgT3V0c3RhbmRpbmcNCiBBY2hpZXZlbWVudCBhcyBhbiBFZHVjYXRvciANCk9jdG9iZXIgMTk5NCBUaGUgT3V0c3RhbmRpbmcgVGVhY2hlciBvZiB0aGUgWWVhciAxOTk0IEF3YXJkIGZyb20gTWV0cm9wb2xpdGFuDQpTdGF0ZSBVbml2ZXJzaXR5Lg0KDQpQcmVzZW50YXRpb25zOg0KQXByaWwgMjAwOCBXaGF0J3MgTmV3IC0gQ29tcGFyaW5nIHRoZSAyMDAzIGFuZCAyMDA3IE1OIE1hdGhlbWF0aWNzIFN0YW5kYXJkcyANCiAgMjAwOCBTcHJpbmcgTWF0aGVtYXRpY3MgQ29uZmVyZW5jZQ0KQXByaWwgMjAwOCBOYXZpZ2F0aW5nIHRocm91Z2ggQWxnZWJyYSBpbiBHcmFkZXMgMyAtIDUgSW52aXRlZCBzcGVha2VyIGZvciB0aGUgTUNUTSAxMHRoIA0KU3ltcG9zaXVtIG9uIE1hdGhlbWF0aWNzIEVkdWNhdGlvbg0KTWF5IDIwMDcgVGVhY2hpbmcgTWF0aGVtYXRpY3MgaW4gYSBMaWJlcmFsIEFydHMgQ29sbGVnZSBVbml2ZXJzaXR5IG9mIE1OIFByZXBhcmluZyBGdXR1cmUgRmFjdWx0eSANCkFwcmlsIDIwMDcgV2h5IFByZXNlcnZpY2UgQmVnaW5uaW5nIE1hdGggVGVhY2hlcnMgU2hvdWxkIEJlY29tZSBWaXJ0dWFsIE1lbnRlZXMgMjAwNyBTcHJpbmcgQ29uZmVyZW5jZQ0KQXByaWwgMjAwNiBUZWFjaGluZyBGcmFjdGlvbnMgLSBBY3Rpdml0aWVzLCBHYW1lcyBhbmQgSWRlYXMgMjAwNiBNQ1RNIFNwcmluZyANCkNvbmZlcmVuY2UNCkFwcmlsIDIwMDYgV2hhdCBpcyBWaXJ0dWFsIE1lbnRvcmluZyBhbmQgV2hvIGlzIHlvdXIgTUNUTSBWaXJ0dWFsIE1lbnRvcj8gU3ByaW5nIA0KQ09OTkVDVCBTZXNzaW9uDQpNYXJjaCAyMDA2IFByZXBhcmluZyBGdXR1cmUgRmFjdWx0eSBQcmVzZW50YXRpb24gYW5kIFBhbmVsIFVuaXZlcnNpdHkgb2YgTU4NCkFwcmlsIDIwMDUgV2hhdCBpcyBWaXJ0dWFsIE1lbnRvcmluZyBhbmQgV2hvIGlzIHlvdXIgTUNUTSBWaXJ0dWFsIE1lbnRvcj8gU3ByaW5nIA0KICBDT05ORUNUIFNlc3Npb24NCkFwcmlsIDIwMDUgUHJlcGFyaW5nIEZ1dHVyZSBGYWN1bHR5IFByZXNlbnRhdGlvbiBhbmQgUGFuZWwgVW5pdmVyc2l0eSBvZiBNTg0KTm92LiAyMDA0IFRpcHMgYW5kIEhlbHBmdWwgSGludHMgZm9yIE5ldyBhbmQgQmVnaW5uaW5nIFRlYWNoZXJzIDIwMDQgTkNUTSANClJlZ2lvbmFsIENvbmZlcmVuY2UNCkFwcmlsIDIwMDQgVXNpbmcgRGVjaW1hbCBTcXVhcmVzKCB0byBUZWFjaCBQZXJjZW50cyAyMDA0IE1DVE0gU3ByaW5nIENvbmZlcmVuY2UNCk1hcmNoIDIwMDMgQmxhY2sgSG9sZXMgYW5kIE90aGVyIE51bWJlciBPZGRpdGllcyAyMDAzIE1DVE0gU3ByaW5nIENvbmZlcmVuY2UNCk1hcmNoIDIwMDIgUGFzY2FsJ3MgVHJpYW5nbGU7IEl0cyBQYXR0ZXJucyBhbmQgU2VxdWVuY2VzIDIwMDIgTUNUTSBTcHJpbmcgQ29uZmVyZW5jZQ0KQXByaWwgMjAwMSBEZWJ1bmtpbmcgTWF0aCBNeXRocyAyMDAxIE1DVE0gU3ByaW5nIENvbmZlcmVuY2UNCg0KUHJvZmVzc2lvbmFsIE9yZ2FuaXphdGlvbnM6DQpJIGFtIGEgbWVtYmVyIG9mIHRoZSBNYXRoZW1hdGljcyBBc3NvY2lhdGlvbiBvZiBBbWVyaWNhIChNQUEpLCBOYXRpb25hbCBDb3VuY2lsIG9mIFRlYWNoZXJzIG9mIE1hdGhlbWF0aWNzIChOQ1RNKSwgdGhlIE1pbm5lc290YSBDb3VuY2lsIG9mIFRlYWNoZXJzIG9mIE1hdGhlbWF0aWNzIChNQ1RNKSBhbmQgU2NpTWF0aCBNTi4NCg0KQWN0aXZpdGllczoNCk9jdC4gMjAwNyAgQ29DaGFpciBmb3IgTUNUTSBGYWxsIGNvbmZlcmVuY2UNCk9jdC4gMjAwNiAgQ29DaGFpciBmb3IgTUNUTSBGYWxsIENvbmZlcmVuY2UNCkFwci4gMjAwNiAtIEFwci4gMjAwOSBWaWNlLVByZXNpZGVudCBmb3IgTWF0aGVtYXRpY3MsIE1DVE0gQm9hcmQgb2YgRGlyZWN0b3JzDQpTZXB0LiAyMDA0IC0gcHJlc2VudCBNQ1RNIFZpcnR1YWwgTWVudG9yIGZvciBOZXcgYW5kIEJlZ2lubmluZyBUZWFjaGVycw0KU2VwdC4gMjAwMyAtIEF1Zy4gMjAwNiBDaGFpciwgRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljYWwgU2NpZW5jZXMNCkRlYy4gMjAwMiAtIE1heSAyMDAzIFdpdGggS2F0aGxlZW4gUmlja2VydCwgY28tZWRpdG9yIG9mIFRSVyBJZGVhbG9ndWUgDQpNYXkgMjAwMiAtIE1heSAyMDA2IDNNIFZpcnR1YWwgTWVudG9yIGZvciBDU0MgRWxlbWVudGFyeSBFZHVjYXRpb24gU3R1ZGVudHMgcmVjZWl2aW5nIE1pZGRsZSBTY2hvb2wgTWF0aCBTcGVjaWFsdHkgTGljZW5zdXJlDQpBcHJpbCAyMDAwIC0gSnVseSAyMDAwIE5TRiBTZWxlY3Rpb24gQ29tbWl0dGVlIGZvciBTdGF0ZSBFbGVtZW50YXJ5IE1hdGhlbWF0aWNzDQpUZWFjaGVycyBmb3IgdGhlIFByZXNpZGVudGlhbCBBd2FyZHMgZm9yIEV4Y2VsbGVuY2UgaW4NCk1hdGhlbWF0aWNzIGFuZCBTY2llbmNlIFRlYWNoaW5nIChQQUVNU1QpDQpTZXB0IDE5OTggLSBNYXkgMTk5OSBSZXZpZXdlciBmb3IgTkNUTSBNYXRoZW1hdGljcyBUZWFjaGluZyBpbiB0aGUgTWlkZGxlIFNjaG9vbA0KSm91cm5hbA0KQXByaWwgMTk5OCAtIEp1bHkgMTk5OCBOU0YgU2VsZWN0aW9uIENvbW1pdHRlZSBmb3IgUEFFTVNUDQpTZXB0IDE5OTcgLSBKdW5lIDIwMDMgQ29DaGFpciwgRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljYWwgU2NpZW5jZXMNClNlcHQgMTk5NyAtIE1heSAyMDAzIEZhY3VsdHkgQWR2aXNvciBmb3IgUGkgTXUgRXBzaWxvbiBNYXRoZW1hdGljcyBIb25vciBTb2NpZXR5DQpTZXB0IDE5OTYgLSBNYXkgMjAwMSBDb252ZW5vciBmb3IgVGhlIFRlYWNoZXIgaW4gdGhlIENsYXNzcm9vbSBNZW50b3JpbmcgR3JvdXANClNlcHQgMTk5NCAtIHByZXNlbnQgRmlyc3QgWWVhciBBZHZpc29yDQpKYW4gMTk5MSAtIE1heSAyMDAwIEF1dGhvciBhbmQgdGVhY2hlciwgTWF0aCBmb3IgR2lybHMgQ2xhc3NlcyBmb3IgZ3JhZGVzIDMgLSA1DQoNCkNvbW1pdHRlZXM6DQpKYW4uIDIwMDkgLSBwcmVzZW50IE9yaWVudGF0aW9uIENvbW1pdHRlZSBDby1jaGFpcg0KSmFuLiAyMDA4IC0gSmFuLiAyMDA5IE9yaWVudGF0aW9uIENvbW1pdHRlZQ0KTm92LiAyMDA3IC0gTWFyLiAyMDA4IFNlYXJjaCBjb21taXR0ZWUgZm9yIE9OQyBBc3Npc3RhbnQgRGlyZWN0b3IgTWF0aGVtYXRpY3MvU2NpZW5jZQ0KTWF5IDIwMDcgLSBwcmVzZW50IENvcmUgTGVhZGVyc2hpcCBDb21taXR0ZWUNClNlcHQuIDIwMDYgLSBBdWcuIDIwMDkgVGhlIENvbGxlZ2Ugb2YgU3QuIENhdGhlcmluZSBBc3Nlc3NtZW50IENvbW1pdHRlZQ0KU2VwdC4gMjAwNiAtIE1heSAyMDA3IENTQydzIENvcmUgUmVmb2N1cyBDb21taXR0ZWUNClNlcHQuIDIwMDUgLSBBdWcuIDIwMDggQ2FwaXRhbCBCdWRnZXQgQWR2aXNvcnkgQ29tbWl0dGVlDQpTZXB0LiAyMDA1IC0gU2VwdC4gMjAwOCBGYWN1bHR5IFJlcHJlc2VudGF0aXZlIHRvIHRoZSBTcGFjZSBhbmQgVGVjaG5vbG9neSBjb21taXR0ZWUgb2YgDQp0aGUgQm9hcmQgb2YgVHJ1c3RlZXMgb2YgdGhlIENvbGxlZ2Ugb2YgU3QuIENhdGhlcmluZQ0KSmFuLiAyMDA1IC0gSmFuLiAyMDA2IENvbGxlZ2UncyBNYXN0ZXIgU3BhY2UgUGxhbiBTdGVlcmluZyBDb21taXR0ZWUNClNlcHQuIDIwMDQgLSBTZXB0LiAyMDA2IFRlY2hub2xvZ3kgVGFzayBUZWFtIC0gVDMNCkZlYi4gMjAwNCAtIHByZXNlbnQgTWVtYmVyIG9mIENPTk5FQ1QgKEEgQ29tbWl0dGVlIHRvIE9yaWVudCBhbmQgTmV0d29yaw0KTmV3L0Z1dHVyZSBUZWFjaGVycyBpbnRvIGEgQ29tbXVuaXR5IG9mIE1hdGhlbWF0aWNzIFRlYWNoaW5nKQ0KRm9yIE1DVE0NCkphbi4gMjAwNCAtIE1heSAyMDA1IENTQyBFbnJvbGxtZW50IE1hbmFnZW1lbnQgTWF0cml4IChFTU0pDQpTZXB0LiAyMDAzIC0gU2VwdC4gMjAwNSBBUkMgcmVwcmVzZW50YXRpdmUgdG8gdGhlIE1lbmRlbC9XaGl0YnkgUmVub3ZhdGlvbiBDb21taXR0ZWUNCkphbi4gMjAwMyAtIHByZXNlbnQgUGxhbm5pbmcgQ29tbWl0dGVlIGZvciBDT0UgV29tZW4sIFNjaWVuY2UgJiBUZWNobm9sb2d5DQpTZXB0IDIwMDEgLSBNYXkgMjAwMyBBY2FkZW1pYyBSZXNvdXJjZXMgQ29tbWl0dGVlIChBUkMpDQpTZXB0IDIwMDAgLSBNYXkgMjAwNiBUUlcgU3ViY29tbWl0dGVlDQpTZXB0IDE5OTkgLSBNYXkgMjAwMSBQdWJsaWMgUmVsYXRpb25zIENvbW1pdHRlZQ0KU2VwdCAxOTk3IC0gTWF5IDIwMDEgRWR1Y2F0aW9uYWwgVGVjaG5vbG9neSBBZHZpc29yeSBDb21taXR0ZWUNClNlcHQgMTk5NiAtIE1heSAxOTk5IExpYnJhcnkgQWR2aXNvcnkgQ29tbWl0dGVlDQpTZXB0IDE5OTQgLSBNYXkgMTk5NyBEZXBhcnRtZW50IG9mIEVkdWNhdGlvbiBBZG1pc3Npb24gYW5kIFJldGVudGlvbiBDb21taXR0ZWUNCg0KQ29tbXVuaXR5IFNlcnZpY2U6DQpKYW51YXJ5IDE5ODkgLSBwcmVzZW50IEtleXN0b25lIENvbW11bml0eSBTZXJ2aWNlcyBCb2FyZCBvZiBEaXJlY3RvcnMsDQogICBNZW1iZXIgYW5kIHRyZWFzdXJlcg0KU2VwdCAxOTk0IC0gcHJlc2VudCBMYXkgTWluaXN0ZXIgYXQgdGhlIENodXJjaCBvZiBTdC4gTWFyaw0KTWFyY2ggMTk5NSAtIE1heSAxOTk1IEV2YWx1YXRvciBmb3IgdGhlIEp1bmlvciBIaWdoIFNjaG9vbCBNYXRoZW1hdGljcyBQcm9ncmFtDQphdCBTdC4gTWFyaydzIFNjaG9vbA0KDQoNCg0KDQogREFURSBcQCAiTS9kL3l5IiA1LzE5LzEw</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915001306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

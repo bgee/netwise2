@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:05:23 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916621306521"  usageLimitType="allocation" usageLimit="200" currentUsage="115" remainingUsage="85" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Liming Zhang</FormattedName>
+<GivenName>Liming</GivenName>
+<FamilyName>Zhang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>93106</PostalCode>
+<Region>CA</Region>
+<Municipality>Santa Barbara</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (805) 893-7392</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>805</AreaCityCode>
+<SubscriberNumber>893-7392</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>lzhang@chem.unr.edu</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>zhang@chem.ucsb.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<PersonDescriptors>
+<BiologicalDescriptors>
+<DateOfBirth>1972-05-11</DateOfBirth>
+</BiologicalDescriptors>
+</PersonDescriptors>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>UC Santa Barbara</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Department of Chemistry and Biochemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Nevada</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Department of Chemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Reno</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Chicago</EmployerOrgName>
+<PositionHistory>
+<Title>Fellow with Professor Sergey A. Kozmin</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Postdoctoral
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Instructor, Chem</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>242, University of Nevada, Reno
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>342 and Chem 740, University of Nevada, Reno
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chem342 and Chem740, University of Nevada, Reno</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Instructor, Chem740, University of Nevada, Reno
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chem743, University of Nevada, Reno</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chem216</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Instructor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Chem211 and Chem312, University of Michigan
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chem237 and Chem338, University of Alabama</EmployerOrgName>
+<PositionHistory>
+<Title>Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Departmental Committee
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NMR</EmployerOrgName>
+<PositionHistory>
+<Title>Chair</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>MassSepc Organic division area advisor Member, TA, student awards. Member, MassSpec member, Safety and Services, Scholarship, ChemClub Advisor, Library Coordinator member, Safety and Services, Scholarship, Publicity and Alumni Relationship ChemClub Advisor Library Coordinator
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Scholarship</EmployerOrgName>
+<PositionHistory>
+<Title>Building Committee</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>member Chem Club Advisor member, Safety and Services, Graduate Recruiting and Admission Current and Past Students/Postdocs
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Erik Hwang</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>undergraduate
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Thomas A. Wilcoxon</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>undergraduate
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Yingdong Luo</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>1st year graduate
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chaoqun Li</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>postdoc
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Biao Lu</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Li Cui</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Yanzhao Wang</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>2nd year graduate
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Longwu Ye</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Guozhu Zhang</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>5th year graduate
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sansan Cao</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>undergraduate Dr.
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Yu Peng</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc Dr.
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Li Cui</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc Dr.
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Shaozhong Wang</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc, currently an Assoc. Prof. at Nanjing Univ., China
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Dr. Guotao Li</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc Dr.
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Xiaogen Huang</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>post doc
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Meng Yu</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>graduated with a M. S. degree James Markus Bradley 2006 summer REU student Kathyrn Galloway 2007 summer REU student Kaitlyn Miller 2008 summer REU student
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Michigan</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph. D</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Medicinal Chemistry/Organic Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Michigan</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M. S</DegreeName>
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Professor Masato Koreeda</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Alabama</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M. S</DegreeName>
+<DegreeDate>
+<AnyDate>1996-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Organic Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Nankai University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B. S</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Organic/Organometallic Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Nanchang University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeMajor>
+<Name>Organic Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Michigan</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph. D</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Zhang, L Koreeda</Name>
+</DegreeMajor>
+<Comments>M. &quot;Radical Deoxygenation of Hydroxyl Groups via Phosphites&quot; J. Am. Chem. Soc.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>3329-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Work</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Alabama</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M. S</DegreeName>
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>L. Cava, M. P. Rogers</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>R.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Alabama</SchoolName>
+</School>
+<Degree>
+<DegreeName>L.M</DegreeName>
+<DegreeMajor>
+<Name>Synthesis of a Wakayin Model Compound</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Nevada</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Reno</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<Comments>2 &quot;Synthesis of Alpha-Halo Enones and Enals&quot;, provisional patent</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; West Virginia University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Morgantown</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-08-25</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; University of Chicago</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Hangzhou</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-06-16</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>31 &quot;Gold-Catalyzed Organic Reactions&quot; University of South Florida</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; University of Florida</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-04-16</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; UC Santa Cruz</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-04-15</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; University of Wisconsin</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-03-15</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>27 &quot;Gold-Catalyzed Organic Reactions&quot; UC Berkeley</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; UC Irvine</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-02-23</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; Wayne State University</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-02-17</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Century: Discovery of &apos;Golden&apos; Organic Chemistry&quot; University of Michigan</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-02-10</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Gold Rush</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>21st</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Novel Reactivities to Versatile Synthetic Methods&quot; UC Riverside</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-02-09</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>23 &quot;Au Catalysis</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Novel Reactivities to Versatile Synthetic Methods&quot; National Taiwan University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Taiwan</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2009-10-28</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>22 &quot;Au Catalysis</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Novel Reactivities to Versatile Synthetic Methods&quot; National Tsinghua University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Taiwan</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-09-11</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>21 &quot;Au Catalysis</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Novel Reactivities to Versatile Synthetic Methods&quot; Taiwan National Normal University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Taiwan</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2010-09-09</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>20 &quot;Au Catalysis</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>18 &quot;Opening a &apos;Golden Gate&apos; for Organic Synthesis&quot; UC Davis</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2009-08-17</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Washington D. C.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>16 &quot;Opening a &apos;Golden Gate&apos; for Organic Synthesis&quot; UC San Diego</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>San Diego</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>15 &quot;Opening a &apos;Golden Gate&apos; for Organic Synthesis&quot; Washington University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>St. Louis</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>14 &apos;Au/Pt-Catalyzed Organic Reactions&apos; University of Arkansas</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AS</Region>
+<Municipality>Fayetteville</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>12 &quot;Au/Pt Catalysis: New Reactivities and Efficient Synthetic methods&quot; Shanghai Institute of Organic Chemistry</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Shanghai</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>11 &quot;Au-Catalyzed Cycloaddition Reactions&quot; 3nd International Forum</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Shanghai</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2008-10-14</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Homogeneous Catalysis and First China-Spain Bilateral Symposium on</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>9 &quot;Au/Pt Catalysis: New Reactivities and Efficient Synthetic methods&quot; University of Connecticut</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Bryant University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Rhode Island</Region>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2008-08-04</AnyDate>
+</DegreeDate>
+<Comments>&quot;Au-Catalyzed Cycloaddition Reactions&quot; GRC Organic Reactions and Processes</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>6 &quot;Au/Pt Catalysis: New Reactivities and Efficient Synthetic methods&quot; University of California</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Los Angeles</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>5 &quot;Au/Pt Catalysis: New Reactivities and Efficient Synthetic methods&quot; California State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fullerton</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>3 &quot;Au/Pt Catalysis: New Reactivities and Efficient Synthetic methods&quot; University of Delaware</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Newark</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>2 &quot;Au-Catalyzed Reactions of Propargylic Esters: Tandem Processes toward Functional Structures&quot; Peking University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>CN</CountryCode>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>1 &quot;Au-Catalyzed Reactions of Propargylic Esters: Tandem Processes toward Functional Structures&quot; Nankai University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>CN</CountryCode>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Bryant University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Rhode Island</Region>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2023-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GRC Organic Reactions and Processes</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>G.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Tilton High School</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>New Hampshire</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2024-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GRC Natural Products</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Bryant University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Rhode Island</Region>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2017-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GRC Organic Reactions and Processes</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Bryant University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Rhode Island</Region>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2007-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GRC Organic Reactions and Processes</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>L.</Name>
+</DegreeMinor>
+<Comments>L. &quot;Exploring Au Catalysis: Development of Efficient Synthetic Methods&quot; Presentation at the 232nd ACS National Regional Meeting, San Francisco</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2011-09-15</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>6 Sloan Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UNR</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2007-02-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Junior Faculty Research Grant</Name>
+</DegreeMajor>
+<Comments>1 &apos;Phosphoranyl Radical-Mediated Deoxygenative Transformation of Carbonyl Groups&apos;</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>a total of</Title>
+<Name role="author">
+<FormattedName>Independent Work</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<Volume>38</Volume>
+</Article>
+<Article>
+<Title>&quot;Gold-Catalyzed Intramolecular Redox Reaction of Sulfinyl Alkynes: Efficient Generation of Î±-Oxo Gold Carbenoids and Application in Insertion into R-CO Bonds&quot; Angew</Title>
+<Name role="author">
+<FormattedName>Li, G. Zhang, L</FormattedName>
+</Name>
+<JournalOrSerialName>at &quot;http://www.nature.com/nchem/reshigh/2009/0409/full/nchem.211.html&quot; http://www.nature.com/nchem/reshigh/2009/0409/full/nchem.211.html)</JournalOrSerialName>
+<Volume>10</Volume>
+</Article>
+<Article>
+<Title>&quot;Two-Step Formal [3+2] Cycloaddition of Enones/Enals and Allenyl MOM Ether: Gold-Catalyzed Highly Diastereoselective Synthesis of Cyclopentanone Enol Ether Containing an All-Carbon Quaternary Center&quot; J</Title>
+<Name role="author">
+<FormattedName>Huang, X. Zhang, L</FormattedName>
+</Name>
+<JournalOrSerialName>Am</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Gold-Catalyzed Efficient Preparation of Linear Î±-Iodoenones from Propargylic Acetates&quot; Org</Title>
+<Name role="author">
+<FormattedName>Yu, M. Zhang, G. Zhang L</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Gold-Catalyzed Efficient Formation of</Title>
+<Name role="author">
+<FormattedName>Yu, M. Li, G. Wang, S. Zhang, L</FormattedName>
+</Name>
+<JournalOrSerialName>( Î²-Unsaturated Ketones from Propargylic Acetates&quot; Adv</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;A Gold-Catalyzed Unique Cycloisomerization of 1,5-Enynes: Efficient Formation of 1-Carboxycyclohexa-1,4-dienes and Carboxyarenes&quot; J</Title>
+<Name role="author">
+<FormattedName>Wang, S. Zhang, L</FormattedName>
+</Name>
+<JournalOrSerialName>Am</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Gold-Catalyzed Efficient Formation of Alkenyl Enol Esters/Carbonates from Trimethylsilylmethyl-Substituted Propargyl Esters/Carbonates&quot; Org</Title>
+<Name role="author">
+<FormattedName>Wang, S. Zhang, L</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;A Highly Efficient Preparative Method of Î±-Ylidene-Î²-Diketones via AuIII-Catalyzed Acyl Migration of Propargylic Esters&quot; J</Title>
+<Name role="author">
+<FormattedName>Wang, S. Zhang, L</FormattedName>
+</Name>
+<JournalOrSerialName>Am</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Efficient Synthesis of Cyclopentenones from Enynyl Acetates via Tandem Au (I)-Catalyzed 3,3-Rearrangement and the Nazarov Reaction&quot; J</Title>
+<Name role="author">
+<FormattedName>Zhang, L. Wang, S</FormattedName>
+</Name>
+<JournalOrSerialName>Am</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Tandem Au-catalyzed 3,3-Rearrangement-[2+2] Cycloadditions of Propargylic Esters: Expeditious Access to Highly Functionalized 2,3-Indoline-fused Cyclobutanes&quot; J</Title>
+<Name role="author">
+<FormattedName>Zhang, L</FormattedName>
+</Name>
+<JournalOrSerialName>Am</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Recruiting">
+<CompetencyEvidence name ="Recruiting" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q3VycmljdWx1bSBWaXRhZQ0KTGltaW5nIFpoYW5nDQpEYXRlIG9mIEJpcnRoOiBNYXkgMTEsIDE5NzINCkUtbWFpbDogIEhZUEVSTElOSyAibWFpbHRvOmx6aGFuZ0BjaGVtLnVuci5lZHUiIHpoYW5nQGNoZW0udWNzYi5lZHUNClBob25lOiAoODA1KTg5My03MzkyDQpXZWI6ICBIWVBFUkxJTksgImh0dHA6Ly93d3cuY2hlbS51Y3NiLmVkdS9+emhhbmcvaW5kZXguaHRtbCIgaHR0cDovL3d3dy5jaGVtLnVjc2IuZWR1L356aGFuZy9pbmRleC5odG1sDQpBZGRyZXNzOiAoTykgRGVwdC4gb2YgQ2hlbS4gJiBCaW9jaGVtLiA5NTEwDQogICAgICAgICAgICAgICAgICAgICBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWENCiAgICAgICAgU2FudGEgQmFyYmFyYSwgQ0EgOTMxMDYNCg0KDQpFZHVjYXRpb24NCjE5OTgtMjAwMyAgIFBoLiBELiBpbiBNZWRpY2luYWwgQ2hlbWlzdHJ5L09yZ2FuaWMgQ2hlbWlzdHJ5LCBVbml2ZXJzaXR5IG9mIE1pY2hpZ2FuIChQcm9mZXNzb3IgTWFzYXRvIEtvcmVlZGEpDQoxOTk2LTE5OTggICBNLiBTLiBpbiBPcmdhbmljIENoZW1pc3RyeSwgVW5pdmVyc2l0eSBvZiBBbGFiYW1hIChQcm9mZXNzb3IgTWljaGFlbCBQLiBDYXZhKSAgICAgICAgIA0KMTk5My0xOTk2ICAgTS4gUy4gaW4gT3JnYW5pYy9Pcmdhbm9tZXRhbGxpYyBDaGVtaXN0cnksIE5hbmthaSBVbml2ZXJzaXR5LCBQUkMgKFByb2Zlc3NvciBaaGVuZ3poaSBaaGFuZykNCjE5ODktMTk5MyAgIEIuIFMuIGluIE9yZ2FuaWMgQ2hlbWlzdHJ5LCBOYW5jaGFuZyBVbml2ZXJzaXR5LCBQUkMgDQpQcm9mZXNzaW9uYWwgRXhwZXJpZW5jZQ0KMjAwOS0gQXNzaXN0YW50IFByb2Zlc3NvciwgRGVwYXJ0bWVudCBvZiBDaGVtaXN0cnkgYW5kIEJpb2NoZW1pc3RyeSwgVUMgU2FudGEgQmFyYmFyYSANCjIwMDUtMjAwOSBBc3Npc3RhbnQgUHJvZmVzc29yLCBEZXBhcnRtZW50IG9mIENoZW1pc3RyeSwgVW5pdmVyc2l0eSBvZiBOZXZhZGEsIFJlbm8NCjIwMDMtMjAwNSBQb3N0ZG9jdG9yYWwgRmVsbG93IHdpdGggUHJvZmVzc29yIFNlcmdleSBBLiBLb3ptaW4sIFVuaXZlcnNpdHkgb2YgQ2hpY2FnbyANCkF3YXJkcyBhbmQgSG9ub3JzDQoyMDA5IDIwMDkgQWxmcmVkIFAuIFNsb2FuIFJlc2VhcmNoIEZlbGxvdw0KMjAwOSBTcHJpbmcgMjAwOSBDQVBBIChDaGluZXNlIEFtZXJpY2FuIENoZW1pc3RyeSAmIENoZW1pY2FsIEJpb2xvZ3kgUHJvZmVzc29yIEFzc29jaWF0aW9uKSAgRGlzdGluZ3Vpc2hlZCBKdW5pb3IgRmFjdWx0eSBBd2FyZC4NCjIwMDggTW91c2VsLUZlbHRuZXIgQXdhcmQgZm9yIEV4Y2VsbGVuY2UgaW4gUmVzZWFyY2ggYW5kL29yIENyZWF0aXZlIEFjdGl2aXR5IChVTlIpDQoyMDA4IE5TRiBDQVJFRVIgQXdhcmQNCjIwMDggQW1nZW4gWW91bmcgSW52ZXN0aWdhdG9yJ3MgQXdhcmQNCjIwMDcgVGhpZW1lIEpvdXJuYWwgQXdhcmQgDQoyMDA3IFVucmVzdHJpY3RlZCBnaWZ0IGJ5IE1lcmNrICYgQ28sIEluYy4NCjIwMDcgUmFscGggRS4gUG93ZSBKdW5pb3IgRmFjdWx0eSBFbmhhbmNlbWVudCBBd2FyZA0KMjAwMiAgRWxpIExpbGx5IEZlbGxvd3NoaXAsIFVuaXZlcnNpdHkgb2YgTWljaGlnYW4NCjIwMDEgUGZpemVyIEZlbGxvd3NoaXAsIFVuaXZlcnNpdHkgb2YgTWljaGlnYW4NCjE5OTYgRGVhbidzIE1lcml0IFNjaG9sYXJzaGlwLCBVbml2ZXJzaXR5IG9mIEFsYWJhbWENCjE5OTYgICJFeGNlbGxlbnQgVGhlc2lzIiBBd2FyZCwgTmFua2FpIFVuaXZlcnNpdHksIFBSQw0KVGVhY2hpbmcgRXhwZXJpZW5jZQ0KMjAwOSBJbnN0cnVjdG9yLCBDaGVtIDI0MiwgVW5pdmVyc2l0eSBvZiBOZXZhZGEsIFJlbm8NCjIwMDggSW5zdHJ1Y3RvciwgQ2hlbSAzNDIgYW5kIENoZW0gNzQwLCBVbml2ZXJzaXR5IG9mIE5ldmFkYSwgUmVubw0KMjAwNyBJbnN0cnVjdG9yLCBDaGVtMzQyIGFuZCBDaGVtNzQwLCBVbml2ZXJzaXR5IG9mIE5ldmFkYSwgUmVubw0KMjAwNiBJbnN0cnVjdG9yLCBDaGVtNzQwLCBVbml2ZXJzaXR5IG9mIE5ldmFkYSwgUmVubw0KMjAwNSBJbnN0cnVjdG9yLCBDaGVtNzQzLCBVbml2ZXJzaXR5IG9mIE5ldmFkYSwgUmVubw0KMTk5OC0yMDAyIEdyYWR1YXRlIEluc3RydWN0b3IsIENoZW0yMTYsIENoZW0yMTEgYW5kIENoZW0zMTIsIFVuaXZlcnNpdHkgb2YgTWljaGlnYW4NCjE5OTYtMTk5OCBUZWFjaGluZyBBc3Npc3RhbnQsIENoZW0yMzcgYW5kIENoZW0zMzgsIFVuaXZlcnNpdHkgb2YgQWxhYmFtYQ0KRGVwYXJ0bWVudGFsIENvbW1pdHRlZQ0KMjAxMCBDaGFpciwgTk1SLCBNYXNzU2VwYzsgT3JnYW5pYyBkaXZpc2lvbiBhcmVhIGFkdmlzb3I7IE1lbWJlciwgVEEsIHN0dWRlbnQgYXdhcmRzLg0KMjAwOSBNZW1iZXIsIE1hc3NTcGVjDQoyMDA4IG1lbWJlciwgU2FmZXR5IGFuZCBTZXJ2aWNlcywgU2Nob2xhcnNoaXAsIENoZW1DbHViIEFkdmlzb3IsIExpYnJhcnkgQ29vcmRpbmF0b3INCjIwMDcgbWVtYmVyLCBTYWZldHkgYW5kIFNlcnZpY2VzLCBTY2hvbGFyc2hpcCwgUHVibGljaXR5IGFuZCBBbHVtbmkgUmVsYXRpb25zaGlwOyBDaGVtQ2x1YiBBZHZpc29yOyBMaWJyYXJ5IENvb3JkaW5hdG9yDQogMjAwNiBtZW1iZXIsIFNjaG9sYXJzaGlwLCBCdWlsZGluZyBDb21taXR0ZWU7IENoZW0gQ2x1YiBBZHZpc29yDQoyMDA1IG1lbWJlciwgU2FmZXR5IGFuZCBTZXJ2aWNlcywgR3JhZHVhdGUgUmVjcnVpdGluZyBhbmQgQWRtaXNzaW9uDQpDdXJyZW50IGFuZCBQYXN0IFN0dWRlbnRzL1Bvc3Rkb2NzDQpFcmlrIEh3YW5nICAyMDExLXByZXNlbnQgdW5kZXJncmFkdWF0ZQ0KVGhvbWFzIEEuIFdpbGNveG9uIDIwMTAtcHJlc2VudCB1bmRlcmdyYWR1YXRlDQpZaW5nZG9uZyBMdW8gIDIwMTAtcHJlc2VudCAxc3QgeWVhciBncmFkdWF0ZQ0KQ2hhb3F1biBMaSAgMjAxMC1wcmVzZW50IHBvc3Rkb2MNCkJpYW8gTHUgIDIwMTAtcHJlc2VudCBwb3N0IGRvYw0KTGkgQ3VpICAyMDA4LXByZXNlbnQgcG9zdCBkb2MNCllhbnpoYW8gV2FuZyAyMDA5LXByZXNlbnQgMm5kIHllYXIgZ3JhZHVhdGUNCkxvbmd3dSBZZSAgMjAwOS1wcmVzZW50IHBvc3QgZG9jDQpHdW96aHUgWmhhbmcgMjAwNi1wcmVzZW50IDV0aCB5ZWFyIGdyYWR1YXRlDQpTYW5zYW4gQ2FvICAyMDA3LTIwMDkgIHVuZGVyZ3JhZHVhdGUNCkRyLiBZdSBQZW5nICAyMDA4LTIwMDkgcG9zdCBkb2MNCkRyLiBMaSBDdWkgIDIwMDgtcHJlc2VudCBwb3N0IGRvYw0KRHIuIFNoYW96aG9uZyBXYW5nIDIwMDUtMjAwNiBwb3N0IGRvYywgY3VycmVudGx5IGFuIEFzc29jLiBQcm9mLiBhdCBOYW5qaW5nIFVuaXYuLCBDaGluYQ0KRHIuIEd1b3RhbyBMaSAgMjAwNi0yMDA4IHBvc3QgZG9jDQpEci4gWGlhb2dlbiBIdWFuZyAyMDA2LTIwMDcgcG9zdCBkb2MNCk1lbmcgWXUgIDIwMDUtMjAwOCBncmFkdWF0ZWQgd2l0aCBhIE0uIFMuIGRlZ3JlZQ0KSmFtZXMgTWFya3VzIEJyYWRsZXkgMjAwNiBzdW1tZXIgUkVVIHN0dWRlbnQNCkthdGh5cm4gR2FsbG93YXkgMjAwNyBzdW1tZXIgUkVVIHN0dWRlbnQNCkthaXRseW4gTWlsbGVyICAyMDA4IHN1bW1lciBSRVUgc3R1ZGVudCANClB1YmxpY2F0aW9ucw0KLS0gSW5kZXBlbmRlbnQgV29yayAoc2luY2UgMjAwNSwgYSB0b3RhbCBvZiAzOCBleGNsdWRpbmcgcmV2aWV3cykNCjQxIEhlLCBXLjsgTGksIEMuOyBaaGFuZywgTC4gIkFuIEVmZmljaWVudCBbMiArIDIgKyAxXSBTeW50aGVzaXMgb2YgMiw1LURpc3Vic3RpdHV0ZWQgT3hhem9sZXMgdmlhIEdvbGQtQ2F0YWx5emVkIEludGVybW9sZWN1bGFyIEFsa3luZSBPeGlkYXRpb24iIEouIEFtLiBDaGVtLiBTb2MuIDIwMTEsIDEzMywgODQ4Mi04NDg1LiAgSFlQRVJMSU5LICIoaHR0cDovZHguZG9pLm9yZy8xMC4xMDIxL2phMjAyOTE4OCkiIChodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phMjAyOTE4OCkNCjQwIEx1bywgWTsgWmhhbmcsIEcuOyBId2FuZywgRS7CoFMuOyBXaWxjb3hvbiwgVC7CoEEuO8KgIFpoYW5nLCBMLiAiR29sZC1jYXRhbHl6ZWQgcmVnaW9zZWxlY3RpdmUgb3hpZGF0aW9uIG9mIHRlcm1pbmFsIGFsbGVuZXM6IGZvcm1hdGlvbiBvZiDOsS1tZXRoYW5lc3VsZm9ueWxveHkgbWV0aHlsIGtldG9uZXMiIEJlaWxzdGVpbiBKLiBPcmcuIENoZW0uIDIwMTEsIDcsIDU5Ni02MDAgKGludml0ZWQpLiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMzc2Mi9iam9jLjcuNjkiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjM3NjIvYmpvYy43LjY5KQ0KMzkgWmhhbmcsIEcuOyBMdW8sIFkuOyBXYW5nLCBZLjsgWmhhbmcsIEwuICJDb21iaW5pbmcgR29sZChJKS9Hb2xkKElJSSkgQ2F0YWx5c2lzIGFuZCBDIElOQ0xVREVQSUNUVVJFICJodHRwOi8vb25saW5lbGlicmFyeXN0YXRpYy53aWxleS5jb20vdW5kaXNwbGF5YWJsZV9jaGFyYWN0ZXJzLzAwZjhmZi5naWYiIFwqIE1FUkdFRk9STUFUSU5FVCBIIEZ1bmN0aW9uYWxpemF0aW9uOiBBIEZvcm1hbCBJbnRyYW1vbGVjdWxhciBbMysyXSBBbm51bGF0aW9uIHRvd2FyZHMgVHJpY3ljbGljIEluZG9saW5lcyBhbmQgTWVjaGFuaXN0aWMgU3R1ZGllcyIgQW5nZXcuIENoZW0uIEludC4gRWQuIDIwMTEsIDUwLCA0NDUwLTQ0NTQuICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8xMC4xMDAyL2FuaWUuMjAxMTAwMjkzIiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDAyL2FuaWUuMjAxMTAwMjkzKQ0KMzggWWUsIEwuOyBIZSwgVy47IFpoYW5nLCBMLiAiRmxleGlibGUgYW5kIFN0ZXJlb3NlbGVjdGl2ZSBTeW50aGVzaXMgb2YgQXpldGlkaW5lLTMtb25lIHZpYSBBIEtleSBHb2xkLUNhdGFseXplZCBJbnRlcm1vbGVjdWxhciBBbGt5bmUgT3hpZGF0aW9uIiBBbmdldy4gQ2hlbS4sIEludC4gRWQuIDIwMTEsIDUwLCAzMjM2LTMyMzkuICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8xMC4xMDAyL2FuaWUuMjAxMDA3NjI0IiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDAyL2FuaWUuMjAxMDA3NjI0KQ0KMzcgTGksIEMuOyBaaGFuZywgTC4gIkdvbGQtQ2F0YWx5emVkIE5pdHJlbmUgVHJhbnNmZXIgdG8gQWN0aXZhdGVkIEFsa3luZXM6IEZvcm1hdGlvbiBvZiDOsSwgzrItVW5zYXR1cmF0ZWQgQW1pZGluZXMiIE9yZy4gTGV0dC4gMjAxMSwgMTMsIDE3MzgtMTc0MS4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvb2wyMDAyNjA3IiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL29sMjAwMjYwNykNCjM2IFdhbmcsIFkuOyBMdSwgQi47IFpoYW5nLCBMLiAiIFRoZSB1c2Ugb2YgQnIvQ2wgdG8gcHJvbW90ZSByZWdpb3NlbGVjdGl2ZSBnb2xkLWNhdGFseXplZCByZWFycmFuZ2VtZW50IG9mIHByb3Bhcmd5bGljIGNhcmJveHlsYXRlczogYW4gZWZmaWNpZW50IHN5bnRoZXNpcyBvZiAoMVosIDNFKS0xLWJyb21vL2NobG9yby0yLWNhcmJveHktMSwzLWRpZW5lcyIgQ2hlbS4gQ29tbXVuLiAyMDEwLCA0NiwgOTE3OS05MTgxLiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAzOS9DMENDMDM2NjlCIiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDM5L0MwQ0MwMzY2OUIpDQozNSBMdSwgQi47IExpLCBDLjsgWmhhbmcsIEwuICJHb2xkLUNhdGFseXplZCBIaWdobHkgUmVnaW9zZWxlY3RpdmUgT3hpZGF0aW9uIG9mIEMtQyBUcmlwbGUgQm9uZHMgdW5kZXIgTm9uLUFjaWRpYyBDb25kaXRpb25zOiBQcm9wYXJneWwgTW9pZXRpZXMgYXMgTWFza2VkIM6xLM6yLVVuc2F0dXJhdGVkIENhcmJvbnlscyIgSi4gQW0uIENoZW0uIFNvYy4gMjAxMCwgMTMyLCAxNDA3MC0xNDA3Mi4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamExMDcyNjE0IiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phMTA3MjYxNCkNCjM0IEN1aSwgTC47IExpLCBDLjsgWmhhbmcsIEwuICJBIE1vZHVsYXIsIEVmZmljaWVudCwgYW5kIFN0ZXJlb3NlbGVjdGl2ZSBTeW50aGVzaXMgb2YgU3Vic3RpdHV0ZWQgUGlwZXJpZGluLTQtb2xzIiBBbmdldy4gQ2hlbS4gSW50LiBFZC4gMjAxMCwgNDksIDkxNzgtOTE4MS4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMDIvYW5pZS4yMDEwMDQ3MTIiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMDIvYW5pZS4yMDEwMDQ3MTIpDQozMyBZZSwgTC47IEhlLCBXLjsgWmhhbmcsIEwuICJHb2xkLUNhdGFseXplZCBPbmUtU3RlcCBQcmFjdGljYWwgU3ludGhlc2lzIG9mIE94ZXRhbi0zLW9uZXMgZnJvbSBSZWFkaWx5IEF2YWlsYWJsZSBQcm9wYXJneWxpYyBBbGNvaG9scyIgSi4gQW0uIENoZW0uIFNvYy4gMjAxMCwgMTMyLCA4NTUwLTg1NTEuICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phMTAzMzk1MiIgaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9qYTEwMzM5NTIpDQozMiBDdWksIEwuOyBZZSwgTC47IFpoYW5nLCBMLiAiR29sZC1jYXRhbHl6ZWQgZWZmaWNpZW50IHN5bnRoZXNpcyBvZiBhemVwYW4tNC1vbmVzIHZpYSBhIHR3by1zdGVwIFs1KzJdIGFubnVsYXRpb24iIENoZW0uIENvbW11bi4gMjAxMCwgNDYsIDMzNTEtMzM1My4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMzkvQzAwMTMxNEUiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMzkvQzAwMTMxNEUpDQozMSBXYW5nLCBTLjsgWmhhbmcsIEcuOyBaaGFuZywgTC4gIkdvbGQtQ2F0YWx5emVkIFJlYWN0aW9uIG9mIFByb3Bhcmd5bGljIENhcmJveHlsYXRlcyB2aWEgYW4gSW5pdGlhbCAzLDMtUmVhcnJhbmdlbWVudCIgU3lubGV0dCAyMDEwLCA2OTItNzA2LiAgDQozMCBZZSwgTC47IEN1aSwgTC47IFpoYW5nLCBHLjsgWmhhbmcsIEwuICJBbGt5bmVzIGFzIEVxdWl2YWxlbnRzIG9mIM6xLURpYXpvIEtldG9uZXMgaW4gR2VuZXJhdGluZyDOsS1PeG8gTWV0YWwgQ2FyYmVuZXM6IEEgR29sZC1DYXRhbHl6ZWQgRXhwZWRpZW50IFN5bnRoZXNpcyBvZiBEaWh5ZHJvZnVyYW4tMy1vbmVzIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDEwLCAxMzIsIDMyNTgtMzI1OS4gICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phMTAwMDQxZSIgaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9qYTEwMDA0MWUpDQoyOSBDdWksIEwuOyBaaGFuZywgTC4gIlRvdGFsIHN5bnRoZXNpcyBvZiAoKyktbGVudGlnaW5vc2luZSB2aWEgYSBrZXkgQXUgY2F0YWx5c2lzIiBTY2kuIENoaW5hLiBCOiBDaGVtLiAyMDEwLCA1MywgMTEzLTExOC4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMDcvczExNDI2LTAxMC0wMDEwLTYiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMDcvczExNDI2LTAxMC0wMDEwLTYpDQoyOCBaaGFuZywgRy47IEN1aSwgTC47IFdhbmcsIFkuOyBaaGFuZywgTC4gIkhvbW9nZW5lb3VzIEdvbGQtQ2F0YWx5emVkIE94aWRhdGl2ZSBDYXJib2hldGVyb2Z1bmN0aW9uYWxpemF0aW9uIG9mIEFsa2VuZXMiIEouIEFtLiBDaGVtLiBTb2MuIDIwMTAsIDEzMiwgMTQ3NC0xNDc1LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9qYTkwOTU1NWQiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamE5MDk1NTVkKSBIaWdobGlnaHRlZCBieSBTeW5mYWN0cw0KMjcgQ2FvLCBTLjsgWmhhbmcsIEwuICJPbmUtUG90IFN5bnRoZXNpcyBvZiBBcmVuZS1GdXNlZCAyLUFjeWxjeWNsb2hleGVub25lcyBmcm9tIFByb3Bhcmd5bGljIENhcmJveHlsYXRlcyIgU2NpLiBDaGluYS4gU2VyLiBCLiBDaGVtLiAyMDA5LCA1MiwgMTMzNy0xMzQ0LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvJTIwMTAuMTAwNy9zMTE0MjYtMDA5LTAxOTQtOSIgaHR0cDovL2R4LmRvaS5vcmcvIDEwLjEwMDcvczExNDI2LTAwOS0wMTk0LTkpDQoyNiBZZSwgTC47IFpoYW5nLiBMLiAiUHJhY3RpY2FsIFN5bnRoZXNpcyBvZiBMaW5lYXIg74GhLUlvZG8vQnJvbW8t74Gh74Cs74GiLXVuc2F0dXJhdGVkIGFsZGVoeWRlcy9rZXRvbmVzIGZyb20gUHJvcGFyZ3lsaWMgQWxjb2hvbHMgdmlhIEF1L01vIEJpbWV0YWxsaWMgQ2F0YWx5c2lzIiBPcmcuIExldHQuICAyMDA5LCAxMSwgMzY0Ni0zNjQ5LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9vbDkwMTM0NmsiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvb2w5MDEzNDZrKSBIaWdobGlnaHRlZCBieSBTeW5mYWN0cw0KMjUgQ3VpLCBMLjsgUGVuZywgWS47IFpoYW5nLCBMLiAiQSBUd28tU3RlcCwgRm9ybWFsIFs0ICsgMl0gQXBwcm9hY2ggdG93YXJkIFBpcGVyaWRpbi00LW9uZXMgdmlhIEF1IENhdGFseXNpcyIgSi4gQW0uIENoZW0uIFNvYy4gMjAwOSwgMTMxLCA4Mzk0LTgzOTUuICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8lMjAxMC4xMDIxL2phOTAzNTMxZyIgaHR0cDovL2R4LmRvaS5vcmcvIDEwLjEwMjEvamE5MDM1MzFnKSBIaWdobGlnaHRlZCBieSBTeW5mYWN0cw0KMjQgQ3VpLCBMLjsgWmhhbmcsIEcuOyBaaGFuZywgTC4gIkhvbW9nZW5lb3VzIGdvbGQtY2F0YWx5emVkIGVmZmljaWVudCBveGlkYXRpdmUgZGltZXJpemF0aW9uIG9mIHByb3Bhcmd5bGljIGFjZXRhdGVzIiBCaW9vcmcuIE1lZC4gQ2hlbS4gTGV0dC4gMjAwOSwgMTksIDM4ODQtMzg4Ny4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamE5MDEwNDh3IiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phOTAxMDQ4dykNCjIzIFBlbmcsIFkuOyBDdWksIEwuOyBaaGFuZywgRy47IFpoYW5nLCBMLiAiR29sZC1DYXRhbHl6ZWQgSG9tb2dlbmVvdXMgT3hpZGF0aXZlIEMtTyBCb25kIEZvcm1hdGlvbjogRWZmaWNpZW50IFN5bnRoZXNpcyBvZiAxLUJlbnpveHl2aW55bCBLZXRvbmVzIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA5LCAxMzEsIDUwNjItNTA2My4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamE5MDEwNDh3IiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phOTAxMDQ4dykNCjIyIFpoYW5nLCBHLjsgUGVuZywgWS47IEN1aSwgTC47IFpoYW5nLCBMLiAiR29sZC1DYXRhbHl6ZWQgSG9tb2dlbmVvdXMgT3hpZGF0aXZlIENyb3NzIC1Db3VwbGluZyBSZWFjdGlvbnMiIEFuZ2V3LiBDaGVtLiBJbnQuIEVkLiAyMDA5LCA0OCwgMzExMi0zMTE1LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvJTIwMTAuMTAwMi9hbmllLjIwMDkwMDU4NSIgaHR0cDovL2R4LmRvaS5vcmcvIDEwLjEwMDIvYW5pZS4yMDA5MDA1ODUpDQogKEhpZ2hsaWdodGVkIGJ5IE5hdHVyZSBDaGVtaXN0cnkgYXQgIEhZUEVSTElOSyAiaHR0cDovL3d3dy5uYXR1cmUuY29tL25jaGVtL3Jlc2hpZ2gvMjAwOS8wNDA5L2Z1bGwvbmNoZW0uMjExLmh0bWwiIGh0dHA6Ly93d3cubmF0dXJlLmNvbS9uY2hlbS9yZXNoaWdoLzIwMDkvMDQwOS9mdWxsL25jaGVtLjIxMS5odG1sKQ0KMjEgQ3VpLCBMLjsgWmhhbmcsIEcuOyBQZW5nLCBZLjsgWmhhbmcsIEwuICIgR29sZCBvciBObyBHb2xkOiBPbmUtUG90IFN5bnRoZXNpcyBvZiBUZXRyYWh5ZHJvYmVueltiXWF6ZXBpbi00LW9uZXMgZnJvbSBUZXJ0aWFyeSBOLShCdXQtMy15bnlsKWFuaWxpbmVzIiBPcmcuIExldHQuIDIwMDksIDExLCAxMjI1LTEyMjguICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8lMjAxMC4xMDIxL29sOTAwMDI3aCIgaHR0cDovL2R4LmRvaS5vcmcvIDEwLjEwMjEvb2w5MDAwMjdoKQ0KMjAgSHVhbmcsIFguOyBaaGFuZywgTC4gIlVudXN1YWwgQXUoSUlJKS1DYXRhbHl6ZWQgRGltZXJpemF0aW9uIG9mIEJlbnpveGF6b2wtMi15bG94eSBFbnluZXM6IEZvcm1hdGlvbiBvZiBTdWJzdGl0dXRlZCAxLDUtQ3ljbG9vY3RhZGllbmVzIiBKLiBPcmdhbm9tZXRhbGxpYyBDaGVtLiAyMDA5LCA2OTQsIDUyMC01MjMgKGludml0ZWQgZm9yIHRoZSBzcGVjaWFsIGlzc3VlIG9uICdOZXcgUGVyc3BlY3RpdmVzIGZvciBIb21vZ2VuZW91cyBDYXRhbHlzaXMnKS4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLyUyMDEwLjEwMTYvai5qb3JnYW5jaGVtLjIwMDguMDkuMDExIiBodHRwOi8vZHguZG9pLm9yZy8gMTAuMTAxNi9qLmpvcmdhbmNoZW0uMjAwOC4wOS4wMTEpDQoxOSBZdSwgTWVuZzsgWmhhbmcsIEcuOyBaaGFuZywgTC4gIkdvbGQtY2F0YWx5emVkIGVmZmljaWVudCBwcmVwYXJhdGlvbiBvZiBsaW5lYXIgzrEtaGFsb2Vub25lcyBmcm9tIHByb3Bhcmd5bGljIGFjZXRhdGVzIiBUZXRyYWhlZHJvbiAyMDA5LCA2NSwgMTg0Ni0xODU1IChpbnZpdGVkIGZvciBzcGVjaWFsIGlzc3VlIG9uICdSZWNlbnQgRGV2ZWxvcG1lbnQgaW4gR29sZCBDYXRhbHlzaXMnKSAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvJTIwMTAuMTAxNi9qLnRldC4yMDA4LjExLjEwNyIgaHR0cDovL2R4LmRvaS5vcmcvIDEwLjEwMTYvai50ZXQuMjAwOC4xMS4xMDcpDQoxOCBQZW5nLCBZdTsgWXUsIE1lbmc7IFpoYW5nLCBMLiAiQXUtQ2F0YWx5emVkIFN5bnRoZXNpcyBvZiA1LDYtRGloeWRyby04SC1pbmRvbGl6aW4tNy1vbmVzIGZyb20gTi0oUGVudC0yLWVuLTQteW55bCkt74GiLUxhY3RhbXMiIE9yZy4gTGV0dC4gMjAwOCwgMTAsIDUxODctNTE5MC4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjElMkZvbDgwMjE1OXYiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjElMkZvbDgwMjE1OXYpDQoxNyBaaGFuZywgRy47IFpoYW5nLCBMLiAiQXUtQ29udGFpbmluZyBBbGwtQ2FyYm9uIDEsMy1EaXBvbGVzOiBHZW5lcmF0aW9uIGFuZCBbMysyXSBBbm51bGF0aW9uIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA4LCAxMzAsIDEyNTk4LTEyNTk5LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvJTIwMTAuMTAyMS9qYTgwNDY5MHUiIGh0dHA6Ly9keC5kb2kub3JnLyAxMC4xMDIxL2phODA0NjkwdSkNCjE2IExpLCBHLjsgSHVhbmcsIFguOyBaaGFuZywgTC4gIkF1KEkpLUNhdGFseXplZCBFZmZpY2llbnQgU3ludGhlc2lzIG9mIEZ1bmN0aW9uYWxpemVkIEJpY3ljbG9bMy4yLjBdaGVwdGFuZXMiIEouIEFtLiBDaGVtLiBTb2MuIDIwMDgsIDEzMCwgNjk0NC02OTQ1LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9qYTgwMjI5NHQiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamE4MDIyOTR0KSAgDQoxNSBMaSwgRy47IFpoYW5nLCBHLjsgWmhhbmcsIEwuICJBdS1DYXRhbHl6ZWQgU3ludGhlc2lzIG9mICgxWiwgM0UpLTItUGl2YWxveHktMSwzLURpZW5lcyBmcm9tIFByb3Bhcmd5bGljIFBpdmFsYXRlcyIgSi4gQW0uIENoZW0uIFNvYy4gMjAwOCwgMTMwLCAzNzQwLTM3NDEuICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phODAwMDAxaCIgaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9qYTgwMDAwMWgpDQoxNCBaaGFuZywgRy47IEh1YW5nLCBYLjsgTGksIEcuOyBaaGFuZywgTC4gIkF1LUNvbnRhaW5pbmcgQWxsLUNhcmJvbiAxLDQtRGlwb2xlczogR2VuZXJhdGlvbiBhbmQgWzQrMl0gQW5udWxhdGlvbiBpbiB0aGUgRm9ybWF0aW9uIG9mIENhcmJvLS9IZXRlcm9jeWNsZXMiIEouIEFtLiBDaGVtLiBTb2MuIDIwMDgsIDEzMCwgMTgxNC0xODE1LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9qYTA3Nzk0OGUiIGh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamEwNzc5NDhlKQ0KMTMgTGksIEcuOyBIdWFuZywgWC47IFpoYW5nLCBMLiAiUHQtQ2F0YWx5emVkIFJlYWN0aW9uIG9mIE4tKDItQWxreW55bHBoZW55bClsYWN0YW1zOiBGb3JtYXRpb24gb2YgQ3ljbGljIEtldG9uZS1GdXNlZCBTdWJzdGl0dXRlZCBJbmRvbGVzIiBBbmdldy4gQ2hlbS4gSW50LiBFZC4gMjAwOCwgNDcsIDM0Ni0zNDkuICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8xMC4xMDAyL2FuaWUuMjAwNzAyOTMxIiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDAyL2FuaWUuMjAwNzAyOTMxKQ0KMTIgSHVhbmcsIFguOyBaaGFuZywgTC4gIkF1Q2wtQ2F0YWx5emVkIFN5bnRoZXNpcyBvZiBCZW56eWwtUHJvdGVjdGVkIFN1YnN0aXR1dGVkIFBoZW5vbHM6IEEgRm9ybWFsIFszKzNdIEFwcHJvYWNoIiBPcmcuIExldHQuIDIwMDcsIDksIDQ2MjctNDYzMC4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLyUyMDEwLjEwMjEvb2w3MDIxMzU2IiBodHRwOi8vZHguZG9pLm9yZy8gMTAuMTAyMS9vbDcwMjEzNTYpDQoxMSBTaGksIEYuLVEuOyBMaSwgWC4sIFhpYSwgWS47IFpoYW5nLCBMLiBZdSwgWi4tWC4qICJBIERGVCBTdHVkeSBvZiB0aGUgTWVjaGFuaXNtcyBvZiAiSW4gV2F0ZXIiIEF1KEkpLUNhdGFseXplZCBUYW5kZW0gWzMsM10gUmVhcnJhbmdlbWVudC9OYXphcm92IFJlYWN0aW9uL1sxLDJdLUh5ZHJvZ2VuIFNoaWZ0IG9mIEVueW55bCBBY2V0YXRlczogQSBQcm90b24tVHJhbnNwb3J0IENhdGFseXNpcyBTdHJhdGVneSBpbiB0aGUgV2F0ZXItQ2F0YWx5emVkIFsxLDJdLUh5ZHJvZ2VuIFNoaWZ0IiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA3LCAxNTUwMy0xNTUxMi4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLyUyMDEwLjEwMjEvamEwNzEwNzArIiBodHRwOi8vZHguZG9pLm9yZy8gMTAuMTAyMS9qYTA3MTA3MCspDQoxMCBaaGFuZywgRy47IENhdGFsYW5vLCBWLiBKLjsgWmhhbmcsIEwuICJQdENsMi1DYXRhbHl6ZWQgUmFwaWQgQWNjZXNzIHRvIFRldHJhY3ljbGljIDIsMy1JbmRvbGluZS1mdXNlZCBDeWNsb3BlbnRlbmVzOiBSZWFjdGl2aXR5IERpdmVyZ2VudCBmcm9tIENhdGlvbmljIEF1KEkpIENhdGFseXNpcyBhbmQgU3ludGhldGljIFBvdGVudGlhbCIgSi4gQW0uIENoZW0uIFNvYy4gMjAwNywgMTI5LCAxMTM1OC0xMTM1OS4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamEwNzQ1MzZ4IiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phMDc0NTM2eCkNCjkgTGksIEcuOyBaaGFuZywgTC4gIkdvbGQtQ2F0YWx5emVkIEludHJhbW9sZWN1bGFyIFJlZG94IFJlYWN0aW9uIG9mIFN1bGZpbnlsIEFsa3luZXM6IEVmZmljaWVudCBHZW5lcmF0aW9uIG9mIM6xLU94byBHb2xkIENhcmJlbm9pZHMgYW5kIEFwcGxpY2F0aW9uIGluIEluc2VydGlvbiBpbnRvIFItQ08gQm9uZHMiIEFuZ2V3LiBDaGVtLiBJbnQuIEVkLiAyMDA3LCA0NiwgNTE1Ni01MTU5LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwMi9hbmllLjIwMDcwMTQ0OSIgaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwMi9hbmllLjIwMDcwMTQ0OSkNCjggSHVhbmcsIFguOyBaaGFuZywgTC4gIlR3by1TdGVwIEZvcm1hbCBbMysyXSBDeWNsb2FkZGl0aW9uIG9mIEVub25lcy9FbmFscyBhbmQgQWxsZW55bCBNT00gRXRoZXI6IEdvbGQtQ2F0YWx5emVkIEhpZ2hseSBEaWFzdGVyZW9zZWxlY3RpdmUgU3ludGhlc2lzIG9mIEN5Y2xvcGVudGFub25lIEVub2wgRXRoZXIgQ29udGFpbmluZyBhbiBBbGwtQ2FyYm9uIFF1YXRlcm5hcnkgQ2VudGVyIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA3LCAxMjksIDYzOTgtNjM5OS4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamEwNzE3NzE3IiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phMDcxNzcxNykNCjcgWXUsIE0uOyBaaGFuZywgRy47IFpoYW5nIEwuICJHb2xkLUNhdGFseXplZCBFZmZpY2llbnQgUHJlcGFyYXRpb24gb2YgTGluZWFyIM6xLUlvZG9lbm9uZXMgZnJvbSBQcm9wYXJneWxpYyBBY2V0YXRlcyIgT3JnLiBMZXR0LiAyMDA3LCAyMTQ3LTIxNTAuICggSFlQRVJMSU5LICJodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL29sMDcwNjM3byIgaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAyMS9vbDA3MDYzN28pDQo2IFl1LCBNLjsgTGksIEcuOyBXYW5nLCBTLjsgWmhhbmcsIEwuICJHb2xkLUNhdGFseXplZCAgRWZmaWNpZW50IEZvcm1hdGlvbiBvZiAoLCDOsi1VbnNhdHVyYXRlZCBLZXRvbmVzIGZyb20gUHJvcGFyZ3lsaWMgQWNldGF0ZXMiIEFkdi4gU3ludGggJiBDYXRhbC4gMjAwNywgMzQ5LCA4NzEtODc1LiAoIEhZUEVSTElOSyAiaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwMi9hZHNjLjIwMDYwMDU3OSIgaHR0cDovL2R4LmRvaS5vcmcvMTAuMTAwMi9hZHNjLjIwMDYwMDU3OSkNCjUgV2FuZywgUy47IFpoYW5nLCBMLiAiQSBHb2xkLUNhdGFseXplZCBVbmlxdWUgQ3ljbG9pc29tZXJpemF0aW9uIG9mIDEsNS1FbnluZXM6IEVmZmljaWVudCBGb3JtYXRpb24gb2YgMS1DYXJib3h5Y3ljbG9oZXhhLTEsNC1kaWVuZXMgYW5kIENhcmJveHlhcmVuZXMiIEouIEFtLiBDaGVtLiBTb2MuIDIwMDYsIDEyOCwgMTQyNzQtMTQyNzUuIA0KNCBXYW5nLCBTLjsgWmhhbmcsIEwuICJHb2xkLUNhdGFseXplZCBFZmZpY2llbnQgRm9ybWF0aW9uIG9mIEFsa2VueWwgRW5vbCBFc3RlcnMvQ2FyYm9uYXRlcyBmcm9tIFRyaW1ldGh5bHNpbHlsbWV0aHlsLVN1YnN0aXR1dGVkIFByb3Bhcmd5bCBFc3RlcnMvQ2FyYm9uYXRlcyIgT3JnLiBMZXR0LiAyMDA2LCA4LCA0NTg1LTQ1ODcuDQozIFdhbmcsIFMuOyBaaGFuZywgTC47ICJBIEhpZ2hseSBFZmZpY2llbnQgUHJlcGFyYXRpdmUgTWV0aG9kIG9mIM6xLVlsaWRlbmUtzrItRGlrZXRvbmVzIHZpYSBBdUlJSS1DYXRhbHl6ZWQgQWN5bCBNaWdyYXRpb24gb2YgUHJvcGFyZ3lsaWMgRXN0ZXJzIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA2LCAxMjgsIDg0MTQtODQxNS4NCjIgWmhhbmcsIEwuOyBXYW5nLCBTLiAiRWZmaWNpZW50IFN5bnRoZXNpcyBvZiBDeWNsb3BlbnRlbm9uZXMgZnJvbSBFbnlueWwgQWNldGF0ZXMgdmlhIFRhbmRlbSBBdShJKS1DYXRhbHl6ZWQgMywzLVJlYXJyYW5nZW1lbnQgYW5kIHRoZSBOYXphcm92IFJlYWN0aW9uIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA2LCAxMjgsIDE0NDItMTQ0My4gDQoxIFpoYW5nLCBMLiAiVGFuZGVtIEF1LWNhdGFseXplZCAzLDMtUmVhcnJhbmdlbWVudC1bMisyXSBDeWNsb2FkZGl0aW9ucyBvZiBQcm9wYXJneWxpYyBFc3RlcnM6IEV4cGVkaXRpb3VzIEFjY2VzcyB0byBIaWdobHkgRnVuY3Rpb25hbGl6ZWQgMiwzLUluZG9saW5lLWZ1c2VkIEN5Y2xvYnV0YW5lcyIgSi4gQW0uIENoZW0uIFNvYy4gMjAwNSwgMTI3LCAxNjgwNC0xNjgwNS4gKCBIWVBFUkxJTksgImh0dHA6Ly9keC5kb2kub3JnLzEwLjEwMjEvamEwNTY0MTljIiBodHRwOi8vZHguZG9pLm9yZy8xMC4xMDIxL2phMDU2NDE5YykNCg0KLS0gQm9vayBjaGFwdGVyL09ubGluZSBFbmN5Y2xvcGVkaWEgKDIwMDUtKQ0KMiBaaGFuZywgTC47IExpLCBHLiAiRGljaGxvcm8ocHlyaWRpbmUtMi1jYXJib3h5bGF0byktZ29sZChJSUkpIiBUaGUgRWxlY3Ryb25pYyBFbmN5Y2xvcGVkaWEgb2YgUmVhZ2VudHMgZm9yIE9yZ2FuaWMgU3ludGhlc2lzIChlLUVST1MpIiAoaW52aXRlZCByZXZpZXcpIGh0dHA6Ly9tcncuaW50ZXJzY2llbmNlLndpbGV5LmNvbS9lcm9zLy4gQWNjZXB0ZWQuDQoxIFpoYW5nLCBMLjsgTGksIEcuICJDdShJSSkgQnJvbWlkZSIgVGhlIEVsZWN0cm9uaWMgRW5jeWNsb3BlZGlhIG9mIFJlYWdlbnRzIGZvciBPcmdhbmljIFN5bnRoZXNpcyAoZS1FUk9TKSIgKHJldmlldywgZmlyc3QgdXBkYXRlKSBodHRwOi8vbXJ3LmludGVyc2NpZW5jZS53aWxleS5jb20vZXJvcy8uDQoNCi0tIFBvc3Rkb2N0b3JhbCBXb3JrIChVbml2ZXJzaXR5IG9mIENoaWNhZ28sIDIwMDMtMjAwNSkNCjExIFpoYW5nLCBMLjsgU3VuLCBKLjsgS296bWluLCBTLiBBLiAiR29sZCBhbmQgUGxhdGludW0gQ2F0YWx5c2lzIG9mIEVueW5lIEN5Y2xvaXNvbWVyaXphdGlvbiIgQWR2LiBTeW50aC4gQ2F0LiAyMDA2LCAzNDgsIDIyNzEtMjI5Ni4NCjEwIFpoYW5nLCBMLjsgU3VuLCBKLjsgS296bWluLCBTLiBBLiAiQnLDuG5zdGVkIEFjaWQtUHJvbW90ZWQgQ3ljbGl6YXRpb25zIG9mIFNpbG94eSBBbGt5bmVzIHdpdGggVW5hY3RpdmF0ZWQgQXJlbmVzLCBBbGtlbmVzIGFuZCBBbGt5bmVzIiBUZXRyYWhlZHJvbiAyMDA2LCA2MiwgMTEzNzEtMTEzODAuDQo5IFN1biwgSi47IENvbmxleSwgTS4gUC47IFpoYW5nLCBMLjsgS296bWluLCBTLiBBLiAiQXUtIGFuZCBQdC1DYXRhbHl6ZWQgQ3ljbG9pc29tZXJpemF0aW9ucyBvZiAxLDUtRW55bmVzIHRvIEN5Y2xvaGV4YWRpZW5lcyB3aXRoIGEgQnJvYWQgQWxreW5lIFNjb3BlIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA2LCAxMjgsIDk3MDUtOTcxMC4NCjggWmhhbmcuIEwuOyBLb3ptaW4sIFMuIEEuICJHb2xkLUNhdGFseXplZCBBc3NlbWJseSBvZiBIZXRlcm9iaWN5Y2xpYyBTeXN0ZW1zIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA1LCAxMjcsIDY5NjItNjk2My4NCjcgWmhhbmcuIEwuOyBLb3ptaW4sIFMuIEEuICJHb2xkLUNhdGFseXplZCBDeWNsb2lzb21lcml6YXRpb25zIG9mIFNpbG94eSBFbnluZXMgdG8gQ3ljbG9oZXhhZGllbmVzIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA0LCAxMjYsIDExODA2LTExODA3Lg0KNiBaaGFuZy4gTC47IEtvem1pbiwgUy4gQS4gIkJyw7huc3RlZCBBY2lkLVByb21vdGVkIEN5Y2xpemF0aW9ucyBvZiBTaWxveHlhbGt5bmVzIHdpdGggQXJlbmVzIGFuZCBBbGtlbmVzIiBKLiBBbS4gQ2hlbS4gU29jLiAyMDA0LCAxMjYsIDEwMjA0LTEwMjA1Lg0KLS0gR3JhZHVhdGUgV29yayAoUGguIEQuLCBVbml2ZXJzaXR5IG9mIE1pY2hpZ2FuLCAxOTk4LTIwMDMpDQo1IFpoYW5nLCBMOyBLb3JlZWRhLCBNLiAiUmFkaWNhbCBEZW94eWdlbmF0aW9uIG9mIEh5ZHJveHlsIEdyb3VwcyB2aWEgUGhvc3BoaXRlcyIgSi4gQW0uIENoZW0uIFNvYy4gMjAwNCwgMTI2LCAxMzE5MC0xMzE5MS4NCjQgWmhhbmcsIEwuOyBLb3JlZWRhLCBNLiAiVG90YWwgU3ludGhlc2lzIG9mICgrKS1BY2FudGhvZG9yYWwgYnkgdGhlIFVzZSBvZiBhIFBkLUNhdGFseXplZCBNZXRhbC1lbmUgUmVhY3Rpb24gYW5kIGEgTm9ucmVkdWN0aXZlIDUtZXhvLUFjeWwgUmFkaWNhbCBDeWNsaXphdGlvbiIgT3JnLiBMZXR0LiAyMDA0LCA2LCA1MzctNTQwLg0KMyBaaGFuZywgTC47IEtvcmVlZGEsIE0uICAiU3RlcmVvLWNvbnRyb2xsZWQgU3ludGhlc2lzIG9mIEtlbHNvZW5lIGJ5IHRoZSBVc2Ugb2YgYSBIb21vLUZhdm9yc2tpaSBSZWFycmFuZ2VtZW50IFJlYWN0aW9uIiBPcmcuIExldHQuIDIwMDIsIDQsIDM3NTUtMzc1OC4NCjIgS29yZWVkYSwgTS47IFdhbmcsIFkuOyBaaGFuZywgTC4gICI2LWV4by1TcGlybyAoQWxrb3h5Y2FyYm9ueWxhbWlubyltZXRoeWwgUmFkaWNhbCBDeWNsaXphdGlvbjogSGlnaGx5IFJlZ2lvLSBhbmQgU3RlcmVvLSBTZWxlY3RpdmUgU3ludGhlc2lzIG9mICgtKS1TaWJpcmluZSIgT3JnLiBMZXR0LiAyMDAyLCA0LCAzMzI5LTMzMzIuDQotLSBHcmFkdWF0ZSBXb3JrIChNLiBTLiwgVW5pdmVyc2l0eSBvZiBBbGFiYW1hLCAxOTk2LTE5OTgpDQoxIFpoYW5nLCBMLjsgQ2F2YSwgTS4gUC47IFJvZ2VycywgUi4gRC47IFJvZ2VycywgTC4gTS4gIlN5bnRoZXNpcyBvZiBhIFdha2F5aW4gTW9kZWwgQ29tcG91bmQ6IE94aWRhdGl2ZSBGb3JtYXRpb24gb2YgYSBOZXcgUHlycm9sZSBSaW5nIGluIHRoZSBJbmRvbC0zLXlsLUluZG9sb3F1aW5vbmUgU3lzdGVtIiBUZXRyYWhlZHJvbiBMZXR0LiAxOTk4LCAzOSwgNzY3Ny03Njc4Lg0KUGF0ZW50DQoxICIgQWxreW5lcyBmb3IgVXNlIGluIEdlbmVyYXRpbmcgTWV0YWwgQ2FyYmVuZXMgYW5kIFRoZWlyIFN5bnRoZXRpYyBBcHBsaWNhdGlvbnMiIHByb3Zpc2lvbmFsIHBhdGVudCwgMjAxMCwgVUMgY2FzZSBOby4gMjAxMC00NjINCjIgIlN5bnRoZXNpcyBvZiBBbHBoYS1IYWxvIEVub25lcyBhbmQgRW5hbHMiLCBwcm92aXNpb25hbCBwYXRlbnQsIFVuaXZlcnNpdHkgb2YgTmV2YWRhLCBSZW5vLCAyMDA5LiANCkludml0ZWQgVGFsa3MNCjM1ICJHb2xkIFJ1c2ggaW4gMjFzdCBDZW50dXJ5OiBEaXNjb3Zlcnkgb2YgJ0dvbGRlbicgT3JnYW5pYyBDaGVtaXN0cnkiIFdlc3QgVmlyZ2luaWEgVW5pdmVyc2l0eSwgTW9yZ2FudG93biwgQXVndXN0IDI1LCAyMDEwDQozNCAiR29sZCBSdXNoIGluIDIxc3QgQ2VudHVyeTogRGlzY292ZXJ5IG9mICdHb2xkZW4nIE9yZ2FuaWMgQ2hlbWlzdHJ5IiBHbGF4b1NtaXRoS2xpbmUsIFVwcGVyIE1lcmlvbiwgUEEsIEF1Z3VzdCAyMywgMjAxMA0KMzMgIkdvbGQtQ2F0YWx5emVkIFN5bnRoZXNpcyBvZiBTYXR1cmF0ZWQgTi1IZXRlcm9jeWNsZXMiIFRoZSA2dGggU2luby1VUyBDaGVtaXN0cnkgUHJvZmVzc29ycyBDb25mZXJlbmNlOiBPcmdhbmljIENoZW1pc3RyeSAmIENoZW1pY2FsIEJpb2xvZ3ksIEhhbmd6aG91LCBDaGluYSwgSnVuZSAxNiwgMjAxMC4NCjMyICIgR29sZCBSdXNoIGluIDIxc3QgQ2VudHVyeTogRGlzY292ZXJ5IG9mICdHb2xkZW4nIE9yZ2FuaWMgQ2hlbWlzdHJ5IiBVbml2ZXJzaXR5IG9mIENoaWNhZ28sIE1heSA3LCAyMDEwDQozMSAiR29sZC1DYXRhbHl6ZWQgT3JnYW5pYyBSZWFjdGlvbnMiIFVuaXZlcnNpdHkgb2YgU291dGggRmxvcmlkYSwgQXByaWwgMTYsIDIwMTANCjMwICIgR29sZCBSdXNoIGluIDIxc3QgQ2VudHVyeTogRGlzY292ZXJ5IG9mICdHb2xkZW4nIE9yZ2FuaWMgQ2hlbWlzdHJ5IiBVbml2ZXJzaXR5IG9mIEZsb3JpZGEsIEFwcmlsIDE1LCAyMDEwDQoyOSAiR29sZCBSdXNoIGluIDIxc3QgQ2VudHVyeTogRGlzY292ZXJ5IG9mICdHb2xkZW4nIE9yZ2FuaWMgQ2hlbWlzdHJ5IiBVQyBTYW50YSBDcnV6LCBNYXJjaCAxNSwgMjAxMA0KMjggIkdvbGQgUnVzaCBpbiAyMXN0IENlbnR1cnk6IERpc2NvdmVyeSBvZiAnR29sZGVuJyBPcmdhbmljIENoZW1pc3RyeSIgVW5pdmVyc2l0eSBvZiBXaXNjb25zaW4sIEZlYi4gMjYsIDIwMTAuDQoyNyAiR29sZC1DYXRhbHl6ZWQgT3JnYW5pYyBSZWFjdGlvbnMiIFVDIEJlcmtlbGV5LCBGZWIuIDIzLCAyMDEwLg0KMjYgIkdvbGQgUnVzaCBpbiAyMXN0IENlbnR1cnk6IERpc2NvdmVyeSBvZiAnR29sZGVuJyBPcmdhbmljIENoZW1pc3RyeSIgVUMgSXJ2aW5lLCBGZWIuIDE3LCAyMDEwLg0KMjUgIkdvbGQgUnVzaCBpbiAyMXN0IENlbnR1cnk6IERpc2NvdmVyeSBvZiAnR29sZGVuJyBPcmdhbmljIENoZW1pc3RyeSIgV2F5bmUgU3RhdGUgVW5pdmVyc2l0eSwgRmViLiAxMCwgMjAxMA0KMjQgIkdvbGQgUnVzaCBpbiAyMXN0IENlbnR1cnk6IERpc2NvdmVyeSBvZiAnR29sZGVuJyBPcmdhbmljIENoZW1pc3RyeSIgVW5pdmVyc2l0eSBvZiBNaWNoaWdhbiwgRmViLiA5LCAyMDEwDQoyMyAiQXUgQ2F0YWx5c2lzOiBGcm9tIE5vdmVsIFJlYWN0aXZpdGllcyB0byBWZXJzYXRpbGUgU3ludGhldGljIE1ldGhvZHMiIFVDIFJpdmVyc2lkZSwgT2N0LiAyOCwgMjAwOS4NCjIyICJBdSBDYXRhbHlzaXM6IEZyb20gTm92ZWwgUmVhY3Rpdml0aWVzIHRvIFZlcnNhdGlsZSBTeW50aGV0aWMgTWV0aG9kcyIgTmF0aW9uYWwgVGFpd2FuIFVuaXZlcnNpdHksIFRhaXdhbiwgU2VwdC4gMTEsIDIwMTAuDQoyMSAiQXUgQ2F0YWx5c2lzOiBGcm9tIE5vdmVsIFJlYWN0aXZpdGllcyB0byBWZXJzYXRpbGUgU3ludGhldGljIE1ldGhvZHMiIE5hdGlvbmFsIFRzaW5naHVhIFVuaXZlcnNpdHksIFRhaXdhbiwgU2VwdC4gOSwgMjAxMC4NCg0KMjAgIkF1IENhdGFseXNpczogRnJvbSBOb3ZlbCBSZWFjdGl2aXRpZXMgdG8gVmVyc2F0aWxlIFN5bnRoZXRpYyBNZXRob2RzIiBUYWl3YW4gTmF0aW9uYWwgTm9ybWFsIFVuaXZlcnNpdHksIFRhaXdhbiwgU2VwdC4gNywgMjAxMC4NCjE5ICJBdSBDYXRhbHlzaXM6IEZyb20gTm92ZWwgUmVhY3Rpdml0aWVzIHRvIFZlcnNhdGlsZSBTeW50aGV0aWMgTWV0aG9kcyIgMjAwOSBBQ1MgTmF0aW9uYWwgTWVldGluZywgV2FzaGluZ3RvbiBELiBDLiBBdWd1c3QgMTcsIDIwMDkuDQoxOCAiT3BlbmluZyBhICdHb2xkZW4gR2F0ZScgZm9yIE9yZ2FuaWMgU3ludGhlc2lzIiBVQyBEYXZpcywgTWF5IDE0LCAyMDA5Lg0KMTcgIkF1LUNhdGFseXplZCBPeGlkYXRpdmUgSG9tby0vQ3Jvc3MtQ291cGxpbmcgUmVhY3Rpb25zIiBHb2xkIDIwMDksIEhlaWRlbGJlcmcsIEdlcm1hbnksIEp1bHkgMjgsIDIwMDkNCjE2ICJPcGVuaW5nIGEgJ0dvbGRlbiBHYXRlJyBmb3IgT3JnYW5pYyBTeW50aGVzaXMiIFVDIFNhbiBEaWVnbywgU2FuIERpZWdvLCBKYW4uIDI2LCAyMDA5Lg0KMTUgIk9wZW5pbmcgYSAnR29sZGVuIEdhdGUnIGZvciBPcmdhbmljIFN5bnRoZXNpcyIgV2FzaGluZ3RvbiBVbml2ZXJzaXR5LCBTdC4gTG91aXMsIE5vdi4gMjAsIDIwMDguDQoxNCAnQXUvUHQtQ2F0YWx5emVkIE9yZ2FuaWMgUmVhY3Rpb25zJyBVbml2ZXJzaXR5IG9mIEFya2Fuc2FzLCBGYXlldHRldmlsbGUsIEFTLCBOb3YuIDEwLCAyMDA4DQoxMyAiQXUtQ2F0YWx5emVkIFJlYWN0aW9ucyBvZiBQcm9wYXJneWxpYyBFc3RlcnMiIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIE9yZ2FuaWMgU3ludGhlc2lzIGFuZCBEcnVnIERldmVsb3BtZW50IDIwMDggKElTT1NERDA4KSxOYW5qaW5nLCBDaGluYSwgT2N0LiAxNSwgMjAwOC4NCjEyICJBdS9QdCBDYXRhbHlzaXM6IE5ldyBSZWFjdGl2aXRpZXMgYW5kIEVmZmljaWVudCBTeW50aGV0aWMgbWV0aG9kcyIgU2hhbmdoYWkgSW5zdGl0dXRlIG9mIE9yZ2FuaWMgQ2hlbWlzdHJ5LCBTaGFuZ2hhaSwgQ2hpbmEsIE9jdC4gMTQsIDIwMDguDQoxMSAiQXUtQ2F0YWx5emVkIEN5Y2xvYWRkaXRpb24gUmVhY3Rpb25zIiAzbmQgSW50ZXJuYXRpb25hbCBGb3J1bSBvbiBIb21vZ2VuZW91cyBDYXRhbHlzaXMgYW5kIEZpcnN0IENoaW5hLVNwYWluIEJpbGF0ZXJhbCBTeW1wb3NpdW0gb24gQ2F0YWx5c2lzLCBTaGFuZ2hhaSwgQ2hpbmEsIFNlcHQuIDI1LCAyMDA4DQoxMCAiQXUvUHQgQ2F0YWx5c2lzOiBOZXcgUmVhY3Rpdml0aWVzIGFuZCBFZmZpY2llbnQgU3ludGhldGljIG1ldGhvZHMiIEJyaXN0b2wtTXllcnMgU3F1aWJiIGF0IFdhbGxpbmdmb3JkLCBBdWcuIDI3LCAyMDA4Lg0KOSAiQXUvUHQgQ2F0YWx5c2lzOiBOZXcgUmVhY3Rpdml0aWVzIGFuZCBFZmZpY2llbnQgU3ludGhldGljIG1ldGhvZHMiIFVuaXZlcnNpdHkgb2YgQ29ubmVjdGljdXQsIEF1Zy4gMjYsIDIwMDgNCjggIkF1L1B0IENhdGFseXNpczogTmV3IFJlYWN0aXZpdGllcyBhbmQgRWZmaWNpZW50IFN5bnRoZXRpYyBtZXRob2RzIiBFbGkgTGlsbHkgJiBDby4gQXVnLiA0LCAyMDA4DQo3ICJBdS1DYXRhbHl6ZWQgQ3ljbG9hZGRpdGlvbiBSZWFjdGlvbnMiIEdSQyBPcmdhbmljIFJlYWN0aW9ucyBhbmQgUHJvY2Vzc2VzLCBCcnlhbnQgVW5pdmVyc2l0eSwgUmhvZGUgSXNsYW5kLCBKdWx5ICAxNCwgMjAwOC4NCjYgIkF1L1B0IENhdGFseXNpczogTmV3IFJlYWN0aXZpdGllcyBhbmQgRWZmaWNpZW50IFN5bnRoZXRpYyBtZXRob2RzIiBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEsIExvcyBBbmdlbGVzLCBKYW4uIDMxLCAyMDA4Lg0KNSAiQXUvUHQgQ2F0YWx5c2lzOiBOZXcgUmVhY3Rpdml0aWVzIGFuZCBFZmZpY2llbnQgU3ludGhldGljIG1ldGhvZHMiIENhbGlmb3JuaWEgU3RhdGUgVW5pdmVyc2l0eSwgRnVsbGVydG9uLCBPY3QuIDE4LCAyMDA3Lg0KNCAiQXUvUHQgQ2F0YWx5c2lzOiBOZXcgUmVhY3Rpdml0aWVzIGFuZCBFZmZpY2llbnQgU3ludGhldGljIG1ldGhvZHMiIE1lcmNrLCBSYWh3YXksIE9jdC4gMTAsIDIwMDcuDQozICAiQXUvUHQgQ2F0YWx5c2lzOiBOZXcgUmVhY3Rpdml0aWVzIGFuZCBFZmZpY2llbnQgU3ludGhldGljIG1ldGhvZHMiIFVuaXZlcnNpdHkgb2YgRGVsYXdhcmUsIE5ld2FyaywgT2N0LiA5LCAyMDA3LiANCjIgIkF1LUNhdGFseXplZCBSZWFjdGlvbnMgb2YgUHJvcGFyZ3lsaWMgRXN0ZXJzOiBUYW5kZW0gUHJvY2Vzc2VzIHRvd2FyZCBGdW5jdGlvbmFsIFN0cnVjdHVyZXMiIFBla2luZyBVbml2ZXJzaXR5LCBQLiBSLiBDaGluYSwgTWFyY2ggMjQuIDIwMDYNCjEgIkF1LUNhdGFseXplZCBSZWFjdGlvbnMgb2YgUHJvcGFyZ3lsaWMgRXN0ZXJzOiBUYW5kZW0gUHJvY2Vzc2VzIHRvd2FyZCBGdW5jdGlvbmFsIFN0cnVjdHVyZXMiIE5hbmthaSBVbml2ZXJzaXR5LCBQLiBSLiBDaGluYSwgTWFyY2ggMjIuIDIwMDYNClBvc3RlcnMNCjExIFpoYW5nLCBMLiAiQXUtQ2F0YWx5emVkIEFsa3luZSBPeGlkYXRpb24iUG9zdGVyIGF0IEdSQyBPcmdhbmljIFJlYWN0aW9ucyBhbmQgUHJvY2Vzc2VzLCBCcnlhbnQgVW5pdmVyc2l0eSwgUmhvZGUgSXNsYW5kLCBKdWx5IDE4LTIzLCAyMDEwLg0KMTAgWmhhbmcsIEcuOyBMaSwgRy47IFpoYW5nLCBMLiAiQXUtQ2F0YWx5emVkIEN5Y2xvYWRkaXRpb24gUmVhY3Rpb25zIiBQb3N0ZXIgYXQgR1JDIE5hdHVyYWwgUHJvZHVjdHMsIFRpbHRvbiBIaWdoIFNjaG9vbCwgTmV3IEhhbXBzaGlyZSwgSnVseSAyMC0yNCwgMjAwOC4NCjkgWmhhbmcsIEcuOyBMaSwgRy47IFpoYW5nLCBMLiAiQXUtQ2F0YWx5emVkIEN5Y2xvYWRkaXRpb24gUmVhY3Rpb25zIiBQb3N0ZXIgYXQgR1JDIE9yZ2FuaWMgUmVhY3Rpb25zIGFuZCBQcm9jZXNzZXMsIEJyeWFudCBVbml2ZXJzaXR5LCBSaG9kZSBJc2xhbmQsIEp1bHkgMTMtMTcsIDIwMDguDQo4IEh1YW5nLCBYLjsgTGksIEcuOyBaaGFuZywgTC4gIkF1L1B0LUNhdGFseXplZCBSZWFjdGlvbnMgb2YgRnVuY3Rpb25hbGl6ZWQgQWxsZW5lcyIgUG9zdGVyIGF0IEdSQyBPcmdhbmljIFJlYWN0aW9ucyBhbmQgUHJvY2Vzc2VzLCBCcnlhbnQgVW5pdmVyc2l0eSwgUmhvZGUgSXNsYW5kLCBKdWx5LCAyMDA3Lg0KNyBaaGFuZywgTC4gIkV4cGxvcmluZyBBdSBDYXRhbHlzaXM6IERldmVsb3BtZW50IG9mIEVmZmljaWVudCBTeW50aGV0aWMgTWV0aG9kcyIgUHJlc2VudGF0aW9uIGF0IHRoZSAyMzJuZCBBQ1MgTmF0aW9uYWwgUmVnaW9uYWwgTWVldGluZywgU2FuIEZyYW5jaXNjbywgU2VwdC4gMjAwNg0KNiBZdSwgTS47IFdhbmcsIFMuOyBaaGFuZywgTC4gIkF1LWNhdGFseXplZCBGb3JtYXRpb24gb2YgRW5vbmVzIGZyb20gUHJvcGFyZ3lsaWMgQWNldGF0ZXMiIFBvc3RlciBhdCB0aGUgMjMybmQgQUNTIE5hdGlvbmFsIFJlZ2lvbmFsIE1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIFNlcHQuIDIwMDYNCjUgU29uZywgTS47IEJyYWRsZXksIEouIE0uOyBaaGFuZywgTC4gIlRhbmRlbSBBdS1jYXRhbHl6ZWQgMywzLXJlYXJyYW5nZW1lbnQtWzMgKyAyXSBjeWNsb2FkZGl0aW9uIG9mIHByb3Bhcmd5bGljIDMtaW5kb2xlYWNldGF0ZXMiIFBvc3RlciBhdCB0aGUgMjMybmQgQUNTIE5hdGlvbmFsIFJlZ2lvbmFsIE1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIFNlcHQuIDIwMDYNCjQgV2FuZywgUy47IFpoYW5nLCBMLiAiQSBIaWdobHkgRWZmaWNpZW50IFByZXBhcmF0aXZlIE1ldGhvZCBvZiDOsS1ZbGlkZW5lLc6yLURpa2V0b25lcyB2aWEgQXVJSUktQ2F0YWx5emVkIEFjeWwgTWlncmF0aW9uIG9mIFByb3Bhcmd5bGljIEVzdGVycyIgUG9zdGVyIGF0IHRoZSA2MXN0IEFDUyBOb3J0aHdlc3QgUmVnaW9uYWwgTWVldGluZywgUmVubywgTmV2YWRhLCBKdWx5IDI2dGgsMjAwNg0KMyBaaGFuZywgTC4gIkF1LUNhdGFseXplZCBSZWFjdGlvbnMgb2YgUHJvcGFyZ3lsaWMgRXN0ZXJzOiBUYW5kZW0gUHJvY2Vzc2VzIHRvd2FyZCBGdW5jdGlvbmFsIFN0cnVjdHVyZXMiIFByZXNlbnRhdGlvbiBhdCB0aGUgMjMxdGggQUNTIE5hdGlvbmFsIE1lZXRpbmcgaW4gQXRsYW50YSwgTWFyY2gsIDIwMDYgDQoyIFpoYW5nLCBMLiwgS29yZWVkYSwgTS4gICJUb3RhbCBTeW50aGVzaXMgb2YgQWNhbnRob2RvcmFsIGJ5IEFjeWwgUmFkaWNhbCBDeWNsaXphdGlvbiBhbmQgV29sZmYgUmVhcnJhbmdlbWVudCIgUG9zdGVyIGF0IHRoZSAzOHRoIE5hdGlvbmFsIE9yZ2FuaWMgU3ltcG9zaXVtIGluIEJsb29taW5ndG9uLCBJTiwgSnVuZSwgMjAwMy4NCjEgWmhhbmcsIEwuLCBLb3JlZWRhLCBNLiAgIkVuYW50aW9zZWxlY3RpdmUgU3ludGhlc2lzIG9mICgrKS1LZWxzb2VuZSIgUG9zdGVyIGF0IEFDUyBtZWV0aW5nIGluIE5ldyBPcmxlYW5zLCBNYXJjaCwgMjAwMy4gDQpPdGhlciBwcm9mZXNzaW9uYWwgb3Igb3V0cmVhY2ggYWN0aXZpdGllcw0KT3JnYW5pemVyIG9mIGEgc2Vzc2lvbiBvbiBTeW50aGV0aWMgTWV0aG9kb2xvZ3kgaW4gMjAwNiBhdCB0aGUgQUNTIDYxc3QgTm9ydGh3ZXN0IFJlZ2lvbmFsIE1lZXRpbmcNClNjaWVudGlmaWMganVkZ2UgYXQgMjAwOSBJbnRlbCBJbnRlcm5hdGlvbmFsIFNjaWVuY2UgYW5kIEVuZ2luZWVyaW5nIEZhaXIgYXQgUmVubywgTmV2YWRhLg0KQ3VycmVudCBhbmQgUGVuZGluZyBHcmFudCBTdXBwb3J0DQo2IFNsb2FuIFJlc2VhcmNoIEZlbGxvd3NoaXAsIDA5LzE2LzIwMDktMDkvMTUvMjAxMSwgJDUwLDAwMC4gDQo1ICdDYXJlZXI6IEF1IENhdGFseXNpczogRnJvbSBWZXJzYXRpbGUgU3ludGhldGljIE1ldGhvZHMgdG8gQ29tcGxleCBOYXR1cmFsIFN0cnVjdHVyZScsIDA3LzIwMDcsIE5TRiAoQ0FSRUVSIENIRSAwNzQ4NDg0IENIRS0wOTY5MTU3KSwgMDQvMDEvMjAwOC0wMy8zMS8yMDEzLCAkNTAwLDAwMCwgYXdhcmRlZC4NCjQgJ0F1L1B0IENhdGFseXNpcyBpbiB0aGUgU3ludGhlc2lzIG9mIEVsYWJvcmF0ZSBOLUhldGVyb2N5Y2xlczogTWV0aG9kb2xvZ3kgRGV2ZWxvcG1lbnQgYW5kIFRvdGFsIFN5bnRoZXNpcyBvZiBBbGthbG9pZHMnLCAxMS8yMDA4LCBOSUdNUyAoUjAxIEdNMDg0MjU0KSwgJDk1MCwwMDAsIGF3YXJkZWQuDQozIFJhbHBoIEUuIFBvd2UgSnVuaW9yIEZhY3VsdHkgRW5oYW5jZW1lbnQgQXdhcmQsIDA4LzIwMDctMDcvMjAwOCwgJDEwLDAwMC4NCjIgJ05vdmVsIEF1IENhdGFseXNpczogRGV2ZWxvcG1lbnQgb2YgSGlnaGx5IEVmZmljaWVudCBTeW50aGV0aWMgTWV0aG9kcycsIDAyLzIwMDcsIEp1bmlvciBGYWN1bHR5IFJlc2VhcmNoIEdyYW50LCBVTlIsICQxNSwwMDAuDQoxICdQaG9zcGhvcmFueWwgUmFkaWNhbC1NZWRpYXRlZCBEZW94eWdlbmF0aXZlIFRyYW5zZm9ybWF0aW9uIG9mIENhcmJvbnlsIEdyb3VwcycsIDA1LzIwMDUsIEFDUyBQZXRyb2xldW0gUmVzZWFyY2ggRnVuZCwgJDM1LDAwMCwgUFJGIzQzOTA1LUcxLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916621306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

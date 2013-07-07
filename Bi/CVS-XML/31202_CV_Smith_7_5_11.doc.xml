@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:46 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912460306521"  usageLimitType="allocation" usageLimit="200" currentUsage="91" remainingUsage="109" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Leslie David Smith</FormattedName>
+<GivenName>Leslie</GivenName>
+<MiddleName>David</MiddleName>
+<FamilyName>Smith</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>01063</PostalCode>
+<Region>Massachusetts</Region>
+<Municipality>Northampton</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (413) 585-3828</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>413</AreaCityCode>
+<SubscriberNumber>585-3828</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (413) 585-3786</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>413</AreaCityCode>
+<SubscriberNumber>585-3786</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>ldsmith@smith.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Environmental Science &amp; Policy Program</EmployerOrgName>
+<PositionHistory>
+<Title>Director</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Smith College, Northampton, Massachusetts.
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Smith College</EmployerOrgName>
+<PositionHistory>
+<Title>Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Northampton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Biological Sciences
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Northampton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Biological Sciences Visiting Scientist (2008). Commonwealth Scientific and Industrial Research Organization: Marine and Atmospheric Research Hobart Laboratories. Tasmania, Australia.
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Northampton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Biological Sciences
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Smithsonian Environmental Research Center</EmployerOrgName>
+<PositionHistory>
+<Title>Research Associate</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Maryland</Region>
+<Municipality>Edgewater</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Northeastern University</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Biology, Boston &amp; Marine Science Center, Northeastern University, Nahant, Massachusetts.
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Smithsonian Environmental Research Center</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Maryland</Region>
+<Municipality>Edgewater</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Williams College - Mystic Seaport Museum</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Research Associate</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Connecticut</Region>
+<Municipality>Mystic</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Department of Zoology, University of Alberta</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Research Associate</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>CA</CountryCode>
+<Region>Alberta</Region>
+<Municipality>Edmonton</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Bamfield Marine Station, Bamfield, British Columbia.
+</Description>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Smithsonian Environmental Research Center</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Maryland</Region>
+<Municipality>Edgewater</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Doctoral Research</EmployerOrgName>
+<PositionHistory>
+<Title>Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Department of Zoology, University of Maryland, College Park, MD.
+</Description>
+<StartDate>
+<AnyDate>1985-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Master&apos;s Research</EmployerOrgName>
+<PositionHistory>
+<Title>Research and Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Marine Science Program, University of South Carolina, Columbia, South Carolina.
+</Description>
+<StartDate>
+<AnyDate>1983-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1985-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Department of Biology, University of Virginia</EmployerOrgName>
+<PositionHistory>
+<Title>Research Technician</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Virginia</Region>
+<Municipality>Charlottesville</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>6) Grants Received * Externally reviewed
+</Description>
+<StartDate>
+<AnyDate>1981-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1983-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National and MIT Sea Grant College Programs</EmployerOrgName>
+<PositionHistory>
+<Title>Aquatic Nuisance Species</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Understanding the Dynamics of Invasion Pathways to New England. Principal investigator, L.D. Smith Associate investigators, J. Pederson, J.T. Carlton. $120,224.
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>The influence of water temperature on predator-induced defensive responses and life-history trade-offs in a marine intertidal snail. Co-Principal Investigators, L.D. Smith &amp; G.C. Trussell. $185,939.
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National and MIT Sea Grant College Programs</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Research and outreach to prevent and control aquatic nuisance species invasions: Identification and ranking of transport vectors of marine bioinvaders to and from New England. PI, L.D. Smith Associate investigators, J. Pederson, J.T. Carlton. $170,081.
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>MIT Sea Grant College Programs (1997-1999)</EmployerOrgName>
+<PositionHistory>
+<Title>National Maryland</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>The relative importance of ballast water from domestic ship traffic in translocation of nonindigenous species among the U.S. ports. Co-PIs, G.M. Ruiz, A.H. Hines, L.D. Smith &amp; J.T. Carlton. $237,000.
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Maryland Sea Grant College Program</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Susceptibility of Chesapeake Bay to invasions of non-indigenous species associated with ballast water. Co-PIs, G.M. Ruiz, A.H. Hines, D.W. Coats, L.D. Smith &amp; J.T. Carlton. $142,542.
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NATO</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Collaborative Research Grant (1994-1996) Changes in ballast water assemblages during transoceanic voyages. Co-PIs, G.M. Ruiz, A.H. Hines, L.D. Smith, J.T. Carlton, J. Lenz, S. Gollasch &amp; M. Dammer. $6,433.
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Smithsonian Scholarly Studies Program</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Effects of ballast water transport and prolonged darkness on survival and development of exotic aquatic species. Co-PIs, G.M. Ruiz, L.D. Smith, A.H. Hines &amp; J.T. Carlton. $70,000.
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>U.S. Fish &amp; Wildlife Service</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Biological invasions of Chesapeake Bay a historical analysis. Co-PI with G.M. Ruiz, A.H. Hines, L.D. Smith, D.W. Coats &amp; J.T. Carlton. $72,500. Sigma Xi Grants-in-Aid of Research (1987 &amp; 1989)
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Jesse Smith Noyes Foundation Grant</EmployerOrgName>
+<PositionHistory>
+<Title>Lerner-Gray Fund</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Marine Research (1987) * Internally reviewed Smith College Committee on Faculty Compensation &amp; Development (2010). Study of the influence of predator density, prey population source, and prey rearing location on the expression of induced shell defenses in a native snail. L.D. Smith. $2,067. Smith College Committee on Faculty Compensation &amp; Development (2009). Study of environmental factors and spatial and temporal scales of ecological arms races between introduced predators and native prey. L.D. Smith. $2,075. Smith College Committee on Faculty Compensation &amp; Development (2005). Testing for evidence of an ecological arms race between the green crab Carcinus maenas and Littorina snails. L.D. Smith. $2,680. Smith College Committee on Faculty Compensation &amp; Development (2004): Research assessing the effects of temperature on growth rates of Carcinus maenas at different latitudes. L.D. Smith. $2,250. Smith College Committee on Faculty Compensation &amp; Development (2003): Research using juvenile Carcinus maenas to study the success of a widespread invader. L.D. Smith. $2,205. Smith College Committee on Faculty Compensation &amp; Development (2002): Travel and support for field research in Oregon. L.D. Smith. $1,639.
+</Description>
+<StartDate>
+<AnyDate>1988-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Smith College Science Venture Fund</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Teaching initiative in Invertebrate Zoology. L.D. Smith. $18,625.
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Northeastern University</EmployerOrgName>
+<PositionHistory>
+<Title>Short Term Research Grant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cooperative Education</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Identifying skills and establishing links for marine-related cooperative education experiences. L.D. Smith. $3,983.
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Northeastern University</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Research and Scholarship Development Fund (1996-1997) Investigating the effects of variation in prey resistance on claw morphology and performance in an introduced crab. L.D. Smith. $8,900. Smithsonian Marine Station Fund (1989) Chesapeake Bay Fund, Zoology, University of Maryland (1986, 1987, 1988, 1989) Graduate School Fund, University of Maryland (1986, 1988)
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Maryland</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>College Park</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1990-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Zoology</Name>
+</DegreeMajor>
+<Comments>Dissertation topic: The frequency &amp; ecological consequences of limb autotomy in the blue crab.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of South Carolina</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>SC</Region>
+<Municipality>Columbia</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Marine Science</Name>
+</DegreeMajor>
+<Comments>Thesis topic: Sediment-selective predation by fish on meiofauna</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Virginia</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>VA</Region>
+<Municipality>Charlottesville</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.A</DegreeName>
+<DegreeDate>
+<AnyDate>1981-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biology major</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship for the Development of Interdisciplinary Curriculum and Courses. &quot;FYS 177 Global Environmental Changes and Challenges&quot;</DegreeName>
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Rappaport</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Form and Function</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Jean Picker</Name>
+</DegreeMajor>
+<Comments>Science, Technology, Engineering, and Mathematics Teacher Education Collaboration</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Faculty Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Smithsonian National Board Postdoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Bamfield Marine Station Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Award</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1992-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Smithsonian Postdoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Kahn Institute Faculty</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1989-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Smithsonian Predoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Tropical biology field course</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>CR</CountryCode>
+</PostalAddress>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>1988-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Organization for Tropical Studies</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Maryland</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Friday Harbor Laboratories Marine Science Fund</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Virginia</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>1980-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Intermediate</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Honors</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Freeman</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>A.S</DegreeName>
+<DegreeMajor>
+<Name>and L.D.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>College Program</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Cambridge</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>MITSG 20-2.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>College Program</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Cambridge</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>L.B</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>MITSG 20-2.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree>
+<DegreeName>D.M</DegreeName>
+<DegreeMajor>
+<Name>changes</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>transporting nonindigenous species to U.S. waters&quot;.</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>The role of ballast water</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>College Program. University of Connecticut</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Groton</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Nonindigenous Aquatic Nuisance Species, Publ. No.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>College Environmental Science and Policy Newsletter.</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Director&apos;s Corner&quot;.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Auckland</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Centre for Conservation Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Auckland</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Centre for Conservation Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Rathbun</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1990-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>The frequency and ecological consequences of limb autotomy</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>the blue crab, Callinectes sapidus</Name>
+</DegreeMinor>
+<Comments>dissertation. University of Maryland</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>South Carolina</Region>
+<Municipality>Columbia</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>meiofauna</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>muddy and sandy substrates.</Name>
+</DegreeMinor>
+<Comments>thesis. University of South Carolina</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>graduate</DegreeName>
+<DegreeMajor>
+<Name>indicates</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>undergraduate</DegreeName>
+<DegreeMajor>
+<Name>or</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Freeman</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>A.S</DegreeName>
+<DegreeMajor>
+<Name>and L.D.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Ruiz and</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Freeman</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>A.S</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Marine Bioinvasions</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>ME</Region>
+<Municipality>Portland</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>D.D</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Marine Bioinvasions</Name>
+</DegreeMajor>
+<Comments>L.McCann and G. Ruiz. &quot;The potential for intracoastal transfer of nonindigenous species via ships&apos; ballast water&quot;, Benthic Ecology Meeting</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree>
+<DegreeName>G.D</DegreeName>
+<DegreeDate>
+<AnyDate>1997-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Hines, D. Coats</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>L.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Wonham and J. Carlton. &quot;U.S. research program</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>ME</Region>
+<Municipality>Portland</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>D.G</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>McCann</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>M.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>a bi-coastal comparison for U.S. ports&quot;</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NJ</Region>
+<Municipality>New Brunswick</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Patterns of non-indigenous species transfer</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>ballast water of ships</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="medical">
+<DegreeName>MD</DegreeName>
+<DegreeDate>
+<AnyDate>1989-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Limb autotomy, partial predation and cannibalism</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>blue crabs&quot;, Benthic Ecology Meeting, Solomons</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>Hosted Woodrow Wilson Visiting</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center for the Environment, Ecological Design and Sustainability</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>Environmental</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Director of student pre-orientation/orientation program &quot;Sustainability and an Ecological Sense of Place&quot;</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Site visit of School for International Training&apos;s</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeMajor>
+<Name>Sustainability</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>SIT Panama program</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Faculty Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Development and Conservation for International Study</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2011-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Environmental Science &amp; Policy Program</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Advisor</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Northeastern University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Analysis Laboratory Steering Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Northeastern University Dive Control Board</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Xi Secretary, Northeastern chapter</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>College of Arts &amp; Sciences</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and Sabbatical Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<OrganizationUnit>Department of Biology</OrganizationUnit>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Qualifying Examination Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Curriculum Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<MilitaryHistory>
+<CountryServed>US</CountryServed>
+<ServiceDetail branch="Navy">
+<RankAchieved>
+<CurrentOrEndRank>Department of Defense Legacy Program</CurrentOrEndRank>
+</RankAchieved>
+<DatesOfService>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</DatesOfService>
+<AreaOfExpertise>The role of U.S. Navy vessels to ballast-mediated invasions 
+in Chesapeake Bay. Co-PIs, G.M. Ruiz, A.H. Hines, L.D. Smith &amp; J.T. Carlton. $461,000.
+</AreaOfExpertise>
+</ServiceDetail>
+</MilitaryHistory>
+<PublicationHistory>
+<Article>
+<Title>(* indicates graduate or undergraduate student co-author at the time research was conducted)</Title>
+<Name role="author">
+<FormattedName>Refereed Articles and Book Chapters</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;The role of phenotypic plasticity in marine invasions&quot;</Title>
+<Name role="author">
+<FormattedName>Smith L.D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Pp</JournalOrSerialName>
+<PageNumber>177-202</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Temperature constraints on phenotypic plasticity explain biogeographic patterns in predator trophic morphology.&quot;</Title>
+<Name role="author">
+<FormattedName>Baldridge, A.* and L. D. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>&quot;Supply-side invasion ecology: characterizing propagule pressure in coastal ecosystems&quot;</Title>
+<Name role="author">
+<FormattedName>Verling, E., G.M. Ruiz, L.D. Smith, B. Galil, A.W. Miller and K.R. Murphy</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Proceedings of the Royal Society B 272: 1249-1256</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Biogeographic differences in claw size and performance in an introduced crab predator: evidence of an emerging arms race &quot; ASLO/TOS Ocean Research</Title>
+<Name role="author">
+<FormattedName>Smith, L.D. and E.K. Thomas</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<Volume>2004</Volume>
+</Article>
+<Article>
+<Title>or proposals: Springer Press</Title>
+<Name role="author">
+<FormattedName>Wiley</FormattedName>
+</Name>
+<JournalOrSerialName>Press</JournalOrSerialName>
+</Article>
+<Article>
+<Title>An Introduction to Geographic Information Systems for Educators</Title>
+</Article>
+<Article>
+<Title>NSF Chautauqua Short Course</Title>
+<Name role="author">
+<FormattedName>Conservation Biology</FormattedName>
+</Name>
+<JournalOrSerialName>Faculty Writing Workshop</JournalOrSerialName>
+</Article>
+<Article>
+<Title>NSF Chautauqua Short Course</Title>
+<Name role="author">
+<FormattedName>The Loss</FormattedName>
+</Name>
+<JournalOrSerialName>of the World&apos;s Marine Biodiversity</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>Climate Adaptation</Title>
+<EventName>Participant in Teaching Workshops Preconference Workshop</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Teaching Evolution to Undergraduates</Title>
+<EventName>Preconference Workshop Society for the Study of Evolution</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Public Outreach Lecture on marine conservation biology to public at Silvio O. Conte National Fish and Wildlife Refuge&apos;s Great Falls Discovery Center</Title>
+<Name role="author">
+<FormattedName>Turners Falls, MA</FormattedName>
+</Name>
+<EventName>3rd Annual Lilly-New England Conference</EventName>
+<ConferenceDate>
+<StringDate>2011</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Durham NH.</ConferenceLocation>
+</ConferencePaper>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<EventName>at National or International Conferences</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Smith L.D. &quot;The role of phenotypic plasticity in marine biological invasions.&quot; Sixth International Conference on Marine Bioinvasions 2009 Portland OR.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2009-01-01</StringDate></StartDate>
+<EventName>Baldridge A.K.* and L.D Smith. &quot;Dispatches from an invasion front: does water temperature determine the outcome of an ecological arms race between an introduced crab and its armored prey &quot; Sixth International Conference on Marine Bioinvasions Aug. 23-27 Portland OR.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2007-01-01</StringDate></StartDate>
+<EventName>Smith L.D. and K.M &quot;The Internet as a dispersal mechanism for live marine species&quot;. Fifth International Conference on Marine Bioinvasions May 21-24 Cambridge MA.</EventName>
+<EventType>conference</EventType>
+<Location>Hornby*.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2007-01-01</StringDate></StartDate>
+<EventName>Baldridge A.K.* and L.D Smith. &quot;Phenotypic plasticity in claw morphology of the introduced crab Carcinus maenas in response to natural variation in prey armor and water temperature.&quot; Fifth International Conference on Marine Bioinvasions May 21-24 Cambridge MA.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Smith L.D. and E.A. Callaghan*. &quot;The allometry of invasive crab-native prey size interactions at different temperatures: a predictor of invasion success &quot; Fifth International Conference on Marine Bioinvasions 2007 Cambridge MA.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Smith L.D. and A.K. Baldridge*. &quot;Are introduced crabs and native snails engaged</Title>
+<StartDate><StringDate>2005-01-01</StringDate></StartDate>
+<EventName>Callaghan E.A.* and L.D Smith. &quot;The allometry of invasive crab-native prey size interactions: a predictor of invasion success &quot; Sixth International Crustacean Congress Jul. 18-22 Glasgow Scotland.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>15-20-01</StringDate></StartDate>
+<EventName>Smith L.D. and E.K &quot;Biogeographic differences in claw size and performance in an introduced crab predator: evidence of an emerging arms race &quot; Ocean Research Conference. American Society of Limnology and Oceanography. Feb. Honolulu HI.</EventName>
+<EventType>conference</EventType>
+<Location>Thomas*.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Smith L.D. E.K. Thomas K.M. Hornby S.M. Weigle J. Pederson and J.T Carlton. &quot;Identifying potential invaders among imported marine species&quot;. Third</Title>
+<EventName>International Conference on Marine Bioinvasions 2003 La Jolla CA.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2003-01-01</StringDate></StartDate>
+<EventName>Smith L.D. and E.K &quot;Biogeographic variation in claw size and performance in an introduced crab predator: evidence of an emerging arms race &quot; Third International Conference on Marine Bioinvasions Mar. 16-19 La Jolla CA.</EventName>
+<EventType>conference</EventType>
+<Location>Thomas*.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2003-01-01</StringDate></StartDate>
+<EventName>Weigle S.M. L.D. Smith J. Pederson and J.T Carlton. &quot;The live marine species trade and potential risks for exotic species introductions&quot;. Third International Conference on Marine Bioinvasions Mar. 16-19 La Jolla CA.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2002-01-01</StringDate></StartDate>
+<EventName>Smith L.D. and E. Breitbarth*. &quot;Oxygen dynamics in turf algae canopies on coral reefs&quot; Ocean Sciences Meeting. American Society of Limnology and Oceanography</EventName>
+<EventType>conference</EventType>
+<Location>Honolulu HI</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2001-01-01</StringDate></StartDate>
+<EventName>Smith L.D. S.M. Willard J. Pederson and J.T Carlton. &quot;Identifying pathways for marine bioinvaders into and out of New England&quot; Marine Conservation Biology Symposium San Francisco CA</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2001-01-01</StringDate></StartDate>
+<EventName>Willard S.M. L.D. Smith J. Pederson and J.T Carlton. &quot;Identifying pathways for marine bioinvaders into and out of a New England state&quot; International Conference on Marine Bioinvasions. New Orleans LA</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2001-01-01</StringDate></StartDate>
+<EventName>Altman S. G. Ruiz L. McCann K. Philips A. Hines L. Smith M. Wonham and J Carlton. &quot;Spatial and temporal variation in propagule pressure to Chesapeake Bay&quot; International Conference on Marine Bioinvasions. New Orleans LA</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2000-01-01</StringDate></StartDate>
+<EventName>Smith L.D. B.S. Galil and G.M. Ruiz. &quot;Understanding pathway complexity: changes in ballast water biota during transoceanic voyages&quot; Research Across Boundaries. American Society of Limnology and Oceanography</EventName>
+<EventType>conference</EventType>
+<Location>Copenhagen Denmark</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Trussell G.C.* and L.D Smith. &quot;Induced defenses may explain historical and geographic phenotypic change&quot; Benthic Ecology Meeting Wilmington NC</Title>
+<StartDate><StringDate>1999-01-01</StringDate></StartDate>
+<EventName>Trussell G.C.* and L.D Smith. &quot;Morphological plasticity and trade-offs induced by an invading crab predator&quot; Society for the Study of Evolution Madison WI</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>at Local Symposia or Regional Conferences</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Stein R. * Y. Lu and L.D Smith. &quot;A crushing dilemma: testing for crab feeding performance and snail vulnerability among populations over time&quot;. Celebrating Collaborations Smith College Northampton MA</Title>
+<StartDate><StringDate>2009-01-01</StringDate></StartDate>
+<EventName>Smith L.D. &quot;The role of phenotypic plasticity in a marine biological invasion: taking cues from the environment&quot;. Darwin Symposium Smith College</EventName>
+<EventType>conference</EventType>
+<Location>Northampton MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Hornby K.M. and L.D Smith. &quot;The internet as a dispersal mechanism for live marine species&quot;. Celebrating Collaborations and STRIDE Scholar Presentation Smith College Northampton MA</Title>
+<StartDate><StringDate>2003-01-01</StringDate></StartDate>
+<EventName>Thomas E.K. K.M. Hornby* and L.D Smith. &quot;Identifying potential marine invaders to New England among imported marine organisms&quot;. Celebrating Collaboration STRIDE Scholar Presentation and Biosciences Student Research Symposium Smith College Northampton MA</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2002-01-01</StringDate></StartDate>
+<EventName>Smith L.D. &quot;Accidental hitchhikers and live marine organism transport&quot; MIT Sea Grant Bioinvasions Workshop</EventName>
+<EventType>conference</EventType>
+<Location>Cambridge MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2002-01-01</StringDate></StartDate>
+<EventName>Thomas E.K.* and L.D Smith. &quot;Identifying pathways for marine bioinvaders: the role of marine biological supply companies&quot;. Celebrating Collaboration STRIDE Scholar Presentation and Biosciences Student Research Symposium Smith College Northampton MA</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1997-01-01</StringDate></StartDate>
+<EventName>Smith L.D. M. Wonham L. McCann G. Ruiz J. Carlton and D. Lavoie*. &quot;The role of ballast water in transporting nonindigenous species to U.S. waters&quot;. Second Northeast Conference on Nonindigenous Aquatic Species</EventName>
+<EventType>conference</EventType>
+<Location>Burlington VT</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1995-01-01</StringDate></StartDate>
+<EventName>Hines A. G. Ruiz J. Carlton and D Smith. &quot;Patterns and mechanisms of invasions: processes results and consequences&quot;. Northeast Conference on Non-Indigenous Aquatic Nuisance Species Cromwell CT</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1994-01-01</StringDate></StartDate>
+<EventName>Ruiz G. A.H. Hines D.W. Coats L.D. Smith and J.T Carlton. &quot;Non-indigenous species of Chesapeake Bay: past invasions and future risks&quot;. Chesapeake Research Conference Norfolk VA</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1993-01-01</StringDate></StartDate>
+<EventName>Smith L.D. &quot;The importance of male body size to mate acquisition and intrasexual competition in blue crabs Callinectes sapidus&quot;. Western Society of Naturalists</EventName>
+<EventType>conference</EventType>
+<Location>Newport OR</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1988-01-01</StringDate></StartDate>
+<EventName>Smith L.D. &quot;The effects of limb autotomy on survival in predator-prey encounters&quot;. Atlantic Estuarine Research Society</EventName>
+<EventType>conference</EventType>
+<Location>Solomons MD</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1987-01-01</StringDate></StartDate>
+<EventName>Smith L.D. &quot;The incidence of autotomy and regeneration in blue crabs in a subestuary of the Chesapeake Bay&quot;. Portunid Ecology Workshop</EventName>
+<EventType>conference</EventType>
+<Location>Edgewater MD</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>&quot;Marine bioinvasions: pathways stowaways and arms races&quot;. Biological Sciences Colloquium CONTACT _Con-41DFF48C1 \c \s \l Smith College</Title>
+<StartDate><StringDate>2004-01-01</StringDate></StartDate>
+<EventName>&quot;Pathways for marine invaders to New England&quot;. Maine&apos;s Marine Invasion: A Forum on the Impact of Non-native and Other Invasive Species on Maine&apos;s Coastal Ecosystems. Co-sponsored by Casco Bay Estuary Project Maine Sea Grant The University of Maine &amp; the University of Southern Maine ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Portland ME</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2003-01-01</StringDate></StartDate>
+<EventName>&quot;Malleable arms and armor: phenotypic plasticity&apos;s role in marine bioinvasions&quot;. Organismic and Evolutionary Biology Program University of Massachusetts ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Amherst MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>&quot;Strangers in a strange land: Biological invaders in coastal waters&quot;. Sigma Xi Luncheon Smith College</Title>
+<StartDate><StringDate>2001-01-01</StringDate></StartDate>
+<EventName>&quot;Phenotypic plasticity in crab predators and molluscan prey: use-induced arms and cue-induced armor&quot;. Oregon Institute of Marine Biology University of Oregon ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Charleston OR</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>&quot;Phenotypic plasticity in crab predators and molluscan prey: use-induced arms and cue-induced armor&quot;. Department of Biological Sciences Smith College ï¿½</Title>
+<StartDate><StringDate>2000-01-01</StringDate></StartDate>
+<EventName>&quot;Marine bioinvasions: assessing pathway complexity and post-invasion consequences&quot;. Department of Biology Northeastern University</EventName>
+<EventType>conference</EventType>
+<Location>Boston MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1998-01-01</StringDate></StartDate>
+<EventName>&quot;Travel and dining tips for the savvy marine biological invader&quot;. Department of Biology Northeastern University</EventName>
+<EventType>conference</EventType>
+<Location>Boston MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1997-01-01</StringDate></StartDate>
+<EventName>&quot;Pumping up and paring down: adaptive responses of crustacean limbs to prey and predator&quot;. Department of Biology Tufts University ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Medford MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>&quot;Marine biological invasions: the dynamics of ballast water transport&quot;. Department of Zoology University of New Hampshire ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Durham NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>&quot;Pumping up and paring down: adaptive responses of crustacean limbs to prey and predator&quot;. Department of Ecology and Evolutionary Biology Brown University ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Providence RI</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>&quot;Biological invasions in marine systems: the importance of ballast water as a dispersal mechanism&quot;. Department of Marine Sciences University of Connecticut Avery ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Point CT</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>&quot;Biological invasions in marine systems: the importance of ballast water as a dispersal mechanism&quot;. Department of Biology Northeastern University</EventName>
+<EventType>conference</EventType>
+<Location>Boston Massachusetts</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>&quot;The role of ballast water in transporting nonindigenous species to U.S. waters&quot; Exotic species: issues relating aquaculture and biodiversity workshop Massachusetts Institute of Technology Sea Grant College Program ï¿½</EventName>
+<EventType>conference</EventType>
+<Location>Cambridge MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1995-01-01</StringDate></StartDate>
+<EventName>&quot;Pumping up and paring down: adaptive responses of crustacean limbs to prey and predator&quot;. Department of Biology Northeastern University</EventName>
+<EventType>conference</EventType>
+<Location>Boston MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>&quot;The importance of male body size to mate acquisition and intrasexual competition in blue crabs Callinectes sapidus &quot;. Smithsonian Environmental Research Center ï¿½</Title>
+<StartDate><StringDate>1990-01-01</StringDate></StartDate>
+<EventName>&quot;The frequency and consequences of limb autotomy in blue crabs&quot;. Department of Zoology University of Maryland</EventName>
+<EventType>conference</EventType>
+<Location>College Park MD</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>&quot;The frequency and consequences of limb autotomy in blue crabs&quot;. Belle Baruch Institute for Marine Biology &amp; Coastal Research ï¿½</Title>
+<StartDate><StringDate>1988-01-01</StringDate></StartDate>
+<EventName>&quot;The effect of limb autotomy in decapod crustaceans&quot;. Department of Zoology University of Maryland</EventName>
+<EventType>conference</EventType>
+<Location>College Park MD</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1986-01-01</StringDate></StartDate>
+<EventName>&quot;Predation on meiofauna in muddy versus sandy substrates&quot;. Department of Zoology University of Maryland</EventName>
+<EventType>conference</EventType>
+<Location>College Park MD</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>10) Other Professional Activities * Invited Panels or Committees</Title>
+<StartDate><StringDate>2002-06-01</StringDate></StartDate>
+<EventName>Invited panelist at Congressional hearing on Research Priorities for Introduced Aquatic Species held by the Environment Technology &amp; Standards Subcommittee of the Science Committee of the U.S. House of Representatives Washington D.C.</EventName>
+<EventType>conference</EventType>
+<Location>U.S.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Ballast Water Program Effectiveness and Adequacy Criteria Committee Aquatic Nuisance Species Task Force</Title>
+<StartDate><StringDate>1998-01-01</StringDate></StartDate>
+<EventName>Steering Committee for the National Conference on Marine Bioinvasions MIT Sea Grant</EventName>
+<EventType>conference</EventType>
+<Location>Cambridge MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Professional Workshops</Title>
+<StartDate><StringDate>2002-05-01</StringDate></StartDate>
+<EventName>Co-organizer MIT Sea Grant Bioinvasions Workshop entitled Moving Handling Selling and Using Live Marine Organisms: Preventing the Accidental Introduction of Exotic Species</EventName>
+<EventType>conference</EventType>
+<Location>Cambridge MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Baldridge Ashley K The role of phenotypic plasticity in the interaction between an invasive crab predator Carcinus maenas and its native snail prey Littorina obtusata. M.A. Thesis.</Title>
+<EventName>Northeastern University</EventName>
+<EventType>conference</EventType>
+<Location>Boston MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2009-01-01</StringDate></StartDate>
+<EventName>on marine bioinvasions and marine conservation biology for Smith College Yale University and St. Mary&apos;s College alumnae. Alumnae Association of Smith College. Galapagos</EventName>
+<EventType>conference</EventType>
+<Location>Ecuador</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Intertidal field trip for Hadley &amp; Stanley Schools&apos; Brownie troop</Title>
+<StartDate><StringDate>1999-01-01</StringDate></StartDate>
+<EventName>Field trip to identify nonindigenous marine organisms. Massachusetts Audubon Society Duxbury Beach Program</EventName>
+<EventType>conference</EventType>
+<Location>Duxbury MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Invited talk on marine bioinvasions &quot;The exotics are coming! Introduced marine species in New England&quot; Massachusetts Audubon Society. Wellfleet Bay Wildlife Sanctuary</Title>
+<StartDate><StringDate>1998-01-01</StringDate></StartDate>
+<EventName>Presentation of marine invertebrates to Montessori preschool The Children&apos;s Workshop</EventName>
+<EventType>conference</EventType>
+<Location>Marblehead MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>11) Professional Memberships</Title>
+<EventName>Society for Conservation Biology</EventName>
+<EventType>conference</EventType>
+<Location>Nahant MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Council of Environmental Deans and Directors (National Council for Science and the Environment) 12) College or Departmental Committees and Other College Service * Smith College</Title>
+<StartDate><StringDate>2001-01-01</StringDate></StartDate>
+<EventName>Five-Colleges Faculty member in the Graduate Program in Organismic and Evolutionary Biology (OEB) University of Massachusetts</EventName>
+<EventType>conference</EventType>
+<Location>Amherst Massachusetts</Location>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Compensation">
+<CompetencyEvidence name ="Compensation" lastUsed="1988-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Legacy">
+<CompetencyEvidence name ="Legacy">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">13</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "XI">
+<CompetencyEvidence name ="XI" lastUsed="1995-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Description>Thesis Advisor</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2004-01-01 - 2005-01-01</StringDate></Date>
+<Description>Jurkowski A. &apos;05. &quot;The effects of predation on American lobster populations over time&quot; High honors.</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-04-01</StringDate></Date>
+<Description>Second Reader Maynard L. &apos;11. &quot;Making sense of environmental enrichment: The behavioral responses of captive African cheetahs (Acinonyx jubatus) to ecologically relevant scents&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-04-01</StringDate></Date>
+<Description>Brown-Saracino J. &apos;03. &quot;Indirect consequences of overfishing: Abundance patterns and bioerosion rates of the rock urchin Enchinometra viridis on the Belize Barrier Reef&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-04-01</StringDate></Date>
+<Description>Special Studies (BIO 400 or EVS 400) Buchalski C. &apos;11. &quot;Changes in claw size and relative shape in regards to body size: a study of two invasive predatory species in the western Atlantic&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-04-01</StringDate></Date>
+<Description>Eastwood E. &apos;12. &quot;Effects of ocean acidification on green crab cuticle&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-04-01</StringDate></Date>
+<Description>Lu Y. &apos;12. &quot;Pushed to the breaking point: testing for geographic differences in claw cuticle thickness and strength in an invasive marine crab&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-04-01</StringDate></Date>
+<Description>Stein R. &apos;12. &quot;Testing for crab feeding performance and snail vulnerability among populations over time&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-04-01</StringDate></Date>
+<Description>Benson R. &apos;10. &quot;Researching accessibility of solar power for developing communities: proposal for schools in Northern Pakistan&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-04-01</StringDate></Date>
+<Description>Vaughn C. &apos;09. &quot;People pressures on previously pristine places: a comparative study of coral biodiversity near Hoga Island Indonesia&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-10-01 - 2009-04-01</StringDate></Date>
+<Description>Nguyen P. &apos;10. &quot;A comparison of stream invertebrate diversity in two river systems in western Massachusetts&quot; &amp;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-10-01 - 2009-04-01</StringDate></Date>
+<Description>Beaty J. &apos;09. &quot;How overfishing is reshaping the world&apos;s fisheries&quot; &amp;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-10-01</StringDate></Date>
+<Description>Luo P. &apos;08. &quot;The diet of green crabs across three different types of habitats: Pemaquid Point Tide Pool and Mud Flat&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-10-01</StringDate></Date>
+<Description>Burgess C. &apos;08. &quot;Critique of the reaction-diffusion model as a method for predicting the rate of spread invasive species&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-04-01</StringDate></Date>
+<Description>Artgetsinger S. &apos;07. &quot;Food waste management at Smith</Description>
+<IssuingAuthority>College and suggestions for improvement&quot;</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-10-01</StringDate></Date>
+<Description>Masek C. &apos;07. &quot;Crushing force in two invasive crab species: a gripping story&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-10-01</StringDate></Date>
+<Description>Hauke S. &quot;Predator-prey chemical communication in the marine environment&quot;</Description>
+<IssuingAuthority>Mount Holyoke College.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-04-01</StringDate></Date>
+<Description>Wang M. &apos;05. &quot;Pattern of limb injury in the introduced green shore crab Carcinus maenas and the Asian shore crab Hemigrapsus sanguineus&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-04-01</StringDate></Date>
+<Description>Baker M. &apos;03. &quot;Assessing the effects of fishing pressure on coral reef lagoons in southwestern Madagascar&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2002-10-01</StringDate></Date>
+<Description>Thomas E. &apos;05. &quot;Latitudinal differences in claw morphology of two crabs Carcinus maenas and Hemigrapsus oregonensis on the western North American coast&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>Summer Student Research Program Tucker S. &apos;13. B. Elizabeth Horner Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>Cap O. &apos; 12. Agnes Shedd Andreae 1932 Research Fund Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>Stein R. &apos;12. B. Elizabeth Horner Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>Lu Y. &apos;12. B. Elizabeth Horner Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>Vaughn C. &apos;09. Nancy Holmes Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-01-01</StringDate></Date>
+<Description>Masek C. &apos;07. B. Elizabeth Horner Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-01-01</StringDate></Date>
+<Description>Zhang Y. &apos;08. B. Elizabeth Horner Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-01-01</StringDate></Date>
+<Description>Hornby K. &apos;06. Margaret W. Grantham Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2002-01-01</StringDate></Date>
+<Description>Thomas E. &apos;05. B. Elizabeth Horner Fund in the Biological Sciences Fellowship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01 - 2007-01-01</StringDate></Date>
+<Description>Lab Experiences for Under-represented Students in Science S. Vega &apos;09</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2004-01-01 - 2005-01-01</StringDate></Date>
+<Description>D. Torcero-Parker &apos;08</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2001-01-01 - 2002-01-01</StringDate></Date>
+<Description>K. Aguilar &apos;04</Description>
+</Achievement>
+<Achievement>
+<Description>Northeastern University East/West Marine Biology Program Nahant MA Grady S</Description>
+<IssuingAuthority>student&apos;s home university</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2000-01-01</StringDate></Date>
+<Description>(Brown University)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1998-01-01</StringDate></Date>
+<Description>Hall R Stoletzki A. (Hannover Univ. Germany).</Description>
+<IssuingAuthority>Tufts University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1997-01-01</StringDate></Date>
+<Description>Jennings J Altman S. (Brown Univ.) Breitbarth E. (Northeastern Univ.).</Description>
+<IssuingAuthority>DePauw University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1996-01-01</StringDate></Date>
+<Description>Leddy H</Description>
+<IssuingAuthority>Bowdoin College.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>Bamfield Marine Station Bamfield British Columbia Brock R. Beattie</Description>
+<IssuingAuthority>student&apos;s home university</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1993-01-01</StringDate></Date>
+<Description>A J. (Univ. Alberta).</Description>
+<IssuingAuthority>Univ. Victoria Quintero</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1992-01-01</StringDate></Date>
+<Description>Murray A</Description>
+<IssuingAuthority>Univ. Victoria.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>Dissertation or Thesis Committees (completed) Tyrrell M. Ph.D</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2002-01-01</StringDate></Date>
+<Description>University of New Hampshire</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2000-01-01</StringDate></Date>
+<Description>Wenzel F. M.S</Description>
+<IssuingAuthority>Northeastern University.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2000-01-01</StringDate></Date>
+<Description>Watson K. M.S</Description>
+<IssuingAuthority>Northeastern University.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1998-01-01</StringDate></Date>
+<Description>Paull K. Ph.D</Description>
+<IssuingAuthority>Northeastern University.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1998-01-01</StringDate></Date>
+<Description>McLaughlin M. M.S</Description>
+<IssuingAuthority>Northeastern University.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>Reviewer Environmental Science Program at Western</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-03-01 - 2011-04-01</StringDate></Date>
+<Description>Tenure and Promotion. Evaluated promotion dossier</Description>
+<IssuingAuthority>University of Massachusetts - Amherst.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-01-01 - 2006-01-01</StringDate></Date>
+<Description>Programmatic Environmental Impact Statement (PEIS). Evaluated scientific merit of PEIS concerning proposed national ballast water discharge standards being developed Department of Transportation Cambridge MA.</Description>
+<IssuingAuthority>by U.S. Coast Guard to control aquatic invasive species.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>Grant proposals: National Science Foundation</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Phi Beta Kappa</Name>
+</Association>
+<Association>
+<Name>American Society of Limnology and Oceanography.</Name>
+</Association>
+<Association>
+<Name>Society for the Study of Evolution</Name>
+</Association>
+<Association>
+<Name>Society of Neuroscience Meeting</Name>
+</Association>
+<Association>
+<Name>Carolina University. Chaired 3-person committee charged with an external review of the WCU Environmental Science Program and its major. Cullowhee NC</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBRQ0KIA0KMSkgTmFtZSAgICAgTGVzbGllIERhdmlkIFNtaXRoDQoNCjIpIEFkZHJlc3MgIERlcGFydG1lbnQgb2YgQmlvbG9naWNhbCBTY2llbmNlcyANCiAgIDIyOSBTYWJpbi1SZWVkDQogICBTbWl0aCBDb2xsZWdlDQogICBOb3J0aGFtcHRvbiwgTWFzc2FjaHVzZXR0cyAwMTA2Mw0KICAgKDQxMykgNTg1LTM4MjggKHRlbCk7ICg0MTMpIDU4NS0zNzg2IChmYXgpDQogICBsZHNtaXRoQHNtaXRoLmVkdSAoZS1tYWlsKQ0KDQogICAzNSBXb29kbGF3biBBdmUuDQogICBOb3J0aGFtcHRvbiwgTUEgMDEwNjANCiAgICg0MTMpIDU4Ny0yNjk2ICh0ZWwpDQogIA0KMykgRGVncmVlcyANClBoLkQuIDE5OTAgIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQsIENvbGxlZ2UgUGFyaywgTUQgICBab29sb2d5DQogRGlzc2VydGF0aW9uIHRvcGljOiBUaGUgZnJlcXVlbmN5ICYgZWNvbG9naWNhbCBjb25zZXF1ZW5jZXMgb2YgbGltYiBhdXRvdG9teSBpbiB0aGUgYmx1ZSBjcmFiLg0KICANCk0uUy4gMTk4NSAgVW5pdmVyc2l0eSBvZiBTb3V0aCBDYXJvbGluYSwgQ29sdW1iaWEsIFNDICAgTWFyaW5lIFNjaWVuY2UNCiBUaGVzaXMgdG9waWM6IFNlZGltZW50LXNlbGVjdGl2ZSBwcmVkYXRpb24gYnkgZmlzaCBvbiBtZWlvZmF1bmENCg0KQi5BLiAxOTgxIFVuaXZlcnNpdHkgb2YgVmlyZ2luaWEsIENoYXJsb3R0ZXN2aWxsZSwgVkEgICAgQmlvbG9neSAobWFqb3IpDQogICAgIEdyYWR1YXRlZCB3aXRoIEhpZ2hlc3QgRGlzdGluY3Rpb24gIEhpc3RvcnkgKG1pbm9yKQ0KDQo0KSBBd2FyZHMgYW5kIEhvbm9ycw0KKiBSYXBwYXBvcnQgRmVsbG93c2hpcCBmb3IgdGhlIERldmVsb3BtZW50IG9mIEludGVyZGlzY2lwbGluYXJ5IEN1cnJpY3VsdW0gYW5kIENvdXJzZXMuICAiRllTIDE3NyBHbG9iYWwgRW52aXJvbm1lbnRhbCBDaGFuZ2VzIGFuZCBDaGFsbGVuZ2VzIiAoMjAwOS0xMCkNCiogS2FobiBJbnN0aXR1dGUgRmFjdWx0eSBGZWxsb3cuICAiRm9ybSBhbmQgRnVuY3Rpb24iICgyMDA1LTA2KQ0KKiBKZWFuIFBpY2tlciBGZWxsb3dzaGlwICgyMDA0KQ0KKiBTY2llbmNlLCBUZWNobm9sb2d5LCBFbmdpbmVlcmluZywgYW5kIE1hdGhlbWF0aWNzIFRlYWNoZXIgRWR1Y2F0aW9uIENvbGxhYm9yYXRpb24gKFNURU1URUMpIEZhY3VsdHkgRmVsbG93c2hpcCAoMjAwMikNCiogU21pdGhzb25pYW4gTmF0aW9uYWwgQm9hcmQgUG9zdGRvY3RvcmFsIEZlbGxvd3NoaXAgICgxOTk0LTk1KQ0KKiBCYW1maWVsZCBNYXJpbmUgU3RhdGlvbiBSZXNlYXJjaCBBc3NvY2lhdGUgQXdhcmQgICgxOTkyLTkzKQ0KKiBTbWl0aHNvbmlhbiBQb3N0ZG9jdG9yYWwgRmVsbG93c2hpcCAgKDE5OTAtOTIpDQoqIFNtaXRoc29uaWFuIFByZWRvY3RvcmFsIEZlbGxvd3NoaXAgICgxOTg4LTg5KQ0KKiBPcmdhbml6YXRpb24gZm9yIFRyb3BpY2FsIFN0dWRpZXMgICgxOTg4KTogVHJvcGljYWwgYmlvbG9neSBmaWVsZCBjb3Vyc2UsIENvc3RhIFJpY2ENCiogRnJpZGF5IEhhcmJvciBMYWJvcmF0b3JpZXMgTWFyaW5lIFNjaWVuY2UgRnVuZCAgKDE5ODYpDQoqIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQgRmVsbG93c2hpcCAgKDE5ODUtMTk4OCkNCiogU2lnbWEgWGkgICgxOTg1KQ0KKiBQaGkgQmV0YSBLYXBwYSAgKDE5ODApDQoqIEludGVybWVkaWF0ZSBIb25vcnMsIFVuaXZlcnNpdHkgb2YgVmlyZ2luaWEgICgxOTc5KSAgDQoqIER1cG9udCBSZWdpb25hbCBTY2hvbGFyc2hpcCwgVW5pdmVyc2l0eSBvZiBWaXJnaW5pYSAgKDE5NzctODEpDQoqIFZhbGVkaWN0b3JpYW4sIERvdWdsYXMgUy4gRnJlZW1hbiBIaWdoIFNjaG9vbCwgUmljaG1vbmQsIFZpcmdpbmlhICgxOTc3KQ0KKiBFYWdsZSBTY291dCwgUmljaG1vbmQsIFZpcmdpbmlhICgxOTc3KQ0KDQoNCjUpIEVtcGxveW1lbnQgSGlzdG9yeQ0KIERpcmVjdG9yICgyMDA1LXByZXNlbnQpLiAgRW52aXJvbm1lbnRhbCBTY2llbmNlICYgUG9saWN5IFByb2dyYW0sIFNtaXRoIENvbGxlZ2UsIE5vcnRoYW1wdG9uLCBNYXNzYWNodXNldHRzLg0KDQogUHJvZmVzc29yICgyMDEwLXByZXNlbnQpLiAgRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUENCg0KIEFzc29jaWF0ZSBQcm9mZXNzb3IgKDIwMDMtMjAxMCkuICBEZXBhcnRtZW50IG9mIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFNtaXRoIENvbGxlZ2UsIE5vcnRoYW1wdG9uLCBNQS4NCg0KIFZpc2l0aW5nIFNjaWVudGlzdCAoMjAwOCkuICBDb21tb253ZWFsdGggU2NpZW50aWZpYyBhbmQgSW5kdXN0cmlhbCBSZXNlYXJjaCBPcmdhbml6YXRpb246IE1hcmluZSBhbmQgQXRtb3NwaGVyaWMgUmVzZWFyY2ggSG9iYXJ0IExhYm9yYXRvcmllcy4gIFRhc21hbmlhLCBBdXN0cmFsaWEuDQoNCiBBc3Npc3RhbnQgUHJvZmVzc29yICgyMDAxLTIwMDMpLiAgRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEuDQoNCiAgIFJlc2VhcmNoIEFzc29jaWF0ZSAoMTk5OC0yMDA3KS4gIFNtaXRoc29uaWFuIEVudmlyb25tZW50YWwgUmVzZWFyY2ggQ2VudGVyLCBFZGdld2F0ZXIsIE1hcnlsYW5kLg0KDQogQXNzaXN0YW50IFByb2Zlc3NvciAoMTk5NS0yMDAxKS4gIERlcGFydG1lbnQgb2YgQmlvbG9neSwgTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHksIEJvc3RvbiAmIE1hcmluZSBTY2llbmNlIENlbnRlciwgTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHksIE5haGFudCwgTWFzc2FjaHVzZXR0cy4NCg0KIFBvc3Rkb2N0b3JhbCBGZWxsb3cgKDE5OTQtMTk5NSkuICBTbWl0aHNvbmlhbiBFbnZpcm9ubWVudGFsIFJlc2VhcmNoIENlbnRlciwgRWRnZXdhdGVyLCBNYXJ5bGFuZC4gDQoNCiBQb3N0ZG9jdG9yYWwgUmVzZWFyY2ggQXNzb2NpYXRlICgxOTkzLTE5OTQpLiBXaWxsaWFtcyBDb2xsZWdlLU15c3RpYyBTZWFwb3J0IE11c2V1bSwgTXlzdGljLCBDb25uZWN0aWN1dC4NCg0KIFBvc3Rkb2N0b3JhbCBSZXNlYXJjaCBBc3NvY2lhdGUgKDE5OTItMTk5MykuICBEZXBhcnRtZW50IG9mIFpvb2xvZ3ksIFVuaXZlcnNpdHkgb2YgQWxiZXJ0YSwgRWRtb250b24sIEFsYmVydGEgJiBCYW1maWVsZCBNYXJpbmUgU3RhdGlvbiwgQmFtZmllbGQsIEJyaXRpc2ggQ29sdW1iaWEuDQoNCiBQb3N0ZG9jdG9yYWwgRmVsbG93ICgxOTkwLTE5OTIpLiAgU21pdGhzb25pYW4gRW52aXJvbm1lbnRhbCBSZXNlYXJjaCBDZW50ZXIsIEVkZ2V3YXRlciwgTWFyeWxhbmQuDQoNCiBEb2N0b3JhbCBSZXNlYXJjaCAoMTk4NS0xOTkwKS4gIFRlYWNoaW5nIEFzc2lzdGFudC4gIERlcGFydG1lbnQgb2YgWm9vbG9neSwgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCwgQ29sbGVnZSBQYXJrLCBNRC4gDQoNCiBNYXN0ZXIncyBSZXNlYXJjaCAoMTk4My0xOTg1KS4gICBSZXNlYXJjaCBhbmQgVGVhY2hpbmcgQXNzaXN0YW50LiAgTWFyaW5lIFNjaWVuY2UgUHJvZ3JhbSwgVW5pdmVyc2l0eSBvZiBTb3V0aCBDYXJvbGluYSwgQ29sdW1iaWEsIFNvdXRoIENhcm9saW5hLiAgIA0KDQogUmVzZWFyY2ggVGVjaG5pY2lhbiAoMTk4MS0xOTgzKS4gIERlcGFydG1lbnQgb2YgQmlvbG9neSwgVW5pdmVyc2l0eSBvZiBWaXJnaW5pYSwgQ2hhcmxvdHRlc3ZpbGxlLCBWaXJnaW5pYS4NCg0KDQoNCg0KNikgR3JhbnRzIFJlY2VpdmVkDQoqIEV4dGVybmFsbHkgcmV2aWV3ZWQgDQoNCk5hdGlvbmFsIGFuZCBNSVQgU2VhIEdyYW50IENvbGxlZ2UgUHJvZ3JhbXMgKDIwMDEtMjAwNCk6IEFxdWF0aWMgTnVpc2FuY2UgU3BlY2llczogVW5kZXJzdGFuZGluZyB0aGUgRHluYW1pY3Mgb2YgSW52YXNpb24gUGF0aHdheXMgdG8gTmV3IEVuZ2xhbmQuICAgUHJpbmNpcGFsIGludmVzdGlnYXRvciwgTC5ELiBTbWl0aDsgQXNzb2NpYXRlIGludmVzdGlnYXRvcnMsIEouIFBlZGVyc29uLCBKLlQuIENhcmx0b24uICAkMTIwLDIyNC4gDQoNCiBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gICgxOTk5LTIwMDIpOiBUaGUgaW5mbHVlbmNlIG9mIHdhdGVyIHRlbXBlcmF0dXJlIG9uIHByZWRhdG9yLWluZHVjZWQgZGVmZW5zaXZlIHJlc3BvbnNlcyBhbmQgbGlmZS1oaXN0b3J5IHRyYWRlLW9mZnMgaW4gYSBtYXJpbmUgaW50ZXJ0aWRhbCBzbmFpbC4gIENvLVByaW5jaXBhbCBJbnZlc3RpZ2F0b3JzLCBMLkQuIFNtaXRoICYgRy5DLiBUcnVzc2VsbC4gICQxODUsOTM5Lg0KDQogTmF0aW9uYWwgYW5kIE1JVCBTZWEgR3JhbnQgQ29sbGVnZSBQcm9ncmFtcyAoMTk5OS0yMDAxKTogUmVzZWFyY2ggYW5kIG91dHJlYWNoIHRvIHByZXZlbnQgYW5kIGNvbnRyb2wgYXF1YXRpYyBudWlzYW5jZSBzcGVjaWVzIGludmFzaW9uczogSWRlbnRpZmljYXRpb24gYW5kIHJhbmtpbmcgb2YgdHJhbnNwb3J0IHZlY3RvcnMgb2YgbWFyaW5lIGJpb2ludmFkZXJzIHRvIGFuZCBmcm9tIE5ldyBFbmdsYW5kLiBQSSwgTC5ELiBTbWl0aDsgQXNzb2NpYXRlIGludmVzdGlnYXRvcnMsIEouIFBlZGVyc29uLCBKLlQuIENhcmx0b24uICAkMTcwLDA4MS4NCg0KIE5hdGlvbmFsLCBNYXJ5bGFuZCwgTUlUIFNlYSBHcmFudCBDb2xsZWdlIFByb2dyYW1zICgxOTk3LTE5OTkpOiBUaGUgcmVsYXRpdmUgaW1wb3J0YW5jZSBvZiBiYWxsYXN0IHdhdGVyIGZyb20gZG9tZXN0aWMgc2hpcCB0cmFmZmljIGluIHRyYW5zbG9jYXRpb24gb2Ygbm9uaW5kaWdlbm91cyBzcGVjaWVzIGFtb25nIHRoZSBVLlMuIHBvcnRzLiAgQ28tUElzLCBHLk0uIFJ1aXosIEEuSC4gSGluZXMsIEwuRC4gU21pdGggJiBKLlQuIENhcmx0b24uICQyMzcsMDAwLg0KDQogTWFyeWxhbmQgU2VhIEdyYW50IENvbGxlZ2UgUHJvZ3JhbSAoMTk5Ni0xOTk4KTogU3VzY2VwdGliaWxpdHkgb2YgQ2hlc2FwZWFrZSBCYXkgdG8gaW52YXNpb25zIG9mIG5vbi1pbmRpZ2Vub3VzIHNwZWNpZXMgYXNzb2NpYXRlZCB3aXRoIGJhbGxhc3Qgd2F0ZXIuICBDby1QSXMsICBHLk0uIFJ1aXosIEEuSC4gSGluZXMsIEQuVy4gQ29hdHMsIEwuRC4gU21pdGggJiBKLlQuIENhcmx0b24uICAkMTQyLDU0Mi4NCg0KIE5BVE8gQ29sbGFib3JhdGl2ZSBSZXNlYXJjaCBHcmFudCAgKDE5OTQtMTk5Nik6ICBDaGFuZ2VzIGluIGJhbGxhc3Qgd2F0ZXIgYXNzZW1ibGFnZXMgZHVyaW5nIHRyYW5zb2NlYW5pYyB2b3lhZ2VzLiAgQ28tUElzLCBHLk0uIFJ1aXosIEEuSC4gSGluZXMsIEwuRC4gU21pdGgsIEouVC4gQ2FybHRvbiwgSi4gTGVueiwgUy4gR29sbGFzY2ggJiBNLiBEYW1tZXIuICAkNiw0MzMuDQoNCiBEZXBhcnRtZW50IG9mIERlZmVuc2UgTGVnYWN5IFByb2dyYW0gICgxOTk0LTE5OTYpOiAgVGhlIHJvbGUgb2YgVS5TLiBOYXZ5IHZlc3NlbHMgdG8gYmFsbGFzdC1tZWRpYXRlZCBpbnZhc2lvbnMgaW4gQ2hlc2FwZWFrZSBCYXkuICBDby1QSXMsIEcuTS4gUnVpeiwgQS5ILiBIaW5lcywgTC5ELiBTbWl0aCAmIEouVC4gQ2FybHRvbi4gICQ0NjEsMDAwLg0KDQogU21pdGhzb25pYW4gU2Nob2xhcmx5IFN0dWRpZXMgUHJvZ3JhbSAgKDE5OTQtMTk5Nik6ICBFZmZlY3RzIG9mIGJhbGxhc3Qgd2F0ZXIgdHJhbnNwb3J0IGFuZCBwcm9sb25nZWQgZGFya25lc3Mgb24gc3Vydml2YWwgYW5kIGRldmVsb3BtZW50IG9mIGV4b3RpYyBhcXVhdGljIHNwZWNpZXMuICBDby1QSXMsIEcuTS4gUnVpeiwgTC5ELiBTbWl0aCwgQS5ILiBIaW5lcyAmIEouVC4gQ2FybHRvbi4gICQ3MCwwMDAuDQoNCiBVLlMuIEZpc2ggJiBXaWxkbGlmZSBTZXJ2aWNlICAoMTk5NC0xOTk1KTogIEJpb2xvZ2ljYWwgaW52YXNpb25zIG9mIENoZXNhcGVha2UgQmF5OiBhIGhpc3RvcmljYWwgYW5hbHlzaXMuICBDby1QSSB3aXRoIEcuTS4gUnVpeiwgQS5ILiBIaW5lcywgTC5ELiBTbWl0aCwgRC5XLiBDb2F0cyAmIEouVC4gQ2FybHRvbi4gICQ3Miw1MDAuDQoNCiAgIFNpZ21hIFhpIEdyYW50cy1pbi1BaWQgb2YgUmVzZWFyY2ggKDE5ODcgJiAxOTg5KQ0KICAgSmVzc2UgU21pdGggTm95ZXMgRm91bmRhdGlvbiBHcmFudCAgKDE5ODgpIA0KICAgTGVybmVyLUdyYXkgRnVuZCBmb3IgTWFyaW5lIFJlc2VhcmNoICgxOTg3KQ0KDQoNCg0KKiBJbnRlcm5hbGx5IHJldmlld2VkIA0KDQpTbWl0aCBDb2xsZWdlIENvbW1pdHRlZSBvbiBGYWN1bHR5IENvbXBlbnNhdGlvbiAmIERldmVsb3BtZW50ICgyMDEwKS4gIFN0dWR5IG9mIHRoZSBpbmZsdWVuY2Ugb2YgcHJlZGF0b3IgZGVuc2l0eSwgcHJleSBwb3B1bGF0aW9uIHNvdXJjZSwgYW5kIHByZXkgcmVhcmluZyBsb2NhdGlvbiBvbiB0aGUgZXhwcmVzc2lvbiBvZiBpbmR1Y2VkIHNoZWxsIGRlZmVuc2VzIGluIGEgbmF0aXZlIHNuYWlsLiAgTC5ELiBTbWl0aC4gICQyLDA2Ny4NCg0KU21pdGggQ29sbGVnZSBDb21taXR0ZWUgb24gRmFjdWx0eSBDb21wZW5zYXRpb24gJiBEZXZlbG9wbWVudCAoMjAwOSkuICBTdHVkeSBvZiBlbnZpcm9ubWVudGFsIGZhY3RvcnMgYW5kIHNwYXRpYWwgYW5kIHRlbXBvcmFsIHNjYWxlcyBvZiBlY29sb2dpY2FsIGFybXMgcmFjZXMgYmV0d2VlbiBpbnRyb2R1Y2VkIHByZWRhdG9ycyBhbmQgbmF0aXZlIHByZXkuICBMLkQuIFNtaXRoLiAgJDIsMDc1Lg0KDQpTbWl0aCBDb2xsZWdlIENvbW1pdHRlZSBvbiBGYWN1bHR5IENvbXBlbnNhdGlvbiAmIERldmVsb3BtZW50ICgyMDA1KS4gIFRlc3RpbmcgZm9yIGV2aWRlbmNlIG9mIGFuIGVjb2xvZ2ljYWwgYXJtcyByYWNlIGJldHdlZW4gdGhlIGdyZWVuIGNyYWIgQ2FyY2ludXMgbWFlbmFzIGFuZCBMaXR0b3JpbmEgc25haWxzLiAgTC5ELiBTbWl0aC4gICQyLDY4MC4NCg0KU21pdGggQ29sbGVnZSBDb21taXR0ZWUgb24gRmFjdWx0eSBDb21wZW5zYXRpb24gJiBEZXZlbG9wbWVudCAoMjAwNCk6IFJlc2VhcmNoIGFzc2Vzc2luZyB0aGUgZWZmZWN0cyBvZiB0ZW1wZXJhdHVyZSBvbiBncm93dGggcmF0ZXMgb2YgQ2FyY2ludXMgbWFlbmFzIGF0IGRpZmZlcmVudCBsYXRpdHVkZXMuICAgTC5ELiBTbWl0aC4gICQyLDI1MC4NCiAgDQpTbWl0aCBDb2xsZWdlIENvbW1pdHRlZSBvbiBGYWN1bHR5IENvbXBlbnNhdGlvbiAmIERldmVsb3BtZW50ICgyMDAzKTogUmVzZWFyY2ggdXNpbmcganV2ZW5pbGUgQ2FyY2ludXMgbWFlbmFzIHRvIHN0dWR5IHRoZSBzdWNjZXNzIG9mIGEgd2lkZXNwcmVhZCBpbnZhZGVyLiAgIEwuRC4gU21pdGguICAkMiwyMDUuDQoNClNtaXRoIENvbGxlZ2UgQ29tbWl0dGVlIG9uIEZhY3VsdHkgQ29tcGVuc2F0aW9uICYgRGV2ZWxvcG1lbnQgKDIwMDIpOiAgVHJhdmVsIGFuZCBzdXBwb3J0IGZvciBmaWVsZCByZXNlYXJjaCBpbiBPcmVnb24uICBMLkQuIFNtaXRoLiAgJDEsNjM5Lg0KDQogU21pdGggQ29sbGVnZSBTY2llbmNlIFZlbnR1cmUgRnVuZCAoMjAwMi0yMDAzKTogVGVhY2hpbmcgaW5pdGlhdGl2ZSBpbiBJbnZlcnRlYnJhdGUgWm9vbG9neS4gIEwuRC4gU21pdGguICAkMTgsNjI1Lg0KDQpOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eSBTaG9ydCBUZXJtIFJlc2VhcmNoIEdyYW50IGluIENvb3BlcmF0aXZlIEVkdWNhdGlvbiAoMTk5Ny0xOTk4KTogSWRlbnRpZnlpbmcgc2tpbGxzIGFuZCBlc3RhYmxpc2hpbmcgbGlua3MgZm9yIG1hcmluZS1yZWxhdGVkIGNvb3BlcmF0aXZlIGVkdWNhdGlvbiBleHBlcmllbmNlcy4gTC5ELiBTbWl0aC4gJDMsOTgzLg0KDQpOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eSBSZXNlYXJjaCBhbmQgU2Nob2xhcnNoaXAgRGV2ZWxvcG1lbnQgRnVuZCAoMTk5Ni0xOTk3KTogSW52ZXN0aWdhdGluZyB0aGUgZWZmZWN0cyBvZiB2YXJpYXRpb24gaW4gcHJleSByZXNpc3RhbmNlIG9uIGNsYXcgbW9ycGhvbG9neSBhbmQgcGVyZm9ybWFuY2UgaW4gYW4gaW50cm9kdWNlZCBjcmFiLiAgTC5ELiBTbWl0aC4gJDgsOTAwLg0KDQpTbWl0aHNvbmlhbiBNYXJpbmUgU3RhdGlvbiBGdW5kICgxOTg5KQ0KQ2hlc2FwZWFrZSBCYXkgRnVuZCwgWm9vbG9neSwgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCAoMTk4NiwgMTk4NywgMTk4OCwgMTk4OSkNCkdyYWR1YXRlIFNjaG9vbCBGdW5kLCBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kICgxOTg2LCAxOTg4KQ0KDQo3KSBQdWJsaWNhdGlvbnMNCiogUmVmZXJlZWQgQXJ0aWNsZXMgYW5kIEJvb2sgQ2hhcHRlcnMgICgqIGluZGljYXRlcyBncmFkdWF0ZSBvciB1bmRlcmdyYWR1YXRlIHN0dWRlbnQgY28tYXV0aG9yIGF0IHRoZSB0aW1lIHJlc2VhcmNoIHdhcyBjb25kdWN0ZWQpDQoNCiBTbWl0aCBMLkQuIDIwMDkuICAiVGhlIHJvbGUgb2YgcGhlbm90eXBpYyBwbGFzdGljaXR5IGluIG1hcmluZSBpbnZhc2lvbnMiLiAgUHAuIDE3Ny0yMDIgaW4gRy4gUmlsb3YgYW5kIEouIENyb29rcyAoZWRzLikgQmlvbG9naWNhbCBJbnZhc2lvbnMgaW4gTWFyaW5lIEVjb3N5c3RlbXM6IEVjb2xvZ2ljYWwsIE1hbmFnZW1lbnQsIGFuZCBHZW9ncmFwaGljIFBlcnNwZWN0aXZlcy4gIEVjb2xvZ2ljYWwgU3R1ZGllcywgVm9sLiAyMDQuICBTcHJpbmdlci1WZXJsYWcsIEJlcmxpbi4NCg0KIEJhbGRyaWRnZSwgQS4qIGFuZCBMLiBELiBTbWl0aC4gMjAwOC4gICJUZW1wZXJhdHVyZSBjb25zdHJhaW50cyBvbiBwaGVub3R5cGljIHBsYXN0aWNpdHkgZXhwbGFpbiBiaW9nZW9ncmFwaGljIHBhdHRlcm5zIGluIHByZWRhdG9yIHRyb3BoaWMgbW9ycGhvbG9neS4iIE1hcmluZSBFY29sb2d5IFByb2dyZXNzIFNlcmllcyAgMzY1OiAyNS0zNC4NCg0KIFZlcmxpbmcsIEUuLCBHLk0uIFJ1aXosIEwuRC4gU21pdGgsIEIuIEdhbGlsLCBBLlcuIE1pbGxlciBhbmQgSy5SLiBNdXJwaHkuICAyMDA1LiAgIlN1cHBseS1zaWRlIGludmFzaW9uIGVjb2xvZ3k6IGNoYXJhY3Rlcml6aW5nIHByb3BhZ3VsZSBwcmVzc3VyZSBpbiBjb2FzdGFsIGVjb3N5c3RlbXMiLiAgUHJvY2VlZGluZ3Mgb2YgdGhlIFJveWFsIFNvY2lldHkgQiAyNzI6IDEyNDktMTI1Ni4NCiANCiBXZWlnbGUsIFMuVy4gKiwgTC5ELiBTbWl0aCwgSi5ULiBDYXJsdG9uIGFuZCBKLiBQZWRlcnNvbi4gIDIwMDUuICAiQXNzZXNzaW5nIHRoZSByaXNrcyBvZiBleG90aWMgc3BlY2llcyBpbnRyb2R1Y3Rpb25zIHZpYSB0aGUgbGl2ZSBtYXJpbmUgc3BlY2llcyB0cmFkZSIuICBDb25zZXJ2YXRpb24gQmlvbG9neSAxOTogMjEzLTIyMy4NCg0KIFNtaXRoLCBMLkQuICAyMDA0LiAgIkJpb2dlb2dyYXBoaWMgZGlmZmVyZW5jZXMgaW4gY2xhdyBzaXplIGFuZCBwZXJmb3JtYW5jZSBpbiBhbiBpbnRyb2R1Y2VkIGNyYWIgcHJlZGF0b3IgQ2FyY2ludXMgbWFlbmFzIi4gIE1hcmluZSBFY29sb2d5IFByb2dyZXNzIFNlcmllcyAyNzY6IDIwOS0yMjIuDQoNCiBTbWl0aCwgTC5ELiBhbmQgSi5BLiBKZW5uaW5ncyouICAyMDAwLiAgIkluZHVjZWQgZGVmZW5zaXZlIHJlc3BvbnNlcyBieSB0aGUgYml2YWx2ZSBNeXRpbHVzIGVkdWxpcyB0byBwcmVkYXRvcnMgd2l0aCBkaWZmZXJlbnQgYXR0YWNrIG1vZGVzIi4gIE1hcmluZSBCaW9sb2d5IDEzNjogNDYxLTQ2OS4NCiAgDQogV29uaGFtLCBNLiwgSi5ULiBDYXJsdG9uLCBHLk0uIFJ1aXogYW5kIEwuRC4gU21pdGguICAyMDAwLiAgIkZpc2ggYW5kIHNoaXBzOiByZWxhdGluZyBkaXNwZXJzYWwgZnJlcXVlbmN5IHRvIGludmFzaW9uIHN1Y2Nlc3MuIiAgTWFyaW5lIEJpb2xvZ3kgMTM2OiAxMTExLTExMjEuDQoNCiBUcnVzc2VsbCwgRy5DLiBhbmQgTC5ELiBTbWl0aC4gIDIwMDAuICAiSW5kdWNlZCBkZWZlbnNlcyBpbiByZXNwb25zZSB0byBhbiBpbnZhZGluZyBjcmFiIHByZWRhdG9yOiBhbiBleHBsYW5hdGlvbiBvZiBoaXN0b3JpY2FsIGFuZCBnZW9ncmFwaGljIHBoZW5vdHlwaWMgY2hhbmdlLiIgIFByb2NlZWRpbmdzIG9mIHRoZSBOYXRpb25hbCBBY2FkZW15IG9mIFNjaWVuY2VzIDk3OiAyMTIzLTIxMjcuDQoNCiBTbWl0aCwgTC5ELiwgTS5KLiBXb25oYW0sIEwuRC4gTWNDYW5uLCBHLk0uIFJ1aXosIEEuSC4gSGluZXMgYW5kIEouVC4gQ2FybHRvbi4gIDE5OTkuICAiSW52YXNpb24gcHJlc3N1cmUgdG8gYSBiYWxsYXN0LWZsb29kZWQgZXN0dWFyeSBhbmQgYW4gYXNzZXNzbWVudCBvZiBpbm9jdWxhbnQgc3Vydml2YWwuIiAgQmlvbG9naWNhbCBJbnZhc2lvbnMgMTogNjctODcuDQoNCiBMYXZvaWUsIEQuTS4qLCBMLkQuIFNtaXRoIGFuZCBHLk0uIFJ1aXouICAxOTk5LiAgIlRoZSBwb3RlbnRpYWwgZm9yIGludHJhY29hc3RhbCB0cmFuc2ZlciBvZiBub25pbmRpZ2Vub3VzIHNwZWNpZXMgaW4gdGhlIGJhbGxhc3Qgd2F0ZXIgb2Ygc2hpcHMuIiAgRXN0dWFyaW5lLCBDb2FzdGFsIGFuZCBTaGVsZiBTY2llbmNlIDQ4OiA1NTEtNTY0Lg0KDQogQnJvY2ssIFIuRS4qIGFuZCBMLkQuIFNtaXRoLiAgMTk5OC4gICJSZWNvdmVyeSBvZiBjbGF3IHNpemUgYW5kIGZ1bmN0aW9uIGZvbGxvd2luZyBhdXRvdG9teSBpbiBDYW5jZXIgcHJvZHVjdHVzIChEZWNhcG9kYTpCcmFjaHl1cmEpLiIgIFRoZSBCaW9sb2dpY2FsIEJ1bGxldGluIDE5NDogNTMtNjIuDQoNCiBKdWFuZXMsIEYuIGFuZCBMLkQuIFNtaXRoLiAgMTk5NS4gICJUaGUgZWNvbG9naWNhbCBjb25zZXF1ZW5jZXMgb2YgbGltYiBkYW1hZ2UgYW5kIGxvc3MgaW4gZGVjYXBvZCBjcnVzdGFjZWFuczogYSByZXZpZXcgYW5kIHByb3NwZWN0dXMuIiAgSm91cm5hbCBvZiBFeHBlcmltZW50YWwgTWFyaW5lIEJpb2xvZ3kgYW5kIEVjb2xvZ3kgMTkzOiAxOTctMjIzLg0KIA0KICAgU21pdGgsIEwuRC4gIDE5OTUuICJFZmZlY3RzIG9mIGxpbWIgYXV0b3RvbXkgYW5kIHRldGhlcmluZyBvbiBqdXZlbmlsZSBibHVlIGNyYWIgc3Vydml2YWwgZnJvbSBjYW5uaWJhbGlzbS4iICBNYXJpbmUgRWNvbG9neSBQcm9ncmVzcyBTZXJpZXMgMTE2OiA2NS03NC4gDQoNCiBTbWl0aCwgTC5ELiBhbmQgQS5SLiBQYWxtZXIuIDE5OTQuICJFZmZlY3RzIG9mIG1hbmlwdWxhdGVkIGRpZXQgb24gc2l6ZSBhbmQgcGVyZm9ybWFuY2Ugb2YgYnJhY2h5dXJhbiBjcmFiIGNsYXdzLiIgIFNjaWVuY2UgMjY0OiA3MTAtNzEyLg0KDQogU21pdGgsIEwuRC4gIDE5OTIuICJUaGUgaW1wYWN0IG9mIGxpbWIgYXV0b3RvbXkgb24gbWF0ZSBjb21wZXRpdGlvbiBpbiBibHVlIGNyYWJzIENhbGxpbmVjdGVzIHNhcGlkdXMgUmF0aGJ1bi4iICBPZWNvbG9naWEgODk6IDQ5NC01MDEuDQoNCiBTbWl0aCwgTC5ELiBhbmQgQS5ILiBIaW5lcy4gIDE5OTEuICAiVGhlIGVmZmVjdCBvZiBjaGVsaXBlZCBsb3NzIG9uIGJsdWUgY3JhYiBDYWxsaW5lY3RlcyBzYXBpZHVzICBSYXRoYnVuIGZvcmFnaW5nIHJhdGUgb24gc29mdC1zaGVsbCBjbGFtcyBNeWEgYXJlbmFyaWEgTC4iICBKb3VybmFsIG9mIEV4cGVyaW1lbnRhbCBNYXJpbmUgQmlvbG9neSBhbmQgRWNvbG9neSAxNTE6IDI0NS0yNTYuDQoNCiBTbWl0aCwgTC5ELiBhbmQgQS5ILiBIaW5lcy4gMTk5MS4gICJBdXRvdG9teSBmcmVxdWVuY3kgaW4gYmx1ZSBjcmFiIChDYWxsaW5lY3RlcyBzYXBpZHVzKSBwb3B1bGF0aW9uczogZ2VvZ3JhcGhpYywgdGVtcG9yYWwsIGFuZCBvbnRvZ2VuZXRpYyB2YXJpYXRpb24uIiAgVGhlIEJpb2xvZ2ljYWwgQnVsbGV0aW4gMTgwOiA0MTYtNDMxLiANCg0KIFNtaXRoLCBMLkQuICAxOTkwLiAiUGF0dGVybnMgb2YgbGltYiBsb3NzIGluIHRoZSBibHVlIGNyYWIsIENhbGxpbmVjdGVzIHNhcGlkdXMgIFJhdGhidW4sIGFuZCB0aGUgZWZmZWN0cyBvZiBhdXRvdG9teSBvbiBncm93dGguIiAgQnVsbGV0aW4gb2YgTWFyaW5lIFNjaWVuY2UgNDY6IDIzLTM2Lg0KDQogU21pdGgsIEwuRC4gYW5kIEIuQy4gQ291bGwuICAxOTg3LiAgIkp1dmVuaWxlIHNwb3QgKFBpc2NlcykgYW5kIGdyYXNzIHNocmltcCBwcmVkYXRpb24gb24gbWVpb2JlbnRob3MgaW4gbXVkZHkgYW5kIHNhbmR5IHN1YnN0cmF0ZXMuIiAgSm91cm5hbCBvZiBFeHBlcmltZW50YWwgTWFyaW5lIEJpb2xvZ3kgYW5kIEVjb2xvZ3kgMTA1OiAxMjMtMTM5Lg0KDQoqIFB1Ymxpc2hlZCBSZXBvcnRzDQpSdWl6LCBHLk0uLCBMLkQuIFNtaXRoLCBBLiBIaW5lcywgSi5ULiBDYXJsdG9uIGFuZCBELlcuIENvYXRzLiAxOTk4LiAiQmFsbGFzdCB3YXRlciBhbmQgbm9uLWluZGlnZW5vdXMgc3BlY2llcyBpbiBVUyBjb2FzdGFsIHdhdGVycyIuIFBwLiA1LTEwIEluOiAgSi4gVC4gQ2FybHRvbiAoZWQuKSAgQmFsbGFzdCBXYXRlcjogRWNvbG9naWNhbCBhbmQgRmlzaGVyaWVzIEltcGxpY2F0aW9ucy4gSW50ZXJuYXRpb25hbCBDb3VuY2lsIGZvciB0aGUgRXhwbG9yYXRpb24gb2YgdGhlIFNlYSwgSUNFUyBDb29wZXJhdGl2ZSBSZXNlYXJjaCBSZXBvcnQgTm8uIDIyNCwgMTQ2IHBwLg0KDQpTbWl0aCwgTC5ELiwgTS5KLiBXb25oYW0sIEwuRC4gTWNDYW5uLCBELk0uIFJlaWQsIEcuTS4gUnVpeiBhbmQgSi5ULiBDYXJsdG9uLiAgMTk5Ni4gU2hpcHBpbmcgU3R1ZHkgSUkuIEJpb2xvZ2ljYWwgaW52YXNpb25zIGJ5IG5vbmluZGlnZW5vdXMgc3BlY2llcyBpbiBVbml0ZWQgU3RhdGVzIHdhdGVyczogUXVhbnRpZnlpbmcgdGhlIHJvbGUgb2YgYmFsbGFzdCB3YXRlciBhbmQgc2VkaW1lbnRzLCBQYXJ0cyBJIGFuZCBJSS4gVGhlIE5hdGlvbmFsIFNlYSBHcmFudCBDb2xsZWdlIFByb2dyYW0vQ29ubmVjdGljdXQgU2VhIEdyYW50IFByb2plY3QgUi9FUy02LiBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBVbml0ZWQgU3RhdGVzIENvYXN0IEd1YXJkLCBXYXNoaW5ndG9uLCBELkMuIGFuZCBHcm90b24sIENvbm5lY3RpY3V0LiAgUmVwb3J0IG51bWJlciBVU0NHLUQtMDItOTcuIEdvdmVybm1lbnQgYWNjZXNzaW9uIG51bWJlciBBRC1BMzIxNTQzLiB4eHYgKyA5NyBwcC4gKyBBcHBlbmRpY2VzIEEtTS4NCg0KKiBBYnN0cmFjdHMgDQpTbWl0aCwgTC5ELiBhbmQgRS5LLiBUaG9tYXMqLiAyMDA0LiAgIkJpb2dlb2dyYXBoaWMgZGlmZmVyZW5jZXMgaW4gY2xhdyBzaXplIGFuZCBwZXJmb3JtYW5jZSBpbiBhbiBpbnRyb2R1Y2VkIGNyYWIgcHJlZGF0b3I6IGV2aWRlbmNlIG9mIGFuIGVtZXJnaW5nIGFybXMgcmFjZT8iIEFTTE8vVE9TIE9jZWFuIFJlc2VhcmNoIDIwMDQgQ29uZmVyZW5jZSwgRmVicnVhcnkgMTUtMjAsIDIwMDQuIEFtZXJpY2FuIFNvY2lldHkgb2YgTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkuICBIb25vbHVsdSwgSEkuDQoNCiBTbWl0aCwgTC5ELiwgRC5NLiBMYXZvaWUsKiBHLk0uIFJ1aXogYW5kIEIuUy4gR2FsaWwuIDIwMDEuICAiQ2hhbmdlcyBpbiBiYWxsYXN0IHdhdGVyIGJpb3RhIGR1cmluZyBpbnRyYWNvYXN0YWwgYW5kIHRyYW5zb2NlYW5pYyB2b3lhZ2VzIi4gUHAuIDI3OC0yODEgaW4gUGVkZXJzb24sIEouIChlZC4pLCAgTWFyaW5lIEJpb2ludmFzaW9uczogUHJvY2VlZGluZ3Mgb2YgdGhlIEZpcnN0IE5hdGlvbmFsIENvbmZlcmVuY2UsIEphbnVhcnkgMjQtMjcsIDE5OTkuICBNSVQgU2VhIEdyYW50IENvbGxlZ2UgUHJvZ3JhbSwgTUlUU0cgMjAtMi4gIENhbWJyaWRnZSwgTUEuIA0KDQogRnJlZW1hbiwgQS5TLiogYW5kIEwuRC4gU21pdGguICAyMDAxLiAgIkdyYXppbmcgcHJlc3N1cmUgb24gZW5kZW1pYyBhbmQgaW50cm9kdWNlZCBzdWJzcGVjaWVzIG9mIENvZGl1bSBmcmFnaWxlIi4gIFBwLiAxNzUtMTc2IGluIFBlZGVyc29uLCBKLiAoZWQuKSwgTWFyaW5lIEJpb2ludmFzaW9uczogUHJvY2VlZGluZ3Mgb2YgdGhlIEZpcnN0IE5hdGlvbmFsIENvbmZlcmVuY2UsIEphbnVhcnkgMjQtMjcsIDE5OTkuICBNSVQgU2VhIEdyYW50IENvbGxlZ2UgUHJvZ3JhbSwgTUlUU0cgMjAtMi4gIENhbWJyaWRnZSwgTUEuIA0KDQogU21pdGgsIEwuRC4gYW5kIEcuQy4gVHJ1c3NlbGwqLiAgMjAwMS4gICJUaGUgaW5mbHVlbmNlIG9mIHdhdGVyIHRlbXBlcmF0dXJlIG9uIGluZHVjZWQgZGVmZW5zaXZlIHJlc3BvbnNlcyBieSBhbiBpbnRlcnRpZGFsIHNuYWlsIHRvIGFuIGludHJvZHVjZWQgY3JhYiBwcmVkYXRvciIuIFAuIDQxMSBpbiBQZWRlcnNvbiwgSi4gKGVkLiksIE1hcmluZSBCaW9pbnZhc2lvbnM6IFByb2NlZWRpbmdzIG9mIHRoZSBGaXJzdCBOYXRpb25hbCBDb25mZXJlbmNlLCBKYW51YXJ5IDI0LTI3LCAxOTk5LiAgTUlUIFNlYSBHcmFudCBDb2xsZWdlIFByb2dyYW0sIE1JVFNHIDIwLTIuIENhbWJyaWRnZSwgTUEuIA0KDQogU21pdGgsIEwuLCBCLiBHYWxpbCBhbmQgRy4gUnVpei4gMjAwMC4gICJVbmRlcnN0YW5kaW5nIHBhdGh3YXkgY29tcGxleGl0eTogY2hhbmdlcyBpbiBiYWxsYXN0IHdhdGVyIGJpb3RhIGR1cmluZyB0cmFuc29jZWFuaWMgdm95YWdlcyIuICBBcXVhdGljIFNjaWVuY2VzIE1lZXRpbmcsIEFTTE8gSnVuZSA1LTksIDIwMDAsIENvcGVuaGFnZW4sIERlbm1hcmsuIEFtZXJpY2FuIFNvY2lldHkgb2YgTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkuDQoNCiBTbWl0aCwgRC4sIE0uIFdvbmhhbSwgTC4gTWNDYW5uLCBHLiBSdWl6LCBKLiBDYXJsdG9uIGFuZCBELiBMYXZvaWUqLiAgMTk5Ny4gIlRoZSByb2xlIG9mIGJhbGxhc3Qgd2F0ZXIgaW4gdHJhbnNwb3J0aW5nIG5vbmluZGlnZW5vdXMgc3BlY2llcyB0byBVLlMuIHdhdGVycyIuICBQcm9jZWVkaW5ncyBvZiB0aGUgU2Vjb25kIE5vcnRoZWFzdCBDb25mZXJlbmNlIG9uIE5vbmluZGlnZW5vdXMgQXF1YXRpYyBOdWlzYW5jZSBTcGVjaWVzLCBQdWJsLiBOby4gQ1RTRy05Ny0wMi4gIENvbm5lY3RpY3V0IFNlYSBHcmFudCBDb2xsZWdlIFByb2dyYW0uICBVbml2ZXJzaXR5IG9mIENvbm5lY3RpY3V0LCBHcm90b24sIENULg0KDQoqIEJvb2sgcmV2aWV3cw0KSGluZXMsIEEuSC4gYW5kIEwuRC4gU21pdGguICJDcnVzdGFjZWFuIE1hdGluZyBCZWhhdmlvciIuIEJvb2sgcmV2aWV3IG9mIENydXN0YWNlYW4gU2V4dWFsIEJpb2xvZ3kuICBTY2llbmNlIDI1MyAoMTk5MSk6IDEwNDUtMTA0Ni4NCg0KKiAgTmV3c2xldHRlcnMNClNtaXRoLCBMLkQuICJEaXJlY3RvcidzIENvcm5lciIuICBTbWl0aCBDb2xsZWdlIEVudmlyb25tZW50YWwgU2NpZW5jZSBhbmQgUG9saWN5IE5ld3NsZXR0ZXIuICBGYWxsICYgU3ByaW5nIGlzc3VlcyAyMDA2LCAyMDA3LCAyMDEwIGFuZCBTcHJpbmcgMjAxMS4NCg0KU21pdGgsIEwuRC4gIkNoZXNhcGVha2UgQmF5IGJhbGxhc3Qgc3R1ZHkiLiAgQWxpZW5zIDEgKDE5OTUpOiAxNi4gQ2VudHJlIGZvciBDb25zZXJ2YXRpb24gQmlvbG9neSwgVW5pdmVyc2l0eSBvZiBBdWNrbGFuZCwgQXVrbGFuZCwgTmV3IFplYWxhbmQuDQoNCkNhcmx0b24sIEouVC4sIEcuIFJ1aXosIEQuIFNtaXRoIGFuZCBBLiBIaW5lcy4gIkJhbGxhc3Qgd2F0ZXIiLiAgQWxpZW5zIDEoMTk5NSk6IDE4LTE5LiAgQ2VudHJlIGZvciBDb25zZXJ2YXRpb24gQmlvbG9neSwgVW5pdmVyc2l0eSBvZiBBdWNrbGFuZCwgQXVrbGFuZCwgTlouDQoNClJ1aXosIEcuTS4sIEEuSC4gSGluZXMsIEwuRC4gU21pdGggYW5kIEouVC4gQ2FybHRvbi4gICJBbiBoaXN0b3JpY2FsIHBlcnNwZWN0aXZlIG9uIGludmFzaW9ucyBvZiBOb3J0aCBBbWVyaWNhbiB3YXRlcnMgYnkgbm9uaW5kaWdlbm91cyBzcGVjaWVzIi4gIEFxdWF0aWMgTnVpc2FuY2UgU3BlY2llcyBEaWdlc3QgMSAoMTk5NSk6IDEsIDExLiBGcmVzaHdhdGVyIEZvdW5kYXRpb24uIFdheXphdGEsIE1pbm5lc290YS4NCg0KKiBEaXNzZXJ0YXRpb24gJiBUaGVzaXMNClNtaXRoLCBMLkQuICAxOTkwLiAgVGhlIGZyZXF1ZW5jeSBhbmQgZWNvbG9naWNhbCBjb25zZXF1ZW5jZXMgb2YgbGltYiBhdXRvdG9teSBpbiB0aGUgYmx1ZSBjcmFiLCBDYWxsaW5lY3RlcyBzYXBpZHVzICBSYXRoYnVuLiAgUGguRC4gZGlzc2VydGF0aW9uLiAgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCwgQ29sbGVnZSBQYXJrLCBNYXJ5bGFuZC4gMjU5IHBwLg0KDQpTbWl0aCwgTC5ELiAgMTk4NS4gIEp1dmVuaWxlIHNwb3QgKExlaW9zdG9tdXMgeGFudGh1cnVzKSBwcmVkYXRpb24gb24gbWVpb2ZhdW5hIGluIG11ZGR5IGFuZCBzYW5keSBzdWJzdHJhdGVzLiBNLlMuIHRoZXNpcy4gIFVuaXZlcnNpdHkgb2YgU291dGggQ2Fyb2xpbmEsIENvbHVtYmlhLCBTb3V0aCBDYXJvbGluYS4gIDQ2IHBwLg0KDQoqIFdvcmtzIGluIFByb2dyZXNzDQpTbWl0aCwgTC5ELiwgS2F0aGxlZW4gTS4gSG9ybmJ5KiwgVHV5ZXQgSHV5bmgtV2VpcyosIEJhc21hIEEuIE1vaGFtbWFkKiwgRWxpemFiZXRoIEsuIFRob21hcyosIEp1ZGl0aCBQZWRlcnNvbiBhbmQgSmFtZXMgVC4gQ2FybHRvbi4gIlN1cmZpbmcgdGhlIEJpb3dlYjrCoCBUaGUgSW50ZXJuZXQgYXMgYSBkaXNwZXJzYWwgbWVjaGFuaXNtIGZvciBtYXJpbmUgcGxhbnRzLCBhbmltYWxzLCBhbmQgc3Rvd2F3YXlzIi4gIEluIHByZXAuDQoNClNtaXRoLCBMLkQuLCBTLiBUdWNrZXIqLCBZLiBMdSosIFIuIFN0ZWluKiwgTy4gQ2FwKi4gIlB1c2hlZCB0byB0aGUgYnJlYWtpbmcgcG9pbnQ6IGdlb2dyYXBoaWMgZGlmZmVyZW5jZXMgaW4gY2xhdyBjdXRpY2xlIHRoaWNrbmVzcyBhbmQgc3RyZW5ndGggaW4gYW4gaW52YXNpdmUgbWFyaW5lIGNyYWIiLiAgIEluIHByZXAuDQoNCkNhbGxhZ2hhbiwgRS4qIGFuZCBMLkQuIFNtaXRoLiAiVGhlIGFsbG9tZXRyeSBvZiBpbnZhc2l2ZSBjcmFiLW5hdGl2ZSBwcmV5IHNpemUgaW50ZXJhY3Rpb25zIGF0IGRpZmZlcmVudCB0ZW1wZXJhdHVyZXM6IGEgcHJlZGljdG9yIG9mIGludmFzaW9uIHN1Y2Nlc3M/IiBJbiBwcmVwLg0KICANClNtaXRoLCBMLkQuLCBKLiBBbnNhbml0aXMqLCBLLiBILiBIb3JuYnkqIGFuZCBFLiBLLiBUaG9tYXMqLiAgIkd1ZXNzIHdoYXQncyBjb21pbmcgdG8gZGlubmVyOiBoaXRjaGhpa2luZyBzcGVjaWVzIGluIHNoaXBtZW50cyBvZiBsaXZlIHNlYWZvb2QiLiAgSW4gcHJlcC4NCiANClRydXNzZWxsLCBHLkMuIGFuZCBMLkQuIFNtaXRoLiAgIlRoZSBlZmZlY3RzIG9mIHdhdGVyIHRlbXBlcmF0dXJlIGFuZCBwcmVkYXRvciBjdWVzIG9uIHNoZWxsIHRoaWNrbmVzcyBhbmQgbGlmZSBoaXN0b3J5IGNoYXJhY3RlcmlzdGljcyBvZiBhbiBpbnRlcnRpZGFsIHNuYWlsLiIgSW4gcHJlcC4NCg0KOCkgQ29uY2VydHMsIFBlcmZvcm1hbmNlcywgYW5kIEV4aGliaXRpb25zICAgTm90IEFwcGxpY2FibGUNCg0KOSkgU2Nob2xhcmx5IExlY3R1cmVzIGFuZCBQcm9mZXNzaW9uYWwgUHJlc2VudGF0aW9ucyAoKiBpbmRpY2F0ZXMgZ3JhZHVhdGUgb3IgdW5kZXJncmFkdWF0ZSBzdHVkZW50IGNvLWF1dGhvcjsgZmlyc3QgYXV0aG9yIGxpc3RlZCBnZW5lcmFsbHkgd2FzIHRoZSBwcmVzZW50ZXIpDQoNCiogUHJlc2VudGF0aW9ucyBhdCBOYXRpb25hbCBvciBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2VzDQpTbWl0aCwgTC5ELiAiVGhlIHJvbGUgb2YgcGhlbm90eXBpYyBwbGFzdGljaXR5IGluIG1hcmluZSBiaW9sb2dpY2FsIGludmFzaW9ucy4iIFNpeHRoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBNYXJpbmUgQmlvaW52YXNpb25zLCBBdWcuIDIzLTI3LCAyMDA5LCBQb3J0bGFuZCwgT1IuDQpCYWxkcmlkZ2UsIEEuSy4qIGFuZCBMLkQuIFNtaXRoLiAgIkRpc3BhdGNoZXMgZnJvbSBhbiBpbnZhc2lvbiBmcm9udDogZG9lcyB3YXRlciB0ZW1wZXJhdHVyZSBkZXRlcm1pbmUgdGhlIG91dGNvbWUgb2YgYW4gZWNvbG9naWNhbCBhcm1zIHJhY2UgYmV0d2VlbiBhbiBpbnRyb2R1Y2VkIGNyYWIgYW5kIGl0cyBhcm1vcmVkIHByZXk/IiBTaXh0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucywgQXVnLiAyMy0yNywgMjAwOSwgUG9ydGxhbmQsIE9SLg0KU21pdGgsIEwuRC4gYW5kIEsuTS4gSG9ybmJ5Ki4gICJUaGUgSW50ZXJuZXQgYXMgYSBkaXNwZXJzYWwgbWVjaGFuaXNtIGZvciBsaXZlIG1hcmluZSBzcGVjaWVzIi4gIEZpZnRoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBNYXJpbmUgQmlvaW52YXNpb25zLCBNYXkgMjEtMjQsIDIwMDcsIENhbWJyaWRnZSwgTUEuDQpCYWxkcmlkZ2UsIEEuSy4qIGFuZCBMLkQuIFNtaXRoLiAgIlBoZW5vdHlwaWMgcGxhc3RpY2l0eSBpbiBjbGF3IG1vcnBob2xvZ3kgb2YgdGhlIGludHJvZHVjZWQgY3JhYiwgQ2FyY2ludXMgbWFlbmFzLCBpbiByZXNwb25zZSB0byBuYXR1cmFsIHZhcmlhdGlvbiBpbiBwcmV5IGFybW9yIGFuZCB3YXRlciB0ZW1wZXJhdHVyZS4iICBGaWZ0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucywgTWF5IDIxLTI0LCAyMDA3LCBDYW1icmlkZ2UsIE1BLg0KU21pdGgsIEwuRC4gYW5kIEUuQS4gQ2FsbGFnaGFuKi4gICJUaGUgYWxsb21ldHJ5IG9mIGludmFzaXZlIGNyYWItbmF0aXZlIHByZXkgc2l6ZSBpbnRlcmFjdGlvbnMgYXQgZGlmZmVyZW50IHRlbXBlcmF0dXJlczogYSBwcmVkaWN0b3Igb2YgaW52YXNpb24gc3VjY2Vzcz8iICBGaWZ0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucywgTWF5IDIxLTI0LCAyMDA3LCBDYW1icmlkZ2UsIE1BLg0KU21pdGgsIEwuRC4gYW5kIEEuSy4gQmFsZHJpZGdlKi4gIkFyZSBpbnRyb2R1Y2VkIGNyYWJzIGFuZCBuYXRpdmUgc25haWxzIGVuZ2FnZWQgaW4gYW4gZWNvbG9naWNhbCBhcm1zIHJhY2UiLiAgU2l4dGggSW50ZXJuYXRpb25hbCBDcnVzdGFjZWFuIENvbmdyZXNzLCBKdWwuIDE4LTIyLCAyMDA1LCBHbGFzZ293LCBTY290bGFuZC4NCkNhbGxhZ2hhbiwgRS5BLiogYW5kIEwuRC4gU21pdGguICAiVGhlIGFsbG9tZXRyeSBvZiBpbnZhc2l2ZSBjcmFiLW5hdGl2ZSBwcmV5IHNpemUgaW50ZXJhY3Rpb25zOiBhIHByZWRpY3RvciBvZiBpbnZhc2lvbiBzdWNjZXNzPyIgIFNpeHRoIEludGVybmF0aW9uYWwgQ3J1c3RhY2VhbiBDb25ncmVzcywgSnVsLiAxOC0yMiwgMjAwNSwgR2xhc2dvdywgU2NvdGxhbmQuDQpTbWl0aCwgTC5ELiBhbmQgRS5LLiBUaG9tYXMqLiAgIkJpb2dlb2dyYXBoaWMgZGlmZmVyZW5jZXMgaW4gY2xhdyBzaXplIGFuZCBwZXJmb3JtYW5jZSBpbiBhbiBpbnRyb2R1Y2VkIGNyYWIgcHJlZGF0b3I6IGV2aWRlbmNlIG9mIGFuIGVtZXJnaW5nIGFybXMgcmFjZT8iIE9jZWFuIFJlc2VhcmNoIENvbmZlcmVuY2UuICBBbWVyaWNhbiBTb2NpZXR5IG9mIExpbW5vbG9neSBhbmQgT2NlYW5vZ3JhcGh5LiAgRmViLiAxNS0yMCwgMjAwNCwgSG9ub2x1bHUsIEhJLg0KU21pdGgsIEwuRC4sIEUuSy4gVGhvbWFzKiwgSy5NLiBIb3JuYnkqLCBTLk0uIFdlaWdsZSwgIEouIFBlZGVyc29uIGFuZCBKLlQuIENhcmx0b24uICAiSWRlbnRpZnlpbmcgcG90ZW50aWFsIGludmFkZXJzIGFtb25nIGltcG9ydGVkIG1hcmluZSBzcGVjaWVzIi4gIFRoaXJkIA0KSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIE1hcmluZSBCaW9pbnZhc2lvbnMsIE1hci4gMTYtMTksIDIwMDMsIExhIEpvbGxhLCBDQS4gDQpTbWl0aCwgTC5ELiBhbmQgRS5LLiBUaG9tYXMqLiAgIkJpb2dlb2dyYXBoaWMgdmFyaWF0aW9uIGluIGNsYXcgc2l6ZSBhbmQgcGVyZm9ybWFuY2UgaW4gYW4gaW50cm9kdWNlZCBjcmFiIHByZWRhdG9yOiBldmlkZW5jZSBvZiBhbiBlbWVyZ2luZyBhcm1zIHJhY2U/IiBUaGlyZCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucywgTWFyLiAxNi0xOSwgMjAwMywgTGEgSm9sbGEsIENBLiANCldlaWdsZSwgUy5NLiwgTC5ELiBTbWl0aCwgSi4gUGVkZXJzb24gYW5kIEouVC4gQ2FybHRvbi4gICJUaGUgbGl2ZSBtYXJpbmUgc3BlY2llcyB0cmFkZSBhbmQgcG90ZW50aWFsIHJpc2tzIGZvciBleG90aWMgc3BlY2llcyBpbnRyb2R1Y3Rpb25zIi4gIFRoaXJkIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBNYXJpbmUgQmlvaW52YXNpb25zLCBNYXIuIDE2LTE5LCAyMDAzLCBMYSBKb2xsYSwgQ0EuIA0KICBTbWl0aCwgTC5ELiBhbmQgRS4gQnJlaXRiYXJ0aCouICAiT3h5Z2VuIGR5bmFtaWNzIGluIHR1cmYgYWxnYWUgY2Fub3BpZXMgb24gY29yYWwgcmVlZnMiLCBPY2VhbiBTY2llbmNlcyBNZWV0aW5nLiAgIEFtZXJpY2FuIFNvY2lldHkgb2YgTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkuICBIb25vbHVsdSwgSEksIDIwMDIuDQogIFNtaXRoLCBMLkQuLCBTLk0uIFdpbGxhcmQqLCBKLiBQZWRlcnNvbiBhbmQgSi5ULiBDYXJsdG9uLiAgIklkZW50aWZ5aW5nIHBhdGh3YXlzIGZvciBtYXJpbmUgYmlvaW52YWRlcnMgaW50byBhbmQgb3V0IG9mIE5ldyBFbmdsYW5kIiwgTWFyaW5lIENvbnNlcnZhdGlvbiBCaW9sb2d5IFN5bXBvc2l1bSwgU2FuIEZyYW5jaXNjbywgQ0EsIDIwMDEuDQogIFdpbGxhcmQsIFMuTS4qLCBMLkQuIFNtaXRoLCBKLiBQZWRlcnNvbiBhbmQgSi5ULiBDYXJsdG9uLiAgIklkZW50aWZ5aW5nIHBhdGh3YXlzIGZvciBtYXJpbmUgYmlvaW52YWRlcnMgaW50byBhbmQgb3V0IG9mIGEgTmV3IEVuZ2xhbmQgc3RhdGUiLCAgSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIE1hcmluZSBCaW9pbnZhc2lvbnMuICBOZXcgT3JsZWFucywgTEEsIDIwMDEuDQogIEFsdG1hbiwgUy4sIEcuIFJ1aXosIEwuIE1jQ2FubiwgSy4gUGhpbGlwcywgQS4gSGluZXMsIEwuIFNtaXRoLCBNLiBXb25oYW0gYW5kIEouIENhcmx0b24uICAiU3BhdGlhbCBhbmQgdGVtcG9yYWwgdmFyaWF0aW9uIGluIHByb3BhZ3VsZSBwcmVzc3VyZSB0byBDaGVzYXBlYWtlIEJheSIsICBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucy4gIE5ldyBPcmxlYW5zLCBMQSwgMjAwMS4NCiAgU21pdGgsIEwuRC4sIEIuUy4gR2FsaWwgYW5kIEcuTS4gUnVpei4gIlVuZGVyc3RhbmRpbmcgcGF0aHdheSBjb21wbGV4aXR5OiBjaGFuZ2VzIGluIGJhbGxhc3Qgd2F0ZXIgYmlvdGEgZHVyaW5nIHRyYW5zb2NlYW5pYyB2b3lhZ2VzIiwgIFJlc2VhcmNoIEFjcm9zcyBCb3VuZGFyaWVzLiAgQW1lcmljYW4gU29jaWV0eSBvZiBMaW1ub2xvZ3kgYW5kIE9jZWFub2dyYXBoeS4gIENvcGVuaGFnZW4sIERlbm1hcmssIDIwMDAuDQogIFRydXNzZWxsLCBHLkMuKiBhbmQgTC5ELiBTbWl0aC4gICJJbmR1Y2VkIGRlZmVuc2VzIG1heSBleHBsYWluIGhpc3RvcmljYWwgYW5kIGdlb2dyYXBoaWMgcGhlbm90eXBpYyBjaGFuZ2UiLCBCZW50aGljIEVjb2xvZ3kgTWVldGluZywgV2lsbWluZ3RvbiwgTkMsIDIwMDAuDQogIFRydXNzZWxsLCBHLkMuKiBhbmQgTC5ELiBTbWl0aC4gICJNb3JwaG9sb2dpY2FsIHBsYXN0aWNpdHkgYW5kIHRyYWRlLW9mZnMgaW5kdWNlZCBieSBhbiBpbnZhZGluZyBjcmFiIHByZWRhdG9yIiwgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEV2b2x1dGlvbiwgTWFkaXNvbiwgV0ksIDE5OTkuDQogIEZyZWVtYW4sIEEuUy4qIGFuZCBMLkQuIFNtaXRoLiAiR3JhemluZyBwcmVzc3VyZSBvbiBlbmRlbWljIGFuZCBpbnRyb2R1Y2VkIHN1YnNwZWNpZXMgb2YgQ29kaXVtIGZyYWdpbGUgIiwgQmVudGhpYyBFY29sb2d5IE1lZXRpbmcsICBCYXRvbiBSb3VnZSwgTEEsIDE5OTkuDQogIFNtaXRoLCBMLkQuIGFuZCBHLkMuIFRydXNzZWxsLiogICJUaGUgaW5mbHVlbmNlIG9mIHdhdGVyIHRlbXBlcmF0dXJlIG9uIGluZHVjZWQgZGVmZW5zaXZlIHJlc3BvbnNlcyBieSBhbiBpbnRlcnRpZGFsIHNuYWlsIHRvIGFuIGludHJvZHVjZWQgY3JhYiBwcmVkYXRvciIsIE5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucywgIENhbWJyaWRnZSwgTUEsIDE5OTkuIA0KICBTbWl0aCwgTC5ELiwgRC5NLiBMYXZvaWUqLCBHLk0uIFJ1aXogYW5kIEIuUy4gR2FsaWwuICAiQ2hhbmdlcyBpbiBiYWxsYXN0IHdhdGVyIGJpb3RhIGR1cmluZyBpbnRlcmNvYXN0YWwgYW5kIHRyYW5zb2NlYW5pYyB2b3lhZ2VzIiwgIE5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucywgQ2FtYnJpZGdlLCBNQSwgMTk5OS4gDQoNCg0KICBGcmVlbWFuLCBBLlMuKiBhbmQgTC5ELiBTbWl0aC4gIkdyYXppbmcgcHJlc3N1cmUgb24gZW5kZW1pYyBhbmQgaW50cm9kdWNlZCBzdWJzcGVjaWVzIG9mIENvZGl1bSBmcmFnaWxlIiwgIE5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTWFyaW5lIEJpb2ludmFzaW9ucywgQ2FtYnJpZGdlLCBNQSwgMTk5OS4gDQogIEZyZXksIE0uLCBHLk0uIFJ1aXosIEEuSC4gSGluZXMsIFMuIEFsdG1hbiwgTC5ELiBNY0Nhbm4sIEsuQS4gUGhpbGlwcywgRy4gU21pdGggYW5kIEwuRC4gU21pdGguICJNZWFzdXJpbmcgdGhlIGVmZmljYWN5IG9mIGJhbGxhc3Qgd2F0ZXIgZXhjaGFuZ2UiLCAgTmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBNYXJpbmUgQmlvaW52YXNpb25zLCBDYW1icmlkZ2UsIE1BLCAxOTk5LiANCiAgTGF2b2llLCBELiosIEQuIFNtaXRoLCBMLk1jQ2FubiBhbmQgRy4gUnVpei4gICJUaGUgcG90ZW50aWFsIGZvciBpbnRyYWNvYXN0YWwgdHJhbnNmZXIgb2Ygbm9uaW5kaWdlbm91cyBzcGVjaWVzIHZpYSBzaGlwcycgYmFsbGFzdCB3YXRlciIsIEJlbnRoaWMgRWNvbG9neSBNZWV0aW5nLCBQb3J0bGFuZCwgTUUsIDE5OTcuDQogIFJ1aXosIEcuLCBELiBTbWl0aCwgQS4gSGluZXMsIEQuIENvYXRzLCBMLiBNY0Nhbm4sIE0uIFdvbmhhbSBhbmQgSi4gQ2FybHRvbi4gIlUuUy4gcmVzZWFyY2ggcHJvZ3JhbSBpbiBiYWxsYXN0IHdhdGVyIGludmFzaW9uczogbW9uaXRvcmluZyBhbmQgZXhwZXJpbWVudGFsIHN0dWRpZXMgaW4gQ2hlc2FwZWFrZSBCYXkiLCBJbnRlcm5hdGlvbmFsIENvdW5jaWwgZm9yIHRoZSBFeHBsb3JhdGlvbiBvZiB0aGUgU2VhIEFubnVhbCBDb25mZXJlbmNlLCBBYWxib3JnLCBEZW5tYXJrLCAxOTk1LiANCiAgU21pdGgsIEQuLCBHLiBSdWl6LCBKLiBDYXJsdG9uLCBBLiBIaW5lcywgTS4gV29uaGFtLCBMLiBNY0Nhbm4sIFcuIFdhbHRvbiosIEEuIEZyZXNlIGFuZCBCLiBHYWxpbC4gIkxhcnZhbCBkaXNwZXJzYWwgb2YgYSBkaWZmZXJlbnQga2luZDogdHJhbnNvY2VhbmljIHRyYW5zZmVyIGluIHNoaXAncyBiYWxsYXN0IHdhdGVyIiwgTGFydmFsIEJpb2xvZ3kgTWVldGluZ3MsIEZvcnQgUGllcmNlLCBGTCwgIDE5OTUuDQogICAgIFJ1aXosIEcuLCBKLiBDYXJsdG9uLCBELiBTbWl0aCwgTS4gV29uaGFtLCBBLiBIaW5lcywgTC4gTWNDYW5uIGFuZCBXLiBXYWx0b24uKiAgIlBhdHRlcm5zIG9mIG5vbi1pbmRpZ2Vub3VzIHNwZWNpZXMgdHJhbnNmZXIgaW4gYmFsbGFzdCB3YXRlciBvZiBzaGlwczogYSBiaS1jb2FzdGFsIGNvbXBhcmlzb24gZm9yIFUuUy4gcG9ydHMiLCAgQmVudGhpYyBFY29sb2d5IE1lZXRpbmcsICBOZXcgQnJ1bnN3aWNrLCBOSiwgMTk5NS4NCiAgU21pdGgsIEwuRC4gYW5kIEEuUi4gUGFsbWVyLiAgIkVmZmVjdHMgb2YgbWFuaXB1bGF0ZWQgZGlldCBvbiBzaXplIGFuZCBwZXJmb3JtYW5jZSBvZiBicmFjaHl1cmFuIGNyYWIgY2xhd3MiLCBCZW50aGljIEVjb2xvZ3kgTWVldGluZywgIE15c3RpYywgQ1QsICAxOTk0LiAgIA0KICBTbWl0aCwgTC5ELiwgTC4gTWNDYW5uLCBNLiBXb25oYW0sIEQuIFJlaWQsIEouIENhcmx0b24gYW5kIEcuIFJ1aXouICJUaGUgdHJhbnNmZXIgb2YgZXhvdGljIGFxdWF0aWMgc3BlY2llcyB0byBDaGVzYXBlYWtlIEJheTogY2hhcmFjdGVyaXppbmcgcGxhbmt0b24gYXNzZW1ibGFnZXMgaW4gc2hpcHMnIGJhbGxhc3Qgd2F0ZXIiLCBCZW50aGljIEVjb2xvZ3kgTWVldGluZywgTXlzdGljLCBDVCwgMTk5NC4NCiAgU21pdGgsIEwuRC4gIlRoZSBpbXBvcnRhbmNlIG9mIG1hbGUgYm9keSBzaXplIHRvIG1hdGUgYWNxdWlzaXRpb24gYW5kIGludHJhc2V4dWFsIGNvbXBldGl0aW9uIGluIGJsdWUgY3JhYnMgQ2FsbGluZWN0ZXMgc2FwaWR1cyIsICBTb2NpZXR5IGZvciB0aGUgU3R1ZHkgb2YgRXZvbHV0aW9uLCBCZXJrZWxleSwgQ0EsIDE5OTIuICAgDQogIFNtaXRoLCBMLkQuICJUaGUgaW1wb3J0YW5jZSBvZiBtYWxlIGJvZHkgc2l6ZSB0byBtYXRlIGFjcXVpc2l0aW9uIGFuZCBpbnRyYXNleHVhbCBjb21wZXRpdGlvbiBpbiBibHVlIGNyYWJzIENhbGxpbmVjdGVzIHNhcGlkdXMiLCAgQmVudGhpYyBFY29sb2d5IE1lZXRpbmcsIE5ld3BvcnQsIFJJLCAxOTkyLg0KICBTbWl0aCwgTC5ELiAiVGhlIGltcGFjdCBvZiBsaW1iIGF1dG90b215IGFuZCBib2R5IHNpemUgb24gbWF0ZSBjb21wZXRpdGlvbiBpbiBibHVlIGNyYWJzIChDYWxsaW5lY3RlcyBzYXBpZHVzKSIsIEJlbnRoaWMgRWNvbG9neSBNZWV0aW5nLCBXaWxsaWFtc2J1cmcsIFZBLCAxOTkxLg0KICBTbWl0aCwgTC5ELiAiTGltYiBhdXRvdG9teSwgcGFydGlhbCBwcmVkYXRpb24sIGFuZCBjYW5uaWJhbGlzbSBpbiBibHVlIGNyYWJzIiwgQmVudGhpYyBFY29sb2d5IE1lZXRpbmcsIFNvbG9tb25zLCBNRCwgMTk4OS4NCiAgU21pdGgsIEwuRC4gIlRoZSBpbmNpZGVuY2Ugb2YgYXV0b3RvbXkgYW5kIHJlZ2VuZXJhdGlvbiBpbiBibHVlIGNyYWJzIGluIGEgc3ViZXN0dWFyeSBvZiB0aGUgQ2hlc2FwZWFrZSBCYXkiLCBCZW50aGljIEVjb2xvZ3kgTWVldGluZywgUG9ydGxhbmQsIE1FLCAxOTg4Lg0KICBTbWl0aCwgTC5ELiAiVGhlIGNvbnNlcXVlbmNlcyBvZiBsaW1iIGF1dG90b215IHRvIGdyb3d0aCBpbiBDYWxsaW5lY3RlcyBzYXBpZHVzIiwgTmF0aW9uYWwgQmx1ZSBDcmFiIENvbmZlcmVuY2UsIFZpcmdpbmlhIEJlYWNoLCBWQSwgMTk4OC4NCiAgU21pdGgsIEwuRC4gYW5kIEIuQy4gQ291bGwuICAiSnV2ZW5pbGUgc3BvdCAoUGlzY2VzKSBhbmQgZ3Jhc3Mgc2hyaW1wIHByZWRhdGlvbiBvbiBtZWlvZmF1bmEgaW4gbXVkZHkgYW5kIHNhbmR5IHN1YnN0cmF0ZXMiLCBTaXh0aCBJbnRlcm5hdGlvbmFsIE1laW9mYXVuYSBDb25mZXJlbmNlLCBUYW1wYSwgRkwsIDE5ODYuDQogIFNtaXRoLCBMLkQuICJUaGUgZWZmZWN0IG9mIGZpc2ggcHJlZGF0aW9uIG9uIG1laW9mYXVuYSBpbiBtdWQgdnMuIHNhbmQgc3Vic3RyYXRlcyIsIEJlbnRoaWMgRWNvbG9neSBNZWV0aW5nLCBDb2x1bWJpYSwgU0MsIDE5ODUuDQogIE1lbGxvbiwgRGVGLiwgSnIuIGFuZCBMLkQuIFNtaXRoLiAgIklucHV0IHByb3BlcnRpZXMgb2YgY2xvc2VyIG11c2NsZSBmaWJlcnMgaW4gZGltb3JwaGljIGNsYXdzIGluIHNuYXBwaW5nIHNocmltcCIsIFNvY2lldHkgb2YgTmV1cm9zY2llbmNlIE1lZXRpbmcsIE1pbm5lYXBvbGlzLCBNTiwgMTk4Mi4NCg0KKiBQcmVzZW50YXRpb25zIGF0IExvY2FsIFN5bXBvc2lhIG9yIFJlZ2lvbmFsIENvbmZlcmVuY2VzDQpWbywgVC4qLCBTLiBUdWNrZXIqLCBhbmQgTC5ELiBTbWl0aC4gICJEaXZlcnNpdHkgb2Ygc3RyZWFtIGludmVydGVicmF0ZSBpbiB0aGUgSmltbXkgTm9sYW4gQnJvb2siLiAgQ2VsZWJyYXRpbmcgQ29sbGFib3JhdGlvbnMsIFNtaXRoIENvbGxlZ2UsIE5vcnRoYW1wdG9uLCBNQSAyMDExLg0KVHVja2VyLCBTLiosIE8uIENhcCwgYW5kIEwuRC4gU21pdGguICAiQSBiaW9nZW9ncmFwaGljIGNvbXBhcmlzb24gb2YgY2xhdyBzdHJlbmd0aCBhbmQgY3V0aWNsZSB0aGlja25lc3MgaW4gdGhlIGludmFzaXZlIGdyZWVuIGNyYWIgQ2FyY2ludXMgbWFlbmFzLiBDZWxlYnJhdGluZyBDb2xsYWJvcmF0aW9ucywgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BIDIwMTEuDQpMdSwgWS4gKiwgUi4gU3RlaW4qLCBhbmQgTC5ELiBTbWl0aC4gICJQdXNoZWQgdG8gdGhlIGJyZWFraW5nIHBvaW50OiB0ZXN0aW5nIGZvciBnZW9ncmFwaGljIGRpZmZlcmVuY2VzIGluIGNsYXcgY3V0aWNsZSB0aGlja25lc3MgYW5kIHN0cmVuZ3RoIGluIGFuIGludmFzaXZlIG1hcmluZSBjcmFiIi4gQ2VsZWJyYXRpbmcgQ29sbGFib3JhdGlvbnMsIFNtaXRoIENvbGxlZ2UsIE5vcnRoYW1wdG9uLCBNQSAyMDEwLg0KU3RlaW4sIFIuICosIFkuIEx1KiwgYW5kIEwuRC4gU21pdGguICAiQSBjcnVzaGluZyBkaWxlbW1hOiB0ZXN0aW5nIGZvciBjcmFiIGZlZWRpbmcgcGVyZm9ybWFuY2UgYW5kIHNuYWlsIHZ1bG5lcmFiaWxpdHkgYW1vbmcgcG9wdWxhdGlvbnMgb3ZlciB0aW1lIi4gIENlbGVicmF0aW5nIENvbGxhYm9yYXRpb25zLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEgMjAxMC4NClNtaXRoLCBMLkQuICJUaGUgcm9sZSBvZiBwaGVub3R5cGljIHBsYXN0aWNpdHkgaW4gYSBtYXJpbmUgYmlvbG9naWNhbCBpbnZhc2lvbjogdGFraW5nIGN1ZXMgZnJvbSB0aGUgZW52aXJvbm1lbnQiLiAgRGFyd2luIFN5bXBvc2l1bSwgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BIDIwMDkuDQpOZ3V5ZW4sIFAuKiwgTC4gTWF5bmFyZCosIGFuZCBMLkQuIFNtaXRoLiAiQnVncyBpbiB0aGUgc3lzdGVtOiBhIGNvbXBhcmlzb24gb2YgaW52ZXJ0ZWJyYXRlIGJpb2RpdmVyc2l0eSBiZXR3ZWVuIHR3byByaXZlciBzeXN0ZW1zIGluIHdlc3Rlcm4gTWFzc2FjaHVzZXR0cyIuIENlbGVicmF0aW5nIENvbGxhYm9yYXRpb25zLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEgMjAwOS4NClZhdWdobiwgQy5SLiogYW5kIEwuRC4gU21pdGguICAiUGVvcGxlIHByZXNzdXJlcyBvbiBwcmV2aW91c2x5IHByaXN0aW5lIHBsYWNlczogYSBjb21wYXJhdGl2ZSBzdHVkeSBvZiBjb3JhbCBiaW9kaXZlcnNpdHkgbmVhciBIb2dhIElzbGFuZCwgSW5kb25lc2lhIi4gQ2VsZWJyYXRpbmcgQ29sbGFib3JhdGlvbnMsIFNtaXRoIENvbGxlZ2UsIE5vcnRoYW1wdG9uLCBNQSAyMDA5Lg0KTHVvLCBQLiogYW5kIEwuRC4gU21pdGguICAiVGhlIGRpZXQgb2YgaW50cm9kdWNlZCBncmVlbiBjcmFicywgQ2FyY2ludXMgbWFlbmFzIGluIHRocmVlIGRpZmZlcmVudCBoYWJpdGF0cyIuIENlbGVicmF0aW5nIENvbGxhYm9yYXRpb25zLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEgMjAwOA0KS2VpciwgTC4qIGFuZCBMLkQuIFNtaXRoLiAgIklzIFNtaXRoIHJlYWR5IGZvciBhbiBlbnZpcm9ubWVudGFsIG1ham9yPyIuIENlbGVicmF0aW5nIENvbGxhYm9yYXRpb25zLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEgMjAwNy4NCkNhbGxhZ2hhbiwgRS5BLiogYW5kIEwuRC4gU21pdGguICAiVGhlIGFsbG9tZXRyeSBvZiBpbnZhc2l2ZSBjcmFiLW5hdGl2ZSBwcmV5IHNpemUgaW50ZXJhY3Rpb25zOiBhIHByZWRpY3RvciBvZiBpbnZhc2lvbiBzdWNjZXNzPyIgQ2VsZWJyYXRpbmcgQ29sbGFib3JhdGlvbnMsIFNtaXRoIENvbGxlZ2UsIE5vcnRoYW1wdG9uLCBNQSAyMDA1Lg0KSG9ybmJ5KiwgSy5NLiBhbmQgTC5ELiBTbWl0aC4gIlRoZSBpbnRlcm5ldCBhcyBhIGRpc3BlcnNhbCBtZWNoYW5pc20gZm9yIGxpdmUgbWFyaW5lIHNwZWNpZXMiLiBDZWxlYnJhdGluZyBDb2xsYWJvcmF0aW9ucyBhbmQgU1RSSURFIFNjaG9sYXIgUHJlc2VudGF0aW9uLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEsIDIwMDQuDQpUaG9tYXMqLCBFLksuLCBLLk0uIEhvcm5ieSogYW5kIEwuRC4gU21pdGguICAiSWRlbnRpZnlpbmcgcG90ZW50aWFsIG1hcmluZSBpbnZhZGVycyB0byBOZXcgRW5nbGFuZCBhbW9uZyBpbXBvcnRlZCBtYXJpbmUgb3JnYW5pc21zIi4gIENlbGVicmF0aW5nIENvbGxhYm9yYXRpb24sIFNUUklERSBTY2hvbGFyIFByZXNlbnRhdGlvbiwgYW5kIEJpb3NjaWVuY2VzIFN0dWRlbnQgUmVzZWFyY2ggU3ltcG9zaXVtLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEsIDIwMDMNClNtaXRoLCBMLkQuICJBY2NpZGVudGFsIGhpdGNoaGlrZXJzIGFuZCBsaXZlIG1hcmluZSBvcmdhbmlzbSB0cmFuc3BvcnQiLCAgTUlUIFNlYSBHcmFudCBCaW9pbnZhc2lvbnMgV29ya3Nob3AsIENhbWJyaWRnZSwgTUEsIDIwMDIuDQpUaG9tYXMsIEUuSy4qIGFuZCBMLkQuIFNtaXRoLiAgIklkZW50aWZ5aW5nIHBhdGh3YXlzIGZvciBtYXJpbmUgYmlvaW52YWRlcnM6IHRoZSByb2xlIG9mIG1hcmluZSBiaW9sb2dpY2FsIHN1cHBseSBjb21wYW5pZXMiLiBDZWxlYnJhdGluZyBDb2xsYWJvcmF0aW9uLCBTVFJJREUgU2Nob2xhciBQcmVzZW50YXRpb24gYW5kIEJpb3NjaWVuY2VzIFN0dWRlbnQgUmVzZWFyY2ggU3ltcG9zaXVtLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEsIDIwMDIuIA0KU21pdGgsIEwuRC4sIE0uIFdvbmhhbSwgTC4gTWNDYW5uLCBHLiBSdWl6LCBKLiBDYXJsdG9uIGFuZCBELiBMYXZvaWUqLiAgIlRoZSByb2xlIG9mIGJhbGxhc3Qgd2F0ZXIgaW4gdHJhbnNwb3J0aW5nIG5vbmluZGlnZW5vdXMgc3BlY2llcyB0byBVLlMuIHdhdGVycyIuICBTZWNvbmQgTm9ydGhlYXN0IENvbmZlcmVuY2Ugb24gTm9uaW5kaWdlbm91cyBBcXVhdGljIFNwZWNpZXMsIEJ1cmxpbmd0b24sIFZULCAxOTk3Lg0KICBIaW5lcywgQS4sIEcuIFJ1aXosIEouIENhcmx0b24gYW5kIEQuIFNtaXRoLiAgIlBhdHRlcm5zIGFuZCBtZWNoYW5pc21zIG9mIGludmFzaW9uczogcHJvY2Vzc2VzLCByZXN1bHRzLCBhbmQgY29uc2VxdWVuY2VzIi4gIE5vcnRoZWFzdCBDb25mZXJlbmNlIG9uIE5vbi1JbmRpZ2Vub3VzIEFxdWF0aWMgTnVpc2FuY2UgU3BlY2llcywgQ3JvbXdlbGwsIENULCAxOTk1Lg0KUnVpeiwgRy4sIEEuSC4gSGluZXMsIEQuVy4gQ29hdHMsIEwuRC4gU21pdGgsIGFuZCBKLlQuIENhcmx0b24uICJOb24taW5kaWdlbm91cyBzcGVjaWVzIG9mIENoZXNhcGVha2UgQmF5OiBwYXN0IGludmFzaW9ucyBhbmQgZnV0dXJlIHJpc2tzIi4gIENoZXNhcGVha2UgUmVzZWFyY2ggQ29uZmVyZW5jZSwgIE5vcmZvbGssIFZBLCAxOTk0Lg0KU21pdGgsIEwuRC4gICJUaGUgaW1wb3J0YW5jZSBvZiBtYWxlIGJvZHkgc2l6ZSB0byBtYXRlIGFjcXVpc2l0aW9uIGFuZCBpbnRyYXNleHVhbCBjb21wZXRpdGlvbiBpbiBibHVlIGNyYWJzIENhbGxpbmVjdGVzIHNhcGlkdXMiLiAgV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBOZXdwb3J0LCBPUiwgMTk5My4NClNtaXRoLCBMLkQuICAiVGhlIGVmZmVjdHMgb2YgbGltYiBhdXRvdG9teSBvbiBzdXJ2aXZhbCBpbiBwcmVkYXRvci1wcmV5IGVuY291bnRlcnMiLiBBdGxhbnRpYyBFc3R1YXJpbmUgUmVzZWFyY2ggU29jaWV0eSwgU29sb21vbnMsIE1ELCAxOTg4Lg0KU21pdGgsIEwuRC4gIlRoZSBpbmNpZGVuY2Ugb2YgYXV0b3RvbXkgYW5kIHJlZ2VuZXJhdGlvbiBpbiBibHVlIGNyYWJzIGluIGEgc3ViZXN0dWFyeSBvZiB0aGUgQ2hlc2FwZWFrZSBCYXkiLiAgUG9ydHVuaWQgRWNvbG9neSBXb3Jrc2hvcCwgRWRnZXdhdGVyLCBNRCwgMTk4Ny4NCg0KKiBJbnZpdGVkIExlY3R1cmVzIChkZW5vdGVkIGJ5IMK2KSBvciBEZXBhcnRtZW50YWwvQ29sbGVnZSBTZW1pbmFycw0KIkFuIGFybXMgcmFjZSBhdCBhIHNuYWlsJ3MgcGFjZTogdGhlIGltcG9ydGFuY2Ugb2YgcGhlbm90eXBpYyBwbGFzdGljaXR5IGluIGEgbWFyaW5lIGJpb2xvZ2ljYWwgaW52YXNpb24uIiAgQW5pbWFsIEJlaGF2aW9yIENsdWIsIFNjaG9vbCBvZiBDb2duaXRpdmUgU2NpZW5jZXMsIEhhbXBzaGlyZSBDb2xsZWdlLCBBbWhlcnN0LCBNQSAyMDEwLiDCtg0KIkFuIGFybXMgcmFjZSBhdCBhIHNuYWlsJ3MgcGFjZTogdGhlIGltcG9ydGFuY2Ugb2YgcGhlbm90eXBpYyBwbGFzdGljaXR5IGluIGEgbWFyaW5lIGJpb2xvZ2ljYWwgaW52YXNpb24uIiAgQ29tbW9ud2VhbHRoIFNjaWVudGlmaWMgYW5kIEluZHVzdHJpYWwgUmVzZWFyY2ggT3JnYW5pemF0aW9uIChDU0lSTyksIEhvYmFydCwgVGFzbWFuaWEsIDIwMDguIMK2DQoiQW4gYXJtcyByYWNlIGF0IGEgc25haWwncyBwYWNlOiByZWNpcHJvY2FsIHBoZW5vdHlwaWMgY2hhbmdlcyBmb2xsb3dpbmcgYSBtYXJpbmUgaW52YXNpb24iLiAgRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBCb3dkb2luIENvbGxlZ2UsIEJydW5zd2ljaywgTUUsIDIwMDcuIMK2DQoiQW4gYXJtcyByYWNlIGF0IGEgc25haWwncyBwYWNlOiBsZXNzb25zIGZyb20gdGhlIGludGVydGlkYWwgem9uZSIuICBTaWdtYSBYaSBMdW5jaGVvbiwgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BIDIwMDYuDQoiT3VyIHZlcnkgb3duIGNyZWF0dXJlIGZlYXR1cmU6IGJpb2xvZ2ljYWwgaW52YWRlcnMgaW4gTmV3IEVuZ2xhbmQiLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgYW5kIFBvbGljeSBMdW5jaGJhZywgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BLCAyMDA1Lg0KIlN0cmFuZ2VycyBpbiBwYXJhZGlzZTogYmlvbG9naWNhbCBpbnZhZGVycyBpbiBjb2FzdGFsIHdhdGVycyIuIExpYmVyYWwgQXJ0cyBMdW5jaGVvbiwgIENPTlRBQ1QgX0Nvbi00MURGRjQ4QzEgXGMgXHMgXGwgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BLCAyMDA0Lg0KIk1hcmluZSBiaW9pbnZhc2lvbnM6IHBhdGh3YXlzLCBzdG93YXdheXMsIGFuZCBhcm1zIHJhY2VzIi4gIEJpb2xvZ2ljYWwgU2NpZW5jZXMgQ29sbG9xdWl1bSwgIENPTlRBQ1QgX0Nvbi00MURGRjQ4QzEgXGMgXHMgXGwgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BLCAyMDA0Lg0KIlBhdGh3YXlzIGZvciBtYXJpbmUgaW52YWRlcnMgdG8gTmV3IEVuZ2xhbmQiLiBNYWluZSdzIE1hcmluZSBJbnZhc2lvbjogQSBGb3J1bSBvbiB0aGUgSW1wYWN0IG9mIE5vbi1uYXRpdmUgYW5kIE90aGVyIEludmFzaXZlIFNwZWNpZXMgb24gTWFpbmUncyBDb2FzdGFsIEVjb3N5c3RlbXMuIENvLXNwb25zb3JlZCBieSBDYXNjbyBCYXkgRXN0dWFyeSBQcm9qZWN0LCBNYWluZSBTZWEgR3JhbnQsIFRoZSBVbml2ZXJzaXR5IG9mIE1haW5lICYgdGhlIFVuaXZlcnNpdHkgb2YgU291dGhlcm4gTWFpbmUsIFBvcnRsYW5kLCBNRSwgMjAwNC4gwrYNCiJNYWxsZWFibGUgYXJtcyBhbmQgYXJtb3I6IHBoZW5vdHlwaWMgcGxhc3RpY2l0eSdzIHJvbGUgaW4gbWFyaW5lIGJpb2ludmFzaW9ucyIuICBPcmdhbmlzbWljIGFuZCBFdm9sdXRpb25hcnkgQmlvbG9neSBQcm9ncmFtLCBVbml2ZXJzaXR5IG9mIE1hc3NhY2h1c2V0dHMsIEFtaGVyc3QsIE1BLCAyMDAzLiDCtg0KIkJpb2xvZ2ljYWwgaW52YXNpb25zIGluIG1hcmluZSBzeXN0ZW1zIi4gIERlcGFydG1lbnQgb2YgQmlvbG9neSwgUmhvZGUgSXNsYW5kIENvbGxlZ2UsIFByb3ZpZGVuY2UsIFJJLCAyMDAzLiDCtiAgDQoiSWRlbnRpZnlpbmcgcG90ZW50aWFsIGludmFkZXJzIGFtb25nIGltcG9ydGVkIG1hcmluZSBzcGVjaWVzIi4gIEV5ZXMgb24gdGhlIEVzdHVhcmllczogUHJldmVudGluZyBhbmQgRGV0ZWN0aW5nIE1hcmluZSBJbnZhc2l2ZSBTcGVjaWVzIGluIHRoZSBOb3J0aGVhc3QsICBNYXNzYWNodXNldHRzIEJheXMgUHJvZ3JhbSwgQm9zdG9uLCBNQSwgMjAwMi4gwrYNCiAiU3RyYW5nZXJzIGluIGEgc3RyYW5nZSBsYW5kOiBCaW9sb2dpY2FsIGludmFkZXJzIGluIGNvYXN0YWwgd2F0ZXJzIi4gIFNpZ21hIFhpIEx1bmNoZW9uLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEsIDIwMDEuDQogIlBoZW5vdHlwaWMgcGxhc3RpY2l0eSBpbiBjcmFiIHByZWRhdG9ycyBhbmQgbW9sbHVzY2FuIHByZXk6IHVzZS1pbmR1Y2VkIGFybXMgYW5kIGN1ZS1pbmR1Y2VkIGFybW9yIi4gIE9yZWdvbiBJbnN0aXR1dGUgb2YgTWFyaW5lIEJpb2xvZ3ksIFVuaXZlcnNpdHkgb2YgT3JlZ29uLCBDaGFybGVzdG9uLCBPUiwgMjAwMS4gwrYNCiAiUGhlbm90eXBpYyBwbGFzdGljaXR5IGluIGNyYWIgcHJlZGF0b3JzIGFuZCBtb2xsdXNjYW4gcHJleTogdXNlLWluZHVjZWQgYXJtcyBhbmQgY3VlLWluZHVjZWQgYXJtb3IiLiAgRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUEsIDIwMDEuIMK2DQogIk1hcmluZSBiaW9pbnZhc2lvbnM6IGFzc2Vzc2luZyBwYXRod2F5IGNvbXBsZXhpdHkgYW5kIHBvc3QtaW52YXNpb24gY29uc2VxdWVuY2VzIi4gRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eSwgQm9zdG9uLCBNQSwgMjAwMC4NCiAiVHJhdmVsIGFuZCBkaW5pbmcgdGlwcyBmb3IgdGhlIHNhdnZ5IG1hcmluZSBiaW9sb2dpY2FsIGludmFkZXIiLiAgRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eSwgQm9zdG9uLCBNQSwgMTk5OC4NCiAiUHVtcGluZyB1cCBhbmQgcGFyaW5nIGRvd246IGFkYXB0aXZlIHJlc3BvbnNlcyBvZiBjcnVzdGFjZWFuIGxpbWJzIHRvIHByZXkgYW5kIHByZWRhdG9yIi4gIERlcGFydG1lbnQgb2YgQmlvbG9neSwgVHVmdHMgVW5pdmVyc2l0eSwgTWVkZm9yZCwgTUEsIDE5OTcuIMK2DQogIk1hcmluZSBiaW9sb2dpY2FsIGludmFzaW9uczogdGhlIGR5bmFtaWNzIG9mIGJhbGxhc3Qgd2F0ZXIgdHJhbnNwb3J0Ii4gIERlcGFydG1lbnQgb2YgWm9vbG9neSwgVW5pdmVyc2l0eSBvZiBOZXcgSGFtcHNoaXJlLCBEdXJoYW0sIE5ILCAxOTk2LiDCtg0KICJQdW1waW5nIHVwIGFuZCBwYXJpbmcgZG93bjogYWRhcHRpdmUgcmVzcG9uc2VzIG9mIGNydXN0YWNlYW4gbGltYnMgdG8gcHJleSBhbmQgcHJlZGF0b3IiLiAgRGVwYXJ0bWVudCBvZiBFY29sb2d5IGFuZCBFdm9sdXRpb25hcnkgQmlvbG9neSwgQnJvd24gVW5pdmVyc2l0eSwgUHJvdmlkZW5jZSwgUkksIDE5OTYuIMK2DQogIkJpb2xvZ2ljYWwgaW52YXNpb25zIGluIG1hcmluZSBzeXN0ZW1zOiB0aGUgaW1wb3J0YW5jZSBvZiBiYWxsYXN0IHdhdGVyIGFzIGEgZGlzcGVyc2FsIG1lY2hhbmlzbSIuICBEZXBhcnRtZW50IG9mIE1hcmluZSBTY2llbmNlcywgVW5pdmVyc2l0eSBvZiBDb25uZWN0aWN1dCwgQXZlcnkgUG9pbnQsIENULCAxOTk2LiDCtg0KICJCaW9sb2dpY2FsIGludmFzaW9ucyBpbiBtYXJpbmUgc3lzdGVtczogdGhlIGltcG9ydGFuY2Ugb2YgYmFsbGFzdCB3YXRlciBhcyBhIGRpc3BlcnNhbCBtZWNoYW5pc20iLiAgRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eSwgQm9zdG9uLCBNYXNzYWNodXNldHRzLCAxOTk2Lg0KICJUaGUgcm9sZSBvZiBiYWxsYXN0IHdhdGVyIGluIHRyYW5zcG9ydGluZyBub25pbmRpZ2Vub3VzIHNwZWNpZXMgdG8gVS5TLiB3YXRlcnMiLCBFeG90aWMgc3BlY2llczogaXNzdWVzIHJlbGF0aW5nIGFxdWFjdWx0dXJlIGFuZCBiaW9kaXZlcnNpdHkgd29ya3Nob3AgIE1hc3NhY2h1c2V0dHMgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kgU2VhIEdyYW50IENvbGxlZ2UgUHJvZ3JhbSwgQ2FtYnJpZGdlLCBNQSwgMTk5Ni4gwrYNCiAiUHVtcGluZyB1cCBhbmQgcGFyaW5nIGRvd246IGFkYXB0aXZlIHJlc3BvbnNlcyBvZiBjcnVzdGFjZWFuIGxpbWJzIHRvIHByZXkgYW5kIHByZWRhdG9yIi4gIERlcGFydG1lbnQgb2YgQmlvbG9neSwgTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHksIEJvc3RvbiwgTUEsIDE5OTUuIA0KICJDb250cm9sIG9wdGlvbnMsIHJlZHVjaW5nIHRoZSByaXNrIG9mIG5vbmluZGlnZW5vdXMgaW52YXNpb25zIGluIENoZXNhcGVha2UgQmF5Ii4gVGhlIEVsaXphYmV0aCBSaXZlciBQcm9qZWN0LiAgTm9yZm9saywgVkEsIDE5OTUuIMK2DQogICJVU0EgYmFsbGFzdCB3YXRlciByZXNlYXJjaCBwcm9qZWN0Ii4gIEludGVybmF0aW9uYWwgQ291bmNpbCBmb3IgdGhlIEV4cGxvcmF0aW9uIG9mIHRoZSBTZWEgKElDRVMpIFdvcmtpbmcgR3JvdXAgb24gSW50cm9kdWN0aW9ucyBhbmQgVHJhbnNmZXJzIG9mIE1hcmluZSBPcmdhbmlzbXMuICBNeXN0aWMgU2VhcG9ydCBNdXNldW0uICBNeXN0aWMsIENULCAxOTk0LiDCtg0KICJUaGUgaW1wb3J0YW5jZSBvZiBtYWxlIGJvZHkgc2l6ZSB0byBtYXRlIGFjcXVpc2l0aW9uIGFuZCBpbnRyYXNleHVhbCBjb21wZXRpdGlvbiBpbiBibHVlIGNyYWJzIENhbGxpbmVjdGVzIHNhcGlkdXMgIi4gIFNtaXRoc29uaWFuIEVudmlyb25tZW50YWwgUmVzZWFyY2ggQ2VudGVyLCBFZGdld2F0ZXIsIE1ELCAxOTkyLiDCtg0KICJUaGUgZnJlcXVlbmN5IGFuZCBjb25zZXF1ZW5jZXMgb2YgbGltYiBhdXRvdG9teSBpbiBibHVlIGNyYWJzIi4gIERlcGFydG1lbnQgb2YgWm9vbG9neSwgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCwgQ29sbGVnZSBQYXJrLCBNRCwgMTk5MC4NCiAiVGhlIGZyZXF1ZW5jeSBhbmQgY29uc2VxdWVuY2VzIG9mIGxpbWIgYXV0b3RvbXkgaW4gYmx1ZSBjcmFicyIuICBTbWl0aHNvbmlhbiBFbnZpcm9ubWVudGFsIFJlc2VhcmNoIENlbnRlciwgRWRnZXdhdGVyLCBNRCwgMTk5MC4NCiAiVGhlIGZyZXF1ZW5jeSBhbmQgY29uc2VxdWVuY2VzIG9mIGxpbWIgYXV0b3RvbXkgaW4gYmx1ZSBjcmFicyIuICBNYXJpbmUgRW52aXJvbm1lbnRhbCBTY2llbmNlcyBDb25zb3J0aXVtLCBEYXVwaGluIElzbGFuZCwgQUwsIDE5ODkuIMK2DQogIlRoZSBmcmVxdWVuY3kgYW5kIGNvbnNlcXVlbmNlcyBvZiBsaW1iIGF1dG90b215IGluIGJsdWUgY3JhYnMiLiAgQmVsbGUgQmFydWNoIEluc3RpdHV0ZSBmb3IgTWFyaW5lIEJpb2xvZ3kgJiBDb2FzdGFsIFJlc2VhcmNoLCBHZW9yZ2V0b3duLCBTQywgMTk4OS4gwrYNCiAiVGhlIGVmZmVjdCBvZiBsaW1iIGF1dG90b215IGluIGRlY2Fwb2QgY3J1c3RhY2VhbnMiLiAgRGVwYXJ0bWVudCBvZiBab29sb2d5LCBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kLCBDb2xsZWdlIFBhcmssIE1ELCAxOTg4LiANCiAiUHJlZGF0aW9uIG9uIG1laW9mYXVuYSBpbiBtdWRkeSB2ZXJzdXMgc2FuZHkgc3Vic3RyYXRlcyIuICBEZXBhcnRtZW50IG9mIFpvb2xvZ3ksIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQsIENvbGxlZ2UgUGFyaywgTUQsIDE5ODYuDQoNCjEwKSBPdGhlciBQcm9mZXNzaW9uYWwgQWN0aXZpdGllcw0KKiBJbnZpdGVkIFBhbmVscyBvciBDb21taXR0ZWVzDQpJbnZpdGVkIHBhbmVsaXN0IGF0IFUuUy4gQ29uZ3Jlc3Npb25hbCBoZWFyaW5nIG9uIFJlc2VhcmNoIFByaW9yaXRpZXMgZm9yIEludHJvZHVjZWQgQXF1YXRpYyBTcGVjaWVzIGhlbGQgYnkgdGhlIEVudmlyb25tZW50LCBUZWNobm9sb2d5ICYgU3RhbmRhcmRzIFN1YmNvbW1pdHRlZSBvZiB0aGUgU2NpZW5jZSBDb21taXR0ZWUgb2YgdGhlIFUuUy4gSG91c2Ugb2YgUmVwcmVzZW50YXRpdmVzLCBXYXNoaW5ndG9uLCBELkMuIChKdW5lIDIwMDIpLiANCg0KQmFsbGFzdCBXYXRlciBQcm9ncmFtIEVmZmVjdGl2ZW5lc3MgYW5kIEFkZXF1YWN5IENyaXRlcmlhIENvbW1pdHRlZSwgQXF1YXRpYyBOdWlzYW5jZSBTcGVjaWVzIFRhc2sgRm9yY2UsIFNpbHZlciBTcHJpbmcsIE1EICgxOTk5LTIwMDApLg0KDQpTdGVlcmluZyBDb21taXR0ZWUgZm9yIHRoZSBOYXRpb25hbCBDb25mZXJlbmNlIG9uIE1hcmluZSBCaW9pbnZhc2lvbnMsIE1JVCBTZWEgR3JhbnQsIENhbWJyaWRnZSwgTUEgKDE5OTgtMjAwMCkuDQoNClN0ZWVyaW5nIENvbW1pdHRlZSBmb3IgT3V0cmVhY2ggYW5kIEVkdWNhdGlvbiBvbiBNYXJpbmUgQmlvaW52YXNpb25zLCBNSVQgU2VhIEdyYW50IENvbGxlZ2UgUHJvZ3JhbSwgQ2FtYnJpZGdlLCBNQSAoMTk5Ny0yMDAwKS4NCg0KKiBQcm9mZXNzaW9uYWwgV29ya3Nob3BzDQpDby1vcmdhbml6ZXIsIE1JVCBTZWEgR3JhbnQgQmlvaW52YXNpb25zIFdvcmtzaG9wIGVudGl0bGVkIE1vdmluZywgSGFuZGxpbmcsIFNlbGxpbmcsIGFuZCBVc2luZyBMaXZlIE1hcmluZSBPcmdhbmlzbXM6IFByZXZlbnRpbmcgdGhlIEFjY2lkZW50YWwgSW50cm9kdWN0aW9uIG9mIEV4b3RpYyBTcGVjaWVzLCBDYW1icmlkZ2UsIE1BIChNYXkgMjAwMikuDQoNCiogR3JhZHVhdGUgc3VwZXJ2aXNvcg0KU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BDQpDYWxsYWdoYW4sIEVsaXphYmV0aC4gIDIwMTAuICBUaGUgYWxsb21ldHJ5IG9mIGludmFzaXZlIGNyYWItbmF0aXZlIHByZXkgaW50ZXJhY3Rpb25zOiBhIHRhbGUgb2YgdHdvIHNwZWNpZXMuICBNLlMuIFRoZXNpcy4gDQpCYWxkcmlkZ2UsIEFzaGxleSBLLiAyMDA2LiAgVGhlIHJvbGUgb2YgcGhlbm90eXBpYyBwbGFzdGljaXR5IGluIHRoZSBpbnRlcmFjdGlvbiBiZXR3ZWVuIGFuIGludmFzaXZlIGNyYWIgcHJlZGF0b3IsIENhcmNpbnVzIG1hZW5hcywgYW5kIGl0cyBuYXRpdmUgc25haWwgcHJleSwgTGl0dG9yaW5hIG9idHVzYXRhLiAgTS5BLiBUaGVzaXMuDQogICANCiAgTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHksIEJvc3RvbiwgTUENCldlaWdsZSwgU2hhbm5vbiBNLiBXLiAyMDAyLiAgUHJldmVudGlvbiBvZiBtYXJpbmUgYmlvaW52YXNpb25zOiB0aGUgbGl2ZSBtYXJpbmUgc3BlY2llcyB0cmFkZSBhbmQgcG90ZW50aWFsIHJpc2tzIGZvciBleG90aWMgc3BlY2llcyBpbnRyb2R1Y3Rpb25zIGluIE1hc3NhY2h1c2V0dHMuIE0uUy4gVGhlc2lzLiAgDQpKdWhhc3osIEppbGwgTS4gIDIwMDAuICBCdXJpYWwgZGVwdGggcmVzcG9uc2Ugb2YgdGhlIHNvZnQtc2hlbGwgY2xhbSwgTXlhIGFyZW5hcmlhLCB0byBmZWVkaW5nIGFuZCBub24tZmVlZGluZyBwcmVkYXRvcnMsIENhbmNlciBpcnJvcmF0dXMgYW5kIENhcmNpbnVzIG1hZW5hcywgYW5kIHRvIGluanVyZWQgY29uc3BlY2lmaWNzLiAgTS5TLiBUaGVzaXMuIA0KQnJlaXRiYXJ0aCwgRWlrZS4gMjAwMC4gT3h5Z2VuIGR5bmFtaWNzIGluIHR1cmYgYWxnYWUgY2Fub3BpZXMgb24gY29yYWwgcmVlZnMuIE0uUy4gVGhlc2lzLiAgIA0KRnJlZW1hbiwgQWFyZW4gUy4gMTk5OS4gIEdyYXppbmcgUHJlc3N1cmUgb24gSW50cm9kdWNlZCBhbmQgRW5kZW1pYyBTdWJzcGVjaWVzIG9mIENvZGl1bSBmcmFnaWxlLiAgTS5TLiBUaGVzaXMuDQpMYXZvaWUsIERpYW5uIE0uIDE5OTguIFRoZSBwb3RlbnRpYWwgZm9yIGludHJhY29hc3RhbCB0cmFuc2ZlciBvZiBub25pbmRpZ2Vub3VzIHNwZWNpZXMgaW4gdGhlIGJhbGxhc3Qgd2F0ZXIgb2Ygc2hpcHMuIE0uUy4gVGhlc2lzLg0KDQoqIFVuZGVyZ3JhZHVhdGUgc3VwZXJ2aXNvciAoaW5kZXBlbmRlbnQgYW5kIGRpcmVjdGVkIHN0dWRpZXM7IHN0dWRlbnQncyBob21lIGluc3RpdHV0aW9uIGluZGljYXRlZCB3aGVyZSBhcHByb3ByaWF0ZSkNCg0KICBTbWl0aCBDb2xsZWdlLCBOb3J0aGFtcHRvbiwgTUENCiAgICAgIFNUUklERSAoU3R1ZGVudCBSZXNlYXJjaCBpbiBEZXBhcnRtZW50cykgU2Nob2xhcnMNCiAgICBIb3Bzb24sIEouICcxNC4gMjAxMC1wcmVzZW50DQogICAgVm8sIFQuICcxMy4gMjAwOS0yMDExDQogICAgTWF5bmFyZCwgTC4gJzExLiAgMjAwOC0yMDA5DQogICAgS2llciwgTC4gJzEwLiAgMjAwNi0yMDA3DQogICAgQ2hldW5nLCBKLiAnMDkuICAyMDA1LTIwMDYNCiAgICBSb2JpbnNvbiwgTS4gJzA4LiAgMjAwNC0yMDA1DQpXaWxjb3gsIEouICcwNy4gICAgMjAwNC0yMDA1DQpIb3JuYnksIEsuICcwNi4gICAyMDAyLTIwMDQNClRob21hcywgRS4gICcwNS4gIDIwMDEtMjAwMyANCg0KICBBRU1FUyAoQWNoaWV2aW5nIEV4Y2VsbGVuY2UgaW4gTWF0aGVtYXRpY3MsIEVuZ2luZWVyaW5nICYgU2NpZW5jZSkgU2Nob2xhcnMNCk5pY2NvbGksIEMuICcxNC4gIDIwMTAtMjAxMQ0KVHVja2VyLCBTLiAnMTMuIDIwMDktMjAxMQ0KDQogICBIb25vcnMgVGhlc2lzDQogICAgICAgQWR2aXNvcg0KSnVya293c2tpLCBBLiAnMDUuICAiVGhlIGVmZmVjdHMgb2YgcHJlZGF0aW9uIG9uIEFtZXJpY2FuIGxvYnN0ZXIgcG9wdWxhdGlvbnMgb3ZlciB0aW1lIi4gMjAwNC0yMDA1LiAgSGlnaCBob25vcnMuDQogICAgIFNlY29uZCBSZWFkZXIgDQpNYXluYXJkLCBMLiAnMTEuICJNYWtpbmcgc2Vuc2Ugb2YgZW52aXJvbm1lbnRhbCBlbnJpY2htZW50OiBUaGUgYmVoYXZpb3JhbCByZXNwb25zZXMgb2YgY2FwdGl2ZSBBZnJpY2FuIGNoZWV0YWhzIChBY2lub255eCBqdWJhdHVzKSB0byBlY29sb2dpY2FsbHkgcmVsZXZhbnQgc2NlbnRzIi4gIFNwcmluZyAyMDExLg0KQnJvd24tU2FyYWNpbm8sIEouICcwMy4gIkluZGlyZWN0IGNvbnNlcXVlbmNlcyBvZiBvdmVyZmlzaGluZzogQWJ1bmRhbmNlIHBhdHRlcm5zIGFuZCBiaW9lcm9zaW9uIHJhdGVzIG9mIHRoZSByb2NrIHVyY2hpbiBFbmNoaW5vbWV0cmEgdmlyaWRpcyBvbiB0aGUgQmVsaXplIEJhcnJpZXIgUmVlZiIuICBTcHJpbmcgMjAwMy4NCg0KICAgU3BlY2lhbCBTdHVkaWVzIChCSU8gNDAwIG9yIEVWUyA0MDApDQpCdWNoYWxza2ksIEMuICcxMS4gICJDaGFuZ2VzIGluIGNsYXcgc2l6ZSBhbmQgcmVsYXRpdmUgc2hhcGUgaW4gcmVnYXJkcyB0byBib2R5IHNpemU6IGEgc3R1ZHkgb2YgdHdvIGludmFzaXZlIHByZWRhdG9yeSBzcGVjaWVzIGluIHRoZSB3ZXN0ZXJuIEF0bGFudGljIi4gIFNwcmluZyAyMDEwLg0KRWFzdHdvb2QsIEUuICcxMi4gIkVmZmVjdHMgb2Ygb2NlYW4gYWNpZGlmaWNhdGlvbiBvbiBncmVlbiBjcmFiIGN1dGljbGUiLiAgU3ByaW5nIDIwMTAuDQpMdSwgWS4gJzEyLiAgIlB1c2hlZCB0byB0aGUgYnJlYWtpbmcgcG9pbnQ6IHRlc3RpbmcgZm9yIGdlb2dyYXBoaWMgZGlmZmVyZW5jZXMgaW4gY2xhdyBjdXRpY2xlIHRoaWNrbmVzcyBhbmQgc3RyZW5ndGggaW4gYW4gaW52YXNpdmUgbWFyaW5lIGNyYWIiLiAgU3ByaW5nIDIwMTAuDQpTdGVpbiwgUi4gJzEyLiAgIlRlc3RpbmcgZm9yIGNyYWIgZmVlZGluZyBwZXJmb3JtYW5jZSBhbmQgc25haWwgdnVsbmVyYWJpbGl0eSBhbW9uZyBwb3B1bGF0aW9ucyBvdmVyIHRpbWUiLiAgU3ByaW5nIDIwMTAuDQpCZW5zb24sIFIuICcxMC4gIlJlc2VhcmNoaW5nIGFjY2Vzc2liaWxpdHkgb2Ygc29sYXIgcG93ZXIgZm9yIGRldmVsb3BpbmcgY29tbXVuaXRpZXM6IHByb3Bvc2FsIGZvciBzY2hvb2xzIGluIE5vcnRoZXJuIFBha2lzdGFuIi4gIFNwcmluZyAyMDA5Lg0KVmF1Z2huIEMuICcwOS4gICJQZW9wbGUgcHJlc3N1cmVzIG9uIHByZXZpb3VzbHkgcHJpc3RpbmUgcGxhY2VzOiBhIGNvbXBhcmF0aXZlIHN0dWR5IG9mIGNvcmFsIGJpb2RpdmVyc2l0eSBuZWFyIEhvZ2EgSXNsYW5kLCBJbmRvbmVzaWEiLiBTcHJpbmcgMjAwOS4NCk5ndXllbiwgUC4gJzEwLiAiQSBjb21wYXJpc29uIG9mIHN0cmVhbSBpbnZlcnRlYnJhdGUgZGl2ZXJzaXR5IGluIHR3byByaXZlciBzeXN0ZW1zIGluIHdlc3Rlcm4gTWFzc2FjaHVzZXR0cyIuICBGYWxsIDIwMDggJiBTcHJpbmcgMjAwOS4NCg0KQmVhdHksIEouICcwOS4gICJIb3cgb3ZlcmZpc2hpbmcgaXMgcmVzaGFwaW5nIHRoZSB3b3JsZCdzIGZpc2hlcmllcyIuICBGYWxsIDIwMDggJiBTcHJpbmcgMjAwOS4NCkx1bywgUC4gJzA4LiAiVGhlIGRpZXQgb2YgZ3JlZW4gY3JhYnMgYWNyb3NzIHRocmVlIGRpZmZlcmVudCB0eXBlcyBvZiBoYWJpdGF0czogUGVtYXF1aWQgUG9pbnQsIFRpZGUgUG9vbCwgYW5kIE11ZCBGbGF0Ii4gIEZhbGwgMjAwNy4NCkJ1cmdlc3MsIEMuICcwOC4gIkNyaXRpcXVlIG9mIHRoZSByZWFjdGlvbi1kaWZmdXNpb24gbW9kZWwgYXMgYSBtZXRob2QgZm9yIHByZWRpY3RpbmcgdGhlIHJhdGUgb2Ygc3ByZWFkIGludmFzaXZlIHNwZWNpZXMiLiAgRmFsbCAyMDA3Lg0KQXJ0Z2V0c2luZ2VyLCBTLiAnMDcuICAiRm9vZCB3YXN0ZSBtYW5hZ2VtZW50IGF0IFNtaXRoIENvbGxlZ2UgYW5kIHN1Z2dlc3Rpb25zIGZvciBpbXByb3ZlbWVudCIsIFNwcmluZyAyMDA3Lg0KTWFzZWssIEMuICcwNy4gIkNydXNoaW5nIGZvcmNlIGluIHR3byBpbnZhc2l2ZSBjcmFiIHNwZWNpZXM6IGEgZ3JpcHBpbmcgc3RvcnkiLCBGYWxsIDIwMDUuDQpIYXVrZSwgUy4gIlByZWRhdG9yLXByZXkgY2hlbWljYWwgY29tbXVuaWNhdGlvbiBpbiB0aGUgbWFyaW5lIGVudmlyb25tZW50IiwgRmFsbCAyMDA1LiAgTW91bnQgSG9seW9rZSBDb2xsZWdlLg0KV2FuZywgTS4gJzA1LiAiUGF0dGVybiBvZiBsaW1iIGluanVyeSBpbiB0aGUgaW50cm9kdWNlZCBncmVlbiBzaG9yZSBjcmFiIENhcmNpbnVzIG1hZW5hcyBhbmQgdGhlIEFzaWFuIHNob3JlIGNyYWIgSGVtaWdyYXBzdXMgc2FuZ3VpbmV1cyIsIFNwcmluZyAyMDA1Lg0KQmFrZXIsIE0uICAnMDMuICAiQXNzZXNzaW5nIHRoZSBlZmZlY3RzIG9mIGZpc2hpbmcgcHJlc3N1cmUgb24gY29yYWwgcmVlZiBsYWdvb25zIGluIHNvdXRod2VzdGVybiBNYWRhZ2FzY2FyIi4gIFNwcmluZyAyMDAzLg0KVGhvbWFzLCBFLiAnMDUuICJMYXRpdHVkaW5hbCBkaWZmZXJlbmNlcyBpbiBjbGF3IG1vcnBob2xvZ3kgb2YgdHdvIGNyYWJzLCBDYXJjaW51cyBtYWVuYXMgYW5kIEhlbWlncmFwc3VzIG9yZWdvbmVuc2lzLCBvbiB0aGUgd2VzdGVybiBOb3J0aCBBbWVyaWNhbiBjb2FzdCIuICBGYWxsIDIwMDIuDQoNCiAgICAgIFN1bW1lciBTdHVkZW50IFJlc2VhcmNoIFByb2dyYW0NClR1Y2tlciwgUy4gJzEzLiAgQi4gRWxpemFiZXRoIEhvcm5lciBGdW5kIGluIHRoZSBCaW9sb2dpY2FsIFNjaWVuY2VzIEZlbGxvd3NoaXAsIDIwMTAuDQpDYXAsIE8uICcgMTIuICBBZ25lcyBTaGVkZCBBbmRyZWFlIDE5MzIgUmVzZWFyY2ggRnVuZCBGZWxsb3dzaGlwLCAyMDEwLg0KU3RlaW4sIFIuICcxMi4gIEIuIEVsaXphYmV0aCBIb3JuZXIgRnVuZCBpbiB0aGUgQmlvbG9naWNhbCBTY2llbmNlcyBGZWxsb3dzaGlwLCAyMDA5Lg0KTHUsIFkuICcxMi4gIEIuIEVsaXphYmV0aCBIb3JuZXIgRnVuZCBpbiB0aGUgQmlvbG9naWNhbCBTY2llbmNlcyBGZWxsb3dzaGlwLCAyMDA5Lg0KVmF1Z2huLCBDLiAnMDkuICBOYW5jeSBIb2xtZXMgRnVuZCBpbiB0aGUgQmlvbG9naWNhbCBTY2llbmNlcyBGZWxsb3dzaGlwLCAyMDA5Lg0KTWFzZWssIEMuICcwNy4gIEIuIEVsaXphYmV0aCBIb3JuZXIgRnVuZCBpbiB0aGUgQmlvbG9naWNhbCBTY2llbmNlcyBGZWxsb3dzaGlwLCAyMDA1Lg0KWmhhbmcsIFkuICcwOC4gIEIuIEVsaXphYmV0aCBIb3JuZXIgRnVuZCBpbiB0aGUgQmlvbG9naWNhbCBTY2llbmNlcyBGZWxsb3dzaGlwLCAyMDA1Lg0KSG9ybmJ5LCBLLiAnMDYuICAgTWFyZ2FyZXQgVy4gR3JhbnRoYW0gRnVuZCBpbiB0aGUgQmlvbG9naWNhbCBTY2llbmNlcyBGZWxsb3dzaGlwLCAyMDAzLg0KVGhvbWFzLCBFLiAgJzA1LiAgQi4gRWxpemFiZXRoIEhvcm5lciBGdW5kIGluIHRoZSBCaW9sb2dpY2FsIFNjaWVuY2VzIEZlbGxvd3NoaXAsIDIwMDIuDQoNCiAgICAgTGFiIEV4cGVyaWVuY2VzIGZvciBVbmRlci1yZXByZXNlbnRlZCBTdHVkZW50cyBpbiBTY2llbmNlDQogICAgUy4gVmVnYSAnMDkgKDIwMDYtMjAwNykNCiAgICBELiBUb3JjZXJvLVBhcmtlciAnMDggKDIwMDQtMjAwNSkNCiAgICBLLiBBZ3VpbGFyICcwNCAoMjAwMS0yMDAyKQ0KDQoNCg0KTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHkgRWFzdC9XZXN0IE1hcmluZSBCaW9sb2d5IFByb2dyYW0sIE5haGFudCwgTUEgKHN0dWRlbnQncyBob21lIHVuaXZlcnNpdHkpDQogICBHcmFkeSwgUy4gKEJyb3duIFVuaXZlcnNpdHkpLiAgMjAwMC4NCiAgIEhhbGwsIFIuIChUdWZ0cyBVbml2ZXJzaXR5KSwgU3RvbGV0emtpLCBBLiAoSGFubm92ZXIgVW5pdi4sIEdlcm1hbnkpLiAxOTk4Lg0KICAgSmVubmluZ3MsIEouIChEZVBhdXcgVW5pdmVyc2l0eSksIEFsdG1hbiwgUy4gKEJyb3duIFVuaXYuKSwgQnJlaXRiYXJ0aCwgRS4gKE5vcnRoZWFzdGVybiBVbml2LikuIDE5OTcuIA0KICAgTGVkZHksIEguICAoQm93ZG9pbiBDb2xsZWdlKS4gMTk5Ni4gIA0KDQogIEJhbWZpZWxkIE1hcmluZSBTdGF0aW9uLCBCYW1maWVsZCwgQnJpdGlzaCBDb2x1bWJpYSAoc3R1ZGVudCdzIGhvbWUgdW5pdmVyc2l0eSkNCiAgIEJyb2NrLCBSLiwgQmVhdHRpZSwgQS4gIChVbml2LiBWaWN0b3JpYSk7IFF1aW50ZXJvLCBKLiAgKFVuaXYuIEFsYmVydGEpLiAxOTkzLiAgIA0KICAgTXVycmF5LCBBLiAgKFVuaXYuIFZpY3RvcmlhKS4gMTk5Mi4NCg0KKiBEaXNzZXJ0YXRpb24gb3IgVGhlc2lzIENvbW1pdHRlZXMgKGNvbXBsZXRlZCkNClR5cnJlbGwsIE0uLCBQaC5ELiBVbml2ZXJzaXR5IG9mIE5ldyBIYW1wc2hpcmUuIDIwMDIuDQpXZW56ZWwsIEYuLCBNLlMuIE5vcnRoZWFzdGVybiBVbml2ZXJzaXR5LiAyMDAwLg0KV2F0c29uLCBLLiwgTS5TLiBOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eS4gMjAwMC4NClBhdWxsLCBLLiwgUGguRC4gTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHkuICAxOTk4Lg0KICBNY0xhdWdobGluLCBNLiwgTS5TLiBOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eS4gMTk5OC4NCg0KKiBSZXZpZXdlciANCkVudmlyb25tZW50YWwgU2NpZW5jZSBQcm9ncmFtIGF0IFdlc3Rlcm4gQ2Fyb2xpbmEgVW5pdmVyc2l0eS4gIENoYWlyZWQgMy1wZXJzb24gY29tbWl0dGVlIGNoYXJnZWQgd2l0aCBhbiBleHRlcm5hbCByZXZpZXcgb2YgdGhlIFdDVSBFbnZpcm9ubWVudGFsIFNjaWVuY2UgUHJvZ3JhbSBhbmQgaXRzIG1ham9yLiAgQ3VsbG93aGVlLCBOQy4gIE1hcmNoLUFwcmlsIDIwMTEuDQoNClRlbnVyZSBhbmQgUHJvbW90aW9uLiAgRXZhbHVhdGVkIHByb21vdGlvbiBkb3NzaWVyLCBVbml2ZXJzaXR5IG9mIE1hc3NhY2h1c2V0dHMgLSBBbWhlcnN0LiANCg0KUHJvZ3JhbW1hdGljIEVudmlyb25tZW50YWwgSW1wYWN0IFN0YXRlbWVudCAoUEVJUykuICBFdmFsdWF0ZWQgc2NpZW50aWZpYyBtZXJpdCBvZiBQRUlTIGNvbmNlcm5pbmcgcHJvcG9zZWQgbmF0aW9uYWwgYmFsbGFzdCB3YXRlciBkaXNjaGFyZ2Ugc3RhbmRhcmRzIGJlaW5nIGRldmVsb3BlZCBieSBVLlMuIENvYXN0IEd1YXJkIHRvIGNvbnRyb2wgYXF1YXRpYyBpbnZhc2l2ZSBzcGVjaWVzLiBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBDYW1icmlkZ2UsIE1BLiAyMDA1LTA2Lg0KDQpHcmFudCBwcm9wb3NhbHM6IE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbjsgTmF0aW9uYWwgU2VhIEdyYW50IENvbGxlZ2UgUHJvZ3JhbTsgQ2FsaWZvcm5pYSwgTWFyeWxhbmQsIE5ldyBKZXJzZXksIGFuZCBOb3J0aCBDYXJvbGluYSBTZWEgR3JhbnQgQ29sbGVnZSBQcm9ncmFtczsgSHVkc29uIFJpdmVyIEZvdW5kYXRpb247IE5hdHVyYWwgRW52aXJvbm1lbnQgUmVzZWFyY2ggQ291bmNpbCAoVS5LLik7IFJlc2VhcmNoIEdyYW50cyBDb3VuY2lsLCBIb25nIEtvbmc7IFNtaXRoc29uaWFuIFNjaG9sYXJseSBTdHVkaWVzIFByb2dyYW0uICANCg0KSm91cm5hbCBtYW51c2NyaXB0czogIEFuaW1hbCBCZWhhdmlvdXIsIEJpb2xvZ2ljYWwgQnVsbGV0aW47IEJpb2xvZ2ljYWwgSW52YXNpb25zOyBDYWhpZXJzIGRlIEJpb2xvZ2llIE1hcmluZTsgQ29uc2VydmF0aW9uIEJpb2xvZ3k7IENydXN0YWNlYW4gUmVzZWFyY2g7IEVjb2xvZ3k7IEV2b2x1dGlvbjsgRmlzaGVyaWVzIFJlc2VhcmNoOyBIeWRyb2Jpb2xvZ2lhOyBKb3VybmFsIG9mIHRoZSBFbGlzaGEgTWl0Y2hlbGwgU2NpZW50aWZpYyBTb2NpZXR5OyBKb3VybmFsIG9mIEV4cGVyaW1lbnRhbCBNYXJpbmUgQmlvbG9neSBhbmQgRWNvbG9neTsgSm91cm5hbCBvZiB0aGUgTWFyaW5lIEJpb2xvZ2ljYWwgQXNzb2NpYXRpb24sIFUuSy47IE1hcmluZSBCaW9sb2d5OyBNYXJpbmUgRWNvbG9neSBQcm9ncmVzcyBTZXJpZXMuIA0KDQogQm9vayBjaGFwdGVycyBvciBwcm9wb3NhbHM6IFNwcmluZ2VyIFByZXNzLCBXaWxleSBQcmVzcw0KDQoNCg0KDQoqIFBhcnRpY2lwYW50IGluIFRlYWNoaW5nIFdvcmtzaG9wcw0KUHJlY29uZmVyZW5jZSBXb3Jrc2hvcCwgQ2xpbWF0ZSBBZGFwdGF0aW9uLCBNaXRpZ2F0aW9uICYgRS1MZWFybmluZyAoQ0FNRUwpLCBDb3VuY2lsIG9mIEVudmlyb25tZW50YWwgRGVhbnMgYW5kIERpcmVjdG9ycyAoQ0VERCksIFZlcmdlbm5lcywgVlQuICAyMDExLg0KQW4gSW50cm9kdWN0aW9uIHRvIEdlb2dyYXBoaWMgSW5mb3JtYXRpb24gU3lzdGVtcyAoR0lTKSBmb3IgRWR1Y2F0b3JzLiAgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BLiAyMDA2Lg0KRmFjdWx0eSBXcml0aW5nIFdvcmtzaG9wLiAgU21pdGggQ29sbGVnZSwgTm9ydGhhbXB0b24sIE1BLiAyMDA1Lg0KTlNGIENoYXV0YXVxdWEgU2hvcnQgQ291cnNlLiBDb25zZXJ2YXRpb24gQmlvbG9neSBDb25zaWRlcmVkLiAgSGFydmFyZCBVbml2ZXJzaXR5LCBDYW1icmlkZ2UsIE1BLiAgMjAwMS4NClByZWNvbmZlcmVuY2UgV29ya3Nob3AsIFRlYWNoaW5nIEV2b2x1dGlvbiB0byBVbmRlcmdyYWR1YXRlcywgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEV2b2x1dGlvbiwgTWFkaXNvbiwgV0kuIDE5OTkuDQpOU0YgQ2hhdXRhdXF1YSBTaG9ydCBDb3Vyc2UuICBUaGUgTG9zcyBvZiB0aGUgV29ybGQncyBNYXJpbmUgQmlvZGl2ZXJzaXR5LiAgTmV3IEVuZ2xhbmQgQXF1YXJpdW0sIEJvc3RvbiwgTUEuIDE5OTkuDQozcmQgQW5udWFsIExpbGx5LU5ldyBFbmdsYW5kIENvbmZlcmVuY2UsIER1cmhhbSwgTkguIDE5OTcuDQoNCiogUHVibGljIE91dHJlYWNoDQpMZWN0dXJlIG9uIG1hcmluZSBjb25zZXJ2YXRpb24gYmlvbG9neSB0byBwdWJsaWMgYXQgU2lsdmlvIE8uIENvbnRlIE5hdGlvbmFsIEZpc2ggYW5kIFdpbGRsaWZlIFJlZnVnZSdzIEdyZWF0IEZhbGxzIERpc2NvdmVyeSBDZW50ZXIuICBUdXJuZXJzIEZhbGxzLCBNQSAoMjAxMSkuDQpMZWN0dXJlcyBvbiBtYXJpbmUgYmlvaW52YXNpb25zIGFuZCBtYXJpbmUgY29uc2VydmF0aW9uIGJpb2xvZ3kgZm9yIFNtaXRoIENvbGxlZ2UsIFlhbGUgVW5pdmVyc2l0eSwgYW5kIFN0LiBNYXJ5J3MgQ29sbGVnZSBhbHVtbmFlLiBBbHVtbmFlIEFzc29jaWF0aW9uIG9mIFNtaXRoIENvbGxlZ2UuIEdhbGFwYWdvcywgRWN1YWRvciAoMjAwOSkuDQpMZWN0dXJlIG9wZW4gdG8gY2FtcHVzIGFuZCBjb21tdW5pdHkgZW50aXRsZWQgIkNhbiBsaWZlIG9uIEVhcnRoIHN0YW5kIHRoZSBoZWF0PyBCaW9kaXZlcnNpdHkgYW5kIGNsaW1hdGUgY2hhbmdlIiBhcyBwYXJ0IG9mIHRoZSBOYXRpb25hbCBUZWFjaC1JbiBvbiBHbG9iYWwgV2FybWluZyBTb2x1dGlvbnMuICBTbWl0aCBDb2xsZWdlICgyMDA5KS4NClByZXNlbnRhdGlvbnMgdG8gZm91cnRoIGdyYWRlcnMgYXQgSmFja3NvbiBTdC4gU2Nob29sIG9uIGludmVydGVicmF0ZXMgKDIwMDYpIGFuZCBjb3JhbCByZWVmcyAoMjAwNikuDQpQcmVzZW50YXRpb24gb2YgbWFyaW5lIGludmVydGVicmF0ZXMgdG8gc2l4dGggZ3JhZGVycyBhdCBCZW1lbnQgU2Nob29sLCBEZWVyZmllbGQsIE1BICgyMDA0KS4gDQpQcmVzZW50YXRpb24gb2YgaW5zZWN0cyB0byBzcGVjaWFsIG5lZWRzIGNoaWxkcmVuIGZyb20gTm9ydGhhbXB0b24gQ2VudGVyIGZvciBDaGlsZHJlbiBhbmQgRmFtaWxpZXMgTmV3IERpcmVjdGlvbiBTY2hvb2wgKDIwMDQpLg0KUHJlc2VudGF0aW9ucyBvZiB1c2Ugb2YgbWFwcyBpbiBjb25zZXJ2YXRpb24gYmlvbG9neSB0byBzZWNvbmQgYW5kIGZpZnRoIGdyYWRlIGNsYXNzZXMgYXQgSmFja3NvbiBTdHJlZXQgU2Nob29sLCBOb3J0aGFtcHRvbiwgTUEgKDIwMDQpLiANClByZXNlbnRhdGlvbiBvZiByaXZlciBpbnZlcnRlYnJhdGVzIHRvIGNvbWJpbmVkIHRoaXJkIGdyYWRlIGNsYXNzZXMgYXQgU21pdGggQ29sbGVnZSBDYW1wdXMgU2Nob29sLCBOb3J0aGFtcHRvbiwgTUEgKDIwMDMgJiAyMDA0KS4NCkludml0ZWQgbGVjdHVyZSwgIlN0cmFuZ2VycyBpbiBhIHN0cmFuZ2UgbGFuZDogYmlvbG9naWNhbCBpbnZhZGVycyBpbiBjb2FzdGFsIHdhdGVycy4iICBOZXcgSGF2ZW4gU21pdGggQ29sbGVnZSBDbHViLCBOZXcgSGF2ZW4sIENUICgyMDAyKS4gDQpNYXJpbmUgU2NpZW5jZSBDZW50ZXIncyAiQ29hc3R3ZWVrIE9wZW4gSG91c2UiLiBOYWhhbnQsIE1BICgxOTk2LTIwMDApLg0KUHJlc2VudGF0aW9uIG9mIG1hcmluZSBpbnZlcnRlYnJhdGVzIHRvIHNlY29uZCBncmFkZSBjbGFzcyBhdCBIYWRsZXkgRWxlbWVudGFyeSBTY2hvb2wuIFN3YW1wc2NvdHQsIE1BICgyMDAwKS4NCkludGVydGlkYWwgZmllbGQgdHJpcCBmb3IgSGFkbGV5ICYgU3RhbmxleSBTY2hvb2xzJyBCcm93bmllIHRyb29wLiBOYWhhbnQsIE1BICgyMDAwKS4NCkZpZWxkIHRyaXAgdG8gaWRlbnRpZnkgbm9uaW5kaWdlbm91cyBtYXJpbmUgb3JnYW5pc21zLiBNYXNzYWNodXNldHRzIEF1ZHVib24gU29jaWV0eSBEdXhidXJ5IEJlYWNoIFByb2dyYW0sIER1eGJ1cnksIE1BICgxOTk5KS4NCkludml0ZWQgdGFsayBvbiBtYXJpbmUgYmlvaW52YXNpb25zLCAiVGhlIGV4b3RpY3MgYXJlIGNvbWluZyEgSW50cm9kdWNlZCBtYXJpbmUgc3BlY2llcyBpbiBOZXcgRW5nbGFuZCIsIE1hc3NhY2h1c2V0dHMgQXVkdWJvbiBTb2NpZXR5LiAgV2VsbGZsZWV0IEJheSBXaWxkbGlmZSBTYW5jdHVhcnksIFNvdXRoIFdlbGxmbGVldCwgTUEgKDE5OTgpLg0KUHJlc2VudGF0aW9uIG9mIG1hcmluZSBpbnZlcnRlYnJhdGVzIHRvIE1vbnRlc3NvcmkgcHJlc2Nob29sLCBUaGUgQ2hpbGRyZW4ncyBXb3Jrc2hvcC4gTWFyYmxlaGVhZCwgTUEgKDE5OTgpLg0KSW52aXRlZCB0YWxrIG9uIG1hcmluZSBiaW9pbnZhc2lvbnMsICJUaGUgZXhvdGljcyBhcmUgY29taW5nISBJbnRyb2R1Y2VkIG1hcmluZSBzcGVjaWVzIGluIE5ldyBFbmdsYW5kIi4gICBNYXJpbmUgU2NpZW5jZSBDZW50ZXIgTWFyaW5lIExlY3R1cmUgU2VyaWVzLiAgTmFoYW50LCBNQSAoMTk5NikuDQoNCjExKSBQcm9mZXNzaW9uYWwgTWVtYmVyc2hpcHMNCiAgU29jaWV0eSBmb3IgQ29uc2VydmF0aW9uIEJpb2xvZ3kNCiBTaWdtYSBYaQ0KIEFzc29jaWF0aW9uIGZvciBFbnZpcm9ubWVudGFsIFN0dWRpZXMgYW5kIFNjaWVuY2VzDQpDb3VuY2lsIG9mIEVudmlyb25tZW50YWwgRGVhbnMgYW5kIERpcmVjdG9ycyAoTmF0aW9uYWwgQ291bmNpbCBmb3IgU2NpZW5jZSBhbmQgdGhlIEVudmlyb25tZW50KQ0KDQoxMikgQ29sbGVnZSBvciBEZXBhcnRtZW50YWwgQ29tbWl0dGVlcyBhbmQgT3RoZXIgQ29sbGVnZSBTZXJ2aWNlDQoqIFNtaXRoIENvbGxlZ2UNCiAgRml2ZS1Db2xsZWdlcw0KRmFjdWx0eSBtZW1iZXIgaW4gdGhlIEdyYWR1YXRlIFByb2dyYW0gaW4gT3JnYW5pc21pYyBhbmQgRXZvbHV0aW9uYXJ5IEJpb2xvZ3kgKE9FQiksIFVuaXZlcnNpdHkgb2YgTWFzc2FjaHVzZXR0cywgQW1oZXJzdCwgTWFzc2FjaHVzZXR0cyAoMjAwMS1wcmVzZW50KS4NCk9FQiBQcm9ncmFtIFNlbWluYXIgQ29tbWl0dGVlICgyMDAyLTIwMDMpDQpDb2FzdGFsICYgTWFyaW5lIFNjaWVuY2UgUHJvZ3JhbSBTdGVlcmluZyBDb21taXR0ZWUgKDIwMDItMjAwNywgMjAxMC1wcmVzZW50KQ0KDQogIENvbGxlZ2UNCkhvc3RlZCBXb29kcm93IFdpbHNvbiBWaXNpdGluZyBGZWxsb3csIEdsZW5uIFByaWNrZXR0IGZyb20gVGhlIE5hdHVyZSBDb25zZXJ2YW5jeSAgKE1hcmNoLUFwcmlsIDIwMTEpDQpFbnZpcm9ubWVudGFsIEZlbGxvdywgQ2VudGVyIGZvciB0aGUgRW52aXJvbm1lbnQsIEVjb2xvZ2ljYWwgRGVzaWduIGFuZCBTdXN0YWluYWJpbGl0eSAoQ0VFRFMpICgyMDA5LXByZXNlbnQpICANCkRpcmVjdG9yIG9mIHN0dWRlbnQgcHJlLW9yaWVudGF0aW9uL29yaWVudGF0aW9uIHByb2dyYW0gIlN1c3RhaW5hYmlsaXR5IGFuZCBhbiBFY29sb2dpY2FsIFNlbnNlIG9mIFBsYWNlIiAoMjAwNywgMjAwOCwgMjAwOSwgMjAxMCkgDQpTaXRlIGFzc2Vzc21lbnRzIG9mIFN0dWR5IEFicm9hZCBwcm9ncmFtcyBpbiBUYXNtYW5pYSwgUXVlZW5zbGFuZCwgYW5kIE5ldyBTb3V0aCBXYWxlcywgQXVzdHJhbGlhIGZvciBPZmZpY2Ugb2YgSW50ZXJuYXRpb25hbCBTdHVkeSAoMjAwOCkNCkNoYWlyIG9mIHRoZSBDZW50ZXIgZm9yIHRoZSBFbnZpcm9ubWVudCwgRWNvbG9naWNhbCBEZXNpZ24gYW5kIFN1c3RhaW5hYmlsaXR5IChDRUVEUykgQWR2aXNvcnkgU3ViY29tbWl0dGVlIHRvIHRoZSBDb21taXR0ZWUgb24gTWlzc2lvbnMgYW5kIFByaW9yaXRpZXMgKDIwMDcpDQpDaGFpciBvZiB0aGUgV29ya2luZyBHcm91cCB0byBkZXNpZ24gYSBDZW50ZXIgZm9yIHRoZSBFbnZpcm9ubWVudCwgRWNvbG9naWNhbCBEZXNpZ24gYW5kIFN1c3RhaW5hYmlsaXR5IChDRUVEUykgKDIwMDYtMjAwNykNCk1vZGVyYXRvciBvZiBwYW5lbCBmb3IgU21pdGggQWx1bW5hZSBBc3NvY2lhdGlvbiBlbnRpdGxlZCAiU21pdGggd29tZW4gYWRkcmVzcyB0aGUgaXNzdWVzOiBUb3dhcmQgYSBzdXN0YWluYWJsZSB3b3JsZCIsIERlbnZlciwgQ08sIE5vdmVtYmVyIDIwMDcuICANCkNvbW1pdHRlZSBvbiBTdXN0YWluYWJpbGl0eSAoMjAwNi1wcmVzZW50KSANClNpdGUgdmlzaXQgb2YgU2Nob29sIGZvciBJbnRlcm5hdGlvbmFsIFRyYWluaW5nJ3MgKFNJVCkgUGFuYW1hIHByb2dyYW0gKERldmVsb3BtZW50IGFuZCBDb25zZXJ2YXRpb24pIGZvciBJbnRlcm5hdGlvbmFsIFN0dWR5ICgyMDA1KSANClNjaWVuY2UgQ29tcGxleCBQcm9ncmFtIENvbW1pdHRlZSAoMjAwMy0yMDA0KSANCkZhY3VsdHkgRmVsbG93c2hpcCBBZHZpc29yLCBVZGFsbCBGZWxsb3dzaGlwICgyMDAyLTIwMDMsIDIwMDQtcHJlc2VudCkgDQpTaWdtYSBYaSBQcm9ncmFtIENoYWlyICAoMjAwMi0yMDAzKQ0KUHJlLW1ham9yIEFkdmlzb3IgKDIwMDItMjAwMywgMjAwNC1wcmVzZW50KQ0KDQogIERlcGFydG1lbnQgb2YgQmlvbG9naWNhbCBTY2llbmNlcw0KU2NpZW5jZSBQbGFubmluZyBDb21taXR0ZWUgKDIwMTEpDQoNCkdyYWR1YXRlIENvbW1pdHRlZSAoMjAwMi0yMDAzKSAoMjAwOS1wcmVzZW50KQ0KQ3VycmljdWx1bSBDb21taXR0ZWUgKDIwMDQtMjAwNSwgMjAwOC1wcmVzZW50KQ0KQ28tZGlyZWN0b3IsIE1hcmluZSBTY2llbmNlcyBNaW5vciAoMjAwMi1wcmVzZW50KQ0KU2VhcmNoIENvbW1pdHRlZSBmb3IgUGxhbnQgRWNvbG9naXN0ICgyMDA4LTA5KQ0KRXhlY3V0aXZlIENvbW1pdHRlZSAoMjAwNS0yMDA3KQ0KRW5kb3dlZCBGdW5kcyBDb21taXR0ZWUgKDIwMDUtMjAwOCkNClByZXNlbnRhdGlvbiBvZiB0aGUgTWFqb3IgQ29tbWl0dGVlICgyMDA0LTIwMDUpDQpTYWJpbi1SZWVkIFJlbm92YXRpb25zIENvbW1pdHRlZSAoMjAwNC0yMDA1KQ0KUmVzZWFyY2ggU3ltcG9zaXVtIENvbW1pdHRlZSAoMjAwMS0yMDA0KQ0KQ29sbG9xdWl1bSBDb21taXR0ZWUgKDIwMDItMjAwMykNCk1ham9ycyBBZHZpc29yICgyMDAyLXByZXNlbnQpDQoNCiAgRW52aXJvbm1lbnRhbCBTY2llbmNlICYgUG9saWN5IFByb2dyYW0gICANCkRpcmVjdG9yICgyMDA1LXByZXNlbnQpDQpDb29yZGluYXRlZCBsb2dpc3RpY3MgKGhpcmluZywgYWR2aXNpbmcsIHRlYWNoaW5nLCBvdXRyZWFjaCwgcGxhbm5pbmcpIGluIGZpcnN0IHllYXIgb2YgbmV3IEVudmlyb25tZW50YWwgU2NpZW5jZSBhbmQgUG9saWN5IG1ham9yICgyMDEwLTExKQ0KU2l0ZSB2aXNpdCBvZiBDb3JhbCBFZFZlbnR1cmVzIFByb2dyYW0gaW4gQmVsaXplIChKdW5lIDIwMTEpDQpDaGFpcmVkIFNlYXJjaCBDb21taXR0ZWUgZm9yIE1lbGxvbiBQb3N0ZG9jdG9yYWwgRmVsbG93IGluIEVudmlyb25tZW50YWwgU2NpZW5jZSBhbmQgUG9saWN5ICgyMDEwLTIwMTEpDQpDaGFpciBvZiBXb3JraW5nIEdyb3VwIHRvIERlc2lnbiBhIE1ham9yIGluIEVudmlyb25tZW50YWwgU2NpZW5jZSBhbmQgUG9saWN5ICgyMDA3LTA4KQ0KUHJvZ3JhbSByZXByZXNlbnRhdGl2ZSBhdCBtZWV0aW5ncyBvZiB0aGUgTmF0aW9uYWwgQ291bmNpbCBmb3IgU2NpZW5jZSBhbmQgdGhlIEVudmlyb25tZW50IChOQ1NFKSBhbmQgQ291bmNpbCBvZiBFbnZpcm9ubWVudGFsIERlYW5zIGFuZCBEaXJlY3RvcnMgKENFREQpICgyMDA2LCAyMDA3LCAyMDA4KSBhbmQgTm9ydGhlYXN0IEVudmlyb25tZW50YWwgU3R1ZGllcyBHcm91cCAoTkVFUykgKDIwMDYpDQpTZWFyY2ggQ29tbWl0dGVlIGZvciBFbnZpcm9ubWVudGFsIEVjb25vbWlzdCAoMjAwNy0wOCkNCkVTJlAgU3RlZXJpbmcgQ29tbWl0dGVlICgyMDAxLXByZXNlbnQpDQpSZXByZXNlbnRhdGl2ZSBvbiBTY2llbmNlIENlbnRlciBQbGFubmluZyBDb21taXR0ZWUgKDIwMDUtcHJlc2VudCkNClNwYXRpYWwgQW5hbHlzaXMgTGFib3JhdG9yeSBTdGVlcmluZyBDb21taXR0ZWUgKDIwMDUtcHJlc2VudCkNCg0KKiBOb3J0aGVhc3Rlcm4gVW5pdmVyc2l0eSAgIA0KICAgVW5pdmVyc2l0eQ0KTm9ydGhlYXN0ZXJuIFVuaXZlcnNpdHkgRGl2ZSBDb250cm9sIEJvYXJkICgxOTk3LTAwKQ0KU2lnbWEgWGkgU2VjcmV0YXJ5LCBOb3J0aGVhc3Rlcm4gY2hhcHRlciAoMTk5Ny05OCkgDQogIENvbGxlZ2Ugb2YgQXJ0cyAmIFNjaWVuY2VzDQpTY2hvbGFyc2hpcCBhbmQgU2FiYmF0aWNhbCBDb21taXR0ZWUgKDE5OTktMDApDQpNYXJpbmUgU2NpZW5jZSBDZW50ZXIgU2FmZXR5IENvbW1pdHRlZSAoMjAwMCkNCkVhc3QvV2VzdCBGYWN1bHR5IENvbW1pdHRlZSAoMTk5NS0wMSkNCk1hcmluZSBTY2llbmNlIEFzc29jaWF0ZXMgKDE5OTUtMDEpIA0KICBEZXBhcnRtZW50IG9mIEJpb2xvZ3kNClBoLkQuIFF1YWxpZnlpbmcgRXhhbWluYXRpb24gQ29tbWl0dGVlICgxOTk2LTk4LCAxOTk5LTAwKQ0KR3JhZHVhdGUgQ29tbWl0dGVlICgxOTk3LTk4KQ0KQ29sbG9xdWl1bSBhbmQgVmlzaXRpbmcgU2NpZW50aXN0IENvbW1pdHRlZSAoMTk5Ny0wMCkNClVuZGVyZ3JhZHVhdGUgQ3VycmljdWx1bSBDb21taXR0ZWUgKDE5OTYtOTgpDQpQcm9wb3NhbCBkZXZlbG9wbWVudCBmb3IgQ29uY2VudHJhdGlvbiAmIE1pbm9yIGluIE1hcmluZSBCaW9sb2d5ICgxOTk1LTk3KSANCg0KICANCg0KDQoNCg0KDQoNCg0KDQpQQUdFICAyMA0KDQoNClBBR0UgIDE5</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912460306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

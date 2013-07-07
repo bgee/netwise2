@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:05 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911401306521"  usageLimitType="allocation" usageLimit="200" currentUsage="101" remainingUsage="99" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Anders Lund</FormattedName>
+<GivenName>Anders</GivenName>
+<FamilyName>Lund</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>PL</CountryCode>
+<Municipality>Krakow</Municipality>
+<DeliveryAddress>
+<AddressLine>1. The</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (107) 201-0728</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>107</AreaCityCode>
+<SubscriberNumber>201-0728</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>University of Detroit Mercy</EmployerOrgName>
+<PositionHistory>
+<Title>Professor of Chemistry, Department of Chemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1983-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Weizmann Institute of Science</EmployerOrgName>
+<PositionHistory>
+<Title>Weston Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1983-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Rehovot</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>IL</CountryCode>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Max-Planck Institute for Polymer Research</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor, Department of Chemistry, University of Bologna, Italy</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Germany</Region>
+<Municipality>Mainz</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>February- Visiting Professor, Department of Chemistry, University of Bologna, Italy
+</Description>
+<StartDate>
+<AnyDate>2004-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Florence</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor, Department of Chemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Italy</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Tokyo Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor, Department of Polymer Chemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1998-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Weizmann Institute of Science</EmployerOrgName>
+<PositionHistory>
+<Title>Varon Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Rehovot</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>IL</CountryCode>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Centre d&apos;Ãtudes NuclÃ©aires de Grenoble
+</Description>
+<StartDate>
+<AnyDate>1989-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Israel Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Israel</Region>
+<Municipality>Haifa</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.Sc</DegreeName>
+<DegreeMajor>
+<Name>Chemical Engineering, Technion</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Israel Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Israel</Region>
+<Municipality>Haifa</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.Sc</DegreeName>
+<DegreeMajor>
+<Name>Polymer Chemistry, Technion</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Israel Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Israel</Region>
+<Municipality>Haifa</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Physical Chemistry, Technion</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>1989-01-01</StringDate></Date>
+<Description>Foreign Collaborator Fellowship of the French Atomic Energy Commission Grenoble France</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1990-01-01</StringDate></Date>
+<Description>Varon Professorship Rehovot Israel</Description>
+<IssuingAuthority>Weizmann Institute of Science</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1990-01-01</StringDate></Date>
+<Description>President&apos;s Award for Faculty Excellence</Description>
+<IssuingAuthority>University of Detroit</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1990-01-01</StringDate></Date>
+<Description>National Science Foundation (NSF) Award for Exceptional Creativity in Research</Description>
+</Achievement>
+<Achievement>
+<Description>Founders&apos; Fellowship of the American Association of University Women (AAUW) 1991/92 The J. Heyrovsky Honorary</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1996-01-01</StringDate></Date>
+<Description>Medal of the in the Chemical Sciences</Description>
+<IssuingAuthority>Czech Academy of Sciences for Merit</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1996-10-01 - 1997-02-01</StringDate></Date>
+<Description>National Science Foundation/Center for Global Partnership (Japan) Fellowship</Description>
+<IssuingAuthority>the Tokyo Institute of Technology</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1998-01-01</StringDate></Date>
+<Description>National Science Foundation (NSF) Award for Exceptional Creativity in Research</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2001-01-01 - 2001-05-01</StringDate></Date>
+<Description>Fellow of the University of Bologna</Description>
+<IssuingAuthority>Institute of Advanced Study</IssuingAuthority>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QmlvZ3JhcGhpY2FsIFNrZXRjaA0KU2h1bGFtaXRoIFNjaGxpY2sgICBQcm9mZXNzb3Igb2YgUGh5c2ljYWwgYW5kIFBvbHltZXIgQ2hlbWlzdHJ5DQoNCkVkdWNhdGlvbg0KQi5TYy4sIENoZW1pY2FsIEVuZ2luZWVyaW5nLCBUZWNobmlvbiwgSXNyYWVsIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBIYWlmYSwgSXNyYWVsLg0KTS5TYy4sIFBvbHltZXIgQ2hlbWlzdHJ5LCBUZWNobmlvbiwgSXNyYWVsIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBIYWlmYSwgSXNyYWVsLg0KRC4gU2MuLCBQaHlzaWNhbCBDaGVtaXN0cnksIFRlY2huaW9uLCBJc3JhZWwgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEhhaWZhLCBJc3JhZWwuDQoNCkFwcG9pbnRtZW50cw0KUHJvZmVzc29yIG9mIENoZW1pc3RyeSwgRGVwYXJ0bWVudCBvZiBDaGVtaXN0cnksIFVuaXZlcnNpdHkgb2YgRGV0cm9pdCBNZXJjeSwgMTk4My1wcmVzZW50Lg0KV2VzdG9uIFZpc2l0aW5nIFByb2Zlc3NvciwgV2Vpem1hbm4gSW5zdGl0dXRlIG9mIFNjaWVuY2UsIFJlaG92b3QsIElzcmFlbCwgQXByaWwtSnVuZSAyMDA4Lg0KVmlzaXRpbmcgUHJvZmVzc29yLCBNYXgtUGxhbmNrIEluc3RpdHV0ZSBmb3IgUG9seW1lciBSZXNlYXJjaCwgTWFpbnosIEdlcm1hbnksIEZlYnJ1YXJ5LSBNYXkgMjAwNC4NClZpc2l0aW5nIFByb2Zlc3NvciwgRGVwYXJ0bWVudCBvZiBDaGVtaXN0cnksIFVuaXZlcnNpdHkgb2YgQm9sb2duYSwgSXRhbHksIEphbnVhcnktTWF5IDIwMDEuDQpWaXNpdGluZyBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgQ2hlbWlzdHJ5LCBVbml2ZXJzaXR5IG9mIEZsb3JlbmNlLCBJdGFseSwgTWF5IDE5OTguDQpWaXNpdGluZyBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgUG9seW1lciBDaGVtaXN0cnksIFRva3lvIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCAxOTk2LTE5OTcuDQpWYXJvbiBWaXNpdGluZyBQcm9mZXNzb3IsIFdlaXptYW5uIEluc3RpdHV0ZSBvZiBTY2llbmNlLCBSZWhvdm90LCBJc3JhZWwsIEphbnVhcnktSnVuZSAxOTkwLg0KVmlzaXRpbmcgUHJvZmVzc29yLCBDZW50cmUgZCfDiXR1ZGVzIE51Y2zDqWFpcmVzIGRlIEdyZW5vYmxlLCBBdWd1c3QgMTk4OS1KYW51YXJ5IDE5OTAuDQoNCkZlbGxvd3NoaXBzIGFuZCBBd2FyZHMNCiogRm9yZWlnbiBDb2xsYWJvcmF0b3IgRmVsbG93c2hpcCBvZiB0aGUgRnJlbmNoIEF0b21pYyBFbmVyZ3kgQ29tbWlzc2lvbiwgR3Jlbm9ibGUsIEZyYW5jZSwgMTk4OS4NCiogVmFyb24gUHJvZmVzc29yc2hpcCwgV2Vpem1hbm4gSW5zdGl0dXRlIG9mIFNjaWVuY2UsIFJlaG92b3QsIElzcmFlbCwgMTk5MC4NCiogUHJlc2lkZW50J3MgQXdhcmQgZm9yIEZhY3VsdHkgRXhjZWxsZW5jZSwgVW5pdmVyc2l0eSBvZiBEZXRyb2l0LCAxOTkwLg0KKiBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gKE5TRikgQXdhcmQgZm9yIEV4Y2VwdGlvbmFsIENyZWF0aXZpdHkgaW4gUmVzZWFyY2gsIDE5OTAuDQoqIEZvdW5kZXJzJyBGZWxsb3dzaGlwIG9mIHRoZSBBbWVyaWNhbiBBc3NvY2lhdGlvbiBvZiBVbml2ZXJzaXR5IFdvbWVuIChBQVVXKSwgMTk5MS85Mi4NCiogVGhlIEouIEhleXJvdnNreSBIb25vcmFyeSBNZWRhbCBvZiB0aGUgQ3plY2ggQWNhZGVteSBvZiBTY2llbmNlcyBmb3IgTWVyaXQgaW4gdGhlIENoZW1pY2FsICBTY2llbmNlcywgMTk5Ni4NCiogTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uL0NlbnRlciBmb3IgR2xvYmFsIFBhcnRuZXJzaGlwIChKYXBhbikgRmVsbG93c2hpcCBhdCB0aGUgVG9reW8gSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIE9jdG9iZXIgMTk5Ni1GZWJydWFyeSAxOTk3Lg0KKiBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gKE5TRikgQXdhcmQgZm9yIEV4Y2VwdGlvbmFsIENyZWF0aXZpdHkgaW4gUmVzZWFyY2gsIDE5OTguDQoqIEZlbGxvdyBvZiB0aGUgSW5zdGl0dXRlIG9mIEFkdmFuY2VkIFN0dWR5LCBVbml2ZXJzaXR5IG9mIEJvbG9nbmEsIEphbnVhcnktTWF5IDIwMDEuDQoqIEhvbm9yYXJ5IERvY3RvcmF0ZSAoRG9jdG9yIEhvbm9yaXMgQ2F1c2EpIGZyb20gTGlua8O2cGluZyBVbml2ZXJzaXR5LCBTd2VkZW4sIE1heSAyMDAzLg0KKiBUaGUgTWFyaWEgU2tsb2Rvd3NrYS1DdXJpZSBNZWRhbCBmcm9tIHRoZSBQb2xpc2ggUmFkaWF0aW9uIFJlc2VhcmNoIFNvY2lldHkpLCAiaW4gYXBwcmVjaWF0aW9uIG9mIHlvdXIgYWNoaWV2ZW1lbnRzIGluIHRoZSBmaWVsZCBvZiByYWRpYXRpb24gY2hlbWlzdHJ5IGFuZCBwaG90b2NoZW1pc3RyeSBhbmQgeW91ciBmcnVpdGZ1bCBjb2xsYWJvcmF0aW9uIHdpdGggUG9saXNoIHNjaWVudGlzdHMiIChNYXJjaCAyMDA3KS4NCiogVURNIERpc3Rpbmd1aXNoZWQgRmFjdWx0eSBBd2FyZC0yMDA3DQoqIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiAoTlNGKSBBd2FyZCBmb3IgRXhjZXB0aW9uYWwgQ3JlYXRpdml0eSBpbiBSZXNlYXJjaCwgMjAwNy4NCg0KUmVzZWFyY2ggSW50ZXJlc3RzDQpFU1IgYW5kIEVTUkkgb2YgZGVncmFkYXRpb24gYW5kIHN0YWJpbGl6YXRpb24gcHJvY2Vzc2VzIGluIHRoZXJtYWxseS0gYW5kIGNoZW1pY2FsbHktdHJlYXRlZCBhbmQgVVYtaXJyYWRpYXRlZCBwb2x5bWVyczsgc3RhYmlsaXR5IG9mIHBvbHltZXJpYyBtZW1icmFuZXMgdXNlZCBpbiBmdWVsIGNlbGxzOyBERlQgY2FsY3VsYXRpb25zIG9mIHRoZSBnZW9tZXRyeSBhbmQgZWxlY3Ryb25pYyBzdHJ1Y3R1cmUgb2Ygb3JnYW5pYyByYWRpY2Fscywgd2l0aCBlbXBoYXNpcyBvbiBmbHVvcmluYXRlZCByYWRpY2FsczsgRVNSSSBpbiBkb3NpbWV0cnkgYW5kIHR1bW9yLXRhcmdldGVkIHJhZGlhdGlvbiBmb3IgY2FuY2VyIHRyZWF0bWVudDsgZHluYW1pY3Mgb2YgcG9seW1lcnMgaW50ZXJjYWxhdGVkIGluIHRoZSBnYWxsZXJpZXMgb2YgYSBmbHVvcm9taWNhIGlub3JnYW5pYyBjbGF5Lg0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnMNCkZpdmUgcHVibGljYXRpb25zIGRpcmVjdGx5IHJlbGF0ZWQgdG8gcmVjZW50IHJlc2VhcmNoOg0KKiBEYW5pbGN6dWssIE0uOyBDb21zLCBGLkQuOyBTY2hsaWNrLCBTLiBWaXN1YWxpemluZyBDaGVtaWNhbCBSZWFjdGlvbnMgYW5kIENyb3Nzb3ZlciBQcm9jZXNzZXMgaW4gYSBGdWVsIENlbGwgSW5zZXJ0ZWQgaW4gdGhlIEVTUiBSZXNvbmF0b3I6IERldGVjdGlvbiBieSBTcGluIFRyYXBwaW5nIG9mIE94eWdlbiBSYWRpY2FscywgTmFmaW9uLURlcml2ZWQgRnJhZ21lbnRzLCBhbmQgSHlkcm9nZW4gYW5kIERldXRlcml1bSBBdG9tcywgSi4gUGh5cy4gQ2hlbS4gQiAyMDA5LCAxMTMsIDgwMzEtODA0Mi4NCiogRGFuaWxjenVrLCBNLjsgQ29tcywgRi5ELjsgU2NobGljaywgUy4gRnJhZ21lbnRhdGlvbiBvZiBNb2RlbCBDb21wb3VuZHMgRXhwb3NlZCB0byBPeHlnZW4gUmFkaWNhbHM6IFNwaW4gVHJhcHBpbmcgRVNSIEV4cGVyaW1lbnRzLCBhbmQgSW1wbGljYXRpb25zIGZvciBCZWhhdmlvciBvZiBQRU1zIGluIEZ1ZWwgQ2VsbHMsIEZ1ZWwgQ2VsbHMgMjAwOCwgOCg2KSwgNDM2LTQ1Mi4NCiogU3BhbGVrLCBULjsgS3J1Y3phbGEsIEsuOyBTb2prYSwgWiw7IFNjaGxpY2ssIFMuIERlZHVjaW5nIDFEIENvbmNlbnRyYXRpb24gUHJvZmlsZXMgRnJvbSBFU1IgSW1hZ2luZzogQSBOZXcgQXBwcm9hY2ggQmFzZWQgb24gT3B0aW1pemF0aW9uIFdpdGggdGhlIEdlbmV0aWMgQWxnb3JpdGhtLCBKLiBNYWduLiBSZXNvbi4gMjAwNywgMTg5LCAxMzktMTUwLg0KKiBCb3NuamFrb3ZpYywgQS47IFNjaGxpY2ssIFMuIFNwaW4gVHJhcHBpbmcgYnkgRE1QTyBpbiBGZW50b24gTWVkaWEgaW4gdGhlIFByZXNlbmNlIG9mIE5hZmlvbiBQZXJmbHVvcmluYXRlZCBNZW1icmFuZXM6IExpbWl0YXRpb25zIGFuZCBQb3RlbnRpYWwsIEouIFBoeXMuIENoZW0uIEIgMjAwNiwgMTEwLCAxMDcyMC0xMDcyOC4NCiogS2FkaXJvdiwgTS5LLjsgQm9zbmpha292aWMsIEEuOyBTY2hsaWNrLCBTLiBNZW1icmFuZS1EZXJpdmVkIEZsdW9yaW5hdGVkIFJhZGljYWxzIERldGVjdGVkIGJ5IEVTUiBpbiBVVi1JcnJhZGlhdGVkIE5hZmlvbiBhbmQgRG93IElvbm9tZXJzOiBUaGUgRWZmZWN0IG9mIENvdW50ZXJpb25zIGFuZCBIMk8yLCBKLiBQaHlzLiBDaGVtLiBCIDIwMDUsIDEwOSwgNzY2NC03NjcwLg0KDQpGaXZlIGFkZGl0aW9uYWwgcHVibGljYXRpb25zOg0KKiBHdXN0YWZzc29uLCBILjsgS3J1Y3phbGEsIEsuOyBMdW5kLCBFLjsgU2NobGljaywgUy4gVmlzdWFsaXppbmcgdGhlIERvc2UgRGlzdHJpYnV0aW9uIGFuZCBMaW5lYXIgRW5lcmd5IFRyYW5zZmVyIGJ5IDFEIGFuZCAyRCBFU1IgSW1hZ2luZzogQSBQb3Rhc3NpdW0gRGl0aGlvbmF0ZSBEb3NpbWV0ZXIgSXJyYWRpYXRlZCB3aXRoIEM2KyBhbmQgTjcrIElvbnMsIEouIFBoeXMuIENoZW0uIEIgMjAwOCwgMTEyLCA4NDM3LTg0NDIgKExldHRlcikuDQoqIEx1bmQsIEEuOyBNYWNvbWJlciwgTC47IERhbmlsY3p1aywgTS47IFN0ZXZlbnMsIEouOyBTY2hsaWNrLCBTLiBEZXRlcm1pbmluZyB0aGUgR2VvbWV0cnkgYW5kIE1hZ25ldGljIFBhcmFtZXRlcnMgb2YgRmx1b3JpbmF0ZWQgUmFkaWNhbHMgYnkgU2ltdWxhdGlvbiBvZiBQb3dkZXIgRVNSIFNwZWN0cmEgYW5kIERGVCBDYWxjdWxhdGlvbnMsIEouIFBoeXMuIENoZW0uIEIgMjAwNywgMTExLCA5NDg0LTk0OTEuDQoqIEFkdmFuY2VkIEVTUiBNZXRob2RzIGluIFBvbHltZXIgUmVzZWFyY2gsIFMuIFNjaGxpY2ssIEVkLjsgV2lsZXk6IEhvYm9rZW4sIE5KLCAyMDA2OyAxMiBjaGFwdGVycywgMzUzIHBhZ2VzLCBJU0JOIDk3ODA0NzE3MzE4OTQuIA0KKiBSb2R1bmVyLCBFLjsgU2NobGljaywgUy4gIEVTUiBNZXRob2RzIGZvciBBc3Nlc3NpbmcgdGhlIFN0YWJpbGl0eSBvZiBQb2x5bWVyIE1lbWJyYW5lcyBVc2VkIGluIEZ1ZWwgQ2VsbHMsICBJbiAgQWR2YW5jZWQgRVNSIE1ldGhvZHMgaW4gUG9seW1lciBSZXNlYXJjaCwgUy4gU2NobGljaywgRWQuOyBXaWxleTogSG9ib2tlbiwgTkosIDIwMDY7IENoYXB0ZXIgOCwgcHAgMTk3LTIyOC4gICANCiogTWl3YSwgWS47IERyZXdzLCBBLlIuOyBTY2hsaWNrLCBTLiBVbmlxdWUgU3RydWN0dXJlIGFuZCBEeW5hbWljcyBvZiBQb2x5KGV0aHlsZW5lIG94aWRlKSBpbiBMYXllcmVkIFNpbGljYXRlIE5hbm9jb21wb3NpdGVzOiBBY2NlbGVyYXRlZCBTZWdtZW50YWwgTW9iaWxpdHkgUmV2ZWFsZWQgYnkgU2ltdWxhdGluZyBFU1IgU3BlY3RyYSBvZiBTcGluIExhYmVscywgWFJELCBGVElSLCBhbmQgRFNDLCBNYWNyb21vbGVjdWxlcyAyMDA4LCA0MSwgNDcwMS00NzA4Lg0KDQpDb2xsYWJvcmF0b3JzICBkdXJpbmcgdGhlIHBhc3QgZml2ZSB5ZWFycw0KQW5kZXJzIEx1bmQsIEV2YSBMdW5kLCBLLiBLcnVjemFsYSwgWi4gU29qa2EsIE0uSy4gS2FkaXJvdiwgTS5WLiBNb3R5YWtpbiwgSi4gSGVhbHksIEYuRC4gQ29tcywgSC4gR3VzdGFmc3NvbiwgRS4gUm9kdW5lciwgVC4gU3BhbGVrLCBaLiBTb2prYSwgSi4gU3RldmVucywgRy4gSmVzY2hrZSwgWW9oZWkgTWl3YS4NCg0KU3luZXJnaXN0aWMgQWN0aXZpdGllcw0KR3JhZHVhdGUgYW5kIHVuZGVyZ3JhZHVhdGUgc3R1ZGVudHMsIGFzIHdlbGwgYXMgcG9zdGRvY3RvcmFsIGZlbGxvd3MgYW5kIHZpc2l0aW5nIHNjaWVudGlzdHMgYXJlIHBhcnQgb2YgdGhlIHJlc2VhcmNoIHRlYW0uIFRoZSBjb250cmlidXRpb24gb2YgZWFjaCBwYXJ0aWNpcGFudCB3aWxsIGJlIHNjcnV0aW5pemVkLCBhbmFseXplZCwgc2hhcmVkIGJ5IGFsbCwgYW5kICBkaXNzZW1pbmF0ZWQgaW4gZ3JvdXAgc2VtaW5hcnMgYW5kIGF0IG5hdGlvbmFsIGFuZCBwb3NzaWJseSBpbnRlcm5hdGlvbmFsIG1lZXRpbmdzLiBUaGlzIFBJIHdpbGwgdGVhY2ggYSBjb3Vyc2UgZW50aXRsZWQgIkZ1bmRhbWVudGFscyBvZiBGdWVsIENlbGxzIiB0b2dldGhlciB3aXRoIGFuIGVuZ2luZWVyaW5nIHByb2Zlc3Nvci4gVGhpcyBjb3Vyc2Ugd2lsbCBiZSB0YWlsb3JlZCBmb3IgZW5naW5lZXJzIGFuZCBzY2llbnRpc3RzIHdobyBhcmUgY3VycmVudGx5IHVuZW1wbG95ZWQgZHVlIHRvIHRoZSBlY29ub21pYyBwcm9ibGVtcyB0aGF0IGFyZSBzbyBzZXJpb3VzIGluIHRoZSBVUyBhbmQgaW4gTWljaGlnYW4gaW4gcGFydGljdWxhciwgYW5kIG5lZWQgdG8gYmUgcmV0cmFpbmVkIGFuZCB0byBwYXJ0aWNpcGF0ZSBpbiBtb3JlICJncmVlbiIgd2F5cyB0byBnZW5lcmF0ZSBjbGVhbiBlbmVyZ3kuIA0KT3VyIGNvbGxhYm9yYXRpb24gd2l0aCBzY2llbnRpc3RzIGFuZCBlbmdpbmVlcnMgZnJvbSAzTSwgRm9yZCBMYWJvcmF0b3JpZXMsIGFuZCB0aGUgRnVlbCBDZWxsIFJlc2VhcmNoIExhYiBvZiBHZW5lcmFsIE1vdG9ycyBvbiB0aGUgZGVncmFkYXRpb24gYW5kIHN0YWJpbGl6YXRpb24gb2YgbWVtYnJhbmVzIHVzZWQgaW4gZnVlbCBjZWxscyBpcyBhbiBleGFtcGxlIG9mIHRoZSBjb25uZWN0aXZpdHkgYmV0d2VlbiBmdW5kYW1lbnRhbCByZXNlYXJjaCBhbmQgYXBwbGljYXRpb25zOiBVbmRlcnN0YW5kaW5nIHRoZSBtZWNoYW5pc20gb2YgbWVtYnJhbmUgZGVncmFkYXRpb24gZW5hYmxlcyB3b3JrIG9uIGJldHRlciBtZW1icmFuZXMuIEN1cnJlbnRseSB3ZSBhcmUgcGxhbm5pbmcgdG9nZXRoZXIgd2l0aCBvdXIgY29sbGFib3JhdG9ycyBmcm9tIEdNIGFuZCAzTSBDb21wYW55IHRoZSBpbml0aWF0aW9uIG9mIEVTUiBJbWFnaW5nIHN0dWRpZXMgb2YgYSBGQy4gVGhlIGV4Y2hhbmdlIG9mIGtub3dsZWRnZSBiZXR3ZWVuIG91ciBncm91cCBhbmQgc2NpZW50aXN0cyBmcm9tIGFjYWRlbWljIGluc3RpdHV0aW9ucyBhbmQgaW5kdXN0cmlhbCBsYWJzIGlzIGJlbmVmaWNpYWwgYW5kIGEgc291cmNlIG9mIGdyZWF0IGludGVsbGVjdHVhbCBzYXRpc2ZhY3Rpb24gZm9yIHRoaXMgUEkgYW5kIG1lbWJlcnMgb2YgaGVyIGdyb3VwLiANCkN1cnJlbnRseSB3ZSBoYXZlIGludGVybmF0aW9uYWwgY29sbGFib3JhdGlvbnMgd2l0aCB0aHJlZSBncm91cHM6IDEuIFRoZSBLcmFrb3csIFBvbGFuZCwgZ3JvdXAgd2lsbCBwYXJ0aWNpcGF0ZSBpbiBvdXIgZXhwZXJpbWVudHMgdG8gdXNlIEVTUiBJbWFnaW5nIChFU1JJKSBvZiBhIEZDLiBUaGUgcGFydGljaXBhbnRzIGFyZSBEci4gSy4gS3J1Y3phbGEgYW5kIHBvc3NpYmx5IGFsc28gTC4gTGFuY3Vja2ksIGhpcyBkb2N0b3JhbCBzdHVkZW50IGluIEtyYWtvdy4gMi4gVGhlIFlhc3N5LCBSb21hbmlhLCBncm91cCB3aWxsIHRha2UgcGFydCBpbiBvdXIgZWZmb3J0cyBvbiB0aGUgdXNlIG9mIGN5Y2xvZGV4dHJpbnMgKENEcykgdG8gaW5jcmVhc2UgdGhlIGxpZmV0aW1lcyBvZiBzaG9ydC1saXZlZCBmcmVlIHJhZGljYWxzIGFuZCBzcGluIGFkZHVjdHMsIGFuZCB0byBzZWxlY3RpdmVseSBjb21wbGV4YXRlIGZsdW9yaW5hdGVkIGFkZHVjdHMuIDMuIFRoZSBKYXBhbmVzZSBjb2xsYWJvcmF0b3IsIFlvaGVpIE1pd2EsIHdhcyBhIHBvc3Rkb2MgaW4gRGV0cm9pdCBhbmQgd2lsbCBiZSBpbnZvbHZlZCBpbiB0aGUgc3R1ZHkgb2YgZHluYW1pY3Mgb2YgcG9seW1lcnMgaW5zaWRlIENEcywgYW5kIHBvc3NpYmx5IG90aGVyIGhvc3RzLiBIZSBpcyBza2lsbGVkIGluIHNwaW4tbGFiZWxpbmcgb2YgcG9seW1lcnMgYW5kIGluIHNpbXVsYXRpbmcgdGhlIEVTUiBzcGVjdHJhLg0KDQoNCg0KDQoNCg0KDQoNCg0KUEFHRQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911401306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

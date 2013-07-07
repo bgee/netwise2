@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:19 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914020306521"  usageLimitType="allocation" usageLimit="200" currentUsage="44" remainingUsage="156" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>David C. Richardson</FormattedName>
+<GivenName>David</GivenName>
+<MiddleName>C.</MiddleName>
+<FamilyName>Richardson</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New Paltz</Municipality>
+<DeliveryAddress>
+<AddressLine>1 Hawk Drive</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (845) 257-3805</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>845</AreaCityCode>
+<SubscriberNumber>257-3805</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>richardsond@newpaltz.edu</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://www2.newpaltz.edu/~richardd/</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>SUNY New Paltz</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Biology Department</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New Paltz</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cary Institute of Ecosystem Studies</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Millbrook</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Visiting Scholar</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NH</Region>
+<Municipality>Hanover</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Dept. of Biological Sciences, Dartmouth College, Cary Institute of Ecosystem Studies, Millbrook, NY
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Stroud Water Research Center</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Avondale</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>General Biology II (BIO202) Freshwater Biology (BIO493/593). SUNY</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New Paltz</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Biological Statistics (BIO493) Biology Seminar (BIO490). SUNY New Paltz, NY.
+</Description>
+<StartDate>
+<AnyDate>2011-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Field Biology (BIO302) Biology Seminar (BIO490). SUNY</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New Paltz</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>3 2010 January &quot;Restoration ecology&quot; discussion. Fundamentals of ecosystem ecology short course, Cary
+</Description>
+<StartDate>
+<AnyDate>2010-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Institute of Ecosystem Studies</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Millbrook</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;Aquatic effects from air and water non-point source pollution Lake Sunapee, NH&quot; lecture.
+</Description>
+<StartDate>
+<AnyDate>2009-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Environmental Geochemical Science, SUNY New Paltz</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New Paltz</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Geology 370 &quot;Heterogeneity and ecosystem function&quot; lecture. Fundamentals of ecosystem ecology short course, Cary Institute of Ecosystem Studies, Millbrook, NY.
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bard College</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Science of the Natural and Built Environment - guest lecturer during visit to Cary Institute of Ecosystem Studies
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>SUNY New Paltz</EmployerOrgName>
+<PositionHistory>
+<Title>Biology 340 - Ecology guest lecturer/lab coordinator</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>aquatic ecology lab)
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Stroud Water Research Center</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Mentor for Research Experience for Undergraduate (REU) Summers interns: research advising and organization of journal club
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Maryland</EmployerOrgName>
+<PositionHistory>
+<Title>(teaching assistant)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Biological Sciences 103 - The World of Biology
+</Description>
+<StartDate>
+<AnyDate>2006-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>New Paltz</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Estuarine and Environmental Sciences 698S - Ecological and geomorphic principles of stream restoration (guest lecturer)
+</Description>
+<StartDate>
+<AnyDate>2005-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cornell University</EmployerOrgName>
+<PositionHistory>
+<Title>analysis (teaching assistant)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Operations Research and Industrial Engineering 310 - Industrial systems
+</Description>
+<StartDate>
+<AnyDate>2002-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Maryland</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Stream Ecology. Marine, Estuarine, and Environmental Sciences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Cornell University College of Engineering</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>College Park</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Dr. Margaret Palmer, Dr. Louis Kaplan Operations Research and Industrial Engineering.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Sensor Workshop.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>undergraduate</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>is a national dissemination project designed to reform</Name>
+</DegreeMajor>
+<Comments>CUAHSI Consortium of Universities for the Advancement of Hydrologic Sciences   Optical</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Vermont</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>VT</Region>
+<Municipality>Burlington</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Fundamentals of Ecosystem Ecology short course</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Cary Institute of Ecosystem Studies</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Millbrook</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Ecological Circuitry Collaboratory</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>ECC</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>National Science Foundation sponsored</Name>
+</DegreeMajor>
+<Comments>to &quot;close the circuit&quot; between empiricists and modelers by training a group of</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>DC</Region>
+<Municipality>Richardson</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BA</DegreeName>
+<DegreeMajor>
+<Name>Craig, LS, Hassett</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>graduate</DegreeName>
+<DegreeMajor>
+<Name>Learning to model and learning to collaborate: An</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Sculpture Park &amp; Arts Center</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Maryland</Region>
+<Municipality>Solomons</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>the earth</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>mind&quot; exhibit, Annmarie Garden</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>representative to the University of Maryland Graduate Student Government</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Avondale</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>committee</Name>
+</DegreeMajor>
+<Comments>Marine, Estuarine and Environmental Sciences Graduate Student Organization</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Maryland</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>College Park</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Department of Entomology website committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>In prep</Title>
+<Name role="author">
+<FormattedName>Solomon, CT, Bruesewitz, DA, Richardson, DC, et al</FormattedName>
+</Name>
+<JournalOrSerialName>Pelagic community respiration: drivers of daily variation in lakes around the globe</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Oceanography</Title>
+<JournalOrSerialName>In prep</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of ecosystem metabolism reveals drivers of primary production and respiration across streams lakes wetlands and estuaries</Title>
+<JournalOrSerialName>Aimed submission: Ecology In prep</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<Title>Hg deposition and biogeochemistry watersheds. National Atmospheric</Title>
+<EventName>Deposition Program annual meeting oral presentation</EventName>
+<EventType>conference</EventType>
+<Location>Providence Rhode Island.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Weathers KC Benson BJ Chiu K Zimmerman A and Fichter J.</Title>
+<EventName>Enhancing human passion and curiosity about lake ecosystem function: A case study of sensors citizens and cyberinfrastructure from Lake Ecological Society of</EventName>
+<EventType>conference</EventType>
+<Location>Sunapee NH.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>America conference oral presentation</EventName>
+<EventType>conference</EventType>
+<Location>Austin Texas.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Bruesewitz DB Rose KC Solomon CT and Van de Bogert MC.</Title>
+<EventName>Drivers of pelagic metabolism: evidence from high frequency free-water measurements in lakes around the globe. Ecological Society of America conference oral presentation Austin</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>anthropogenically affected river Wallkill River and its tributary North</Title>
+<EventName>American Benthological Society conference poster presentation</EventName>
+<EventType>conference</EventType>
+<Location>Providence RI.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Hoellein TJ. Rock snot in a sick river: Didymosphenia geminata (Didymo) blooms and water chemistry in Esopus Creek Catskill Mountains NY. What causes didymo blooms in</Title>
+<EventName>Esopus Creek* North American Benthological Society conference poster presentation</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Gibson C. Macro and micronutrient influences on Didymosphenia geminata (didymo) growth in the newly invaded stream Esopus Creek NY. North American Benthological</Title>
+<EventName>Society conference poster presentation</EventName>
+<EventType>conference</EventType>
+<Location>Providence RI.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>TJ. Rock snot in a sick river: What causes didymo blooms in Esopus Creek* Catskill</Title>
+<EventName>Environmental Monitoring and Research Conference poster</EventName>
+<EventType>conference</EventType>
+<Location>Highmount New York.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Decontamination Products on the Invasive Algae Didymosphenia geminata. Catskill</Title>
+<EventName>Environmental Monitoring and Research Conference invited poster</EventName>
+<EventType>conference</EventType>
+<Location>Highmount New York.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Root S and O&apos;Reilly C. Didymo Rock Snot is Growing in New York Rivers. Cornell Cooperative Extension (Invasive Species) Invited Talk Cornell</Title>
+<EventName>University Ithaca New York.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2010-01-01</StringDate></StartDate>
+<EventName>Richardson DC Ewing HA Weathers KC and Baer NA. Fluxes of dissolved and particulate phosphorus into a New England oligotrophic lake Lake Sunapee with increasing cyanobacterial blooms. North American Benthological Society and American</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Society of Limnology and Oceanography joint conference oral presentation</EventName>
+<EventType>conference</EventType>
+<Location>Santa Fe New Mexico.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>watershed drivers and bioavailability of dissolved organic carbon (DOC) in tributaries of</Title>
+<EventName>Lake Sunapee NH. North American Benthological Society and American Society of</EventName>
+<EventType>conference</EventType>
+<Location>Richardson DC</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Limnology and Oceanography joint conference poster presentation</EventName>
+<EventType>conference</EventType>
+<Location>Santa Fe New Mexico</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Solomon CT Bruesewitz DB Rose KC and Van de Bogert MC.</Title>
+<EventName>Drivers of pelagic community respiration: evidence from high frequency free-water measurements in lakes around the globe. North American Benthological Society and</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>American Society of Limnology and Oceanography joint conference oral presentation</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Sunapee NH</Title>
+<StartDate><StringDate>2009-01-01</StringDate></StartDate>
+<EventName>Richardson DC and Hoellein TH. Rock snot and river congestion: What are the causes and consequences of blooms of Didymospehnia geminata* Cornell Cooperative Extension (Invasive Species) Invited Talk Cornell University</EventName>
+<EventType>conference</EventType>
+<Location>Ithaca New York.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Engaging citizen-scientists with real-time lake data: The CI-Team web portal and you</Title>
+<EventName>Cyberinfrastructure Team workshop Trout Lake Station</EventName>
+<EventType>conference</EventType>
+<Location>Boulder Junction Wisconsin.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Richardson DC and Grant EHC. Contributions of crayfish and salamander activity to increases in nighttime seston concentrations in a stream ecosystem. North American</Title>
+<EventName>Benthological Society Conference Oral Presentation</EventName>
+<EventType>conference</EventType>
+<Location>Grand Rapids MI.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2009-01-01</StringDate></StartDate>
+<EventName>Richardson DC Weathers KC and Fichter J. Communicating science with citizens and managers: a case example from Lake Cary Conference XIII: Effective</EventName>
+<EventType>conference</EventType>
+<Location>Sunapee NH.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Regulatory Consideration NJDEP USGS and Rutgers WRPI</Title>
+<StartDate><StringDate>2008-01-01</StringDate></StartDate>
+<EventName>Richardson DC. Stream seston: Transport sources and Darwin. University of Maryland</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>seston particulate organic carbon and particulate nitrogen within a stream ecosystem. North</Title>
+<EventName>American Benthological Society Conference Oral Presentation</EventName>
+<EventType>conference</EventType>
+<Location>Salt Lake City UT.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>go* Marine Estuarine and Environmental Sciences Colloquium Poster Presentation</Title>
+<EventName>University of Maryland</EventName>
+<EventType>conference</EventType>
+<Location>College Park MD.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Richardson DC Newbold JD Aufdenkampe AK Taylor PG and Kaplan LA. A method</Title>
+<EventName>for measuring bacterial mineralization rates of suspended particulate organic carbon in stream ecosystems. North American Benthological Society Conference Oral Presentation</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Richardson DC and Newbold JD. Baseflow dynamics and sources of seston</Title>
+<EventName>in a stream ecosystem: recurring nighttime peaks. Ecological Society of America</EventName>
+<EventType>conference</EventType>
+<Location>Kaplan LA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Conference Poster</EventName>
+<EventType>conference</EventType>
+<Location>Memphis TN.</Location>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Industrial Engineering">
+<CompetencyEvidence name ="Industrial Engineering" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Statistics">
+<CompetencyEvidence name ="Statistics" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>and Funding</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01 - 2012-01-01</StringDate></Date>
+<Description>Ashokan Watershed Stream Management Program mini grant program. Didymo in</Description>
+</Achievement>
+<Achievement>
+<Description>Esopus Creek: Identification of bloom locations and dissemination of decontamination methods to citizens and scientists. Collaborators: T. Hoellein Baruch College</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Ecological Society of America</Name>
+</Association>
+<Association>
+<Name>North American Benthological Society and</Name>
+</Association>
+<Association>
+<Name>American Society of Limnology and Oceanography joint conference</Name>
+</Association>
+<Association>
+<Name>member, Stroud Water Research Center</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>North American Benthological Society</Name>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Ecological Society of America  Global Lake Ecological Observatory Network (GLEON)</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Reviewing Activity</Name>
+</Association>
+<Association>
+<Name>-Biogeochemistry (2010)</Name>
+</Association>
+<Association>
+<Name>-National Science Foundation, Ecosystem Science Cluster (2009, 2010)</Name>
+</Association>
+<Association>
+<Name>-Methods in Stream Ecology, 2nd edition, 2006, Hauer R.</Name>
+</Association>
+<Association>
+<Name>and Lamberti G.A.</Name>
+</Association>
+<Association>
+<Name>-Journal of Geophysical Research (with Newbold, J.D.)</Name>
+</Association>
+<Association>
+<Name>-Limnology and Oceanography (with Palmer, M.A.)</Name>
+</Association>
+<Association>
+<Name>Research mentoring</Name>
+</Association>
+<Association>
+<Name>Nathaniel Rigolino (SUNY New Paltz) - Student Undergraduate Research Experience (SURE) at</Name>
+</Association>
+<Association>
+<Name>SUNY New Paltz</Name>
+</Association>
+<Association>
+<Name>Amalia Handler (Franklin and Marshall College) - Research Experience for Undergraduates at</Name>
+</Association>
+<Association>
+<Name>SUNY New Paltz</Name>
+</Association>
+<Association>
+<Name>Isabella Oleksy (University of New Hampshire) - Research Experience for Undergraduates at SUNY</Name>
+</Association>
+<Association>
+<Name>New Paltz</Name>
+</Association>
+<Association>
+<Name>Laura Achterberg (University of Nebraska, Lincoln) - Research Experience for Undergraduates at</Name>
+</Association>
+<Association>
+<Name>SUNY New Paltz</Name>
+</Association>
+<Association>
+<Name>Molly Redfield (Mount Holyoke College) - Research Experience for Undergraduates at SUNY New</Name>
+</Association>
+<Association>
+<Name>Paltz</Name>
+</Association>
+<Association>
+<Name>Samantha Root (Bard College) - Didymo project summer intern at SUNY New Paltz</Name>
+</Association>
+<Association>
+<Name>Stephen DiFalco (SUNY New Paltz) - Student Undergraduate Research Experience (SURE) at</Name>
+</Association>
+<Association>
+<Name>SUNY New Paltz</Name>
+</Association>
+<Association>
+<Name>Teriko MacConnell (Newport Elementary School, New Hampshire) - Research Experience for</Name>
+</Association>
+<Association>
+<Name>Teachers at Cary Institute of Ecosystem Studies</Name>
+</Association>
+<Association>
+<Name>Nathan Camp (Kearsarge Regional Middle School, New Hampshire) - Research Experience for</Name>
+</Association>
+<Association>
+<Name>Teachers at Cary Institute of Ecosystem Studies</Name>
+</Association>
+<Association>
+<Name>Laura Fox (Indiana University-Purdue University Indianapolis) - Research assistant at Stroud Water</Name>
+</Association>
+<Association>
+<Name>Research Center</Name>
+</Association>
+<Association>
+<Name>Hanh Nguyen (Dartmouth College) - Research Experience for Undergraduates at Stroud Water</Name>
+</Association>
+<Association>
+<Name>Research Center</Name>
+</Association>
+<Association>
+<Name>Laura Regester (Trinity University, DC) - Research Experience for Undergraduates at Stroud Water</Name>
+</Association>
+<Association>
+<Name>Research Center</Name>
+</Association>
+<Association>
+<Name>Jaclyn McIlwain (University of Delaware) - Research Experience for Undergraduates at Stroud</Name>
+</Association>
+<Association>
+<Name>Water Research Center</Name>
+</Association>
+<Association>
+<Name>Maddie Winters (Guilford College) - Research assistant at Stroud Water Research Center</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGF2aWQgQy4gUmljaGFyZHNvbg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNVTlkgTmV3IFBhbHR6LCBCaW9sb2d5IERlcGFydG1lbnQNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxIEhhd2sgRHJpdmUsIE5ldyBQYWx0eiwgTlkNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwaG9uZTogKDg0NSkgMjU3LTM4MDUNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlLW1haWw6IHJpY2hhcmRzb25kQG5ld3BhbHR6LmVkdQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgd2Vic2l0ZTogaHR0cDovL3d3dzIubmV3cGFsdHouZWR1L35yaWNoYXJkZC8NCg0KDQoNClBvc2l0aW9ucyBoZWxkDQoNCjIwMTAgLSBwcmVzZW50ICAgICAgICAgICAgQXNzaXN0YW50IFByb2Zlc3NvciwgQmlvbG9neSBEZXBhcnRtZW50LCBTVU5ZIE5ldyBQYWx0eiwgTmV3IFBhbHR6LCBOWQ0KDQoyMDEwIC0gcHJlc2VudCAgICAgICAgICAgIFZpc2l0aW5nIFNjaWVudGlzdCwgQ2FyeSBJbnN0aXR1dGUgb2YgRWNvc3lzdGVtIFN0dWRpZXMsIE1pbGxicm9vaywgTlkNCg0KMjAwOSAtIDIwMTAgICAgICAgICAgICAgICBWaXNpdGluZyBTY2hvbGFyLCBEZXB0LiBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBEYXJ0bW91dGggQ29sbGVnZSwgSGFub3ZlciwgTkgNCg0KMjAwOCAtIDIwMDkgICAgICAgICAgICAgICBQb3N0ZG9jdG9yYWwgc2NpZW50aXN0LCBDYXJ5IEluc3RpdHV0ZSBvZiBFY29zeXN0ZW0gU3R1ZGllcywgTWlsbGJyb29rLCBOWQ0KDQoyMDA4IE1heSAtIFNlcHRlbWJlciAgICAgIFBvc3Rkb2N0b3JhbCBzY2llbnRpc3QsIFN0cm91ZCBXYXRlciBSZXNlYXJjaCBDZW50ZXIsIEF2b25kYWxlLCBQQQ0KDQoNCg0KRWR1Y2F0aW9uDQoNCjIwMDIgLSAyMDA4ICAgICAgUGguRC4gaW4gU3RyZWFtIEVjb2xvZ3kuIE1hcmluZSwgRXN0dWFyaW5lLCBhbmQgRW52aXJvbm1lbnRhbCBTY2llbmNlcyAoTUVFUyksDQoNCiAgICAgICAgICAgICAgICAgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCwgQ29sbGVnZSBQYXJrLCBNRC4NCg0KICAgICAgICAgICAgICAgICBSZXNlYXJjaCBhZHZpc29yczogRHIuIE1hcmdhcmV0IFBhbG1lciwgRHIuIExvdWlzIEthcGxhbg0KDQogICAgICAgICAgICAgICAgIERpc3NlcnRhdGlvbiB0aXRsZTogVHJhbnNwb3J0LCBzb3VyY2VzLCBhbmQgcXVhbGl0eSBvZiBzZXN0b24gaW4gYSBQaWVkbW9udCBoZWFkd2F0ZXIgc3RyZWFtLg0KDQoNCg0KMTk5OCAtIDIwMDIgICAgICBCLlMuIGluIE9wZXJhdGlvbnMgUmVzZWFyY2ggYW5kIEluZHVzdHJpYWwgRW5naW5lZXJpbmcuDQoNCiAgICAgICAgICAgICAgICAgQ29ybmVsbCBVbml2ZXJzaXR5LCBDb2xsZWdlIG9mIEVuZ2luZWVyaW5nLCBJdGhhY2EsIE5ZLg0KDQoNCg0KVHJhaW5pbmcNCg0KMjAwOSAtIDIwMTAgICAgICBGYWN1bHR5IEluc3RpdHV0ZXMgZm9yIFJlZm9ybWluZyBTY2llbmNlIFRlYWNoaW5nIChGSVJTVCBJVikuIEZJUlNUIChmdW5kZWQgYnkgdGhlDQoNCiAgICAgICAgICAgICAgICAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uKSBpcyBhIG5hdGlvbmFsIGRpc3NlbWluYXRpb24gcHJvamVjdCBkZXNpZ25lZCB0byByZWZvcm0NCg0KICAgICAgICAgICAgICAgICB1bmRlcmdyYWR1YXRlIHNjaWVuY2UgZWR1Y2F0aW9uIHRocm91Z2ggcHJvZmVzc2lvbmFsIGRldmVsb3BtZW50IG9mIHBvc3Rkb2NzIGFuZCB0byBmb2N1cw0KDQogICAgICAgICAgICAgICAgIG9uIGxlYXJuZXItY2VudGVyZWQgY2xhc3Nyb29tcy4gaHR0cHM6Ly93d3cubXN1LmVkdS9+Zmlyc3Q0Lw0KDQoNCg0KMjAwOSAgICAgICAgICAgICBDVUFIU0kgKENvbnNvcnRpdW0gb2YgVW5pdmVyc2l0aWVzIGZvciB0aGUgQWR2YW5jZW1lbnQgb2YgSHlkcm9sb2dpYyBTY2llbmNlcykgT3B0aWNhbA0KDQogICAgICAgICAgICAgICAgIFNlbnNvciBXb3Jrc2hvcC4gVW5pdmVyc2l0eSBvZiBWZXJtb250LCBCdXJsaW5ndG9uLCBWVC4NCg0KDQoNCjIwMDQgICAgICAgICAgICAgRnVuZGFtZW50YWxzIG9mIEVjb3N5c3RlbSBFY29sb2d5IHNob3J0IGNvdXJzZSwgQ2FyeSBJbnN0aXR1dGUgb2YgRWNvc3lzdGVtIFN0dWRpZXMsDQoNCiAgICAgICAgICAgICAgICAgTWlsbGJyb29rLCBOWS4NCg0KDQoNCjIwMDIgLSAyMDA1ICAgICAgRWNvbG9naWNhbCBDaXJjdWl0cnkgQ29sbGFib3JhdG9yeSAoRUNDKSAtIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiBzcG9uc29yZWQNCg0KICAgICAgICAgICAgICAgICBwcm9ncmFtIHRvICJjbG9zZSB0aGUgY2lyY3VpdCIgYmV0d2VlbiBlbXBpcmljaXN0cyBhbmQgbW9kZWxlcnMgYnkgdHJhaW5pbmcgYSBncm91cCBvZg0KDQogICAgICAgICAgICAgICAgIHlvdW5nIHNjaWVudGlzdHMgdG8gcmVjb2duaXplIHRoZW1zZWx2ZXMgYXMgYm90aC4gaHR0cDovL3d3dy5lY29zdHVkaWVzLm9yZy9jYy9pbmRleC5odG1sDQoNCg0KDQpQdWJsaWNhdGlvbnMNCg0KSW4gcHJlcC4gICAgICAgICBTb2xvbW9uLCBDVCwgQnJ1ZXNld2l0eiwgREEsIFJpY2hhcmRzb24sIERDLCBldCBhbC4gUGVsYWdpYyBjb21tdW5pdHkgcmVzcGlyYXRpb246DQoNCiAgICAgICAgICAgICAgICAgZHJpdmVycyBvZiBkYWlseSB2YXJpYXRpb24gaW4gbGFrZXMgYXJvdW5kIHRoZSBnbG9iZS4gQWltZWQgU3VibWlzc2lvbjogTGltbm9sb2d5IGFuZA0KDQogICAgICAgICAgICAgICAgIE9jZWFub2dyYXBoeS4NCg0KDQoNCkluIHByZXAuICAgICAgICAgQnJ1ZXNld2l0eiwgREEsIEhvZWxsZWluLCBUSCwgUmljaGFyZHNvbiwgREMuIFJldmlzaXRpbmcgT2R1bSAoMTk1Nik6IEEgc3ludGhlc2lzDQoNCiAgICAgICAgICAgICAgICAgb2YgZWNvc3lzdGVtIG1ldGFib2xpc20gcmV2ZWFscyBkcml2ZXJzIG9mIHByaW1hcnkgcHJvZHVjdGlvbiBhbmQgcmVzcGlyYXRpb24NCg0KICAgICAgICAgICAgICAgICBhY3Jvc3Mgc3RyZWFtcywgbGFrZXMsIHdldGxhbmRzLCBhbmQgZXN0dWFyaWVzLiBBaW1lZCBzdWJtaXNzaW9uOiBFY29sb2d5DQoNCg0KDQpJbiBwcmVwLiAgICAgICAgIEtsdWcsIEpMLCBSaWNoYXJkc29uLCBEQywgZXQgYWwuIEVjb3N5c3RlbSBlZmZlY3RzIG9mIGEgdHJvcGljYWwgY3ljbG9uZSBvbiBhIG5ldHdvcmsgb2YNCg0KICAgICAgICAgICAgICAgICBsYWtlcyBpbiBORSBOb3J0aCBBbWVyaWNhLiBBaW1lZCBTdWJtaXNzaW9uOiBOYXR1cmUgR2Vvc2NpZW5jZXMNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxDQoNCkluIHJldmlldyAgICAgICBSaWNoYXJkc29uIERDLCBOZXdib2xkLCBKRCwgQXVmZGVua2FtcGUsIEFLLCBUYXlsb3IsIFBHIGFuZCBLYXBsYW4sIExBLiBBIG1ldGhvZA0KDQogICAgICAgICAgICAgICAgZm9yIG1lYXN1cmluZyBiYWN0ZXJpYWwgbWluZXJhbGl6YXRpb24gcmF0ZXMgb2Ygc3VzcGVuZGVkIHBhcnRpY3VsYXRlIG9yZ2FuaWMgY2FyYm9uIGluDQoNCiAgICAgICAgICAgICAgICBzdHJlYW0gZWNvc3lzdGVtcy4gTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkgTWV0aG9kcy4NCg0KDQoNCjIwMTAgICAgICAgICAgICBQYWNlLCBNTCwgSGFtcHRvbiwgU0UsIExpbWJ1cmcsIEtFLCBCZW5uZXR0LCBFTSwgQ29vaywgRU0sIERhdmlzLCBBRSwgR3JvdmUsIEpNLA0KDQogICAgICAgICAgICAgICAgS2FuZXNoaXJvLCBLWSwgTGFEZWF1LCBTTCwgTGlrZW5zLCBHRSwgTWNLbmlnaHQsIERNLCBSaWNoYXJkc29uLCBEQywgYW5kIFN0cmF5ZXIsDQoNCiAgICAgICAgICAgICAgICBETC4gQ29tbXVuaWNhdGluZyB3aXRoIHRoZSBwdWJsaWM6IG9wcG9ydHVuaXRpZXMgYW5kIHJld2FyZHMgZm9yIGluZGl2aWR1YWwgZWNvbG9naXN0cy4NCg0KICAgICAgICAgICAgICAgIEZyb250aWVycyBpbiBFY29sb2d5IGFuZCB0aGUgRW52aXJvbm1lbnQgOCg2KToyOTItMjk4Lg0KDQoNCg0KMjAwOSAgICAgICAgICAgIFBhbG1lciwgTUEgYW5kIFJpY2hhcmRzb24sIERDLiBQcm92aXNpb25pbmcgc2VydmljZXM6IGEgZm9jdXMgb24gZnJlc2h3YXRlci4gSW4gVGhlDQoNCiAgICAgICAgICAgICAgICBQcmluY2V0b24gR3VpZGUgdG8gRWNvbG9neSwgTGV2aW4sIFNBLCBFZC4gUHJpbmNldG9uIFVuaXZlcnNpdHkgUHJlc3M6IFByaW5jZXRvbiwgTkouDQoNCg0KDQoyMDA5ICAgICAgICAgICAgUmljaGFyZHNvbiwgREMsIEthcGxhbiwgTEEsIE5ld2JvbGQsIEpEIGFuZCBBdWZkZW5rYW1wZSwgQUsuIFRlbXBvcmFsIGR5bmFtaWNzIG9mDQoNCiAgICAgICAgICAgICAgICBzZXN0b246IEEgcmVjdXJyaW5nIG5pZ2h0dGltZSBwZWFrIGFuZCBzZWFzb25hbCBzaGlmdHMgaW4gY29tcG9zaXRpb24gaW4gYSBzdHJlYW0NCg0KICAgICAgICAgICAgICAgIGVjb3N5c3RlbS4gTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkgNTQoMSk6MzQ0LTM1NC4NCg0KDQoNCjIwMDggICAgICAgICAgICBNZW5uaW5nZXIsIEhMLCBQYWxtZXIsIE1BLCBDcmFpZywgTFMsIGFuZCBSaWNoYXJkc29uLCBEQy4gUGVyaW9kaWNhbCBjaWNhZGEgZGV0cml0dXMNCg0KICAgICAgICAgICAgICAgIGltcGFjdHMgc3RyZWFtIGVjb3N5c3RlbSBmdW5jdGlvbi4gRWNvc3lzdGVtcyAxMSg4KToxMzA2LTEzMTcuDQoNCg0KDQoyMDA4ICAgICAgICAgICAgQ3JhaWcsIExTLCBQYWxtZXIsIE1BLCBSaWNoYXJkc29uLCBEQywgZXQgYWwuIFN0cmVhbSByZXN0b3JhdGlvbiBzdHJhdGVnaWVzIGZvciByZWR1Y2luZw0KDQogICAgICAgICAgICAgICAgcml2ZXIgbml0cm9nZW4gbG9hZHMuIEZyb250aWVycyBpbiBFY29sb2d5IGFuZCB0aGUgRW52aXJvbm1lbnQgNigxMCk6NTI5LTUzOC4NCg0KDQoNCjIwMDggICAgICAgICAgICBTd2FuLCBDTSwgSGVhbGV5LCBCIGFuZCBSaWNoYXJkc29uLCBEQy4gVGhlIHJvbGUgb2YgbmF0aXZlIHJpcGFyaWFuIHRyZWUgc3BlY2llcyBpbg0KDQogICAgICAgICAgICAgICAgZGVjb21wb3NpdGlvbiBvZiBpbnZhc2l2ZSBUcmVlIG9mIEhlYXZlbiAoQWlsYW50aHVzIGFsdGlzc2ltYSkgbGVhZiBsaXR0ZXIgaW4gYW4gdXJiYW4NCg0KICAgICAgICAgICAgICAgIHN0cmVhbS4gRWNvc2NpZW5jZSAxNSgxKToyNy0zNS4NCg0KDQoNCk90aGVyIE1lZGlhIFB1YmxpY2F0aW9ucw0KDQoyMDEwICAgICAgICAgICAgUm9vdCwgU00qIGFuZCBSaWNoYXJkc29uLCBEQy4gUm9jayBzbm90IGdyb3dpbmcgaW4gTmV3IFlvcmsgcml2ZXJzLg0KDQogICAgICAgICAgICAgICAgUG91Z2hrZWVwc2llIEpvdXJuYWwuIDEyIFNlcC4gMjAxMDogM0YuIFByaW50Lg0KDQoNCg0KMjAxMCAgICAgICAgICAgIFJpY2hhcmRzb24sIERDIGFuZCBEb3JzaSwgSkoqLiBJY2Utb3V0IHJlY29yZHMgdHJhY2sgY2xpbWF0ZSBjaGFuZ2UuIFBvdWdoa2VlcHNpZSBKb3VybmFsLg0KDQogICAgICAgICAgICAgICAgMTEgQXByLiAyMDEwOiAzRi00Ri4gUHJpbnQuDQoNCg0KDQogICAgICAgICAgICAgICAgKiBpbmRpY2F0ZXMgdW5kZXJncmFkdWF0ZSBzdHVkZW50DQoNCg0KDQpBd2FyZHMgYW5kIEZ1bmRpbmcNCg0KMjAxMSAtIDIwMTIgICAgIEFzaG9rYW4gV2F0ZXJzaGVkIFN0cmVhbSBNYW5hZ2VtZW50IFByb2dyYW0gbWluaSBncmFudCBwcm9ncmFtLiBEaWR5bW8gaW4NCg0KICAgICAgICAgICAgICAgIEVzb3B1cyBDcmVlazogSWRlbnRpZmljYXRpb24gb2YgYmxvb20gbG9jYXRpb25zIGFuZCBkaXNzZW1pbmF0aW9uIG9mDQoNCiAgICAgICAgICAgICAgICBkZWNvbnRhbWluYXRpb24gbWV0aG9kcyB0byBjaXRpemVucyBhbmQgc2NpZW50aXN0cy4gQ29sbGFib3JhdG9yczogVC4gSG9lbGxlaW4sIEJhcnVjaA0KDQogICAgICAgICAgICAgICAgQ29sbGVnZTsgRC4gQXJzY290dCwgU3Ryb3VkIFdhdGVyIFJlc2VhcmNoIENlbnRlcjsgQ2F0aGVyaW5lIEdpYnNvbiwgU2tpZG1vcmUgQ29sbGVnZS4NCg0KDQoNCjIwMTEgICAgICAgICAgICBTdW1tZXIgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBFeHBlcmllbmNlIChTVVJFKSBBd2FyZC4gUm9jayBTbm90IChEaWR5bW8pLCBhDQoNCiAgICAgICAgICAgICAgICBudWlzYW5jZSBhbGdhZSBpbiBDYXRza2lsbHMgc3RyZWFtczogd2hlcmUsIHdoeSwgYW5kIGhvdyBtdWNoPyBTdW1tZXIgc3RpcGVuZCBhbmQNCg0KICAgICAgICAgICAgICAgIHJlc2VhcmNoIGZ1bmRpbmcgZm9yIE5ldyBQYWx0eiB1bmRlcmdyYWR1YXRlIHN0dWRlbnQsIE5hdGhhbmllbCBSaWdvbGluby4NCg0KDQoNCjIwMTAgLSAyMDExICAgICBTdXBwbGVtZW50YWwgZnVuZGluZyB0byBkZXZlbG9wIHNtYXJ0LXBob25lIGFwcGxpY2F0aW9ucyBmb3IgY2l0aXplbiBzY2llbnRpc3RzIHRvDQoNCiAgICAgICAgICAgICAgICBjb2xsZWN0IGFuZCB2aWV3IGVudmlyb25tZW50YWwgZGF0YS4gTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIGF3YXJkICNPQ0ktDQoNCiAgICAgICAgICAgICAgICAwNzUzMzEwLCAiQ29sbGFib3JhdGl2ZSBSZXNlYXJjaDogQ0ktVGVhbSBEZW1vbnN0cmF0aW9uOiBEZXZlbG9waW5nIGEgTW9kZWwNCg0KICAgICAgICAgICAgICAgIGZvciBFbmdhZ2VtZW50IG9mIENpdGl6ZW4gU2NpZW50aXN0czogTGFrZSBBc3NvY2lhdGlvbnMuIiBDb2xsYWJvcmF0b3JzOiBLLiBXZWF0aGVycywNCg0KICAgICAgICAgICAgICAgIENhcnkgSW5zdGl0dXRlIG9mIEVjb3N5c3RlbSBTdHVkaWVzOyBKdW5lIEZpY2h0ZXIsIExha2UgU3VuYXBlZSBQcm90ZWN0aXZlIEFzc29jaWF0aW9uOw0KDQogICAgICAgICAgICAgICAgQmFyYmFyYSBCZW5zb24sIFVuaXZlcnNpdHkgb2YgV2lzY29uc2luOyBLZW4gQ2hpdSwgU1VOWSBCaW5naGFtdG9uOyBBbm4NCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMg0KDQogICAgICAgICAgICAgICAgWmltbWVybWFuLCBVbml2ZXJzaXR5IG9mIE1pY2hpZ2FuLg0KDQoNCg0KDQoNCjIwMTAgICAgICAgICAgICBTdW1tZXIgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBFeHBlcmllbmNlIChTVVJFKSBBd2FyZC4gV2F0ZXIgcXVhbGl0eSBvZiB0d28NCg0KICAgICAgICAgICAgICAgIGFudGhyb3BvZ2VuaWNhbGx5IGFmZmVjdGVkIHdhdGVyIGJvZGllczogTGFrZSBTdW5hcGVlIGFuZCB0aGUgV2FsbGtpbGwgUml2ZXIuIFN1bW1lcg0KDQogICAgICAgICAgICAgICAgc3RpcGVuZCBhbmQgcmVzZWFyY2ggZnVuZGluZyBmb3IgTmV3IFBhbHR6IHVuZGVyZ3JhZHVhdGUgc3R1ZGVudCwgU3RldmVuIERpRmFsY28uDQoNCg0KDQoyMDEwIC0gMjAxMSAgICAgQXNob2thbiBXYXRlcnNoZWQgU3RyZWFtIE1hbmFnZW1lbnQgUHJvZ3JhbSBtaW5pIGdyYW50IHByb2dyYW0uIFJvY2sgU25vdCBpbiBTaWNrDQoNCiAgICAgICAgICAgICAgICBSaXZlcnMuIENvbGxhYm9yYXRvcnM6IFQuIEhvZWxsZWluLCBCYXJ1Y2ggQ29sbGVnZTsgRC4gQXJzY290dCwgU3Ryb3VkIFdhdGVyIFJlc2VhcmNoDQoNCiAgICAgICAgICAgICAgICBDZW50ZXI7IENhdGhlcmluZSBHaWJzb24sIFNraWRtb3JlIENvbGxlZ2UuDQoNCg0KDQoyMDEwIC0gMjAxMSAgICAgV2F0ZXIgUmVzb3VyY2VzIFJlc2VhcmNoIEdyYW50LCBOWVMgV2F0ZXIgUmVzb3VyY2VzIEluc3RpdHV0ZS4gUm9jayBzbm90IGluIHNpY2sgcml2ZXJzOg0KDQogICAgICAgICAgICAgICAgV2hhdCBhcmUgdGhlIGVudmlyb25tZW50YWwgZHJpdmVycyBjb250cm9sbGluZyBibG9vbXMgb2YgdGhlIGludmFzaXZlIGRpYXRvbQ0KDQogICAgICAgICAgICAgICAgRGlkeW1vc3BlaG5pYSBnZW1pbmF0YSBpbiB0aGUgTm9ydGhlYXN0ZXJuIGFuZCBNaWQtQXRsYW50aWMgVW5pdGVkIFN0YXRlcz8NCg0KICAgICAgICAgICAgICAgIENvbGxhYm9yYXRvcnM6IFQuIEhvZWxsZWluLCBCYXJ1Y2ggQ29sbGVnZTsgRC4gQXJzY290dCwgU3Ryb3VkIFdhdGVyIFJlc2VhcmNoIENlbnRlcjsNCg0KICAgICAgICAgICAgICAgIENhdGhlcmluZSBHaWJzb24sIFNraWRtb3JlIENvbGxlZ2UuDQoNCg0KDQoyMDA4IC0gMjAxMSAgICAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIEN5YmVyaW5mcmFzdHJ1Y3R1cmUgZ3JhbnQuIERldmVsb3BpbmcgYSBtb2RlbCBmb3INCg0KICAgICAgICAgICAgICAgIGVuZ2FnZW1lbnQgb2YgY2l0aXplbiBzY2llbnRpc3RzOiBsYWtlIGFzc29jaWF0aW9ucy4gQ29sbGFib3JhdG9yczogSy4gV2VhdGhlcnMsIENhcnkNCg0KICAgICAgICAgICAgICAgIEluc3RpdHV0ZSBvZiBFY29zeXN0ZW0gU3R1ZGllczsgSnVuZSBGaWNodGVyLCBMYWtlIFN1bmFwZWUgUHJvdGVjdGl2ZSBBc3NvY2lhdGlvbjsgQmFyYmFyYQ0KDQogICAgICAgICAgICAgICAgQmVuc29uLCBVbml2ZXJzaXR5IG9mIFdpc2NvbnNpbjsgS2VuIENoaXUsIFNVTlkgQmluZ2hhbXRvbjsgQW5uIFppbW1lcm1hbiwNCg0KICAgICAgICAgICAgICAgIFVuaXZlcnNpdHkgb2YgTWljaGlnYW4uDQoNCg0KDQoyMDA4IFNwcmluZyAgICAgSmFjb2IgR29sZGhhYmVyIHRyYXZlbCBncmFudCAoVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCBHcmFkdWF0ZSBTY2hvb2wpDQoNCg0KDQoyMDA4ICAgICAgICAgICAgV2FzaGluZ3RvbiBCaW9sb2dpc3RzJyBGaWVsZCBDbHViIHJlc2VhcmNoIGdyYW50OiAiUHV0dGluZyBzdHJlYW0gc2FsYW1hbmRlcnMgaW4gY29udGV4dDoNCg0KICAgICAgICAgICAgICAgIGxpbmtpbmcgc3RyZWFtIHNhbGFtYW5kZXIgYmVoYXZpb3IsIGJpb3R1cmJhdGlvbiwgYW5kIHRoZSBsb3NzIG9mIHNtYWxsIHN0cmVhbXMuIg0KDQogICAgICAgICAgICAgICAgQ29sbGFib3JhdG9yOiBFSEMgR3JhbnQsIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQNCg0KDQoNCjIwMDcgU3VtbWVyICAgICBOb3J0aCBBbWVyaWNhbiBCZW50aG9sb2dpY2FsIFNvY2lldHkgYXdhcmQgZm9yIGJlc3Qgb3JhbCBwcmVzZW50YXRpb24gZW1waGFzaXppbmcNCg0KICAgICAgICAgICAgICAgIG1ldGhvZG9sb2d5LCBDb2x1bWJpYSwgU291dGggQ2Fyb2xpbmENCg0KDQoNCjIwMDcgU3VtbWVyICAgICBFbnRvbW9sb2d5IFN0dWRlbnQgT3JnYW5pemF0aW9uIHRyYXZlbCBncmFudCAoVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCkNCg0KDQoNCjIwMDYgRmFsbCAgICAgICBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kIENvbGxlZ2Ugb2YgQ2hlbWljYWwgYW5kIExpZmUgU2NpZW5jZSBCaW9zY2llbmNlIFJlc2VhcmNoICYNCg0KICAgICAgICAgICAgICAgIFRlY2hub2xvZ3kgUmV2aWV3IERheS0gQmVzdCBwb3N0ZXIgaW4gYmlvZGl2ZXJzaXR5IGFuZCBlbnZpcm9ubWVudGFsIHNjaWVuY2VzDQoNCg0KDQoyMDA2IFN1bW1lciAgICAgQ29sbGVnZSBvZiBMaWZlIFNjaWVuY2VzIGdyYWR1YXRlIHRyYXZlbCBncmFudCAoVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCkNCg0KDQoNCjIwMDUgLSAyMDA4ICAgICBSZXNlYXJjaCBhc3Npc3RhbnQgZm9yIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiBncmFudDogIkNvbGxhYm9yYXRpdmUgcmVzZWFyY2g6IFNlc3Rvbg0KDQogICAgICAgICAgICAgICAgY29udHJpYnV0aW9ucyB0byBtZXRhYm9saXNtIGFjcm9zcyBsb25naXR1ZGluYWwgZWNvc3lzdGVtcyAoU0NBTEUpIC0gRHluYW1pY3Mgb2YNCg0KICAgICAgICAgICAgICAgIG9yZ2FuaWMgcGFydGljbGVzIGluIHJpdmVyIG5ldHdvcmtzLiIgU3Ryb3VkIFdhdGVyIFJlc2VhcmNoIENlbnRlciwgQXZvbmRhbGUsDQoNCiAgICAgICAgICAgICAgICBQZW5uc3lsdmFuaWEuDQoNCg0KDQoyMDA1IFNwcmluZyAgICAgTm9ydGggQW1lcmljYW4gQmVudGhvbG9naWNhbCBTb2NpZXR5IFByZXNpZGVudCdzIGF3YXJkDQoNCg0KDQpUZWFjaGluZyBFeHBlcmllbmNlDQoNCjIwMTEgU3ByaW5nICAgICBHZW5lcmFsIEJpb2xvZ3kgSUkgKEJJTzIwMik7IEZyZXNod2F0ZXIgQmlvbG9neSAoQklPNDkzLzU5MykuIFNVTlkgTmV3IFBhbHR6LCBOWS4NCg0KDQoNCjIwMTAgRmFsbCAgICAgICBCaW9sb2dpY2FsIFN0YXRpc3RpY3MgKEJJTzQ5Myk7IEJpb2xvZ3kgU2VtaW5hciAoQklPNDkwKS4gU1VOWSBOZXcgUGFsdHosIE5ZLg0KDQoNCg0KMjAxMCBTcHJpbmcgICAgIEZpZWxkIEJpb2xvZ3kgKEJJTzMwMik7IEJpb2xvZ3kgU2VtaW5hciAoQklPNDkwKS4gU1VOWSBOZXcgUGFsdHosIE5ZLg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDMNCg0KMjAxMCBKYW51YXJ5ICAgICJSZXN0b3JhdGlvbiBlY29sb2d5IiBkaXNjdXNzaW9uLiBGdW5kYW1lbnRhbHMgb2YgZWNvc3lzdGVtIGVjb2xvZ3kgc2hvcnQgY291cnNlLCBDYXJ5DQoNCiAgICAgICAgICAgICAgICBJbnN0aXR1dGUgb2YgRWNvc3lzdGVtIFN0dWRpZXMsIE1pbGxicm9vaywgTlkuDQoNCg0KDQoyMDA5IE5vdmVtYmVyICAgIkFxdWF0aWMgZWZmZWN0cyBmcm9tIGFpciBhbmQgd2F0ZXIgbm9uLXBvaW50IHNvdXJjZSBwb2xsdXRpb246IExha2UgU3VuYXBlZSwgTkgiIGxlY3R1cmUuDQoNCiAgICAgICAgICAgICAgICBHZW9sb2d5IDM3MDogRW52aXJvbm1lbnRhbCBHZW9jaGVtaWNhbCBTY2llbmNlLCBTVU5ZIE5ldyBQYWx0eiwgTmV3IFBhbHR6LCBOWQ0KDQoNCg0KMjAwOSBKYW51YXJ5ICAgICJIZXRlcm9nZW5laXR5IGFuZCBlY29zeXN0ZW0gZnVuY3Rpb24iIGxlY3R1cmUuIEZ1bmRhbWVudGFscyBvZiBlY29zeXN0ZW0gZWNvbG9neSBzaG9ydA0KDQogICAgICAgICAgICAgICAgY291cnNlLCBDYXJ5IEluc3RpdHV0ZSBvZiBFY29zeXN0ZW0gU3R1ZGllcywgTWlsbGJyb29rLCBOWS4NCg0KDQoNCjIwMDggTm92ZW1iZXIgICBCYXJkIENvbGxlZ2UsIFNjaWVuY2Ugb2YgdGhlIE5hdHVyYWwgYW5kIEJ1aWx0IEVudmlyb25tZW50IC0gZ3Vlc3QgbGVjdHVyZXIgZHVyaW5nIHZpc2l0IHRvDQoNCiAgICAgICAgICAgICAgICBDYXJ5IEluc3RpdHV0ZSBvZiBFY29zeXN0ZW0gU3R1ZGllcw0KDQoNCg0KMjAwOCBOb3ZlbWJlciAgIFNVTlkgTmV3IFBhbHR6LCBCaW9sb2d5IDM0MCAtIEVjb2xvZ3kgKGd1ZXN0IGxlY3R1cmVyL2xhYiBjb29yZGluYXRvciBmb3IgYXF1YXRpYw0KDQogICAgICAgICAgICAgICAgZWNvbG9neSBsYWIpDQoNCg0KDQoyMDA1IC0gMjAwOCAgICAgU3Ryb3VkIFdhdGVyIFJlc2VhcmNoIENlbnRlciwgTWVudG9yIGZvciBSZXNlYXJjaCBFeHBlcmllbmNlIGZvciBVbmRlcmdyYWR1YXRlIChSRVUpDQoNClN1bW1lcnMgICAgICAgICBpbnRlcm5zOiByZXNlYXJjaCBhZHZpc2luZyBhbmQgb3JnYW5pemF0aW9uIG9mIGpvdXJuYWwgY2x1Yg0KDQoNCg0KMjAwNiBTcHJpbmcgICAgIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQsIEJpb2xvZ2ljYWwgU2NpZW5jZXMgMTAzIC0gVGhlIFdvcmxkIG9mIEJpb2xvZ3kNCg0KICAgICAgICAgICAgICAgICh0ZWFjaGluZyBhc3Npc3RhbnQpDQoNCg0KDQoyMDA1IEF1Z3VzdCAgICAgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCwgTWFyaW5lLCBFc3R1YXJpbmUgYW5kIEVudmlyb25tZW50YWwgU2NpZW5jZXMgNjk4UyAtIEVjb2xvZ2ljYWwNCg0KICAgICAgICAgICAgICAgIGFuZCBnZW9tb3JwaGljIHByaW5jaXBsZXMgb2Ygc3RyZWFtIHJlc3RvcmF0aW9uIChndWVzdCBsZWN0dXJlcikNCg0KDQoNCjIwMDIgU3ByaW5nICAgICBDb3JuZWxsIFVuaXZlcnNpdHksIE9wZXJhdGlvbnMgUmVzZWFyY2ggYW5kIEluZHVzdHJpYWwgRW5naW5lZXJpbmcgMzEwIC0gSW5kdXN0cmlhbCBzeXN0ZW1zDQoNCiAgICAgICAgICAgICAgICBhbmFseXNpcyAodGVhY2hpbmcgYXNzaXN0YW50KQ0KDQoNCg0KUHJlc2VudGF0aW9ucw0KDQoyMDExICAgICAgICAgICAgUmljaGFyZHNvbiwgREMsIEhvZWxsZWluIFRKLCBHaWJzb24gQywgQXJzY290dCBEQiwgUm9vdCBTLiBEaWR5bW9zcGhlbmlhIGdlbWluYXRhDQoNCiAgICAgICAgICAgICAgICAoZGlkeW1vKSBpbiBXZXN0IG9mIEh1ZHNvbiB3YXRlcnNoZWRzIC0gd2l0aCBhIGZvY3VzIG9uIEVzb3B1cyBDcmVlay4gSW52aXRlZCB0YWxrLA0KDQogICAgICAgICAgICAgICAgU3Ryb3VkIFdhdGVyIFJlc2VhcmNoIENlbnRlciwgQXZvbmRhbGUsIFBBLg0KDQoNCg0KMjAxMSAgICAgICAgICAgIFdlYXRoZXJzLCBLQywgRXdpbmcsIEhBLCBCYWVyLCBOQSwgQ2hlbiwgQ1ksIFJvZWJ1Y2ssIEhKLCBNYWtpLCBDRSwgUmljaGFyZHNvbiwgREMsDQoNCiAgICAgICAgICAgICAgICBMaW5kc2V5LCBBTSwgV2lsc29uLCBBLCBDaGlrZXJpbmcsIEosIEZpb3JpbGxvLCBBVSwgQ290dGluZ2hhbSwgS0wuIEZyb20gQWlyIHRvIFdhdGVyOg0KDQogICAgICAgICAgICAgICAgSGcgZGVwb3NpdGlvbiBhbmQgYmlvZ2VvY2hlbWlzdHJ5LCBTdW5hcGVlLCBOSCB3YXRlcnNoZWRzLiBOYXRpb25hbCBBdG1vc3BoZXJpYw0KDQogICAgICAgICAgICAgICAgRGVwb3NpdGlvbiBQcm9ncmFtIGFubnVhbCBtZWV0aW5nIG9yYWwgcHJlc2VudGF0aW9uLCBQcm92aWRlbmNlLCBSaG9kZSBJc2xhbmQuDQoNCg0KDQoyMDExICAgICAgICAgICAgV2VhdGhlcnMsIEtDLCBSaWNoYXJkc29uLCBEQywgQmVuc29uLCBCSiwgQ2hpdSwgSywgWmltbWVybWFuLCBBLCBhbmQgRmljaHRlciwgSi4NCg0KICAgICAgICAgICAgICAgIEVuaGFuY2luZyBodW1hbiBwYXNzaW9uIGFuZCBjdXJpb3NpdHkgYWJvdXQgbGFrZSBlY29zeXN0ZW0gZnVuY3Rpb246IEEgY2FzZSBzdHVkeSBvZg0KDQogICAgICAgICAgICAgICAgc2Vuc29ycywgY2l0aXplbnMsIGFuZCBjeWJlcmluZnJhc3RydWN0dXJlIGZyb20gTGFrZSBTdW5hcGVlLCBOSC4gRWNvbG9naWNhbCBTb2NpZXR5IG9mDQoNCiAgICAgICAgICAgICAgICBBbWVyaWNhIGNvbmZlcmVuY2Ugb3JhbCBwcmVzZW50YXRpb24sIEF1c3RpbiwgVGV4YXMuDQoNCg0KDQoyMDExICAgICAgICAgICAgQnJ1ZXNld2l0eiwgREIsIFJpY2hhcmRzb24sIERDLCBSb3NlLCBLQywgU29sb21vbiwgQ1QsIGFuZCBWYW4gZGUgQm9nZXJ0LCBNQy4NCg0KICAgICAgICAgICAgICAgIERyaXZlcnMgb2YgcGVsYWdpYyBtZXRhYm9saXNtOiBldmlkZW5jZSBmcm9tIGhpZ2ggZnJlcXVlbmN5IGZyZWUtd2F0ZXIgbWVhc3VyZW1lbnRzIGluDQoNCiAgICAgICAgICAgICAgICBsYWtlcyBhcm91bmQgdGhlIGdsb2JlLiBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYSBjb25mZXJlbmNlIG9yYWwgcHJlc2VudGF0aW9uLCBBdXN0aW4sDQoNCiAgICAgICAgICAgICAgICBUZXhhcy4NCg0KDQoNCjIwMTEgICAgICAgICAgICBEaUZhbGNvLCBTOyBSaWNoYXJkc29uLCBEQy4gU3BhdGlhbCBhbmQgdGVtcG9yYWwgdmFyaWFiaWxpdHkgb2Ygd2F0ZXIgcXVhbGl0eSBpbiBhbg0KDQogICAgICAgICAgICAgICAgYW50aHJvcG9nZW5pY2FsbHkgYWZmZWN0ZWQgcml2ZXIsIFdhbGxraWxsIFJpdmVyIGFuZCBpdHMgdHJpYnV0YXJ5LCBOZXcgUGFsdHosIE5ZLiBOb3J0aA0KDQogICAgICAgICAgICAgICAgQW1lcmljYW4gQmVudGhvbG9naWNhbCBTb2NpZXR5IGNvbmZlcmVuY2UgcG9zdGVyIHByZXNlbnRhdGlvbiwgUHJvdmlkZW5jZSwgUkkuDQoNCg0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQNCg0KMjAxMSAgIFJpY2hhcmRzb24sIERDOyBBY2h0ZXJiZXJnLCBMQTsgUmVkZmllbGQsIE1SOyBSb290LCBTOyBBcnNjb3R0LCBEQjsgR2lic29uLCBDOw0KDQogICAgICAgSG9lbGxlaW4sIFRKLiBSb2NrIHNub3QgaW4gYSBzaWNrIHJpdmVyOiBEaWR5bW9zcGhlbmlhIGdlbWluYXRhIChEaWR5bW8pIGJsb29tcyBhbmQNCg0KICAgICAgIHdhdGVyIGNoZW1pc3RyeSBpbiBFc29wdXMgQ3JlZWssIENhdHNraWxsIE1vdW50YWlucywgTlkuIFdoYXQgY2F1c2VzIGRpZHltbyBibG9vbXMgaW4NCg0KICAgICAgIEVzb3B1cyBDcmVlaz8gTm9ydGggQW1lcmljYW4gQmVudGhvbG9naWNhbCBTb2NpZXR5IGNvbmZlcmVuY2UgcG9zdGVyIHByZXNlbnRhdGlvbiwNCg0KICAgICAgIFByb3ZpZGVuY2UsIFJJLg0KDQoNCg0KMjAxMSAgIEFjaHRlcmJlcmcsIExBOyBSZWRmaWVsZCwgTVI7IFJpY2hhcmRzb24sIERDOyBIb2VsbGVpbiwgVEo7IFJvb3QsIFM7IEFyc2NvdHQsIERCOw0KDQogICAgICAgR2lic29uLCBDLiBNYWNybyBhbmQgbWljcm9udXRyaWVudCBpbmZsdWVuY2VzIG9uIERpZHltb3NwaGVuaWEgZ2VtaW5hdGEgKGRpZHltbykNCg0KICAgICAgIGdyb3d0aCBpbiB0aGUgbmV3bHkgaW52YWRlZCBzdHJlYW0sIEVzb3B1cyBDcmVlaywgTlkuIE5vcnRoIEFtZXJpY2FuIEJlbnRob2xvZ2ljYWwNCg0KICAgICAgIFNvY2lldHkgY29uZmVyZW5jZSBwb3N0ZXIgcHJlc2VudGF0aW9uLCBQcm92aWRlbmNlLCBSSS4NCg0KDQoNCjIwMTAgICBSaWNoYXJkc29uLCBEQzsgQWNodGVyYmVyZywgTEE7IFJlZGZpZWxkLCBNOyBSb290LCBTLCBBcnNjb3R0LCBEQTsgR2lic29uLCBDOyBIb2xsZWluLA0KDQogICAgICAgVEouIFJvY2sgc25vdCBpbiBhIHNpY2sgcml2ZXI6IFdoYXQgY2F1c2VzIGRpZHltbyBibG9vbXMgaW4gRXNvcHVzIENyZWVrPyBDYXRza2lsbA0KDQogICAgICAgRW52aXJvbm1lbnRhbCBNb25pdG9yaW5nIGFuZCBSZXNlYXJjaCBDb25mZXJlbmNlIHBvc3RlciwgSGlnaG1vdW50LCBOZXcgWW9yay4NCg0KDQoNCjIwMTAgICBSb290LCBTOyBSaWNoYXJkc29uLCBEQzsgYW5kIE8nUmVpbGx5LCBDLiBBbiBBc3Nlc3NtZW50IG9mIFRocmVlIENvbW1vbg0KDQogICAgICAgRGVjb250YW1pbmF0aW9uIFByb2R1Y3RzIG9uIHRoZSBJbnZhc2l2ZSBBbGdhZSBEaWR5bW9zcGhlbmlhIGdlbWluYXRhLiBDYXRza2lsbA0KDQogICAgICAgRW52aXJvbm1lbnRhbCBNb25pdG9yaW5nIGFuZCBSZXNlYXJjaCBDb25mZXJlbmNlIGludml0ZWQgcG9zdGVyLCBIaWdobW91bnQsIE5ldw0KDQogICAgICAgWW9yay4NCg0KDQoNCjIwMTAgICBSb290LCBTLCBSaWNoYXJkc29uLCBEQyBhbmQgTydSZWlsbHksIEMuIERpZHltbyBVcGRhdGU6IFJvY2sgU25vdCBpcyBHcm93aW5nIGluIE5ldw0KDQogICAgICAgWW9yayBSaXZlcnMuIENvcm5lbGwgQ29vcGVyYXRpdmUgRXh0ZW5zaW9uIChJbnZhc2l2ZSBTcGVjaWVzKSBJbnZpdGVkIFRhbGssIENvcm5lbGwNCg0KICAgICAgIFVuaXZlcnNpdHksIEl0aGFjYSwgTmV3IFlvcmsuDQoNCg0KDQoyMDEwICAgUmljaGFyZHNvbiwgREMsIEV3aW5nLCBIQSwgV2VhdGhlcnMsIEtDLCBhbmQgQmFlciwgTkEuIEZsdXhlcyBvZiBkaXNzb2x2ZWQgYW5kDQoNCiAgICAgICBwYXJ0aWN1bGF0ZSBwaG9zcGhvcnVzIGludG8gYSBOZXcgRW5nbGFuZCBvbGlnb3Ryb3BoaWMgbGFrZSwgTGFrZSBTdW5hcGVlLCB3aXRoDQoNCiAgICAgICBpbmNyZWFzaW5nIGN5YW5vYmFjdGVyaWFsIGJsb29tcy4gTm9ydGggQW1lcmljYW4gQmVudGhvbG9naWNhbCBTb2NpZXR5IGFuZCBBbWVyaWNhbg0KDQogICAgICAgU29jaWV0eSBvZiBMaW1ub2xvZ3kgYW5kIE9jZWFub2dyYXBoeSBqb2ludCBjb25mZXJlbmNlIG9yYWwgcHJlc2VudGF0aW9uLCBTYW50YSBGZSwgTmV3DQoNCiAgICAgICBNZXhpY28uDQoNCg0KDQoyMDEwICAgQmFlciwgTkEsIFJpY2hhcmRzb24sIERDLCBXZWF0aGVycywgS0MsIEV3aW5nLCBIQSwgYW5kIFJvZWJ1Y2ssIEhKLiBTZWFzb25hbCB0cmVuZHMsDQoNCiAgICAgICB3YXRlcnNoZWQgZHJpdmVycywgYW5kIGJpb2F2YWlsYWJpbGl0eSBvZiBkaXNzb2x2ZWQgb3JnYW5pYyBjYXJib24gKERPQykgaW4gdHJpYnV0YXJpZXMgb2YNCg0KICAgICAgIExha2UgU3VuYXBlZSwgTkguIE5vcnRoIEFtZXJpY2FuIEJlbnRob2xvZ2ljYWwgU29jaWV0eSBhbmQgQW1lcmljYW4gU29jaWV0eSBvZg0KDQogICAgICAgTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkgam9pbnQgY29uZmVyZW5jZSBwb3N0ZXIgcHJlc2VudGF0aW9uLCBTYW50YSBGZSwgTmV3IE1leGljbw0KDQoNCg0KMjAxMCAgIFNvbG9tb24sIENULCBCcnVlc2V3aXR6LCBEQiwgUmljaGFyZHNvbiwgREMsIFJvc2UsIEtDLCBhbmQgVmFuIGRlIEJvZ2VydCwgTUMuDQoNCiAgICAgICBEcml2ZXJzIG9mIHBlbGFnaWMgY29tbXVuaXR5IHJlc3BpcmF0aW9uOiBldmlkZW5jZSBmcm9tIGhpZ2ggZnJlcXVlbmN5IGZyZWUtd2F0ZXINCg0KICAgICAgIG1lYXN1cmVtZW50cyBpbiBsYWtlcyBhcm91bmQgdGhlIGdsb2JlLiBOb3J0aCBBbWVyaWNhbiBCZW50aG9sb2dpY2FsIFNvY2lldHkgYW5kDQoNCiAgICAgICBBbWVyaWNhbiBTb2NpZXR5IG9mIExpbW5vbG9neSBhbmQgT2NlYW5vZ3JhcGh5IGpvaW50IGNvbmZlcmVuY2Ugb3JhbCBwcmVzZW50YXRpb24sDQoNCiAgICAgICBTYW50YSBGZSwgTmV3IE1leGljby4NCg0KDQoNCjIwMTAgICBSaWNoYXJkc29uLCBEQy4gSG93IGxha2VzIGJyZWF0aGUuIExha2UgU3VuYXBlZSBQcm90ZWN0aXZlIEFzc29jaWF0aW9uIEJvYXJkIE1lZXRpbmcsDQoNCiAgICAgICBTdW5hcGVlLCBOSC4NCg0KDQoNCjIwMDkgICBSaWNoYXJkc29uLCBEQyBhbmQgSG9lbGxlaW4sIFRILiBSb2NrIHNub3QgYW5kIHJpdmVyIGNvbmdlc3Rpb246IFdoYXQgYXJlIHRoZSBjYXVzZXMgYW5kDQoNCiAgICAgICBjb25zZXF1ZW5jZXMgb2YgYmxvb21zIG9mIERpZHltb3NwZWhuaWEgZ2VtaW5hdGE/IENvcm5lbGwgQ29vcGVyYXRpdmUgRXh0ZW5zaW9uDQoNCiAgICAgICAoSW52YXNpdmUgU3BlY2llcykgSW52aXRlZCBUYWxrLCBDb3JuZWxsIFVuaXZlcnNpdHksIEl0aGFjYSwgTmV3IFlvcmsuDQoNCg0KDQoyMDA5ICAgUmljaGFyZHNvbiwgREMsIEJlbnNvbiwgQkosIENoaXUsIEssIEZpY2h0ZXIsIEosIFdlYXRoZXJzLCBLQywgYW5kIFppbW1lcm1hbiwgQS4NCg0KICAgICAgIEVuZ2FnaW5nIGNpdGl6ZW4tc2NpZW50aXN0cyB3aXRoIHJlYWwtdGltZSBsYWtlIGRhdGE6IFRoZSBDSS1UZWFtIHdlYiBwb3J0YWwgYW5kIHlvdS4NCg0KICAgICAgIEN5YmVyaW5mcmFzdHJ1Y3R1cmUgVGVhbSB3b3Jrc2hvcCwgVHJvdXQgTGFrZSBTdGF0aW9uLCBCb3VsZGVyIEp1bmN0aW9uLCBXaXNjb25zaW4uDQoNCg0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNQ0KDQoyMDA5ICAgUmljaGFyZHNvbiwgREMsIEJlbnNvbiwgQkosIENoaXUsIEssIEZpY2h0ZXIsIEosIFdlYXRoZXJzLCBLQywgYW5kIFppbW1lcm1hbiwgQS4NCg0KICAgICAgIERldmVsb3BpbmcgYSB3ZWIgaW50ZXJmYWNlIHRvIGVuZ2FnZSBjaXRpemVuIHNjaWVudGlzdHMgd2l0aCBsYWtlIHNlbnNvciBkYXRhLiBHbG9iYWwgTGFrZQ0KDQogICAgICAgRWNvbG9naWNhbCBPYnNlcnZhdG9yeSBOZXR3b3JrIChHTEVPTikgbWVldGluZywgQm91bGRlciBKdW5jdGlvbiwgV2lzY29uc2luLg0KDQoNCg0KMjAwOSAgIFJpY2hhcmRzb24sIERDLiBMYWtlIFN1bmFwZWUgaW4gcmVhbCB0aW1lLiBMYWtlIFN1bmFwZWUgUHJvdGVjdGl2ZSBBc3NvY2lhdGlvbiBzdW1tZXINCg0KICAgICAgIHNlcmllcywgSW52aXRlZCBUYWxrLCBTdW5hcGVlLCBOSC4NCg0KDQoNCjIwMDkgICBSaWNoYXJkc29uLCBEQyBhbmQgR3JhbnQsIEVIQy4gQ29udHJpYnV0aW9ucyBvZiBjcmF5ZmlzaCBhbmQgc2FsYW1hbmRlciBhY3Rpdml0eSB0bw0KDQogICAgICAgaW5jcmVhc2VzIGluIG5pZ2h0dGltZSBzZXN0b24gY29uY2VudHJhdGlvbnMgaW4gYSBzdHJlYW0gZWNvc3lzdGVtLiBOb3J0aCBBbWVyaWNhbg0KDQogICAgICAgQmVudGhvbG9naWNhbCBTb2NpZXR5IENvbmZlcmVuY2UgT3JhbCBQcmVzZW50YXRpb24sIEdyYW5kIFJhcGlkcywgTUkuDQoNCg0KDQoyMDA5ICAgUmljaGFyZHNvbiwgREMsIFdlYXRoZXJzLCBLQywgYW5kIEZpY2h0ZXIsIEouIENvbW11bmljYXRpbmcgc2NpZW5jZSB3aXRoIGNpdGl6ZW5zIGFuZA0KDQogICAgICAgbWFuYWdlcnM6IGEgY2FzZSBleGFtcGxlIGZyb20gTGFrZSBTdW5hcGVlLCBOSC4gQ2FyeSBDb25mZXJlbmNlIFhJSUk6IEVmZmVjdGl2ZQ0KDQogICAgICAgQ29tbXVuaWNhdGlvbiBvZiBTY2llbmNlIGluIEVudmlyb25tZW50YWwgQ29udHJvdmVyc2llcy4gUG9zdGVyIHByZXNlbnRhdGlvbiwgTWlsbGJyb29rLA0KDQogICAgICAgTlkuDQoNCg0KDQoyMDA4ICAgS2FwbGFuLCBMQSwgUmljaGFyZHNvbiBEQywgTmV3Ym9sZCwgSkQsIGFuZCBBdWZkZW5rYW1wZSwgQUsuIERpZWwgUGF0dGVybnMgb2YNCg0KICAgICAgIERpc3NvbHZlZCBhbmQgUGFydGljdWxhdGUgT3JnYW5pYyBNYXR0ZXIgVHJhbnNwb3J0IGluIGEgUGVubnN5bHZhbmlhIFBpZWRtb250IFN0cmVhbS4NCg0KICAgICAgIERpdXJuYWwgQ3ljbGluZyBvZiBDaGVtaWNhbCBDb25zdGl0dWVudHMgaW4gU3VyZmFjZSBXYXRlciBhbmQgUmVsYXRlZCBTY2llbnRpZmljDQoNCiAgICAgICBSZWd1bGF0b3J5IENvbnNpZGVyYXRpb24sIE5KREVQLCBVU0dTLCBhbmQgUnV0Z2VycyBXUlBJLCBUcmVudG9uLCBOSi4NCg0KDQoNCjIwMDggICBSaWNoYXJkc29uLCBEQy4gU3RyZWFtIHNlc3RvbjogVHJhbnNwb3J0LCBzb3VyY2VzLCBhbmQgRGFyd2luLiBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kLA0KDQogICAgICAgRGVwYXJ0bWVudCBvZiBFbnRvbW9sb2d5LCBJbnZpdGVkIE9yYWwgU2VtaW5hciwgQ29sbGVnZSBQYXJrLCBNRC4NCg0KDQoNCjIwMDggICBSaWNoYXJkc29uLCBEQy4gQmlvbG9naWNhbCByZWd1bGF0aW9uIG9mIHN0cmVhbSBwYXJ0aWNsZSB0cmFuc3BvcnQuIENhcnkgSW5zdGl0dXRlIG9mDQoNCiAgICAgICBFY29zeXN0ZW0gU3R1ZGllcywgSW52aXRlZCBPcmFsIFByZXNlbnRhdGlvbiwgTWlsbGJyb29rLCBOWS4NCg0KDQoNCjIwMDggICBSaWNoYXJkc29uLCBEQywgQXVmZGVua2FtcGUsIEFLLCBOZXdib2xkLCBKRCwgYW5kIEthcGxhbiwgTEEuIE1vZGVsaW5nIHNvdXJjZXMgb2YNCg0KICAgICAgIHNlc3RvbiwgcGFydGljdWxhdGUgb3JnYW5pYyBjYXJib24gYW5kIHBhcnRpY3VsYXRlIG5pdHJvZ2VuIHdpdGhpbiBhIHN0cmVhbSBlY29zeXN0ZW0uIE5vcnRoDQoNCiAgICAgICBBbWVyaWNhbiBCZW50aG9sb2dpY2FsIFNvY2lldHkgQ29uZmVyZW5jZSBPcmFsIFByZXNlbnRhdGlvbiwgU2FsdCBMYWtlIENpdHksIFVULg0KDQoNCg0KMjAwNyAgIEdyYW50LCBFSEMgYW5kIFJpY2hhcmRzb24sIERDLiBTdHJlYW0gZHJ5aW5nIGFuZCB0aGUgc2FsYW1hbmRlciBsYXJ2YWU6IHdoZXJlIGRvIHRoZXkNCg0KICAgICAgIGdvPyBNYXJpbmUgRXN0dWFyaW5lIGFuZCBFbnZpcm9ubWVudGFsIFNjaWVuY2VzIENvbGxvcXVpdW0gUG9zdGVyIFByZXNlbnRhdGlvbiwNCg0KICAgICAgIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQsIENvbGxlZ2UgUGFyaywgTUQuDQoNCg0KDQoyMDA3ICAgUmljaGFyZHNvbiwgREMsIE5ld2JvbGQsIEpELCBBdWZkZW5rYW1wZSwgQUssIFRheWxvciwgUEcgYW5kIEthcGxhbiwgTEEuIEEgbWV0aG9kDQoNCiAgICAgICBmb3IgbWVhc3VyaW5nIGJhY3RlcmlhbCBtaW5lcmFsaXphdGlvbiByYXRlcyBvZiBzdXNwZW5kZWQgcGFydGljdWxhdGUgb3JnYW5pYyBjYXJib24gaW4NCg0KICAgICAgIHN0cmVhbSBlY29zeXN0ZW1zLiBOb3J0aCBBbWVyaWNhbiBCZW50aG9sb2dpY2FsIFNvY2lldHkgQ29uZmVyZW5jZSBPcmFsIFByZXNlbnRhdGlvbiwNCg0KICAgICAgIENvbHVtYmlhLCBTQy4NCg0KDQoNCjIwMDYgICBSaWNoYXJkc29uLCBEQywgS2FwbGFuLCBMQSBhbmQgTmV3Ym9sZCwgSkQuIEJhc2VmbG93IGR5bmFtaWNzIGFuZCBzb3VyY2VzIG9mIHNlc3Rvbg0KDQogICAgICAgaW4gYSBzdHJlYW0gZWNvc3lzdGVtOiByZWN1cnJpbmcgbmlnaHR0aW1lIHBlYWtzLiBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYQ0KDQogICAgICAgQ29uZmVyZW5jZSBQb3N0ZXIsIE1lbXBoaXMsIFROLg0KDQoNCg0KMjAwNSAgIE1lbm5pbmdlciwgSEwsIFBhbG1lciwgTUEsIENyYWlnLCBMUywgSGFzc2V0dCwgQkEsIFJpY2hhcmRzb24sIERDLCBTbWl0aCwgUkYuDQoNCiAgICAgICBUZXJyZXN0cmlhbC1hcXVhdGljIGxpbmthZ2U6IFRoZSBlZmZlY3RzIG9mIHBlcmlvZGljYWwgY2ljYWRhcyBvbiBzdHJlYW0gZWNvc3lzdGVtIGZ1bmN0aW9uLg0KDQogICAgICAgRWNvbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EgQ29uZmVyZW5jZSBPcmFsIFByZXNlbnRhdGlvbiwgTW9udHJlYWwsIENhbmFkYS4NCg0KDQoNCjIwMDQgICBSaWNoYXJkc29uLCBEQzsgS2FwbGFuLCBMQSBhbmQgUGFsbWVyLCBNQS4gUG9pbnQgc291cmNlIGNvbnRyaWJ1dGlvbnMgb2Ygc3VzcGVuZGVkDQoNCiAgICAgICBvcmdhbmljIG1hdHRlciB0byBhbiBhZ3JpY3VsdHVyYWwgd2F0ZXJzaGVkIHdpdGggaW50YWN0IHJpcGFyaWFuIGZvcmVzdHMuIE1hcmluZSBFc3R1YXJpbmUNCg0KICAgICAgIGFuZCBFbnZpcm9ubWVudGFsIFNjaWVuY2VzIENvbGxvcXVpdW0gUG9zdGVyIFByZXNlbnRhdGlvbiwgSG9ybiBQb2ludCBMYWJvcmF0b3J5LA0KDQogICAgICAgQ2FtYnJpZGdlLCBNRC4NCg0KDQoNCjIwMDQgICBFd2luZywgSDsgU3VhcmV6LCBFOyBTdC4gSm9obiwgTTsgUmljaGFyZHNvbiwgREM7IFBlaWVybHMsIEI7IEZyb3N0LCBDOyBFdXNraXJjaGVuLCBFOw0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2DQoNCiAgICAgICAgICAgICAgICAgIEJyb29rc2hpcmUsIEo7IExpbmRiZXJnLCBTOyBXZWF0aGVycywgSy4gTWVyY3VyeSBkZXBvc2l0aW9uIGFuZCBlbWlzc2lvbiB0byBhbmQgZnJvbQ0KDQogICAgICAgICAgICAgICAgICBoZXRlcm9nZW5lb3VzIGxhbmRzY2FwZXM6IEV4cGxvcmluZyBzaW1wbGUgbW9kZWxzLiBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYQ0KDQogICAgICAgICAgICAgICAgICBDb25mZXJlbmNlIFBvc3RlciwgUG9ydGxhbmQsIE9SLg0KDQoNCg0KMjAwNCAgICAgICAgICAgICAgRXdpbmcsIEg7IFdlYXRoZXJzLCBLOyBCcm9va3NoaXJlLCBKOyBFdXNraXJjaGVuLCBFOyBGcm9zdCwgQzsgUGVpZXJscywgQjsgUmljaGFyZHNvbiwgREM7DQoNCiAgICAgICAgICAgICAgICAgIFN0LiBKb2huLCBNOyBTdWFyZXosIEU7IEdyb2ZmbWFuLCBQLiBMZWFybmluZyB0byBtb2RlbCBhbmQgbGVhcm5pbmcgdG8gY29sbGFib3JhdGU6IEFuDQoNCiAgICAgICAgICAgICAgICAgIGV4cGVyaW1lbnQgaW4gZ3JhZHVhdGUgZWR1Y2F0aW9uLiBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYSBDb25mZXJlbmNlIFBvc3RlciwNCg0KICAgICAgICAgICAgICAgICAgUG9ydGxhbmQsIE9SLg0KDQoNCg0KMjAwNCAgICAgICAgICAgICAgU3dhbiwgQ007IFJpY2hhcmRzb24sIERDOyBQYWxtZXIsIE1BLiBBIHNpbXVsYXRpb24gc3R1ZHkgb2YgZGV0cml0aXZvcmUgZm9yYWdpbmcgb24NCg0KICAgICAgICAgICAgICAgICAgc3BlY2lvc2UgbGVhZiBsaXR0ZXI6IGltcGxpY2F0aW9ucyBmb3IgdGhlIGRpdmVyc2l0eS1mdW5jdGlvbiByZWxhdGlvbnNoaXAgaW4gc3RyZWFtIGVjb3N5c3RlbXMuDQoNCiAgICAgICAgICAgICAgICAgIEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhIENvbmZlcmVuY2UgT3JhbCBQcmVzZW50YXRpb24sIFBvcnRsYW5kLCBPUi4NCg0KDQoNCkNvbW1pdHRlZXMgYW5kIFNlcnZpY2UNCg0KMjAxMCAgICAgICAgICAgICAgU2Vzc2lvbiBtb2RlcmF0b3IsIENhdHNraWxsIEVudmlyb25tZW50YWwgTW9uaXRvcmluZyBhbmQgUmVzZWFyY2ggQ29uZmVyZW5jZSBpbnZpdGVkDQoNCiAgICAgICAgICAgICAgICAgIHBvc3RlciwgSGlnaG1vdW50LCBOZXcgWW9yay4NCg0KDQoNCjIwMTAgICAgICAgICAgICAgIFNwZWNpYWwgc2Vzc2lvbiBvcmdhbml6ZXIgYW5kIG1vZGVyYXRvciwgTm9ydGggQW1lcmljYW4gQmVudGhvbG9naWNhbCBTb2NpZXR5IGFuZA0KDQogICAgICAgICAgICAgICAgICBBbWVyaWNhbiBTb2NpZXR5IG9mIExpbW5vbG9neSBhbmQgT2NlYW5vZ3JhcGh5IGpvaW50IGNvbmZlcmVuY2UsIFNhbnRhIEZlLCBOZXcNCg0KICAgICAgICAgICAgICAgICAgTWV4aWNvDQoNCg0KDQoyMDEwIC0gMjAxMSAgICAgICBTVU5ZIE5ldyBQYWx0eiBCaW9sb2d5IERlcGFydG1lbnQgUGVyc29ubmVsIENvbW1pdHRlZQ0KDQoNCg0KMjAxMCAgICAgICAgICAgICAgU2NpZW5jZSBjb21tZW50YXRvciwgIkdSRUVOOiBhcnQgd2l0aCB0aGUgZWFydGggaW4gbWluZCIgZXhoaWJpdCwgQW5ubWFyaWUgR2FyZGVuDQoNCiAgICAgICAgICAgICAgICAgIFNjdWxwdHVyZSBQYXJrICYgQXJ0cyBDZW50ZXIsIFNvbG9tb25zLCBNYXJ5bGFuZA0KDQoNCg0KMjAxMCAgICAgICAgICAgICAgVWxzdGVyIENvdW5zZWxvcnMgQ2FyZWVyIENvbmZlcmVuY2UgIlNjaWVuY2UiIHBhbmVsaXN0LCBNYXJjaCAxMQ0KDQoNCg0KMjAwOSAtIDIwMTAgICAgICAgWW91bmcgRW52aXJvbm1lbnRhbCBTY2llbnRpc3RzIChZRVMpIGNvbmZlcmVuY2UgZXZhbHVhdG9yDQoNCg0KDQoyMDA5IC0gcHJlc2VudCAgICBMYWtlIFN1bmFwZWUgUHJvdGVjdGl2ZSBBc3NvY2lhdGlvbiBTY2llbmNlIEFkdmlzb3J5IENvbW1pdHRlZQ0KDQoNCg0KMjAwNyAtIDIwMDggICAgICAgR3JlZW4gU2NpZW5jZSBhdCBTdHJvdWQgKEdTQVMpIGNvbW1pdHRlZSBtZW1iZXIsIFN0cm91ZCBXYXRlciBSZXNlYXJjaCBDZW50ZXIsDQoNCiAgICAgICAgICAgICAgICAgIEF2b25kYWxlLCBQQS4NCg0KDQoNCjIwMDcgLSAyMDA4ICAgICAgIE1hcmluZSwgRXN0dWFyaW5lIGFuZCBFbnZpcm9ubWVudGFsIFNjaWVuY2VzIEdyYWR1YXRlIFN0dWRlbnQgT3JnYW5pemF0aW9uDQoNCiAgICAgICAgICAgICAgICAgIHJlcHJlc2VudGF0aXZlIHRvIHRoZSBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kIEdyYWR1YXRlIFN0dWRlbnQgR292ZXJubWVudA0KDQoNCg0KMjAwNSAtIDIwMDYgICAgICAgRGVwYXJ0bWVudCBvZiBFbnRvbW9sb2d5IHdlYnNpdGUgY29tbWl0dGVlLCBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kLCBDb2xsZWdlIFBhcmssDQoNCiAgICAgICAgICAgICAgICAgIE1hcnlsYW5kDQoNCg0KDQoyMDA1IC0gMjAwOCAgICAgICBQYWxtZXIgbGFiIHdlYnNpdGUgd2VibWFzdGVyDQoNCg0KDQpQcm9mZXNzaW9uYWwgQWZmaWxpYXRpb25zDQoNCjIwMDIgLSBwcmVzZW50ICAgICBOb3J0aCBBbWVyaWNhbiBCZW50aG9sb2dpY2FsIFNvY2lldHk7IEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhDQoNCjIwMDggLSBwcmVzZW50ICAgICBHbG9iYWwgTGFrZSBFY29sb2dpY2FsIE9ic2VydmF0b3J5IE5ldHdvcmsgKEdMRU9OKQ0KDQoNCg0KUmV2aWV3aW5nIEFjdGl2aXR5DQoNCi1CaW9nZW9jaGVtaXN0cnkgKDIwMTApDQoNCi1OYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24sIEVjb3N5c3RlbSBTY2llbmNlIENsdXN0ZXIgKDIwMDksIDIwMTApDQoNCi1NZXRob2RzIGluIFN0cmVhbSBFY29sb2d5LCAybmQgZWRpdGlvbiwgMjAwNiwgSGF1ZXIsIFIuIGFuZCBMYW1iZXJ0aSwgRy5BLg0KDQotSm91cm5hbCBvZiBHZW9waHlzaWNhbCBSZXNlYXJjaCAod2l0aCBOZXdib2xkLCBKLkQuKQ0KDQotTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkgKHdpdGggUGFsbWVyLCBNLkEuKQ0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA3DQoNClJlc2VhcmNoIG1lbnRvcmluZw0KDQoNCg0KMjAxMSBTdW1tZXIgICAgIE5hdGhhbmllbCBSaWdvbGlubyAoU1VOWSBOZXcgUGFsdHopIC0gU3R1ZGVudCBVbmRlcmdyYWR1YXRlIFJlc2VhcmNoIEV4cGVyaWVuY2UgKFNVUkUpIGF0DQoNCiAgICAgICAgICAgICAgICBTVU5ZIE5ldyBQYWx0eg0KDQogICAgICAgICAgICAgICAgQW1hbGlhIEhhbmRsZXIgKEZyYW5rbGluIGFuZCBNYXJzaGFsbCBDb2xsZWdlKSAtIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yIFVuZGVyZ3JhZHVhdGVzIGF0DQoNCiAgICAgICAgICAgICAgICBTVU5ZIE5ldyBQYWx0eg0KDQogICAgICAgICAgICAgICAgSXNhYmVsbGEgT2xla3N5IChVbml2ZXJzaXR5IG9mIE5ldyBIYW1wc2hpcmUpIC0gUmVzZWFyY2ggRXhwZXJpZW5jZSBmb3IgVW5kZXJncmFkdWF0ZXMgYXQgU1VOWQ0KDQogICAgICAgICAgICAgICAgTmV3IFBhbHR6DQoNCjIwMTAgU3VtbWVyICAgICBMYXVyYSBBY2h0ZXJiZXJnIChVbml2ZXJzaXR5IG9mIE5lYnJhc2thLCBMaW5jb2xuKSAtIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yIFVuZGVyZ3JhZHVhdGVzIGF0DQoNCiAgICAgICAgICAgICAgICBTVU5ZIE5ldyBQYWx0eg0KDQogICAgICAgICAgICAgICAgTW9sbHkgUmVkZmllbGQgKE1vdW50IEhvbHlva2UgQ29sbGVnZSkgLSBSZXNlYXJjaCBFeHBlcmllbmNlIGZvciBVbmRlcmdyYWR1YXRlcyBhdCBTVU5ZIE5ldw0KDQogICAgICAgICAgICAgICAgUGFsdHoNCg0KICAgICAgICAgICAgICAgIFNhbWFudGhhIFJvb3QgKEJhcmQgQ29sbGVnZSkgLSBEaWR5bW8gcHJvamVjdCBzdW1tZXIgaW50ZXJuIGF0IFNVTlkgTmV3IFBhbHR6DQoNCiAgICAgICAgICAgICAgICBTdGVwaGVuIERpRmFsY28gKFNVTlkgTmV3IFBhbHR6KSAtIFN0dWRlbnQgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBFeHBlcmllbmNlIChTVVJFKSBhdA0KDQogICAgICAgICAgICAgICAgU1VOWSBOZXcgUGFsdHoNCg0KMjAwOSBTdW1tZXIgICAgIFRlcmlrbyBNYWNDb25uZWxsIChOZXdwb3J0IEVsZW1lbnRhcnkgU2Nob29sLCBOZXcgSGFtcHNoaXJlKSAtIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yDQoNCiAgICAgICAgICAgICAgICBUZWFjaGVycyBhdCBDYXJ5IEluc3RpdHV0ZSBvZiBFY29zeXN0ZW0gU3R1ZGllcw0KDQogICAgICAgICAgICAgICAgTmF0aGFuIENhbXAgKEtlYXJzYXJnZSBSZWdpb25hbCBNaWRkbGUgU2Nob29sLCBOZXcgSGFtcHNoaXJlKSAtIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yDQoNCiAgICAgICAgICAgICAgICBUZWFjaGVycyBhdCBDYXJ5IEluc3RpdHV0ZSBvZiBFY29zeXN0ZW0gU3R1ZGllcw0KDQoyMDA4IFN1bW1lciAgICAgTGF1cmEgRm94IChJbmRpYW5hIFVuaXZlcnNpdHktUHVyZHVlIFVuaXZlcnNpdHkgSW5kaWFuYXBvbGlzKSAtIFJlc2VhcmNoIGFzc2lzdGFudCBhdCBTdHJvdWQgV2F0ZXINCg0KICAgICAgICAgICAgICAgIFJlc2VhcmNoIENlbnRlcg0KDQogICAgICAgICAgICAgICAgSGFuaCBOZ3V5ZW4gKERhcnRtb3V0aCBDb2xsZWdlKSAtIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yIFVuZGVyZ3JhZHVhdGVzIGF0IFN0cm91ZCBXYXRlcg0KDQogICAgICAgICAgICAgICAgUmVzZWFyY2ggQ2VudGVyDQoNCiAgICAgICAgICAgICAgICBMYXVyYSBSZWdlc3RlciAoVHJpbml0eSBVbml2ZXJzaXR5LCBEQykgLSBSZXNlYXJjaCBFeHBlcmllbmNlIGZvciBVbmRlcmdyYWR1YXRlcyBhdCBTdHJvdWQgV2F0ZXINCg0KICAgICAgICAgICAgICAgIFJlc2VhcmNoIENlbnRlcg0KDQoyMDA3IFN1bW1lciAgICAgSmFjbHluIE1jSWx3YWluIChVbml2ZXJzaXR5IG9mIERlbGF3YXJlKSAtIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yIFVuZGVyZ3JhZHVhdGVzIGF0IFN0cm91ZA0KDQogICAgICAgICAgICAgICAgV2F0ZXIgUmVzZWFyY2ggQ2VudGVyDQoNCiAgICAgICAgICAgICAgICBNYWRkaWUgV2ludGVycyAoR3VpbGZvcmQgQ29sbGVnZSkgLSBSZXNlYXJjaCBhc3Npc3RhbnQgYXQgU3Ryb3VkIFdhdGVyIFJlc2VhcmNoIENlbnRlcg0KDQoNCg0KDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDg=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914020306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

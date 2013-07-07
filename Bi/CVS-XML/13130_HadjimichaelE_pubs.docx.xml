@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:23 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911320306521"  usageLimitType="allocation" usageLimit="200" currentUsage="47" remainingUsage="153" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr. Evangelos Hadjimichael</FormattedName>
+<GivenName>Evangelos</GivenName>
+<FamilyName>Hadjimichael</FamilyName>
+<Affix type="formOfAddress">Dr.</Affix>
+</PersonName>
+</ContactInfo>
+<Qualifications>
+<Competency name = "Fabrication">
+<CompetencyEvidence name ="Fabrication">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIEV2YW5nZWxvcyBIYWRqaW1pY2hhZWwNCg0KUHJvZmVzc29yIG9mIFBoeXNpY3MgJiBDb21wdXRlciBFbmdpbmVlciANCg0KQS4gS2Fzc2FlLCBMLk4uIFBhbmRleSwgTS5MLiBSdXN0Z2kgYW5kIEUuIEhhZGppbWljaGFlbCwgJ0NvbnRyaWJ1dGlvbnMgdG8gdGhlIEUyIFRyYW5zaXRpb24gaW4gdGhlIFJlYWN0aW9uIMKgMkgoZyxuKXAsJyBQaHlzLiBSZXYuIEMzOSwgMTE0NyAoMTk4OSkuDQoNCg0KDQpFLiBIYWRqaW1pY2hhZWwgYW5kIFMuIEZhbGxpZXJvcywgJ1Byb2R1Y3Rpb24gb2YgcG8gaW4gdGhlIENvdWxvbWIgRmllbGQgb2YgTnVjbGVpIGJ5IFZpcnR1YWwgUGhvdG9ucyBmcm9tIEVsZWN0cm9uIFNjYXR0ZXJpbmcnIFBoeXMuIFJldi4gQzM5LCAxNDM4ICgxOTg5KS4NCg0KDQoNCkUuIEhhZGppbWljaGFlbCwgJ1RocmVlLUJvZHkgU3lzdGVtcyBhbmQgVGhyZWUtQm9keSBGb3JjZXMsJyDCoE51Y2wuIFBoeXMuIEE1MDgsIDE2MSAoMTk5MCkuDQoNCg0KDQpFLiBIYWRqaW1pY2hhZWwsIEcuIFBvdWxpcyBhbmQgVy5ULiBEb25uZWxseSwgJ1Bhcml0eSBWaW9sYXRpb24gaW4gUG9sYXJpemVkIEVsZWN0cm9uIFNjYXR0ZXJpbmcgZnJvbSBEZXV0ZXJpdW0nLCBQaHlzLiBSZXYuQzQ1LCAyNjY2ICgxOTkyKSANCg0KDQoNClMuIFJhbWF2YXRhcmFtLCBFLiBIYWRqaW1pY2hhZWwgYW5kIFQuIFcuIERvbm5lbGx5LCBQYXJpdHktVmlvbGF0aW5nIEFzeW1tZXRyeSBpbiBFbGFzdGljIGUtNEhlIFNjYXR0ZXJpbmcsIE51Y2xlYXIgUGh5c2ljcywgKDE5OTQpDQoNCg0KDQpFLiBIYWRqaW1pY2hhZWwsIFMuIFJhbWF2YXRhcmFtLCBhbmQgVC5XLiBEb25uZWxseSwgJ1Bhcml0eS1WaW9sYXRpbmcgQXN5bW1ldHJ5IGluIEVsYXN0aWMgZS1IZTQgU2NhdHRlcmluZycsIFByb2NlZWRpbmdzLCBWIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBJbnRlcnNlY3Rpb25zIGJldHdlZW4gRWxlbWVudGFyeSBQYXJ0aWNsZXMgYW5kIE51Y2xlYXIgUGh5c2ljcywgU3QuIFBldGVyc2J1cmcsIEZMLCBKdW5lIDEtNiwgMTk5NA0KDQoNCg0KRS4gSGFkamltaWNoYWVsIGFuZCBTLiBGYWxsaWVyb3MsICdDb25uZWN0aW9uIGJldHdlZW4gQ29uc2VydmVkIFF1YW50aXRpZXMgYW5kIERlZ2VuZXJhY2llcyBpbiBRdWFudHVtIFN5c3RlbXMnIEFtLiBKLiBQaHlzLiA2MywgMTAxNyAoMTk5NSkNCg0KDQoNCkUuIEhhZGppbWljaGFlbCwgRS4gQ3VycmllIGFuZCBTLiBGYWxsaWVyb3MsICdUaGUgVGhvbWFzLVJlaWNoZS1LdWhuIFN1bSBSdWxlIGFuZMKgdGhlIFJpZ2lkIFJvdGF0b3IiLCBBbS4gSi4gUGh5cy4gNjUsIDMzNSAoMTk5NynCoA0KDQpZIEp1bmcsIEEuIFZhY2ljLCBZb25nIFN1biwgRS4gSGFkamltaWNoYWVsIGFuZCBNYXJrIHJlZWQsICJtYXBwaW5nIG9mIE5lYXItRmllbGQgTGlnaHQgYW5kIEZhYnJpY2F0aW9uIG9mIENvbXBsZXggbmFub3BhdHRlcm5zIGJ5IGRpZmZyYWN0aW9uIExpdGhvZ3JhcGh5IiwgTmFub3RlY2hub2xvZ3kgMjMsIDA0NTMwMSAoMjAxMik=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911320306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

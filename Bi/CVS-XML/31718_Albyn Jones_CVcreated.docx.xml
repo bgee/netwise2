@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:56 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911101306521"  usageLimitType="allocation" usageLimit="200" currentUsage="95" remainingUsage="105" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Albyn Jones</FormattedName>
+<GivenName>Albyn</GivenName>
+<FamilyName>Jones</FamilyName>
+</PersonName>
+</ContactInfo>
+<Qualifications>
+<Competency name = "Statistics">
+<CompetencyEvidence name ="Statistics">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QWxieW4gSm9uZXMNCg0KUHJvZmVzc29yIG9mIFN0YXRpc3RpY3MgDQoNCg0KDQoNCg0KSSBhbSBhIFByb2Zlc3NvciBvZiBTdGF0aXN0aWNzIGluIHRoZSBtYXRoZW1hdGljcyBkZXBhcnRtZW50IGF0IFJlZWQgQ29sbGVnZSwgaW4gUG9ydGxhbmQsIE9yZWdvbi4gSSBnb3QgbXkgQi5BLiBpbiBtYXRoZW1hdGljcyBhdCBVQ0xBLCBhbmQgUGguRC4gaW4gbWF0aGVtYXRpY2FsIHN0YXRpc3RpY3MgYXQgWWFsZS4NCg0KDQoNCk15IGxhdGVzdCBnYW1lOiBQZXRhbnF1ZS4gSSBwbGF5IHNxdWFzaCwgZ28sIGFuZCBjaGVzcywgYmljeWNsZSwgYW5kIGZvbGxvdyBzb2NjZXIgKG15IHNvY2NlciByYXRpbmdzIHdlYnNpdGUgaXMgc2FkbHkgbm90IHVwIHRvIGRhdGUpLiBJIGFsc28ganVnZ2xlLiBDaGVjayBvdXQgdGhlIFBvcnRsYW5kIEp1Z2dsZXJzIHdoaWxlIHlvdSdyZSBpbiB0aGUgbmVpZ2hib3Job29kLiBHbyAod2VpIGNoaSwgYmFkdWspIGlzIGFuIGFuY2llbnQgZ2FtZSBvZiBzdHJhdGVneTsgdmlzaXQgSmFuIHZhbiBkZXIgU3RlZW4ncyBHb0Jhc2UsIG9yIHRoZSBBbWVyaWNhbiBHbyBBc3NvY2lhdGlvbiBob21lcGFnZS4gVG8gcGxheSBnbyBvbmxpbmUsIHRyeSB0aGUgS2lzZWlkbyBHbyBTZXJ2ZXIgLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911101306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

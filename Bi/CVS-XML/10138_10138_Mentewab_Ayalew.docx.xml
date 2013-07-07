@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:44 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916016206521"  usageLimitType="allocation" usageLimit="200" currentUsage="33" remainingUsage="167" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Ph.D. Ayalew Mentewab</FormattedName>
+<GivenName>Ph.D.</GivenName>
+<MiddleName>Ayalew</MiddleName>
+<FamilyName>Mentewab</FamilyName>
+</PersonName>
+<ContactMethod>
+<InternetEmailAddress>mayalew@spelman.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institut National Polytechnique Ecole Nationale Superieure d&apos;Agronomie de Toulouse</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>INP-ENSAT, France</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institut National Polytechnique Ecole Nationale Superieure d&apos;Agronomie de Toulouse</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.A</DegreeName>
+<DegreeMajor>
+<Name>INP-ENSAT, France</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Email">
+<CompetencyEvidence name ="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TWVudGV3YWIgQXlhbGV3LCBQaC5ELg0KDQoNCg0KRW1haWw6IG1heWFsZXdAc3BlbG1hbi5lZHUNCg0KDQoNClRpdGxlOiBBc3Npc3RhbnQgUHJvZmVzc29yDQoNCg0KDQpTcGVsbWFuOiAyMDA4DQoNCg0KDQpEZWdyZWUocykgfCBZZWFyIEF3YXJkZWQ6DQoNClBoLkQuLCBJbnN0aXR1dCBOYXRpb25hbCBQb2x5dGVjaG5pcXVlLCBFY29sZSBOYXRpb25hbGUgU3VwZXJpZXVyZSBkJ0Fncm9ub21pZSBkZSBUb3Vsb3VzZSAoSU5QLUVOU0FUKSwgRnJhbmNlDQoNCk0uQS4sIElOUC1FTlNBVCwgRnJhbmNlDQoNCkRpcGxvbWUgZCdJbmdlbmlldXIgQWdyb25vbWUsIElOUC1FTlNBVCwgRnJhbmNl</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916016206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

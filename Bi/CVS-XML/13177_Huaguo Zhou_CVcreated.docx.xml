@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:27 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910420306521"  usageLimitType="allocation" usageLimit="200" currentUsage="48" remainingUsage="152" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Huaguo Zhou Ph.D</FormattedName>
+<GivenName>Huaguo</GivenName>
+<MiddleName>Zhou</MiddleName>
+<FamilyName>Ph.D</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Chicago</Municipality>
+<DeliveryAddress>
+<AddressLine>24 - 27</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (618) 650-2815</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>618</AreaCityCode>
+<SubscriberNumber>650-2815</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>hzhou@siue.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Parsons Brinckerhoff Inc.</EmployerOrgName>
+<PositionHistory>
+<Title>Transportation Engineer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Florida</Region>
+<Municipality>Lakeland</Municipality>
+<DeliveryAddress>
+<AddressLine>98 Corridor Access Management Plan</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>I-75 PD&amp;E Traffic Study (From Fowler Ave. to CR 54), FDOT District 7, Tampa, FL. I-4/Memorial Interchange Operational Analysis Report (IOAR), Polk County, Florida. Interstate-4 (I-4)/U.S. 27 Interchange Operational Analysis Report (IOAR), Polk County, Florida. Victor Posner City Center Traffic Impact Study, Polk County, Florida. SR 70 Traffic Operations Analysis, Okeechobee County, Florida. I-4/Kathleen Interchange Design Analysis, Polk County, Florida. John&apos;s Pass Bridge Traffic Technical Memorandum, Pinellas County, Florida. District Wide Access Management Support Services, FDOT District 1. U.S. Determination of Access Management Classification for the SR 540 Extension to US 17, the FDOT District 1. Research Assistant, Center for Urban Transportation Research (CUTR), University of South Florida
+</Description>
+<StartDate>
+<AnyDate>2001-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Beijing Jiao-Tong University</EmployerOrgName>
+<PositionHistory>
+<Title>Research Assistant, Department of Civil and Environmental Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Operational and Safety Effects of Access Management Techniques on Roadways Funded by the FDOT. ($175,000)
+</Description>
+<StartDate>
+<AnyDate>1998-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Multimedia</EmployerOrgName>
+<PositionHistory>
+<Title>GIS Approach</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Responsible for developing a GIS-based tool to quickly analyze the environmental impacts of proposed road alignments. for the Collection of Rural Highway Roadside Inventory data
+</Description>
+<StartDate>
+<AnyDate>1993-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Collecting &amp; Recording Highway Inventory Data</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Funded by IDOT and ICT Investigation of Methods &amp; Approaches for
+</Description>
+<StartDate>
+<AnyDate>2011-03-05</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-10</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Highway Incident Management Operational &amp; Training Guide</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Funded by IDOT and ICT Phase 2
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-06-30</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research and Education</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Funded by IDOT and ICT Nurturing Synergy between Integrating Transportation Engineering Research Tools into Coursework ( On-going Project, Co-PI) Funded by SIUE Excellence in Undergraduate Education (EUE) program Investigation of Contributing Factors Regarding Wrong-way Driving on Freeways (
+</Description>
+<StartDate>
+<AnyDate>2011-08-16</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-08-15</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Civil Engineering Traffic Signal Education</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Funded by SIUE for Summer Research Fellowship Development of Traffic Simulation and Animation Modules for Transportation Engineering Undergraduate Courses ( Completed in 2010) Funded by SIUE Excellence in Undergraduate Education (EUE) program
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Publication</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Funded by SIUE Excellence in Undergraduate Education (EUE) program
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of South Florida</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Florida</Region>
+<Municipality>Tampa</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2001-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Transportation Engineering</Name>
+</DegreeMajor>
+<Comments>Dissertation: Operational Effects of U-turns as Alternative to Direct Left Turns from Driveways.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Jiao-Tong University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1998-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Transportation and Environment, Beijing</Name>
+</DegreeMajor>
+<Comments>Dissertation: Optimal Selection of aProposed Road Alignments Based on Environmental Impacts.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Beijing Jiao-Tong University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BSCE</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Area of Research</Name>
+</DegreeMajor>
+<Comments>Dissertation: Optimal Selection of aProposed Road Alignments Based on Environmental Impacts.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Southern Illinois University Edwardsville</SchoolName>
+</School>
+<OrganizationUnit>Assistant Professor, Department of Civil engineering</OrganizationUnit>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Environmental Impact Analysis</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Development of Core Concepts and Knowledge Tables for Introduction of Transportation Engineering Course.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Submitted to SIUE.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>Traffic and Pedestrian Safety, Funded by SIUE for Summer Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>PI, $4,000</Name>
+</DegreeMajor>
+<Comments>Development of Traffic Simulation and Animation Modules for Transportation Engineering</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EUE Program.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Funded by SIUE Excellence in Education</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EUE Program.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Engineering Traffic Signal Education, Funded by SIUE Excellence in</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center for Urban Transportation Research</SchoolName>
+</School>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeMajor>
+<Name>Senior Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of South Florida</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Safe Routes to School Program</SchoolName>
+</School>
+<OrganizationUnit>Florida Department of Transportation (FDOT) District 7.</OrganizationUnit>
+<Degree>
+<DegreeMajor>
+<Name>Pasco County, Funded by the</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Safe Routes to School Program</SchoolName>
+</School>
+<OrganizationUnit>Florida Department of Transportation (FDOT) District 7.</OrganizationUnit>
+<Degree>
+<DegreeMajor>
+<Name>PI, $15,000</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>Pinellas County, Funded by the</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Development of MOT Training Program for Incident Responders</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>PI, $30,000</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Evaluation of Safe Routes to School Program</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Co-PI, $300,000</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Southern Illinois University Edwardsville Leadership and Service</SchoolName>
+</School>
+<OrganizationUnit>Department</OrganizationUnit>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2012-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Admission</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2011-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Committee (Chair</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Transportation Engineers.</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeMajor>
+<Name>Traffic Signal Operations Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of South Florida .</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>D.C</Region>
+<Municipality>Washington</Municipality>
+</PostalAddress>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Pan-Pacific Regions</Name>
+</DegreeMajor>
+<Comments>Reviewer for the Journal of Public Transportation, National Center for Transit Research</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Transportation Engineers</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>Professional Affiliation</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>&quot;Comprehensive Evalutaion of A Short-Term Safety Improvement Program.&quot;</Title>
+<Name role="author">
+<FormattedName>H. Zhou, J.Zhao, and P.Hsu</FormattedName>
+</Name>
+<JournalOrSerialName>Southern Illinois University Edwardsville</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Fries.R</Title>
+<Name role="author">
+<FormattedName>H. Zhou, L.Wang, M.R. Gahrooei, and</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Identification of Contributing Factors to Wrong-Way Crashes on Freeway Using Haddon Matrices.&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Fries.R</Title>
+<PublicationDate>
+<StringDate>July 2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>S.Erica and H. Zhou &quot;Barriers Influencing Illinois Children School Travel Mode Choice.&quot; Advances in Transportation Studies</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Safety and Operational Assessment of Yield-to-Bus Electronic Warning Signs on Transit Bus.&quot;</Title>
+<Name role="author">
+<FormattedName>Fabregas, A., P. Lin, E. Gonzalez, A. Datz, and H. Zhou</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of the Transportaiton Research Record No</JournalOrSerialName>
+<Volume>2281</Volume>
+<PageNumber>1-9.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Safety Effects of Left Exit on Freeway: A Case Study in Florida</Title>
+<Name role="author">
+<FormattedName>Zhao J., H. Zhou, H. Chen, and P. Hsu</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>November 2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>USA.&quot; Advances in Transportation Studies</JournalOrSerialName>
+<PageNumber>75-90</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Integrating Left-Turn Lane Geometric Design with Signal Timing.&quot;</Title>
+<Name role="author">
+<FormattedName>Yang J., H.Zhou</FormattedName>
+</Name>
+<JournalOrSerialName>ASCE Journal of Transportation Engineering</JournalOrSerialName>
+<Volume>137(11</Volume>
+<PageNumber>767-774.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Safety Performance Evaluation of Left-Side Off-Ramps at Freeway Diverge Areas.&quot;</Title>
+<Name role="author">
+<FormattedName>Chen H., H. Zhou, J. Zhao, and P. Hsh</FormattedName>
+</Name>
+<JournalOrSerialName>Accident Analysis &amp; Prevention</JournalOrSerialName>
+<Volume>43(2011</Volume>
+<PageNumber>605-612.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;An Overview of Yield-to-Bus Programs in Florida&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., S. Bromfield, and P. Lin</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Public Transportation.14 (2) 2011,151-163 Zhou H. D. Miller and P. Hsu &quot;Issue of Pedestrian Safety on Multi-Lane High-Speed Arterials.&quot; Advances in Transportation Studies</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Identify Factors Affecting the Number of Students Walking to School.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou, H., Zhao, J., Hsu P. and Rouse, J</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Factors Affecting Students&apos; Walking/Biking Rates: Initial Findings from a Safe Route to School Survey in Florida.&quot;Journal of Transportation Safety and Security 2:14-27 2010</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;A New Roadway Lighting Measurement System.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., Pirinccioglu F., and Hsu P</FormattedName>
+</Name>
+<JournalOrSerialName>Transportation Research Part C 17: 274-284 2009</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Moving the Bus Back into Traffic Safely-Signage and Lighting Configuration&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou, H., Bromfield, S., Datz, A</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;What do We Know about Signal Countdown Timers* ITE Journal on Web 2</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;An Unconventional Design for Bus U-turns at Signalized Intersections.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., Lin P., Shen J</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Public Transportation</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;A Methodology to Evaluate Effects of Access Control near Freeway Interchange Area.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., Williams K., and Farah W</FormattedName>
+</Name>
+<JournalOrSerialName>ASCE Journal of Transportation Engineering</JournalOrSerialName>
+</Article>
+<Article>
+<Title>University of South Florida</Title>
+<JournalOrSerialName>Center for Urban Transportation Research and Beijing Jiao-Tong University</JournalOrSerialName>
+</Article>
+<Article>
+<Title>J.Zhao</Title>
+<Name role="author">
+<FormattedName>Zhou H</FormattedName>
+</Name>
+<JournalOrSerialName>R.Fries</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Development of a Highway Incident Management Operational and Training Guide.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., R. Fries, M. Williamson, Z. Tian and B. Vaughn</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;A Safe Routes to School Survey in Pinellas County.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., Cheng S. and Zhao J</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Moving the Bus Back into Traffic Safely-Signage and Lighting Configuration Phase I.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., Bromfield S</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;A Safe Routes to School Survey in Hillsborough County.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., and Zhao J</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Roadway Lighting Analysis</Title>
+<Name role="author">
+<FormattedName>Zhou H., and Pirinccioglu F</FormattedName>
+</Name>
+<JournalOrSerialName>Phase I: Development of Lighting Measurement Strategies.&quot; Final Report Submitted to the Florida Department of Transportation</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Safety Research: Pinellas County U.S</Title>
+<Name role="author">
+<FormattedName>Zhou H</FormattedName>
+</Name>
+<Volume>55</Volume>
+</Article>
+<Article>
+<Title>&quot;Road Ranger Benefit and Cost Analysis.&quot;</Title>
+<Name role="author">
+<FormattedName>Hagen L., Zhou H. Singh H</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>http://www.itscosts.its.dot.gov/its/benecost.nsf/Print/2FA61263C877AE888525722900608B08 Hagen L</Title>
+<Name role="author">
+<FormattedName>Zhou H. Pirinccioglu F</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Development of Revised Methodology for Collecting Origin-Destination Data.&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Evaluation of the Drive</Title>
+<Name role="author">
+<FormattedName>Zhou H., Singh H. Lin P. and Hagen L</FormattedName>
+</Name>
+<Volume>4</Volume>
+</Article>
+<Article>
+<Title>&quot;Costs and Benefits of Strategic Acquisition of Limited Access Right-of-Way at Freeway Interchange Areas.&quot;</Title>
+<Name role="author">
+<FormattedName>Williams K., Zhou H. and Hagen L</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Analysis of Traffic Operations at Collins Avenue</Title>
+<Name role="author">
+<FormattedName>Zhou H., and Hagen L</FormattedName>
+</Name>
+<JournalOrSerialName>(SR A1A)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Corsim-Based Simulation Approach to Evaluate Route Diversion Plans in Sarasota County.&quot;</Title>
+<Name role="author">
+<FormattedName>Zhou H., and Hagen L</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Operational Evaluation of Right Turn Followed by U-turns as Alternatives to Direction Left Turns.&quot;</Title>
+<Name role="author">
+<FormattedName>Lu J., Dissanayake S., Zhou H. Yang X. and Williams K</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>FDOT Davis Productivity Award</Title>
+<Name role="author">
+<FormattedName>Georgia Brosch</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Memorial Transportation Scholarship</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Southern Transportation Center (STC) Fellowship</Title>
+<JournalOrSerialName>Member of Honor Society of Phi Kappa Phi Honorable Mention of PB Technical Paper Competition</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Excellent Graduate Student Scholarship</Title>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Beijing Jiao-Tong University</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>Honors&amp;Awards High Impact Project Award</Title>
+<Name role="author">
+<FormattedName>ICT</FormattedName>
+</Name>
+<EventName>Excellent Paper Award (second author) at the 24th ICTPA Annual Conference Outstanding Research Award</EventName>
+<ConferenceDate>
+<StringDate>2012</StringDate>
+</ConferenceDate>
+</ConferencePaper>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Geographic Information System">
+<CompetencyEvidence name ="Geographic Information System">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Integrate">
+<CompetencyEvidence name ="Integrate" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Inventory">
+<CompetencyEvidence name ="Inventory" lastUsed="1998-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Training">
+<CompetencyEvidence name ="Training" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Transportation">
+<CompetencyEvidence name ="Transportation" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>SHVhZ3VvIFpob3UgUGguRCwgUC5FLg0KDQoNCg0KDQoNCkFzc2lzdGFudCBQcm9mZXNzb3INCg0KRGVwYXJ0bWVudCBvZiBDaXZpbCBFbmdpbmVlcmluZw0KDQpTb3V0aGVybiBJbGxpbm9pcyBVbml2ZXJzaXR5IEVkd2FyZHN2aWxsZQ0KDQpQaG9uZTogNjE4LTY1MC0yODE1DQoNCkVtYWlsOiBoemhvdUBzaXVlLmVkdQ0KDQogIA0KDQoNCg0KRWR1Y2F0aW9uDQoNCg0KDQogICAgUGguRC4gaW4gVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcsIFVuaXZlcnNpdHkgb2YgU291dGggRmxvcmlkYSwgVGFtcGEsIEZsb3JpZGEsIEp1bmUsIDIwMDEuIERpc3NlcnRhdGlvbjogT3BlcmF0aW9uYWwgRWZmZWN0cyBvZiBVLXR1cm5zIGFzIEFsdGVybmF0aXZlIHRvIERpcmVjdCBMZWZ0IFR1cm5zIGZyb20gRHJpdmV3YXlzLg0KDQogICAgUGguRC4gaW4gSGlnaHdheSBhbmQgUmFpbHdheSBFbmdpbmVlcmluZywgd2l0aCBhIGNvbmNlbnRyYXRpb24gaW4gVHJhbnNwb3J0YXRpb24gYW5kIEVudmlyb25tZW50LCBCZWlqaW5nIEppYW8tVG9uZyBVbml2ZXJzaXR5LCBCZWlqaW5nLCBDaGluYSwgSnVuZSwgMTk5OC4gRGlzc2VydGF0aW9uOiBPcHRpbWFsIFNlbGVjdGlvbiBvZiBhUHJvcG9zZWQgUm9hZCBBbGlnbm1lbnRzIEJhc2VkIG9uIEVudmlyb25tZW50YWwgSW1wYWN0cy4NCg0KICAgIEJTQ0UsIEJlaWppbmcgSmlhby1Ub25nIFVuaXZlcnNpdHksIEJlaWppbmcsIENoaW5hLCAxOTkzDQoNCg0KDQpBcmVhIG9mIFJlc2VhcmNoDQoNCg0KDQogICAgVHJhZmZpYyBPcGVyYXRpb25zIGFuZCBTYWZldHkNCg0KICAgIEZyZWV3YXkgSW5jaWRlbnQgTWFuYWdlbWVudA0KDQogICAgQWNjZXNzIE1hbmFnZW1lbnQNCg0KICAgIEhpZ2h3YXkgYW5kIFRyYWZmaWMgRW5naW5lZXJpbmcNCg0KICAgIE9wZXJhdGlvbmFsIEVmZmVjdHMgb2YgR2VvbWV0cmljcw0KDQogICAgUGVkZXN0cmlhbiBhbmQgQmljeWNsZSBTYWZldHkNCg0KICAgIEludGVsbGlnZW50IFRyYW5zcG9ydGF0aW9uIFN5c3RlbXMNCg0KICAgIEVudmlyb25tZW50YWwgSW1wYWN0IEFuYWx5c2lzDQoNCg0KDQpBc3Npc3RhbnQgUHJvZmVzc29yLCBEZXBhcnRtZW50IG9mIENpdmlsIGVuZ2luZWVyaW5nLCBTb3V0aGVybiBJbGxpbm9pcyBVbml2ZXJzaXR5IEVkd2FyZHN2aWxsZSAsICAgQXVndXN0IDIwMDgtcHJlc2VudA0KDQoNCg0KICAgIERldmVsb3BtZW50IG9mIENvcmUgQ29uY2VwdHMgYW5kIEtub3dsZWRnZSBUYWJsZXMgZm9yIEludHJvZHVjdGlvbiBvZiBUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZyBDb3Vyc2UuIFN1Ym1pdHRlZCB0byBTSVVFLiAoIFBJLCAkNiw1MDApDQoNCiAgICBJbnZlc3RpZ2F0aW9uIG9mIE1ldGhvZHMgJiBBcHByb2FjaGVzIGZvciBDb2xsZWN0aW5nICYgUmVjb3JkaW5nIEhpZ2h3YXkgSW52ZW50b3J5IERhdGEuIEZ1bmRlZCBieSB0aGUgSURPVCBhbmQgSUNULiAoIFBJLCAkMjE1LDAwMCkNCg0KICAgIE11bHRpbWVkaWEgR0lTIEFwcHJvYWNoIGZvciB0aGUgQ29sbGVjdGlvbiBvZiBSdXJhbCBIaWdod2F5IFJvYWRzaWRlIEludmVudG9yeSBkYXRhLiBGdW5kZWQgYnkgU0lVRShDby1QSSwgJDYsNTAwKQ0KDQogICAgSGlnaHdheSBJbmNpZGVudCBNYW5hZ2VtZW50IE9wZXJhdGlvbmFsICYgVHJhaW5pbmcgR3VpZGUsIFBoYXNlIDIsIEZ1bmRlZCBieSB0aGUgSURPVCBhbmQgSUNULiAoIFBJLCAkMzAwLDAwMCkNCg0KICAgIE51cnR1cmluZyBTeW5lcmd5IGJldHdlZW4gUmVzZWFyY2ggYW5kIEVkdWNhdGlvbjogSW50ZWdyYXRpbmcgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcgUmVzZWFyY2ggVG9vbHMgaW50byBDb3Vyc2V3b3JrIChDby1QSSwgJDgsNTAwKQ0KDQogICAgSW52ZXN0aWdhdGlvbiBvZiBDb250cmlidXRpbmcgRmFjdG9ycyBSZWdhcmRpbmcgV3Jvbmctd2F5IERyaXZpbmcgb24gRnJlZXdheXMsIEZ1bmRlZCBieSB0aGUgSURPVCBhbmQgSUNULiAoIFBJLCAkMjMwLDAwMCApDQoNCiAgICBEZXZlbG9wbWVudCBvZiBhIEhpZ2h3YXkgSW5jaWRlbnQgTWFuYWdlbWVudCBPcGVyYXRpb25hbCBhbmQgVHJhaW5pbmcgR3VpZGUsIEZ1bmRlZCBieSB0aGUgSURPVCBhbmQgSUNULiAoUEksICQxMzYsMDAwKQ0KDQogICAgU2FmZXR5IEVmZmVjdHMgb2YgTWVkaWFuIE1vZGlmaWNhdGlvbiBVc2luZyBRdWljayBLdXJiLCBGdW5kZWQgYnkgRkRPVCBEaXN0cmljdCA3LiAoIFBJLCAkNywwNDIpDQoNCiAgICBUaGUgRWZmZWN0cyBvZiBSb2Fkd2F5IExpZ2h0aW5nIExldmVscyBvbiBUcmFmZmljIGFuZCBQZWRlc3RyaWFuIFNhZmV0eSwgRnVuZGVkIGJ5IFNJVUUgZm9yIFN1bW1lciBSZXNlYXJjaCBGZWxsb3dzaGlwLiAoUEksICQ0LDAwMCkNCg0KICAgIERldmVsb3BtZW50IG9mIFRyYWZmaWMgU2ltdWxhdGlvbiBhbmQgQW5pbWF0aW9uIE1vZHVsZXMgZm9yIFRyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nIFVuZGVyZ3JhZHVhdGUgQ291cnNlcywgRnVuZGVkIGJ5IFNJVUUgRXhjZWxsZW5jZSBpbiBVbmRlcmdyYWR1YXRlIEVkdWNhdGlvbiAoRVVFKSBQcm9ncmFtLiAoUEksICQ4LDYwMCkNCg0KICAgIENpdmlsIEVuZ2luZWVyaW5nIFRyYWZmaWMgU2lnbmFsIEVkdWNhdGlvbiwgRnVuZGVkIGJ5IFNJVUUgRXhjZWxsZW5jZSBpbiBVbmRlcmdyYWR1YXRlIEVkdWNhdGlvbiAoRVVFKSBQcm9ncmFtLiAoQ28tUEksICQ4LDcwMCkNCg0KDQoNCiBTZW5pb3IgUmVzZWFyY2ggQXNzb2NpYXRlLCBDZW50ZXIgZm9yIFVyYmFuIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIChDVVRSKSwgVW5pdmVyc2l0eSBvZiBTb3V0aCBGbG9yaWRhICwgQXVndXN0IDIwMDMtQXVndXN0IDIwMDgNCg0KDQoNCiAgICBTYWZlIFJvdXRlcyB0byBTY2hvb2wgUHJvZ3JhbSBpbiBQYXNjbyBDb3VudHksIEZ1bmRlZCBieSB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uIChGRE9UKSBEaXN0cmljdCA3LiAoUEksICQzMCwwMDApDQoNCiAgICBBIFN0dWR5IG9uIHRoZSBTYWZldHkgb2YgTGVmdC1TaWRlIE9mZi1SYW1wcyBvbiBGcmVld2F5cywgRnVuZGVkIGJ5IHRoZSBGbG9yaWRhIERlcGFydG1lbnQgb2YgVHJhbnNwb3J0YXRpb24gKEZET1QgRGlzdHJpY3QgNy4gKFBJLCAkMTUsMDAwKQ0KDQogICAgU2FmZSBSb3V0ZXMgdG8gU2Nob29sIFByb2dyYW0gaW4gUGluZWxsYXMgQ291bnR5LCBGdW5kZWQgYnkgdGhlIEZsb3JpZGEgRGVwYXJ0bWVudCBvZiBUcmFuc3BvcnRhdGlvbiAoRkRPVCkgRGlzdHJpY3QgNy4gKFBJLCAkMzAsMDAwKQ0KDQogICAgRGV2ZWxvcG1lbnQgb2YgTU9UIFRyYWluaW5nIFByb2dyYW0gZm9yIEluY2lkZW50IFJlc3BvbmRlcnMgaW4gRmxvcmlkYSwgRnVuZGVkIGJ5IHRoZSBGRE9UIENlbnRyYWwgT2ZmaWNlLiAoQ28tUEksICQxODUsMDAwKQ0KDQogICAgU2lnbmFsIFRlY2hub2xvZ3kgQXBwbGljYXRpb24gdG8gQWRkcmVzcyBUcmFmZmljIENvbmdlc3Rpb24gb24gVVMgMzAxIGluIFN0YXJrZSwgRmxvcmlkYSwgRnVuZGVkIGJ5IHRoZSBGRE9UIENlbnRyYWwgT2ZmaWNlLiAoQ28tUEksICQzMDAsMDAwKQ0KDQogICAgRXZhbHVhdGlvbiBvZiBTYWZlIFJvdXRlcyB0byBTY2hvb2wgUHJvZ3JhbSwgRnVuZGVkIGJ5IHRoZSBGRE9UIERpc3RyaWN0IDcuIChQSSwgJDM1LDAwMCkNCg0KICAgIERvY3VtZW50aW5nIEltcHJvdmVkIE1vYmlsaXR5IFRlY2huaXF1ZXMgb24gU0lTIGFuZCBUUklQIEZhY2lsaXRpZXMsIEZ1bmRlZCBieSB0aGUgRkRPVCBDZW50cmFsIE9mZmljZS4gKCQ3NSwwMDApDQoNCiAgICBTdHJlZXQgTGlnaHRpbmcgQW5hbHlzaXMtIFBoYXNlIElJOiBTdHJlZXQgTGlnaHRpbmcgRGF0YSBDb2xsZWN0aW9uIGFuZCBFdmFsdWF0aW9uLCBGdW5kZWQgYnkgdGhlIEZET1QgRGlzdHJpY3QgNy4gKFBJLCAkNDAsMDAwKQ0KDQogICAgU3RyZWV0IExpZ2h0aW5nIEFuYWx5c2lzLSBQaGFzZSBJOiBEZXZlbG9wbWVudCBvZiBhIE1vYmlsZSBMaWdodGluZyBNZWFzdXJlbWVudCBTeXN0ZW0sIEZ1bmRlZCBieSB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBEaXN0cmljdCA3LiAoUEksICQzNSwwMDApDQoNCiAgICBVUyAxOSBQZWRlc3RyaWFuIFNhZmV0eSBTdHVkeS4gRnVuZGVkIGJ5IEZET1QgRGlzdHJpY3QgNy4gKFBJLCAkMTgsMDAwKQ0KDQogICAgTW92aW5nIHRoZSBCdXMgQmFjayBJbnRvIFRyYWZmaWMgU2FmZWx5LVNpZ25hZ2UgYW5kIExpZ2h0aW5nIENvbmZpZ3VyYXRpb24gKFBoYXNlIEkpLCBGdW5kZWQgYnkgdGhlIEZET1QuKFBJLCAkNzUsMDAwKQ0KDQogICAgRXZhbHVhdGlvbiBvZiB0aGUgRHJpdmUgNCBMaWZlIENhbXBhaWduLSBBIEJlZm9yZS1hbmQtQWZ0ZXIgU2FmZXR5IFN0dWR5LiBGdW5kZWQgYnkgRkRPVCBEaXN0cmljdCA3LiAoQ28tUEksICQxNCwwMDApDQoNCiAgICBEZXZlbG9wbWVudCBvZiBSZXZpc2VkIE1ldGhvZG9sb2d5IGZvciBDb2xsZWN0aW5nIE9yaWdpbi1EZXN0aW5hdGlvbiBEYXRhLCBGdW5kZWQgYnkgdGhlIEZET1QgQ2VudHJhbCBPZmZpY2UuIChDby1QSSwgJDUwLDAwMCkNCg0KICAgIENvc3QtYW5kLUJlbmVmaXQgQW5hbHlzaXMgb2YgUm9hZCBSYW5nZXIgUHJvZ3JhbSBpbiBGbG9yaWRhLCBGdW5kZWQgYnkgdGhlIEZET1QgQ2VudHJhbCBvZmZpY2UuIChDby1QSSwgJDc1LDAwMCkNCg0KICAgIEluY2lkZW50IE1hbmFnZW1lbnQgVGVhbSBhbmQgUmVzb3VyY2UgRGV2ZWxvcG1lbnQsIEZ1bmRlZCBieSB0aGUgRkRPVCBDZW50cmFsIE9mZmljZS4gKENvLVBJLCAkMzAwLDAwMCkNCg0KICAgIFRoZSBDb3N0cy1hbmQtQmVuZWZpdHMgb2YgU3RyYXRlZ2ljIEFjcXVpc2l0aW9uIG9mIExpbWl0ZWQgQWNjZXNzIFJpZ2h0LW9mLVdheSBhdCBGcmVld2F5IEludGVyY2hhbmdlIEFyZWFzLCBGdW5kZWQgYnkgdGhlIEZET1QgQ2VudHJhbCBPZmZpY2UuICgkMTI1LDAwMCkNCg0KICAgIFRyYWZmaWMgSW5jaWRlbnQgTWFuYWdlbWVudCBpbiBTYXJhc290YSBDb3VudHksIEZ1bmRlZCBieSB0aGUgRkRPVCBDZW50cmFsIE9mZmljZS4gKENvLVBJLCAkMzAsMDAwKQ0KDQogICAgQW5hbHlzaXMgb2YgVHJhZmZpYyBPcGVyYXRpb25zIGF0IENvbGxpbnMgQXZlbnVlIChTUiBBMUEpIGFuZCAxOTNyZCBTdHJlZXQsIEZ1bmRlZCBieSBNaWFtaS1EYWRlIFRyYW5zaXQuIChDby1QSSwgJDksMDAwKQ0KDQoNCg0KVHJhbnNwb3J0YXRpb24gRW5naW5lZXIsIFBhcnNvbnMgQnJpbmNrZXJob2ZmLCBJbmMuLCBKdW5lIDIwMDEtQXVndXN0IDIwMDMNCg0KDQoNCiAgICBJLTc1IFBEJkUgVHJhZmZpYyBTdHVkeSAoRnJvbSBGb3dsZXIgQXZlLiB0byBDUiA1NCksIEZET1QgRGlzdHJpY3QgNywgVGFtcGEsIEZMLg0KDQogICAgSS00L01lbW9yaWFsIEludGVyY2hhbmdlIE9wZXJhdGlvbmFsIEFuYWx5c2lzIFJlcG9ydCAoSU9BUiksIFBvbGsgQ291bnR5LCBGbG9yaWRhLg0KDQogICAgSW50ZXJzdGF0ZS00IChJLTQpL1UuUy4gMjcgSW50ZXJjaGFuZ2UgT3BlcmF0aW9uYWwgQW5hbHlzaXMgUmVwb3J0IChJT0FSKSwgUG9sayBDb3VudHksIEZsb3JpZGEuDQoNCiAgICBWaWN0b3IgUG9zbmVyIENpdHkgQ2VudGVyIFRyYWZmaWMgSW1wYWN0IFN0dWR5LCBQb2xrIENvdW50eSwgRmxvcmlkYS4NCg0KICAgIFNSIDcwIFRyYWZmaWMgT3BlcmF0aW9ucyBBbmFseXNpcywgT2tlZWNob2JlZSBDb3VudHksIEZsb3JpZGEuDQoNCiAgICBJLTQvS2F0aGxlZW4gSW50ZXJjaGFuZ2UgRGVzaWduIEFuYWx5c2lzLCBQb2xrIENvdW50eSwgRmxvcmlkYS4NCg0KICAgIEpvaG4ncyBQYXNzIEJyaWRnZSBUcmFmZmljIFRlY2huaWNhbCBNZW1vcmFuZHVtLCBQaW5lbGxhcyBDb3VudHksIEZsb3JpZGEuDQoNCiAgICBEaXN0cmljdCBXaWRlIEFjY2VzcyBNYW5hZ2VtZW50IFN1cHBvcnQgU2VydmljZXMsIEZET1QgRGlzdHJpY3QgMS4NCg0KICAgIFUuUy4gOTggQ29ycmlkb3IgQWNjZXNzIE1hbmFnZW1lbnQgUGxhbiwgTGFrZWxhbmQsIEZsb3JpZGEuDQoNCiAgICBEZXRlcm1pbmF0aW9uIG9mIEFjY2VzcyBNYW5hZ2VtZW50IENsYXNzaWZpY2F0aW9uIGZvciB0aGUgU1IgNTQwIEV4dGVuc2lvbiB0byBVUyAxNywgdGhlIEZET1QgRGlzdHJpY3QgMS4NCg0KDQoNClJlc2VhcmNoIEFzc2lzdGFudCwgQ2VudGVyIGZvciBVcmJhbiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCAoQ1VUUiksIFVuaXZlcnNpdHkgb2YgU291dGggRmxvcmlkYSwgQXVndXN0IDE5OTgtSnVuZSAyMDAxDQoNCg0KDQogICAgT3BlcmF0aW9uYWwgYW5kIFNhZmV0eSBFZmZlY3RzIG9mIEFjY2VzcyBNYW5hZ2VtZW50IFRlY2huaXF1ZXMgb24gUm9hZHdheXMsIEZ1bmRlZCBieSB0aGUgRkRPVC4gKCQxNzUsMDAwKQ0KDQoNCg0KUmVzZWFyY2ggQXNzaXN0YW50LCBEZXBhcnRtZW50IG9mIENpdmlsIGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBCZWlqaW5nIEppYW8tVG9uZyBVbml2ZXJzaXR5LCAgIEJlaWppbmcuIENoaW5hLCBTZXB0ZW1iZXIgMTk5MyAtIEp1bHkgMTk5OA0KDQoNCg0KICAgIFJlc3BvbnNpYmxlIGZvciBkZXZlbG9waW5nIGEgR0lTLWJhc2VkIHRvb2wgdG8gcXVpY2tseSBhbmFseXplIHRoZSBlbnZpcm9ubWVudGFsIGltcGFjdHMgb2YgcHJvcG9zZWQgcm9hZCBhbGlnbm1lbnRzLg0KDQoNCg0KDQoNClByb2plY3QNCg0KDQoNCiAgICBNdWx0aW1lZGlhIEdJUyBBcHByb2FjaCBmb3IgdGhlIENvbGxlY3Rpb24gb2YgUnVyYWwgSGlnaHdheSBSb2Fkc2lkZSBJbnZlbnRvcnkgZGF0YSAoNS8zLzIwMTEtMTAvMS8yMDEyKQ0KDQogICAgRnVuZGVkIGJ5IElET1QgYW5kIElDVA0KDQoNCg0KICAgIEludmVzdGlnYXRpb24gb2YgTWV0aG9kcyAmIEFwcHJvYWNoZXMgZm9yIENvbGxlY3RpbmcgJiBSZWNvcmRpbmcgSGlnaHdheSBJbnZlbnRvcnkgRGF0YSAoMS8xLzIwMTItNi8zMC8yMDEzKQ0KDQogICAgRnVuZGVkIGJ5IElET1QgYW5kIElDVA0KDQoNCg0KICAgIEhpZ2h3YXkgSW5jaWRlbnQgTWFuYWdlbWVudCBPcGVyYXRpb25hbCAmIFRyYWluaW5nIEd1aWRlLCBQaGFzZSAyICg4LzE2LzIwMTEtOC8xNS8yMDEzKQ0KDQogICAgRnVuZGVkIGJ5IElET1QgYW5kIElDVA0KDQoNCg0KICAgIE51cnR1cmluZyBTeW5lcmd5IGJldHdlZW4gUmVzZWFyY2ggYW5kIEVkdWNhdGlvbjogSW50ZWdyYXRpbmcgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcgUmVzZWFyY2ggVG9vbHMgaW50byBDb3Vyc2V3b3JrICggT24tZ29pbmcgUHJvamVjdCwgQ28tUEkpDQoNCiAgICBGdW5kZWQgYnkgU0lVRSBFeGNlbGxlbmNlIGluIFVuZGVyZ3JhZHVhdGUgRWR1Y2F0aW9uIChFVUUpIHByb2dyYW0NCg0KDQoNCiAgICBJbnZlc3RpZ2F0aW9uIG9mIENvbnRyaWJ1dGluZyBGYWN0b3JzIFJlZ2FyZGluZyBXcm9uZy13YXkgRHJpdmluZyBvbiBGcmVld2F5cyAoIDcvMS8yMDEwLTYvMzAvMjAxMiApDQoNCiAgICBGdW5kZWQgYnkgdGhlIElET1QgYW5kIElDVA0KDQoNCg0KICAgIERldmVsb3BtZW50IG9mIGEgSGlnaHdheSBJbmNpZGVudCBNYW5hZ2VtZW50IE9wZXJhdGlvbmFsIGFuZCBUcmFpbmluZyBHdWlkZSAoIDcvMS8yMDA5LTYvMzAvMjAxMSkNCg0KICAgIEZ1bmRlZCBieSB0aGUgSURPVCBhbmQgSUNUDQoNCg0KDQogICAgU2FmZXR5IEVmZmVjdHMgb2YgTWVkaWFuIE1vZGlmaWNhdGlvbiBVc2luZyBRdWljayBLdXJiICggQ29tcGxldGVkIGluIDIwMTApDQoNCiAgICBGdW5kZWQgYnkgRkRPVCBEaXN0cmljdCA3DQoNCg0KDQogICAgVGhlIEVmZmVjdHMgb2YgUm9hZHdheSBMaWdodGluZyBMZXZlbHMgb24gVHJhZmZpYyBhbmQgUGVkZXN0cmlhbiBTYWZldHkoIENvbXBsZXRlZCBpbiAyMDA5KQ0KDQogICAgRnVuZGVkIGJ5IFNJVUUgZm9yIFN1bW1lciBSZXNlYXJjaCBGZWxsb3dzaGlwDQoNCg0KDQogICAgRGV2ZWxvcG1lbnQgb2YgVHJhZmZpYyBTaW11bGF0aW9uIGFuZCBBbmltYXRpb24gTW9kdWxlcyBmb3IgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcgVW5kZXJncmFkdWF0ZSBDb3Vyc2VzICggQ29tcGxldGVkIGluIDIwMTApDQoNCiAgICBGdW5kZWQgYnkgU0lVRSBFeGNlbGxlbmNlIGluIFVuZGVyZ3JhZHVhdGUgRWR1Y2F0aW9uIChFVUUpIHByb2dyYW0NCg0KDQoNCiAgICBDaXZpbCBFbmdpbmVlcmluZyBUcmFmZmljIFNpZ25hbCBFZHVjYXRpb24oIENvbXBsZXRlZCBpbiAyMDEwICkNCg0KICAgIEZ1bmRlZCBieSBTSVVFIEV4Y2VsbGVuY2UgaW4gVW5kZXJncmFkdWF0ZSBFZHVjYXRpb24gKEVVRSkgcHJvZ3JhbQ0KDQoNCg0KDQoNClB1YmxpY2F0aW9uDQoNCg0KDQpKb3VybmFsIEFydGljbGVzDQoNCg0KDQogICAgICAgICAgICAgIFNvdXRoZXJuIElsbGlub2lzIFVuaXZlcnNpdHkgRWR3YXJkc3ZpbGxlIChBdWd1c3QgMjAwOCAtIFByZXNlbnQpDQoNCg0KDQogICAgSC4gWmhvdSwgSi5aaGFvLCBhbmQgUC5Ic3UsICJDb21wcmVoZW5zaXZlIEV2YWx1dGFpb24gb2YgQSBTaG9ydC1UZXJtIFNhZmV0eSBJbXByb3ZlbWVudCBQcm9ncmFtLiIgKGluIHByb2dyZXNzKS4NCg0KICAgIEguIFpob3UsIEwuV2FuZywgTS5SLiBHYWhyb29laSwgYW5kIEZyaWVzLlIuLCAiSWRlbnRpZmljYXRpb24gb2YgQ29udHJpYnV0aW5nIEZhY3RvcnMgdG8gV3JvbmctV2F5IENyYXNoZXMgb24gRnJlZXdheSBVc2luZyBIYWRkb24gTWF0cmljZXMuIiAoaW4gcHJvZ3Jlc3MpLg0KDQogICAgRnJpZXMuUi4sIFMuRXJpY2EsIGFuZCBILiBaaG91LCAiQmFycmllcnMgSW5mbHVlbmNpbmcgSWxsaW5vaXMgQ2hpbGRyZW4gU2Nob29sIFRyYXZlbCBNb2RlIENob2ljZS4iIEFkdmFuY2VzIGluIFRyYW5zcG9ydGF0aW9uIFN0dWRpZXMgSnVseSwgMjAxMi4NCg0KICAgIEZhYnJlZ2FzLCBBLiwgUC4gTGluLCBFLiBHb256YWxleiwgQS4gRGF0eiwgYW5kIEguIFpob3UsICJTYWZldHkgYW5kIE9wZXJhdGlvbmFsIEFzc2Vzc21lbnQgb2YgWWllbGQtdG8tQnVzIEVsZWN0cm9uaWMgV2FybmluZyBTaWducyBvbiBUcmFuc2l0IEJ1cy4iIEpvdXJuYWwgb2YgdGhlIFRyYW5zcG9ydGFpdG9uIFJlc2VhcmNoIFJlY29yZCwgTm8uIDIyODEsIDIwMTEsIDEtOS4NCg0KICAgIFpoYW8gSi4sIEguIFpob3UsIEguIENoZW4sIGFuZCBQLiBIc3UsICJTYWZldHkgRWZmZWN0cyBvZiBMZWZ0IEV4aXQgb24gRnJlZXdheTogQSBDYXNlIFN0dWR5IGluIEZsb3JpZGEsIFVTQS4iIEFkdmFuY2VzIGluIFRyYW5zcG9ydGF0aW9uIFN0dWRpZXMuIE5vdmVtYmVyLCAyMDExLCA3NS05MA0KDQogICAgWWFuZyBKLiwgSC5aaG91LCAiSW50ZWdyYXRpbmcgTGVmdC1UdXJuIExhbmUgR2VvbWV0cmljIERlc2lnbiB3aXRoIFNpZ25hbCBUaW1pbmcuIiBBU0NFIEpvdXJuYWwgb2YgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcsIDEzNyAoMTEpLCAyMDExIDc2Ny03NzQuDQoNCiAgICBDaGVuIEguLCBILiBaaG91LCBKLiBaaGFvLCBhbmQgUC4gSHNoLCAiU2FmZXR5IFBlcmZvcm1hbmNlIEV2YWx1YXRpb24gb2YgTGVmdC1TaWRlIE9mZi1SYW1wcyBhdCBGcmVld2F5IERpdmVyZ2UgQXJlYXMuIiBBY2NpZGVudCBBbmFseXNpcyAmIFByZXZlbnRpb24uLDQzKDIwMTEpLCA2MDUtNjEyLg0KDQogICAgWmhvdSBILiwgUy4gQnJvbWZpZWxkLCBhbmQgUC4gTGluLCAiQW4gT3ZlcnZpZXcgb2YgWWllbGQtdG8tQnVzIFByb2dyYW1zIGluIEZsb3JpZGEiLiBKb3VybmFsIG9mIFB1YmxpYyBUcmFuc3BvcnRhdGlvbi4xNCgyKSwyMDExLDE1MS0xNjMNCg0KICAgIFpob3UgSC4sIEQuIE1pbGxlciwgYW5kIFAuIEhzdSwgIklzc3VlIG9mIFBlZGVzdHJpYW4gU2FmZXR5IG9uIE11bHRpLUxhbmUgSGlnaC1TcGVlZCBBcnRlcmlhbHMuIiBBZHZhbmNlcyBpbiBUcmFuc3BvcnRhdGlvbiBTdHVkaWVzLCAyMDEwDQoNCiAgICBaaG91IEguLCBZYW5nIEouLCBIc3UgUC4gYW5kIENoZW4gUy4sICJGYWN0b3JzIEFmZmVjdGluZyBTdHVkZW50cycgV2Fsa2luZy9CaWtpbmcgUmF0ZXM6IEluaXRpYWwgRmluZGluZ3MgZnJvbSBhIFNhZmUgUm91dGUgdG8gU2Nob29sIFN1cnZleSBpbiBGbG9yaWRhLiJKb3VybmFsIG9mIFRyYW5zcG9ydGF0aW9uIFNhZmV0eSBhbmQgU2VjdXJpdHksIDI6MTQtMjcsIDIwMTAuDQoNCiAgICBaaG91LCBILiwgWmhhbywgSi4sIEhzdSBQLiBhbmQgUm91c2UsIEouLCAiSWRlbnRpZnkgRmFjdG9ycyBBZmZlY3RpbmcgdGhlIE51bWJlciBvZiBTdHVkZW50cyBXYWxraW5nIHRvIFNjaG9vbC4iIElURSBKb3VybmFsLCA0MC00NCwgMjAwOS4NCg0KICAgIFpob3UgSC4sIFBpcmluY2Npb2dsdSBGLiwgYW5kIEhzdSBQLiAsICJBIE5ldyBSb2Fkd2F5IExpZ2h0aW5nIE1lYXN1cmVtZW50IFN5c3RlbS4iIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIFBhcnQgQywgMTc6IDI3NC0yODQsIDIwMDkuDQoNCiAgICBDaGVuLCBILiwgWmhvdSwgSC4sIEhzdSwgUC4sICJXaGF0IGRvIFdlIEtub3cgYWJvdXQgU2lnbmFsIENvdW50ZG93biBUaW1lcnM/IElURSBKb3VybmFsIG9uIFdlYiwgMjogNzItNzYsIDIwMDkuDQoNCiAgICBaaG91LCBILiwgQnJvbWZpZWxkLCBTLiwgRGF0eiwgQS4sICJNb3ZpbmcgdGhlIEJ1cyBCYWNrIGludG8gVHJhZmZpYyBTYWZlbHktU2lnbmFnZSBhbmQgTGlnaHRpbmcgQ29uZmlndXJhdGlvbiIgSVRFIEpvdXJuYWwsIDQwLTQ2LCAyMDA5Lg0KDQogICAgWmhvdSBILiwgTGluIFAuLCBTaGVuIEouLCAiQW4gVW5jb252ZW50aW9uYWwgRGVzaWduIGZvciBCdXMgVS10dXJucyBhdCBTaWduYWxpemVkIEludGVyc2VjdGlvbnMuIiBKb3VybmFsIG9mIFB1YmxpYyBUcmFuc3BvcnRhdGlvbiwgVm9sdW1lIDExLCBOby4gNCwgcHA4OS0xMDMsIDIwMDguDQoNCiAgICBaaG91IEguLCBXaWxsaWFtcyBLLiwgYW5kIEZhcmFoIFcuLCAiQSBNZXRob2RvbG9neSB0byBFdmFsdWF0ZSBFZmZlY3RzIG9mIEFjY2VzcyBDb250cm9sIG5lYXIgRnJlZXdheSBJbnRlcmNoYW5nZSBBcmVhLiIgQVNDRSBKb3VybmFsIG9mIFRyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nLCBBU0NFLCAxMzQoMTIpLCA1MDQtNTExLCAyMDA4Lg0KDQoNCg0KIFVuaXZlcnNpdHkgb2YgU291dGggRmxvcmlkYSwgQ2VudGVyIGZvciBVcmJhbiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBhbmQgQmVpamluZyBKaWFvLVRvbmcgVW5pdmVyc2l0eSAoQmVmb3JlICBBdWd1c3QgMjAwOCkNCg0KDQoNCiAgICBaaG91IEgiRXZhbHVhdGlvbiBvZiBSb3V0ZSBEaXZlcnNpb24gU3RyYXRlZ2llcyBVc2luZyBDb21wdXRlciBTaW11bGF0aW9uLiIgSm91cm5hbCBvZiBUcmFuc3BvcnRhdGlvbiBTeXN0ZW0gRW5naW5lZXJpbmcgYW5kIEluZm9ybWF0aW9uIFRlY2hub2xvZ3kuIFZvbHVtZSA4LCBOby4gMSwgcHAgNjEtNjcsIDIwMDguDQoNCiAgICBaaG91IEguLCBIYWdlbiBMLixMdSBKLiAsIGFuZCBUaWFuIFouICwgIkVtcGlyaWNhbCBEZWxheSBNb2RlbHMgZm9yIE11bHRpLWxhbmUgVHdvLVdheSBTdG9wLUNvbnRyb2xsZWQgSW50ZXJzZWN0aW9ucy4iIElURSBKb3VybmFsLCBWb2wuIDc2LCBOby4gOTogNDEtNDYsIDIwMDYuDQoNCiAgICBZYW5nLCBYLiBhbmQgWmhvdSBILiwgIkNPUlNJTS1CYXNlZCBTaW11bGF0aW9uIEFwcHJvYWNoIHRvIEV2YWx1YXRpb24gb2YgRGlyZWN0IExlZnQgVHVybiB2ZXJzdXMgUmlnaHQgVHVybiBQbHVzIFUtdHVybiBmcm9tIERyaXZld2F5cy4iIEFTQ0UgSm91cm5hbCBvZiBUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcmluZywgMTMwICgxKSwgcHAuIDY4LTc1LCAyMDA0Lg0KDQogICAgTGl1LCBQLiwgTHUgSi4gLCBaaG91IEguICwgYW5kIFNva29sb3cgRy4gLCBPcGVyYXRpb25hbCBFZmZlY3RzIG9mIFUtdHVybnMgYXMgQWx0ZXJuYXRpdmVzIHRvIERpcmVjdCBMZWZ0LVR1cm5zLiIgQVNDRSBKb3VybmFsIG9mIFRyYW5zcG9ydGF0aW9uIEVuZ2luZWVyaW5nLCAxMjIoNSksIHBwLjMyNy0zMzQsIDIwMDcuDQoNCiAgICBaaG91IEguLCBIc3UgUC4gLCBMdSBKLiAsIGFuZCBXcmlnaHQgSi4gLCAiT3B0aW1hbCBMb2NhdGlvbiBvZiBVLXR1cm4gTWVkaWFuIE9wZW5pbmcgb24gUm9hZHdheXMuIiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBSZWNvcmQsIEpvdXJuYWwgb2YgVHJhbnNwb3J0YXRpb24gUmVzZWFyY2ggQm9hcmQsIE5vLjE4NDcsIHBwLiAzNi00MSwgMjAwMy4NCg0KICAgIFpob3UgSC4sIEx1IEouICwgWWFuZyBYLiAsRGlzc2FuYXlha2UgUy4gLFdpbGxpYW1zIEsuICwgIk9wZXJhdGlvbmFsIEVmZmVjdHMgb2YgVS10dXJucyBBcyBBbHRlcm5hdGl2ZXMgdG8gRGlyZWN0IExlZnQgVHVybnMgRnJvbSBEcml2ZXdheXMuIiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBSZWNvcmQsIEpvdXJuYWwgb2YgVHJhbnNwb3J0YXRpb24gUmVzZWFyY2ggQm9hcmQsIE5vLiAxNzk2LCBwcC4gNzItNzksIDIwMDIuIGh0dHA6Ly90cmIubWV0YXByZXNzLmNvbS9jb250ZW50L2s0NjcwMjExMjU0MDE0NDIvDQoNCiAgICBaaG91IEguLCAiQSBCZWZvcmUtYW5kLUFmdGVyIFNhZmV0eSBDb21wYXJpc29uIG9mIGEgRnVsbCB2ZXJzdXMgRGlyZWN0aW9uYWwgTWVkaWFuIE9wZW5pbmcuIiBGTElURSwgVm9sdW1lIDQ1LCBOby4xLCBEZWNlbWJlciwgMjAwNC4NCg0KICAgIFpob3UgSC4sICJPcHRpbWFsIFNlbGVjdGlvbiBvZiBBbHRlcm5hdGl2ZSBSb2FkIEFsaWdubWVudHMgQmFzZWQgb24gRW52aXJvbm1lbnRhbCBJbXBhY3RzLiIgQ2hpbmEgSm91cm5hbCBvZiBIaWdod2F5IGFuZCBUcmFuc3BvcnRhdGlvbiwgVm9sLiAxMiwgTm8uIDMsIHBwLiA5NS05OSwgSVNTTiAxMDAxLTczNzIsIDE5OTkuDQoNCiAgICBaaG91IEguLCAiQXBwbGljYXRpb24gb2YgTXVsdGktb2JqZWN0aXZlIEZ1enp5IE9wdGltYWwgU2VsZWN0aW9uIE1vZGVsIHRvIEVudmlyb25tZW50YWwgRGVjaXNpb24gTWFraW5nIG9mIFJvYWQgUm91dGUgU2VsZWN0aW9uLiIgSm91cm5hbCBvZiB0aGUgQ2hpbmEgUmFpbHdheSBTb2NpZXR5LCBWb2wuIDIwLCBOby4gNCwgcHAuIDk4LTEwNSwgSVNTTjEwMDEtODM2MCwgMTk5OC4NCg0KICAgIFpob3UgSC4sICJSYWlsd2F5IEZsb29kIERpc2FzdGVycyBEZXZlbG9waW5nIFRlbmRlbmN5IGluIENoaW5hIFByZWRpY3RlZCBieSBHcmF5IE1vZGVsLiIgSm91cm5hbCBvZiBDYXRhc3Ryb3Bob2xvZ3ksIFZvbC4gMTEsIE5vLiAyLCBwcC4gMjMtMjgsIElTU04xMDAwLTgxMVgsIDE5OTYuDQoNCiAgICBaaG91IEguLCAiQXBwbGljYXRpb24gb2YgSW50ZWxsaWdlbnQgVHJhbnNwb3J0YXRpb24gU3lzdGVtIG9uIFJhaWx3YXkuIiBDaGluZXNlIFJhaWx3YXksIE5vLiA5LCBwcC4gOS0xMiwgSVNTTjEwMDEtNjgzWCwgMTk5OC4NCg0KICAgIFpob3UgSC4sICJJbnRlZ3JhdGVkIFJlZ2lvbmFsIERpdmlzaW9uIG9mIENoaW5hJ3MgUmFpbHdheSBOYXR1cmFsIERpc2FzdGVycyBhbmQgUmVkdWN0aW9uIENvdW50ZXJtZWFzdXJlcy4iIEpvdXJuYWwgb2YgTmF0dXJhbCBEaXNhc3RlcnMsIFZvbC4gNSwgTm8uIDEsIHBwLiA4LTE0LCBJU1NOIDEwMDQtNDU3NCwgMTk5Ni4NCg0KICAgIFpob3UgSC4sICJBbmFseXNpcyBvbiB0aGUgQ2F1c2VzIGFuZCBEZXZlbG9wbWVudCBUcmVuZCBvZiBSYWlsd2F5IEZsb29kIERpc2FzdGVycyBpbiBOb3J0aGVhc3QgQ2hpbmEuIiBKb3VybmFsIG9mIE5vcnRoZXJuIEppYW8tVG9uZyBVbml2ZXJzaXR5LCBWb2wuIDIwLCBOby4gNjgsIHBwLiA2MjEtNjI1LCBJU1NOIDEwMDAtMTUwNiwgMTk5Ni4NCg0KICAgIFpob3UgSC4sICJTdGF0aXN0aWNhbCBDaGFyYWN0ZXJpc3RpY3Mgb2YgUmFpbHdheSBGbG9vZCBEaXNhc3RlcnMgaW4gUmVjZW50IDEwIFllYXJzIGluIENoaW5hLiIgSm91cm5hbCBvZiBOYXR1cmFsIERpc2FzdGVycywgVm9sLiA0IE5vLiA0LCBwcC43Ni04MiwgSVNTTiAxMDA0LTQ1NzQsIDE5OTUuDQoNCg0KDQpDb25mZXJlbmNlIFByb2NlZWRpbmcNCg0KDQoNCiAgICAgICAgICAgICAgU291dGhlcm4gSWxsaW5vaXMgVW5pdmVyc2l0eSBFZHdhcmRzdmlsbGUgKEF1Z3VzdCAyMDA4IC0gUHJlc2VudCApDQoNCg0KDQogICAgV2lsbGltc29uLiBNIGFuZCBILlpob3UsICJFdmFsdWF0aW9uIG9mIHRoZSBIaWdod2F5IEVtZXJnZW5jeSBMYW5lIFBhdHJvbCBpbiBDaGljYWdvLiIgVGhlIDIwMTIgSVRFIE1pZHdlc3QgRGlzdHJpY3QgQ29uZmVyZW5jZSArIFRSQiA0dGggVXJiYW4gU3RyZWV0IFN5bXBvc2l1bSBKdW5lIDI0LTI3IENoaWNhZ28sIElMLg0KDQogICAgV2lsbGltc29uLiBNIGFuZCBILlpob3UsICJEZXZlbG9wIENhbGlicmF0aW9uIEZhY3RvcnMgZm9yIENyYXNoIFByZWRpY3Rpb24gTW9kZWxzIGZvciBSdXJhbCBUd28tTGFuZXMgUm9hZHdheSBpbiBJbGxpbm9pcy4iIFRoZSA4dGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIFRyYWZmaWMgYW5kIFRyYW5zcG9ydGF0aW9uIFN0dWRpZXMoSUNUVFMnMjAxMikgQ2hhbmdzaGEsIEF1Z3VzdCAxLTMgMjAxMi4NCg0KICAgIEguWmhvdSwgSi5aaGFvICJNb2RlbGluZyBBbmFseXNpcyBvZiBJbmNpZGVuY2UgYW5kIFJvYWR3YXkgQ2xlYXJhbmNlIFRpbWUuIiBUaGUgOHRoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBUcmFmZmljIGFuZCBUcmFuc3BvcnRhdGlvbiBTdHVkaWVzKElDVFRTJzIwMTIpIENoYW5nc2hhLCBBdWd1c3QgMS0zIDIwMTIuDQoNCiAgICBILlpoYW8sIEosIFpoYW8gYW5kIFAuSHN1LCAiVGhlIHNhZmV0eSBFZmZlY3RzIG9mIE1lZGlhbiBUcmVhdG1lbnRzIFVzaW5nIFF1aWNrIEt1cmIuIiBUaGUgMjV0aCBJbnRlcm5hdGlvbmFsIENoaW5lc2UgVHJhbnNwcm90YXRpb24gUHJvZmVzc2lvbmFsIEFzc29jaWF0aW9uKElDVFBBKSBBbm51YWwgTWVldGluZyBhbmQgVGhlIDl0aCBBc2lhIFBhY2lmaWMgVHJhbnNwb3J0YXRpb24gRGV2ZWxvcG1lbnQgQ29uZmVyZW5jZSwgSnVuZSAyNi1KdWx5IDIsIDIwMTIsIENob25ncWluZywgQ2hpbmEuDQoNCiAgICBILlpob3UsIEouWmhvdSBhbmQgUC5Ic3UsICJDb21wZXJoZW5zaXZlIEV2YWx1YXRpb24gb2YgYSBTaG9ydC1UZXJtIGFuZCBMb25nLVRlcm0gU2FmZXR5IEltcHJvdmVtZW50IFByb2dyYW0uIiBUaGUgMjV0aCBJbnRlcm5hdGlvbmFsIENoaW5lc2UgVHJhbnNwcm90YXRpb24gUHJvZmVzc2lvbmFsIEFzc29jaWF0aW9uKElDVFBBKSBBbm51YWwgTWVldGluZyBhbmQgVGhlIDl0aCBBc2lhIFBhY2lmaWMgVHJhbnNwb3J0YXRpb24gRGV2ZWxvcG1lbnQgQ29uZmVyZW5jZSwgSnVuZSAyNi1KdWx5IDIsIDIwMTIsIENob25ncWluZywgQ2hpbmENCg0KICAgIEguWmhvdSwgRC5QaXBlciBhbmQgVy5LaXN0bGVyLCAiUG90ZW50aWFsIFRyYWZmaWMgQ29uZmxpY3RzIFJlZHVjdGlvbiBhdCB1bnNpZ25hbGl6ZWQgSW50ZXJzZWN0aW9uIFVzaW5nIG9mZnNldCBSaWdodC1UcnVuIExhbmUuIiBUaGUgMjAxMiBJVEUgTWlkd2VzdCBEaXN0cmljdCBDb25mZXJlbmNlK1RSQiA0dGggVXJiYW4gU3RyZWV0IFN5bXBvc2l1bSBKdW5lIDI0LTI3LDIwMTIgQ2hpY2Fnb++8jElMDQoNCiAgICBILlpob3UgIkNvbnRyaWJ1dGluZyBGYWN0b3JzIHRvIHRoZSBXcm9uZy13YXkgRHJpdmluZyBDcmFzaGVzIGluIElsbGlub2lzLiIgVGhlIDIwMTIgSVRTIEFtZXJpY2EgQW5udWFsIE1lZXRpbmcsIE1heSAyMS0yMywgMjAxMiwgV2FzaGluZ3RvbiBEQyAoSW52aXRlZCkuDQoNCiAgICBILlpob3UgYW5kIFouVGlhbiwgIlJlbGF0aW9uc2hpcCBCZXR3ZWVuIEluY2lkZW50IENsZWFyYW5jZSBUaW1lIGFuZCBSb2Fkd2F5IENsZWFyYW5jZSBUaW1lLiIgYXQgVGhlIDIwMTIgSVRFIFRlY2hpY2FsIENvbmZlcmVuY2UsIFBhbnNhZGVuYSwgQ0EsIE1hcmNoIDQtNywgMjAxMi4NCg0KICAgIEguWmhvdSBhbmQgR2VubyBLb2VobGVyICJNdWx0aS1BZ2VudCBIaWdod2F5IEluY2lkZW50IE1hbmFnZW1lbnQgVHJhaW5pbmcuIiBUaGUgOTh0aCBBbm51YWwgSWxsaW5vaXMgVHJhbnNwb3J0YXRpb24gYW5kIEhpZ2h3YXkgRW5naW5lZXJpbmcgQ29uZmVyZW5jZSwgRmVidXJhcnkgMjctMjksMjAxMihJbnZpdGVkKS4NCg0KICAgIFpoYW8sIEouLCBILiBaaG91IGFuZCBKLiBIdWFuZywgIkEgTWV0aG9kIHRvIEV2YWx1YXRlIFJvYWR3YXkgTGlnaHRpbmcgU3lzdGVtIGFuZCBJdHMgU2FmZXR5IEVmZmVjdHMuIiBUaGUgNnRoIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIFZpc3VhbGl6YXRpb24gaW4gVHJhbnNwb3J0YXRpb24sIENoaWNhZ28sIElsbGlub2lzLCBBdWd1c3QgMjAtMjMsIDIwMTEuDQoNCiAgICBLb3VydGVsbGlzIEEuLCBQLiBMaW4sIE0uIEdhd2FkZSBhbmQgSC4gWmhvdSwgIkV2YWx1YXRpb24gb2YgUGVkZXN0cmlhbiBTYWZldHkgQWN0aW9uIFBsYW4gaW4gVGFtcGEgQmF5LiIgSVRFIDIwMTEgQW5udWFsIE1lZXRpbmcsIFN0LiBMb3VpcywgTWlzc291cmksIDIwMTEuDQoNCiAgICBaaGFvIEouLCBILiBaaG91IGFuZCBKLiBIdWFuZywgIiBJbm5vdmF0aXZlIE1lZGlhbiBPcGVuaW5nIFRyZWF0bWVudCBvbiBNdWx0aWxhbmUgVXJiYW4gSGlnaHdheSB3aXRoIFF3aWNrIEt1cmIuIiBJVEUgMjAxMSBBbm51YWwgTWVldGluZywgU3QuIExvdWlzLCBNaXNzb3VyaSwgMjAxMS4NCg0KICAgIEh1YW5nIEouLCBILiBaaG91IGFuZCBKLiBaaGFvLCAiIFNhZmV0eSBFZmZlY3RzIG9mIExlZnQtdHVybiBCYXkgTGVuZ3RoIG9uIE11bHRpbGFuZSBIaWdod2F5cyB3aXRoIFR3by13YXkgTGVmdC10dXJuIExhbmUoVFdMVEwpIE1lZGlhbi4iMjAxMSBJVEUgQW5udWFsIE1lZXRpbmcsIFN0LiBMb3VpcywgTWlzc291cmksIDIwMTEuDQoNCiAgICBILnpob3UuIGFuZCBILiBDaGVuLCJBIEN1cnJlbnQgU3R1ZHkgdG8gU2VsZWN0IHRoZSBPcHRpbWFsIERlY2VsZXJhdGlvbiBMYW5lIExlbmd0aHMgYXQgRnJlZXdheSBEaXZlcmdlIEFyZWFzLiIgUHJlc2VudGVkIGF0IHRoZSA1Mm5kIEFubnVhbCBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBGb3J1bSAoVFJGKSwgTG9uZyBCZWFjaCwgQ2FsaWZvcm5pYSwgTWFyY2ggMTEsIDIwMTEuDQoNCiAgICBaaG91LCBILiAiVGhlIEVmZmVjdHMgb2YgQWNjZXNzIENvbnRyb2wgbmVhciBGcmVld2F5IEludGVyY2hhbmdlIEFyZWFzLiJUaGUgRmlyc3QgVHJhbnNwb3J0YXRpb24gYW5kIERldmVsb3BtZW50IENvbmdyZXNzLCBNYXJjaCwgQ2hpY2FnbywgSWxsaW5vaXMsIDIwMTEuDQoNCiAgICBGcmllcywgUi4sIE0uIFIuIEdhaHJvb2VpIGFuZCBILiBaaG91LCAiRXZhbHVhdGluZyBQb3RlbnRpYWwgZm9yIEludGVncmF0aW5nIFRyYWZmaWMgRGVuc2l0eSB3aXRoIEd1aWRhbmNlIEluZm9ybWF0aW9uLiIgVGhlIEZpcnN0IFRyYW5zcG9ydGF0aW9uIGFuZCBEZXZlbG9wbWVudCBDb25ncmVzcywgTWFyY2gsIENoaWNhZ28sIElsbGlub2lzLCAyMDExLg0KDQogICAgRmFicmVnYXMgQS4sIFAuIExpbiwgRS4gR29uemFsZXotVmVsZXosIEguIFpob3UgYW5kIEEuIERhdHouLCAiU2FmZXR5IGFuZCBPcGVyYXRpb25hbCBBc3Nlc3NtZW50IG9mIFlpZWxkLXRvLUJ1cyBMRUQgV2FybmluZyBTaWducyBvbiBUcmFuc2l0IEJ1c2VzLiIgQ29tcGVuZGl1bSBvZiBwYXBlcnMgb2YgdGhlIDkwdGggYW5udWFsIE1lZXRpbmcgb2YgVHJhbnNwb3J0YXRpb24gUmVzZWFyY2ggQm9hcmQsIFdhc2hpbmd0b24gRC4gQy4sIEphbnVhcnksIDIwMTEuDQoNCiAgICBaaGFvIEouLCBILiBaaG91IGFuZCBQLiBIc3UuLCAiSW1wYWN0IG9mIFNhZmUgUm91dGVzIHRvIFNjaG9vbCBvbiBTdHVkZW50IFRyYXZlbCBNb2RlIFNoaWZ0aW5nOiBCYXNlZCBvbiB0aGUgQmVmb3JlIGFuZCBBZnRlciBQZXJpb2QgU3VydmV5LiIgMjAxMCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2UgZm9yIENoaW5lc2UgVHJhbnNwb3J0YXRpb24gUHJvZmVzc2lvbmFscywgQmVpamluZywgQ2hpbmEsIEF1Z3VzdCwgMjAxMC4NCg0KICAgIFpoYW8gSi4gYW5kIEguIFpob3UsICJFeGFtaW5lIHRoZSBGYWN0b3JzIHRoYXQgQWZmZWN0IHRoZSBOdW1iZXIgb2YgU3R1ZGVudHMgV2Fsa2luZyBhbmQgQmlraW5nIHRvIFNjaG9vbC4iIElURSAyMDEwIEFubnVhbCBNZWV0aW5nLCBWYW5jb3V2ZXIsIENhbmFkYSwgQXVndXN0LCAyMDEwLg0KDQogICAgWmhvdSBILiBhbmQgSi4gWmhhbywgIkEgTmV3IE1ldGhvZCB0byBFdmFsdWF0ZSBSb2Fkd2F5IExpZ2h0aW5nIFN5c3RlbSBhbmQgaXRzIFNhZmV0eSBFZmZlY3RzIC4iIElURSAyMDEwIEFubnVhbCBNZWV0aW5nLCBWYW5jb3V2ZXIsIENhbmFkYSwgQXVndXN0LCAyMDEwLg0KDQogICAgWmhvdSBILiwgUC4gSHN1LCBKLiBaaGFvIGFuZCBMLiBIYWdlbi4sICJTYWZldHkgRWZmZWN0cyBvZiBNZWRpYW4gTW9kaWZpY2F0aW9uIFVzaW5nIFF1aWNrIEt1cmIuIjl0aCBOYXRpb25hbCBDb25mZXJlbmNlIG9uIEFjY2VzcyBNYW5hZ2VtZW50LCBOYXRjaGV6LCBNaXNzaXNzaXBwaSwgT2N0b2JlciwgMjAxMC4NCg0KICAgIEh1YW5nLCBKLiwgSC4gWmhvdSBhbmQgSi4gWmhhby4sICJBIE1ldGhvZCB0byBFdmFsdWF0ZSBSb2Fkd2F5IExpZ2h0aW5nIFN5c3RlbSBhbmQgaXRzIFNhZmV0eSBFZmZlY3RzLiIgNTl0aCBBbm51YWwgSWxsaW5vaXMgVHJhZmZpYyBFbmdpbmVlcmluZyAmIFNhZmV0eSBDb25mZXJlbmNlLCBDaGFtcGFpZ24sIElsbGlub2lzLCBPY3RvYmVyLCAyMDEwLg0KDQogICAgWmhvdSBILiBhbmQgWi4gVGlhbi4gIlJlbGF0aW9uc2hpcCBiZXR3ZWVuIFR3byBUcmFmZmljIEluY2lkZW50IE1hbmFnZW1lbnQgUGVyZm9ybWFuY2UgTWVhc3VyZTogUm9hZHdheSBDbGVhcmFuY2UgVGltZSBhbmQgSW5jaWRlbnQgQ2xlYXJhbmNlIFRpbWUuIiA1OXRoIEFubnVhbCBJbGxpbm9pcyBUcmFmZmljIEVuZ2luZWVyaW5nICYgU2FmZXR5IENvbmZlcmVuY2UsIENoYW1wYWlnbiwgSWxsaW5vaXMsIE9jdG9iZXIsIDIwMTAuDQoNCiAgICBaaG91IEguLCBHLiBYdSBhbmQgSi4gWmhhbywgIlBvdGVudGlhbCBUcmFmZmljIENvbmZsaWN0cyBSZWR1Y3Rpb24gYXQgVW5zaWduYWxpemVkIEludGVyc2VjdGlvbnMgVXNpbmcgT2Zmc2V0IFJpZ2h0LXR1cm4gTGFuZS4iIDU5dGggQW5udWFsIElsbGlub2lzIFRyYWZmaWMgRW5naW5lZXJpbmcgJiBTYWZldHkgQ29uZmVyZW5jZSwgQ2hhbXBhaWduLCBJbGxpbm9pcywgT2N0b2JlciwgMjAxMC4NCg0KICAgIFdpbGxpYW1zb24gTWljaGFlbCwgSC4gWmhvdSBhbmQgUi4gRnJpZXMsICJUcmFmZmljIFNpZ25hbCBDb29yZGluYXRpb24gZm9yIEhpZ2h3YXkgSW5jaWRlbnQgTWFuYWdlbWVudC4iNTl0aCBBbm51YWwgSWxsaW5vaXMgVHJhZmZpYyBFbmdpbmVlcmluZyAmIFNhZmV0eSBDb25mZXJlbmNlLCBDaGFtcGFpZ24sIElsbGlub2lzLCBPY3RvYmVyLCAyMDEwLg0KDQogICAgWmhhbyBKLiAsIEguIFpob3UsIFIuIEZyaWVzIGFuZCBaLiBUaWFuLCAiQXBwbGljYXRpb24gb2YgVHJhZmZpYyBTaW11bGF0aW9uIGFuZCBBbmltYXRpb24gTW9kdWxlcyBmb3IgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJpbmcgVW5kZXJncmFkdWF0ZSBDb3Vyc2VzLiJBbWVyaWNhbiBTb2NpZXR5IGZvciBFbmdpbmVlcmluZyBFZHVjYXRpb24gSU4vSUwgU2VjdGlvbiBDb25mZXJlbmNlLCBJbmRpYW5hLCBBcHJpbCwgMjAxMC4NCg0KICAgIFpob3UgSC4sIENoZW4gSC4sIFpoYW8gSi4gYW5kIEhzdSBQLiwgIk9wZXJhdGlvbmFsIGFuZCBTYWZldHkgUGVyZm9ybWFuY2Ugb2YgTGVmdC1TaWRlIE9mZi1SYW1wcyBhdCBGcmVld2F5IERpdmVyZ2UgQXJlYXMuIkNvbXBlbmRpdW0gb2YgcGFwZXJzIG9mIHRoZSA4OXRoIGFubnVhbCBNZWV0aW5nIG9mIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIEJvYXJkLCAyMDEwLg0KDQogICAgTGluIFAuLCBaaG91IEguLCBhbmQgR2VuemFsZXogRS4sIkFuIEludGVncmF0ZWQgTU9UIFRyYWluaW5nIFByb2dyYW0gZm9yIEluY2lkZW50IFJlc3BvbmRlcnMuIiBBbm51YWwgTWVldGluZyBvZiBJbnN0aXR1dGUgb2YgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJzLCBTdC4gQW50b25pbywgVFgsIEF1Z3VzdCwgMjAwOS4NCg0KICAgIFpob3UgSC4gYW5kIEhzdSBQLiwgIkVmZmVjdHMgb2YgUm9hZHdheSBMaWdodGluZyBvbiBOaWdodC1UaW1lIENyYXNoZXMuIiAyMDA5IEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBmb3IgQ2hpbmVzZSBUcmFuc3BvcnRhdGlvbiBQcm9mZXNzaW9uYWxzLCBIYXJiaW4sIENoaW5hLCBBdWd1c3QsIDIwMDkuDQoNCiAgICBaaG91IEguLCBCcm9tZmllbGQgUy4sIGFuZCBEYXR6IEEuLCAiTW92aW5nIEJ1cyBCYWNrIHRvIFRyYWZmaWMgU2FmZWx5LCBMaWdodGluZyBDb25maWd1cmF0aW9uIGFuZCBTaWduYWdlLiIgQ29tcGVuZGl1bSBvZiBwYXBlcnMgb2YgdGhlIDg4dGggYW5udWFsIE1lZXRpbmcgb2YgVHJhbnNwb3J0YXRpb24gUmVzZWFyY2ggQm9hcmQsIDIwMDkuDQoNCiAgICBHb256YWxleiBFLiwgWmhvdSBILiwgTGVlIEMuLCBhbmQgUGlyaW5jY2lvZ2x1IEYuLCAiRmllbGQgRXZhbHVhdGlvbiBvZiBSb2Fkd2F5IExpZ2h0aW5nIElsbHVtaW5hbmNlIFVzaW5nIGFuIEFkdmFuY2VkIExpZ2h0aW5nIE1lYXN1cmVtZW50IFN5c3RlbS4iIENvbXBlbmRpdW0gb2YgcGFwZXJzIG9mIHRoZSA4OHRoIGFubnVhbCBNZWV0aW5nIG9mIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIEJvYXJkIDIwMDkuDQoNCg0KDQogICAgICAgICAgICAgVW5pdmVyc2l0eSBvZiBTb3V0aCBGbG9yaWRhLCBDZW50ZXIgZm9yIFVyYmFuIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIGFuZCBCZWlqaW5nIEppYW8tVG9uZyBVbml2ZXJzaXR5IChCZWZvcmUgIEF1Z3VzdCAyMDA4KQ0KDQoNCg0KICAgIFpob3UgSC4sIFBpcmluY2Npb2dsdSBGLiwgQmVoemFkaSBCLiBhbmQgSHN1IFAuLCAiQSBOZXcgUm9hZHdheSBMaWdodGluZyBNZWFzdXJlbWVudCBTeXN0ZW0uIiB0aGUgODd0aCBBbm51YWwgTWVldGluZyBvZiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBCb2FyZCwgV2FzaGluZ3RvbiwgRC5DLiAsIEphbnVhcnksIDIwMDguDQoNCiAgICBaaG91IEguLCBXaWxsaWFtcyBLLiBhbmQgRmFyYWggVy4sICJBIE1ldGhvZG9sb2d5IHRvIEV2YWx1YXRlIEVmZmVjdHMgb2YgQWNjZXNzIENvbnRyb2wgbmVhciBGcmVld2F5IEludGVyY2hhbmdlIEFyZWEuIiB0aGUgODd0aCBBbm51YWwgTWVldGluZyBvZiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBCb2FyZCwgV2FzaGluZ3RvbiAsIEQuQy4gLCBKYW51YXJ5LCAyMDA4Lg0KDQogICAgWmhvdSBILiwgUGlyaW5jY2lvZ2x1IEYuLCBCZWh6YWRpIEIuIGFuZCBIc3UgUC4sICJBIE1vYmlsZSBMaWdodGluZyBNZWFzdXJlbWVudCBTeXN0ZW0uIiB0aGUgMTR0aCBXb3JsZCBDb25ncmVzcyBvbiBJbnRlbGxpZ2VudCBUcmFuc3BvcnQgU3lzdGVtcywgQmVpamluZywgQ2hpbmEsIE9jdG9iZXIgOS0xMywgMjAwNy4NCg0KICAgIFpob3UgSC4sIEJyb21maWVsZCBTLixEYXR6IEEuIGFuZCBMaW4gUC4sICJTaWduYWdlIGFuZCBMaWdodGluZyBDb25maWd1cmF0aW9uIERlc2lnbiBmb3IgQnVzIFNhZmV0eS4iIHRoZSAxNHRoIFdvcmxkIENvbmdyZXNzIG9uIEludGVsbGlnZW50IFRyYW5zcG9ydCBTeXN0ZW1zLCBCZWlqaW5nLCBDaGluYSwgT2N0b2JlciA5LTEzLCAyMDA3Lg0KDQogICAgWmhvdSBILiwgTGluIFAuLCBIc3UgUC4gYW5kIE1pbGxlciBELiwgIklubm92YXRpdmUgUGVkZXN0cmlhbiBTYWZldHkgSW1wcm92ZW1lbnQgUmVzZWFyY2ggb24gVVMgMTkgaW4gUGluZWxsYXMgQ291bnR5LiIgdGhlIDE0dGggV29ybGQgQ29uZ3Jlc3Mgb24gSW50ZWxsaWdlbnQgVHJhbnNwb3J0IFN5c3RlbXMsIEJlaWppbmcsIENoaW5hLCBPY3RvYmVyIDktMTMsIDIwMDcuDQoNCiAgICBMaW4gUC4sIEtvdXJ0ZWxsaXMgQS4sIFJhaSBTLiBhbmQgWmhvdSBILiwgIkV2YWx1YXRpb24gb2YgTW90b3IgQ2FycmllciBSZWFyIFZpc2lvbiBTeXN0ZW0uIiB0aGUgMTR0aCBXb3JsZCBDb25ncmVzcyBvbiBJbnRlbGxpZ2VudCBUcmFuc3BvcnQgU3lzdGVtcywgQmVpamluZywgQ2hpbmEsIE9jdG9iZXIgOS0xMywgMjAwNy4NCg0KICAgIFpob3UgSC4gYW5kIExpbiBQLiwgIkNvcnNpbS1iYXNlZCBTaW11bGF0aW9uIEFwcHJvYWNoIHRvIEV2YWx1YXRlIFJvdXRlIERpdmVyc2lvbiBQbGFucyBpbiBTYXJhc290YSBDb3VudHkuIiB0aGUgN3RoIEludGVybmF0aW9uYWwgY29uZmVyZW5jZSBvZiBDaGluZXNlIFByb2Zlc3Npb25hbHMsIFNoYW5naGFpLCBDaGluYSwgTWF5IDIxLTIyLCAyMDA3Lg0KDQogICAgWmhvdSBILiBhbmQgTGluIFAuLCAiQSBCZW5lZml0IGFuZCBDb3N0IEFuYWx5c2lzIG9mIEZyZWV3YXkgU2VydmljZSBQYXRyb2wgaW4gRmxvcmlkYS4iIHRoZSAxMXRoIFdvcmxkIENvbmZlcmVuY2UgZm9yIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoLCBCZXJrZWxleSwgVVNBLCBKdW5lIDI0LTI4LCAyMDA3Lg0KDQogICAgWmhvdSBILiBhbmQgSHN1IFAuICwgIkEgU3R1ZHkgb24gdGhlIFJlbGF0aW9uc2hpcCBiZXR3ZWVuIHRoZSBOaWdodCBUaW1lIENyYXNoIGFuZCBTdHJlZXQgTGlnaHRpbmcgTGV2ZWwuIiBBbm51YWwgTWVldGluZyBvZiBJbnN0aXR1dGUgb2YgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJzLCBQaXR0c2J1cmdoLCBQZW5uc3lsdmFuaWEsIFVTQSwgQXVndXN0IDUtOCwgMjAwNy4NCg0KICAgIGh0dHA6Ly93d3cuaXRlLm9yZy9hbm51YWxtZWV0aW5nL1Nob3dTZXNzaW9uLmFzcD9TZXNzaW9uX051bWJlcj0xMg0KDQogICAgWmhvdSBILiwgIkFuIFVuY29udmVudGlvbmFsIERlc2lnbiBmb3IgQnVzIFUtdHVybiBhdCBTaWduYWxpemVkIEludGVyc2VjdGlvbnMuIiB0aGUgN3RoIENvbmZlcmVuY2Ugb24gQWNjZXNzIE1hbmFnZW1lbnQsIFBhcmsgQ2l0eSwgVXRhaCwgQXVndXN0IDEzLTE2LCAyMDA2Lg0KDQogICAgICAgIHd3dy5hY2Nlc3NtYW5hZ2VtZW50Lmdvdi9BTTA2cGRmL0FNMDYxN2RfWmhvdS5wZGYNCg0KICAgICAgICB3d3cuYWNjZXNzbWFuYWdlbWVudC5pbmZvL0FNMjAwNi9QQzA2c2NoZGx2ZXI0LnBkZg0KDQogICAgWmhvdSBILiwgIkFjY2VzcyBNYW5hZ2VtZW50IGluIENoaW5hLiIgdGhlIDZ0aCBBc2lhLVBhY2lmaWMgVHJhbnNwb3J0YXRpb24gRGV2ZWxvcG1lbnQgQ29uZmVyZW5jZSwgSG9uZyBLb25nL01hY2F1LCBDaGluYSwgTWF5IDI5LUp1bmUgMSwgMjAwNi4NCg0KICAgIExpbiwgUCwgYW5kIFpob3UgSC4gLCAiRWZmZWN0aXZlIFRlbGVjb21tdXRpbmcgdG8gUmVkdWNlIFRyYWZmaWMgRGVtYW5kIGFuZCBFbmVyZ3kgQ29uc3VtcHRpb24uIiB0aGUgNnRoIEFzaWEtUGFjaWZpYyBUcmFuc3BvcnRhdGlvbiBEZXZlbG9wbWVudCBDb25mZXJlbmNlLCBIb25nIEtvbmcvTWFjYXUsIENoaW5hLCBNYXkgMjktSnVuZSAxLCAyMDA2Lg0KDQogICAgTGluLCBQLiwgYW5kIFpob3UgSC4gLCAiSW5jaWRlbnQgTWFuYWdlbWVudCBTdHJhdGVnaWVzIHRvIEFsbGV2aWF0ZSBUcmFmZmljIENvbmdlc3Rpb24gaW4gdGhlIFVuaXRlZCBTdGF0ZXMuIiB0aGUgNnRoIEFzaWEtUGFjaWZpYyBUcmFuc3BvcnRhdGlvbiBEZXZlbG9wbWVudCBDb25mZXJlbmNlLCBIb25nIEtvbmcvTWFjYXUsIENoaW5hLCBNYXkgMjktSnVuZSAxLCAyMDA2Lg0KDQogICAgSHN1LiBQLCBhbmQgWmhvdSBILiAsICJFdmFsdWF0aW9uIG9mIHRoZSBEcml2ZSA0IExpZmUgQ2FtcGFpZ24tIEEgQmVmb3JlLWFuZC1BZnRlciBTYWZldHkgU3R1ZHkuIiBBbm51YWwgTWVldGluZyBvZiBJbnN0aXR1dGUgb2YgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJzLCBNaWx3YXVrZWUsIFdpc2NvbnNpbiwgQXVndXN0LCAyMDA2Lg0KDQogICAgTGluLCBQLiwgSGFnZW4gTC4sIFZhbGF2YW5pcyBLLiwgYW5kIFpob3UgSC4sICJWaXNpb24gb2YgVW5tYW5uZWQgQWVyaWFsIFZlaGljbGUgKFVBVikgYmFzZWQgVHJhZmZpYyBNYW5hZ2VtZW50IGZvciBJbmNpZGVudHMgYW5kIEVtZXJnZW5jaWVzLiIgMTJ0aCBXb3JsZCBDb25ncmVzcyBvbiBJVFMsIENvbXBlbmRpdW0gb2YgVGVjaG5pY2FsIFBhcGVycywgU2FuIEZyYW5jaXNjbywgQ0EsIE5vdmVtYmVyIDIwMDUuDQoNCiAgICBaaG91IEguLCAiRW1waXJpY2FsIERlbGF5IE1vZGVscyBmb3IgTXVsdGktbGFuZSBUd28tV2F5IFN0b3AtQ29udHJvbCBJbnRlcnNlY3Rpb25zLiIgQW5udWFsIE1lZXRpbmcgb2YgSW5zdGl0dXRlIG9mIFRyYW5zcG9ydGF0aW9uIEVuZ2luZWVycywgTWVsYm91cm5lLCBBdXN0cmFsaWEsIHVndXN0LCAyMDA1Lg0KDQogICAgWmhvdSBILiwgIkJlbmVmaXQgYW5kIENvc3QgQW5hbHlzaXMgb2YgUm9hZCBSYW5nZXIgUHJvZ3JhbSBpbiBGbG9yaWRhLiIgQW5udWFsIE1lZXRpbmcgb2YgSW5zdGl0dXRlIG9mIFRyYW5zcG9ydGF0aW9uIEVuZ2luZWVycywgTWlsd2F1a2VlLCBXaXNjb25zaW4sIEF1Z3VzdCwgMjAwNi4NCg0KICAgIFpob3UgSC4sICJBIE1ldGhvZG9sb2d5IHRvIEV2YWx1YXRlIEVmZmVjdHMgb2YgQWNjZXNzIENvbnRyb2wgTmVhciBGcmVld2F5IEludGVyY2hhbmdlIEFyZWEuICJ0aGUgRmlmdGggTkFDT1RBIENoaW5hIEludGVybmF0aW9uYWwgVHJhbnNwb3J0YXRpb24gQ29uZmVyZW5jZSwgWGknYW4sIENoaW5hLCBKdW5lIDI0LCAyMDA1Lg0KDQogICAgTGluIFAuLCBIYWdlbiBMLixaaG91IEguICxLb3UgQy4gLCAiQSBMZWFkaW5nIFByYWN0aWNlIGZvckludGVyc3RhdGUgUm91dGUgRGl2ZXJzaW9uLiIgSVRFIDIwMDUgVGVjaG5pY2FsIENvbmZlcmVuY2UgYW5kIEV4aGliaXQsIExhcyBWZWdhcywgTmV2YWRhLCBVU0EsIEZlYnJ1YXJ5IDI3LU1hcmNoIDIsIDIwMDUuDQoNCiAgICBaaG91IEguLCAiQXBwbGljYXRpb24gb2YgQWNjZXNzIE1hbmFnZW1lbnQgdG8gSW1wcm92ZSBSb2Fkd2F5IE9wZXJhdGlvbnMgYW5kIFNhZmV0eS4iIHRoZSBGb3VydGggTkFDT1RBIENoaW5hIEludGVybmF0aW9uYWwgVHJhbnNwb3J0YXRpb24gQ29uZmVyZW5jZSwgV3VIYW4sIENoaW5hLCBKdW5lIDE0LCAyMDA0DQoNCiAgICBaaG91IEguLCAiQmVmb3JlLWFuZC1BZnRlciBTYWZldHkgQW5hbHlzaXMgb2YgRnVsbCB2cy4gRGlyZWN0aW9uYWwgTWVkaWFuIE9wZW5pbmdzLiIgVHJhbnNwbyAyMDA0LCBKYWNrc29udmlsbGUsIEZsLCBEZWNlbWJlciwgNS05LCAyMDA0Lg0KDQogICAgV2lsbGlhbXMgSy4sIFpob3UgSC4gLEhhZ2VuIEwuLCBGYXJhaCBXLiAsICJCZW5lZml0cy1hbmQtQ29zdHMgQW5hbHlzaXMgb2YgU3RyYXRlZ2ljIEFjcXVpc2l0aW9uIG9mIExpbWl0ZWQgQWNjZXNzIFJpZ2h0LW9mLVdheSBuZWFyIEludGVyY2hhbmdlcy4iIHRoZSA2dGggQ29uZmVyZW5jZSBvbiBBY2Nlc3MgTWFuYWdlbWVudCwgS2Fuc2FzIENpdHksIE1pc3NvdXJpLCBBdWd1c3QgMjksIDIwMDQuDQoNCiAgICBaaG91IEguLCBIYWdlbiBMLiAsTHUgSi4gLCBhbmQgVGlhbiBaLiAsICJFbXBpcmljYWwgRGVsYXkgTW9kZWxzIGZvciBNdWx0aS1sYW5lIFR3by1XYXkgU3RvcC1Db250cm9sIEludGVyc2VjdGlvbnMuIiB0aGUgODR0aCBBbm51YWwgTWVldGluZyBvZiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBCb2FyZCwgV2FzaGluZ3RvbiwgRC5DLiwgSmFudWFyeSwgMjAwNS4NCg0KICAgIFpob3UgSC4sIEhzdSBQLiwgTHUgSi4gLCBhbmQgV3JpZ2h0IEouLCAiT3B0aW1hbCBMb2NhdGlvbiBvZiBVLXR1cm4gTWVkaWFuIE9wZW5pbmcgb24gUm9hZHdheXMuIiB0aGUgODJuZCBBbm51YWwgTWVldGluZyBvZiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBCb2FyZCwgV2FzaGluZ3RvbiwgRC5DLiwgSmFudWFyeSwgMjAwMy4NCg0KICAgIFpob3UgSC4sIEx1IEouICxZYW5nIFguICxEaXNzYW5heWFrZSBTLiAsV2lsbGlhbXMgSy4gLCAiT3BlcmF0aW9uYWwgRWZmZWN0cyBvZiBVLXR1cm5zIEFzIEFsdGVybmF0aXZlcyB0byBEaXJlY3QgTGVmdCBUdXJucyBGcm9tIERyaXZld2F5cy4iIHRoZSA4MXN0IEFubnVhbCBNZWV0aW5nIG9mIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIEJvYXJkLCBXYXNoaW5ndG9uLCBELkMuLCBKYW51YXJ5LCAyMDAyLg0KDQogICAgWmhvdSBILiwgQ2FzdGlsbG8gTi4gLCBhbmQgV2lsbGlhbXMgSy5NLiAsICJTYWZldHkgYW5kIE9wZXJhdGlvbmFsIEVmZmVjdHMgb2YgUmVwbGFjaW5nIGEgRnVsbCBNZWRpYW4gT3BlbmluZyB3aXRoIGEgRGlyZWN0aW9uYWwgTWVkaWFuIE9wZW5pbmcuIiBBbm51YWwgTWVldGluZyBvZiBJbnN0aXR1dGUgb2YgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJzLCBDaGljYWdvLCBJbGxpbm9pcywgQXVndXN0IDE5LTIyLCAyMDAxLg0KDQogICAgWWFuZyBYLiwgWmhvdSBILiwgIlRoZSBHYXAgQWNjZXB0YW5jZSBTdHVkeSBvZiBVLXR1cm5zIGF0IE1lZGlhbiBPcGVuaW5ncy4iIEFubnVhbCBNZWV0aW5nIG9mIEluc3RpdHV0ZSBvZiBUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcnMsIENoaWNhZ28sIElsbGlub2lzLCBBdWd1c3QgMTktMjIsIDIwMDEuDQoNCiAgICBaaG91IEguLCBMdSBKLiAsV2lsbGlhbXMgSy5NLiAsICJPcGVyYXRpb25hbCBFZmZlY3RzIG9mIFJpZ2h0IFR1cm4gcGx1cyBVLXR1cm5zIGFzIEFsdGVybmF0aXZlcyB0byBEaXJlY3QgTGVmdCBUdXJucyBmcm9tIERyaXZld2F5cy4iIFByb2NlZWRpbmcgb2YgNHRoIE5hdGlvbmFsIENvbmZlcmVuY2Ugb24gQWNjZXNzIE1hbmFnZW1lbnQsIFBvcnRsYW5kLCBPcmVnb24sIEF1Z3VzdCAxMy0xNiwgMjAwMC4NCg0KICAgIFpob3UgSC4sIEx1IEouLCAiRW52aXJvbm1lbnRhbCBJc3N1ZXMgQ29uY2VybmluZyBDaGluZXNlIFJhaWx3YXlzLiIgdGhlIDc5dGggQW5udWFsIE1lZXRpbmcgb2YgdGhlIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIEJvYXJkLCBXYXNoaW5ndG9uLCBELkMuLCBKYW51YXJ5LCAyMDAwLg0KDQoNCg0KVGVjaG5pY2FsIFJlcG9ydHMNCg0KDQoNCiAgICBaaG91IEguLCBKLlpoYW8sIFIuRnJpZXMsIEwud2FuZywgYW5kIE0uUi4gR2Focm9vZWksICJJbnZlc3RpZ2F0aW9uIG9mIENvbnRyaWJ1dGluZyBGYWN0b3JzIFJlZ2FyZGluZyBXcm9uZy13YXkgRHJpdmluZyBvbiBGcmVld2F5cy4iLCBGaW5hbCBSZXBvcnQgU3VibWl0dGVkIHRvIElDVCwgSnVuZSwgMjAxMi4NCg0KICAgIFpob3UgSC4sIFIuIEZyaWVzLCBNLiBXaWxsaWFtc29uLCBaLiBUaWFuIGFuZCBCLiBWYXVnaG4sICJEZXZlbG9wbWVudCBvZiBhIEhpZ2h3YXkgSW5jaWRlbnQgTWFuYWdlbWVudCBPcGVyYXRpb25hbCBhbmQgVHJhaW5pbmcgR3VpZGUuIiBGaW5hbCBSZXBvcnQgU3VibWl0dGVkIHRvIElsbGlub2lzIENlbnRlciBmb3IgVHJhbnNwb3J0YXRpb24sIEF1Z3VzdCwgMjAxMS4NCg0KICAgIFpob3UgSC4sIENoZW5nIFMuICwgYW5kIFpoYW8gSi4gLCAiQSBTYWZlIFJvdXRlcyB0byBTY2hvb2wgU3VydmV5IGluIFBpbmVsbGFzIENvdW50eS4iIEZpbmFsIFJlcG9ydCBTdWJtaXR0ZWQgdG8gdGhlIEZsb3JpZGEgRGVwYXJ0bWVudCBvZiBUcmFuc3BvcnRhdGlvbiwgRGlzdHJpY3QgNywgRmVicnVhcnksIDIwMDkuDQoNCiAgICBaaG91IEguLCBCcm9tZmllbGQgUy4gLCAiTW92aW5nIHRoZSBCdXMgQmFjayBpbnRvIFRyYWZmaWMgU2FmZWx5LVNpZ25hZ2UgYW5kIExpZ2h0aW5nIENvbmZpZ3VyYXRpb24gUGhhc2UgSS4iIEZpbmFsIFJlcG9ydCBTdWJtaXR0ZWQgdG8gdGhlIEZsb3JpZGEgRGVwYXJ0bWVudCBvZiBUcmFuc3BvcnRhdGlvbiwgTm92ZW1iZXIsIDIwMDcuDQoNCiAgICBaaG91IEguLCBhbmQgWmhhbyBKLiAsICJBIFNhZmUgUm91dGVzIHRvIFNjaG9vbCBTdXJ2ZXkgaW4gSGlsbHNib3JvdWdoIENvdW50eS4iIEZpbmFsIFJlcG9ydCBTdWJtaXR0ZWQgdG8gdGhlIEZsb3JpZGEgRGVwYXJ0bWVudCBvZiBUcmFuc3BvcnRhdGlvbiwgRGlzdHJpY3QgNywgT2N0b2JlciwgMjAwNy4NCg0KICAgIFpob3UgSC4sIGFuZCBQaXJpbmNjaW9nbHUgRi4gLCAiUm9hZHdheSBMaWdodGluZyBBbmFseXNpcywgUGhhc2UgSTogRGV2ZWxvcG1lbnQgb2YgTGlnaHRpbmcgTWVhc3VyZW1lbnQgU3RyYXRlZ2llcy4iIEZpbmFsIFJlcG9ydCBTdWJtaXR0ZWQgdG8gdGhlIEZsb3JpZGEgRGVwYXJ0bWVudCBvZiBUcmFuc3BvcnRhdGlvbiwgRGlzdHJpY3QgNywgRGVjZW1iZXIsIDIwMDYuDQoNCiAgICBaaG91IEguLCAiU2FmZXR5IFJlc2VhcmNoOiBQaW5lbGxhcyBDb3VudHkgVS5TLiAxOSAoU1IgNTUpIFBlZGVzdHJpYW4gQ3Jhc2ggUmV2aWV3LiIgRmluYWwgUmVwb3J0IFN1Ym1pdHRlZCB0byB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBEaXN0cmljdCA3LCBOb3ZlbWJlciwgMjAwNi4NCg0KICAgIEhhZ2VuIEwuLCBaaG91IEguICxTaW5naCBILiAsICJSb2FkIFJhbmdlciBCZW5lZml0IGFuZCBDb3N0IEFuYWx5c2lzLiIgRmluYWwgUmVwb3J0IFN1Ym1pdHRlZCB0byB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBOb3ZlbWJlciwgMjAwNS4NCg0KICAgICAgICBodHRwOi8vd3d3Lml0c2Nvc3RzLml0cy5kb3QuZ292L2l0cy9iZW5lY29zdC5uc2YvUHJpbnQvMkZBNjEyNjNDODc3QUU4ODg1MjU3MjI5MDA2MDhCMDgNCg0KICAgIEhhZ2VuIEwuLCBaaG91IEguICxQaXJpbmNjaW9nbHUgRi4sICJEZXZlbG9wbWVudCBvZiBSZXZpc2VkIE1ldGhvZG9sb2d5IGZvciBDb2xsZWN0aW5nIE9yaWdpbi1EZXN0aW5hdGlvbiBEYXRhLiIgRmluYWwgUmVwb3J0IFN1Ym1pdHRlZCB0byB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBGZWJydWFyeSwgMjAwNi4NCg0KICAgIFpob3UgSC4sIFNpbmdoIEguICxMaW4gUC4gLCBhbmQgSGFnZW4gTC4gLCAiRXZhbHVhdGlvbiBvZiB0aGUgRHJpdmUgNCBMaWZlIENhbXBhaWduLSBBIEJlZm9yZS1hbmQtQWZ0ZXIgU2FmZXR5IFN0dWR5LiIgRmluYWwgUmVwb3J0IFN1Ym1pdHRlZCB0byB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBEaXN0cmljdCA3LCBNYXJjaCwgMjAwNg0KDQogICAgV2lsbGlhbXMgSy4sIFpob3UgSC4gLCBhbmQgSGFnZW4gTC4gLCAiQ29zdHMgYW5kIEJlbmVmaXRzIG9mIFN0cmF0ZWdpYyBBY3F1aXNpdGlvbiBvZiBMaW1pdGVkIEFjY2VzcyBSaWdodC1vZi1XYXkgYXQgRnJlZXdheSBJbnRlcmNoYW5nZSBBcmVhcy4iIEZpbmFsIFJlcG9ydCBTdWJtaXR0ZWQgdG8gdGhlIEZsb3JpZGEgRGVwYXJ0bWVudCBvZiBUcmFuc3BvcnRhdGlvbiwgTm92ZW1iZXIsIDIwMDQuDQoNCiAgICBaaG91IEguLCBhbmQgSGFnZW4gTC4sICJBbmFseXNpcyBvZiBUcmFmZmljIE9wZXJhdGlvbnMgYXQgQ29sbGlucyBBdmVudWUgKFNSIEExQSkgYW5kIDE5M3JkIFN0cmVldC4iIEZpbmFsIFJlcG9ydCBTdWJtaXR0ZWQgdG8gdGhlIE1pYW1pIERhZGUgVHJhbnNpdCwgRGVjZW1iZXIsIDIwMDQuDQoNCiAgICBaaG91IEguLCBhbmQgSGFnZW4gTC4sICJDb3JzaW0tQmFzZWQgU2ltdWxhdGlvbiBBcHByb2FjaCB0byBFdmFsdWF0ZSBSb3V0ZSBEaXZlcnNpb24gUGxhbnMgaW4gU2FyYXNvdGEgQ291bnR5LiIgRmluYWwgUmVwb3J0IFN1Ym1pdHRlZCB0byB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBNYXksIDIwMDQuDQoNCiAgICBMdSBKLiwgRGlzc2FuYXlha2UgUy4sIFpob3UgSC4gLFlhbmcgWC4gLCBhbmQgV2lsbGlhbXMgSy4gLCAiT3BlcmF0aW9uYWwgRXZhbHVhdGlvbiBvZiBSaWdodCBUdXJuIEZvbGxvd2VkIGJ5IFUtdHVybnMgYXMgQWx0ZXJuYXRpdmVzIHRvIERpcmVjdGlvbiBMZWZ0IFR1cm5zLiIgRmluYWwgUmVwb3J0IFN1Ym1pdHRlZCB0byB0aGUgRmxvcmlkYSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBTZXB0ZW1iZXIgMjAwMS4NCg0KDQoNCg0KDQpIb25vcnMmQXdhcmRzDQoNCg0KDQogICAgSGlnaCBJbXBhY3QgUHJvamVjdCBBd2FyZCwgSUNULCAyMDEyDQoNCiAgICBFeGNlbGxlbnQgUGFwZXIgQXdhcmQoc2Vjb25kIGF1dGhvcikgYXQgdGhlIDI0dGggSUNUUEEgQW5udWFsIENvbmZlcmVuY2UNCg0KICAgIE91dHN0YW5kaW5nIFJlc2VhcmNoIEF3YXJkLCBTY2hvb2wgb2YgRW5naW5lZXJpbmcsIFNJVUUsIDIwMTANCg0KICAgIEZET1QgRGF2aXMgUHJvZHVjdGl2aXR5IEF3YXJkLCAyMDA4DQoNCiAgICBHZW9yZ2lhIEJyb3NjaCBNZW1vcmlhbCBUcmFuc3BvcnRhdGlvbiBTY2hvbGFyc2hpcCwgQ2VudGVyIGZvciBVcmJhbiBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCwgVW5pdmVyc2l0eSBvZiBTb3V0aCBGbG9yaWRhLCAyMDAxDQoNCiAgICBNZW1iZXIgb2YgSG9ub3IgU29jaWV0eSBvZiBQaGkgS2FwcGEgUGhpDQoNCiAgICBIb25vcmFibGUgTWVudGlvbiBvZiBQQiBUZWNobmljYWwgUGFwZXIgQ29tcGV0aXRpb24sIDIwMDENCg0KICAgIFNvdXRoZXJuIFRyYW5zcG9ydGF0aW9uIENlbnRlcihTVEMpIEZlbGxvd3NoaXAsIENlbnRlciBmb3IgVXJiYW4gVHJhbnNwb3J0YXRpb24gUmVzZWFyY2gsIFVuaXZlcnNpdHkgb2YgU291dGggRmxvcmlkYSwgMTk5OS0yMDAwDQoNCiAgICBFeGNlbGxlbnQgR3JhZHVhdGUgU3R1ZGVudCBTY2hvbGFyc2hpcCwgQmVpamluZyBKaWFvLVRvbmcgVW5pdmVyc2l0eSwgMTk5Ng0KDQogICAgWkhJLUpJTkcgRmVsbG93c2hpcCwgQmVpamluZyBKaWFvLVRvbmcgVW5pdmVyc2l0eSwgMTk5Ni0xOTk3DQoNCg0KDQpTb3V0aGVybiBJbGxpbm9pcyBVbml2ZXJzaXR5IEVkd2FyZHN2aWxsZSBMZWFkZXJzaGlwIGFuZCBTZXJ2aWNlDQoNCg0KDQpEZXBhcnRtZW50IExldmVsDQoNCg0KDQogICAgR3JhZHVhdGUgQWRtaXNzaW9uICgyMDA4LTIwMTIpDQoNCiAgICBVcHBlci1EaXZpc2lvbiBBZG1pc3Npb25zIENvbW1pdHRlZSAoTWVtYmVyIFNpbmNlIDIwMDgsIGNoYWlyIFNpbmNlIDIwMTIpDQoNCiAgICBJbnN0aXR1dGUgb2YgVHJhbnNwb3J0YXRpb24gRW5naW5lZXJzICggSVRFKSBTdHVkZW50IENoYXB0ZXIgQWR2aXNvciAoU2luY2UgMjAwOCkNCg0KDQoNClNjaG9vbCBMZXZlbA0KDQoNCg0KICAgIEN1cnJpY3VsdW0gQ29tbWl0dGVlKENoYWlyLCBzaW5jZSAyMDExKQ0KDQoNCg0KVW5pdmVyc2l0eSBMZXZlbA0KDQoNCg0KICAgIFVuaXZlcnNpdHkgRmVsbG93c2hpcCBhbmQgU2Nob2xhcnNoaXAgQ29tbWl0dGVlICgyMDA5LTIwMTIpDQoNCiAgICBEb2N0b3JhbCBQb2xpY3kgQ29tbWl0dGVlICgyMDExLTIwMTIpDQoNCg0KDQpOYXRpb25hbC9JbnRlcm5hdGlvbmFsIExlYWRlcnNoaXAgYW5kIFNlcnZpY2UNCg0KDQoNCiAgICBDb21taXR0ZWUgTWVtYmVyIGZvciB0aGUgMXN0IGFuZCAybmQgSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIFJ1cmFsd2F5IEVuZ2luZWVyaW5nIEJlaWppbmcsIENoaW5hIEF1Z3VzdCAxMC0yMSAyMDEyLg0KDQogICAgTWVtYmVyLCBDb21taXR0ZWUgb24gTWFqb3IgQWN0aXZpdHkgQ2VudGVyIENpcmN1bGF0aW9uIFN5c3RlbXMsIEFQMDQwLCBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBCb2FyZA0KDQogICAgTWVtYmVyLCBUcmFmZmljIFNpZ25hbCBPcGVyYXRpb25zIENvbW1pdHRlZSwgSW5zdGl0dXRlIG9mIFRyYW5zcG9ydGF0aW9uIEVuZ2luZWVycy4NCg0KICAgIEJvYXJkIG9mIERpcmVjdG9ycywgTm9ydGggQW1lcmljYSBDaGluYSBPdmVyc2VhcyBUcmFuc3BvcnRhdGlvbiBBc3NvY2lhdGlvbiAoTkFDT1RBKSAoMjAwNy0yMDEwKS4NCg0KICAgIENvLUNoYWlyIG9mIENvbmZlcmVuY2UgVGVjaG5pY2FsIENvbW1pdHRlZSwgdGhlIDIwMDcgVGVjaG5pY2FsIFN5bXBvc2l1bSBvbiBJbnRlcm1vZGVsIFRyYW5zcG9ydGF0aW9uIERldmVsb3BtZW50IGluIFBhbi1QYWNpZmljIFJlZ2lvbnMsIFdhc2hpbmd0b24gRC5DLiAsIEphbnVhcnksIDIwMDcuDQoNCiAgICBQYXBlciBSZXZpZXdlciBmb3IgdGhlIEpvdXJuYWwgb2YgUHVibGljIFRyYW5zcG9ydGF0aW9uLCBOYXRpb25hbCBDZW50ZXIgZm9yIFRyYW5zaXQgUmVzZWFyY2gsIFVuaXZlcnNpdHkgb2YgU291dGggRmxvcmlkYSAuDQoNCiAgICBQYXBlciBSZXZpZXdlciBmb3IgdGhlIFRSQiBIaWdod2F5IENhcGFjaXR5IENvbW1pdHRlZSwgQWNjZXNzIE1hbmFnZW1lbnQsIGFuZCBNYWpvciBBY3Rpdml0eSBDZW50ZXIgQ2lyY3VsYXRpb24gU3lzdGVtIENvbW1pdHRlZS4NCg0KDQoNClByb2Zlc3Npb25hbCBBZmZpbGlhdGlvbg0KDQoNCg0KICAgIEluc3RpdHV0ZSBvZiBUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcnMoRmVsbG93LCBJVEUp</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910420306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

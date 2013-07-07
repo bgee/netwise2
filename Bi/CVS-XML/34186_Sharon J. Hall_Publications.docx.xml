@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:15 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910111306521"  usageLimitType="allocation" usageLimit="200" currentUsage="105" remainingUsage="95" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<PublicationHistory>
+<Article>
+<Title>Manuscripts In Revision/Review: Trujillo J.E</Title>
+<Name role="author">
+<FormattedName>M. Kruse-Peeples, S.J. Hall, K. Spielmann, and D</FormattedName>
+</Name>
+<JournalOrSerialName>Nakase</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Published Peer-Reviewed Articles: Boone C. E. Cook S.J</Title>
+<Name role="author">
+<FormattedName>Hall, N.B. Grimm, C. Raish D. Finch, M</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nation and A. York</JournalOrSerialName>
+</Article>
+<Article>
+<Title>S.J. Hall D. Huber N.B</Title>
+<Name role="author">
+<FormattedName>Sponseller, RA</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Residential landscapes in an urban socio-ecological context: Multi-scalar drivers and legacies of management practices ecological structure and ecosystem services</Title>
+<Name role="author">
+<FormattedName>Cook, E., S.J. Hall, and K. Larson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>(S.J. Hall</Title>
+<Name role="author">
+<FormattedName>Pardo, L.H., et al</FormattedName>
+</Name>
+<JournalOrSerialName>14 of</JournalOrSerialName>
+<Volume>22</Volume>
+</Article>
+<Article>
+<Title>Decomposition of urban atmospheric carbon in Sonoran Desert soils</Title>
+<Name role="author">
+<FormattedName>Kaye, J.P., S.E. Eckert, D.A. Gonzalez, J.O. Allen, S.J. Hall, R.A. Sponseller, and N.B. Grimm</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Ecosystem response to nutrient enrichment across an urban airshed in the Sonoran Desert.Ecological Applications</Title>
+<Name role="author">
+<FormattedName>Hall, S.J., R.A. Sponseller, N.B. Grimm, D. Huber, J.P. Kaye, C. Clark, and S. Collins</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Marusenko Y. P. Herckes and S.J</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Strawhacker and S.J</Title>
+<Name role="author">
+<FormattedName>Larson, K.L., E. Cook, C</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Direct and indirect effects of urbanization on soil and plant nutrients in desert ecosystems of the Phoenix metropolitan area</Title>
+<Name role="author">
+<FormattedName>Davies, R. and S.J. Hall</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Effects of stand density on ecosystem properties in subalpine forests of the southern Rocky Mountains</Title>
+<Name role="author">
+<FormattedName>Hall, S.J. and P.J. Marchand</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Annals of Forest Science 67: 102</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Urbanization alters soil microbial functioning in the Sonoran Desert</Title>
+<Name role="author">
+<FormattedName>Hall, S.J., B. Ahmed, P. Ortiz, R. Davies, R. Sponseller, and N.B. Grimm</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecosystems 12: 654-671</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Short-term effects of wildfire on montane stream ecosystems in southern Colorado: 1-2 years post burn</Title>
+<Name role="author">
+<FormattedName>Hall, S.J. and D. Lombardozzi</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western North American Naturalist</JournalOrSerialName>
+<Volume>68(4):</Volume>
+<PageNumber>453-462.</PageNumber>
+</Article>
+<Article>
+<Title>Responses of soil microorganisms to resource availability in urban desert soils</Title>
+<Name role="author">
+<FormattedName>McCrackin, M.L., T.K. Harms, N.B. Grimm, S.J. Hall, J.P. Kaye</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Biogeochemistry</JournalOrSerialName>
+<PageNumber>143-155.</PageNumber>
+</Article>
+<Article>
+<Title>Biological invasion alters regional nitrogen-oxide emissions from tropical rainforests</Title>
+<Name role="author">
+<FormattedName>Hall, S.J. and G.P. Asner</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Global Change Biology 13: 2143-2160</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Environment programs: Liberal arts college and interdisciplinary education</Title>
+<Name role="author">
+<FormattedName>Pfirman, S., S.J. Hall, and T. Tietenberg</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Environmental Science &amp; Technology</JournalOrSerialName>
+<Volume>39(10):</Volume>
+<PageNumber>221A-224A.</PageNumber>
+</Article>
+<Article>
+<Title>Asner and K. Kitayama</Title>
+<Name role="author">
+<FormattedName>Hall, S.J., G</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Nutrient status of tropical rain forests influences soil N dynamics after N additions</Title>
+<Name role="author">
+<FormattedName>Hall, S.J. and P.A. Matson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecological Monographs</JournalOrSerialName>
+<Volume>73(1):</Volume>
+<PageNumber>107-129.</PageNumber>
+</Article>
+<Article>
+<Title>The globalization of nitrogen: consequences for terrestrial ecosystems</Title>
+<Name role="author">
+<FormattedName>Matson, P., K. Lohse, and S.J. Hall</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ambio</JournalOrSerialName>
+<Volume>31(2):</Volume>
+<PageNumber>113-119.</PageNumber>
+</Article>
+<Article>
+<Title>Environmental variables controlling trace gas emissions from forests: Acid Precipitation and Nitrogen Deposition</Title>
+<Name role="author">
+<FormattedName>Hall, S.J. and P.A. Matson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Nitrogen oxide emissions after nitrogen additions in tropical forests</Title>
+<Name role="author">
+<FormattedName>Hall, S.J. and P.A. Matson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nature</JournalOrSerialName>
+<Volume>400(6740):</Volume>
+<PageNumber>152-155.</PageNumber>
+</Article>
+<Article>
+<Title>NOx Emissions from soil: Implications for air quality modeling in agricultural regions</Title>
+<Name role="author">
+<FormattedName>Hall, S.J., P.A. Matson, and P.M. Roth</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Annual Review of Energy and the Environment 21: 311-46</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Fertilization practices and soil variations control nitrogen oxide emissions from tropical sugar cane</Title>
+<Name role="author">
+<FormattedName>Matson, P.A., C. Billow, S.J. Hall, and J. Zachariassen</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Geophysical Research</JournalOrSerialName>
+<Volume>D13:</Volume>
+<PageNumber>18,533-45.</PageNumber>
+</Article>
+<Article>
+<Title>Predation on small northern anchovy</Title>
+<Name role="author">
+<FormattedName>Coyer, J.A. and S.J. Hall</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1993</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Engraulis mordax)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Empirical Critical Loads of Nitrogen for US Ecoregions: Tropical and subtropical humid forests</Title>
+<Name role="author">
+<FormattedName>Hall, S.J</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In: Assessment of Effects of N deposition and Empirical Critical Loads of Nitrogen for Ecoregions of the United States</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Environmental variables controlling trace gas emissions from forests: Acid Precipitation and Nitrogen Deposition</Title>
+<Name role="author">
+<FormattedName>Hall, S.J. and P.A. Matson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Published White Papers and Reports: Cook E. C. Boone S.J</Title>
+<Name role="author">
+<FormattedName>Hall, and M. Nation</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Strawhacker and V. Turner</Title>
+<Name role="author">
+<FormattedName>Larson K.L., S.J. Hall, E. Cook, B. Funke, C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Social-ecological dynamics of residential landscapes: Human drivers of management practices and ecological structure in an urban ecosystem context</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Pfirman and T. Titenberg</Title>
+<Name role="author">
+<FormattedName>Hall, S.J., S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Environmental Programs at Liberal Arts Colleges</JournalOrSerialName>
+</Article>
+<Book>
+<Title>Published Peer-Reviewed Reports and Book Chapters: Spielmann K.A</Title>
+<Name role="author">
+<FormattedName>H. Schaafsma, J. Briggs, S.J. Hall, and M. Kruse</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<Abstract>In: M. Nelson (ed) Movement Connectivity and Landscape Change. Proceedings of the 2008 Southwest Symposium of Archaeology Tempe AZ. University Press of Colorado. 448 pp</Abstract>
+</Book>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Connectivity">
+<CompetencyEvidence name ="Connectivity">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Distribution">
+<CompetencyEvidence name ="Distribution">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "FERTILIZATION">
+<CompetencyEvidence name ="FERTILIZATION">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Training">
+<CompetencyEvidence name ="Training">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Transportation">
+<CompetencyEvidence name ="Transportation">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "White Papers">
+<CompetencyEvidence name ="White Papers">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>UHVibGljYXRpb25zIA0KDQpNYW51c2NyaXB0cyBJbiBSZXZpc2lvbi9SZXZpZXc6DQoNClRydWppbGxvLCBKLkUuLCBNLiBLcnVzZS1QZWVwbGVzLCBTLkouIEhhbGwsIEsuIFNwaWVsbWFubiwgYW5kIEQuIE5ha2FzZS4gTGVnYWNpZXMgb24gdGhlIGxhbmRzY2FwZTogTG9uZy10ZXJtIHNvY2lvLWVjb2xvZ2ljYWwgaW50ZXJhY3Rpb24gaW4gdGhlIHNvdXRod2VzdGVybiBVbml0ZWQgU3RhdGVzLiBGb3I6IEVhdG9uLCBNLiBhbmQgUC4gTGFuZHJlcyAoZWRzKS4gUHJvY2VlZGluZ3Mgb2YgdGhlIDIwMTAgRGVjYWRlIG9mIERpc2NvdmVyeSBpbiB0aGUgTmF0aW9uYWwgTGFuZHNjYXBlIENvbnNlcnZhdGlvbiBTeXN0ZW0gQ29uZmVyZW5jZSwgTWF5IDI0LTI4LCAyMDEwLiBBbGJ1cXVlcnF1ZSwgTk0uIFByb2NlZWRpbmdzIFJNUlMtUC0wMDAuIFUuUy4gRGVwYXJ0bWVudCBvZiBBZ3JpY3VsdHVyZSwgRm9yZXN0IFNlcnZpY2UsIFJvY2t5IE1vdW50YWluIFJlc2VhcmNoIFN0YXRpb24sIEZvcnQgQ29sbGlucywgQ08sIGluIHJldmlldy4gDQoNClB1Ymxpc2hlZCBQZWVyLVJldmlld2VkIEFydGljbGVzOg0KDQpCb29uZSwgQy4sIEUuIENvb2ssICwgUy5KLiBIYWxsLCBOLkIuIEdyaW1tLCBDLiBSYWlzaCBELiBGaW5jaCwgTS4gTmF0aW9uLCBhbmQgQS4gWW9yay4gMjAxMi4gQSBjb21wYXJhdGl2ZSBncmFkaWVudCBhcHByb2FjaCB0byB1bmRlcnN0YW5kaW5nIGFuZCBtYW5hZ2luZyB1cmJhbiBlY29zeXN0ZW1zLiDCoMKgVXJiYW4gRWNvc3lzdGVtcyzCoCBET0kgMTAuMTAwNy9zMTEyNTItMDEyLTAyNDAtOS4gDQoNClNwb25zZWxsZXIsIFJBLiwgUy5KLiBIYWxsLCBELiBIdWJlciwgTi5CLiBHcmltbSwgSi5QLiBLYXllLCBDLiBDbGFyaywgYW5kIFMuIENvbGxpbnMuIDIwMTIuIFZhcmlhdGlvbiBpbiBtb25zb29uIHByZWNpcGl0YXRpb24gZHJpdmVzIHNwYXRpYWwgYW5kIHRlbXBvcmFsIHBhdHRlcm5zIG9mIExhcnJlYSB0cmlkZW50YXRhIGdyb3d0aCBpbiB0aGUgU29ub3JhbiBEZXNlcnQuIMKgwqBGdW5jdGlvbmFsIEVjb2xvZ3nCoCwgRE9JIDEwLjExMTEvai4xMzY1LTI0MzUuMjAxMi4wMTk3OS54Lg0KDQpDb29rLCBFLiwgUy5KLiBIYWxsLCBhbmQgSy4gTGFyc29uLiAyMDExLiBSZXNpZGVudGlhbCBsYW5kc2NhcGVzIGluIGFuIHVyYmFuIHNvY2lvLWVjb2xvZ2ljYWwgY29udGV4dDogTXVsdGktc2NhbGFyIGRyaXZlcnMgYW5kIGxlZ2FjaWVzIG9mIG1hbmFnZW1lbnQgcHJhY3RpY2VzLCBlY29sb2dpY2FsIHN0cnVjdHVyZSwgYW5kIGVjb3N5c3RlbSBzZXJ2aWNlcy4gVXJiYW4gRWNvc3lzdGVtcywgRE9JIDEwLjEwMDcvczExMjUyLTAxMS0wMTk3LTAuIA0KDQpQYXJkbywgTC5ILiwgZXQgYWwuIChTLkouIEhhbGwsIDE0IG9mIDIyIGNvbGxhYm9yYXRvcnMpLiAyMDExIEVmZmVjdHMgb2YgTiBkZXBvc2l0aW9uIGFuZCBlbXBpcmljYWwgY3JpdGljYWwgbG9hZHMgZm9yIG5pdHJvZ2VuIGZvciBlY29yZWdpb25zIG9mIHRoZSBVbml0ZWQgU3RhdGVzLiBFY29sb2dpY2FsIEFwcGxpY2F0aW9ucywgRE9JIDEwLjE4OTAvMTAtMjM0MS4xLiANCg0KS2F5ZSwgSi5QLiwgUy5FLiBFY2tlcnQsIEQuQS4gR29uemFsZXosIEouTy4gQWxsZW4swqBTLkouIEhhbGwswqBSLkEuIFNwb25zZWxsZXIsIGFuZCBOLkIuIEdyaW1tLsKgIDIwMTEuIERlY29tcG9zaXRpb24gb2YgdXJiYW4gYXRtb3NwaGVyaWMgY2FyYm9uIGluIFNvbm9yYW4gRGVzZXJ0IHNvaWxzLsKgwqBVcmJhbiBFY29zeXN0ZW1zLMKgRE9JIDEwLjEwMDcvczExMjUyLTAxMS0wMTczLTguIA0KDQpIYWxsLCBTLkouLCBSLkEuIFNwb25zZWxsZXIsIE4uQi4gR3JpbW0sIEQuIEh1YmVyLCBKLlAuIEtheWUsIEMuIENsYXJrLCBhbmQgUy4gQ29sbGlucy4gMjAxMS4gwqAgRWNvc3lzdGVtIHJlc3BvbnNlIHRvIG51dHJpZW50IGVucmljaG1lbnQgYWNyb3NzIGFuIHVyYmFuIGFpcnNoZWQgaW4gdGhlIFNvbm9yYW4gRGVzZXJ0LkVjb2xvZ2ljYWwgQXBwbGljYXRpb25zLCAyMSAoMyk6IDY0MC02NjAuIA0KDQpNYXJ1c2Vua28sIFkuLCBQLiBIZXJja2VzLCBhbmQgUy5KLiBIYWxsLiAyMDExLiDCoCBEaXN0cmlidXRpb24gb2YgcG9seWN5Y2xpYyBhcm9tYXRpYyBoeWRyb2NhcmJvbnMgaW4gc29pbHMgb2YgdXJiYW4gdHJhbnNwb3J0YXRpb24gY29ycmlkb3JzIGluIGFuIGFyaWQgZWNvc3lzdGVtLldhdGVyLCBBaXIsIGFuZCBTb2lsIFBvbGx1dGlvbiwgMjE5ICgxKTogNDczLTQ4Ny4gRE9JIDEwLjEwMDcvczExMjcwLTAxMC0wNzIxLTUuIA0KDQpMYXJzb24sIEsuTC4sIEUuIENvb2ssIEMuIFN0cmF3aGFja2VyLCBhbmQgUy5KLiBIYWxsLiAyMDEwLiBUaGUgaW5mbHVlbmNlIG9mIGRpdmVyc2UgdmFsdWVzLCBlY29sb2dpY2FsIHN0cnVjdHVyZSwgYW5kIHNvY2lvLXNwYXRpYWwgY29udGV4dCBvbiByZXNpZGVudHMnIG11bHRpZmFjZXRlZCBsYW5kLW1hbmFnZW1lbnQgZGVjaXNpb25zLsKgwqBIdW1hbiBFY29sb2d5LCBET0kgMTAuMTAwNy9zMTA3NDUtMDEwLTkzNTktNi4gDQoNCkRhdmllcywgUi4gYW5kIFMuSi4gSGFsbC4gMjAxMC4gRGlyZWN0IGFuZCBpbmRpcmVjdCBlZmZlY3RzIG9mIHVyYmFuaXphdGlvbiBvbiBzb2lsIGFuZCBwbGFudCBudXRyaWVudHMgaW4gZGVzZXJ0IGVjb3N5c3RlbXMgb2YgdGhlIFBob2VuaXggbWV0cm9wb2xpdGFuIGFyZWEuIFVyYmFuIEVjb3N5c3RlbXMsIDEzICgyKS4gRE9JOiAxMC4xMDA3L3MxMTI1Mi0wMTAtMDEyMC0wLg0KDQpIYWxsLCBTLkouIGFuZCBQLkouIE1hcmNoYW5kLsKgIDIwMTAuIEVmZmVjdHMgb2Ygc3RhbmQgZGVuc2l0eSBvbiBlY29zeXN0ZW0gcHJvcGVydGllcyBpbiBzdWJhbHBpbmUgZm9yZXN0cyBvZiB0aGUgc291dGhlcm4gUm9ja3kgTW91bnRhaW5zLsKgIEFubmFscyBvZiBGb3Jlc3QgU2NpZW5jZSwgNjc6IDEwMi4NCg0KSGFsbCwgUy5KLizCoEIuIEFobWVkLCBQLiBPcnRpeiwgUi4gRGF2aWVzLCBSLiBTcG9uc2VsbGVyLCBhbmQgTi5CLiBHcmltbS4gMjAwOS7CoMKgVXJiYW5pemF0aW9uIGFsdGVycyBzb2lsIG1pY3JvYmlhbCBmdW5jdGlvbmluZyBpbiB0aGUgU29ub3JhbiBEZXNlcnQuwqDCoEVjb3N5c3RlbXMsIDEyOiA2NTQtNjcxLMKgRE9JOiAxMC4xMDA3L3MxMDAyMS0wMDktOTI0OS0xLiANCg0KSGFsbCwgUy5KLiBhbmQgRC4gTG9tYmFyZG96emkuwqAgMjAwOC7CoCBTaG9ydC10ZXJtIGVmZmVjdHMgb2Ygd2lsZGZpcmUgb24gbW9udGFuZSBzdHJlYW0gZWNvc3lzdGVtcyBpbiBzb3V0aGVybiBDb2xvcmFkbzrCoCAxLTIgeWVhcnMgcG9zdCBidXJuLsKgIFdlc3Rlcm4gTm9ydGggQW1lcmljYW4gTmF0dXJhbGlzdCwgNjggKDQpOsKgIDQ1My00NjIuDQoNCkhhbGwsIFMuSi4sIMKgRC4gSHViZXIsIGFuZCBOLkIuIEdyaW1tLiAyMDA4LsKgIFNvaWwgTjJPIGFuZCBOT3ggZW1pc3Npb25zIGZyb20gYW4gYXJpZCB1cmJhbiBlY29zeXN0ZW0uIEpvdXJuYWwgb2YgR2VvcGh5c2ljYWwgUmVzZWFyY2gtQmlvZ2Vvc2NpZW5jZXMsICgxMTMpLCBHMDEwMTYsIGRvaToxMC4xMDI5LzIwMDdKRzAwMDUyMy4gDQoNCk1jQ3JhY2tpbiwgTS5MLiwgVC5LLiBIYXJtcywgTi5CLiBHcmltbSwgUy5KLiBIYWxsLMKgSi5QLiBLYXllLsKgIDIwMDguwqAgUmVzcG9uc2VzIG9mIHNvaWwgbWljcm9vcmdhbmlzbXMgdG8gcmVzb3VyY2UgYXZhaWxhYmlsaXR5IGluIHVyYmFuLCBkZXNlcnQgc29pbHMuwqBCaW9nZW9jaGVtaXN0cnksICg4NykgMiwgMTQzLTE1NS4NCg0KSGFsbCwgUy5KLiBhbmQgRy5QLiBBc25lci4gMjAwNy4gQmlvbG9naWNhbCBpbnZhc2lvbiBhbHRlcnMgcmVnaW9uYWwgbml0cm9nZW4tb3hpZGUgZW1pc3Npb25zIGZyb20gdHJvcGljYWwgcmFpbmZvcmVzdHMuIEdsb2JhbCBDaGFuZ2UgQmlvbG9neSAxMzogMjE0My0yMTYwLg0KDQpQZmlybWFuLCBTLiwgUy5KLiBIYWxsLCBhbmQgVC4gVGlldGVuYmVyZy4gMjAwNS4gRW52aXJvbm1lbnQgcHJvZ3JhbXM6IExpYmVyYWwgYXJ0cyBjb2xsZWdlIGFuZCBpbnRlcmRpc2NpcGxpbmFyeSBlZHVjYXRpb24uIEVudmlyb25tZW50YWwgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIDM5ICgxMCk6IDIyMUEtMjI0QS4NCg0KSGFsbCwgUy5KLiwgRy4gQXNuZXIgYW5kIEsuIEtpdGF5YW1hLiAyMDA0LiBMYW5kIHVzZSwgY2xpbWF0ZSwgYW5kIHN1YnN0cmF0ZSBjb250cm9scyBvdmVyIHNvaWwgTiBkeW5hbWljcyBhbmQgTi1veGlkZSBlbWlzc2lvbnMgaW4gQm9ybmVvLiBCaW9nZW9jaGVtaXN0cnksIDcwKDEpOiAyNy01OC4NCg0KSGFsbCwgUy5KLiBhbmQgUC5BLiBNYXRzb24uIDIwMDMuIE51dHJpZW50IHN0YXR1cyBvZiB0cm9waWNhbCByYWluIGZvcmVzdHMgaW5mbHVlbmNlcyBzb2lsIE4gZHluYW1pY3MgYWZ0ZXIgTiBhZGRpdGlvbnMuIEVjb2xvZ2ljYWwgTW9ub2dyYXBocywgNzMoMSk6IDEwNy0xMjkuDQoNCk1hdHNvbiwgUC4sIEsuIExvaHNlLCBhbmQgUy5KLiBIYWxsLiAyMDAyLiBUaGUgZ2xvYmFsaXphdGlvbiBvZiBuaXRyb2dlbjogY29uc2VxdWVuY2VzIGZvciB0ZXJyZXN0cmlhbCBlY29zeXN0ZW1zLiBBbWJpbywgMzEoMik6IDExMy0xMTkuDQoNCkhhbGwsIFMuSi4gYW5kIFAuQS4gTWF0c29uLiAyMDAyLiBFbnZpcm9ubWVudGFsIHZhcmlhYmxlcyBjb250cm9sbGluZyB0cmFjZSBnYXMgZW1pc3Npb25zIGZyb20gZm9yZXN0czogQWNpZCBQcmVjaXBpdGF0aW9uIGFuZCBOaXRyb2dlbiBEZXBvc2l0aW9uLiBQYWdlcyAyNzktMzA2IGluIEguIFBhcGVuLCBSLiBHYXNjaGUsIGFuZCBILiBSZW5uZW5iZXJnLCBlZHMuIFRyYWNlIEdhcyBFeGNoYW5nZSBpbiBGb3Jlc3QgRWNvc3lzdGVtcy4gRnVuZGFtZW50YWwgYW5kIEFwcGxpZWQgVHJlZSBQaHlzaW9sb2d5LCBCb29rIFNlcmllcywgVm9sdW1lIDMuIEtsdXdlciBBY2FkZW1pYyBQdWJsaXNoZXJzLCBUaGUgTmV0aGVybGFuZHMuDQoNCkhhbGwsIFMuSi4gYW5kIFAuQS4gTWF0c29uLiAxOTk5LiBOaXRyb2dlbiBveGlkZSBlbWlzc2lvbnMgYWZ0ZXIgbml0cm9nZW4gYWRkaXRpb25zIGluIHRyb3BpY2FsIGZvcmVzdHMuIE5hdHVyZSwgNDAwICg2NzQwKTogMTUyLTE1NS4NCg0KSGFsbCwgUy5KLiwgUC5BLiBNYXRzb24sIGFuZCBQLk0uIFJvdGguIDE5OTYuIE5PeCBFbWlzc2lvbnMgZnJvbSBzb2lsOiBJbXBsaWNhdGlvbnMgZm9yIGFpciBxdWFsaXR5IG1vZGVsaW5nIGluIGFncmljdWx0dXJhbCByZWdpb25zLiBBbm51YWwgUmV2aWV3IG9mIEVuZXJneSBhbmQgdGhlIEVudmlyb25tZW50LCAyMTogMzExLTQ2Lg0KDQpNYXRzb24sIFAuQS4sIEMuIEJpbGxvdywgUy5KLiBIYWxsLCBhbmQgSi4gWmFjaGFyaWFzc2VuLiAxOTk2LiBGZXJ0aWxpemF0aW9uIHByYWN0aWNlcyBhbmQgc29pbCB2YXJpYXRpb25zIGNvbnRyb2wgbml0cm9nZW4gb3hpZGUgZW1pc3Npb25zIGZyb20gdHJvcGljYWwgc3VnYXIgY2FuZS4gSm91cm5hbCBvZiBHZW9waHlzaWNhbCBSZXNlYXJjaCwgKDEwMSkgRDEzOiAxOCw1MzMtNDUuDQoNCkNveWVyLCBKLkEuIGFuZCBTLkouIEhhbGwuIDE5OTMuIFByZWRhdGlvbiBvbiBzbWFsbCBub3J0aGVybiBhbmNob3Z5IChFbmdyYXVsaXMgbW9yZGF4KSBieSBsYXJnZSB0b3BzbWVsdCAoQXRoZXJpbm9wcyBhZmZpbmlzKS4gQ2FsaWZvcm5pYSBGaXNoIGFuZCBHYW1lLCA3OSgyKTogODItODQuDQoNClB1Ymxpc2hlZCBQZWVyLVJldmlld2VkIFJlcG9ydHMgYW5kIEJvb2sgQ2hhcHRlcnM6DQoNClNwaWVsbWFubiwgSy5BLiwgSC4gU2NoYWFmc21hLCBKLiBCcmlnZ3MsIFMuSi4gSGFsbCwgYW5kIE0uIEtydXNlLiAyMDExLiBMZWdhY2llcyBvbiB0aGUgTGFuZHNjYXBlOiBUaGUgZW5kdXJpbmcgZWZmZWN0cyBvZiBsb25nLXRlcm0gaHVtYW4tZWNvc3lzdGVtIGludGVyYWN0aW9ucy4gSW46IE0uIE5lbHNvbiwgKGVkKSwgTW92ZW1lbnQsIENvbm5lY3Rpdml0eSwgYW5kIExhbmRzY2FwZSBDaGFuZ2UuIFByb2NlZWRpbmdzIG9mIHRoZSAyMDA4IFNvdXRod2VzdCBTeW1wb3NpdW0gb2YgQXJjaGFlb2xvZ3ksIFRlbXBlLCBBWi4gVW5pdmVyc2l0eSBQcmVzcyBvZiBDb2xvcmFkby4gNDQ4IHBwDQoNCkhhbGwsIFMuSi4gMjAxMC4gRW1waXJpY2FsIENyaXRpY2FsIExvYWRzIG9mIE5pdHJvZ2VuIGZvciBVUyBFY29yZWdpb25zOiBUcm9waWNhbCBhbmQgc3VidHJvcGljYWwgaHVtaWQgZm9yZXN0cy4gSW46IEFzc2Vzc21lbnQgb2YgRWZmZWN0cyBvZiBOIGRlcG9zaXRpb24gYW5kIEVtcGlyaWNhbCBDcml0aWNhbCBMb2FkcyBvZiBOaXRyb2dlbiBmb3IgRWNvcmVnaW9ucyBvZiB0aGUgVW5pdGVkIFN0YXRlcy4gTC5ILiBQYXJkbyAoZWQpLiBVU0RBIEZvcmVzdCBTZXJ2aWNlIEdlbmVyYWwgVGVjaG5pY2FsIFJlcG9ydCwgMjAwIHBwLg0KDQpIYWxsLCBTLkouIGFuZCBQLkEuIE1hdHNvbi4gMjAwMi4gRW52aXJvbm1lbnRhbCB2YXJpYWJsZXMgY29udHJvbGxpbmcgdHJhY2UgZ2FzIGVtaXNzaW9ucyBmcm9tIGZvcmVzdHM6IEFjaWQgUHJlY2lwaXRhdGlvbiBhbmQgTml0cm9nZW4gRGVwb3NpdGlvbi4gUGFnZXMgMjc5LTMwNiBpbiBILiBQYXBlbiwgUi4gR2FzY2hlLCBhbmQgSC4gUmVubmVuYmVyZywgZWRzLiBUcmFjZSBHYXMgRXhjaGFuZ2UgaW4gRm9yZXN0IEVjb3N5c3RlbXMuIEZ1bmRhbWVudGFsIGFuZCBBcHBsaWVkIFRyZWUgUGh5c2lvbG9neSwgQm9vayBTZXJpZXMsIFZvbHVtZSAzLiBLbHV3ZXIgQWNhZGVtaWMgUHVibGlzaGVycywgVGhlIE5ldGhlcmxhbmRzLg0KDQpQdWJsaXNoZWQgV2hpdGUgUGFwZXJzIGFuZCBSZXBvcnRzOg0KDQpDb29rIEUuLCBDLiBCb29uZSwgUy5KLiBIYWxsLCBhbmQgTS4gTmF0aW9uLiAyMDA5LiBVcmJhbiBsb25nLXRlcm0gcmVzZWFyY2ggYWNyb3NzIGEgU291dGh3ZXN0IHNvY2lvLWVjb2xvZ2ljYWwgZ3JhZGllbnQuIEEgV2hpdGUgUGFwZXIgcHJlcGFyZWQgZm9yIHRoZSBVUyBGb3Jlc3QgU2VydmljZSBTb3V0aHdlc3QgUmVzZWFyY2ggU3RhdGlvbi4NCg0KTGFyc29uIEsuTC4sIFMuSi4gSGFsbCwgRS4gQ29vaywgQi4gRnVua2UsIEMuIFN0cmF3aGFja2VyLCBhbmQgVi4gVHVybmVyLiAyMDA4LiBTb2NpYWwtZWNvbG9naWNhbCBkeW5hbWljcyBvZiByZXNpZGVudGlhbCBsYW5kc2NhcGVzOiBIdW1hbiBkcml2ZXJzIG9mIG1hbmFnZW1lbnQgcHJhY3RpY2VzIGFuZCBlY29sb2dpY2FsIHN0cnVjdHVyZSBpbiBhbiB1cmJhbiBlY29zeXN0ZW0gY29udGV4dC4gVGhlIEZpbmFsIFJlcG9ydCBmcm9tIGFuIEludGVyZGlzY2lwbGluYXJ5IEdyYWR1YXRlIFJlc2VhcmNoIGFuZCBFZHVjYXRpb24gVHJhaW5pbmcgKElHRVJUKSBXb3Jrc2hvcCA1MiBwcC4sIFNjaG9vbCBvZiBTdXN0YWluYWJpbGl0eSwgQXJpem9uYSBTdGF0ZSBVbml2ZXJzaXR5Lg0KDQpIYWxsLCBTLkouLCBTLiBQZmlybWFuLCBhbmQgVC4gVGl0ZW5iZXJnLiAyMDA1LiBFbnZpcm9ubWVudGFsIFByb2dyYW1zIGF0IExpYmVyYWwgQXJ0cyBDb2xsZWdlcy4gRmluZGluZ3MgYW5kIFJlY29tbWVuZGF0aW9ucyBmb3IgdGhlIEFuZHJldyBXLiBNZWxsb24gRm91bmRhdGlvbi4gUHJvamVjdCBLYWxlaWRvc2NvcGUgVm9sdW1lIElWIEFydGljbGUgU2VyaWVzOiBXaGF0IFdvcmtzLCBXaGF0IE1hdHRlcnMsIFdoYXQgTGFzdHMu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910111306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

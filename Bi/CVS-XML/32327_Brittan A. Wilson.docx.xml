@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:01 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916201306521"  usageLimitType="allocation" usageLimit="200" currentUsage="98" remainingUsage="102" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Brittan A. Wilson</FormattedName>
+<GivenName>Brittan</GivenName>
+<MiddleName>A.</MiddleName>
+<FamilyName>Wilson</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (410) 837-5335</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>410</AreaCityCode>
+<SubscriberNumber>837-5335</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>bwilson@ubalt.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>I Design and implementation of inquiry based lessons Co-Author of a laboratory module now produced by FOSS have lived in a variety of cities both on the East Coast and in the Midwest. Over the years I have had the privilege of working with fantastic students and colleagues. As an environmental scientist I am passionate about protecting our natural resources in particular water resources. I am focused on how pharmaceutical and personal-care products (mainly Triclosan and Ciprofloxacin) are transmitted through the environment via recycled waters impacting both drinking water and irrigated agricultural regions. So far we have succeeded in modeling how these compounds move through the environment during flood conditions and through estuary food chains and how plants uptake these compounds in agricultural systems. I enjoy working with a diverse student body at all levels of education including nonmajors majors and graduate students. I believe in fostering in my courses an environment of collaborative learning strong fundamentals and a holistic assessment of the scientific process and how science impacts our communities. I teach a variety of courses ranging from Fundamentals of Biology to environmental courses such as Environmental Chemistry Environmental Toxicology and Limnology.</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>University of Baltimore</EmployerOrgName>
+<PositionHistory>
+<Title>Assistan Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Research Specialist - project design, data analysis, project management and supervising of student workers Technical writing and publication Funding acquisition through granting agencies Primary courses: Environmental Chemistry and Human Ecology
+</Description>
+<StartDate>
+<AnyDate>2012-07-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Cactus Communications</EmployerOrgName>
+<PositionHistory>
+<Title>Freelance Editor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Copy editing and formatting for grant proposals and manuscripts Assistance for individuals with English as their second language for publication in English journals for grammar and stylistic standards Specialty Fields: Ecology, Environmental Science, Analytical Chemistry, Toxicology, Environmental Modeling
+</Description>
+<StartDate>
+<AnyDate>2012-10-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Texas A&amp;M International University</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor of Environmental Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Texas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2012-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>A&amp;M International University</EmployerOrgName>
+<PositionHistory>
+<Title>Research Specialist - project design, data analysis</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>Laredo</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Area, project management and supervising of student workers Technical writing and publication Funding acquisition through granting agencies Administration of Health Sciences scholarships and academic programs Primary courses: Environmental Toxicology, Environmental Chemistry and Limnology Morton&apos;s The Steakhouse Service Captain Morton&apos;s The Steakhouse
+</Description>
+<StartDate>
+<AnyDate>2009-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Emerson College</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Boston</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2004-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Environmental and Humankind</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Anatomy and Physiology UMass Boston Graduate Researcher UMass Boston
+</Description>
+<StartDate>
+<AnyDate>2008-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Collaboration with U.S. Environmental Protection Agency</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Boston</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>11 months) Conception design and implementation of independent research regarding the fate and effects of Triclosan Acquired independent funding for research - successfully completed all goals and requirements set forth by funding agency Manuscript preparation and publication of research resulting in 3 manuscripts GIS analysis Statistical analysis and modeling using large environmental data sets Preparation of presentation materials to communicate research results - Best presentation award
+</Description>
+<StartDate>
+<AnyDate>2004-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fisher College</EmployerOrgName>
+<PositionHistory>
+<Title>Environmental Science</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>5 months) Watershed Integrated Science Partnership (WISP) NSF Fellowship
+</Description>
+<StartDate>
+<AnyDate>2007-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Teaching partnership with junior-high faculty</EmployerOrgName>
+<PositionHistory>
+<Title>the Boston Public School District</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Mo</Region>
+<Municipality>Kansas City</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Design and implementation of inquiry based lessons Co-Author of a laboratory module now produced by FOSS Originally from
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Massachusetts Boston</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Doctorate</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Sciences/Oceanography</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Kansas</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Masters of Arts</DegreeName>
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Ecology and Evolutionary Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Cornell University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Bacterial Loading During Flooding: A Case Study from</Title>
+<Name role="author">
+<FormattedName>Torres, A., Tobin, K.J. and Wilson, B</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Temporal Trends of Triclosan Contamination in Dated Sediment Cores from Four Urbanized Estuaries: Evidence of Preservation and Accumulation</Title>
+<Name role="author">
+<FormattedName>Cantwell, M., Wilson, B., Zhu, J., King, J., Wallace, G., Smith, J., Olsen, C., Burgess, R</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chemosphere</JournalOrSerialName>
+<Volume>78:347-352.</Volume>
+</Article>
+<Article>
+<Title>The partitioning of Triclosan between aqueous and particulate bound phases in the Hudson River Estuary</Title>
+<Name role="author">
+<FormattedName>Wilson, B., Chen, R., Olsen, C., Cantwell, M., Gontz, A., Zhu, J</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>deNoyelles J</Title>
+<Name role="author">
+<FormattedName>Wilson, B., Smith, V</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>1.Torres A</Title>
+<Name role="author">
+<FormattedName>Tobin, K.J. and Wilson, B</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Bacterial Loading During Flooding: A Case Study from</JournalOrSerialName>
+</Article>
+<Article>
+<Title>2.Rock M</Title>
+<Name role="author">
+<FormattedName>Davis-Berg, E., Wilson, B</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Embryogenesis and Development of the Sea Urchin Arbacia Punctulata in the Presence of the Environmental Toxin Hypochlorite Journal of Environmental Protection</JournalOrSerialName>
+<Volume>2:1127-1133.3.Cantwell</Volume>
+</Article>
+<Article>
+<Title>4.Wilson B</Title>
+<Name role="author">
+<FormattedName>Chen, R., Olsen, C., Cantwell, M., Gontz, A., Zhu, J</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>The partitioning of Triclosan between aqueous and particulate bound phases in the Hudson River Estuary</JournalOrSerialName>
+</Article>
+<Article>
+<Title>5.Wilson B</Title>
+<Name role="author">
+<FormattedName>Olsen, C., Zhu, J., Cantwell, M</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Short-term dynamics and retention of Triclosan in the Lower Hudson River Estuary</JournalOrSerialName>
+</Article>
+<Article>
+<Title>6.Wilson B</Title>
+<Name role="author">
+<FormattedName>Smith, V</FormattedName>
+</Name>
+<JournalOrSerialName>deNoyelles J</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Currently in review/preparation 1.Wilson B</Title>
+<Name role="author">
+<FormattedName>Bautista, J.A., Villareal, P</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Toxicological impact of Imazapyr on planktonic organisms in alkaline aquatic systems</JournalOrSerialName>
+</Article>
+<Article>
+<Title>2.Wilson B.A</Title>
+<Name role="author">
+<FormattedName>and M. O. Mendez</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In situ impacts of a flooding event on contaminant deposition and fate of a riparian ecosystem</JournalOrSerialName>
+</Article>
+<Article>
+<Title>3.Wilson B.A</Title>
+<Name role="author">
+<FormattedName>and M. O. Mendez</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Accumulation of triclosan and ciprofloxacin in tomato plant tissues due to chronic exposure</JournalOrSerialName>
+</Article>
+<Article>
+<Title>5.Wilson B.A</Title>
+<Name role="author">
+<FormattedName>and M. O. Mendez</FormattedName>
+</Name>
+<JournalOrSerialName>Impact of chronic exposure to Triclosan on onions plant uptake and toxicological effects</JournalOrSerialName>
+<Volume>201_.</Volume>
+</Article>
+<Article>
+<Title>6.Mendez M.O</Title>
+<Name role="author">
+<FormattedName>J. J. Jurado, C. B. Lerma, and B. A. Wilson</FormattedName>
+</Name>
+<JournalOrSerialName>Effects of contaminant deposition from a flooding event on the culturable heterotrophic microbial community of the</JournalOrSerialName>
+</Article>
+<Article>
+<Title>7.Arambula R. B. A. Wilson and Mendez M. O. 201</Title>
+<JournalOrSerialName>Microbial community dynamics of flooded riparian soils</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Analytical Chemistry">
+<CompetencyEvidence name ="Analytical Chemistry" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Commissions">
+<CompetencyEvidence name ="Commissions">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Data Analysis">
+<CompetencyEvidence name ="Data Analysis" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Forth Programming Language">
+<CompetencyEvidence name ="Forth Programming Language" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Geographic Information System">
+<CompetencyEvidence name ="Geographic Information System" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Lotus Freelance">
+<CompetencyEvidence name ="Lotus Freelance">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Marketing Management">
+<CompetencyEvidence name ="Marketing Management">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pharmaceutical">
+<CompetencyEvidence name ="Pharmaceutical">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Project Management">
+<CompetencyEvidence name ="Project Management" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Sales">
+<CompetencyEvidence name ="Sales">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Science">
+<CompetencyEvidence name ="Science" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Statistical Analysis">
+<CompetencyEvidence name ="Statistical Analysis" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Technical Writing">
+<CompetencyEvidence name ="Technical Writing" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Toxicology">
+<CompetencyEvidence name ="Toxicology" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QnJpdHRhbiBBLiBXaWxzb24NCg0KYXNzaXN0YW50IHByb2Zlc3Nvcg0KDQpEaXZpc2lvbiBvZiBTY2llbmNlLCBJbmZvcm1hdGlvbiBBcnRzIGFuZCBUZWNobm9sb2dpZXMNCg0KQ29udGFjdCBJbmZvcm1hdGlvbjoNCg0KDQoNClBob25lOiA0MTAuODM3LjUzMzUNCg0KRS1tYWlsOiBid2lsc29uQHViYWx0LmVkdQ0KDQoNCg0KVW5pdmVyc2l0eSBvZiBNYXNzYWNodXNldHRzIEJvc3Rvbg0KDQpEb2N0b3JhdGUsIEVudmlyb25tZW50YWwgU2NpZW5jZXMvT2NlYW5vZ3JhcGh5DQoNCjIwMDQgLSAyMDA5DQoNCg0KDQpVbml2ZXJzaXR5IG9mIEthbnNhcw0KDQpNYXN0ZXJzIG9mIEFydHMsIEVjb2xvZ3kgYW5kIEV2b2x1dGlvbmFyeSBCaW9sb2d5DQoNCjIwMDAgLSAyMDAyDQoNCg0KDQpCLlMuLCBDb3JuZWxsIFVuaXZlcnNpdHkNCg0KDQoNCg0KDQpFeHBlcmllbmNlDQoNCkFzc2lzdGFuIFByb2Zlc3Nvcg0KDQpVbml2ZXJzaXR5IG9mIEJhbHRpbW9yZQ0KDQpKdWx5IDIwMTIgLSBQcmVzZW50ICg4IG1vbnRocykNCg0KDQoNClJlc2VhcmNoIFNwZWNpYWxpc3QgLSBwcm9qZWN0IGRlc2lnbiwgZGF0YSBhbmFseXNpcywgcHJvamVjdCBtYW5hZ2VtZW50IGFuZCBzdXBlcnZpc2luZyBvZiBzdHVkZW50IHdvcmtlcnMNCg0KVGVjaG5pY2FsIHdyaXRpbmcgYW5kIHB1YmxpY2F0aW9uDQoNCkZ1bmRpbmcgYWNxdWlzaXRpb24gdGhyb3VnaCBncmFudGluZyBhZ2VuY2llcw0KDQpQcmltYXJ5IGNvdXJzZXM6IEVudmlyb25tZW50YWwgQ2hlbWlzdHJ5IGFuZCBIdW1hbiBFY29sb2d5DQoNCkNhY3R1cyBDb21tdW5pY2F0aW9ucw0KDQpGcmVlbGFuY2UgRWRpdG9yDQoNCkNhY3R1cyBDb21tdW5pY2F0aW9ucw0KDQpPY3RvYmVyIDIwMTIgLSBQcmVzZW50ICg1IG1vbnRocykNCg0KDQoNCkNvcHkgZWRpdGluZyBhbmQgZm9ybWF0dGluZyBmb3IgZ3JhbnQgcHJvcG9zYWxzIGFuZCBtYW51c2NyaXB0cw0KDQpBc3Npc3RhbmNlIGZvciBpbmRpdmlkdWFscyB3aXRoIEVuZ2xpc2ggYXMgdGhlaXIgc2Vjb25kIGxhbmd1YWdlIGZvciBwdWJsaWNhdGlvbiBpbiBFbmdsaXNoIGpvdXJuYWxzIGZvciBncmFtbWFyIGFuZCBzdHlsaXN0aWMgc3RhbmRhcmRzDQoNClNwZWNpYWx0eSBGaWVsZHM6IEVjb2xvZ3ksIEVudmlyb25tZW50YWwgU2NpZW5jZSwgQW5hbHl0aWNhbCBDaGVtaXN0cnksIFRveGljb2xvZ3ksIEVudmlyb25tZW50YWwgTW9kZWxpbmcNCg0KVGV4YXMgQSZNIEludGVybmF0aW9uYWwgVW5pdmVyc2l0eQ0KDQpBc3Npc3RhbnQgUHJvZmVzc29yIG9mIEVudmlyb25tZW50YWwgQmlvbG9neQ0KDQpUZXhhcyBBJk0gSW50ZXJuYXRpb25hbCBVbml2ZXJzaXR5DQoNCkF1Z3VzdCAyMDA5IC0gSnVseSAyMDEyICgzIHllYXJzKUxhcmVkbywgVGV4YXMgQXJlYQ0KDQoNCg0KUmVzZWFyY2ggU3BlY2lhbGlzdCAtIHByb2plY3QgZGVzaWduLCBkYXRhIGFuYWx5c2lzLCBwcm9qZWN0IG1hbmFnZW1lbnQgYW5kIHN1cGVydmlzaW5nIG9mIHN0dWRlbnQgd29ya2Vycw0KDQpUZWNobmljYWwgd3JpdGluZyBhbmQgcHVibGljYXRpb24NCg0KRnVuZGluZyBhY3F1aXNpdGlvbiB0aHJvdWdoIGdyYW50aW5nIGFnZW5jaWVzDQoNCkFkbWluaXN0cmF0aW9uIG9mIEhlYWx0aCBTY2llbmNlcyBzY2hvbGFyc2hpcHMgYW5kIGFjYWRlbWljIHByb2dyYW1zDQoNClByaW1hcnkgY291cnNlczogRW52aXJvbm1lbnRhbCBUb3hpY29sb2d5LCBFbnZpcm9ubWVudGFsIENoZW1pc3RyeSBhbmQgTGltbm9sb2d5DQoNCk1vcnRvbidzIFRoZSBTdGVha2hvdXNlDQoNClNlcnZpY2UgQ2FwdGFpbg0KDQpNb3J0b24ncyBUaGUgU3RlYWtob3VzZQ0KDQpBdWd1c3QgMjAwNCAtIEp1bHkgMjAwOSAoNSB5ZWFycylCb3N0b24sIE1BDQoNCg0KDQpQZXJzb25uZWwgTWFuYWdlbWVudA0KDQpPdmVyc2lnaHQgZm9yIGFsbCBwcml2YXRlIHBhcnRpZXMNCg0KU2FsZXMgYW5kIG1hcmtldGluZyBzcGVjaWFsaXN0DQoNCkFzc2lzdGFuY2Ugd2l0aCBjaGFyaXR5IGV2ZW50cyBwcmVwYXJhdGlvbiBhbmQgZG9uYXRpb25zDQoNCkZpc2NhbCByZXNwb25zaWJpbGl0eSBmb3IgYWxsIHNhbGVzIGFuZCBjb21taXNzaW9ucw0KDQpBZGp1bmN0IFByb2Zlc3Nvcg0KDQpFbWVyc29uIENvbGxlZ2UNCg0KQXVndXN0IDIwMDggLSBKdW5lIDIwMDkgKDExIG1vbnRocykNCg0KDQoNCkVudmlyb25tZW50YWwgYW5kIEh1bWFua2luZA0KDQpBbmF0b215IGFuZCBQaHlzaW9sb2d5DQoNClVNYXNzIEJvc3Rvbg0KDQpHcmFkdWF0ZSBSZXNlYXJjaGVyDQoNClVNYXNzIEJvc3Rvbg0KDQpBdWd1c3QgMjAwNCAtIEp1bmUgMjAwOSAoNCB5ZWFycyAxMSBtb250aHMpQm9zdG9uLCBNQQ0KDQoNCg0KQ29uY2VwdGlvbiwgZGVzaWduIGFuZCBpbXBsZW1lbnRhdGlvbiBvZiBpbmRlcGVuZGVudCByZXNlYXJjaCByZWdhcmRpbmcgdGhlIGZhdGUgYW5kIGVmZmVjdHMgb2YgVHJpY2xvc2FuDQoNCkFjcXVpcmVkIGluZGVwZW5kZW50IGZ1bmRpbmcgZm9yIHJlc2VhcmNoIC0gc3VjY2Vzc2Z1bGx5IGNvbXBsZXRlZCBhbGwgZ29hbHMgYW5kIHJlcXVpcmVtZW50cyBzZXQgZm9ydGggYnkgZnVuZGluZyBhZ2VuY3kNCg0KTWFudXNjcmlwdCBwcmVwYXJhdGlvbiBhbmQgcHVibGljYXRpb24gb2YgcmVzZWFyY2ggcmVzdWx0aW5nIGluIDMgbWFudXNjcmlwdHMNCg0KR0lTIGFuYWx5c2lzDQoNClN0YXRpc3RpY2FsIGFuYWx5c2lzIGFuZCBtb2RlbGluZyB1c2luZyBsYXJnZSBlbnZpcm9ubWVudGFsIGRhdGEgc2V0cw0KDQpQcmVwYXJhdGlvbiBvZiBwcmVzZW50YXRpb24gbWF0ZXJpYWxzIHRvIGNvbW11bmljYXRlIHJlc2VhcmNoIHJlc3VsdHMgLSBCZXN0IHByZXNlbnRhdGlvbiBhd2FyZA0KDQpDb2xsYWJvcmF0aW9uIHdpdGggVS5TLiBFbnZpcm9ubWVudGFsIFByb3RlY3Rpb24gQWdlbmN5DQoNCkFkanVuY3QgUHJvZmVzc29yDQoNCkZpc2hlciBDb2xsZWdlDQoNCkF1Z3VzdCAyMDA3IC0gRGVjZW1iZXIgMjAwOCAoMSB5ZWFyIDUgbW9udGhzKQ0KDQoNCg0KRW52aXJvbm1lbnRhbCBTY2llbmNlDQoNCldhdGVyc2hlZCBJbnRlZ3JhdGVkIFNjaWVuY2UgUGFydG5lcnNoaXAgKFdJU1ApDQoNCk5TRiBGZWxsb3dzaGlwDQoNCjIwMDUgLSAyMDA2ICgxIHllYXIpQm9zdG9uLCBNQQ0KDQoNCg0KVGVhY2hpbmcgcGFydG5lcnNoaXAgd2l0aCBqdW5pb3ItaGlnaCBmYWN1bHR5IGluIHRoZSBCb3N0b24gUHVibGljIFNjaG9vbCBEaXN0cmljdA0KDQpEZXNpZ24gYW5kIGltcGxlbWVudGF0aW9uIG9mIGlucXVpcnkgYmFzZWQgbGVzc29ucw0KDQpDby1BdXRob3Igb2YgYSBsYWJvcmF0b3J5IG1vZHVsZSBub3cgcHJvZHVjZWQgYnkgRk9TUw0KDQoNCg0KDQoNCk9yaWdpbmFsbHkgZnJvbSBLYW5zYXMgQ2l0eSwgTW8uLCBJIGhhdmUgbGl2ZWQgaW4gYSB2YXJpZXR5IG9mIGNpdGllcyBib3RoIG9uIHRoZSBFYXN0IENvYXN0IGFuZCBpbiB0aGUgTWlkd2VzdC4gT3ZlciB0aGUgeWVhcnMsIEkgaGF2ZSBoYWQgdGhlIHByaXZpbGVnZSBvZiB3b3JraW5nIHdpdGggZmFudGFzdGljIHN0dWRlbnRzIGFuZCBjb2xsZWFndWVzLiBBcyBhbiBlbnZpcm9ubWVudGFsIHNjaWVudGlzdCwgSSBhbSBwYXNzaW9uYXRlIGFib3V0IHByb3RlY3Rpbmcgb3VyIG5hdHVyYWwgcmVzb3VyY2VzLCBpbiBwYXJ0aWN1bGFyIHdhdGVyIHJlc291cmNlcy4gSSBhbSBmb2N1c2VkIG9uIGhvdyBwaGFybWFjZXV0aWNhbCBhbmQgcGVyc29uYWwtY2FyZSBwcm9kdWN0cyAobWFpbmx5IFRyaWNsb3NhbiBhbmQgQ2lwcm9mbG94YWNpbikgYXJlIHRyYW5zbWl0dGVkIHRocm91Z2ggdGhlIGVudmlyb25tZW50IHZpYSByZWN5Y2xlZCB3YXRlcnMgaW1wYWN0aW5nIGJvdGggZHJpbmtpbmcgd2F0ZXIgYW5kIGlycmlnYXRlZCBhZ3JpY3VsdHVyYWwgcmVnaW9ucy4gU28gZmFyLCB3ZSBoYXZlIHN1Y2NlZWRlZCBpbiBtb2RlbGluZyBob3cgdGhlc2UgY29tcG91bmRzIG1vdmUgdGhyb3VnaCB0aGUgZW52aXJvbm1lbnQgZHVyaW5nIGZsb29kIGNvbmRpdGlvbnMgYW5kIHRocm91Z2ggZXN0dWFyeSBmb29kIGNoYWlucyBhbmQgaG93IHBsYW50cyB1cHRha2UgdGhlc2UgY29tcG91bmRzIGluIGFncmljdWx0dXJhbCBzeXN0ZW1zLg0KDQoNCg0KSSBlbmpveSB3b3JraW5nIHdpdGggYSBkaXZlcnNlIHN0dWRlbnQgYm9keSBhdCBhbGwgbGV2ZWxzIG9mIGVkdWNhdGlvbiwgaW5jbHVkaW5nIG5vbm1ham9ycywgbWFqb3JzIGFuZCBncmFkdWF0ZSBzdHVkZW50cy4gSSBiZWxpZXZlIGluIGZvc3RlcmluZyBpbiBteSBjb3Vyc2VzIGFuIGVudmlyb25tZW50IG9mIGNvbGxhYm9yYXRpdmUgbGVhcm5pbmcsIHN0cm9uZyBmdW5kYW1lbnRhbHMgYW5kIGEgaG9saXN0aWMgYXNzZXNzbWVudCBvZiB0aGUgc2NpZW50aWZpYyBwcm9jZXNzIGFuZCBob3cgc2NpZW5jZSBpbXBhY3RzIG91ciBjb21tdW5pdGllcy4gSSB0ZWFjaCBhIHZhcmlldHkgb2YgY291cnNlcyByYW5naW5nIGZyb20gRnVuZGFtZW50YWxzIG9mIEJpb2xvZ3kgdG8gZW52aXJvbm1lbnRhbCBjb3Vyc2VzIHN1Y2ggYXMgRW52aXJvbm1lbnRhbCBDaGVtaXN0cnksIEVudmlyb25tZW50YWwgVG94aWNvbG9neSBhbmQgTGltbm9sb2d5Lg0KDQoNCg0KU2VsZWN0ZWQgUHVibGljYXRpb25zDQoNCg0KDQpUb3JyZXMsIEEuLCBUb2JpbiwgSy5KLiBhbmQgV2lsc29uLCBCLiwgMjAxMi4gQmFjdGVyaWFsIExvYWRpbmcgRHVyaW5nIEZsb29kaW5nOiBBIENhc2UgU3R1ZHkgZnJvbSBKdWx5IDIwMTAgb24gdGhlIEJpLU5hdGlvbmFsIFJpbyBHcmFuZGUgUml2ZXIgKFRleGFzL01leGljbykuIFdhdGVyIFBvbGx1dGlvbjogMTF0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gTW9kZWxpbmcsIE1vbml0b3JpbmcgYW5kIE1hbmFnZW1lbnQgb2YgV2F0ZXIgUG9sbHV0aW9uLCBlZC4gQnJlYmJpYSwgQy5BLiwgV0lUIFByZXNzLCBTb3V0aGFtcHRvbiwgVS5LLiwgMTIgcHAuDQoNCg0KDQpDYW50d2VsbCwgTS4sIFdpbHNvbiwgQi4sIFpodSwgSi4sIEtpbmcsIEouLCBXYWxsYWNlLCBHLiwgU21pdGgsIEouLCBPbHNlbiwgQy4sIEJ1cmdlc3MsIFIuIDIwMTAuIFRlbXBvcmFsIFRyZW5kcyBvZiBUcmljbG9zYW4gQ29udGFtaW5hdGlvbiBpbiBEYXRlZCBTZWRpbWVudCBDb3JlcyBmcm9tIEZvdXIgVXJiYW5pemVkIEVzdHVhcmllczogRXZpZGVuY2Ugb2YgUHJlc2VydmF0aW9uIGFuZCBBY2N1bXVsYXRpb24uIENoZW1vc3BoZXJlLiA3ODozNDctMzUyLg0KDQoNCg0KV2lsc29uLCBCLiwgQ2hlbiwgUi4sIE9sc2VuLCBDLiwgQ2FudHdlbGwsIE0uLCBHb250eiwgQS4sIFpodSwgSi4gMjAwOS4gVGhlIHBhcnRpdGlvbmluZyBvZiBUcmljbG9zYW4gYmV0d2VlbiBhcXVlb3VzIGFuZCBwYXJ0aWN1bGF0ZSBib3VuZCBwaGFzZXMgaW4gdGhlIEh1ZHNvbiBSaXZlciBFc3R1YXJ5LiBNYXJpbmUgUG9sbHV0aW9uIEJ1bGxldGluLiA1OToyMDctMjEyLg0KDQoNCg0KV2lsc29uLCBCLiwgU21pdGgsIFYuLCBkZU5veWVsbGVzLCBKLiwgTGFyaXZlLCBDLiAyMDAzLiAiVGhlIGVmZmVjdHMgb2YgdGhyZWUgcGhhcm1hY2V1dGljYWwgYW5kIHBlcnNvbmFsIGNhcmUgcHJvZHVjdHMgb24gbmF0dXJhbCBmcmVzaHdhdGVyIGFsZ2FsIGFzc2VtYmxhZ2VzLiIgRW52aXJvbm1lbnRhbCBTY2llbmNlIGFuZCBUZWNobm9sb2dpZXMuIDM3KDkpOjE3MTMtMTcxOS4NCg0KDQoNCjEuVG9ycmVzLCBBLiwgVG9iaW4sIEsuSi4gYW5kIFdpbHNvbiwgQi4sIDIwMTIuIEJhY3RlcmlhbCBMb2FkaW5nIER1cmluZyBGbG9vZGluZzogQSBDYXNlIFN0dWR5IGZyb20gSnVseSAyMDEwIG9uIHRoZSBCaS1OYXRpb25hbCBSaW8gR3JhbmRlIFJpdmVyIChUZXhhcy9NZXhpY28pLiBXYXRlciBQb2xsdXRpb246IDExdGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIE1vZGVsaW5nLCBNb25pdG9yaW5nIGFuZCBNYW5hZ2VtZW50IG9mIFdhdGVyIFBvbGx1dGlvbiwgZWQuIEJyZWJiaWEsIEMuQS4sIFdJVCBQcmVzcywgU291dGhhbXB0b24sIFVLLiwgMTIgcGcuIA0KDQoNCg0KMi5Sb2NrLCBNLiwgRGF2aXMtQmVyZywgRS4sIFdpbHNvbiwgQi4gMjAxMS4gRW1icnlvZ2VuZXNpcyBhbmQgRGV2ZWxvcG1lbnQgb2YgdGhlIFNlYSBVcmNoaW4gQXJiYWNpYSBQdW5jdHVsYXRhIGluIHRoZSBQcmVzZW5jZSBvZiB0aGUgRW52aXJvbm1lbnRhbCBUb3hpbiBIeXBvY2hsb3JpdGUuICBKb3VybmFsIG9mIEVudmlyb25tZW50YWwgUHJvdGVjdGlvbi4gIDI6MTEyNy0xMTMzLg0KDQoNCg0KMy5DYW50d2VsbCwgTS4sIFdpbHNvbiwgQi4sIFpodSwgSi4sIEtpbmcsIEouLCBXYWxsYWNlLCBHLiwgU21pdGgsIEouLCBPbHNlbiwgQy4sIEJ1cmdlc3MsIFIuIDIwMTAuIFRlbXBvcmFsIFRyZW5kcyBvZiBUcmljbG9zYW4gQ29udGFtaW5hdGlvbiBpbiBEYXRlZCBTZWRpbWVudCBDb3JlcyBmcm9tIEZvdXIgVXJiYW5pemVkIEVzdHVhcmllczogRXZpZGVuY2Ugb2YgUHJlc2VydmF0aW9uIGFuZCBBY2N1bXVsYXRpb24uICBDaGVtb3NwaGVyZS4gIDc4OjM0Ny0zNTIuIA0KDQoNCg0KNC5XaWxzb24sIEIuLCBDaGVuLCBSLiwgT2xzZW4sIEMuLCBDYW50d2VsbCwgTS4sIEdvbnR6LCBBLiwgWmh1LCBKLiAyMDA5LiAgVGhlIHBhcnRpdGlvbmluZyBvZiBUcmljbG9zYW4gYmV0d2VlbiBhcXVlb3VzIGFuZCBwYXJ0aWN1bGF0ZSBib3VuZCBwaGFzZXMgaW4gdGhlIEh1ZHNvbiBSaXZlciBFc3R1YXJ5LiAgTWFyaW5lIFBvbGx1dGlvbiBCdWxsZXRpbi4gNTk6MjA3LTIxMi4NCg0KDQoNCjUuV2lsc29uLCBCLiwgT2xzZW4sIEMuLCBaaHUsIEouLCBDYW50d2VsbCwgTS4gIDIwMDguIFNob3J0LXRlcm0gZHluYW1pY3MgYW5kIHJldGVudGlvbiBvZiBUcmljbG9zYW4gaW4gdGhlIExvd2VyIEh1ZHNvbiBSaXZlciBFc3R1YXJ5LiAgTWFyaW5lIFBvbGx1dGlvbiBCdWxsZXRpbi4gNTYoNSk6MTIzMC0xMjMzLg0KDQoNCg0KNi5XaWxzb24sIEIuLCBTbWl0aCwgVi4sIGRlTm95ZWxsZXMsIEouLCBMYXJpdmUsIEMuLCAyMDAzLiAgVGhlIGVmZmVjdHMgb2YgdGhyZWUgcGhhcm1hY2V1dGljYWwgYW5kIHBlcnNvbmFsIGNhcmUgcHJvZHVjdHMgb24gbmF0dXJhbCBmcmVzaHdhdGVyIGFsZ2FsIGFzc2VtYmxhZ2VzLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgYW5kIFRlY2hub2xvZ2llcy4gMzcoOSk6MTcxMy0xNzE5Lg0KDQoNCg0KQ3VycmVudGx5IGluIHJldmlldy9wcmVwYXJhdGlvbg0KDQoxLldpbHNvbiwgQi4sIEJhdXRpc3RhLCBKLkEuLCBWaWxsYXJlYWwsIFAuICAyMDExLiAgVG94aWNvbG9naWNhbCBpbXBhY3Qgb2YgSW1hemFweXIgb24gcGxhbmt0b25pYyBvcmdhbmlzbXMgaW4gYWxrYWxpbmUgYXF1YXRpYyBzeXN0ZW1zLiAgSW4gUmV2aWV3Lg0KDQoNCg0KMi5XaWxzb24sIEIuQS4gYW5kIE0uIE8uIE1lbmRlei4gMjAxMi4gSW4gc2l0dSBpbXBhY3RzIG9mIGEgZmxvb2RpbmcgZXZlbnQgb24gY29udGFtaW5hbnQgZGVwb3NpdGlvbiBhbmQgZmF0ZSBvZiBhIHJpcGFyaWFuIGVjb3N5c3RlbS4gIEluIGZpbmFsIHByZXBhcmF0aW9uLg0KDQoNCg0KMy5XaWxzb24sIEIuQS4gYW5kIE0uIE8uIE1lbmRlei4gMjAxMi4gIEFjY3VtdWxhdGlvbiBvZiAgIHRyaWNsb3NhbiBhbmQgY2lwcm9mbG94YWNpbiBpbiB0b21hdG8gcGxhbnQgdGlzc3VlcyBkdWUgdG8gY2hyb25pYyBleHBvc3VyZS4gIEluIHByZXBhcmF0aW9uLg0KDQoNCg0KNC5FLiBWYWxkZXogYW5kIEIuQS4gV2lsc29uLiAyMDExIEltcGFjdCBvZiBjaHJvbmljIGV4cG9zdXJlIHRvIFRyaWNsb3NhbiBvbiBvbmlvbnMsIHBsYW50IHVwdGFrZSBhbmQgdG94aWNvbG9naWNhbCBlZmZlY3RzLiAgSW4gcHJlcGFyYXRpb24uDQoNCg0KDQo1LldpbHNvbiwgQi5BLiBhbmQgTS4gTy4gTWVuZGV6LiAyMDFfLiBDb21wYXJpc29uIG9mIGNpcHJvZmxveGFjaW4gYW5kIHRyaWNsb3NhbiBlZmZlY3RzIG9uIHRoZSBzb2lsIG1pY3JvYmlhbCBjb21tdW5pdHkgb2YgdG9tYXRvZXMgYW5kIG9uaW9ucy4gIEluIHByZXBhcmF0aW9uLg0KDQoNCg0KNi5NZW5kZXosIE0uTy4sIEouIEouIEp1cmFkbywgQy4gQi4gTGVybWEsIGFuZCBCLiBBLiBXaWxzb24uIDIwMV8uIEVmZmVjdHMgb2YgY29udGFtaW5hbnQgZGVwb3NpdGlvbiBmcm9tIGEgZmxvb2RpbmcgZXZlbnQgb24gdGhlIGN1bHR1cmFibGUgaGV0ZXJvdHJvcGhpYyBtaWNyb2JpYWwgY29tbXVuaXR5IG9mIHRoZSBSaW8gR3JhbmRlLiAgSW4gcHJlcGFyYXRpb24uDQoNCg0KDQo3LkFyYW1idWxhLCBSLiwgQi4gQS4gV2lsc29uLCBhbmQgTWVuZGV6LCBNLiBPLiAyMDFfLiBNaWNyb2JpYWwgY29tbXVuaXR5IGR5bmFtaWNzIG9mIGZsb29kZWQgcmlwYXJpYW4gc29pbHMuICBJbiBwcmVwYXJhdGlvbi4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916201306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

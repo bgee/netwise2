@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:14:50 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914143306521"  usageLimitType="allocation" usageLimit="200" currentUsage="121" remainingUsage="79" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr. Yuqi Wang</FormattedName>
+<GivenName>Yuqi</GivenName>
+<FamilyName>Wang</FamilyName>
+<Affix type="formOfAddress">Dr.</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>63103-2010</PostalCode>
+<Region>MO</Region>
+<Municipality>St. Louis</Municipality>
+<DeliveryAddress>
+<AddressLine>3507 Laclede Ave</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (314) 977-4178</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>314</AreaCityCode>
+<SubscriberNumber>977-4178</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>business</Use>
+<Location>office</Location>
+<WhenAvailable>daytime</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (314) 977-4179</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>314</AreaCityCode>
+<SubscriberNumber>977-4179</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (314) 977-3658</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>314</AreaCityCode>
+<SubscriberNumber>977-3658</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>ywang8@slu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<PublicationHistory>
+<Article>
+<Title>Pheromone- and Rsp5-dependent ubiquitination of the G protein beta subunit Ste4 in yeast</Title>
+<Name role="author">
+<FormattedName>Zhu M Torres MP, Kelley J, Dohlman HG, Wang Y</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Biological Chemistry</JournalOrSerialName>
+<Volume>286(31):27147-552011.</Volume>
+</Article>
+<Article>
+<Title>Sumoylation of a transcription factor Tec1 regulates signaling of mitogen-activated protein kinase pathways in yeast</Title>
+<Name role="author">
+<FormattedName>Wang Y, Abu Irqeba A Ayalew M, and Suntay K</FormattedName>
+</Name>
+<JournalOrSerialName>PLoS ONE</JournalOrSerialName>
+<Volume>e7456.2009.</Volume>
+</Article>
+<Article>
+<Title>Down-regulation of Pkc1-mediated signaling by the deubiquitinating enzyme Ubp3</Title>
+<Name role="author">
+<FormattedName>Wang Y, Zhu M Ayalew M, Ruff JA</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Biological Chemistry</JournalOrSerialName>
+<Volume>283(4):1954-612008.</Volume>
+</Article>
+<Article>
+<Title>Regulation of G protein and MAP kinase signaling by ubiquitination - insights from model organisms</Title>
+<Name role="author">
+<FormattedName>Wang Y, Dohlman HG</FormattedName>
+</Name>
+<JournalOrSerialName>Circulation Research</JournalOrSerialName>
+<Volume>99:1305-13142006.</Volume>
+</Article>
+<Article>
+<Title>Pheromone induced degradation of Ste12 contributes to signal attenuation and the specificity of developmental fate</Title>
+<Name role="author">
+<FormattedName>Esch KR, Wang Y, Errede B</FormattedName>
+</Name>
+<JournalOrSerialName>Eukaryotic Cell</JournalOrSerialName>
+<Volume>5(12):2147-21602006.</Volume>
+</Article>
+<Article>
+<Title>Pheromone-regulated sumoylation of transcription factors that mediate the invasive to mating developmental switch in yeast</Title>
+<Name role="author">
+<FormattedName>Wang Y, Dohlman HG</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Biological Chemistry</JournalOrSerialName>
+<Volume>281:1964-19692006.</Volume>
+</Article>
+<Article>
+<Title>Differential regulation of G protein alpha subunit Gpa1 trafficking by mono- and poly-ubiquitination</Title>
+<Name role="author">
+<FormattedName>Wang Y, Marotti LA, Lee MJ, Dohlman HG</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Biological Chemistry</JournalOrSerialName>
+<Volume>280(1):284-2912005.</Volume>
+</Article>
+<Article>
+<Title>Pheromone signaling mechanisms in yeast: a prototypical sex machine</Title>
+<Name role="author">
+<FormattedName>Wang Y, Dohlman HG</FormattedName>
+</Name>
+<JournalOrSerialName>Science</JournalOrSerialName>
+<Volume>306(5701):1508-15092004.</Volume>
+</Article>
+<Article>
+<Title>Regulation of Ste7 ubiquitination by Ste11 phosphorylation and the Skp1-Cullin-F-box complex</Title>
+<Name role="author">
+<FormattedName>Wang Y, Ge Q, Houston D, Thorner J, Errede B, Dohlman HG</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Biological Chemistry</JournalOrSerialName>
+<Volume>278(25):22284-222892003.</Volume>
+</Article>
+<Article>
+<Title>Pheromone-dependent ubiquitination of the mitogen-activated protein kinase kinase Ste7</Title>
+<Name role="author">
+<FormattedName>Wang Y, Dohlman HG</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Biological Chemistry</JournalOrSerialName>
+<Volume>277(18):15766-722002.</Volume>
+</Article>
+<Article>
+<Title>Direct identification of a G protein ubiquitination site by mass spectrometry</Title>
+<Name role="author">
+<FormattedName>Marotti LA, Newitt R, Wang Y, Aebersold R, Dohlman HG</FormattedName>
+</Name>
+<JournalOrSerialName>Biochemistry</JournalOrSerialName>
+<Volume>41(16):5067-742002.</Volume>
+</Article>
+<Article>
+<Title>Updated</Title>
+<PublicationDate>
+<StringDate>11/06/2012</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Biomedical Industry">
+<CompetencyEvidence name ="Biomedical Industry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Cancer">
+<CompetencyEvidence name ="Cancer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Cellular">
+<CompetencyEvidence name ="Cellular">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Molecular Cell Biology">
+<CompetencyEvidence name ="Molecular Cell Biology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pharmaceutical Industry">
+<CompetencyEvidence name ="Pharmaceutical Industry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Science">
+<CompetencyEvidence name ="Science">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Transcription">
+<CompetencyEvidence name ="Transcription">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Wang">
+<CompetencyEvidence name ="Wang">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIFl1cWkgV2FuZw0KDQoNCg0KQXNzb2NpYXRlIFByb2Zlc3NvciAgLSBQaC5ELiBCaW9tZWRpY2FsIFNjaWVuY2UgQ3JlaWdodG9uIFVuaXZlcnNpdHkNCg0KDQoNCg0KDQpDb250YWN0IEluZm9ybWF0aW9uOg0KDQpQaG9uZTogKDMxNCkgOTc3LTQxNzggKG9mZmljZSkgKDMxNCkgOTc3LTQxNzkobGFiKQ0KDQpGYXg6ICgzMTQpIDk3Ny0zNjU4DQoNCkUtbWFpbDogeXdhbmc4QHNsdS5lZHUNCg0KTWFpbGluZyBBZGRyZXNzOiBEZXBhcnRtZW50IG9mIEJpb2xvZ3ksIFNhaW50IExvdWlzIFVuaXZlcnNpdHksIDM1MDcgTGFjbGVkZSBBdmUgU3QuIExvdWlzLCBNTyA2MzEwMy0yMDEwDQoNCg0KDQpDb3Vyc2VzIG9mZmVyZWQ6ICBCSU9MMzAyIE1vbGVjdWxhciBDZWxsIEJpb2xvZ3kgSTogQ2VsbHVsYXIgQmlvY2hlbWlzdHJ5IGFuZCBNb2xlY3VsYXIgQmlvbG9neSwgQklPTDUwNyBBZHZhbmNlZCBCaW9sb2dpY2FsIENoZW1pc3RyeSwgQklPTDU4MiBHcmFkdWF0ZSBTZW1pbmFyDQoNCg0KDQpSZXNlYXJjaCBpbnRlcmVzdHM6IFJlc2VhcmNoIGluIG15IGxhYm9yYXRvcnkgZm9jdXNlcyBvbiBtZWNoYW5pc21zIGFuZCByZWd1bGF0aW9uIG9mIHNpZ25hbGluZyBpbml0aWF0ZWQgYnkgRyBwcm90ZWluLWNvdXBsZWQgcmVjZXB0b3JzIChHUENSKS4gSHVtYW4gR1BDUnMgbWVkaWF0ZSByZXNwb25zZXMgdG8gbGlnaHQsIG9kb3IsIHRhc3RlLCBob3Jtb25lcywgYW5kIG5ldXJvdHJhbnNtaXR0ZXJzLiBEZWZlY3RzIGluIEdQQ1Igc2lnbmFsaW5nIHBhdGh3YXlzIGNhbiBjYXVzZSBhIG11bHRpdHVkZSBvZiBodW1hbiBkaXNlYXNlcyBpbmNsdWRpbmcgaHlwZXJ0ZW5zaW9uLCBoZWFydCBmYWlsdXJlLCBhbmQgY2FuY2VyLiBBIGJldHRlciB1bmRlcnN0YW5kaW5nIG9mIHRoZSBtZWNoYW5pc21zIHJlZ3VsYXRpbmcgR1BDUiBzaWduYWxpbmcgcGF0aHdheXMgd2lsbCBhaWQgaW4gb3VyIGFiaWxpdHkgdG8gZGVmaW5lIHRhcmdldHMgZm9yIHRoZXJhcGV1dGljIGludGVydmVudGlvbiwgYW5kIGNvdWxkIGV2ZW50dWFsbHkgbGVhZCB0byBhbiBlbnRpcmVseSBuZXcgY2xhc3Mgb2YgcGhhcm1hY2V1dGljYWxzLg0KDQoNCg0KVGhlIEdQQ1Igc2lnbmFsaW5nIHBhdGh3YXlzIGFyZSBoaWdobHkgY29uc2VydmVkIGFjcm9zcyBldm9sdXRpb24sIHdoaWNoIGFsbG93cyB1cyB0byB1c2UgdGhlIHNpbXBsZXN0IGV1a2FyeW90aWMgb3JnYW5pc20sIHRoZSBidWRkaW5nIHllYXN0IFNhY2NoYXJvbXljZXMgY2VyZXZpc2lhZSwgYXMgYSBtb2RlbCBzeXN0ZW0uIFRoZSB5ZWFzdCBleHBlcmltZW50YWwgc3lzdGVtIG9mZmVycyB0aGUgcG93ZXJmdWwgZ2VuZXRpYyBhbmQgYmlvY2hlbWljYWwgdG9vbHMgdW5hdmFpbGFibGUgaW4gYW55IG90aGVyIGV1a2FyeW90aWMgc3lzdGVtcy4gQ3VycmVudGx5LCB3ZSBhcmUgc3R1ZHlpbmcgYSBub3ZlbCBtZWNoYW5pc20gYnkgd2hpY2ggR1BDUiBzaWduYWxpbmcgcGF0aHdheXMgYXJlIHJlZ3VsYXRlZCwgbmFtZWx5IHRocm91Z2ggc3RpbXVsdXMtZGVwZW5kZW50IHViaXF1aXRpbmF0aW9uIG9mIHNpZ25hbGluZyBjb21wb25lbnRzLiBXZSBoYXZlIGZvdW5kIHN0aW11bHVzLWRlcGVuZGVudCB1YmlxdWl0aW5hdGlvbiBvZiBrZXkgY29tcG9uZW50cyBvZiB0aGUgcGF0aHdheSBpbmNsdWRpbmcgRyBwcm90ZWlucyBhbmQgTUFQIGtpbmFzZXMsIGFuZCB3ZSBhcmUgdXNpbmcgZ2VuZXRpYyBhbmQgYmlvY2hlbWljYWwgbWV0aG9kcyB0byBzdHVkeSBob3cgdGhlc2UgbW9kaWZpY2F0aW9ucyBjb250cmlidXRlIHRvIHNpZ25hbGluZyByZWd1bGF0aW9uLiBXZSBhcmUgYWxzbyBpbnRlcmVzdGVkIGluIGlkZW50aWZ5aW5nIHRoZSBtb2xlY3VsYXIgbWFjaGluZXJ5IHRoYXQgY2FycmllcyBvdXQgdGhlc2UgbW9kaWZpY2F0aW9ucyBhbmQgaG93IEdQQ1Igc2lnbmFsaW5nIG1pZ2h0IGluIHR1cm4gcmVndWxhdGUgdGhlaXIgYWN0aXZpdGllcy4NCg0KDQoNCkFub3RoZXIgcHJvamVjdCBpbiBteSBsYWJvcmF0b3J5IGZvY3VzZXMgb24gZnVuY3Rpb24gYW5kIHN1YnN0cmF0ZSBzcGVjaWZpY2l0eSBvZiBhIGRldWJpcXVpdGluYXRpbmcgZW56eW1lIFVicDMuIFJlY2VudGx5IHdlIGRpc2NvdmVyZWQgdGhhdCB5ZWFzdCBVYnAzIGlzIGEgbm92ZWwgcmVndWxhdG9yIG9mIHByb3RlaW4ga2luYXNlIEMgKFBLQyksIHNlcmluZS90aHJlb25pbmUga2luYXNlcyB0aGF0IHBsYXkgaW1wb3J0YW50IHJvbGVzIGluIG1hbnkgY2VsbHVsYXIgcHJvY2Vzc2VzLCBpbmNsdWRpbmcgcHJvbGlmZXJhdGlvbiwgZGlmZmVyZW50aWF0aW9uIGFuZCBjZWxsIHN1cnZpdmFsLiBXZSBhcmUgbm93IGNvbmR1Y3RpbmcgYmlvY2hlbWljYWwgYW5hbHlzaXMgdG8gZWx1Y2lkYXRlIHRoZSBtb2xlY3VsYXIgbWVjaGFuaXNtcyBieSB3aGljaCBVYnAzIHJlZ3VsYXRlcyBQS0MuIFdlIGFyZSBhbHNvIHBsYW5uaW5nIG9uIGV4dGVuZGluZyBvdXIgd29yayB0byBvdGhlciBzeXN0ZW1zIGluY2x1ZGluZyBodW1hbiBjZWxsIGxpbmVzIGFuZCBwYXRob2dlbmljIGZ1bmd1cyB0byB0ZXN0IHdoZXRoZXIgUEtDcyBhcmUgc2ltaWxhcmx5IHJlZ3VsYXRlZCBieSBkZXViaXF1aXRpbmF0aW5nIGVuenltZXMgaW4gdGhlc2Ugc3lzdGVtcy4gSW5zaWdodHMgZ2FpbmVkIGhlcmUgY291bGQgcG90ZW50aWFsbHkgb3BlbiB1cCBhbiBleGNpdGluZyBwb3NzaWJpbGl0eSBvZiB0YXJnZXRpbmcgZGV1YmlxdWl0aW5hdGluZyBlbnp5bWVzIGFzIGEgc3RyYXRlZ3kgZm9yIGRldmVsb3Bpbmcgbm92ZWwgdGhlcmFwZXV0aWNzIGFnYWluc3QgY2FuY2VyIG9yIGZ1bmdhbCBpbmZlY3Rpb25zLg0KDQoNCg0KUmVzZWFyY2ggb3Bwb3J0dW5pdGllczogSSB3ZWxjb21lIGhpZ2hseSBtb3RpdmF0ZWQgc3R1ZGVudHMgaW50ZXJlc3RlZCBpbiBtb2xlY3VsYXIgYmlvbG9neSwgY2VsbCByZWd1bGF0aW9uLCBhbmQgc2lnbmFsIHRyYW5zZHVjdGlvbiB0byBwdXJzdWUgZ3JhZHVhdGUgc3R1ZHkgaW4gbXkgbGFib3JhdG9yeS4gQW1wbGUgcmVzZWFyY2ggb3Bwb3J0dW5pdGllcyBleGlzdCBmb3IgbW90aXZhdGVkIHVuZGVyZ3JhZHVhdGUgc3R1ZGVudHMuDQoNCg0KDQpSZXByZXNlbnRhdGl2ZSBwdWJsaWNhdGlvbnM6DQoNCg0KDQpaaHUgTSosIFRvcnJlcyBNUCwgS2VsbGV5IEosIERvaGxtYW4gSEcsIFdhbmcgWS4gUGhlcm9tb25lLSBhbmQgUnNwNS1kZXBlbmRlbnQgdWJpcXVpdGluYXRpb24gb2YgdGhlIEcgcHJvdGVpbiBiZXRhIHN1YnVuaXQgU3RlNCBpbiB5ZWFzdC4gSm91cm5hbCBvZiBCaW9sb2dpY2FsIENoZW1pc3RyeS4gMjg2KDMxKToyNzE0Ny01NSwgMjAxMS4gRXB1YiBvbiBKdW4gMTcsIDIwMTEuICgqR3JhZHVhdGUgU3R1ZGVudCBhdCBTTFUpDQoNCg0KDQpXYW5nIFksIEFidSBJcnFlYmEgQSoqLCBBeWFsZXcgTSwgYW5kIFN1bnRheSBLKiouIFN1bW95bGF0aW9uIG9mIGEgdHJhbnNjcmlwdGlvbiBmYWN0b3IgVGVjMSByZWd1bGF0ZXMgc2lnbmFsaW5nIG9mIG1pdG9nZW4tYWN0aXZhdGVkIHByb3RlaW4ga2luYXNlIHBhdGh3YXlzIGluIHllYXN0LiBQTG9TIE9ORS4gNCgxMCk6IGU3NDU2LiAyMDA5LiAoKiogdW5kZXJncmFkdWF0ZSBzdHVkZW50IGF0IFNMVSkNCg0KDQoNCldhbmcgWSwgWmh1IE0qLCBBeWFsZXcgTSwgUnVmZiBKQSoqLiBEb3duLXJlZ3VsYXRpb24gb2YgUGtjMS1tZWRpYXRlZCBzaWduYWxpbmcgYnkgdGhlIGRldWJpcXVpdGluYXRpbmcgZW56eW1lIFVicDMuIEpvdXJuYWwgb2YgQmlvbG9naWNhbCBDaGVtaXN0cnkuIDI4Myg0KToxOTU0LTYxLCAyMDA4LiAoKiBncmFkdWF0ZSBzdHVkZW50IGF0IFNMVTsgKiogdW5kZXJncmFkdWF0ZSBzdHVkZW50IGF0IFNMVSkNCg0KDQoNCldhbmcgWSwgRG9obG1hbiBIRy4gUmVndWxhdGlvbiBvZiBHIHByb3RlaW4gYW5kIE1BUCBraW5hc2Ugc2lnbmFsaW5nIGJ5IHViaXF1aXRpbmF0aW9uIC0gaW5zaWdodHMgZnJvbSBtb2RlbCBvcmdhbmlzbXMuIENpcmN1bGF0aW9uIFJlc2VhcmNoLiA5OToxMzA1LTEzMTQsIDIwMDYuDQoNCg0KDQpFc2NoIEtSLCBXYW5nIFksIEVycmVkZSBCLiBQaGVyb21vbmUgaW5kdWNlZCBkZWdyYWRhdGlvbiBvZiBTdGUxMiBjb250cmlidXRlcyB0byBzaWduYWwgYXR0ZW51YXRpb24gYW5kIHRoZSBzcGVjaWZpY2l0eSBvZiBkZXZlbG9wbWVudGFsIGZhdGUuIEV1a2FyeW90aWMgQ2VsbC4gNSgxMik6MjE0Ny0yMTYwLCAyMDA2Lg0KDQoNCg0KV2FuZyBZLCBEb2hsbWFuIEhHLiBQaGVyb21vbmUtcmVndWxhdGVkIHN1bW95bGF0aW9uIG9mIHRyYW5zY3JpcHRpb24gZmFjdG9ycyB0aGF0IG1lZGlhdGUgdGhlIGludmFzaXZlIHRvIG1hdGluZyBkZXZlbG9wbWVudGFsIHN3aXRjaCBpbiB5ZWFzdC4gSm91cm5hbCBvZiBCaW9sb2dpY2FsIENoZW1pc3RyeS4gMjgxOjE5NjQtMTk2OSwgMjAwNi4NCg0KDQoNCldhbmcgWSwgTWFyb3R0aSBMQSwgTGVlIE1KLCBEb2hsbWFuIEhHLiBEaWZmZXJlbnRpYWwgcmVndWxhdGlvbiBvZiBHIHByb3RlaW4gYWxwaGEgc3VidW5pdCBHcGExIHRyYWZmaWNraW5nIGJ5IG1vbm8tIGFuZCBwb2x5LXViaXF1aXRpbmF0aW9uLiBKb3VybmFsIG9mIEJpb2xvZ2ljYWwgQ2hlbWlzdHJ5LiAyODAoMSk6Mjg0LTI5MSwgMjAwNS4NCg0KDQoNCldhbmcgWSwgRG9obG1hbiBIRy4gUGhlcm9tb25lIHNpZ25hbGluZyBtZWNoYW5pc21zIGluIHllYXN0OiBhIHByb3RvdHlwaWNhbCBzZXggbWFjaGluZS4gU2NpZW5jZS4gMzA2KDU3MDEpOjE1MDgtMTUwOSwgMjAwNC4NCg0KDQoNCldhbmcgWSwgR2UgUSwgSG91c3RvbiBELCBUaG9ybmVyIEosIEVycmVkZSBCLCBEb2hsbWFuIEhHLiBSZWd1bGF0aW9uIG9mIFN0ZTcgdWJpcXVpdGluYXRpb24gYnkgU3RlMTEgcGhvc3Bob3J5bGF0aW9uIGFuZCB0aGUgU2twMS1DdWxsaW4tRi1ib3ggY29tcGxleC4gSm91cm5hbCBvZiBCaW9sb2dpY2FsIENoZW1pc3RyeS4gMjc4KDI1KToyMjI4NC0yMjI4OSwgMjAwMy4NCg0KDQoNCldhbmcgWSwgRG9obG1hbiBIRy4gUGhlcm9tb25lLWRlcGVuZGVudCB1YmlxdWl0aW5hdGlvbiBvZiB0aGUgbWl0b2dlbi1hY3RpdmF0ZWQgcHJvdGVpbiBraW5hc2Uga2luYXNlIFN0ZTcuIEpvdXJuYWwgb2YgQmlvbG9naWNhbCBDaGVtaXN0cnkuIDI3NygxOCk6MTU3NjYtNzIsIDIwMDIuDQoNCg0KDQpNYXJvdHRpIExBLCBOZXdpdHQgUiwgV2FuZyBZLCBBZWJlcnNvbGQgUiwgRG9obG1hbiBIRy4gRGlyZWN0IGlkZW50aWZpY2F0aW9uIG9mIGEgRyBwcm90ZWluIHViaXF1aXRpbmF0aW9uIHNpdGUgYnkgbWFzcyBzcGVjdHJvbWV0cnkuIEJpb2NoZW1pc3RyeSA0MSgxNik6NTA2Ny03NCwgMjAwMi4NCg0KDQoNClVwZGF0ZWQgMTEvMDYvMjAxMg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914143306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

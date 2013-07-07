@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:19 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915250306521"  usageLimitType="allocation" usageLimit="200" currentUsage="81" remainingUsage="119" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Department of Mathematics</FormattedName>
+<GivenName>Department</GivenName>
+<MiddleName>of</MiddleName>
+<FamilyName>Mathematics</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Broadway New York</Municipality>
+<DeliveryAddress>
+<AddressLine>MC 4433</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (212) 854-4762</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>212</AreaCityCode>
+<SubscriberNumber>854-4762</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (212) 854-8962</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>212</AreaCityCode>
+<SubscriberNumber>854-8962</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>lhhuang@math.columbia.edu</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://www.math.columbia.edu/~lhhuang</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>Columbia Fall 2009: Linear Algebra &amp; Reading Class on General Relativity with an undergraduate student Spring 2010: Calculus I (two sections) (declined) 1) Several Lectures in Summer Graduate Workshop on Mathematical General Relativity at MSRI, July 9-20, 2012 2) 27TH Annual Geometry Festival, Duke 3) Duke University &quot;Positive mass theorems and scalar curvature problems&quot; February 16) curvature problems&quot;, February 8, 2012 3 Curriculum Vitae of Lan-Hsuan Huang 5) University of Wisconsin-Madison, PDE &amp; Geometry Seminar &quot;Hypersurfaces with nonnegative scalar curvature&quot;, February 7, 2012 6) University of Connecticut, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, February 2, 2012 7) University of North Carolina at Chapel Hill, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, January 30, 2012 8) University of Minnesota, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, January 26, 2012 9) Johns Hopkins University, &quot;Positive mass theorems and scalar curvature problems&quot;, January 23, 2012 10) University of Colorado at Boulder, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, January 17, 2012 11) Ohio State University Geometry and PDE Joint Seminar &quot;Spacetime positive mass theorem in dimensions less than 8&quot;, November 8, 2011 12) MIT Geometric Analysis Seminar, October 19, 2011 13) University of Miami Geometry and Physics Seminar, October 12, 2011 14) Duke Geometry/Topology Seminar, September 21, 2011 15) AWM Anniversary Conference at ICERM: 40 Years and Counting: AWM&apos;s Celebration of Women in Mathematics &quot;Hypersurfaces with nonnegative scalar curvature&quot; in the special session on Riemannian Geometry, Brown University Workshop on Differential Geometry &quot;Hypersurfaces with nonnegative scalar curvature&quot; Fudan University Shanghai China June 27 2011 17) Topology/Geometry Seminar &quot;Spacetime positive mass theorem in dimensions less than 8&quot; Capital Normal University Beijing China June 23 2011 Akko (Acre) 20) Lafayette-Lehigh Geometry/Topology Seminar &quot;Hypersurfaces with nonnegative scalar curvature&quot; Lafayette College Pennsylvania March 26 2011 2010, 2010 23) Workshop on Geometric Analysis &quot;Rigidity results for hypersurfaces in the sphere&quot;, Zhejiang University, Hangzhou, China 24) Columbia-Stony Brook joint General Relativity Seminar &quot;Specifying the angular momentum and center of mass for vacuum spacetimes&quot; Columbia University New York November 19 2010 2010. 25) Geometric Analysis Seminar &quot;Specifying the angular momentum and center of mass for vacuum spacetimes&quot;, Albert-Einstein-Institut, Golm, Germany, October 11, 2010 26) Mathematical Relativity &quot;Specifying the angular momentum and center of mass for vacuum spacetimes&quot;, ICMS, Edinburgh, UK, September 1-7, 2010 27) Eighth Joint International Meeting of the AMS and the Sociedad MatemÃ¡tica &quot;Center of mass and constant mean curvature foliations for isolated systems in general relativity&quot;, Berkeley, CA, June 2-5, 2010 28) Geometry Seminar &quot;Rigidity results on hemispheres&quot;, Institute of Mathematics, Academia Sinica, Taipei, Taiwan, May 28, 2010 29) Columbia Undergraduate Mathematics Society, April 21, 2010 30) SGS XVI Southeast Geometry Seminar, Georgia Institute of Technology, Atlanta, GA, April 12, 2010 31) Johns Hopkins Analysis Seminar, February 22, 2010 32) Workshop on General Relativity and Geometric Analysis, Monash University in</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Columbia University</EmployerOrgName>
+<PositionHistory>
+<Title>Ritt Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Mathematics
+</Description>
+<StartDate>
+<AnyDate>2009-08-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Calculus I &amp; Calculus II</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Calculus II (two sections)
+</Description>
+<StartDate>
+<AnyDate>2011-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Math 51 Linear Algebra and Multivariable Calculus</EmployerOrgName>
+<PositionHistory>
+<Title>Stanford (as a Recitation Instructor)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2005-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Math 52 Multivariable Integral Calculus</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Invited Talks</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Math 53 Ordinary Differential Equations with Linear Algebra 1) Several Lectures in Summer Graduate Workshop on Mathematical General Relativity at MSRI, July 9-20, 2012 2) 27TH Annual Geometry Festival, Duke
+</Description>
+<StartDate>
+<AnyDate>2008-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Wisconsin-Madison</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>4) Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, February 8, 2012 3 Curriculum Vitae of Lan-Hsuan Huang 5) University of Wisconsin-Madison, PDE &amp; Geometry Seminar &quot;Hypersurfaces with nonnegative scalar curvature&quot;, February 7, 2012 6) University of Connecticut, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, February 2, 2012 7) University of North Carolina at Chapel Hill, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, January 30, 2012 8) University of Minnesota, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, January 26, 2012 9) Johns Hopkins University, &quot;Positive mass theorems and scalar curvature problems&quot;, January 23, 2012 10) University of Colorado at Boulder, Colloquium &quot;Positive mass theorems and scalar curvature problems&quot;, January 17, 2012 11) Ohio State University Geometry and PDE Joint Seminar &quot;Spacetime positive mass theorem in dimensions less than 8&quot;, November 8, 2011 12) MIT Geometric Analysis Seminar, October 19, 2011 13) University of Miami Geometry and Physics Seminar, October 12, 2011 14) Duke Geometry/Topology Seminar, September 21, 2011 15) AWM Anniversary Conference at ICERM: 40 Years and Counting: AWM&apos;s Celebration of Women in Mathematics &quot;Hypersurfaces with nonnegative scalar curvature&quot; in the special session on Riemannian Geometry, Brown University
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Beijing Summer Program in Mathematical Relativity</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>18)
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>June 6-25</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;Hypersurfaces with nonnegative scalar curvature&quot;
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fifth International Conference on Complex Analysis &amp; Dynamical Systems</EmployerOrgName>
+<PositionHistory>
+<Title>Akko (Acre)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>IL</CountryCode>
+</PositionLocation>
+</OrgInfo>
+<Description>19) Palm Beach Hotel
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Brown University Geometry/Topology Seminar &quot;Hypersurfaces with nonnegative</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Providence</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>21) scalar curvature&quot;
+</Description>
+<StartDate>
+<AnyDate>2011-03-16</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>ICCM</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>22)
+</Description>
+<StartDate>
+<AnyDate>2011-03-16</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-03-16</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>&quot;On the center of mass</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>general relativity&quot;
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Tsinghua University</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Beijing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>2010 23) Workshop on Geometric Analysis &quot;Rigidity results for hypersurfaces in the sphere&quot;, Zhejiang University, Hangzhou, China
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Curriculum Vitae of Lan-Hsuan Huang</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Australia</Region>
+<Municipality>Melbourne</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>4 25) Geometric Analysis Seminar &quot;Specifying the angular momentum and center of mass for vacuum spacetimes&quot;, Albert-Einstein-Institut, Golm, Germany, October 11, 2010 26) Mathematical Relativity &quot;Specifying the angular momentum and center of mass for vacuum spacetimes&quot;, ICMS, Edinburgh, UK, September 1-7, 2010 27) Eighth Joint International Meeting of the AMS and the Sociedad MatemÃ¡tica &quot;Center of mass and constant mean curvature foliations for isolated systems in general relativity&quot;, Berkeley, CA, June 2-5, 2010 28) Geometry Seminar &quot;Rigidity results on hemispheres&quot;, Institute of Mathematics, Academia Sinica, Taipei, Taiwan, May 28, 2010 29) Columbia Undergraduate Mathematics Society, April 21, 2010 30) SGS XVI Southeast Geometry Seminar, Georgia Institute of Technology, Atlanta, GA, April 12, 2010 31) Johns Hopkins Analysis Seminar, February 22, 2010 32) Workshop on General Relativity and Geometric Analysis, Monash University in
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bronx CC of CUNY</EmployerOrgName>
+<PositionHistory>
+<Title>Seminar</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>33)
+</Description>
+<StartDate>
+<AnyDate>2009-11-03</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Princeton Geometric Analysis Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Seminar 34)
+</Description>
+<StartDate>
+<AnyDate>2009-11-03</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-11-03</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>CUNY Graduate Center Differential Geometry Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>35)
+</Description>
+<StartDate>
+<AnyDate>2009-10-30</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-10-30</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Stony Brook Geometry/Topology Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>36)
+</Description>
+<StartDate>
+<AnyDate>2009-10-27</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-10-27</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Duke Geometry/Topology Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>37)
+</Description>
+<StartDate>
+<AnyDate>2009-10-20</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-10-20</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Columbia Geometry/Analysis Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>38)
+</Description>
+<StartDate>
+<AnyDate>2009-09-29</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-09-29</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sino-France Summer Institute on Geometric Analysis</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>China</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Beijing University
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Workshop in String Theory</EmployerOrgName>
+<PositionHistory>
+<Title>General Relativity</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>40), and Partial Differential Equations at
+</Description>
+<StartDate>
+<AnyDate>2001-07-06</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-07-24</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Harvard University</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>41) UC Irvine Geometry Seminar, May 5, 2009 42) Center of mass and constant mean curvature foliations for isolated systems, Thesis defense, Stanford University, May 1, 2009 43) The Ninth Pacific Rim Geometry Conference, Taiwan
+</Description>
+<StartDate>
+<AnyDate>2001-07-06</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-07-06</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>MIT Geometry Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>2008. 44)
+</Description>
+<StartDate>
+<AnyDate>2008-11-10</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-07-06</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Ohio State University Geometry Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>45)
+</Description>
+<StartDate>
+<AnyDate>2008-11-10</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-10</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Seminar</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>46) Program on Geometry, Analysis, and General Relativity, Institut Mittag- Leffler, October 16, 2008. 47) Existence of foliations by surfaces with constant mean curvature for isolated systems. Geometry Seminar, National Taiwan University, June 2008. 48) Definition of center of mass for isolated systems. Geometry Seminar, National Taiwan University, December 2007. 5 Curriculum Vitae of Lan-Hsuan Huang
+</Description>
+<StartDate>
+<AnyDate>2008-11-04</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-11-04</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Stanford University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2009-06-01</AnyDate>
+</DegreeDate>
+<Comments>Thesis topic: Center of Mass and Constant Mean Curvature Foliations for Isolated</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>National Taiwan University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Curriculum Vitae of Lan-Hsuan Huang</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Max-Planck Institute for Gravitational Physics</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Germany</Region>
+<Municipality>Potsdam</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2010-10-15</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Visiting Positions</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institut Mittag-Leffler</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2008-10-31</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Djursholm, Sweden</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Spring">
+<CompetencyEvidence name ="Spring">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>NSF grant &quot;Geometric Problems in General Relativity&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01 - 2013-01-01</StringDate></Date>
+<Description>AWM-NSF Travel Grant to participate Eighth Joint International</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-10-01</StringDate></Date>
+<Description>Meeting of the AMS and the Sociedad Matematica</Description>
+<IssuingAuthority>Berkeley</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate> - 2010-01-01</StringDate></Date>
+<Description>CA June - 5</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-10-01</StringDate></Date>
+<Description>Institut Mittag-Leffler Scholarship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-07-01</StringDate></Date>
+<Description>Mary V. Sunseri Graduate Fellowship</Description>
+<IssuingAuthority>Stanford University</IssuingAuthority>
+</Achievement>
+</Achievements>
+<References>
+<Reference type="Professional">
+<PersonName>
+<FormattedName>Richard Schoen</FormattedName>
+<GivenName>Richard</GivenName>
+<FamilyName>Schoen</FamilyName>
+</PersonName>
+<PositionTitle>thesis advisor</PositionTitle>
+<ContactMethod>
+<InternetEmailAddress>bray@math.duke.edu</InternetEmailAddress>
+</ContactMethod>
+</Reference>
+</References>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TGFuLUhzdWFuIEh1YW5nDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEphbnVhcnkgMTksIDIwMTINCg0KDQoNCg0KDQpDb250YWN0IEluZm9ybWF0aW9uDQoNCiBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzDQoNCiBDb2x1bWJpYSBVbml2ZXJzaXR5DQoNCiBSb29tIDUwNSwgTUMgNDQzMyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBob25lOiAyMTItODU0LTQ3NjINCg0KIDI5OTAgQnJvYWR3YXkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGYXg6IDIxMi04NTQtODk2Mg0KDQogTmV3IFlvcmssIE5ZIDEwMDI3ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRW1haWw6IGxoaHVhbmdAbWF0aC5jb2x1bWJpYS5lZHUNCg0KIFVTQSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL3d3dy5tYXRoLmNvbHVtYmlhLmVkdS9+bGhodWFuZw0KDQoNCg0KDQoNClBlcnNvbmFsIEluZm9ybWF0aW9uDQoNCiBUYWl3YW5lc2UgQ2l0aXplbi4gVVMgUGVybWFuZW50IFJlc2lkZW50Lg0KDQoNCg0KDQoNClJlc2VhcmNoIEludGVyZXN0cw0KDQogRGlmZmVyZW50aWFsIGdlb21ldHJ5LCBwYXJ0aWFsIGRpZmZlcmVudGlhbCBlcXVhdGlvbnMsIGFuZCBnZW5lcmFsIHJlbGF0aXZpdHkNCg0KDQoNCkVtcGxveW1lbnQNCg0KIENvbHVtYmlhIFVuaXZlcnNpdHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEF1Z3VzdCAyMDA5LXByZXNlbnQNCg0KIFJpdHQgQXNzaXN0YW50IFByb2Zlc3Nvcg0KDQogRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcw0KDQoNCg0KDQoNCkVkdWNhdGlvbg0KDQoNCg0KIFN0YW5mb3JkIFVuaXZlcnNpdHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMDQtSnVuZSAyMDA5DQoNCiDvgqcgICBQaC5ELiBpbiBNYXRoZW1hdGljcw0KDQog74KnICAgVGhlc2lzIHRvcGljOiBDZW50ZXIgb2YgTWFzcyBhbmQgQ29uc3RhbnQgTWVhbiBDdXJ2YXR1cmUgRm9saWF0aW9ucyBmb3IgSXNvbGF0ZWQNCg0KICAgICBTeXN0ZW1zDQoNCiDvgqcgICBBZHZpc29yOiBQcm9mZXNzb3IgUmljaGFyZCBTY2hvZW4NCg0KIE5hdGlvbmFsIFRhaXdhbiBVbml2ZXJzaXR5ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwMC0yMDA0DQoNCiAgICAgQi5TLiBpbiBNYXRoZW1hdGljcw0KDQoNCg0KDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhZSBvZiBMYW4tSHN1YW4gSHVhbmcNCg0KDQoNCg0KDQoNCg0KDQoNClB1YmxpY2F0aW9uIExpc3QNCg0KDQoNCiAxKSBTcGFjZXRpbWUgcG9zaXRpdmUgbWFzcyB0aGVvcmVtIGluIGRpbWVuc2lvbnMgbGVzcyB0aGFuIGVpZ2h0LiAoSm9pbnQgd2l0aA0KDQogICAgTWljaGFlbCBFaWNobWFpciwgRGFuIEEuIExlZSwgYW5kIFJpY2hhcmQgU2NoZW9uKSwgYXJYaXY6MTExMC4yMDg3djENCg0KICAgIFttYXRoLkRHXSwgc3VibWl0dGVkLg0KDQogMikgR2VvbWV0cmljIGluZXF1YWxpdGllcyBhbmQgcmlnaWRpdHkgdGhlb3JlbXMgb24gZXF1YXRvcmlhbCBzcGhlcmVzLiAoSm9pbnQNCg0KICAgIHdpdGggRGFtaW4gV3UpIGFyWGl2OjExMDQuMDQwNiwgc3VibWl0dGVkLg0KDQogMykgSHlwZXJzdXJmYWNlcyB3aXRoIG5vbm5lZ2F0aXZlIHNjYWxhciBjdXJ2YXR1cmUuIChKb2ludCB3aXRoIERhbWluIFd1KQ0KDQogICAgYXJYaXY6MTEwMi41NzQ5LCBzdWJtaXR0ZWQuDQoNCiA0KSBPbiB0aGUgY2VudGVyIG9mIG1hc3MgaW4gZ2VuZXJhbCByZWxhdGl2aXR5LiBBcHBlYXJlZCBpbiB0aGUgUHJvY2VlZGluZ3Mgb2YNCg0KICAgIEZpZnRoIEludGVybmF0aW9uYWwgQ29uZ3Jlc3Mgb2YgQ2hpbmVzZSBNYXRoZW1hdGljaWFucy4NCg0KIDUpIFNwZWNpZnlpbmcgYW5ndWxhciBtb21lbnR1bSBhbmQgY2VudGVyIG9mIG1hc3MgZm9yIHZhY3V1bSBpbml0aWFsIGRhdGENCg0KICAgIHNldHMuIChKb2ludCB3aXRoIFJpY2hhcmQgU2Nob2VuIGFuZCBNdS1UYW8gV2FuZykgQ29tbS4gTWF0aC4gUGh5cy4gMzA2DQoNCiAgICAoMjAxMSksIG5vLiAzLCA3ODUtODAzLg0KDQogNikgU29sdXRpb25zIG9mIHNwZWNpYWwgYXN5bXB0b3RpY3MgdG8gdGhlIEVpbnN0ZWluIGNvbnN0cmFpbnQgZXF1YXRpb25zLiBDbGFzcy4NCg0KICAgIFF1YW50dW0gR3Jhdml0eSAyNyAoMjAxMCksIG5vLiAyNCwgMjQ1MDAyICgxMHBwKS4NCg0KIDcpIFJpZ2lkaXR5IHRoZW9yZW1zIG9uIGhlbWlzcGhlcmVzIGluIG5vbi1wb3NpdGl2ZSBzcGFjZSBmb3Jtcy4gKEpvaW50IHdpdGgNCg0KICAgIERhbWluIFd1KSBDb21tLiBBbmFsLiBHZW9tLiAxOCAoMjAxMCksIG5vLiAyLCAzMzktMzYzLg0KDQogOCkgRm9saWF0aW9ucyBieSBzdGFibGUgc3BoZXJlcyB3aXRoIGNvbnN0YW50IG1lYW4gY3VydmF0dXJlIGZvciBpc29sYXRlZA0KDQogICAgc3lzdGVtcyB3aXRoIGdlbmVyYWwgYXN5bXB0b3RpY3MuIENvbW0uIE1hdGguIFBoeXMuIDMwMCAoMjAxMCksIG5vLiAyLCAzMzEtDQoNCiAgICAzNzMuDQoNCiA5KSBPbiB0aGUgY2VudGVyIG9mIG1hc3Mgb2YgaXNvbGF0ZWQgc3lzdGVtcyB3aXRoIGdlbmVyYWwgYXN5bXB0b3RpY3MuIENsYXNzLg0KDQogICAgUXVhbnR1bSBHcmF2LiAyNiAoMjAwOSkgMDE1MDEyICgyNXBwKS4NCg0KDQoNClZpc2l0aW5nIFBvc2l0aW9ucw0KDQoNCg0KICDvgqcgICBNYXgtUGxhbmNrIEluc3RpdHV0ZSBmb3IgR3Jhdml0YXRpb25hbCBQaHlzaWNzLCBQb3RzZGFtLCBHZXJtYW55LCBTZXB0ZW1iZXIgMTUtDQoNCiAgICAgIE9jdG9iZXIgMTUsIDIwMTANCg0KICDvgqcgICBJbnN0aXR1dCBNaXR0YWctTGVmZmxlciwgRGp1cnNob2xtLCBTd2VkZW4sIFNlcHRlbWJlciAxLU9jdG9iZXIgMzEsIDIwMDgNCg0KDQoNCg0KDQpIb25vcnMNCg0KDQoNCiDvgqcgICAgTlNGIGdyYW50ICJHZW9tZXRyaWMgUHJvYmxlbXMgaW4gR2VuZXJhbCBSZWxhdGl2aXR5Ig0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAxMC0yMDEzDQoNCiAgICAgICgkMTI1LDY0NSkNCg0KIO+CpyAgICBBV00tTlNGIFRyYXZlbCBHcmFudCwgdG8gcGFydGljaXBhdGUgRWlnaHRoIEpvaW50IEludGVybmF0aW9uYWwNCg0KICAgICAgTWVldGluZyBvZiB0aGUgQU1TIGFuZCB0aGUgU29jaWVkYWQgTWF0ZW1hdGljYSwgQmVya2VsZXksICAgICAgICAgIE9jdG9iZXIgMjAwOQ0KDQogICAgICBDQSwgSnVuZSAyLTUsIDIwMTANCg0KIO+CpyAgICBJbnN0aXR1dCBNaXR0YWctTGVmZmxlciBTY2hvbGFyc2hpcCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXV0dW1uIDIwMDgNCg0KIO+CpyAgICBNYXJ5IFYuIFN1bnNlcmkgR3JhZHVhdGUgRmVsbG93c2hpcCBhdCBTdGFuZm9yZCBVbml2ZXJzaXR5ICAgICAgICAgU3VtbWVyIDIwMDcNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGFlIG9mIExhbi1Ic3VhbiBIdWFuZw0KDQoNCg0KDQoNCg0KDQogIO+CpyAgIE5hdGlvbmFsIFRhaXdhbiBVbml2ZXJzaXR5IFByZXNpZGVudGlhbCBBd2FyZCAgICAgICAgICAgICAgICAgICAgICAgIEF1dHVtbiAyMDAzDQoNCiAg74KnICAgRHIuIFd1IENoaWVuLVNoaXVuZyBNZW1vcmlhbCBQcml6ZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3VtbWVyIDIwMDANCg0KDQoNCg0KDQpTZXJ2aWNlcw0KDQoNCg0KICDvgqcgICBPcmdhbml6ZXIgb2YgR2VuZXJhbCBSZWxhdGl2aXR5IFNlbWluYXIgYXQgQ29sdW1iaWEgKDIwMDktcHJlc2VudCkNCg0KICDvgqcgICBPcmdhbml6ZXIgb2YgU3RvbnkgQnJvb2stQ29sdW1iaWEgSm9pbnQgR2VuZXJhbCBSZWxhdGl2aXR5IFNlbWluYXIgKDIwMTAtMjAxMSkNCg0KICDvgqcgICBKb3VybmFsIFJlZmVyZWUgZm9yIENvbW11bmljYXRpb25zIGluIEFuYWx5c2lzIGFuZCBHZW9tZXRyeSwgSm91cm5hbCBvZiBEaWZmZXJlbnRpYWwNCg0KICAgICAgR2VvbWV0cnksIGFuZCBQYWNpZmljIEpvdXJuYWwgb2YgTWF0aGVtYXRpY3MNCg0KICDvgqcgICBSZXZpZXdlciBmb3IgTWF0aCBSZXZpZXdzDQoNCg0KDQoNCg0KVGVhY2hpbmcgRXhwZXJpZW5jZSBhdCBDb2x1bWJpYQ0KDQogIO+CpyAgIEZhbGwgMjAwOTogTGluZWFyIEFsZ2VicmEgJiBSZWFkaW5nIENsYXNzIG9uIEdlbmVyYWwgUmVsYXRpdml0eSB3aXRoIGFuDQoNCiAgICAgIHVuZGVyZ3JhZHVhdGUgc3R1ZGVudA0KDQogIO+CpyAgIFNwcmluZyAyMDEwOiBDYWxjdWx1cyBJICh0d28gc2VjdGlvbnMpDQoNCiAg74KnICAgU3ByaW5nIDIwMTE6IENhbGN1bHVzIEkgJiBDYWxjdWx1cyBJSQ0KDQogIO+CpyAgIEZhbGwgMjAxMTogQ2FsY3VsdXMgSUkgKHR3byBzZWN0aW9ucykNCg0KDQoNCg0KDQpUZWFjaGluZyBFeHBlcmllbmNlIGF0IFN0YW5mb3JkIChhcyBhIFJlY2l0YXRpb24gSW5zdHJ1Y3RvcikNCg0KICDvgqcgICBBdXR1bW4gMjAwNS0yMDA2OiBNYXRoIDUxIExpbmVhciBBbGdlYnJhIGFuZCBNdWx0aXZhcmlhYmxlIENhbGN1bHVzDQoNCiAg74KnICAgV2ludGVyIDIwMDYtMjAwNzogTWF0aCA1MSBMaW5lYXIgQWxnZWJyYSBhbmQgTXVsdGl2YXJpYWJsZSBDYWxjdWx1cw0KDQogIO+CpyAgIFdpbnRlciAyMDA3LTIwMDg6IE1hdGggNTIgTXVsdGl2YXJpYWJsZSBJbnRlZ3JhbCBDYWxjdWx1cw0KDQogIO+CpyAgIFdpbnRlciAyMDA4LTIwMDk6IE1hdGggNTIgTXVsdGl2YXJpYWJsZSBJbnRlZ3JhbCBDYWxjdWx1cw0KDQogIO+CpyAgIFNwcmluZyAyMDA4LTIwMDk6IE1hdGggNTMgT3JkaW5hcnkgRGlmZmVyZW50aWFsIEVxdWF0aW9ucyB3aXRoIExpbmVhciBBbGdlYnJhDQoNCg0KDQoNCg0KSW52aXRlZCBUYWxrcw0KDQogIDEpIFNldmVyYWwgTGVjdHVyZXMgaW4gU3VtbWVyIEdyYWR1YXRlIFdvcmtzaG9wIG9uIE1hdGhlbWF0aWNhbCBHZW5lcmFsIFJlbGF0aXZpdHkNCg0KICAgICBhdCBNU1JJLCBKdWx5IDktMjAsIDIwMTINCg0KICAyKSAyN1RIIEFubnVhbCBHZW9tZXRyeSBGZXN0aXZhbCwgRHVrZSwgQXByaWwgMjctMjksIDIwMTIgKGRlY2xpbmVkKQ0KDQogIDMpIER1a2UgVW5pdmVyc2l0eSAiUG9zaXRpdmUgbWFzcyB0aGVvcmVtcyBhbmQgc2NhbGFyIGN1cnZhdHVyZSBwcm9ibGVtcyIsIEZlYnJ1YXJ5DQoNCiAgICAgMTMsIDIwMTINCg0KICA0KSBVbml2ZXJzaXR5IG9mIFdpc2NvbnNpbi1NYWRpc29uLCBDb2xsb3F1aXVtICJQb3NpdGl2ZSBtYXNzIHRoZW9yZW1zIGFuZCBzY2FsYXINCg0KICAgICBjdXJ2YXR1cmUgcHJvYmxlbXMiLCBGZWJydWFyeSA4LCAyMDEyDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMw0KDQogICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhZSBvZiBMYW4tSHN1YW4gSHVhbmcNCg0KDQoNCg0KDQoNCg0KNSkgVW5pdmVyc2l0eSBvZiBXaXNjb25zaW4tTWFkaXNvbiwgUERFICYgR2VvbWV0cnkgU2VtaW5hciAiSHlwZXJzdXJmYWNlcyB3aXRoDQoNCiAgIG5vbm5lZ2F0aXZlIHNjYWxhciBjdXJ2YXR1cmUiLCBGZWJydWFyeSA3LCAyMDEyDQoNCjYpIFVuaXZlcnNpdHkgb2YgQ29ubmVjdGljdXQsIENvbGxvcXVpdW0gIlBvc2l0aXZlIG1hc3MgdGhlb3JlbXMgYW5kIHNjYWxhciBjdXJ2YXR1cmUNCg0KICAgcHJvYmxlbXMiLCBGZWJydWFyeSAyLCAyMDEyDQoNCjcpIFVuaXZlcnNpdHkgb2YgTm9ydGggQ2Fyb2xpbmEgYXQgQ2hhcGVsIEhpbGwsIENvbGxvcXVpdW0gIlBvc2l0aXZlIG1hc3MgdGhlb3JlbXMgYW5kDQoNCiAgIHNjYWxhciBjdXJ2YXR1cmUgcHJvYmxlbXMiLCBKYW51YXJ5IDMwLCAyMDEyDQoNCjgpIFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhLCBDb2xsb3F1aXVtICJQb3NpdGl2ZSBtYXNzIHRoZW9yZW1zIGFuZCBzY2FsYXIgY3VydmF0dXJlDQoNCiAgIHByb2JsZW1zIiwgSmFudWFyeSAyNiwgMjAxMg0KDQo5KSBKb2hucyBIb3BraW5zIFVuaXZlcnNpdHksICJQb3NpdGl2ZSBtYXNzIHRoZW9yZW1zIGFuZCBzY2FsYXIgY3VydmF0dXJlIHByb2JsZW1zIiwNCg0KICAgSmFudWFyeSAyMywgMjAxMg0KDQoxMCkgVW5pdmVyc2l0eSBvZiBDb2xvcmFkbyBhdCBCb3VsZGVyLCBDb2xsb3F1aXVtICJQb3NpdGl2ZSBtYXNzIHRoZW9yZW1zIGFuZCBzY2FsYXINCg0KICAgIGN1cnZhdHVyZSBwcm9ibGVtcyIsIEphbnVhcnkgMTcsIDIwMTINCg0KMTEpIE9oaW8gU3RhdGUgVW5pdmVyc2l0eSBHZW9tZXRyeSBhbmQgUERFIEpvaW50IFNlbWluYXIgIlNwYWNldGltZSBwb3NpdGl2ZSBtYXNzDQoNCiAgICB0aGVvcmVtIGluIGRpbWVuc2lvbnMgbGVzcyB0aGFuIDgiLCBOb3ZlbWJlciA4LCAyMDExDQoNCjEyKSBNSVQgR2VvbWV0cmljIEFuYWx5c2lzIFNlbWluYXIsIE9jdG9iZXIgMTksIDIwMTENCg0KMTMpIFVuaXZlcnNpdHkgb2YgTWlhbWkgR2VvbWV0cnkgYW5kIFBoeXNpY3MgU2VtaW5hciwgT2N0b2JlciAxMiwgMjAxMQ0KDQoxNCkgRHVrZSBHZW9tZXRyeS9Ub3BvbG9neSBTZW1pbmFyLCBTZXB0ZW1iZXIgMjEsIDIwMTENCg0KMTUpIEFXTSBBbm5pdmVyc2FyeSBDb25mZXJlbmNlIGF0IElDRVJNOiA0MCBZZWFycyBhbmQgQ291bnRpbmc6IEFXTSdzIENlbGVicmF0aW9uDQoNCiAgICBvZiBXb21lbiBpbiBNYXRoZW1hdGljcyAiSHlwZXJzdXJmYWNlcyB3aXRoIG5vbm5lZ2F0aXZlIHNjYWxhciBjdXJ2YXR1cmUiIGluIHRoZQ0KDQogICAgc3BlY2lhbCBzZXNzaW9uIG9uIFJpZW1hbm5pYW4gR2VvbWV0cnksIEJyb3duIFVuaXZlcnNpdHksIFNlcHRlbWJlciAxNy0xOCwgMjAxMQ0KDQoxNikgV29ya3Nob3Agb24gRGlmZmVyZW50aWFsIEdlb21ldHJ5ICJIeXBlcnN1cmZhY2VzIHdpdGggbm9ubmVnYXRpdmUgc2NhbGFyDQoNCiAgICBjdXJ2YXR1cmUiLCBGdWRhbiBVbml2ZXJzaXR5LCBTaGFuZ2hhaSwgQ2hpbmEsIEp1bmUgMjcsIDIwMTENCg0KMTcpIFRvcG9sb2d5L0dlb21ldHJ5IFNlbWluYXIgIlNwYWNldGltZSBwb3NpdGl2ZSBtYXNzIHRoZW9yZW0gaW4gZGltZW5zaW9ucyBsZXNzDQoNCiAgICB0aGFuIDgiLCBDYXBpdGFsIE5vcm1hbCBVbml2ZXJzaXR5LCBCZWlqaW5nLCBDaGluYSwgSnVuZSAyMywgMjAxMQ0KDQoxOCkgQmVpamluZyBTdW1tZXIgUHJvZ3JhbSBpbiBNYXRoZW1hdGljYWwgUmVsYXRpdml0eSAyMDExICJIeXBlcnN1cmZhY2VzIHdpdGgNCg0KICAgIG5vbm5lZ2F0aXZlIHNjYWxhciBjdXJ2YXR1cmUiLCBCZWlqaW5nLCBDaGluYSwgSnVuZSA2LTI1LCAyMDExDQoNCjE5KSBGaWZ0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gQ29tcGxleCBBbmFseXNpcyAmIER5bmFtaWNhbCBTeXN0ZW1zLCBQYWxtDQoNCiAgICBCZWFjaCBIb3RlbCwgQWtrbyAoQWNyZSksIElzcmFlbCwgTWF5IDIyLTI3LCAyMDExDQoNCjIwKSBMYWZheWV0dGUtTGVoaWdoIEdlb21ldHJ5L1RvcG9sb2d5IFNlbWluYXIgIkh5cGVyc3VyZmFjZXMgd2l0aCBub25uZWdhdGl2ZQ0KDQogICAgc2NhbGFyIGN1cnZhdHVyZSIsIExhZmF5ZXR0ZSBDb2xsZWdlLCBQZW5uc3lsdmFuaWEsIE1hcmNoIDI2LCAyMDExDQoNCjIxKSBCcm93biBVbml2ZXJzaXR5IEdlb21ldHJ5L1RvcG9sb2d5IFNlbWluYXIgIkh5cGVyc3VyZmFjZXMgd2l0aCBub25uZWdhdGl2ZQ0KDQogICAgc2NhbGFyIGN1cnZhdHVyZSIsIFByb3ZpZGVuY2UsIE1hcmNoIDE2LCAyMDExDQoNCjIyKSBJQ0NNIDIwMTAgIk9uIHRoZSBjZW50ZXIgb2YgbWFzcyBpbiBnZW5lcmFsIHJlbGF0aXZpdHkiLCBUc2luZ2h1YSBVbml2ZXJzaXR5LCBCZWlqaW5nLA0KDQogICAgRGVjZW1iZXIgMTctMjIsIDIwMTANCg0KMjMpIFdvcmtzaG9wIG9uIEdlb21ldHJpYyBBbmFseXNpcyAiUmlnaWRpdHkgcmVzdWx0cyBmb3IgaHlwZXJzdXJmYWNlcyBpbiB0aGUgc3BoZXJlIiwNCg0KICAgIFpoZWppYW5nIFVuaXZlcnNpdHksIEhhbmd6aG91LCBDaGluYSwgRGVjZW1iZXIgMTQtMTUsIDIwMTANCg0KMjQpIENvbHVtYmlhLVN0b255IEJyb29rIGpvaW50IEdlbmVyYWwgUmVsYXRpdml0eSBTZW1pbmFyICJTcGVjaWZ5aW5nIHRoZSBhbmd1bGFyDQoNCiAgICBtb21lbnR1bSBhbmQgY2VudGVyIG9mIG1hc3MgZm9yIHZhY3V1bSBzcGFjZXRpbWVzIiwgQ29sdW1iaWEgVW5pdmVyc2l0eSwgTmV3DQoNCiAgICBZb3JrLCBOb3ZlbWJlciAxOSwgMjAxMA0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQNCg0KICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YWUgb2YgTGFuLUhzdWFuIEh1YW5nDQoNCg0KDQoNCg0KDQoNCjI1KSBHZW9tZXRyaWMgQW5hbHlzaXMgU2VtaW5hciAiU3BlY2lmeWluZyB0aGUgYW5ndWxhciBtb21lbnR1bSBhbmQgY2VudGVyIG9mIG1hc3MNCg0KICAgIGZvciB2YWN1dW0gc3BhY2V0aW1lcyIsIEFsYmVydC1FaW5zdGVpbi1JbnN0aXR1dCwgR29sbSwgR2VybWFueSwgT2N0b2JlciAxMSwgMjAxMA0KDQoyNikgTWF0aGVtYXRpY2FsIFJlbGF0aXZpdHkgIlNwZWNpZnlpbmcgdGhlIGFuZ3VsYXIgbW9tZW50dW0gYW5kIGNlbnRlciBvZiBtYXNzIGZvcg0KDQogICAgdmFjdXVtIHNwYWNldGltZXMiLCBJQ01TLCBFZGluYnVyZ2gsIFVLLCBTZXB0ZW1iZXIgMS03LCAyMDEwDQoNCjI3KSBFaWdodGggSm9pbnQgSW50ZXJuYXRpb25hbCBNZWV0aW5nIG9mIHRoZSBBTVMgYW5kIHRoZSBTb2NpZWRhZCBNYXRlbcOhdGljYSAiQ2VudGVyDQoNCiAgICBvZiBtYXNzIGFuZCBjb25zdGFudCBtZWFuIGN1cnZhdHVyZSBmb2xpYXRpb25zIGZvciBpc29sYXRlZCBzeXN0ZW1zIGluIGdlbmVyYWwNCg0KICAgIHJlbGF0aXZpdHkiLCBCZXJrZWxleSwgQ0EsIEp1bmUgMi01LCAyMDEwDQoNCjI4KSBHZW9tZXRyeSBTZW1pbmFyICJSaWdpZGl0eSByZXN1bHRzIG9uIGhlbWlzcGhlcmVzIiwgSW5zdGl0dXRlIG9mIE1hdGhlbWF0aWNzLA0KDQogICAgQWNhZGVtaWEgU2luaWNhLCBUYWlwZWksIFRhaXdhbiwgTWF5IDI4LCAyMDEwDQoNCjI5KSBDb2x1bWJpYSBVbmRlcmdyYWR1YXRlIE1hdGhlbWF0aWNzIFNvY2lldHksIEFwcmlsIDIxLCAyMDEwDQoNCjMwKSBTR1MgWFZJIFNvdXRoZWFzdCBHZW9tZXRyeSBTZW1pbmFyLCBHZW9yZ2lhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBBdGxhbnRhLCBHQSwNCg0KICAgIEFwcmlsIDEyLCAyMDEwDQoNCjMxKSBKb2hucyBIb3BraW5zIEFuYWx5c2lzIFNlbWluYXIsIEZlYnJ1YXJ5IDIyLCAyMDEwDQoNCjMyKSBXb3Jrc2hvcCBvbiBHZW5lcmFsIFJlbGF0aXZpdHkgYW5kIEdlb21ldHJpYyBBbmFseXNpcywgTW9uYXNoIFVuaXZlcnNpdHkgaW4NCg0KICAgIE1lbGJvdXJuZSwgQXVzdHJhbGlhLCBKYW51YXJ5IDIyIC0gMjgsIDIwMTAuDQoNCjMzKSBTZW1pbmFyLCBCcm9ueCBDQyBvZiBDVU5ZLCBOb3ZlbWJlciAzLCAyMDA5DQoNCjM0KSBQcmluY2V0b24gR2VvbWV0cmljIEFuYWx5c2lzIFNlbWluYXIsIE9jdG9iZXIgMzAsIDIwMDkNCg0KMzUpIENVTlkgR3JhZHVhdGUgQ2VudGVyIERpZmZlcmVudGlhbCBHZW9tZXRyeSBTZW1pbmFyLCBPY3RvYmVyIDI3LCAyMDA5DQoNCjM2KSBTdG9ueSBCcm9vayBHZW9tZXRyeS9Ub3BvbG9neSBTZW1pbmFyLCBPY3RvYmVyIDIwLCAyMDA5DQoNCjM3KSBEdWtlIEdlb21ldHJ5L1RvcG9sb2d5IFNlbWluYXIsIFNlcHRlbWJlciAyOSwgMjAwOQ0KDQozOCkgQ29sdW1iaWEgR2VvbWV0cnkvQW5hbHlzaXMgU2VtaW5hciwgU2VwdGVtYmVyIDI0LCAyMDA5DQoNCjM5KSAyMDA5IFNpbm8tRnJhbmNlIFN1bW1lciBJbnN0aXR1dGUgb24gR2VvbWV0cmljIEFuYWx5c2lzLCBCZWlqaW5nIFVuaXZlcnNpdHksIENoaW5hLA0KDQogICAgSnVseSA2LUp1bHkgMjQsIDIwMDkNCg0KNDApIFdvcmtzaG9wIGluIFN0cmluZyBUaGVvcnksIEdlbmVyYWwgUmVsYXRpdml0eSwgYW5kIFBhcnRpYWwgRGlmZmVyZW50aWFsIEVxdWF0aW9ucyBhdA0KDQogICAgSGFydmFyZCBVbml2ZXJzaXR5LCBNYXkgMjctMjgsIDIwMDkNCg0KNDEpIFVDIElydmluZSBHZW9tZXRyeSBTZW1pbmFyLCBNYXkgNSwgMjAwOQ0KDQo0MikgQ2VudGVyIG9mIG1hc3MgYW5kIGNvbnN0YW50IG1lYW4gY3VydmF0dXJlIGZvbGlhdGlvbnMgZm9yIGlzb2xhdGVkIHN5c3RlbXMsIFRoZXNpcw0KDQogICAgZGVmZW5zZSwgU3RhbmZvcmQgVW5pdmVyc2l0eSwgTWF5IDEsIDIwMDkNCg0KNDMpIFRoZSBOaW50aCBQYWNpZmljIFJpbSBHZW9tZXRyeSBDb25mZXJlbmNlLCBUYWl3YW4sIERlY2VtYmVyIDEwLTE0LCAyMDA4Lg0KDQo0NCkgTUlUIEdlb21ldHJ5IFNlbWluYXIsIE5vdmVtYmVyIDEwLCAyMDA4Lg0KDQo0NSkgVGhlIE9oaW8gU3RhdGUgVW5pdmVyc2l0eSBHZW9tZXRyeSBTZW1pbmFyLCBOb3ZlbWJlciA0LCAyMDA4Lg0KDQo0NikgU2VtaW5hciwgUHJvZ3JhbSBvbiBHZW9tZXRyeSwgQW5hbHlzaXMsIGFuZCBHZW5lcmFsIFJlbGF0aXZpdHksIEluc3RpdHV0IE1pdHRhZy0NCg0KICAgIExlZmZsZXIsIE9jdG9iZXIgMTYsIDIwMDguDQoNCjQ3KSBFeGlzdGVuY2Ugb2YgZm9saWF0aW9ucyBieSBzdXJmYWNlcyB3aXRoIGNvbnN0YW50IG1lYW4gY3VydmF0dXJlIGZvciBpc29sYXRlZCBzeXN0ZW1zLg0KDQogICAgR2VvbWV0cnkgU2VtaW5hciwgTmF0aW9uYWwgVGFpd2FuIFVuaXZlcnNpdHksIEp1bmUgMjAwOC4NCg0KNDgpIERlZmluaXRpb24gb2YgY2VudGVyIG9mIG1hc3MgZm9yIGlzb2xhdGVkIHN5c3RlbXMuIEdlb21ldHJ5IFNlbWluYXIsIE5hdGlvbmFsIFRhaXdhbg0KDQogICAgVW5pdmVyc2l0eSwgRGVjZW1iZXIgMjAwNy4NCg0KDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA1DQoNCiAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YWUgb2YgTGFuLUhzdWFuIEh1YW5nDQoNCg0KDQoNCg0KDQoNCg0KDQpSZWZlcmVuY2VzDQoNCg0KDQogIFJpY2hhcmQgU2Nob2VuICh0aGVzaXMgYWR2aXNvciksIFN0YW5mb3JkIFVuaXZlcnNpdHkgc2Nob2VuQG1hdGguc3RhbmZvcmQuZWR1DQoNCiAgSHViZXJ0IEJyYXksIER1a2UgVW5pdmVyc2l0eSBicmF5QG1hdGguZHVrZS5lZHUNCg0KICBQYW5hZ2lvdGEgRGFza2Fsb3BvdWxvcywgQ29sdW1iaWEgVW5pdmVyc2l0eSBwZGFza2Fsb0BtYXRoLmNvbHVtYmlhLmVkdQ0KDQogIFBhdHJpY2sgR2FsbGFnaGVyICh0ZWFjaGluZyksIENvbHVtYmlhIFVuaXZlcnNpdHkgcHhnQG1hdGguY29sdW1iaWEuZWR1DQoNCiAgTXUtVGFvIFdhbmcsIENvbHVtYmlhIFVuaXZlcnNpdHkgbXR3YW5nQG1hdGguY29sdW1iaWEuZWR1DQoNCiAgQnJpYW4gV2hpdGUsIFN0YW5mb3JkIFVuaXZlcnNpdHkgd2hpdGVAbWF0aC5zdGFuZm9yZC5lZHUNCg0KDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915250306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

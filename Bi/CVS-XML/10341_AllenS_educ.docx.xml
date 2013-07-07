@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:09 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915310306521"  usageLimitType="allocation" usageLimit="200" currentUsage="35" remainingUsage="165" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Fayetteville State University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>North Carolina State University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>U2hlcnJpY2UgQWxsZW4NCg0KDQoNCkIuUy4sIEVhc3QgQ2Fyb2xpbmEgVW5pdmVyc2l0eQ0KDQpNLlMuLCBGYXlldHRldmlsbGUgU3RhdGUgVW5pdmVyc2l0eQ0KDQpQaC5ELiwgTm9ydGggQ2Fyb2xpbmEgU3RhdGUgVW5pdmVyc2l0eQ==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915310306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

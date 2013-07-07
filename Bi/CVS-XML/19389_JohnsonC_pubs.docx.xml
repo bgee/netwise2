@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:01 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916240306521"  usageLimitType="allocation" usageLimit="200" currentUsage="69" remainingUsage="131" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<Qualifications>
+<Competency name = "Dec">
+<CompetencyEvidence name ="Dec">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pathway">
+<CompetencyEvidence name ="Pathway">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Spring">
+<CompetencyEvidence name ="Spring">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2Fzb255YSBKb2huc29uDQoNCg0KDQpITEgtMjkgcmVndWxhdGVzIG92dWxhdGlvbiBpbiBDLiBlbGVnYW5zIGJ5IHRhcmdldGluZyBnZW5lcyBpbiB0aGUgaW5vc2l0b2wgdHJpcGhvc3BoYXRlIHNpZ25hbGluZyBwYXRod2F5Lg0KDQpXaGl0ZSBBLCBGZWFyb24gQSwgSm9obnNvbiBDTS4NCg0KQmlvbCBPcGVuLiAyMDEyIE1hciAxNTsxKDMpOjI2MS04LiBkb2k6IDEwLjEyNDIvYmlvLjIwMTIwNDYuIEVwdWIgMjAxMiBGZWIgOC4NCg0KUE1JRDoNCg0KMjMyMTM0MTYNCg0KW1B1Yk1lZF0gDQoNCkZyZWUgUE1DIEFydGljbGUNCg0KUmVsYXRlZCBjaXRhdGlvbnMgDQoNCjIuDQoNCk1vZHVsYXRpb24gb2YgZG9wYW1pbmUtZGVwZW5kZW50IGJlaGF2aW9ycyBieSB0aGUgQ2Flbm9yaGFiZGl0aXMgZWxlZ2FucyBPbGlnIGhvbW9sb2cgSExILTE3Lg0KDQpGZWx0b24gQ00sIEpvaG5zb24gQ00uDQoNCkogTmV1cm9zY2kgUmVzLiAyMDExIE9jdDs4OSgxMCk6MTYyNy0zNi4gZG9pOiAxMC4xMDAyL2puci4yMjY5NC4gRXB1YiAyMDExIEp1biAxNy4NCg0KUE1JRDoNCg0KMjE2ODgyOTANCg0KW1B1Yk1lZCAtIGluZGV4ZWQgZm9yIE1FRExJTkVdIA0KDQpSZWxhdGVkIGNpdGF0aW9ucyANCg0KMy4NCg0KTW9sZWN1bGFyIGNoYXJhY3Rlcml6YXRpb24gb2YgdGhlIENhZW5vcmhhYmRpdGlzIGVsZWdhbnMgUkVGLTEgZmFtaWx5IG1lbWJlciwgaGxoLTI5L2hsaC0yOC4NCg0KTWNNaWxsZXIgVEwsIFNpbXMgRCwgTGVlIFQsIFdpbGxpYW1zIFQsIEpvaG5zb24gQ00uDQoNCkJpb2NoaW0gQmlvcGh5cyBBY3RhLiAyMDA3IEphbjsxNzY5KDEpOjUtMTkuIEVwdWIgMjAwNiBEZWMgMjkuDQoNClBNSUQ6DQoNCjE3MjU4MzI3DQoNCltQdWJNZWQgLSBpbmRleGVkIGZvciBNRURMSU5FXSANCg0KUmVsYXRlZCBjaXRhdGlvbnMgDQoNCjQuDQoNCk1pZGRsZS9oaWdoIHNjaG9vbCBzdHVkZW50cyBpbiB0aGUgcmVzZWFyY2ggbGFib3JhdG9yeTogQSBzdW1tZXIgaW50ZXJuc2hpcCBwcm9ncmFtIGVtcGhhc2l6aW5nIHRoZSBpbnRlcmRpc2NpcGxpbmFyeSBuYXR1cmUgb2YgYmlvbG9neS4NCg0KTWNNaWxsZXIgVCwgTGVlIFQsIFNhcm9vcCBSLCBHcmVlbiBULCBKb2huc29uIENNLg0KDQpCaW9jaGVtIE1vbCBCaW9sIEVkdWMuIDIwMDYgTWFyOzM0KDIpOjg4LTkzLiBkb2k6IDEwLjEwMDIvYm1iLjIwMDYuNDk0MDM0MDIwODguDQoNClBNSUQ6DQoNCjIxNjM4NjQ0DQoNCltQdWJNZWRdIA0KDQpSZWxhdGVkIGNpdGF0aW9ucyANCg0KNS4NCg0KTW9sZWN1bGFyIGNoYXJhY3Rlcml6YXRpb24gb2YgSExILTE3LCBhIEMuIGVsZWdhbnMgYkhMSCBwcm90ZWluIHJlcXVpcmVkIGZvciBub3JtYWwgbGFydmFsIGRldmVsb3BtZW50Lg0KDQpNY01pbGxlciBUTCwgSm9obnNvbiBDTS4NCg0KR2VuZS4gMjAwNSBBdWcgMTU7MzU2OjEtMTAuDQoNClBNSUQ6DQoNCjE2MDE0MzIxDQoNCltQdWJNZWQgLSBpbmRleGVkIGZvciBNRURMSU5FXSANCg0KRnJlZSBQTUMgQXJ0aWNsZQ0KDQpSZWxhdGVkIGNpdGF0aW9ucyANCg0KNi4NCg0KSWRlbnRpZnlpbmcgbm92ZWwgaGVsaXgtbG9vcC1oZWxpeCBnZW5lcyBpbiBDYWVub3JoYWJkaXRpcyBlbGVnYW5zIHRocm91Z2ggYSBjbGFzc3Jvb20gZGVtb25zdHJhdGlvbiBvZiBmdW5jdGlvbmFsIGdlbm9taWNzLg0KDQpHcmlmZmluIFYsIE1jTWlsbGVyIFQsIEpvbmVzIEUsIEpvaG5zb24gQ00uDQoNCkNlbGwgQmlvbCBFZHVjLiAyMDAzIFNwcmluZzsyKDEpOjUxLTYyLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916240306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

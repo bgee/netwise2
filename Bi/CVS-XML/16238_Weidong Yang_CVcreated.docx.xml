@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:43 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911230306521"  usageLimitType="allocation" usageLimit="200" currentUsage="57" remainingUsage="143" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr. Weidong Yang</FormattedName>
+<GivenName>Weidong</GivenName>
+<FamilyName>Yang</FamilyName>
+<Affix type="formOfAddress">Dr.</Affix>
+</PersonName>
+</ContactInfo>
+<PersonDescriptors>
+<DemographicDescriptors>
+<MaritalStatus>Single</MaritalStatus>
+</DemographicDescriptors>
+</PersonDescriptors>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Fudan University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Shanghai</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph. D</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Bowling Green State University</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>College of Science &amp; Technology Temple University</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Three-Dimensional Distribution of Transient Interactions in the Nuclear Pore Obtained by Single-Molecule Snapshots Proc</Title>
+<Name role="author">
+<FormattedName>Ma J. and Yang W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Natl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Single-Molecule Imaging of Nuclear Transport J. Vis</Title>
+<Name role="author">
+<FormattedName>Goryaynov A., Sarma A, Ma J. and Yang W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Exp</JournalOrSerialName>
+</Article>
+<Article>
+<Title>L.-C. and Musser S. M. &quot;Single Molecule Measurements of Importin Alpha/Cargo Complex Dissociation at the Nuclear Pore &quot; Proc</Title>
+<Name role="author">
+<FormattedName>Sun, C., Yang, W., Tu</FormattedName>
+</Name>
+<JournalOrSerialName>Natl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Nuclear transport time and efficiency are dependent on importin Ã concentrations&quot;</Title>
+<Name role="author">
+<FormattedName>Yang W. and Musser M. S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Cell Biology</JournalOrSerialName>
+<PageNumber>951-961.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Visualizing single molecules transiting through nuclear pore complexes using narrow-field epifluorescence microscopy&quot;</Title>
+<Name role="author">
+<FormattedName>Yang W. and Musser M. S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Methods</JournalOrSerialName>
+<PageNumber>316-328.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Imaging of single-molecule translocation through nuclear pore complexes&quot; Proc</Title>
+<Name role="author">
+<FormattedName>Yang W., Gelles J. and Musser M. S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Natl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Photoluminescence from High Purity InN and InGaN Nanoparticles Synthesized by Pulsed Discharge&quot;</Title>
+<Name role="author">
+<FormattedName>Wang P. N., Yang W., et al</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>in Focus on Nanotechnology Research</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Synthesis of oxygen-free InN nanoparticles by pulse discharge&quot;</Title>
+<Name role="author">
+<FormattedName>Yang W., Wang P.N., Li F.M. and Cheah K.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nanotechnology</JournalOrSerialName>
+<Volume>13.Ma</Volume>
+<PageNumber>65-68.</PageNumber>
+</Article>
+<Article>
+<Title>Single-Molecule Studies of Nuclear Transport: from One Dimension to Three Dimensions</Title>
+<Name role="author">
+<FormattedName>Goryaynov A., Ma J. and Yang W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Integrative Biology</JournalOrSerialName>
+<PageNumber>10-21.</PageNumber>
+</Article>
+<Article>
+<Title>Calcium-Regulation of Nucleocytoplasmic Transport</Title>
+<Name role="author">
+<FormattedName>Sarma A. and Yang W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Protein &amp; Cell 2:291-302</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Microscopic Observation of the Intercellular Transport of CdTe Quantum Dot Aggregates Through Tunneling-Nanotubes</Title>
+<Name role="author">
+<FormattedName>Mi L., Xiong R., Zhang Y., Li Z., Yang W., Chen J., Wang P</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>JBNB</JournalOrSerialName>
+<PageNumber>172-179.</PageNumber>
+</Article>
+<Article>
+<Title>&apos;&apos;Natively Unfolded&apos;&apos; Nucleoporins in Nucleocytoplasmic Transport: Clustered or Evenly Distributed* Nucleus</Title>
+<Name role="author">
+<FormattedName>Yang W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Goryaynov A</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Three-Dimensional Distribution of Transient Interactions in the Nuclear Pore Obtained by Single-Molecule Snapshots Proc</Title>
+<Name role="author">
+<FormattedName>Ma J. and Yang W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Natl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>L.-C. and Musser S. M. &quot;Single Molecule Measurements of Importin Alpha/Cargo Complex Dissociation at the Nuclear Pore &quot; Proc</Title>
+<Name role="author">
+<FormattedName>Sun, C., Yang, W., Tu</FormattedName>
+</Name>
+<JournalOrSerialName>Natl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Before</Title>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Yang W. and Musser M. S. &quot;Nuclear transport time and efficiency are dependent on importin concentrations&quot; Journal of Cell Biology</JournalOrSerialName>
+<PageNumber>951-961.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Visualizing single molecules transiting through nuclear pore complexes using narrow-field epifluorescence microscopy&quot;</Title>
+<Name role="author">
+<FormattedName>Yang W. and Musser M. S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Methods</JournalOrSerialName>
+<PageNumber>316-328.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Imaging of single-molecule translocation through nuclear pore complexes&quot; Proc</Title>
+<Name role="author">
+<FormattedName>Yang W., Gelles J. and Musser M. S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Natl</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Photoluminescence from High Purity InN and InGaN Nanoparticles Synthesized by Pulsed Discharge&quot;</Title>
+<Name role="author">
+<FormattedName>Wang P. N., Yang W., et al</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>in Focus on Nanotechnology Research</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Synthesis of oxygen-free InN nanoparticles by pulse discharge&quot;</Title>
+<Name role="author">
+<FormattedName>Yang W., Wang P.N., Li F.M. and Cheah K.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nanotechnology</JournalOrSerialName>
+<PageNumber>65-68.</PageNumber>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Data General Nova">
+<CompetencyEvidence name ="Data General Nova">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Distribution">
+<CompetencyEvidence name ="Distribution">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Imaging">
+<CompetencyEvidence name ="Imaging">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Proc">
+<CompetencyEvidence name ="Proc">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Wang">
+<CompetencyEvidence name ="Wang">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIFdlaWRvbmcgWWFuZyANCg0KwqANCg0KUGguIEQuLCBGdWRhbiBVbml2ZXJzaXR5LCBTaGFuZ2hhaSwgQ2hpbmENCg0KDQoNCkJvd2xpbmcgR3JlZW4gU3RhdGUgVW5pdmVyc2l0eQ0KDQoNCg0KQ29sbGVnZSBvZiBTY2llbmNlICYgVGVjaG5vbG9neSAsIFRlbXBsZSBVbml2ZXJzaXR5DQoNCg0KDQoNCg0KUHVibGljYXRpb25zDQoNCg0KDQpNYSBKLiBhbmQgWWFuZyBXLiAoMjAxMCkgVGhyZWUtRGltZW5zaW9uYWwgRGlzdHJpYnV0aW9uIG9mIFRyYW5zaWVudCBJbnRlcmFjdGlvbnMgaW4gdGhlIE51Y2xlYXIgUG9yZSBPYnRhaW5lZCBieSBTaW5nbGUtTW9sZWN1bGUgU25hcHNob3RzLCBQcm9jLiBOYXRsLiBBY2FkLiBTY2kuIFVTQSAoaW4gcHJlc3MpLg0KDQpHb3J5YXlub3YgQS4sIFNhcm1hIEEsIE1hIEouIGFuZCBZYW5nIFcuICgyMDEwKSBTaW5nbGUtTW9sZWN1bGUgSW1hZ2luZyBvZiBOdWNsZWFyIFRyYW5zcG9ydCwgSi4gVmlzLiBFeHAuIChpbiBwcmVzcykuDQoNClN1biwgQy4sIFlhbmcsIFcuLCBUdSwgTC4tQy4gYW5kIE11c3NlciwgUy4gTS4gKDIwMDgpICJTaW5nbGUgTW9sZWN1bGUgTWVhc3VyZW1lbnRzIG9mIEltcG9ydGluIEFscGhhL0NhcmdvIENvbXBsZXggRGlzc29jaWF0aW9uIGF0IHRoZSBOdWNsZWFyIFBvcmUsIiBQcm9jLiBOYXRsLiBBY2FkLiBTY2kuIFVTQSwgMTA1LCA4NjEzLTg2MTguDQoNCllhbmcgVy4gYW5kIE11c3NlciBNLiBTLiAoMjAwNikgIk51Y2xlYXIgdHJhbnNwb3J0IHRpbWUgYW5kIGVmZmljaWVuY3kgYXJlIGRlcGVuZGVudCBvbiBpbXBvcnRpbiDDnyBjb25jZW50cmF0aW9ucyIgSm91cm5hbCBvZiBDZWxsIEJpb2xvZ3ksIDE3NCwgOTUxLTk2MS4NCg0KWWFuZyBXLiBhbmQgTXVzc2VyIE0uIFMuICgyMDA2KSAiVmlzdWFsaXppbmcgc2luZ2xlIG1vbGVjdWxlcyB0cmFuc2l0aW5nIHRocm91Z2ggbnVjbGVhciBwb3JlIGNvbXBsZXhlcyB1c2luZyBuYXJyb3ctZmllbGQgZXBpZmx1b3Jlc2NlbmNlIG1pY3Jvc2NvcHkiIE1ldGhvZHMsIDM5LCAzMTYtMzI4Lg0KDQpZYW5nIFcuLCBHZWxsZXMgSi4gYW5kIE11c3NlciBNLiBTLiAoMjAwNCkgIkltYWdpbmcgb2Ygc2luZ2xlLW1vbGVjdWxlIHRyYW5zbG9jYXRpb24gdGhyb3VnaCBudWNsZWFyIHBvcmUgY29tcGxleGVzIiBQcm9jLiBOYXRsLiBBY2FkLiBTY2kuIFVTQSwgMTAxLCAxMjg4Ny0xMjg5Mi4NCg0KV2FuZyBQLiBOLiwgWWFuZyBXLiwgZXQgYWwuICgyMDA0KSAiUGhvdG9sdW1pbmVzY2VuY2UgZnJvbSBIaWdoIFB1cml0eSBJbk4gYW5kIEluR2FOIE5hbm9wYXJ0aWNsZXMgU3ludGhlc2l6ZWQgYnkgUHVsc2VkIERpc2NoYXJnZSIgaW4gRm9jdXMgb24gTmFub3RlY2hub2xvZ3kgUmVzZWFyY2gsIEV1Z2VuZSBWLiBEaXJvdGUgKEVkaXRvciksIE5vdmEgU2NpZW5jZSBQdWJsaXNoZXIuIENoYXB0ZXIgOCwgMTU1LTE3Mi4NCg0KWWFuZyBXLiwgV2FuZyBQLk4uLCBMaSBGLk0uIGFuZCBDaGVhaCBLLlcuICgyMDAyKSAiU3ludGhlc2lzIG9mIG94eWdlbi1mcmVlIEluTiBuYW5vcGFydGljbGVzIGJ5IHB1bHNlIGRpc2NoYXJnZSIuIE5hbm90ZWNobm9sb2d5LCAxMywgNjUtNjguDQoNCg0KDQoNCg0KMTMuTWEgSi4sIEdvcnlheW5vdiBBLiwgU2FybWEgQS4gYW5kIFlhbmcgVy4gKDIwMTIpIFNlbGYtUmVndWxhdGVkIFZpc2NvdXMgQ2hhbm5lbCBpbiB0aGUgTnVjbGVhciBQb3JlIENvbXBsZXgsIFByb2MuIE5hdGwuIEFjYWQgU2NpLiBVU0EsIDEwOSAsIDczMjYtNzMzMS4NCg0KDQoNCjEyLiBHb3J5YXlub3YgQS4sIE1hIEouIGFuZCBZYW5nIFcuICgyMDEyKSBTaW5nbGUtTW9sZWN1bGUgU3R1ZGllcyBvZiBOdWNsZWFyIFRyYW5zcG9ydDogZnJvbSBPbmUgRGltZW5zaW9uIHRvIFRocmVlIERpbWVuc2lvbnMsIEludGVncmF0aXZlIEJpb2xvZ3kgKENvdmVyKSwgNCwgMTAtMjEuDQoNCg0KDQoxMS4gU2FybWEgQS4gYW5kIFlhbmcgVy4gKDIwMTEpIENhbGNpdW0tUmVndWxhdGlvbiBvZiBOdWNsZW9jeXRvcGxhc21pYyBUcmFuc3BvcnQsIFByb3RlaW4gJiBDZWxsLCAyOjI5MS0zMDIuDQoNCg0KDQoxMC4gTWkgTC4sIFhpb25nIFIuLCBaaGFuZyBZLiwgTGkgWi4sIFlhbmcgVy4sIENoZW4gSi4sIFdhbmcgUC4gKDIwMTEpIE1pY3Jvc2NvcGljIE9ic2VydmF0aW9uIG9mIHRoZSBJbnRlcmNlbGx1bGFyIFRyYW5zcG9ydCBvZiBDZFRlIFF1YW50dW0gRG90IEFnZ3JlZ2F0ZXMgVGhyb3VnaCBUdW5uZWxpbmctTmFub3R1YmVzLiBKQk5CLCAyLCAxNzItMTc5Lg0KDQoNCg0KOS4gWWFuZyBXLiAoMjAxMSkgJydOYXRpdmVseSBVbmZvbGRlZCcnIE51Y2xlb3BvcmlucyBpbiBOdWNsZW9jeXRvcGxhc21pYyBUcmFuc3BvcnQ6IENsdXN0ZXJlZCBvciBFdmVubHkgRGlzdHJpYnV0ZWQ/IE51Y2xldXMsIDIsIDEwLTE2Lg0KDQoNCg0KOC4gR29yeWF5bm92IEEuLCBTYXJtYSBBLCBNYSBKLiBhbmQgWWFuZyBXLiAoMjAxMCkgU2luZ2xlLU1vbGVjdWxlIEltYWdpbmcgb2YgTnVjbGVhciBUcmFuc3BvcnQsIEouIFZpcy4gICBFeHAuIChodHRwOi8vd3d3LmpvdmUuY29tL2luZGV4L0RldGFpbHMuc3RwP0lEPTIwNDApLg0KDQoNCg0KNy4gTWEgSi4gYW5kIFlhbmcgVy4gKDIwMTApIFRocmVlLURpbWVuc2lvbmFsIERpc3RyaWJ1dGlvbiBvZiBUcmFuc2llbnQgSW50ZXJhY3Rpb25zIGluIHRoZSBOdWNsZWFyIFBvcmUgT2J0YWluZWQgYnkgU2luZ2xlLU1vbGVjdWxlIFNuYXBzaG90cywgUHJvYy4gTmF0bC4gQWNhZC4gU2NpLiBVU0EsIDEwNywgNzMwNS03MzEwLg0KDQoNCg0KNi4gU3VuLCBDLiwgWWFuZywgVy4sIFR1LCBMLi1DLiBhbmQgTXVzc2VyLCBTLiBNLiAoMjAwOCkgIlNpbmdsZSBNb2xlY3VsZSBNZWFzdXJlbWVudHMgb2YgSW1wb3J0aW4gQWxwaGEvQ2FyZ28gQ29tcGxleCBEaXNzb2NpYXRpb24gYXQgdGhlIE51Y2xlYXIgUG9yZSwiIFByb2MuIE5hdGwuIEFjYWQuIFNjaS4gVVNBLCAxMDUsIDg2MTMtODYxOC4gDQoNCg0KDQpCZWZvcmUgMjAwNw0KDQoNCg0KNS4gWWFuZyBXLiBhbmQgTXVzc2VyIE0uIFMuICgyMDA2KSAiTnVjbGVhciB0cmFuc3BvcnQgdGltZSBhbmQgZWZmaWNpZW5jeSBhcmUgZGVwZW5kZW50IG9uIGltcG9ydGluICBjb25jZW50cmF0aW9ucyIgSm91cm5hbCBvZiBDZWxsIEJpb2xvZ3ksIDE3NCwgOTUxLTk2MS4NCg0KDQoNCjQuIFlhbmcgVy4gYW5kIE11c3NlciBNLiBTLiAoMjAwNikgIlZpc3VhbGl6aW5nIHNpbmdsZSBtb2xlY3VsZXMgdHJhbnNpdGluZyB0aHJvdWdoIG51Y2xlYXIgcG9yZSBjb21wbGV4ZXMgdXNpbmcgbmFycm93LWZpZWxkIGVwaWZsdW9yZXNjZW5jZSBtaWNyb3Njb3B5IiBNZXRob2RzLCAzOSwgMzE2LTMyOC4NCg0KDQoNCjMuIFlhbmcgVy4sIEdlbGxlcyBKLiBhbmQgTXVzc2VyIE0uIFMuICgyMDA0KSAiSW1hZ2luZyBvZiBzaW5nbGUtbW9sZWN1bGUgdHJhbnNsb2NhdGlvbiB0aHJvdWdoIG51Y2xlYXIgcG9yZSBjb21wbGV4ZXMiIFByb2MuIE5hdGwuIEFjYWQuIFNjaS4gVVNBLCAxMDEsIDEyODg3LTEyODkyLg0KDQoNCg0KMi4gV2FuZyBQLiBOLiwgWWFuZyBXLiwgZXQgYWwuICgyMDA0KSAiUGhvdG9sdW1pbmVzY2VuY2UgZnJvbSBIaWdoIFB1cml0eSBJbk4gYW5kIEluR2FOIE5hbm9wYXJ0aWNsZXMgU3ludGhlc2l6ZWQgYnkgUHVsc2VkIERpc2NoYXJnZSIgaW4gRm9jdXMgb24gTmFub3RlY2hub2xvZ3kgUmVzZWFyY2gsIEV1Z2VuZSBWLiBEaXJvdGUgKEVkaXRvciksIE5vdmEgU2NpZW5jZSBQdWJsaXNoZXIuIENoYXB0ZXIgOCwgMTU1LTE3Mi4NCg0KDQoNCjEuIFlhbmcgVy4sIFdhbmcgUC5OLiwgTGkgRi5NLiBhbmQgQ2hlYWggSy5XLiAoMjAwMikgIlN5bnRoZXNpcyBvZiBveHlnZW4tZnJlZSBJbk4gbmFub3BhcnRpY2xlcyBieSBwdWxzZSBkaXNjaGFyZ2UiLiBOYW5vdGVjaG5vbG9neSwgMTMsIDY1LTY4Lg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911230306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

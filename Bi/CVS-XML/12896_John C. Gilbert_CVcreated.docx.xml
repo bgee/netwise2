@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:21 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913120306521"  usageLimitType="allocation" usageLimit="200" currentUsage="45" remainingUsage="155" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>John C. Gilbert</FormattedName>
+<GivenName>John</GivenName>
+<MiddleName>C.</MiddleName>
+<FamilyName>Gilbert</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>business</Use>
+<Location>office</Location>
+<WhenAvailable>daytime</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (408) 554-4780</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>408</AreaCityCode>
+<SubscriberNumber>554-4780</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Fax>
+<FormattedNumber>+1 (866) 572-9825</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>866</AreaCityCode>
+<SubscriberNumber>572-9825</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>jgilbert@scu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wyoming</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Information</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wyoming</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Yale University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Degrees</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Yale University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>PHD</DegreeName>
+<DegreeDate>
+<AnyDate>1965-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Physical Organic Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>An approach towrd the synthesis of subergogic acid</Title>
+<Name role="author">
+<FormattedName>John C. Gilbert and J. Yin</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Tetrahedron</JournalOrSerialName>
+<PageNumber>5482-5490.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Interconversion of Bicyclo[2.2.1]hept-2-yne and 5-Bicyclo[2.1.1]hexylidenecarbene &quot;J</Title>
+<Name role="author">
+<FormattedName>John C. Gilbert and J. Yin</FormattedName>
+</Name>
+<JournalOrSerialName>Org</JournalOrSerialName>
+<Volume>Chem.2006</Volume>
+<PageNumber>5658-5661.</PageNumber>
+</Article>
+<Article>
+<Title>Experimental Organic Chemistry: A Miniscale &amp; Microscale Approach</Title>
+<Name role="author">
+<FormattedName>JOHN C. GILBERT, and S. F. Martin</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Student Tools</Title>
+<Name role="author">
+<FormattedName>JOHN C. GILBERT, and S. F. Martin</FormattedName>
+</Name>
+<JournalOrSerialName>Web-Based Ancillary</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;The Reaction of Ethene with Cyclopentyne: Concerted vs. Stepwise Mechanism &quot; J. Org</Title>
+<Name role="author">
+<FormattedName>Steven M. Bachrach and JOHN C. GILBERT</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chem</JournalOrSerialName>
+<PageNumber>6357-6364.</PageNumber>
+</Article>
+<Article>
+<Title>Fakhreddine and Matthew L. Karpinski &quot;Facial Selectivity of the Ireland-Claisen Rearrangement of Allylic Esters of 2-Methyl- and 2-Methoxycyclopentanecarboxylates &quot; Tetrahedron</Title>
+<Name role="author">
+<FormattedName>John C. Gilbert, Jiandong Yin, Fatima H</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>&quot;Stereochemistry of the Diels-Alder Reaction of Cyclopentyne &quot; Tetrahedron</Title>
+<Name role="author">
+<FormattedName>JOHN C. GILBERT and D.-R. Hou</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>&quot;An approach toward the synthesis of subergorgic acid &quot; Tetrahedron</Title>
+<Name role="author">
+<FormattedName>JOHN C. GILBERT and J. Yin</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>&quot;Interconversion of Bicyclo[2.2.1]hept-2-yne and 5-Bicyclo[2.1.1]hexylidenecarbene &quot; J. Org</Title>
+<Name role="author">
+<FormattedName>JOHN C. GILBERT and J. Yin</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chem</JournalOrSerialName>
+<PageNumber>5658-5661.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;The Reaction of Ethene with Cyclopentyne: Concerted vs. Stepwise Mechanism &quot; J. Org</Title>
+<Name role="author">
+<FormattedName>Steven M. Bachrach and JOHN C. GILBERT</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chem</JournalOrSerialName>
+<PageNumber>6357-6364.</PageNumber>
+</Article>
+<Article>
+<Title>Fakhreddine and Matthew L. Karpinski &quot;Facial Selectivity of the Ireland-Claisen Rearrangement of Allylic Esters of 2-Methyl- and 2-Methoxycyclopentanecarboxylates &quot; Tetrahedron</Title>
+<Name role="author">
+<FormattedName>JOHN C. GILBERT, Jiandong Yin, Fatima H</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>&quot;Stereochemistry of the Diels-Alder Reaction of Cyclopentyne &quot; Tetrahedron</Title>
+<Name role="author">
+<FormattedName>JOHN C. GILBERT and D.-R. Hou</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Sm9obiBDLiBHaWxiZXJ0DQoNCkNoYWlyDQoNCg0KDQoNCg0KDQoNCg0KDQp1bmRlZmluZWQgDQoNCg0KDQoNCg0KamdpbGJlcnRAc2N1LmVkdQ0KDQpPZmZpY2U6IDQwOC01NTQtNDc4MA0KDQpGYXg6IDg2Ni01NzItOTgyNQ0KDQpEYWx5IFNjaWVuY2UgMjA0DQoNCkRlZ3JlZSBJbmZvcm1hdGlvbg0KDQoNCg0KQi5TLiwgVW5pdmVyc2l0eSBvZiBXeW9taW5nDQoNCk0uUy4sIFBoLkQuLCBZYWxlIFVuaXZlcnNpdHkNCg0KRGVncmVlcw0KDQpQSEQsIDE5NjUsIFlhbGUgVW5pdmVyc2l0eSwgUGh5c2ljYWwgT3JnYW5pYyBDaGVtaXN0cnkNCg0KDQoNClJlc2VhcmNoIEludGVyZXN0cw0KDQoNCg0KT3JnYW5pYyBjaGVtaXN0cnksIHdpdGggc3BlY2lhbCBlbXBoYXNpcyBvbiBzeW50aGV0aWMgbWV0aG9kb2xvZ3kgYW5kIHJlYWN0aXZlIGludGVybWVkaWF0ZXMNCg0KUHVibGljYXRpb25zDQoNCg0KDQpKb2huIEMuIEdpbGJlcnQgYW5kIEouIFlpbi4gIEFuIGFwcHJvYWNoIHRvd3JkIHRoZSBzeW50aGVzaXMgb2Ygc3ViZXJnb2dpYyBhY2lkLiAgVGV0cmFoZWRyb24sIDIwMDgsIDYwLCA1NDgyLTU0OTAuDQoNCg0KDQpKb2huIEMuIEdpbGJlcnQgYW5kIEouIFlpbiwgIkludGVyY29udmVyc2lvbiBvZiBCaWN5Y2xvWzIuMi4xXWhlcHQtMi15bmUgYW5kIDUtQmljeWNsb1syLjEuMV1oZXh5bGlkZW5lY2FyYmVuZSwiSi4gT3JnLiBDaGVtLjIwMDYsIDcyLCA1NjU4LTU2NjEuDQoNCg0KDQpKT0hOIEMuIEdJTEJFUlQsIGFuZCBTLiBGLiBNYXJ0aW4sIEV4cGVyaW1lbnRhbCBPcmdhbmljIENoZW1pc3RyeTogQSBNaW5pc2NhbGUgJiBNaWNyb3NjYWxlIEFwcHJvYWNoLCBCZWxtb250LCBDQTogIFRob21zb24gQnJvb2tzL0NvbGUgMjAwNiwgeHZpKyA5MjcgcHAuDQoNCg0KDQpKT0hOIEMuIEdJTEJFUlQsIGFuZCBTLiBGLiBNYXJ0aW4sIFN0dWRlbnQgVG9vbHMsIFdlYi1CYXNlZCBBbmNpbGxhcnksIEJlbG1vbnQsIENBOiAgVGhvbXNvbiBCcm9va3MvQ29sZSAyMDA2Lg0KDQoNCg0KU3RldmVuIE0uIEJhY2hyYWNoIGFuZCBKT0hOIEMuIEdJTEJFUlQsICJUaGUgUmVhY3Rpb24gb2YgRXRoZW5lIHdpdGggQ3ljbG9wZW50eW5lOiAgQ29uY2VydGVkIHZzLiBTdGVwd2lzZSBNZWNoYW5pc20/LCIgSi4gT3JnLiBDaGVtLiAyMDA0LCA2OSwgNjM1Ny02MzY0Lg0KDQoNCg0KSm9obiBDLiBHaWxiZXJ0LCBKaWFuZG9uZyBZaW4sIEZhdGltYSBILiBGYWtocmVkZGluZSwgYW5kIE1hdHRoZXcgTC4gS2FycGluc2tpLCAiRmFjaWFsIFNlbGVjdGl2aXR5IG9mIHRoZSBJcmVsYW5kLUNsYWlzZW4gUmVhcnJhbmdlbWVudCBvZiBBbGx5bGljIEVzdGVycyBvZiAyLU1ldGh5bC0gYW5kIDItTWV0aG94eWN5Y2xvcGVudGFuZWNhcmJveHlsYXRlcywiIFRldHJhaGVkcm9uIDIwMDQsIDYwLCA1MS02MC4NCg0KDQoNCkpPSE4gQy4gR0lMQkVSVCBhbmQgRC4tUi4gSG91LCAiU3RlcmVvY2hlbWlzdHJ5IG9mIHRoZSBEaWVscy1BbGRlciBSZWFjdGlvbiBvZiBDeWNsb3BlbnR5bmUsIiBUZXRyYWhlZHJvbiAyMDA0LCA2MCwgNDY5LTQ3NC4NCg0KDQoNCkpPSE4gQy4gR0lMQkVSVCBhbmQgSi4gWWluLCAiQW4gYXBwcm9hY2ggdG93YXJkIHRoZSBzeW50aGVzaXMgb2Ygc3ViZXJnb3JnaWMgYWNpZCwiIFRldHJhaGVkcm9uIDIwMDgsIDYwLCA1NDgyLTU0OTAuDQoNCg0KDQpKT0hOIEMuIEdJTEJFUlQgYW5kIEouIFlpbiwgIkludGVyY29udmVyc2lvbiBvZiBCaWN5Y2xvWzIuMi4xXWhlcHQtMi15bmUgYW5kIDUtQmljeWNsb1syLjEuMV1oZXh5bGlkZW5lY2FyYmVuZSwiIEouIE9yZy4gQ2hlbS4gMjAwNiwgNzIsIDU2NTgtNTY2MS4NCg0KDQoNClN0ZXZlbiBNLiBCYWNocmFjaCBhbmQgSk9ITiBDLiBHSUxCRVJULCAiVGhlIFJlYWN0aW9uIG9mIEV0aGVuZSB3aXRoIEN5Y2xvcGVudHluZTogIENvbmNlcnRlZCB2cy4gU3RlcHdpc2UgTWVjaGFuaXNtPywiIEouIE9yZy4gQ2hlbS4gMjAwNCwgNjksIDYzNTctNjM2NC4NCg0KDQoNCkpPSE4gQy4gR0lMQkVSVCwgSmlhbmRvbmcgWWluLCBGYXRpbWEgSC4gRmFraHJlZGRpbmUsIGFuZCBNYXR0aGV3IEwuIEthcnBpbnNraSwgIkZhY2lhbCBTZWxlY3Rpdml0eSBvZiB0aGUgSXJlbGFuZC1DbGFpc2VuIFJlYXJyYW5nZW1lbnQgb2YgQWxseWxpYyBFc3RlcnMgb2YgMi1NZXRoeWwtIGFuZCAyLU1ldGhveHljeWNsb3BlbnRhbmVjYXJib3h5bGF0ZXMsIiBUZXRyYWhlZHJvbiAyMDA0LCA2MCwgNTEtNjAuDQoNCg0KDQpKT0hOIEMuIEdJTEJFUlQgYW5kIEQuLVIuIEhvdSwgIlN0ZXJlb2NoZW1pc3RyeSBvZiB0aGUgRGllbHMtQWxkZXIgUmVhY3Rpb24gb2YgQ3ljbG9wZW50eW5lLCIgVGV0cmFoZWRyb24gMjAwNCwgNjAsIDQ2OS00NzQu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913120306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

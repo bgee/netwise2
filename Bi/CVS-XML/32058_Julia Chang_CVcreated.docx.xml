@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:59 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914101306521"  usageLimitType="allocation" usageLimit="200" currentUsage="96" remainingUsage="104" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr. Julia Chang</FormattedName>
+<GivenName>Julia</GivenName>
+<FamilyName>Chang</FamilyName>
+<Affix type="formOfAddress">Dr.</Affix>
+</PersonName>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Rochester</SchoolName>
+</School>
+<OrganizationUnit>Department of Neurobiology and Anatomy M.S.</OrganizationUnit>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California</SchoolName>
+</School>
+<OrganizationUnit>Irvine Department of Biology with Political Science minor</OrganizationUnit>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Phone</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>the David Geffen UCLA School of Medicine</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Mathern</Municipality>
+</PostalAddress>
+<OrganizationUnit>Department of Neurosurgery.</OrganizationUnit>
+<Degree degreeType="medical">
+<DegreeName>M.D</DegreeName>
+<DegreeMajor>
+<Name>I am a researcher</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>the laboratory of Neurosurgeon, Gary W.</Name>
+</DegreeMinor>
+<Comments>It is our hope that by understanding the mechanisms of infantile epilepsy, new therapeutic approaches to treating infantile epilepsy will be developed.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institution: David Geffen UCLA School of Medicine</SchoolName>
+</School>
+<Degree degreeType="medical">
+<DegreeName>M.D</DegreeName>
+<DegreeMajor>
+<Name>Principal Investigator: Gary Mathern</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Synaptoneurosome micromethod for fractionation of mouse and human brain and primary neuronal cultures</Title>
+<Name role="author">
+<FormattedName>Chang JW, Arnold MM, Rozenbaum A, Caputo A, Schweizer FE, Huynh M, Mathern GW, Sarafian T, and Watson JB</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J Neuroscience Methods</JournalOrSerialName>
+<Volume>211:289-295.</Volume>
+</Article>
+<Article>
+<Title>and Future Instructional Methods and Influencing Factors in Anatomy Instruction in Physical Therapy and Medical Schools in the U.S. J. Allied Health</Title>
+<Name role="author">
+<FormattedName>Gabard, DL, Lowe, DL, and Chang, JW</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>PRESENT</StringDate>
+</PublicationDate>
+<Volume>2012</Volume>
+<PageNumber>53-62.</PageNumber>
+</Article>
+<Article>
+<Title>Enhanced GABAergic network and receptor function in pediatric cortical dysplasia Type IIB compared with Tuberous Sclerosis Complex</Title>
+<Name role="author">
+<FormattedName>Cepeda C, Andre VM, Hauptman JS, Yamazaki I, Huynh MN, Chang JW, Chen JY, Fisher RS, Vinters HV, Levine MS, and Mathern GW</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012 Jan</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Neurobiology of Disease</JournalOrSerialName>
+<Volume>45(1):310-21.</Volume>
+</Article>
+<Article>
+<Title>Infantile spasms-associated microencephaly in tuberous sclerosis complex and cortical dysplasia</Title>
+<Name role="author">
+<FormattedName>Chandra PS, Salamon N, Nguyen ST, Chang JW, Huynh MN, Cepeda C, Leite JP, Neder L, Koh S, Vinters HV, and Mathern GW</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Neurology</JournalOrSerialName>
+<Volume>68:438-445.</Volume>
+</Article>
+<Article>
+<Title>Contralateral hemimicrencephaly and clinical-pathologic correlations in children with hemimegalencephaly</Title>
+<Name role="author">
+<FormattedName>Salamon N, Andres M, Chute DJ, Nguyen ST, Chang JW, Huynh MN, Chandra PS, Andre VM, Cepeda C, Levine MS, Leite JP, Neder L, Vinters HV, and Mathern GW</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Two-dimensional gel analysis of secreted proteins induced by interleukin-1beta in rat astrocytes</Title>
+<Name role="author">
+<FormattedName>Chang, J.W., D.A. Young, P.D. Coleman, and O&apos;Banion MK</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Neurochem Int</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Mini-synaptoneurosomes from human frontal cortex of control and Alzheimer&apos;s disease</Title>
+<Name role="author">
+<FormattedName>Chang, J.W., H.V. Vinters, J.B. Watson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Dendritic MAP mRNAs and Dystrophic neurites</Title>
+<Name role="author">
+<FormattedName>Watson, J.B., J.W. Chang, H.V. Vinters, U.P Devaskar</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Neurochemistry 72:S60</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>Molecular mechanisms underlying infantile epilepsy</Title>
+<Name role="author">
+<FormattedName>Sison CAM, Chang JW, Pedram K, Chander P, Nguyen ST, Huynh MN, Hemb M, Velasco T, and Mathern GW</FormattedName>
+</Name>
+<EventName>Annual Biomedical Research Conference for Minority Students</EventName>
+<ConferenceDate>
+<StringDate>2009</StringDate>
+</ConferenceDate>
+</ConferencePaper>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Physical Therapy">
+<CompetencyEvidence name ="Physical Therapy">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2010-01-15 - 12/31/14</StringDate></Date>
+<Description>NIH/NINDS R01 NS 38992 Pathophysiology of Developing Dysplastic Human Cortex</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-04-01 - 2010-03-31</StringDate></Date>
+<Description>Principal Investigator: Gary W. Mathern M.D NIH-R01 - &quot;Pathophysiology of Developing Dysplastic Human Cortex.&quot;</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIEp1bGlhIENoYW5nLCBQcm9mZXNzb3IsIFBoeXNpY2FsIFRoZXJhcHkNCg0KUGguRC4gVW5pdmVyc2l0eSBvZiBSb2NoZXN0ZXIsIERlcGFydG1lbnQgb2YgTmV1cm9iaW9sb2d5IGFuZCBBbmF0b215DQoNCk0uUy4gVW5pdmVyc2l0eSBvZiBSb2NoZXN0ZXIsIERlcGFydG1lbnQgb2YgTmV1cm9iaW9sb2d5IGFuZCBBbmF0b215DQoNCkIuUy4gVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhLCBJcnZpbmUsIERlcGFydG1lbnQgb2YgQmlvbG9neSB3aXRoIFBvbGl0aWNhbCBTY2llbmNlLCBtaW5vcg0KDQoNCg0KUGhvbmU6IDQxODMvMjk4Mg0KDQpPZmZpY2U6IEgzMjQvQzExOQ0KDQpFLW1haWw6amNoYW5nIEAgbXNtYy5sYS5lZHUNCg0KDQoNCiANCg0KDQoNCk1lbnRvciB0byBQaHlzaWNhbCBUaGVyYXB5IHN0dWRlbnQgcmVzZWFyY2ggcHJvamVjdHMuDQoNClJlc2VhcmNoIG9iamVjdGl2ZXMNCg0KDQoNCkluZmFudGlsZSBlcGlsZXBzeSBpcyBhIGtub3duIG5ldXJvbG9naWNhbCBkaXNvcmRlciBhZmZlY3RpbmcgaW5mYW50cyBhbmQgY2hpbGRyZW4uIEluIGNhc2VzIHdoZXJlIGFudGktZXBpbGVwc3kgZHJ1Z3MgKEFFRHMpIGNhbm5vdCBjb250cm9sIHNlaXp1cmVzLCBjaGlsZHJlbiB3aXRoIHRoZXJhcGV1dGljLXJlc2lzdGFudCBpbmZhbnRpbGUgZXBpbGVwc3kgKHN1Y2ggYXMgY29ydGljYWwgZHlzcGxhc2lhLCB0dWJlcm91cyBzY2xlcm9zaXMgY29tcGxleCwgUmFzbXVzc2Vucywgc3Ryb2tlcyBhbmQgb3RoZXIgcGF0aG9sb2dpZXMpIHJlcXVpcmUgbmV1cm9zdXJnaWNhbCByZXNlY3Rpb25zIG9mIGJyYWluIHRpc3N1ZSB0byBtYW5hZ2UgdGhlIGZyZXF1ZW50IHNlaXp1cmVzLiAgSSBhbSBhIHJlc2VhcmNoZXIgaW4gdGhlIGxhYm9yYXRvcnkgb2YgTmV1cm9zdXJnZW9uLCBHYXJ5IFcuIE1hdGhlcm4sIE0uRC4gYXQgdGhlIERhdmlkIEdlZmZlbiBVQ0xBIFNjaG9vbCBvZiBNZWRpY2luZSwgRGVwYXJ0bWVudCBvZiBOZXVyb3N1cmdlcnkuICBPdXIgcmVzZWFyY2ggZ29hbCBpcyB0byB1c2Ugc3VyZ2ljYWwgcmVzZWN0ZWQgdGlzc3VlIHRvIGRldGVybWluZSBtb2xlY3VsYXIgYW5kIHBhdGhvcGh5c2lvbG9naWNhbCBtZWNoYW5pc21zIHVuZGVybHlpbmcgZXBpbGVwdG9nZW5lc2lzLiAgSXQgaXMgb3VyIGhvcGUgdGhhdCBieSB1bmRlcnN0YW5kaW5nIHRoZSBtZWNoYW5pc21zIG9mIGluZmFudGlsZSBlcGlsZXBzeSwgbmV3IHRoZXJhcGV1dGljIGFwcHJvYWNoZXMgdG8gdHJlYXRpbmcgaW5mYW50aWxlIGVwaWxlcHN5IHdpbGwgYmUgZGV2ZWxvcGVkLg0KDQpQdWJsaWNhdGlvbnMNCg0KDQoNCkNoYW5nIEpXLCBBcm5vbGQgTU0sIFJvemVuYmF1bSBBLCBDYXB1dG8gQSwgU2Nod2VpemVyIEZFLCBIdXluaCBNLCBNYXRoZXJuIEdXLCBTYXJhZmlhbiBULCBhbmQgV2F0c29uIEpCLiBTeW5hcHRvbmV1cm9zb21lIG1pY3JvbWV0aG9kIGZvciBmcmFjdGlvbmF0aW9uIG9mIG1vdXNlIGFuZCBodW1hbiBicmFpbiwgYW5kIHByaW1hcnkgbmV1cm9uYWwgY3VsdHVyZXMuIEogTmV1cm9zY2llbmNlIE1ldGhvZHMsIDIwMTIsIDIxMToyODktMjk1LiANCg0KDQoNCkdhYmFyZCwgREwsIExvd2UsIERMLCBhbmQgQ2hhbmcsIEpXLiBDdXJyZW50IGFuZCBGdXR1cmUgSW5zdHJ1Y3Rpb25hbCBNZXRob2RzIGFuZCBJbmZsdWVuY2luZyBGYWN0b3JzIGluIEFuYXRvbXkgSW5zdHJ1Y3Rpb24gaW4gUGh5c2ljYWwgVGhlcmFweSBhbmQgTWVkaWNhbCBTY2hvb2xzIGluIHRoZSBVLlMuIEouIEFsbGllZCBIZWFsdGggNDEoMik1My02Mi4gMjAxMg0KDQoNCg0KQ2VwZWRhIEMsIEFuZHJlIFZNLCBIYXVwdG1hbiBKUywgWWFtYXpha2kgSSwgSHV5bmggTU4sIENoYW5nIEpXLCBDaGVuIEpZLCBGaXNoZXIgUlMsIFZpbnRlcnMgSFYsIExldmluZSBNUywgYW5kIE1hdGhlcm4gR1cuIEVuaGFuY2VkIEdBQkFlcmdpYyBuZXR3b3JrIGFuZCByZWNlcHRvciBmdW5jdGlvbiBpbiBwZWRpYXRyaWMgY29ydGljYWwgZHlzcGxhc2lhIFR5cGUgSUlCIGNvbXBhcmVkIHdpdGggVHViZXJvdXMgU2NsZXJvc2lzIENvbXBsZXguIE5ldXJvYmlvbG9neSBvZiBEaXNlYXNlLCAyMDEyIEphbjs0NSgxKTozMTAtMjEuIEVwdWI6IDIzIEF1Z3VzdCAyMDExLiBQTUlEOiAyMTg4OTk4MiANCg0KDQoNCkNoYW5kcmEgUFMsIFNhbGFtb24gTiwgTmd1eWVuIFNULCBDaGFuZyBKVywgSHV5bmggTU4sIENlcGVkYSBDLCBMZWl0ZSBKUCwgTmVkZXIgTCwgS29oIFMsIFZpbnRlcnMgSFYsIGFuZCBNYXRoZXJuIEdXLiBJbmZhbnRpbGUgc3Bhc21zLWFzc29jaWF0ZWQgbWljcm9lbmNlcGhhbHkgaW4gdHViZXJvdXMgc2NsZXJvc2lzIGNvbXBsZXggYW5kIGNvcnRpY2FsIGR5c3BsYXNpYS4gTmV1cm9sb2d5LCAyMDA3LCA2ODo0MzgtNDQ1LiANCg0KDQoNClNhbGFtb24gTiwgQW5kcmVzIE0sIENodXRlIERKLCBOZ3V5ZW4gU1QsIENoYW5nIEpXLCBIdXluaCBNTiwgQ2hhbmRyYSBQUywgQW5kcmUgVk0sIENlcGVkYSBDLCBMZXZpbmUgTVMsIExlaXRlIEpQLCBOZWRlciBMLCBWaW50ZXJzIEhWLCBhbmQgTWF0aGVybiBHVy4gQ29udHJhbGF0ZXJhbCBoZW1pbWljcmVuY2VwaGFseSBhbmQgY2xpbmljYWwtcGF0aG9sb2dpYyBjb3JyZWxhdGlvbnMgaW4gY2hpbGRyZW4gd2l0aCBoZW1pbWVnYWxlbmNlcGhhbHkuIEJyYWluLCAyMDA2LCAxMjkoUHQgMik6MzUyLTM2NS4gRXB1YiBOb3ZlbWJlciAxNSwgMjAwNS4gDQoNCg0KDQpDaGFuZywgSi5XLiwgRC5BLiBZb3VuZywgUC5ELiBDb2xlbWFuLCBhbmQgTydCYW5pb24gTUsuIDIwMDEuIFR3by1kaW1lbnNpb25hbCBnZWwgYW5hbHlzaXMgb2Ygc2VjcmV0ZWQgcHJvdGVpbnMgaW5kdWNlZCBieSBpbnRlcmxldWtpbi0xYmV0YSBpbiByYXQgYXN0cm9jeXRlcy4gSi4gTmV1cm9jaGVtIEludC4gTm92OyAzOSg1LTYpOjM0OS01OQ0KDQoNCg0KU2lzb24gQ0FNLCBDaGFuZyBKVywgUGVkcmFtIEssIENoYW5kZXIgUCwgTmd1eWVuIFNULCBIdXluaCBNTiwgSGVtYiBNLCBWZWxhc2NvIFQsIGFuZCBNYXRoZXJuIEdXLiBNb2xlY3VsYXIgbWVjaGFuaXNtcyB1bmRlcmx5aW5nIGluZmFudGlsZSBlcGlsZXBzeS4gQW5udWFsIEJpb21lZGljYWwgUmVzZWFyY2ggQ29uZmVyZW5jZSBmb3IgTWlub3JpdHkgU3R1ZGVudHMgKEFCUkNNUyksIDIwMDkNCg0KDQoNCk5ndXllbiBTVCwgSHV5bmggTU4sIENoYXUgSlksIEFuZHJlIFZNLCBDZXBlZGEgQywgV2F0c29uIEpCLCBWaW50ZXJzIEhWLCBDaGFuZyBKVywgYW5kIE1hdGhlcm4gR1cuIEdsdXRhbWljIGFjaWQgZGVjYXJib3h5bGFzZTY3IG1STkEgZXhwcmVzc2lvbiBpbiBwZWRpYXRyaWMgY29ydGljYWwgZHlzcGxhc2lhIHBhdGllbnRzLiBQcm9ncmFtIE51bWJlcjogNTQ3LjEyLiAyMDA1IEFic3RyYWN0IFZpZXdlci9JdGluZXJhcnkgUGxhbm5lci4gV2FzaGluZ3RvbiwgREM6IFNvY2lldHkgZm9yIE5ldXJvc2NpZW5jZS4gDQoNCg0KDQpPaCBULCBNYXRoZXJuIEcsIEt3aWFrb3dza2kgRCwgVmludGVycyBILCBTYWxhbW9uIE4sIENlcGVkYSBDLCBRaWFvIEosIENoYW5nIEpXLCBIdXluaCBNLCBMZXZpbmUgTSwgV3UgSiBhbmQgUGVkcmFtIEsuIEhvdyBnZW5vdHlwZSBpbmZsdWVuY2VzIGNsaW5pY2FsIGZlYXR1cmVzLCBjZWxsdWxhciBlbGVjdHJvcGh5c2lvbG9neSwgYW5kIG1pY3JvYW5hdG9teSBpbiBwZWRpYXRyaWMgcGF0aWVudHMgd2l0aCB0dWJlcm91cyBzY2xlcm9zaXMgY29tcGxleC4gSiBJbnZlc3RpZ2F0aXZlIE1lZGljaW5lIDU5KDEpOjIwMC0yMDEsIDIwMTENCg0KDQoNCkNoYW5nLCBKLlcuLCBILlYuIFZpbnRlcnMsIEouQi4gV2F0c29uLiAxOTk5LiBNaW5pLXN5bmFwdG9uZXVyb3NvbWVzIGZyb20gaHVtYW4gZnJvbnRhbCBjb3J0ZXggb2YgY29udHJvbCBhbmQgQWx6aGVpbWVyJ3MgZGlzZWFzZS4gU29jLiBOZXVyb3NjaS4gQWJzdHIuIDI1OjU5Mi4NCg0KDQoNCldhdHNvbiwgSi5CLiwgSi5XLiBDaGFuZywgSC5WLiBWaW50ZXJzLCBVLlAgRGV2YXNrYXIuIDE5OTkuIERlbmRyaXRpYyBNQVAgbVJOQXMgYW5kIER5c3Ryb3BoaWMgbmV1cml0ZXMuIEouIE5ldXJvY2hlbWlzdHJ5IDcyOlM2MC4gU3VwcGwuDQoNClJlc2VhcmNoIEdyYW50cw0KDQoNCg0KTklIL05JTkRTICBSMDEgTlMgMzg5OTIgIFBhdGhvcGh5c2lvbG9neSBvZiBEZXZlbG9waW5nIER5c3BsYXN0aWMgSHVtYW4gQ29ydGV4LiAwMS8xNS8xMC0xMi8zMS8xNA0KDQpQcmluY2lwYWwgSW52ZXN0aWdhdG9yOiBHYXJ5IFcuIE1hdGhlcm4sIE0uRA0KDQpOSUgtUjAxIC0gIlBhdGhvcGh5c2lvbG9neSBvZiBEZXZlbG9waW5nIER5c3BsYXN0aWMgSHVtYW4gQ29ydGV4LiIgQXByaWwgMSwgMjAwNS1NYXJjaCAzMSwgMjAxMC4NCg0KSW5zdGl0dXRpb246IERhdmlkIEdlZmZlbiBVQ0xBIFNjaG9vbCBvZiBNZWRpY2luZQ0KDQpQcmluY2lwYWwgSW52ZXN0aWdhdG9yOiBHYXJ5IE1hdGhlcm4sIE0uRC4NCg0KIA0KDQogDQoNCkNvdXJzZXMgUmVjZW50bHkgVGF1Z2h0Og0KDQoNCg0KICAgIEJJTyA1MEEvTCAtIEh1bWFuIEFuYXRvbXkNCg0KICAgIEJJTyA1MEIvTCAtIEh1bWFuIFBoeXNpb2xvZ3kNCg0KICAgIEJJTyAxMTVBL0IgLSBQcmUtUGh5c2ljYWwgVGhlcmFweSByZXNlYXJjaA0KDQogICAgUFQgNDAxIC0gR3Jvc3MgQW5hdG9teQ0KDQogICAgUFQgNDA2IC0gTGlmZXNwYW4gRGV2ZWxvcG1lbnQNCg0KICAgIFBUIDQwNyAtIE5ldXJvc2NpZW5jZQ0KDQogICAgUFQgNDk1QSAtIFJlc2VhcmNoIFZJOiBSZXNlYXJjaCBEZXZlbG9wbWVudCBBDQoNCiAgICBQVCA0OTVCIC0gUmVzZWFyY2ggVklJOiBSZXNlYXJjaCBEZXZlbG9wbWVudCBCDQoNCiAgICBQVCA0OTVDIC0gUmVzZWFyY2ggVklJSTogUmVzZWFyY2ggRGV2ZWxvcG1lbnQgQw==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914101306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

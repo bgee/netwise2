@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:16 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911020306521"  usageLimitType="allocation" usageLimit="200" currentUsage="43" remainingUsage="157" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>West Virginia University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Colorado State University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Ohio State University.</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>V2hpdGUsIFN0ZXBoZW4gQi4sIEFzc29jaWF0ZSBQcm9mZXNzb3Igb2YgQmlvbG9naWNhbCBTY2llbmNlcyAob3JuaXRob2xvZ3ksIHdpbGRsaWZlIGJpb2xvZ3kgYW5kIG1hbmFnZW1lbnQsIGFuaW1hbCBkYW1hZ2UgY29udHJvbCkgKDE5ODEpLiBCUywgV2VzdCBWaXJnaW5pYSBVbml2ZXJzaXR5OyBNUywgQ29sb3JhZG8gU3RhdGUgVW5pdmVyc2l0eTsgUGhELCBPaGlvIFN0YXRlIFVuaXZlcnNpdHkuDQoNCg0KDQoNCg0KV2hpdGUsIFN0ZXBoZW4gQi4sIGFzc29jaWF0ZSBwcm9mZXNzb3IsIGJpb2xvZ3kuDQoNCkIuUy4sIFdlc3QgVmlyZ2luaWEgVW5pdmVyc2l0eTsgDQoNCk0uUy4sIENvbG9yYWRvIFN0YXRlIFVuaXZlcnNpdHk7IA0KDQpQaC5ELiwgT2hpbyBTdGF0ZSBVbml2ZXJzaXR5LiAoMTk4MSk=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911020306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

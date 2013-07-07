@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:15:20 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913153306521"  usageLimitType="allocation" usageLimit="200" currentUsage="127" remainingUsage="73" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dong-Shik Kim</FormattedName>
+<GivenName>Dong-Shik</GivenName>
+<FamilyName>Kim</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>43606-3390</PostalCode>
+<Region>Ohio</Region>
+<Municipality>Toledo</Municipality>
+<DeliveryAddress>
+<AddressLine>3051 Nitschke Hall 1650 N Westwood Ave</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (419) 530-8084</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>419</AreaCityCode>
+<SubscriberNumber>530-8084</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>dong.kim@utoledo.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>The University of Toledo</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>43606-3390</PostalCode>
+<Region>Ohio</Region>
+<Municipality>Toledo</Municipality>
+<DeliveryAddress>
+<AddressLine>3051 Nitschke Hall 1650 N Westwood Ave</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeMajor>
+<Name>Chemical and Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Michigan</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Ann Arbor</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Chemical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Seoul National University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Korea</Region>
+<Municipality>Seoul</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Chemical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Seoul National University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Korea</Region>
+<Municipality>Seoul</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Chemical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>&quot;Modeling of Biomass Plug Development and Propagation in Porous Media &quot; Biotech</Title>
+<JournalOrSerialName>Bioeng</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Effects of pH and Trace Minerals on Long-Term Starvation of Leuconostoc mesenteroides &quot; Appl</Title>
+<JournalOrSerialName>Envir</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Biomass Evolution in Porous Media and Its Effects on Permeability under Starvation Conditions &quot; Biotech</Title>
+<JournalOrSerialName>Bioeng</JournalOrSerialName>
+<Volume>2000</Volume>
+</Article>
+<Article>
+<Title>&quot;The Effects of Biopolymers on Bacterial Morphology and Culturability during Starvation &quot; Appl</Title>
+<JournalOrSerialName>Microbiol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Convective Instability in Packed Beds with Internal Heat Sources and Throughflow &quot; Korean J. Chem</Title>
+<JournalOrSerialName>Eng</JournalOrSerialName>
+<Volume>1998</Volume>
+</Article>
+<Article>
+<Title>&quot;An Experimental Study on Fluid Flow Characteristics of Superposed Porous and Fluid Layers</Title>
+<Name role="author">
+<FormattedName>Korean J</FormattedName>
+</Name>
+<JournalOrSerialName>Chem</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>&quot;Removal of Trihalomethanes Using Granular Activated Carbon &quot; J. Korean Soc</Title>
+<EventName>&quot;Rates and Mechanisms for Modeling Microbial Transport for Bioremediation Systems &quot; Proceedings of In-Situ and On-Site Bioremediation Conference</EventName>
+</ConferencePaper>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RG9uZy1TaGlrIEtpbcKgDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3IgYW5kIFVuZGVyZ3JhZHVhdGUgRGlyZWN0b3INCg0KZG9uZy5raW1AdXRvbGVkby5lZHUNCg0KUGhvbmU6ICsxICg0MTkpIDUzMC04MDg0DQoNCkZheDogKzEgKDQxOSkgNTMwLTgwODYNCg0KVGhlIFVuaXZlcnNpdHkgb2YgVG9sZWRvDQoNCkNoZW1pY2FsIGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIChNUyAzMDUpDQoNCjMwNTEgTml0c2Noa2UgSGFsbA0KDQoxNjUwIE4gV2VzdHdvb2QgQXZlDQoNClRvbGVkbywgT2hpbyA0MzYwNi0zMzkwDQoNCg0KDQoNCg0KRWR1Y2F0aW9uDQoNClBoLkQuIGluIENoZW1pY2FsIEVuZ2luZWVyaW5nLCBVbml2ZXJzaXR5IG9mIE1pY2hpZ2FuLCBBbm4gQXJib3INCg0KTS5TIGluIENoZW1pY2FsIEVuZ2luZWVyaW5nLCBTZW91bCBOYXRpb25hbCBVbml2ZXJzaXR5LCBTZW91bCwgS29yZWENCg0KQi5TLiBpbiBDaGVtaWNhbCBFbmdpbmVlcmluZywgU2VvdWwgTmF0aW9uYWwgVW5pdmVyc2l0eSwgU2VvdWwsIEtvcmVhDQoNCg0KDQpSZXNlYXJjaCBJbnRlcmVzdHMNCg0KSW4gc2l0dSBiaW9yZW1lZGlhdGlvbjogVXNlIG9mIG1pY3JvYmlhbCBtZXRhYm9saXNtIGFuZCBtZXRhYm9saWMgYnlwcm9kdWN0cyBmb3IgZGVncmFkYXRpb24gb2YgdG94aWMgY2hlbWljYWxzLCBtZXRhbHMgYW5kIHJhZGlvbnVjbGlkZXMsIGFuZCBtaXRpZ2F0aW9uIG9mIHByb3BhZ2F0aW9uIG9mIHRoZXNlIGNvbnRhbWluYW50cy4NCg0KQmlvbG9naWNhbCBmaWx0cmF0aW9uOiBJbXByb3ZpbmcgdGhlIGVmZmljYWN5IG9mIGJpb2xvZ2ljYWwgd2F0ZXIgdHJlYXRtZW50IHN5c3RlbXMgZm9yIHJlZHVjaW5nIGh1bWljIGFjaWRzIGFuZCB0b3hpYyBoZWF2eSBtZXRhbHMuDQoNClJlY29tYmluYW50IEROQSB0ZWNobmlxdWUgZm9yIGJpb2ZpbG0gZm9ybWF0aW9uIG1lY2hhbmlzbXM6IFRoZSByZWNvbWJpbmFudCBETkEgZnVzZWQgd2l0aCB0aGUgcmVwb3J0ZXIgZ2VuZSBpcyB1c2VkIHRvIGludmVzdGlnYXRlIHRoZSBiaW9maWxtIGZvcm1hdGlvbiBtZWNoYW5pc20gYXQgYSBtb2xlY3VsYXIgbGV2ZWwuIFRoZSBtZWNoYW5pc20gc3R1ZHkgaGFzIGJlZW4gcGVyZm9ybWVkIGFzIGEgcGFydCBvZiB0aGUgbmV3IHByb2plY3QgdG8gZGV2ZWxvcCBhIG5vdmVsIG1hdGVyaWFsIHRoYXQgcHJldmVudHMgYmlvZmlsbSBmb3JtYXRpb24uDQoNCk1ldGFib2xpYyBwYXRod2F5IGNvbnRyb2w6IE5hbm8tc2NhbGUgaW52ZXN0aWdhdGlvbiBvZiBtZXRhYm9saWMgcGF0aHdheXMgaW4gZmVybWVudGF0aW9uIHJlYWN0aW9ucyBpbiBvcmRlciB0byBzZWxlY3RpdmVseSBpbmNyZWFzZSB0aGUgcmVhY3Rpb24geWllbGQgb2YgYSB0YXJnZXQgYnlwcm9kdWN0Lg0KDQpCaW9wb2x5bWVyIHByb3BlcnR5IGNvbnRyb2w6IFN0dWR5aW5nIGJpb3BvbHltZXIgZ2VsYXRpb24gbWVjaGFuaXNtcyBhbmQga2luZXRpY3MgdG8gZGV0ZXJtaW5lIG1vcmUgZWZmaWNpZW50IG1ldGhvZHMgZm9yIGVzdGFibGlzaGluZyBhIHN0YWJsZSBiaW9sb2dpY2FsbHkgYWN0aXZlIHpvbmUgaW4gaW4gc2l0dSBiaW9yZW1lZGlhdGlvbiBhbmQgYmlvbG9naWNhbCBmaWx0cmF0aW9uLCBhbmQgdG8gY29udHJvbCBiaW9maWxtcyBpbiBpbmR1c3RyaWFsIGFuZCBtZWRpY2FsIHN5c3RlbXMuDQoNCg0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnMNCg0KIk1vZGVsaW5nIG9mIEJpb21hc3MgUGx1ZyBEZXZlbG9wbWVudCBhbmQgUHJvcGFnYXRpb24gaW4gUG9yb3VzIE1lZGlhLCIgQmlvdGVjaC4gQmlvZW5nLiwgd2l0aCBUZXJyaSBTdGV3YXJ0Lg0KDQoiRWZmZWN0cyBvZiBwSCBhbmQgVHJhY2UgTWluZXJhbHMgb24gTG9uZy1UZXJtIFN0YXJ2YXRpb24gb2YgTGV1Y29ub3N0b2MgbWVzZW50ZXJvaWRlcywiIEFwcGwuIEVudmlyLiBNaWNyb2Jpb2wuIDY2KDMpOjk3Ni05ODEgKDIwMDApLCB3aXRoIEguIFNjb3R0IEZvZ2xlci4NCg0KIkJpb21hc3MgRXZvbHV0aW9uIGluIFBvcm91cyBNZWRpYSBhbmQgSXRzIEVmZmVjdHMgb24gUGVybWVhYmlsaXR5IHVuZGVyIFN0YXJ2YXRpb24gQ29uZGl0aW9ucywiIEJpb3RlY2guIEJpb2VuZy4gNjkoMSk6NDctNTYgKDIwMDApLCB3aXRoIEguIFNjb3R0IEZvZ2xlci4NCg0KIlRoZSBFZmZlY3RzIG9mIEJpb3BvbHltZXJzIG9uIEJhY3RlcmlhbCBNb3JwaG9sb2d5IGFuZCBDdWx0dXJhYmlsaXR5IGR1cmluZyBTdGFydmF0aW9uLCIgQXBwbC4gTWljcm9iaW9sLiBCaW90ZWNobm9sLiA1Mig2KTo4MzktODQ0ICgxOTk5KSwgd2l0aCBILiBTY290dCBGb2dsZXIuDQoNCiJDb252ZWN0aXZlIEluc3RhYmlsaXR5IGluIFBhY2tlZCBCZWRzIHdpdGggSW50ZXJuYWwgSGVhdCBTb3VyY2VzIGFuZCBUaHJvdWdoZmxvdywiIEtvcmVhbiBKLiBDaGVtLiBFbmcuIDE1KDMpOjM0MS0zNDQgKDE5OTgpLCB3aXRoIEQuWS4gWW9vbiBhbmQgQy5LLiBDaG9pLg0KDQoiUmF0ZXMgYW5kIE1lY2hhbmlzbXMgZm9yIE1vZGVsaW5nIE1pY3JvYmlhbCBUcmFuc3BvcnQgZm9yIEJpb3JlbWVkaWF0aW9uIFN5c3RlbXMsIiBQcm9jZWVkaW5ncyBvZiBJbi1TaXR1IGFuZCBPbi1TaXRlIEJpb3JlbWVkaWF0aW9uIENvbmZlcmVuY2UgNCg0KTo1NTMtNTU4ICgxOTk3KSwgd2l0aCBELiBNYXVyZXIgYW5kIEguIFNjb3R0IEZvZ2xlci4NCg0KIlJlbW92YWwgb2YgVHJpaGFsb21ldGhhbmVzIFVzaW5nIEdyYW51bGFyIEFjdGl2YXRlZCBDYXJib24sIiBKLiBLb3JlYW4gU29jLiBFbnZpci4gRW5nLiAxNigzKTozNzEtMzc5ICgxOTk0KSwgd2l0aCBKLkouIExpbSBhbmQgWS5TLiBDaG8uDQoNCiJBbiBFeHBlcmltZW50YWwgU3R1ZHkgb24gRmx1aWQgRmxvdyBDaGFyYWN0ZXJpc3RpY3Mgb2YgU3VwZXJwb3NlZCBQb3JvdXMgYW5kIEZsdWlkIExheWVycywgS29yZWFuIEouIENoZW0uIEVuZy4gMTEoMyk6MTkwLTE5NyAoMTk5NCksIHdpdGggQy5LLiBDaG9pLg0KDQoNCg0KUGFnZSB1cGRhdGVkOsKgQXVndXN0IDgsIDIwMTE=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913153306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

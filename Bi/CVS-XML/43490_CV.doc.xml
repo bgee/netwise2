@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:05:37 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912331306521"  usageLimitType="allocation" usageLimit="200" currentUsage="118" remainingUsage="82" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Guiling Wang</FormattedName>
+<GivenName>Guiling</GivenName>
+<FamilyName>Wang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>06269-2037</PostalCode>
+<Region>CT</Region>
+<Municipality>Storrs</Municipality>
+<DeliveryAddress>
+<AddressLine>261 Glenbrook Road U-2037</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (860) 486-5648</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>860</AreaCityCode>
+<SubscriberNumber>486-5648</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>gwang@engr.uconn.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Environmental Engineering Research and Education, University of Connecticut</EmployerOrgName>
+<PositionHistory>
+<Title>Al Geib Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Environmental Engineering Program, University of Connecticut</EmployerOrgName>
+<PositionHistory>
+<Title>Director</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Connecticut</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor, Department of Civil &amp; Environmental Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Assistant Professor, Department of Civil and Environmental
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Assistant Research Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>Engineering Assistant Research Scientist, Goddard Earth Science and
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UMBC &amp; Data Assimilation Office</EmployerOrgName>
+<PositionHistory>
+<Title>Technology Center</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>NASA/GSFC
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Research Associate, Program in Atmospheric &amp; Oceanic Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>and Department of Ecology &amp; Evolutionary Biology, Princeton University
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Environmental Engineering</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Massachusetts Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Research Assistant, Department of Civil and</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Environmental Engineering Research Interests Surface Hydrology, Land Surface Modeling Biosphere-Atmosphere Interactions Ecosystem Dynamics Climate Variability &amp; Climate Changes Climate Impact on Public Health and Food Security Climate Teleconnection &amp; its Application in Hydrological Forecast. Ongoing and Completed Projects External: * Collaborative Research: A pilot project on interactive climate and land use predictions (PI
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF EaSM</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>$790K total, with $470K for UConn) * Collaborative Research: Dynamic vegetation feedback and regional climate prediction in West Africa (PI
+</Description>
+<StartDate>
+<AnyDate>2012-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$520 total, with $446K for UConn) * Ecological impacts from the interactions of climate change, land use change and invasive species (co-PI
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>USDA</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>$450K total, ~$25K for Wang) * Soil moisture-vegetation-precipitation feedback over North America: the search for observational evidence (PI
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NOAA</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$277K) * Understanding the dynamic land-atmosphere system: multiple climate equilibria and climate variability. (PI
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$365K) * Incorporating satellite observations of precipitation intensity into land surface modeling. (PI
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NASA</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$48K) * Response of the land climate system to hydrological and radiative forcing (PI
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NASA/Georgia Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$120K) * Modeling the dynamic root water update and its impact on surface hydrological processes (PI
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NASA</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>$132K) * Role of soil moisture and vegetation feedback in seasonal prediction of precipitation over the Mississippi River Basin (PI
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NOAA</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>information technology</IndustryDescription></OrgIndustry>
+<Description>$242K) Internal: * Understanding and quantifying the impact of climate changes on plant phenology in the U.S. Northeast (PI, Spring 2011, UConn CESE, one GA) * Spatial extrapolation of airborne pollen concentration data based on satellite remote sensing (PI, Spring 2010, UConn CESE, one GA) * Role of hydraulic redistribution in the response of terrestrial ecosystem to projected climate changes in Amazonia (PI, Spring 2009, UConn CESE, one GA) * Exploring the role of vegetation feedback in climate prediction using a regional climate model (PI
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UConn Research Council</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$13436, direct cost)
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Massachusetts Institute of Technology</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Hydroclimatology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tsinghua University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Hydrodynamics and Hydrology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tsinghua University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.E</DegreeName>
+<DegreeDate>
+<AnyDate>1992-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Hydraulic Engineering</Name>
+</DegreeMajor>
+<Comments>Dissertation The Role of Vegetation Dynamics in the Climate of West Africa</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tsinghua University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2010-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Land-Atmosphere Interactions</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tsinghua University</SchoolName>
+</School>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeMajor>
+<Name>Professional Services</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>External Expert, International Food Policy Research Institute Peer reviewer for Proceedings of the National Academy of Sciences</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Journal of Geophysical Research -Biogeosciences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<OrganizationUnit>Faculty Advisor, UConn Chinese</OrganizationUnit>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Advisory Committee, Center for Integrative Geosciences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree>
+<DegreeName>AA</DegreeName>
+<DegreeMajor>
+<Name>Alo</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>the Hydrological Impact of Future Climate-Induced Vegetation Changes.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GL, and Kim YJ</Name>
+</DegreeMajor>
+<Comments>Soil moisture-vegetation-precipitation feedback at the seasonal time scale over North America: Results</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and Wang GL</Name>
+</DegreeMajor>
+<Comments>Modeling the response of terrestrial ecosystem to predicted climate changes.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Representation of sub-grid variability</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>precipitation and canopy water storage and its impact on hydrological processes.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Spring Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Baltimore</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>YJ &amp; Wang DG</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>surface water budget.</Name>
+</DegreeMinor>
+<Comments>Quantifying the strength of soil moisture-precipitation coupling and its sensitivity to changes</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Spring Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Baltimore</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Role of vegetation feedback</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>modifying the response of precipitation to soil moisture initialization.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Towards a robust canopy interception scheme.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>A conceptual modeling study</Name>
+</DegreeMajor>
+<Comments>biosphere-atmosphere interactions and its implications for physically based climate modeling.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>land surface models.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GL</Name>
+</DegreeMajor>
+<Comments>Modeling seasonal vegetation variation and its validation against satellite-based observations.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>JA</DegreeName>
+<DegreeMajor>
+<Name>GL, Eltahir EAB, Foley</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>San Francisco</Municipality>
+</PostalAddress>
+<Degree degreeType="postgraduate">
+<DegreeName>JD</DegreeName>
+<DegreeMajor>
+<Name>the coupled GENESIS-IBIS model.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="postgraduate">
+<DegreeName>JD</DegreeName>
+<DegreeMajor>
+<Name>GL, Chern</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="postgraduate">
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GL, and six coauthors</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="postgraduate">
+<DegreeMajor>
+<Name>Holocene using a zonally symmetric biosphere-atmosphere model ZonalBAM</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="postgraduate">
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GL, Eltahir EAB</Name>
+</DegreeMajor>
+<Comments>Deterioration of the natural ecosystem induced by the man-made land cover changes: the importance of vegetation dynamics</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="postgraduate">
+<DegreeMajor>
+<Name>Biosphere-atmosphere interactions</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Spring Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Boston</Municipality>
+</PostalAddress>
+<Degree degreeType="postgraduate">
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GL, Eltahir EAB</Name>
+</DegreeMajor>
+<Comments>Development of a zonally symmetric model to study biosphere-atmosphere interactions</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="postgraduate">
+<DegreeDate>
+<AnyDate>1994-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>San Fransisco</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<Degree degreeType="postgraduate">
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>GL, Eltahir EAB</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>AGU Fall Meeting</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+</PostalAddress>
+<Degree degreeType="postgraduate">
+<DegreeMajor>
+<Name>the dynamics of droughts and floods over</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<LicensesAndCertifications>
+<LicenseOrCertification>
+<Name>Presented to the CCSM Land Working Group Meeting at Boulder Colorado</Name>
+</LicenseOrCertification>
+<LicenseOrCertification>
+<Name>Presented to the CCSM Land Working Group Meeting at Breckenridge, Colorado  * Wang GL, and five coauthors 2002</Name>
+</LicenseOrCertification>
+</LicensesAndCertifications>
+<PublicationHistory>
+<Article>
+<Title>(* indicates papers coauthored with my students)</Title>
+<Name role="author">
+<FormattedName>Mei R, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>II: Journal Articles</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Vegetation dynamics during the transition season as the cause for low frequency variability of precipitation in central South America</Title>
+<Name role="author">
+<FormattedName>Wang GL, Sun SS, Mei R</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Feedback parameter: What does it tell us* Manuscript in preparation for Journal of Climate</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Changes in precipitation seasonality in West Africa predicted by RegCM3 and the impact of dynamic vegetation feedback</Title>
+<Name role="author">
+<FormattedName>Wang GL, Alo CC</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>International Journal of Geophysics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Hydrological trend in the Yangtze River Basin based on observations and distributed hydrological modeling</Title>
+<Name role="author">
+<FormattedName>Gao B, Wang GL, Yang DW</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Hydrology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Mechanisms of precipitation variability in the Bolivian Altiplano</Title>
+<Name role="author">
+<FormattedName>Thibeault J, Seth A, and Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Observational evidence for the impact of large scale oceanic forcing and local soil moisture conditions on warm-season precipitation in the United States</Title>
+<Name role="author">
+<FormattedName>Mei R, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<Issue>Journal of Hydrometeorology in press</Issue>
+</Article>
+<Article>
+<Title>Diagnosing the equilibrium state of a coupled global biosphere-atmosphere model</Title>
+<Name role="author">
+<FormattedName>Sun SS, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>JGR- Atmospheres</JournalOrSerialName>
+<Volume>doi:10.1029/2010JD015224</Volume>
+</Article>
+<Article>
+<Title>Droughts hydraulic redistribution and their impact on plant composition in the Amazon forests</Title>
+<Name role="author">
+<FormattedName>Wang GL, Alo CA, Mei R, Sun SS</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Assessing the potential hydrological impacts of hydraulic redistribution in Amazonia using a numerical modeling approach</Title>
+<Name role="author">
+<FormattedName>Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Role of vegetation dynamics in regional climate predictions over western Africa</Title>
+<Name role="author">
+<FormattedName>Alo CA, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Climate Dynamics</JournalOrSerialName>
+<PageNumber>907-922</PageNumber>
+</Article>
+<Article>
+<Title>Response of isoprene emission to ambient CO2 changes and implications for global budgets</Title>
+<Name role="author">
+<FormattedName>Heald CL, Wilkinson MJ, Monsoon RK, Alo CA, Wang GL, Guenther A</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Global Change Biology</JournalOrSerialName>
+<PageNumber>1127-1140</PageNumber>
+</Article>
+<Article>
+<Title>Impact of sub-grid variability of precipitation and canopy water storage on hydrological processes in a coupled land-atmosphere model</Title>
+<Name role="author">
+<FormattedName>Wang DG, Wang GL, Anagnostou EN</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Climate Dynamics</JournalOrSerialName>
+<Volume>32</Volume>
+<PageNumber>649-662</PageNumber>
+</Article>
+<Article>
+<Title>Effects of sub-grid variability of precipitation and canopy water storage on climate model simulations of water cycle in Europe</Title>
+<Name role="author">
+<FormattedName>Wang DG, Anagnostou EN, and Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Advances in Geosciences</JournalOrSerialName>
+<PageNumber>49-53.</PageNumber>
+</Article>
+<Article>
+<Title>Hydrological impact of the potential future vegetation response to climate changes projected by</Title>
+<Name role="author">
+<FormattedName>Alo C, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Comparing the ability of a genetic algorithm based clustering analysis and a physically based dynamic vegetation model to predict vegetation distribution Journal of Geophysical Research - Biogeosciences</JournalOrSerialName>
+<Volume>8</Volume>
+</Article>
+<Article>
+<Title>Potential future changes of the terrestrial ecosystem based on climate projections by eight general circulation models</Title>
+<Name role="author">
+<FormattedName>Alo C, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Geophysical Research - Biogeosciences</JournalOrSerialName>
+<Volume>doi:10.1029/2007JG000528.</Volume>
+</Article>
+<Article>
+<Title>Modeling the dynamic root water uptake and its hydrological impact at the Reserva Jaru site in Amazonia J. Geophys</Title>
+<Name role="author">
+<FormattedName>Zheng Z, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Validation of canopy hydrological schemes in land surface models</Title>
+<Name role="author">
+<FormattedName>Wang DG, Wang GL, Anagnostou EN</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Hydrology</JournalOrSerialName>
+<PageNumber>308-318</PageNumber>
+</Article>
+<Article>
+<Title>Impact of initial soil moisture anomalies on subsequent precipitation over North America</Title>
+<Name role="author">
+<FormattedName>Kim YJ, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Hydrometeorology</JournalOrSerialName>
+<Volume>8</Volume>
+<PageNumber>513-533</PageNumber>
+</Article>
+<Article>
+<Title>Impact of vegetation feedback on the response of precipitation to antecedent soil moisture anomalies over North America</Title>
+<Name role="author">
+<FormattedName>Kim YJ, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Hydrometeorology</JournalOrSerialName>
+<Volume>8</Volume>
+<PageNumber>534-550</PageNumber>
+</Article>
+<Article>
+<Title>Towards a robust canopy hydrology scheme with precipitation sub-grid variability</Title>
+<Name role="author">
+<FormattedName>Wang DG, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Hydrometeorology</JournalOrSerialName>
+<Volume>8</Volume>
+<PageNumber>439-446</PageNumber>
+</Article>
+<Article>
+<Title>Quantifying the strength of soil moisture-precipitation coupling and its sensitivity to changes in surface water budget</Title>
+<Name role="author">
+<FormattedName>Wang GL, Kim YJ, Wang DG</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Hydrometeorology</JournalOrSerialName>
+<Volume>8</Volume>
+<PageNumber>551-570</PageNumber>
+</Article>
+<Article>
+<Title>The effect of sub-grid precipitation variability on the water balance and flux exchange processes resolved at climate scale: The European region contrasted to Africa and Amazon rainforests</Title>
+<Name role="author">
+<FormattedName>Wang DG, Anagnostou EN, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Advances in Geosciences</JournalOrSerialName>
+<PageNumber>269-274</PageNumber>
+</Article>
+<Article>
+<Title>Treatment of undercanopy turbulence in land models</Title>
+<Name role="author">
+<FormattedName>Zeng XB, Dickinson RE, Barlage M, Dai YJ, Wang GL, Oleson K</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Climate</JournalOrSerialName>
+<PageNumber>5086-5094</PageNumber>
+</Article>
+<Article>
+<Title>Agricultural drought in a future climate: results from fifteen global climate models participating in the Inter-governmental Panel for Climate Change&apos;s 4th Assessment</Title>
+<Name role="author">
+<FormattedName>Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Climate Dynamics</JournalOrSerialName>
+<PageNumber>739-753</PageNumber>
+</Article>
+<Article>
+<Title>Use of satellite-based precipitation observation in improving the parameterization of canopy hydrological processes in land surface models</Title>
+<Name role="author">
+<FormattedName>Wang DG, Wang GL, Anagnostou EN</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Hydrometeorology</JournalOrSerialName>
+<PageNumber>745-763</PageNumber>
+</Article>
+<Article>
+<Title>Modeling seasonal vegetation variation and its validation against Moderate Resolution Imaging Spectroradiometer observations over North America</Title>
+<Name role="author">
+<FormattedName>Kim Y, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>JGR - Atmospheres</JournalOrSerialName>
+<Volume>doi:10.1029/2004JD005436.</Volume>
+</Article>
+<Article>
+<Title>&quot;A conceptual modeling study on biosphere-atmosphere interactions and its implications for physically based climate modeling&quot;</Title>
+<Name role="author">
+<FormattedName>Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Climate</JournalOrSerialName>
+<Volume>17(13</Volume>
+<PageNumber>2572-2583</PageNumber>
+</Article>
+<Article>
+<Title>Delayed impact of NAO on vegetation productivity in Asia</Title>
+<Name role="author">
+<FormattedName>Wang GL, You LZ</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Geophysical Research Letters</JournalOrSerialName>
+<Volume>L12210</Volume>
+</Article>
+<Article>
+<Title>Decadal variability of rainfall in the Sahel: results from the coupled GENESIS-IBIS atmosphere-biosphere model</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir EAB, Foley JA, Pollard D, Levis S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Climate Dynamics</JournalOrSerialName>
+<Volume>22(6-7</Volume>
+<PageNumber>625-637</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Climate Change</Title>
+<Name role="author">
+<FormattedName>Wang GL, Schimel DS</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Climate Modes and Climate Impacts&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Reassessing the impact of North Atlantic Oscillation on the sub-Saharan vegetation productivity</Title>
+<Name role="author">
+<FormattedName>Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Global Change Biology</JournalOrSerialName>
+<Volume>9(4</Volume>
+<PageNumber>493-499</PageNumber>
+</Article>
+<Article>
+<Title>Regime Shifts in the Sahara and Sahel: Interactions between Ecological and Climatic Systems in Northern Africa</Title>
+<Name role="author">
+<FormattedName>Foley JA, Coe MT, Scheffer M, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecosystems</JournalOrSerialName>
+<PageNumber>524-539</PageNumber>
+</Article>
+<Article>
+<Title>Irizarry-Ortiz MM</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir EAB</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Role of the biosphere in the mid-Holocene climate of West Africa Journal of Geophysical Research - Atmospheres</JournalOrSerialName>
+<Volume>108</Volume>
+</Article>
+<Article>
+<Title>Response of the biosphere-atmosphere system in West Africa to CO2 concentration changes</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir EAB</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Global Change Biology</JournalOrSerialName>
+<PageNumber>1169-1182</PageNumber>
+</Article>
+<Article>
+<Title>EAB 2000a: Modeling the biosphere-atmosphere system: the impact of the sub-grid variability in rainfall interception</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Climate</JournalOrSerialName>
+<Volume>No.16</Volume>
+<PageNumber>2887-2899</PageNumber>
+</Article>
+<Article>
+<Title>EAB 2000b: The role of ecosystem dynamics in enhancing the low-frequency variability of the Sahel rainfall</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>EAB 2000c: Ecosystem dynamics and the Sahel drought</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir</FormattedName>
+</Name>
+<JournalOrSerialName>Geophysical Research Letters</JournalOrSerialName>
+<Volume>No.6</Volume>
+<PageNumber>795-798</PageNumber>
+</Article>
+<Article>
+<Title>EAB 2000d: Biosphere-atmosphere interactions over West Africa</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>EAB 2000d: Biosphere-atmosphere interactions over West Africa</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Use of ENSO information in the medium- to long-range forecasting of the Nile flood</Title>
+<Name role="author">
+<FormattedName>Wang GL, Eltahir EAB</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Climate</JournalOrSerialName>
+<Volume>No.6</Volume>
+<PageNumber>1726-1737</PageNumber>
+</Article>
+<Article>
+<Title>Eltahir EAB</Title>
+<Name role="author">
+<FormattedName>Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Nilometers</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The Study on Hydro-Dynamic Model of Deposition in Sewage Stabilized Ponds</Title>
+<Name role="author">
+<FormattedName>Yang MQ, Wang GL, Zhen FR</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1997</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Sediment Research</JournalOrSerialName>
+<Volume>No.4</Volume>
+<PageNumber>30-36</PageNumber>
+</Article>
+<Article>
+<Title>Formulas for incipient motion of mud with different densities</Title>
+<Name role="author">
+<FormattedName>Yang MQ, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>International Journal of Sediment Research</JournalOrSerialName>
+<Volume>No.1</Volume>
+<PageNumber>34-42</PageNumber>
+</Article>
+<Article>
+<Title>The incipient motion for cohesive fine sediments</Title>
+<Name role="author">
+<FormattedName>Yang MQ, Wang GL</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1995</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Basic Science and Engineering</JournalOrSerialName>
+<Volume>No.1</Volume>
+<PageNumber>99-109</PageNumber>
+</Article>
+<Article>
+<Title>Invited Seminars/Lectures at Institutions</Title>
+<Name role="author">
+<FormattedName>Short Course</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Land-Atmosphere Interactions&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;On the hydrological and ecological impact of hydraulic redistribution&quot;</Title>
+<JournalOrSerialName>Departmental of Civil &amp; Environmental Engineering University of Illinois-Urbana-Champagne</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Role of land surface dynamics in precipitation variability at sub-seasonal to decadal time scales&quot;</Title>
+<Name role="author">
+<FormattedName>Lamont</FormattedName>
+</Name>
+<JournalOrSerialName>Earth Observatory</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;On the hydrological and ecological impact of hydraulic redistribution&quot;</Title>
+<Name role="author">
+<FormattedName>NASA/GSFC</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>January 2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>&quot;Dynamic vegetation: the ecohydrological perspectives&quot;</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Response of the terrestrial ecosystem to global changes and its impact on surface hydrological processes&quot;</Title>
+<JournalOrSerialName>Department of Marine Sciences</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;A conceptual modeling study on biosphere-atmosphere interactions and its implications for physically based climate modeling&quot;</Title>
+</Article>
+<Article>
+<Title>&quot;Terrestrial biosphere-atmosphere interactions&quot;</Title>
+<JournalOrSerialName>Department of Civil and Environmental Engineering University of Connecticut</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Terrestrial biosphere-atmosphere interactions: the hydrological perspective&quot;</Title>
+<JournalOrSerialName>Department of Civil and Environmental Engineering</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Behavior of the fully coupled biosphere-atmosphere system and its implications on climate prediction&quot;</Title>
+<JournalOrSerialName>Climate and Global Dynamics Division</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Rainfall variability in Sahel: importance of vegetation-climate interactions&quot;</Title>
+<JournalOrSerialName>Department of Geological Sciences University of Texas at Austin</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Vegetation Dynamics and the Rainfall Variability Over Sahel&quot;</Title>
+<JournalOrSerialName>Hydrological Sciences Branch</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;The role of vegetation dynamics in regulating the variability of the Sahel rainfall&quot;</Title>
+<JournalOrSerialName>Department of Civil</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Two-way biosphere-atmosphere interactions over West Africa - Multiple climate equilibria and climate transition&quot;</Title>
+<Name role="author">
+<FormattedName>Carbon</FormattedName>
+</Name>
+<JournalOrSerialName>Modeling Consortium</JournalOrSerialName>
+</Article>
+<Book>
+<Title>I: Book Chapters</Title>
+<Name role="author">
+<FormattedName>Wang GL, Jenkins GS</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<Abstract>Holton J Pyle J Curry J (eds.) 633-640. Academic Press London UK</Abstract>
+</Book>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<StartDate><StringDate>2011-03-01</StringDate></StartDate>
+<EventName>(Invited and Contributed) * &quot;Dynamic vegetation feedback and regional climate prediction in West Africa&quot; International Conference on Regional Climate Downscaling Experiment</EventName>
+<EventType>conference</EventType>
+<Location>Trieste Italy</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2010-06-23</StringDate></StartDate>
+<EventName>Wang GL &quot;Assessing the potential hydrological and ecological impact of plant hydraulic redistribution in the Amazon region&quot; the 2nd Hydrology delivers Earth System Science to Society conference (INVITED Keynote)</EventName>
+<EventType>conference</EventType>
+<Location>Tokyo Japan</Location>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Forecast">
+<CompetencyEvidence name ="Forecast" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Public Health">
+<CompetencyEvidence name ="Public Health" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Satellite">
+<CompetencyEvidence name ="Satellite" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Security">
+<CompetencyEvidence name ="Security" lastUsed="2014-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Spring">
+<CompetencyEvidence name ="Spring" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Wang">
+<CompetencyEvidence name ="Wang" lastUsed="2011-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>American Geophysical Union</Name>
+</Association>
+<Association>
+<Name>American Meteorological Society</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q3VycmljdWx1bSBWaXRhZQ0KR3VpbGluZyBXYW5nDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3INCkRpcmVjdG9yLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIFByb2dyYW0NCkRlcGFydG1lbnQgb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcgJg0KQ2VudGVyIGZvciBFbnZpcm9ubWVudGFsIFNjaWVuY2VzIGFuZCBFbmdpbmVlcmluZw0KVW5pdmVyc2l0eSBvZiBDb25uZWN0aWN1dA0KMjYxIEdsZW5icm9vayBSb2FkLCBVLTIwMzcNClN0b3JycywgQ1QgMDYyNjktMjAzNw0KRW1haWw6IGd3YW5nQGVuZ3IudWNvbm4uZWR1DQpQaG9uZTogODYwLTQ4Ni01NjQ4DQoNCkVkdWNhdGlvbg0KTWFzc2FjaHVzZXR0cyBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgUGguRC4gaW4gSHlkcm9jbGltYXRvbG9neSwgMjAwMCANClRzaW5naHVhIFVuaXZlcnNpdHksIE0uUy4gaW4gSHlkcm9keW5hbWljcyBhbmQgSHlkcm9sb2d5LCAxOTk1DQpUc2luZ2h1YSBVbml2ZXJzaXR5LCBCLkUuLCBIeWRyYXVsaWMgRW5naW5lZXJpbmcsIDE5OTINCg0KRGlzc2VydGF0aW9uDQpUaGUgUm9sZSBvZiBWZWdldGF0aW9uIER5bmFtaWNzIGluIHRoZSBDbGltYXRlIG9mIFdlc3QgQWZyaWNhDQoNClByb2Zlc3Npb25hbCBFeHBlcmllbmNlDQoyMDA5LTIwMTE6IEFsIEdlaWIgQXNzb2NpYXRlIFByb2Zlc3NvciBpbiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIFJlc2VhcmNoIGFuZCBFZHVjYXRpb24sIFVuaXZlcnNpdHkgb2YgQ29ubmVjdGljdXQNCjIwMDkgLSBQcmVzZW50OiBEaXJlY3RvciwgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZyBQcm9ncmFtLCBVbml2ZXJzaXR5IG9mIENvbm5lY3RpY3V0DQoyMDA4IC0gUHJlc2VudDogQXNzb2NpYXRlIFByb2Zlc3NvciwgRGVwYXJ0bWVudCBvZiBDaXZpbCAmIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIA0KVW5pdmVyc2l0eSBvZiBDb25uZWN0aWN1dA0KMjAwMyAtIDIwMDg6IEFzc2lzdGFudCBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgDQpFbmdpbmVlcmluZywgVW5pdmVyc2l0eSBvZiBDb25uZWN0aWN1dA0KMjAwMSAtIDIwMDI6IEFzc2lzdGFudCBSZXNlYXJjaCBTY2llbnRpc3QsIEdvZGRhcmQgRWFydGggU2NpZW5jZSBhbmQgDQpUZWNobm9sb2d5IENlbnRlciwgVU1CQyAmIERhdGEgQXNzaW1pbGF0aW9uIE9mZmljZSwgTkFTQS9HU0ZDDQoyMDAwIC0gMjAwMTogUmVzZWFyY2ggQXNzb2NpYXRlLCBQcm9ncmFtIGluIEF0bW9zcGhlcmljICYgT2NlYW5pYyBTY2llbmNlcyANCmFuZCBEZXBhcnRtZW50IG9mIEVjb2xvZ3kgJiBFdm9sdXRpb25hcnkgQmlvbG9neSwgUHJpbmNldG9uIFVuaXZlcnNpdHkNCjE5OTUgLSAyMDAwOiBHcmFkdWF0ZSBSZXNlYXJjaCBBc3Npc3RhbnQsIERlcGFydG1lbnQgb2YgQ2l2aWwgYW5kIA0KRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgTWFzc2FjaHVzZXR0cyBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neQ0KDQpSZXNlYXJjaCBJbnRlcmVzdHMNClN1cmZhY2UgSHlkcm9sb2d5LCBMYW5kIFN1cmZhY2UgTW9kZWxpbmc7IEJpb3NwaGVyZS1BdG1vc3BoZXJlIEludGVyYWN0aW9uczsgDQpFY29zeXN0ZW0gRHluYW1pY3M7IENsaW1hdGUgVmFyaWFiaWxpdHkgJiBDbGltYXRlIENoYW5nZXM7IA0KQ2xpbWF0ZSBJbXBhY3Qgb24gUHVibGljIEhlYWx0aCBhbmQgRm9vZCBTZWN1cml0eTsNCkNsaW1hdGUgVGVsZWNvbm5lY3Rpb24gJiBpdHMgQXBwbGljYXRpb24gaW4gSHlkcm9sb2dpY2FsIEZvcmVjYXN0Lg0KDQoNCg0KDQpPbmdvaW5nIGFuZCBDb21wbGV0ZWQgUHJvamVjdHMgDQoNCkV4dGVybmFsOg0KDQoqIENvbGxhYm9yYXRpdmUgUmVzZWFyY2g6IEEgcGlsb3QgcHJvamVjdCBvbiBpbnRlcmFjdGl2ZSBjbGltYXRlIGFuZCBsYW5kIHVzZSBwcmVkaWN0aW9ucyAoUEksIDIwMTEtMjAxNCwgTlNGIEVhU00sICQ3OTBLIHRvdGFsLCB3aXRoICQ0NzBLIGZvciBVQ29ubikNCiogQ29sbGFib3JhdGl2ZSBSZXNlYXJjaDogRHluYW1pYyB2ZWdldGF0aW9uIGZlZWRiYWNrIGFuZCByZWdpb25hbCBjbGltYXRlIHByZWRpY3Rpb24gaW4gV2VzdCBBZnJpY2EgKFBJLCAyMDExLTIwMTQsIE5TRiwgJDUyMCB0b3RhbCwgd2l0aCAkNDQ2SyBmb3IgVUNvbm4pDQoqIEVjb2xvZ2ljYWwgaW1wYWN0cyBmcm9tIHRoZSBpbnRlcmFjdGlvbnMgb2YgY2xpbWF0ZSBjaGFuZ2UsIGxhbmQgdXNlIGNoYW5nZSBhbmQgaW52YXNpdmUgc3BlY2llcyAoY28tUEksIDIwMDgtMjAxMiwgVVNEQSwgJDQ1MEsgdG90YWwsIH4kMjVLIGZvciBXYW5nKQ0KKiBTb2lsIG1vaXN0dXJlLXZlZ2V0YXRpb24tcHJlY2lwaXRhdGlvbiBmZWVkYmFjayBvdmVyIE5vcnRoIEFtZXJpY2E6IHRoZSBzZWFyY2ggZm9yIG9ic2VydmF0aW9uYWwgZXZpZGVuY2UgKFBJLCAyMDA4LTIwMTEsIE5PQUEsICQyNzdLKQ0KKiBVbmRlcnN0YW5kaW5nIHRoZSBkeW5hbWljIGxhbmQtYXRtb3NwaGVyZSBzeXN0ZW06IG11bHRpcGxlIGNsaW1hdGUgZXF1aWxpYnJpYSBhbmQgY2xpbWF0ZSB2YXJpYWJpbGl0eS4gKFBJLCAyMDA1LTIwMTAsIE5TRiwgJDM2NUspDQoqIEluY29ycG9yYXRpbmcgc2F0ZWxsaXRlIG9ic2VydmF0aW9ucyBvZiBwcmVjaXBpdGF0aW9uIGludGVuc2l0eSBpbnRvIGxhbmQgc3VyZmFjZSBtb2RlbGluZy4gKFBJLCAyMDA1LTIwMDcsIE5BU0EsICQ0OEspDQoqIFJlc3BvbnNlIG9mIHRoZSBsYW5kIGNsaW1hdGUgc3lzdGVtIHRvIGh5ZHJvbG9naWNhbCBhbmQgcmFkaWF0aXZlIGZvcmNpbmcgKFBJLCAyMDA0LTIwMDcsIE5BU0EvR2VvcmdpYSBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgJDEyMEspDQoqIE1vZGVsaW5nIHRoZSBkeW5hbWljIHJvb3Qgd2F0ZXIgdXBkYXRlIGFuZCBpdHMgaW1wYWN0IG9uIHN1cmZhY2UgaHlkcm9sb2dpY2FsIHByb2Nlc3NlcyAoUEksIDIwMDQtMjAwNywgTkFTQSwgJDEzMkspDQoqIFJvbGUgb2Ygc29pbCBtb2lzdHVyZSBhbmQgdmVnZXRhdGlvbiBmZWVkYmFjayBpbiBzZWFzb25hbCBwcmVkaWN0aW9uIG9mIHByZWNpcGl0YXRpb24gb3ZlciB0aGUgTWlzc2lzc2lwcGkgUml2ZXIgQmFzaW4gKFBJLCAyMDAzLTIwMDcsIE5PQUEsICQyNDJLKSANCg0KSW50ZXJuYWw6DQoNCiogVW5kZXJzdGFuZGluZyBhbmQgcXVhbnRpZnlpbmcgdGhlIGltcGFjdCBvZiBjbGltYXRlIGNoYW5nZXMgb24gcGxhbnQgcGhlbm9sb2d5IGluIHRoZSBVLlMuIE5vcnRoZWFzdCAoUEksIFNwcmluZyAyMDExLCBVQ29ubiBDRVNFLCBvbmUgR0EpDQoqIFNwYXRpYWwgZXh0cmFwb2xhdGlvbiBvZiBhaXJib3JuZSBwb2xsZW4gY29uY2VudHJhdGlvbiBkYXRhIGJhc2VkIG9uIHNhdGVsbGl0ZSByZW1vdGUgc2Vuc2luZyAoUEksIFNwcmluZyAyMDEwLCBVQ29ubiBDRVNFLCBvbmUgR0EpIA0KKiBSb2xlIG9mIGh5ZHJhdWxpYyByZWRpc3RyaWJ1dGlvbiBpbiB0aGUgcmVzcG9uc2Ugb2YgdGVycmVzdHJpYWwgZWNvc3lzdGVtIHRvIHByb2plY3RlZCBjbGltYXRlIGNoYW5nZXMgaW4gQW1hem9uaWEgKFBJLCBTcHJpbmcgMjAwOSwgVUNvbm4gQ0VTRSwgb25lIEdBKSANCiogRXhwbG9yaW5nIHRoZSByb2xlIG9mIHZlZ2V0YXRpb24gZmVlZGJhY2sgaW4gY2xpbWF0ZSBwcmVkaWN0aW9uIHVzaW5nIGEgcmVnaW9uYWwgY2xpbWF0ZSBtb2RlbCAoUEksIDIwMDctMjAwOCwgVUNvbm4gUmVzZWFyY2ggQ291bmNpbCwgJDEzNDM2LCBkaXJlY3QgY29zdCkNCg0KQ291cnNlcyBUYXVnaHQgDQpBdCBVQ29ubjoNCiBHcmFkdWF0ZTogIEh5ZHJvY2xpbWF0b2xvZ3kgKFNwcmluZyAyMDAzLCAyMDA1LCAyMDA3LCAyMDA5KSwgDQpFY29oeWRyb2xvZ3kgKFNwcmluZyAyMDA0LCAyMDA2LCAyMDA4KQ0KVW5kZXJncmFkdWF0ZTogRW5naW5lZXJpbmcgSHlkcm9sb2d5IChGYWxsIDIwMDMsIDIwMDQsIDIwMDUpLCANCkZsdWlkIE1lY2hhbmljcyAoRmFsbCAyMDA2LCAyMDA3LCAyMDA4LCAyMDA5KSwgDQpFbnZpcm9ubWVudGFsIERlYmF0ZSAoU3ByaW5nIDIwMDYpLA0KICBGb3VuZGF0aW9ucyBvZiBFbmdpbmVlcmluZyAoU3ByaW5nIDIwMDgsIDIwMDkpDQpBdCBUc2luZ2h1YSBVbml2ZXJzaXR5OiANCkdyYWR1YXRlOiAgTGFuZC1BdG1vc3BoZXJlIEludGVyYWN0aW9ucyAoU3VtbWVyLCAyMDEwKQ0KICAgICAgICAgICAgICANClByb2Zlc3Npb25hbCBTZXJ2aWNlcw0KICAgICAgIEFzc29jaWF0ZSBFZGl0b3IgKDIwMDQgLSAyMDEwKSwgSm91cm5hbCBvZiBHZW9waHlzaWNhbCBSZXNlYXJjaCAtQmlvZ2Vvc2NpZW5jZXMgDQogICAgICAgRXh0ZXJuYWwgRXhwZXJ0LCBJbnRlcm5hdGlvbmFsIEZvb2QgUG9saWN5IFJlc2VhcmNoIEluc3RpdHV0ZQ0KICAgICAgIFBlZXIgcmV2aWV3ZXIgZm9yIFByb2NlZWRpbmdzIG9mIHRoZSBOYXRpb25hbCBBY2FkZW15IG9mIFNjaWVuY2VzLCANCkdlb3BoeXNpY2FsIFJlc2VhcmNoIExldHRlcnMsIA0KSm91cm5hbCBvZiBDbGltYXRlLCANCkNsaW1hdGUgRHluYW1pY3MsDQpFYXJ0aCBJbnRlcmFjdGlvbnMsDQpXYXRlciBSZXNvdXJjZXMgUmVzZWFyY2gsIA0KSW50ZXJuYXRpb25hbCBKb3VybmFsIG9mIENsaW1hdG9sb2d5LCANCkpvdXJuYWwgb2YgR2VvcGh5c2ljYWwgUmVzZWFyY2ggLSBBdG1vc3BoZXJlcywgDQpKb3VybmFsIG9mIEh5ZHJvbWV0ZW9yb2xvZ3ksDQpCaW9nZW9zY2llbmNlcywgDQpDbGltYXRpYyBDaGFuZ2UsIA0KQXRtb3NwaGVyaWMgUmVzZWFyY2gsDQpBZHZhbmNlcyBpbiBBdG1vc3BoZXJpYyBSZXNlYXJjaA0KSm91cm5hbCBvZiBIeWRyb2xvZ3kNCiAgICAgICBQcm9wb3NhbHMgcmV2aWV3ZXIgZm9yIE5TRiwgTk9BQSwgTkFTQSwgDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTmF0dXJhbCBFbnZpcm9ubWVudCBSZXNlYXJjaCBDb3VuY2lsIChVSyksIGFuZCANCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJc3JhZWwgQmluYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb247DQogICAgICAgTlNGIFJldmlldyBQYW5lbHMsIDIwMDYsIDIwMTANCiAgICAgICBNZW1iZXIsIE5DQVIgQ2xpbWF0ZSBTeXN0ZW0gTW9kZWwgTGFuZCBXb3JraW5nIEdyb3VwDQoNClNlcnZpY2VzIGF0IFVDb25uDQogICAgICAgIEZhY3VsdHkgQWR2aXNvcnkgQ29tbWl0dGVlLCBDZW50ZXIgZm9yIEludGVncmF0aXZlIEdlb3NjaWVuY2VzDQpGYWN1bHR5IEFkdmlzb3IsIFVDb25uIENoaW5lc2UgVW5kZXJncmFkdWF0ZSBTdHVkZW50cyBBc3NvY2lhdGlvbg0KIENFRSBXUkVFIFRlY2huaWNhbCBHcm91cCBDb29yZGluYXRvcg0KIFZhcmlvdXMgRGVwYXJ0bWVudGFsIENvbW1pdHRlZXMNCg0KUHJvZmVzc2lvbmFsIE1lbWJlcnNoaXANCkFtZXJpY2FuIEdlb3BoeXNpY2FsIFVuaW9uIA0KQW1lcmljYW4gTWV0ZW9yb2xvZ2ljYWwgU29jaWV0eQ0KDQpQdWJsaWNhdGlvbnMgSTogQm9vayBDaGFwdGVycw0KKiBXYW5nIEdMLCBKZW5raW5zIEdTLCAyMDAzOiAiRGVzZXJ0IGFuZCBEZXNlcnRpZmljYXRpb24iLCBFbmN5Y2xvcGVkaWEgb2YgQXRtb3NwaGVyaWMgU2NpZW5jZXMsIEhvbHRvbiBKLCBQeWxlIEosIEN1cnJ5IEogKGVkcy4pLCA2MzMtNjQwLiBBY2FkZW1pYyBQcmVzcywgTG9uZG9uLCBVSw0KDQpQdWJsaWNhdGlvbnMgSUk6IEpvdXJuYWwgQXJ0aWNsZXMgKCogaW5kaWNhdGVzIHBhcGVycyBjb2F1dGhvcmVkIHdpdGggbXkgc3R1ZGVudHMpDQoNCiogKk1laSBSLCBXYW5nIEdMLCAyMDExOiBMYWdnZWQgY29ycmVsYXRpb24gYXMgYW4gaW5kaWNhdG9yIGZvciBzb2lsIG1vaXN0dXJlLXByZWNpcGl0YXRpb24gY291cGxpbmcgaW4gdGhlIFVuaXRlZCBTdGF0ZXM6IENvbXBhcmlzb24gYmV0d2VlbiBtb2RlbHMgYW5kIHJlLWFuYWx5c2lzIGRhdGEuIE1hbnVzY3JpcHQgaW4gcHJlcGFyYXRpb24sIGZvciBKb3VybmFsIG9mIEh5ZHJvbWV0ZW9yb2xvZ3kgDQoqICpTdW4gU1MsIFdhbmcgR0wsIDIwMTE6IEZlZWRiYWNrIHBhcmFtZXRlcjogV2hhdCBkb2VzIGl0IHRlbGwgdXM/IE1hbnVzY3JpcHQgaW4gcHJlcGFyYXRpb24sIGZvciBKb3VybmFsIG9mIENsaW1hdGUgDQoqICpXYW5nIEdMLCBTdW4gU1MsIE1laSBSLCAyMDExOiBWZWdldGF0aW9uIGR5bmFtaWNzIGR1cmluZyB0aGUgdHJhbnNpdGlvbiBzZWFzb24gYXMgdGhlIGNhdXNlIGZvciBsb3cgZnJlcXVlbmN5IHZhcmlhYmlsaXR5IG9mIHByZWNpcGl0YXRpb24gaW4gY2VudHJhbCBTb3V0aCBBbWVyaWNhLiBHZW9waHlzaWNhbCBSZXNlYXJjaCBMZXR0ZXJzLCBzdWJtaXR0ZWQgIA0KKiAqV2FuZyBHTCwgQWxvIENDLCAyMDExOiBDaGFuZ2VzIGluIHByZWNpcGl0YXRpb24gc2Vhc29uYWxpdHkgaW4gV2VzdCBBZnJpY2EgcHJlZGljdGVkIGJ5IFJlZ0NNMyBhbmQgdGhlIGltcGFjdCBvZiBkeW5hbWljIHZlZ2V0YXRpb24gZmVlZGJhY2suIEludGVybmF0aW9uYWwgSm91cm5hbCBvZiBHZW9waHlzaWNzLCBTcGVjaWFsIElzc3VlIG9uICJBZHZhbmNlcyBpbiBDbGltYXRlIFByb2Nlc3NlcywgRmVlZGJhY2tzLCBWYXJpYWJpbGl0eSwgYW5kIENoYW5nZSBmb3IgdGhlIFdlc3QgQWZyaWNhIENsaW1hdGUgU3lzdGVtIi4NCiogKkdhbyBCLCBXYW5nIEdMLCBZYW5nIERXLCAyMDExOiBIeWRyb2xvZ2ljYWwgdHJlbmQgaW4gdGhlIFlhbmd0emUgUml2ZXIgQmFzaW4gYmFzZWQgb24gb2JzZXJ2YXRpb25zIGFuZCBkaXN0cmlidXRlZCBoeWRyb2xvZ2ljYWwgbW9kZWxpbmcuIFN1Ym1pdHRlZCB0byBKb3VybmFsIG9mIEh5ZHJvbG9neQ0KKiBUaGliZWF1bHQgSiwgU2V0aCBBLCBhbmQgV2FuZyBHTCwgMjAxMTogTWVjaGFuaXNtcyBvZiBwcmVjaXBpdGF0aW9uIHZhcmlhYmlsaXR5IGluIHRoZSBCb2xpdmlhbiBBbHRpcGxhbm86IFByZXNlbnQgYW5kIGZ1dHVyZS4gU3VibWl0dGVkIHRvIEludGVybmF0aW9uYWwgSm91cm5hbCBvZiBDbGltYXRvbG9neQ0KKiAqTWVpIFIsIFdhbmcgR0wsIDIwMTE6IE9ic2VydmF0aW9uYWwgZXZpZGVuY2UgZm9yIHRoZSBpbXBhY3Qgb2YgbGFyZ2Ugc2NhbGUgb2NlYW5pYyBmb3JjaW5nIGFuZCBsb2NhbCBzb2lsIG1vaXN0dXJlIGNvbmRpdGlvbnMgb24gd2FybS1zZWFzb24gcHJlY2lwaXRhdGlvbiBpbiB0aGUgVW5pdGVkIFN0YXRlcy4gSm91cm5hbCBvZiBIeWRyb21ldGVvcm9sb2d5LCBpbiBwcmVzcyAgDQoqICpTdW4gU1MsIFdhbmcgR0wsIDIwMTE6IERpYWdub3NpbmcgdGhlIGVxdWlsaWJyaXVtIHN0YXRlIG9mIGEgY291cGxlZCBnbG9iYWwgYmlvc3BoZXJlLWF0bW9zcGhlcmUgbW9kZWwuIEpHUi0gQXRtb3NwaGVyZXMsIDExNiwgRDA5MTA4LCBkb2k6MTAuMTAyOS8yMDEwSkQwMTUyMjQNCiogKldhbmcgR0wsIEFsbyBDQSwgTWVpIFIsIFN1biBTUywgMjAxMTogRHJvdWdodHMsIGh5ZHJhdWxpYyByZWRpc3RyaWJ1dGlvbiwgYW5kIHRoZWlyIGltcGFjdCBvbiBwbGFudCBjb21wb3NpdGlvbiBpbiB0aGUgQW1hem9uIGZvcmVzdHMuICBQbGFudCBFY29sb2d5LCAyMTIsIDY2My02NzMsIERPSTogMTAuMTAwNy9zMTEyNTgtMDEwLTk4NjAtNA0KKiBXYW5nIEdMLCAyMDExOiBBc3Nlc3NpbmcgdGhlIHBvdGVudGlhbCBoeWRyb2xvZ2ljYWwgaW1wYWN0cyBvZiBoeWRyYXVsaWMgcmVkaXN0cmlidXRpb24gaW4gQW1hem9uaWEgdXNpbmcgYSBudW1lcmljYWwgbW9kZWxpbmcgYXBwcm9hY2guIFdhdGVyIFJlc291cmNlcyBSZXNlYXJjaCwgNDcsIFcwMjUyOCwgZG9pOjEwLjEwMjkvMjAxMFdSMDA5NjAxLg0KKiAqQWxvIENBLCBXYW5nIEdMLCAyMDEwOiBSb2xlIG9mIHZlZ2V0YXRpb24gZHluYW1pY3MgaW4gcmVnaW9uYWwgY2xpbWF0ZSBwcmVkaWN0aW9ucyBvdmVyIHdlc3Rlcm4gQWZyaWNhLiBDbGltYXRlIER5bmFtaWNzLCAzNSwgOTA3LTkyMiwgRE9JOiAxMC4xMDA3L3MwMDM4My0wMTAtMDc0NC16DQoqICpNZWkgUiwgV2FuZyBHTCwgMjAxMDogUmFpbiBmb2xsb3dzIHRoZSBsb2dnaW5nIGluIEFtYXpvbj8gSW50ZXJwcmV0YXRpb24gb2YgcmVzdWx0cyBmcm9tIHRoZSBDQU0zLUNMTTMgbW9kZWwuIENsaW1hdGUgRHluYW1pY3MsIDM0LCA5ODMtOTk2LCBET0k6MTAuMTAwNy9zMDAzODItMDA5LTA1OTIteA0KKiBIZWFsZCBDTCwgV2lsa2luc29uIE1KLCBNb25zb29uIFJLLCBBbG8gQ0EsIFdhbmcgR0wsIEd1ZW50aGVyIEEsIDIwMDk6IFJlc3BvbnNlIG9mIGlzb3ByZW5lIGVtaXNzaW9uIHRvIGFtYmllbnQgQ08yIGNoYW5nZXMgYW5kIGltcGxpY2F0aW9ucyBmb3IgZ2xvYmFsIGJ1ZGdldHMuIEdsb2JhbCBDaGFuZ2UgQmlvbG9neSwgMTUsIDExMjctMTE0MA0KKiAqV2FuZyBERywgV2FuZyBHTCwgQW5hZ25vc3RvdSBFTiwgMjAwOTogSW1wYWN0IG9mIHN1Yi1ncmlkIHZhcmlhYmlsaXR5IG9mIHByZWNpcGl0YXRpb24gYW5kIGNhbm9weSB3YXRlciBzdG9yYWdlIG9uIGh5ZHJvbG9naWNhbCBwcm9jZXNzZXMgaW4gYSBjb3VwbGVkIGxhbmQtYXRtb3NwaGVyZSBtb2RlbC4gQ2xpbWF0ZSBEeW5hbWljcywgMzIsIDUsIDY0OS02NjIsIERPSSAxMC4xMDA3L3MwMDM4Mi0wMDgtMDQzNS0xDQoqICpXYW5nIERHLCBBbmFnbm9zdG91IEVOLCBhbmQgV2FuZyBHTCwgMjAwODogRWZmZWN0cyBvZiBzdWItZ3JpZCB2YXJpYWJpbGl0eSBvZiBwcmVjaXBpdGF0aW9uIGFuZCBjYW5vcHkgd2F0ZXIgc3RvcmFnZSBvbiBjbGltYXRlIG1vZGVsIHNpbXVsYXRpb25zIG9mIHdhdGVyIGN5Y2xlIGluIEV1cm9wZS4gQWR2YW5jZXMgaW4gR2Vvc2NpZW5jZXMsIDE3LCA0OS01My4NCiogKlN1biBYTSwgV2FuZyBHTCwgMjAwODogQ29tcGFyaW5nIHRoZSBhYmlsaXR5IG9mIGEgZ2VuZXRpYyBhbGdvcml0aG0gYmFzZWQgY2x1c3RlcmluZyBhbmFseXNpcyBhbmQgYSBwaHlzaWNhbGx5IGJhc2VkIGR5bmFtaWMgdmVnZXRhdGlvbiBtb2RlbCB0byBwcmVkaWN0IHZlZ2V0YXRpb24gZGlzdHJpYnV0aW9uICBKb3VybmFsIG9mIEdlb3BoeXNpY2FsIFJlc2VhcmNoIC0tIEJpb2dlb3NjaWVuY2VzLCAxMTMsIEcwMzAwNywgZG9pOjEwLjEwMjkvMjAwN0pHMDAwNjU1DQoqICpBbG8gQywgV2FuZyBHTCwgMjAwODogSHlkcm9sb2dpY2FsIGltcGFjdCBvZiB0aGUgcG90ZW50aWFsIGZ1dHVyZSB2ZWdldGF0aW9uIHJlc3BvbnNlIHRvIGNsaW1hdGUgY2hhbmdlcyBwcm9qZWN0ZWQgYnkgOCBHQ01zLCBKb3VybmFsIG9mIEdlb3BoeXNpY2FsIFJlc2VhcmNoIC0gQmlvZ2Vvc2NpZW5jZXMsIDExMywgRzAzMDExLCBkb2k6MTAuMTAyOS8yMDA3SkcwMDA1OTguDQoqICpBbG8gQywgV2FuZyBHTCwgMjAwODogUG90ZW50aWFsIGZ1dHVyZSBjaGFuZ2VzIG9mIHRoZSB0ZXJyZXN0cmlhbCBlY29zeXN0ZW0gYmFzZWQgb24gY2xpbWF0ZSBwcm9qZWN0aW9ucyBieSBlaWdodCBnZW5lcmFsIGNpcmN1bGF0aW9uIG1vZGVscywgSm91cm5hbCBvZiBHZW9waHlzaWNhbCBSZXNlYXJjaCAtIEJpb2dlb3NjaWVuY2VzLCAxMTMsIEcwMTAwNCwgZG9pOjEwLjEwMjkvMjAwN0pHMDAwNTI4Lg0KKiAqWmhlbmcgWiwgV2FuZyBHTCwgMjAwNzogTW9kZWxpbmcgdGhlIGR5bmFtaWMgcm9vdCB3YXRlciB1cHRha2UgYW5kIGl0cyBoeWRyb2xvZ2ljYWwgaW1wYWN0IGF0IHRoZSBSZXNlcnZhIEphcnUgc2l0ZSBpbiBBbWF6b25pYSwgSi4gR2VvcGh5cy4gUmVzLiAtLSBCaW9nZW9zY2llbmNlcywgMTEyLCBHMDQwMTIsIGRvaToxMC4xMDI5LzIwMDdKRzAwMDQxMy4gDQoqICogV2FuZyBERywgV2FuZyBHTCwgQW5hZ25vc3RvdSBFTiwgMjAwNyBWYWxpZGF0aW9uIG9mIGNhbm9weSBoeWRyb2xvZ2ljYWwgc2NoZW1lcyBpbiBsYW5kIHN1cmZhY2UgbW9kZWxzLiBKb3VybmFsIG9mIEh5ZHJvbG9neSwgMzQ3LCAzMDgtMzE4DQoqICpLaW0gWUosIFdhbmcgR0wsIDIwMDc6IEltcGFjdCBvZiBpbml0aWFsIHNvaWwgbW9pc3R1cmUgYW5vbWFsaWVzIG9uIHN1YnNlcXVlbnQgcHJlY2lwaXRhdGlvbiBvdmVyIE5vcnRoIEFtZXJpY2EuIEpvdXJuYWwgb2YgSHlkcm9tZXRlb3JvbG9neSwgOCwgMywgNTEzLTUzMw0KKiAqS2ltIFlKLCBXYW5nIEdMLCAyMDA3OiBJbXBhY3Qgb2YgdmVnZXRhdGlvbiBmZWVkYmFjayBvbiB0aGUgcmVzcG9uc2Ugb2YgcHJlY2lwaXRhdGlvbiB0byBhbnRlY2VkZW50IHNvaWwgbW9pc3R1cmUgYW5vbWFsaWVzIG92ZXIgTm9ydGggQW1lcmljYS4gSm91cm5hbCBvZiBIeWRyb21ldGVvcm9sb2d5LCA4LCAzLCA1MzQtNTUwDQoqICpXYW5nIERHLCBXYW5nIEdMLCAyMDA3OiAgVG93YXJkcyBhIHJvYnVzdCBjYW5vcHkgaHlkcm9sb2d5IHNjaGVtZSB3aXRoIHByZWNpcGl0YXRpb24gc3ViLWdyaWQgdmFyaWFiaWxpdHkuICBKb3VybmFsIG9mIEh5ZHJvbWV0ZW9yb2xvZ3ksIDgsIDMsIDQzOS00NDYNCiogKldhbmcgR0wsIEtpbSBZSiwgV2FuZyBERywgMjAwNzogUXVhbnRpZnlpbmcgdGhlIHN0cmVuZ3RoIG9mIHNvaWwgbW9pc3R1cmUtcHJlY2lwaXRhdGlvbiBjb3VwbGluZyBhbmQgaXRzIHNlbnNpdGl2aXR5IHRvIGNoYW5nZXMgaW4gc3VyZmFjZSB3YXRlciBidWRnZXQuIEpvdXJuYWwgb2YgSHlkcm9tZXRlb3JvbG9neSwgOCwgMywgNTUxLTU3MA0KKiAqV2FuZyBERywgQW5hZ25vc3RvdSBFTiwgV2FuZyBHTCwgMjAwNjogVGhlIGVmZmVjdCBvZiBzdWItZ3JpZCBwcmVjaXBpdGF0aW9uIHZhcmlhYmlsaXR5IG9uIHRoZSB3YXRlciBiYWxhbmNlIGFuZCBmbHV4IGV4Y2hhbmdlIHByb2Nlc3NlcyByZXNvbHZlZCBhdCBjbGltYXRlIHNjYWxlOiBUaGUgRXVyb3BlYW4gcmVnaW9uIGNvbnRyYXN0ZWQgdG8gQWZyaWNhIGFuZCBBbWF6b24gcmFpbmZvcmVzdHMuIEFkdmFuY2VzIGluIEdlb3NjaWVuY2VzLCA3LCAyNjktMjc0DQoqIFplbmcgWEIsIERpY2tpbnNvbiBSRSwgQmFybGFnZSBNLCBEYWkgWUosIFdhbmcgR0wsIE9sZXNvbiBLLCAyMDA1OiBUcmVhdG1lbnQgb2YgdW5kZXJjYW5vcHkgdHVyYnVsZW5jZSBpbiBsYW5kIG1vZGVscy4gSm91cm5hbCBvZiBDbGltYXRlLCAxOCwgNTA4Ni01MDk0DQoqIFdhbmcgR0wsIDIwMDU6IEFncmljdWx0dXJhbCBkcm91Z2h0IGluIGEgZnV0dXJlIGNsaW1hdGU6IHJlc3VsdHMgZnJvbSBmaWZ0ZWVuIGdsb2JhbCBjbGltYXRlIG1vZGVscyBwYXJ0aWNpcGF0aW5nIGluIHRoZSBJbnRlci1nb3Zlcm5tZW50YWwgUGFuZWwgZm9yIENsaW1hdGUgQ2hhbmdlJ3MgNHRoIEFzc2Vzc21lbnQuIENsaW1hdGUgRHluYW1pY3MsICAyNSwgNzM5LTc1MywgRE9JOiAxMC4xMDA3L3MwMDM4Mi0wMDUtMDA1Ny05DQoqICpXYW5nIERHLCBXYW5nIEdMLCBBbmFnbm9zdG91IEVOLCAyMDA1OiBVc2Ugb2Ygc2F0ZWxsaXRlLWJhc2VkIHByZWNpcGl0YXRpb24gb2JzZXJ2YXRpb24gaW4gaW1wcm92aW5nIHRoZSBwYXJhbWV0ZXJpemF0aW9uIG9mIGNhbm9weSBoeWRyb2xvZ2ljYWwgcHJvY2Vzc2VzIGluIGxhbmQgc3VyZmFjZSBtb2RlbHMuIEpvdXJuYWwgb2YgSHlkcm9tZXRlb3JvbG9neSwgNiwgNzQ1LTc2Mw0KKiAqS2ltIFksIFdhbmcgR0wsIDIwMDU6IE1vZGVsaW5nIHNlYXNvbmFsIHZlZ2V0YXRpb24gdmFyaWF0aW9uIGFuZCBpdHMgdmFsaWRhdGlvbiBhZ2FpbnN0IE1vZGVyYXRlIFJlc29sdXRpb24gSW1hZ2luZyBTcGVjdHJvcmFkaW9tZXRlciAoTU9ESVMpIG9ic2VydmF0aW9ucyBvdmVyIE5vcnRoIEFtZXJpY2EsIEpHUiAtIEF0bW9zcGhlcmVzLiwgMTEwLCBEMDQxMDYsIGRvaToxMC4xMDI5LzIwMDRKRDAwNTQzNi4gICANCiogV2FuZyBHTCwgMjAwNDogIkEgY29uY2VwdHVhbCBtb2RlbGluZyBzdHVkeSBvbiBiaW9zcGhlcmUtYXRtb3NwaGVyZSBpbnRlcmFjdGlvbnMgYW5kIGl0cyBpbXBsaWNhdGlvbnMgZm9yIHBoeXNpY2FsbHkgYmFzZWQgY2xpbWF0ZSBtb2RlbGluZyIuIEpvdXJuYWwgb2YgQ2xpbWF0ZSwgMTcgKDEzKSwgMjU3Mi0yNTgzDQoqIFdhbmcgR0wsIFlvdSBMWiwgMjAwNDogRGVsYXllZCBpbXBhY3Qgb2YgTkFPIG9uIHZlZ2V0YXRpb24gcHJvZHVjdGl2aXR5IGluIEFzaWEuIEdlb3BoeXNpY2FsIFJlc2VhcmNoIExldHRlcnMsIDMxLCBMMTIyMTAsIGRvaTogMTAuMTAyOS8yMDA0R0wwMTk3NjYNCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIEZvbGV5IEpBLCBQb2xsYXJkIEQsIExldmlzIFMsIDIwMDQ6IERlY2FkYWwgdmFyaWFiaWxpdHkgb2YgcmFpbmZhbGwgaW4gdGhlIFNhaGVsOiByZXN1bHRzIGZyb20gdGhlIGNvdXBsZWQgR0VORVNJUy1JQklTIGF0bW9zcGhlcmUtYmlvc3BoZXJlIG1vZGVsLiBDbGltYXRlIER5bmFtaWNzLCAyMig2LTcpLCA2MjUtNjM3LCBkb2k6IDEwLjEwMDcvczAwMzgyLTAwNC0wNDExLTMgICAgDQoqIFdhbmcgR0wsIFNjaGltZWwgRFMsIDIwMDM6ICJDbGltYXRlIENoYW5nZSwgQ2xpbWF0ZSBNb2RlcywgYW5kIENsaW1hdGUgSW1wYWN0cyIsIEFubnVhbCBSZXZpZXcgZm9yIEVudmlyb25tZW50IGFuZCBSZXNvdXJjZXMgMjgsIDEtMjgNCiogRGlja2luc29uIFJFLCBXYW5nIEdMLCBaZW5nIFhCLCBaZW5nIFFDLCAyMDAzOiBIb3cgZG9lcyB0aGUgcGFydGl0aW9uaW5nIG9mIGV2YXBvdHJhbnNwaXJhdGlvbiBhbmQgcnVub2ZmIGJldHdlZW4gZGlmZmVyZW50IHByb2Nlc3NlcyBhZmZlY3QgdGhlIHZhcmlhYmlsaXR5IGFuZCBwcmVkaWN0YWJpbGl0eSBvZiBzb2lsIG1vaXN0dXJlIGFuZCBwcmVjaXBpdGF0aW9uPyBBZHZhbmNlcyBvZiBBdG1vc3BoZXJpYyBTY2llbmNlcywgMjAoMyksIDQ3NS00NzgNCiogV2FuZyBHTCwgMjAwMzogUmVhc3Nlc3NpbmcgdGhlIGltcGFjdCBvZiBOb3J0aCBBdGxhbnRpYyBPc2NpbGxhdGlvbiBvbiB0aGUgc3ViLVNhaGFyYW4gdmVnZXRhdGlvbiBwcm9kdWN0aXZpdHkuIEdsb2JhbCBDaGFuZ2UgQmlvbG9neSwgOSg0KSwgNDkzLTQ5OQ0KKiBGb2xleSBKQSwgQ29lIE1ULCBTY2hlZmZlciBNLCBXYW5nIEdMLCAyMDAzOiBSZWdpbWUgU2hpZnRzIGluIHRoZSBTYWhhcmEgYW5kIFNhaGVsOiBJbnRlcmFjdGlvbnMgYmV0d2VlbiBFY29sb2dpY2FsIGFuZCBDbGltYXRpYyBTeXN0ZW1zIGluIE5vcnRoZXJuIEFmcmljYS4gRWNvc3lzdGVtcywgNiwgNTI0LTUzOSAoZG9pOsKgMTAuMTAwNy9zMTAwMjEtMDAyLTAyMjctMCkgDQoqIElyaXphcnJ5LU9ydGl6IE1NLCBXYW5nIEdMLCBFbHRhaGlyIEVBQiwgMjAwMzogUm9sZSBvZiB0aGUgYmlvc3BoZXJlIGluIHRoZSBtaWQtSG9sb2NlbmUgY2xpbWF0ZSBvZiBXZXN0IEFmcmljYS4gSm91cm5hbCBvZiBHZW9waHlzaWNhbCBSZXNlYXJjaCAtIEF0bW9zcGhlcmVzLCAxMDgsIGRvaTogMTAuMTAyOS8yMDAxSkQwMDA5ODkNCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIDIwMDI6IFJlc3BvbnNlIG9mIHRoZSBiaW9zcGhlcmUtYXRtb3NwaGVyZSBzeXN0ZW0gaW4gV2VzdCBBZnJpY2EgdG8gQ08yIGNvbmNlbnRyYXRpb24gY2hhbmdlcy4gR2xvYmFsIENoYW5nZSBCaW9sb2d5LCA4LCAxMTY5LTExODINCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIDIwMDBhOiBNb2RlbGluZyB0aGUgYmlvc3BoZXJlLWF0bW9zcGhlcmUgc3lzdGVtOiB0aGUgaW1wYWN0IG9mIHRoZSBzdWItZ3JpZCB2YXJpYWJpbGl0eSBpbiByYWluZmFsbCBpbnRlcmNlcHRpb24uIEpvdXJuYWwgb2YgQ2xpbWF0ZSwgVm9sLjEzLCBOby4xNiwgMjg4Ny0yODk5DQoqIFdhbmcgR0wsIEVsdGFoaXIgRUFCLCAyMDAwYjogVGhlIHJvbGUgb2YgZWNvc3lzdGVtIGR5bmFtaWNzIGluIGVuaGFuY2luZyB0aGUgbG93LWZyZXF1ZW5jeSB2YXJpYWJpbGl0eSBvZiB0aGUgU2FoZWwgcmFpbmZhbGwuIFdhdGVyIFJlc291cmNlcyBSZXNlYXJjaCwgVm9sLjM2LCBOby40LCAxMDEzLTEwMjENCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIDIwMDBjOiBFY29zeXN0ZW0gZHluYW1pY3MgYW5kIHRoZSBTYWhlbCBkcm91Z2h0LiBHZW9waHlzaWNhbCBSZXNlYXJjaCBMZXR0ZXJzLCBWb2wuMjcsIE5vLjYsIDc5NS03OTgNCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIDIwMDBkOiBCaW9zcGhlcmUtYXRtb3NwaGVyZSBpbnRlcmFjdGlvbnMgb3ZlciBXZXN0IEFmcmljYS4gUGFydCAxOiBEZXZlbG9wbWVudCBhbmQgdmFsaWRhdGlvbiBvZiBhIGNvdXBsZWQgZHluYW1pYyBtb2RlbC4gUXVhcnRlcmx5IEpvdXJuYWwgb2YgdGhlIFJveWFsIE1ldGVvcm9sb2dpY2FsIFNvY2lldHksIFZvbC4xMjYsIE5vLjU2NSwgMTIzOS0xMjYwLiANCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIDIwMDBkOiBCaW9zcGhlcmUtYXRtb3NwaGVyZSBpbnRlcmFjdGlvbnMgb3ZlciBXZXN0IEFmcmljYS4gUGFydCAyOiBNdWx0aXBsZSBjbGltYXRlIGVxdWlsaWJyaWEuIFF1YXJ0ZXJseSBKb3VybmFsIG9mIHRoZSBSb3lhbCBNZXRlb3JvbG9naWNhbCBTb2NpZXR5LCBWb2wuMTI2LCBOby41NjUsIDEyNjEtMTI4MA0KKiBXYW5nIEdMLCBFbHRhaGlyIEVBQiwgMTk5OTogVXNlIG9mIEVOU08gaW5mb3JtYXRpb24gaW4gdGhlIG1lZGl1bS0gdG8gbG9uZy1yYW5nZSBmb3JlY2FzdGluZyBvZiB0aGUgTmlsZSBmbG9vZC4gSm91cm5hbCBvZiBDbGltYXRlLCBWb2wuMTIsIE5vLjYsIDE3MjYtMTczNw0KKiBFbHRhaGlyIEVBQiwgV2FuZyBHTCwgMTk5OTogTmlsb21ldGVycywgRWwgTmlubywgYW5kIGNsaW1hdGUgdmFyaWFiaWxpdHkuIEdlb3BoeXNpY2FsIFJlc2VhcmNoIExldHRlcnMsIFZvbC4yNiwgTm8uNCwgNDg5LTQ1Mg0KKiBZYW5nIE1RLCBXYW5nIEdMLCBaaGVuIEZSLCAxOTk3OiBUaGUgU3R1ZHkgb24gSHlkcm8tRHluYW1pYyBNb2RlbCBvZiBEZXBvc2l0aW9uIGluIFNld2FnZSBTdGFiaWxpemVkIFBvbmRzLiBKb3VybmFsIG9mIFNlZGltZW50IFJlc2VhcmNoLCBOby40LCAzMC0zNiAoQ2hpbmEpDQoqIFlhbmcgTVEsIFdhbmcgR0wsIDE5OTY6IEZvcm11bGFzIGZvciBpbmNpcGllbnQgbW90aW9uIG9mIG11ZCB3aXRoIGRpZmZlcmVudCBkZW5zaXRpZXMuIEludGVybmF0aW9uYWwgSm91cm5hbCBvZiBTZWRpbWVudCBSZXNlYXJjaCwgVm9sLjExLCBOby4xLCAzNC00Mg0KKiBZYW5nIE1RLCBXYW5nIEdMLCAxOTk1OiBUaGUgaW5jaXBpZW50IG1vdGlvbiBmb3IgY29oZXNpdmUgZmluZSBzZWRpbWVudHMuIEpvdXJuYWwgb2YgQmFzaWMgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcsIFZvbC4zLCBOby4xLCA5OS0xMDkgKENoaW5hKQ0KICANCkludml0ZWQgU2VtaW5hcnMvTGVjdHVyZXMgYXQgSW5zdGl0dXRpb25zDQoNCiogU2hvcnQgQ291cnNlOiAiTGFuZC1BdG1vc3BoZXJlIEludGVyYWN0aW9ucyIsIFRzaW5naHVhIFVuaXZlcnNpdHksIEJlaWppbmcsIENoaW5hLCBKdW5lIDItMTEsIDIwMTANCiogIk9uIHRoZSBoeWRyb2xvZ2ljYWwgYW5kIGVjb2xvZ2ljYWwgaW1wYWN0IG9mIGh5ZHJhdWxpYyByZWRpc3RyaWJ1dGlvbiIsIERlcGFydG1lbnRhbCBvZiBDaXZpbCAmIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIFVuaXZlcnNpdHkgb2YgSWxsaW5vaXMtVXJiYW5hLUNoYW1wYWduZSwgQXByaWwgMjAxMCANCiogIlJvbGUgb2YgbGFuZCBzdXJmYWNlIGR5bmFtaWNzIGluIHByZWNpcGl0YXRpb24gdmFyaWFiaWxpdHkgYXQgc3ViLXNlYXNvbmFsIHRvIGRlY2FkYWwgdGltZSBzY2FsZXMiLCBMYW1vbnQgRWFydGggT2JzZXJ2YXRvcnksIERpdmlzaW9uIG9mIE9jZWFuIGFuZCBDbGltYXRlIFBoeXNpY3MsIENvbHVtYmlhIFVuaXZlcnNpdHksIEFwcmlsIDIwMTANCiogIk9uIHRoZSBoeWRyb2xvZ2ljYWwgYW5kIGVjb2xvZ2ljYWwgaW1wYWN0IG9mIGh5ZHJhdWxpYyByZWRpc3RyaWJ1dGlvbiIsIE5BU0EvR1NGQywgSmFudWFyeSAyMDEwDQoqICJEeW5hbWljIHZlZ2V0YXRpb246IHRoZSBlY29oeWRyb2xvZ2ljYWwgcGVyc3BlY3RpdmVzIi4gV29vZHMgSW5zdGl0dXRlIG9mIEVudmlyb25tZW50LCBTdGFuZm9yZCBVbml2ZXJzaXR5LCBTdGFuZm9yZCwgQ2FsaWZvcm5pYSwgQXByaWwgMjAwOA0KKiAiUmVzcG9uc2Ugb2YgdGhlIHRlcnJlc3RyaWFsIGVjb3N5c3RlbSB0byBnbG9iYWwgY2hhbmdlcyBhbmQgaXRzIGltcGFjdCBvbiBzdXJmYWNlIGh5ZHJvbG9naWNhbCBwcm9jZXNzZXMiLiBEZXBhcnRtZW50IG9mIE1hcmluZSBTY2llbmNlcywgQXZlcnkgUG9pbnQsIFVDb25uLCBBcHJpbCAyMDA3DQoqICJBIGNvbmNlcHR1YWwgbW9kZWxpbmcgc3R1ZHkgb24gYmlvc3BoZXJlLWF0bW9zcGhlcmUgaW50ZXJhY3Rpb25zIGFuZCBpdHMgaW1wbGljYXRpb25zIGZvciBwaHlzaWNhbGx5IGJhc2VkIGNsaW1hdGUgbW9kZWxpbmciLiBNYXJpbmUgU2NpZW5jZSBSZXNlYXJjaCBDZW50ZXIsIFN0YXRlIFVuaXZlcnNpdHkgb2YgTmV3IFlvcmsgYXQgU3RvbnkgQnJvb2ssIE9jdG9iZXIgMjAwNA0KKiAiVGVycmVzdHJpYWwgYmlvc3BoZXJlLWF0bW9zcGhlcmUgaW50ZXJhY3Rpb25zIiwgRGVwYXJ0bWVudCBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgVW5pdmVyc2l0eSBvZiBDb25uZWN0aWN1dCwgQXByaWwgMjAwMg0KKiAiVGVycmVzdHJpYWwgYmlvc3BoZXJlLWF0bW9zcGhlcmUgaW50ZXJhY3Rpb25zOiB0aGUgaHlkcm9sb2dpY2FsIHBlcnNwZWN0aXZlIiwgRGVwYXJ0bWVudCBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgVXRhaCBTdGF0ZSBVbml2ZXJzaXR5LCBNYXJjaCAyMDAyDQoqICJCZWhhdmlvciBvZiB0aGUgZnVsbHkgY291cGxlZCBiaW9zcGhlcmUtYXRtb3NwaGVyZSBzeXN0ZW0gYW5kIGl0cyBpbXBsaWNhdGlvbnMgb24gY2xpbWF0ZSBwcmVkaWN0aW9uIiwgQ2xpbWF0ZSBhbmQgR2xvYmFsIER5bmFtaWNzIERpdmlzaW9uLCBOYXRpb25hbCBDZW50ZXIgZm9yIEF0bW9zcGhlcmljIFJlc2VhcmNoLCBCb3VsZGVyLCBDb2xvcmFkbywgTWFyY2ggMjAwMQ0KKiAiUmFpbmZhbGwgdmFyaWFiaWxpdHkgaW4gU2FoZWw6IGltcG9ydGFuY2Ugb2YgdmVnZXRhdGlvbi1jbGltYXRlIGludGVyYWN0aW9ucyIsIERlcGFydG1lbnQgb2YgR2VvbG9naWNhbCBTY2llbmNlcywgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBdXN0aW4sIEF1c3RpbiwgVGV4YXMsIE1hcmNoIDIwMDENCiogIlZlZ2V0YXRpb24gRHluYW1pY3MgYW5kIHRoZSBSYWluZmFsbCBWYXJpYWJpbGl0eSBPdmVyIFNhaGVsIiwgSHlkcm9sb2dpY2FsIFNjaWVuY2VzIEJyYW5jaCwgR1NGQy9OQVNBLCBHcmVlbmJlbHQgTWFyeWxhbmQsIEp1bHkgMjAwMA0KKiAiVGhlIHJvbGUgb2YgdmVnZXRhdGlvbiBkeW5hbWljcyBpbiByZWd1bGF0aW5nIHRoZSB2YXJpYWJpbGl0eSBvZiB0aGUgU2FoZWwgcmFpbmZhbGwiLCBEZXBhcnRtZW50IG9mIENpdmlsLCBFbnZpcm9ubWVudGFsLCBhbmQgQXJjaGl0ZWN0dXJhbCBFbmdpbmVlcmluZywgVW5pdmVyc2l0eSBvZiBDb2xvcmFkbyBhdCBCb3VsZGVyLCBBcHJpbCAyMDAwDQoqICJUd28td2F5IGJpb3NwaGVyZS1hdG1vc3BoZXJlIGludGVyYWN0aW9ucyBvdmVyIFdlc3QgQWZyaWNhIC0tIE11bHRpcGxlIGNsaW1hdGUgZXF1aWxpYnJpYSBhbmQgY2xpbWF0ZSB0cmFuc2l0aW9uIiwgQ2FyYm9uIE1vZGVsaW5nIENvbnNvcnRpdW0sIFByaW5jZXRvbiBVbml2ZXJzaXR5LCBPY3RvYmVyIDE5OTkuDQoNCkNvbmZlcmVuY2UgUHJlc2VudGF0aW9ucyAoSW52aXRlZCBhbmQgQ29udHJpYnV0ZWQpDQoqICJEeW5hbWljIHZlZ2V0YXRpb24gZmVlZGJhY2sgYW5kIHJlZ2lvbmFsIGNsaW1hdGUgcHJlZGljdGlvbiBpbiBXZXN0IEFmcmljYSIsIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBSZWdpb25hbCBDbGltYXRlIERvd25zY2FsaW5nIEV4cGVyaW1lbnQsIFRyaWVzdGUsIEl0YWx5LCBNYXJjaCAyMDExLg0KKiBXYW5nIEdMLCAiQXNzZXNzaW5nIHRoZSBwb3RlbnRpYWwgaHlkcm9sb2dpY2FsIGFuZCBlY29sb2dpY2FsIGltcGFjdCBvZiBwbGFudCBoeWRyYXVsaWMgcmVkaXN0cmlidXRpb24gaW4gdGhlIEFtYXpvbiByZWdpb24iLCB0aGUgMm5kIEh5ZHJvbG9neSBkZWxpdmVycyBFYXJ0aCBTeXN0ZW0gU2NpZW5jZSB0byBTb2NpZXR5IGNvbmZlcmVuY2UsIFRva3lvLCBKYXBhbiwgSnVuZSAyMywgMjAxMCAoSU5WSVRFRCwgS2V5bm90ZSkNCiogSG9vdmVyIERMLCBhbmQgV2FuZyBHTCwgMjAwODogQWx0ZXJlZCBSYWluZmFsbCBkdWUgdG8gQ2xpbWF0ZSBDaGFuZ2U6IE1vZGVsaW5nIHRoZSBFY29sb2dpY2FsIEVmZmVjdHMgb24gR3Jhc3NsYW5kcy4gQUdVIEZhbGwgTWVldGluZywgU2FuIEZyYW5jaXNjbywgQ0ENCiogTWVpIFIsIGFuZCBXYW5nIEdMLCAyMDA4OiBQcmVjaXBpdGF0aW9uIEZvbGxvd3MgdGhlIExvZ2dpbmcgaW4gdGhlIEFtYXpvbiBCYXNpbjogSW50ZXJwcmV0YXRpb24gb2YgdGhlIENBTTMtQ0xNMyBSZXN1bHRzLiBBR1UgRmFsbCBNZWV0aW5nLCBTYW4gRnJhbmNpc2NvLCBDQQ0KKiBTdW4gU1MsIGFuZCBXYW5nIEdMLCAyMDA4OiBRdWFudGlmeWluZyB0aGUgU2Vuc2l0aXZpdHkgb2YgUHJlY2lwaXRhdGlvbiB0byBMYW5kIFN1cmZhY2UgUHJvcGVydGllcyBpbiBDQU0zLUNMTTMgQ291cGxlZMKgTW9kZWxzLiBBR1UgRmFsbCBNZWV0aW5nLCBTYW4gRnJhbmNpc2NvLCBDQQ0KKiBXYW5nIEdMLCAyMDA4OiBIeWRyYXVsaWMgUmVkaXN0cmlidXRpb246IFRoZSAic3VpY2lkYWwgbWlzc2lvbiIgZm9yIGV2ZXJncmVlbiB0cmVlcyBpbiB0aGUgQW1hem9uLiBBR1UgRmFsbCBNZWV0aW5nLCBTYW4gRnJhbmNpc2NvLCBDQQ0KKiBXYW5nIEdMLCBhbmQgWmhlbmcgWiwgMjAwNzogTW9kZWxpbmcgdGhlIER5bmFtaWMgUm9vdCBXYXRlciBVcHRha2UgYW5kIGl0cyBIeWRyb2xvZ2ljYWwgSW1wYWN0IGF0IHRoZSBSZXNlcnZhIEphcnUgU2l0ZSBpbiBBbWF6b25pYS4gQUdVIEZhbGwgTWVldGluZywgU2FuIEZyYW5jaXNjbywgQ0ENCiogQWxvIEFBLCBhbmQgV2FuZyBHTCwgIDIwMDc6IE9uIHRoZSBIeWRyb2xvZ2ljYWwgSW1wYWN0IG9mIEZ1dHVyZSBDbGltYXRlLUluZHVjZWQgVmVnZXRhdGlvbiBDaGFuZ2VzLiBBR1UgRmFsbCBNZWV0aW5nLCBTYW4gRnJhbmNpc2NvLCBDQQ0KKiBXYW5nIEdMLCBLaW0gWUosIGFuZCBXYW5nIERHLCAyMDA3OiBRdWFudGlmeWluZyB0aGUgc29pbCBtb2lzdHVyZS1wcmVjaXBpdGF0aW9uIGNvdXBsaW5nIHN0cmVuZ3RoLiAyMXN0IENvbmZlcmVuY2Ugb24gSHlkcm9sb2d5LCBTYW4gQW50b25pbywgVFgsIEphbnVhcnkgMjAwNw0KKiBLaW0gWUosIGFuZCBXYW5nIEdMLCAyMDA3OiBJbXBhY3Qgb2YgdmVnZXRhdGlvbiBmZWVkYmFjayBvbiB0aGUgcmVzcG9uc2Ugb2YgcHJlY2lwaXRhdGlvbiB0byBhbnRlY2VkZW50IHNvaWwgbW9pc3R1cmUgb3ZlciBOb3J0aCBBbWVyaWNhLiAyMXN0IENvbmZlcmVuY2Ugb24gSHlkcm9sb2d5LCBTYW4gQW50b25pbywgVFgsIEphbnVhcnkgMjAwNw0KKiBXYW5nIEdMLCBhbmQgS2ltIFlKLCAyMDA2OiBTb2lsIG1vaXN0dXJlLXZlZ2V0YXRpb24tcHJlY2lwaXRhdGlvbiBmZWVkYmFjayBhdCB0aGUgc2Vhc29uYWwgdGltZSBzY2FsZSBvdmVyIE5vcnRoIEFtZXJpY2E6IFJlc3VsdHMgZnJvbSBDQU0zLUNMTTMuIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIENBIChJTlZJVEVEKQ0KKiBBbG8gQ0EsIGFuZCBXYW5nIEdMLCAyMDA2OiBNb2RlbGluZyB0aGUgcmVzcG9uc2Ugb2YgdGVycmVzdHJpYWwgZWNvc3lzdGVtIHRvIHByZWRpY3RlZCBjbGltYXRlIGNoYW5nZXMuIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIENBDQoqIFdhbmcgREcsIFdhbmcgR0wsIEFuYWdub3N0b3UgRU4sIDIwMDY6IFJlcHJlc2VudGF0aW9uIG9mIHN1Yi1ncmlkIHZhcmlhYmlsaXR5IGluIHByZWNpcGl0YXRpb24gYW5kIGNhbm9weSB3YXRlciBzdG9yYWdlIGFuZCBpdHMgaW1wYWN0IG9uIGh5ZHJvbG9naWNhbCBwcm9jZXNzZXMuIEFHVSBGYWxsIG1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIENBIA0KKiBXYW5nIEdMLCBLaW0gWUosICYgV2FuZyBERywgMjAwNjogUXVhbnRpZnlpbmcgdGhlIHN0cmVuZ3RoIG9mIHNvaWwgbW9pc3R1cmUtcHJlY2lwaXRhdGlvbiBjb3VwbGluZyBhbmQgaXRzIHNlbnNpdGl2aXR5IHRvIGNoYW5nZXMgaW4gc3VyZmFjZSB3YXRlciBidWRnZXQuIEFHVSBTcHJpbmcgTWVldGluZywgQmFsdGltb3JlLCBNRA0KKiBLaW0gWUogJiBXYW5nIEdMLCAyMDA2OiBSb2xlIG9mIHZlZ2V0YXRpb24gZmVlZGJhY2sgaW4gbW9kaWZ5aW5nIHRoZSByZXNwb25zZSBvZiBwcmVjaXBpdGF0aW9uIHRvIHNvaWwgbW9pc3R1cmUgaW5pdGlhbGl6YXRpb24uIEFHVSBTcHJpbmcgTWVldGluZywgQmFsdGltb3JlLCBNRA0KKiBLaW0gWUogJiBXYW5nIEdMLCAyMDA2OiBSb2xlIG9mIHNvaWwgbW9pc3R1cmUgYW5kIHZlZ2V0YXRpb24gZmVlZGJhY2sgaW4gc2Vhc29uYWwgcHJlZGljdGlvbiBvZiBwcmVjaXBpdGF0aW9uIGluIHRoZSBNaXNzaXNzaXBwaSBSaXZlciBCYXNpbi4gMjB0aCBDb25mZXJlbmNlIG9mIEh5ZHJvbG9neSwgQU1TIEFubnVhbCBNZWV0aW5nLCBBdGxhbnRhLCBHZW9yZ2lhDQoqIFdhbmcgREcsIFdhbmcgR0wsIDIwMDU6IFRvd2FyZHMgYSByb2J1c3QgY2Fub3B5IGludGVyY2VwdGlvbiBzY2hlbWUuIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIENBDQoqIFdhbmcgR0wsIDIwMDU6IEFncmljdWx0dXJhbCBkcm91Z2h0IGluIGEgd2FybWVyIHdvcmxkOiBtb2RlbCByZXN1bHRzIGFuYWx5c2lzIGZvciB0aGUgSVBDQydzIDR0aCBhc3Nlc3NtZW50LiBTY2llbnRpZmljIEFzc2VtYmx5IG9mIHRoZSBJbnRlcm5hdGlvbmFsIEFzc29jaWF0aW9uIG9mIE1ldGVvcm9sb2dpY2FsIGFuZCBBdG1vc3BoZXJpYyBTY2llbmNlcywgQmVpamluZywgQ2hpbmENCiogV2FuZyBHTCwgMjAwNTogSW1wYWN0IG9mIE9jZWFuaWMgRm9yY2luZywgQW50aHJvcGdlbmljIExhbmQgQ292ZXIgQ2hhbmdlcywgYW5kIE5hdHVyYWwgVmVnZXRhdGlvbiBEeW5hbWljcyBvbiB0aGUgMjB0aCBDZW50dXJ5IFNhaGVsIERyb3VnaHQ6IEEgTW9kZWxpbmcgUGVyc3BlY3RpdmUuIFNjaWVudGlmaWMgQXNzZW1ibHkgb2YgdGhlIEludGVybmF0aW9uYWwgQXNzb2NpYXRpb24gb2YgTWV0ZW9yb2xvZ2ljYWwgYW5kIEF0bW9zcGhlcmljIFNjaWVuY2VzLCBCZWlqaW5nLCBDaGluYSAoSU5WSVRFRCkNCiogV2FuZyBHTCwgRGlja2luc29uIFJULCAyMDA1OiBWZWdldGF0aW9uLXByZWNpcGl0YXRpb24gZmVlZGJhY2sgYW5kIGRlY2FkYWwtY2VudGVubmlhbCB2YXJpYWJpbGl0eTogQSBjb25jZXB0dWFsIG1vZGVsaW5nIHN0dWR5IGFuZCBpdHMgaW1wbGljYXRpb25zIGZvciBwaHlzaWNhbGx5IGJhc2VkIGNsaW1hdGUgbW9kZWxpbmcuIFNjaWVudGlmaWMgQXNzZW1ibHkgb2YgdGhlIEludGVybmF0aW9uYWwgQXNzb2NpYXRpb24gb2YgTWV0ZW9yb2xvZ2ljYWwgYW5kIEF0bW9zcGhlcmljIFNjaWVuY2VzLCBCZWlqaW5nLCBDaGluYQ0KKiBXYW5nIEdMLCBLaW0gWSwgMjAwNTogSW1wYWN0IG9mIHNvaWwgbW9pc3R1cmUgYW5vbWFseSBvbiBzdWJzZXF1ZW50IHByZWNpcGl0YXRpb24gaW4gdGhlIE1pc3Npc3NpcHBpIFJpdmVyIEJhc2luLiBUaGUgNXRoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBHbG9iYWwgRW5lcmd5IGFuZCBXYXRlciBFeHBlcmltZW50LiANCiogIFdhbmcgR0wsIDIwMDQ6IEEgY29uY2VwdHVhbCBtb2RlbGluZyBzdHVkeSBvbiBiaW9zcGhlcmUtYXRtb3NwaGVyZSBpbnRlcmFjdGlvbnMgYW5kIGl0cyBpbXBsaWNhdGlvbnMgZm9yIHBoeXNpY2FsbHkgYmFzZWQgY2xpbWF0ZSBtb2RlbGluZy4gQUdVIEZhbGwgTWVldGluZywgU2FuIEZyYW5zaXNjbywgQ0ENCiogS2ltIFksIFdhbmcgR0wsIDIwMDQ6IFZlZ2V0YXRpb24gcGhlbm9sb2d5IG1vZGVsaW5nIGFuZCBpdHMgdmFsaWRhdGlvbiBhZ2FpbnN0IE1PRElTIGRhdGEgb3ZlciBOb3J0aCBBbWVyaWNhLiBHQVBQIFBJIG1lZXRpbmcuIEJvdWxkZXIsIENPDQoqIFdhbmcgR0wsIDIwMDM6IERyb3VnaHQgb2NjdXJyZW5jZSBpbiB0aGUgU2FoZWw6IHJvbGUgb2YgdmVnZXRhdGlvbiBkeW5hbWljcy4gQ0xJVkFSL1BBR0VTL0lQQ0Mgd29ya3Nob3AgIkEgbXVsdGktbWlsbGVubmlhIHBlcnNwZWN0aXZlIG9uIGRyb3VnaHQgYW5kIGltcGxpY2F0aW9ucyBmb3IgdGhlIGZ1dHVyZSIuIFR1Y3NvbiwgQVogKElOVklURUQpIA0KKiBXYW5nIERHLCBXYW5nIEdMLCBBbmFnbm9zdG91IEVOLCAyMDAzOiBVc2Ugb2Ygc2F0ZWxsaXRlLWJhc2VkIHByZWNpcGl0YXRpb24gb2JzZXJ2YXRpb24gaW4gaW1wcm92aW5nIHRoZSBwYXJhbWV0ZXJpemF0aW9uIG9mIGNhbm9weSBoeWRyb2xvZ2ljYWwgcHJvY2Vzc2VzIGluIGxhbmQgc3VyZmFjZSBtb2RlbHMuIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIENBLg0KKiBLaW0gWSwgV2FuZyBHTCwgMjAwMzogTW9kZWxpbmcgc2Vhc29uYWwgdmVnZXRhdGlvbiB2YXJpYXRpb24gYW5kIGl0cyB2YWxpZGF0aW9uIGFnYWluc3Qgc2F0ZWxsaXRlLWJhc2VkIG9ic2VydmF0aW9ucy4gQUdVIEZhbGwgTWVldGluZywgU2FuIEZyYW5jaXNjbywgQ0ENCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIEZvbGV5IEpBLCBQb2xsYXJkIEQsIExldmlzIFMsIDIwMDM6IFJvbGUgb2YgZ2xvYmFsIG9jZWFuaWMgZm9yY2luZyBhbmQgbG9jYWwgdmVnZXRhdGlvbiBmZWVkYmFjayBpbiB0aGUgMjB0aCBjZW50dXJ5IFNhaGVsIGRyb3VnaHQ6IHJlc3VsdHMgZnJvbSB0aGUgY291cGxlZCBHRU5FU0lTLUlCSVMgbW9kZWwuIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuY2lzY28sIENBDQoqIFJhZGFrb3ZpY2ggSkQsIFdhbmcgR0wsIENoZXJuIEpELCBCb3NpbG92aWNoIE1HLCBMaW4gU0osIE5lYnVkYSBTLCBTaGVuIEJXLCAyMDAzOiBJbXBsZW1lbnRhdGlvbiBvZiB0aGUgTkNBUiBDb21tdW5pdHkgTGFuZCBNb2RlbCAoQ0xNKSBpbiB0aGUgTkFTQS9OQ0FSIGZpbml0ZS12b2x1bWUgZ2xvYmFsIGNsaW1hdGUgbW9kZWwgKEZWR0NNKS4gMTR0aCBTeW1wb3NpdW0gb24gR2xvYmFsIENoYW5nZSBhbmQgQ2xpbWF0ZSBWYXJpYXRpb25zLCBMb25nIEJlYWNoLCBDYWxpZm9ybmlhLg0KKiBXYW5nIEdMLCBCb3NpbG92aWNoIE1HLCBSYWRha292aWNoIEosIEhvdXNlciBQLCAyMDAyOiBBbiBpbXBsaWNpdCBzY2hlbWUgc29sdmluZyB0aGUgdmVnZXRhdGlvbi1hdG1vc3BoZXJlIGZsdXggZXhjaGFuZ2VzLiBQcmVzZW50ZWQgdG8gdGhlIENDU00gTGFuZCBXb3JraW5nIEdyb3VwIE1lZXRpbmcgYXQgQm91bGRlciwgQ29sb3JhZG8uDQoqIFdhbmcgR0wsIEJvc2lsb3ZpY2ggTUcsIFJhZGFrb3ZpY2ggSiwgSG91c2VyIFAsIDIwMDI6IEluY29ycG9yYXRpbmcgdGhlIGltcGxpY2l0IHNjaGVtZSBmb3IgdmVnZXRhdGlvbiB3YXRlciBhbmQgZW5lcmd5IGJhbGFuY2VzIGludG8gdGhlIGNvdXBsZWQgZnZHQ00tQ0xNMi4gUHJlc2VudGVkIHRvIHRoZSBDQ1NNIExhbmQgV29ya2luZyBHcm91cCBNZWV0aW5nIGF0IEJyZWNrZW5yaWRnZSwgQ29sb3JhZG8uDQoqIFdhbmcgR0wsIGFuZCBmaXZlIGNvYXV0aG9ycywgMjAwMjogQSBtdWx0aXBsZS1sYXllciBjYW5vcHkgbW9kZWw6IHNvbHZpbmcgdGhlIGludGVyYWN0aW9ucyBiZXR3ZWVuIHNpemUtc3RydWN0dXJlZCB2ZWdldGF0aW9uIGFuZCBhdG1vc3BoZXJlJycsIDE2dGggQ29uZmVyZW5jZSBvbiBIeWRyb2xvZ3ksIE9ybGFuZG8sIEZsb3JpZGEsIEphbnVhcnkgMjAwMg0KKiBXYW5nIEdMLCAyMDAxOiBNb2RlbGluZyB0aGUgcmFpbmZhbGwgdmFyaWFiaWxpdHkgYW5kIGNoYW5nZXMgYXQgdGhlIGRlY2FkYWwgdGltZSBzY2FsZTogdGhlIGltcG9ydGFuY2Ugb2YgdmVnZXRhdGlvbiBkeW5hbWljcywgN3RoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBQcmVjaXBpdGF0aW9uIChJTlZJVEVEKQ0KKiBXYW5nIEdMLCBhbmQgc2l4IGNvYXV0aG9ycywgMjAwMDogTW9kZWxpbmcgdGhlIEJpb3NwaGVyZS1BdG1vc3BoZXJlIEludGVyYWN0aW9ucyB1c2luZyB0aGUgZWNvc3lzdGVtIGR5bmFtaWNzIG1vZGVsIGNvdXBsZWQgdG8gYSBHQ00nJywgQUdVIEZhbGwgTWVldGluZywgU2FuIEZyYW5zaXNjbw0KKiBJcml6YXJyeSBNLCBXYW5nIEdMLCBFbHRhaGlyIEVBQiwgMjAwMDogQSBzdHVkeSBvbiB0aGUgY2xpbWF0ZSBvZiBXZXN0IEFmcmljYSBkdXJpbmcgdGhlIE1pZGRsZSBIb2xvY2VuZSB1c2luZyBhIHpvbmFsbHkgc3ltbWV0cmljIGJpb3NwaGVyZS1hdG1vc3BoZXJlIG1vZGVsIChab25hbEJBTSksIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuc2lzY28gIA0KKiBXYW5nIEdMLCAyMDAwOiBNb2RlbGluZyB0aGUgcmVnaW9uYWwgY2xpbWF0ZSBvdmVyIFdlc3QgQWZyaWNhOiB0aGUgaW1wb3J0YW5jZSBvZiB0aGUgYmlvc3BoZXJpYyBmZWVkYmFjaywgV29ya3Nob3Agb24gTW9kZWxpbmcgdGhlIFdlc3QgQWZyaWNhbiBDbGltYXRlIFN5c3RlbSBXaXRoIEdsb2JhbCBhbmQgUmVnaW9uYWwgU2NhbGUgQ2xpbWF0ZSBNb2RlbHMsIFdhc2hpbmd0b24gRC5DLg0KKiBXYW5nIEdMLCBFbHRhaGlyIEVBQiwgMjAwMDogQSBtZWNoYW5pc20gZm9yIHRoZSBsb3ctZnJlcXVlbmN5IHZhcmlhYmlsaXR5IG9mIHRoZSBTYWhlbCByYWluZmFsbCcnLCAxMXRoIFN5bXBvc2l1bSBvbiBHbG9iYWwgQ2hhbmdlIFN0dWRpZXMsIExvbmcgQmVhY2gsIENhbGlmb3JuaWEgKElOVklURUQpDQoqIFdhbmcgR0wsIEVsdGFoaXIgRUFCLCAyMDAwOiBSb2xlIG9mIG5hdHVyYWwgZWNvc3lzdGVtIGR5bmFtaWNzIGluIHRoZSBTYWhlbCBkcm91Z2h0JycsIDExdGggU3ltcG9zaXVtIG9uIEdsb2JhbCBDaGFuZ2UgU3R1ZGllcywgTG9uZyBCZWFjaCwgQ2FsaWZvcm5pYSAoSU5WSVRFRCkNCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIDE5OTk6IERldGVyaW9yYXRpb24gb2YgdGhlIG5hdHVyYWwgZWNvc3lzdGVtIGluZHVjZWQgYnkgdGhlIG1hbi1tYWRlIGxhbmQgY292ZXIgY2hhbmdlczogdGhlIGltcG9ydGFuY2Ugb2YgdmVnZXRhdGlvbiBkeW5hbWljcywgIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuc2lzY28NCiogV2FuZyBHTCwgRWx0YWhpciBFQUIsIDE5OTk6IFJvbGUgb2YgZWNvc3lzdGVtIGR5bmFtaWNzIGluIGJpb3NwaGVyZS1hdG1vc3BoZXJlIGludGVyYWN0aW9ucyBvdmVyIFdlc3QgQWZyaWNhLCBJbnRlcm5hdGlvbmFsIFdvcmtzaG9wIG9uIFdlc3QgQWZyaWNhbiBNb25zb29uIFZhcmlhYmlsaXR5IGFuZCBQcmVkaWN0YWJpbGl0eSwgRGFrYXIsIFNlbmVnYWwgDQoqIFdhbmcgR0wsIEVsdGFoaXIgRUFCLCAxOTk4OiBCaW9zcGhlcmUtYXRtb3NwaGVyZSBpbnRlcmFjdGlvbnM6IHJlcHJlc2VudGF0aW9uIG9mIHN1Yi1ncmlkIHNwYXRpYWwgdmFyaWFiaWxpdHkgb2YgcmFpbmZhbGwgaW50ZXJjZXB0aW9uLCBBR1UgRmFsbCBNZWV0aW5nLCBTYW4gRnJhbnNpc2NvDQoqIFdhbmcgR0wsIEVsdGFoaXIgRUFCLCAxOTk4OiBEZXZlbG9wbWVudCBvZiBhIHpvbmFsbHkgc3ltbWV0cmljIG1vZGVsIHRvIHN0dWR5IGJpb3NwaGVyZS1hdG1vc3BoZXJlIGludGVyYWN0aW9ucywgQUdVIFNwcmluZyBNZWV0aW5nLCBCb3N0b24NCiogV2FuZyBHTCwgWmhlbmcgWFksIEVsdGFoaXIgRUFCLCAxOTk2OiBXaHkgMTk5NCBpcyBhIHdldCB5ZWFyIGluIFdlc3QgQWZyaWNhLCBBR1UgRmFsbCBNZWV0aW5nLCBTYW4gRnJhbnNpc2NvIA0KKiBLaWFuZyBKLCBXYW5nIEdMLCBFbHRhaGlyIEVBQiwgMTk5ODogRU5TTyBhbmQgaXRzIHJlbGF0aW9uc2hpcCB0byBOaWxlIHJpdmVyIGZsb3csIEFHVSBGYWxsIE1lZXRpbmcsIFNhbiBGcmFuc2lzY28NCiogRWx0YWhpciBFQUIsIFpoZW5nIFhZLCBXYW5nIEdMLCAxOTk2OiBUaGUgcm9sZSBvZiBsYW5kLWF0bW9zcGhlcmUtb2NlYW4gaW50ZXJhY3Rpb24gaW4gdGhlIGR5bmFtaWNzIG9mIGRyb3VnaHRzIGFuZCBmbG9vZHMgb3ZlciBXZXN0IEFmcmljYSwgQUdVIEZhbGwgTWVldGluZywgU2FuIEZyYW5zaXNjbw0KKiBZYW5nIE1RLCBXYW5nIEdMLCAxOTk2OiBUaGUgaW5jaXBpZW50IG1vdGlvbiBmb3JtdWxhcyBvZiBtdWQgd2l0aCBkaWZmZXJlbnQgZGVuc2l0aWVzLCBUaGUgU2l4dGggRmVkZXJhbCBJbnRlcmFnZW5jeSBTZWRpbWVudGF0aW9uIENvbmZlcmVuY2UsIExhcyBWZWdhcywgTmV2YWRh</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912331306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

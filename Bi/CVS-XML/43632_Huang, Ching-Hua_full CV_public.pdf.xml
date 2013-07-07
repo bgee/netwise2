@@ -1,0 +1,2493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:05:47 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915331306521"  usageLimitType="allocation" usageLimit="200" currentUsage="119" remainingUsage="81" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Georgia Atlanta</FormattedName>
+<GivenName>Georgia</GivenName>
+<FamilyName>Atlanta</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Taiwan</Municipality>
+<DeliveryAddress>
+<AddressLine>Baltimore Maryland 1993 B.S. Chemistry National</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (404) 894-7694</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>404</AreaCityCode>
+<SubscriberNumber>894-7694</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (404) 894-8266</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>404</AreaCityCode>
+<SubscriberNumber>894-8266</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>ching-hua.huang@ce.gatech.edu</InternetEmailAddress>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://people.ce.gatech.edu/~chuang/</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>M.S. Students with Thesis or SRP Ph.D. Dissertation: &quot;Metal Oxide-Facilitated Oxidation of Antibacterial Agents&quot;</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>School of Civil and Environmental Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Georgia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Georgia</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>05/&apos;09-08/&apos;09
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Graduate Institute of Environmental Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>National Taiwan University, Taipei, Taiwan
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>School of Civil and Environmental Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Georgia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Researcher, Dept. of Civil and Environmental Engineering, University</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Georgia</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>of California, Berkeley, California
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Johns Hopkins University</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Research Assistant, Dept. of Geography and Environmental Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Maryland</Region>
+<Municipality>Baltimore</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Council</EmployerOrgName>
+<PositionHistory>
+<Title>NMR Technician, Center of Precision Instrumentation</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Taiwan</Region>
+<Municipality>Taipei</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>BlueInGreen LLC (2004) Hazen and Sawyer</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Jordan</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Jones and Goulding (2002) III. RESEARCH AREAS Environmental chemistry advanced analytical chemistry contaminant transformation kinetics and mechanisms innovative physical-chemical processes for water treatment occurrence and fate of emerging contaminants in natural and built systems formation and control of emerging disinfection by- products environmental fate, reactivity, applications and implications of nanomaterials water reuse and environmental sustainability. IV. HONORS AND AWARDS * Advisor, ACS Environmental Chemistry Graduate Student Award (L. Padhye), 2010 * Advisor, Georgia Tech AEES Outstanding Doctoral Student Award (L. Padhye), 2010 *
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Visiting Professor Fellowship, National Science</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Taiwan</Region>
+<Municipality>Council</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>12. Delphine Barmaz</EmployerOrgName>
+<PositionHistory>
+<Title>Senior Engineer, Geosyntec Consultants</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Visiting M.S. Student</EmployerOrgName>
+<PositionHistory>
+<Title>Home Institution</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Ãcole Polytechnique FÃ©dÃ©rale De Lausanne (EPFL), Switzerland M.S. thesis research: Method Development for Detection of Antibiotics in Poultry Litter and Litter Impacted Soil and Runoff
+</Description>
+<StartDate>
+<AnyDate>2009-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>13. Pei Wang</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Ph.D</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Student</EmployerOrgName>
+<PositionHistory>
+<Title>Home Institution</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Shanghai Jiaotong University, Shanghai, China Doctoral thesis research: Effect of chlorine dioxide on the formation and transformation of micropollutants of nitrosamines and antibiotics
+</Description>
+<StartDate>
+<AnyDate>2007-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>14. Dr. Yongpeng Xu</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Visiting Scholar Affiliation Associate Professor, Harbin Institute of Technology Research: Impact of permanganate on the fate and transformation of emerging contaminants
+</Description>
+<StartDate>
+<AnyDate>2008-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>15. Dr. Hua Fang</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Visiting Scholar Affiliation Associate Professor, Nanjing University of Information Science and Technology Research: Control of nitrosamine disinfection by-products
+</Description>
+<StartDate>
+<AnyDate>2009-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Postdoctoral Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>16. Dr. Bo Zhang Research: Photochemical reactivity of aqueous C60 (co-advising with Joseph Hughes and Jae- Hong Kim)
+</Description>
+<StartDate>
+<AnyDate>2007-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Shanghai Jiaotong University</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Shanghai</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Ph.D. Students
+</Description>
+<StartDate>
+<AnyDate>2010-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>17. Lokesh Padhye Ph.D.</EmployerOrgName>
+<PositionHistory>
+<Title>Ph.D. Dissertation</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Roles of PolyDADMACs, Dithiocarbamates and Activated Carbons in Formation of N-nitrosamine Contaminants in Water&quot;
+</Description>
+<StartDate>
+<AnyDate>2004-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Senior Engineer, Geosyntec Consultants</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>18. Amisha D. Shah Ph.D. 17. Lokesh Padhye (Ph.D. 15 6/7/2011 Ching-Hua Huang Curriculum Vita Ph.D. Dissertation: &quot;Antibiotics in Water Treatment: The Role of Water Quality Conditions on their Fate and Removal during Chlorination and Nanofiltration&quot; (co-advised with Dr. Jaehong Kim)
+</Description>
+<StartDate>
+<AnyDate>2002-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Environmental Engineering Program</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Yale University</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CT</Region>
+<Municipality>New Haven</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Environmental Engineering Program
+</Description>
+<StartDate>
+<AnyDate>2008-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>19. Wan-Ru Chen</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Ph.D. Ph.D. Dissertation: &quot;Interactions of Tetracycline Antibiotics with Dissolved Metal Ions and Metal Oxides&quot;
+</Description>
+<StartDate>
+<AnyDate>2003-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Plant and Soil Sciences</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2003-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Michigan State University</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>East Lansing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Plant and Soil Sciences
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>20. Sang Hyuck Park</EmployerOrgName>
+<PositionHistory>
+<Title>Ph.D. Dissertation</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Effect of Amine-based Water Treatment Polymers on the Formation of N- Nitrosodimethylamine (NDMA) Disinfection By-Product&quot;
+</Description>
+<StartDate>
+<AnyDate>2003-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>School of Science &amp; Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor of Chemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Georgia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2004-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Gwinnett College</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Lawrenceville</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>21. Huichun Zhang Ph.D. Dissertation: &quot;Metal Oxide-Facilitated Oxidation of Antibacterial Agents&quot;
+</Description>
+<StartDate>
+<AnyDate>2000-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Dept. of Civil &amp; Environmental Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Philadelphia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>22. Sara Nichols Gibson</EmployerOrgName>
+<PositionHistory>
+<Title>M.S. Thesis</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Philadelphia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;Oxidation of Pharmaceuticals and Personal Care Products by Permanganate&quot;
+</Description>
+<StartDate>
+<AnyDate>2008-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Malcolm Pirnie</EmployerOrgName>
+<PositionHistory>
+<Title>Project Engineer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>TX</Region>
+<Municipality>Dallas</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>23. Punita Anand</EmployerOrgName>
+<PositionHistory>
+<Title>Special Research Project</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Disinfection By-Product Formation from Dithiocarbamate Pesticides&quot;
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>R2T</EmployerOrgName>
+<PositionHistory>
+<Title>Project Engineer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>24. Anh Tien Do</EmployerOrgName>
+<PositionHistory>
+<Title>Special Research Project</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Adsorption of Estrogenic Hormone 17Î²ï¿½&apos;Estradiol on Nanofiltration and Ultrafiltration Membranes&quot; (Co-advising with Jae-Hong Kim)
+</Description>
+<StartDate>
+<AnyDate>2004-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>25. Seung Jin Lee</EmployerOrgName>
+<PositionHistory>
+<Title>M.S. Thesis</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Hydrolysis of Organophosphorous Esters Induced by Nanostructured Titania- Based Replicas of Diatom Microshells&quot;
+</Description>
+<StartDate>
+<AnyDate>2003-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Environmental engineer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Georgia Environmental Protection Division (EPD) Doctoral student, Environmental Engineering, Georgia Tech
+</Description>
+<StartDate>
+<AnyDate>2005-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>26. Piti Piyachaturawat</EmployerOrgName>
+<PositionHistory>
+<Title>M.S. Thesis</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Potential N-Nitrosodimethylamine (NDMA) Formation from Water Treatment Polymers&quot;
+</Description>
+<StartDate>
+<AnyDate>2003-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Environmental engineer, Environ</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Novato</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>27. Edward A. McCallum M.S. Thesis: &quot;Adsorption, Desorption, and Steady-State Removal of Estrogenic Hormone 17Î²ï¿½&apos;Estradiol by Nanofiltration and Ultrafiltration Membranes&quot; (Co-advising with Jae-Hong Kim)
+</Description>
+<StartDate>
+<AnyDate>2002-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hazen and Sawyer</EmployerOrgName>
+<PositionHistory>
+<Title>Senior Project Engineer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>28. Michael C. Dodd 16 6/7/2011 Ching-Hua Huang Curriculum Vita M.S. Thesis: &quot;Chemical Oxidation of Aquatic Antibiotic Microcontaminants by Free and Combined Chlorine&quot;
+</Description>
+<StartDate>
+<AnyDate>2001-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Washington</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Dept. of Civil &amp; Environmental Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>WA</Region>
+<Municipality>Seattle</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2003-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>29. Jay Renew</EmployerOrgName>
+<PositionHistory>
+<Title>M.S. Thesis</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>&quot;Novel Analytical Method Development and Fate Assessment for Fluoroquinolone, Sulfonamide and Trimethoprim Antibiotics in Engineered Water Treatment Systems&quot;(2003)
+</Description>
+<StartDate>
+<AnyDate>2000-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Paul B. Krebs &amp; Associates</EmployerOrgName>
+<PositionHistory>
+<Title>Principle Project Engineer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>30. Kristen L. Smeby</EmployerOrgName>
+<PositionHistory>
+<Title>M.S. Thesis</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Occurrence and Fate of Fluoroquinolone Antibacterial Agents in Wastewater Treatment&quot;
+</Description>
+<StartDate>
+<AnyDate>2000-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hazen and Sawyer</EmployerOrgName>
+<PositionHistory>
+<Title>Principle Project Engineer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>M.S. Research Students
+</Description>
+<StartDate>
+<AnyDate>2007-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Reactivity of nanoparticles and persulfate-based 31. Yu-Wen Huang oxidation processes
+</Description>
+<StartDate>
+<AnyDate>2006-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Mechanisms and environmental applications of persulfate- 32. Kinjal Shah based oxidation
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Potential NDMA formation 33. John Atwood via oxidation of amine- based polymers by ClO2 Undergraduate Research Students
+</Description>
+<StartDate>
+<AnyDate>2004-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Environmental fate of pharmaceuticals and personal care</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>34. Glenn Skawski products (PPCPs)
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Photodegradation of tetracycline sulfonamide 35. Michael Mecredy antibiotics during water treatment
+</Description>
+<StartDate>
+<AnyDate>2008-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Environmental fate of chromium 36. Sara Nichols in tannery sludge in Ulaanbaatar, Mongolia
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Catalytic halogenation induced by tertiary amines 37. Matthew Thompson and effect of metals 38. Kin Man Chung (exchange student from Hong Kong University of Science and Technology
+</Description>
+<StartDate>
+<AnyDate>2006-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>39. Andrew Tartaglia</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Adsorptive and oxidative interactions of antibacterial agents with metal oxides and oxide-rich soils
+</Description>
+<StartDate>
+<AnyDate>2003-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>40. Michael C. Dodd</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>(i) Removal of fluoroquinolone antibacterial agents by granular activated carbon (ii) Oxidative reaction of carbadox with manganese oxides
+</Description>
+<StartDate>
+<AnyDate>2002-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>High School Research Students (GTEERIP Program)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Removal of ciprofloxacin by coagulation/flocculation and granular activated carbon 41. Jinsoo Lim (July 2010) - Catalytic role of activated carbons in transformation of secondary amines to N-nitrosamines 42. Jun Young Maeng (July 2010) - Catalytic role of activated carbons in transformation of secondary amines to N-nitrosamines 43. Joo Hee Lee (July 2010) - Catalytic role of activated carbons in transformation of secondary amines to N-nitrosamines
+</Description>
+<StartDate>
+<AnyDate>2001-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Enhanced NDMA formation by activated carbons 45. 44. Woo Joo Park
+</Description>
+<StartDate>
+<AnyDate>2009-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Hyuk Jin Yoon</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Enhanced NDMA formation by activated carbons 46.
+</Description>
+<StartDate>
+<AnyDate>2009-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Yeun Chul Chung</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- NDMA formation potential of dithiocarbamates 17 6/7/2011 Ching-Hua Huang Curriculum Vita
+</Description>
+<StartDate>
+<AnyDate>2008-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- NDMA formation potential of dithiocarbamates 48. 47. Tea Seung Kim
+</Description>
+<StartDate>
+<AnyDate>2008-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Keebuhm Park</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>- Adsorption of organoarsenics onto metal oxide surfaces 49.
+</Description>
+<StartDate>
+<AnyDate>2007-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Doo Hyun Chung</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>- Adsorptive interactions of organoarsenics with iron oxide B. Courses Taught Since her appointment at Georgia Tech, Prof. Huang has regularly taught three graduate courses (CEE 6312, 6350, 6319), two undergraduate courses (CEE 4300, 3340), and one graduate seminar course (8095C). She has developed entirely new materials for CEE 4300, 6312, and 6350. She has also developed new laboratory modules for CEE 3340 and 6319. * CEE 3340 Environmental Engineering Undergraduate Lab * CEE 4300 Environmental Engineering Systems * CEE 6312 Chemical Principles in Environmental Engineering * CEE 6350 Advanced Environmental Chemistry * CEE 6319 Environmental Science and Engineering Graduate Lab * CEE 8095C Environmental Research Seminar: Water C. Other Teaching Activities and Highlights Outreach Activities In the 2010 Fall semester, Dr. Huang led the students in her course (CEE 3340 Environmental Engineering Undergraduate Lab) to conduct a water quality survey project for the Piedmont Park
+</Description>
+<StartDate>
+<AnyDate>2006-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Conservancy (PPC) in</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Atlanta. In this project, Dr. Huang combined classroom lectures and lab activities and designed a project to meet PPC&apos;s need to evaluate their water quality in the newly expanded areas. Students were able to apply learned theories and techniques and provide valuable technical service to the local community. Web-Based Teaching Tools Prof. Huang has created individual websites for each of her courses to serve multiple functions including depository of lecture handouts, supplementary reading materials, exam/homework solutions, student projects, etc. The websites have been used as a vital interactive learning tool, particularly for sharing and exchange of information among students at different Georgia Tech campuses and other distance-learning locations. Distance-Learning/Continuing Education Prof. Huang has also offered her courses of Chemical Principles in Environmental Engineering (CEE 6312), Advanced Environmental Chemistry (CEE 6350), and Environmental Engineering Systems (CEE 4300) as video-based courses for continuing education students or for students located at a different campus. The distance-learning courses were offered simultaneously with on-campus sessions with the assistance from Georgia Tech&apos;s Center of Distance Learning (DL) Program. Prof. Huang has taught more than 60 DL students over the years and is experienced in this teaching format. 18 6/7/2011
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Johns Hopkins University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Maryland</Region>
+<Municipality>Baltimore</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1997-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Johns Hopkins University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Maryland</Region>
+<Municipality>Baltimore</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>National Taiwan University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Taiwan</Region>
+<Municipality>Taipei</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1990-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Georgia Tech CEE Best</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Advisor</Name>
+</DegreeMajor>
+<Comments>Invited speaker for the Environmental Sciences Water Gordon Conference</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Georgia Tech CEE Best</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Advisor</Name>
+</DegreeMajor>
+<Comments>Thesis Award M. C. Dodd</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Georgia Tech</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Advisor</Name>
+</DegreeMajor>
+<Comments>President Undergraduate Research Award A. Tartaglia</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeMajor>
+<Name>Nanoparticles by ICP</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Environmental Engineering</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>National Taiwan University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Taiwan</Region>
+<Municipality>Taipei</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2007-06-08</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Environmental Engineering</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeMajor>
+<Name>Water and Wastewater Treatment Systems.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>National Taiwan University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Taiwan</Region>
+<Municipality>Taipei</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Environmental Studies Program</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Washington</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Environmental and Chemical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>National Chung Hsing University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Taichung</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2006-05-24</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>of Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>School of Chemistry and Biochemistry Georgia Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2005-09-08</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>An Environmental Chemistry Perspective.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Environmental Engineering</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeMajor>
+<Name>Huang</Name>
+</DegreeMajor>
+<Comments>Environmental Fate of Emerging Contaminants: the Cases of Antibacterial Agents.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>National Taiwan University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Taiwan</Region>
+<Municipality>Taipei</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2005-05-17</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Auburn University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>AL</Region>
+<Municipality>Auburn</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2005-02-09</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>of Civil and Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Clemson University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>SC</Region>
+<Municipality>Clemson</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2004-10-07</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>of Civil and Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Delaware</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>DE</Region>
+<Municipality>Newark</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2004-08-27</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>of Civil and Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>School of Earth and</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Metal Oxides.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Georgia Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2002-11-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Atmospheric Sciences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Environmental Engineering Seminar</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Factors Affecting the Fate of Antibacterial Agents</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>the Aquatic Environment.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>School of Civil and Environmental Engineering</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Georgia</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2002-08-28</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Minnesota</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MN</Region>
+<Municipality>Minneapolis</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2001-10-12</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>of Civil and Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Environmental Engineering Seminar</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Huang</Name>
+</DegreeMajor>
+<Comments>Occurrence and Fate of Pharmaceutical Compounds in Aquatic Environment.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>School of Civil and Environmental Engineering</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Georgia</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2000-11-08</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Environmental Fluid Mechanics and Water Resources Seminar</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Effluent and Surface Water.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>School of Civil and Environmental Engineering Georgia Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2000-10-27</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang</Name>
+</DegreeMajor>
+<Comments>Analysis of Estrogenic Hormones in Municipal Wastewater Effluent and Surface   Water Using ELISA and GC/MS/MS.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>School of</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>of Biologically-Active Polar Pollutants</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>the Aquatic Environment.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Georgia Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1999-04-08</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil and Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Baltimore</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Hydrous Metal Oxide Surfaces.</Name>
+</DegreeMajor>
+<Comments>Dissertation, Dept. of Geography and Environmental Engineering, Johns Hopkins University</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Baltimore</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang, C-H.</Name>
+</DegreeMajor>
+<Comments>Thesis, Dept. of Geography and Environmental Engineering, Johns Hopkins University</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>USDA</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2012-10-31</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang PI.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UC Berkeley/AWWARF</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2002-12-31</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Huang PI.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Professional Contributions: Conference, Workshop</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>DE</Region>
+<Municipality>Newark</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2031-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>SERVICES A.</Name>
+</DegreeMajor>
+<Comments>Chair and Organizer * International Program Committee Member, the 6th International Conference on Sustainable Water Environment, University of Delaware</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Inc. and Georgia Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and sponsored by R2T</Name>
+</DegreeMajor>
+<Comments>Workshop Organizer, &quot;Emerging Contaminant Workshop&quot; for metro Atlanta water officials</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Georgia Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Exposure and Health</Name>
+</DegreeMajor>
+<Comments>Symposium Session Chair, the 76th Colloid and Surface Science Symposium, poster session</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Army Corps of Engineers Engineer Research and Development Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Reviewer</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Georgia Water Resources Institute National Institute for Water Resources</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>National Science Foundation NSF</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Admission Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Lab Course Committee</Name>
+</DegreeMajor>
+<Comments>Chair Search Committee</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Curriculum Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Peizhe Sun</Name>
+</DegreeMajor>
+<Comments>Research: Environmental fate and transformation of veterinary antibiotics</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Yung-Li Wang</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Beijing Jiaotong University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>China</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Professor, Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Harbin Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>China</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Lecturer, Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Southeast University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>China</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>of Municipal Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>William W. Baggett</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Jonathan Callura</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Jasdeep Singh</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<StartDate><StringDate>2013-11-01</StringDate></StartDate>
+<EventName>with proceeding papers 1. Huang C.-H. PolyDADMAC and Dimethylamine as Precursors of N-Nitrosodimethylamine during Ozonation Water Quality Technology Conference 2011. Phoenix</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Arizona. (abstract accepted) 2. Yao H. Huang C.-H. Progress Concerning the Occurrence Fate and Removal of Antibiotics in Wastewater Treatment Systems in China and Other Countries IWA International Conference -</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Invited] 7. *Huang C.-H. Wang P. He Y.-L. Reactions of Chlorine Dioxide and Free Chlorine with Fluoroquinolone and Tetracycline Antibiotics under Water Treatment Conditions the 6th</Title>
+<EventName>International Conference on Sustainable Water Environment: Water Infrastructures in Time of</EventName>
+<EventType>conference</EventType>
+<Location>Boston MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Climate Change University of Delaware 2010. [Invited]</EventName>
+<EventType>conference</EventType>
+<Location>Newark DE USA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Mechanisms of N-Nitrosodimethylamine Formation from Ozonation of PolyDADMAC and</Title>
+<EventName>Dimethylamine. Poster presented at the Gordon Research Conference Environmental Sciences</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>9. *Padhye L. Tezel U. Huang C.-H. Pavlostathis S. G. Biotransformation of Nitrosamines and</Title>
+<EventName>Secondary Amines in a Mixed Methanogenic Culture. WEFTEC &apos;09 Research Symposium</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>12. Huang C.-H. Removal and Transformation of Antibiotics by Chlorination Processes. Georgia</Title>
+<StartDate><StringDate>2008-08-19</StringDate></StartDate>
+<EventName>Association of Water Professionals (GAWP) Annual Conference &amp; Expo [Invited]</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>13. Padhye L. Tezel U. Pavlostathis S. G. Huang C.-H. Fate and Formation of Nitrosamines in Municipal Wastewater Treatment Plants oral and poster presentations at the IWA Young Water</Title>
+<EventName>Professional Conference 2008.</EventName>
+<EventType>conference</EventType>
+<Location>Berkeley CA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Nanofiltration Membranes under Varying Water Quality Conditions. AWWA Annual</Title>
+<StartDate><StringDate>2008-01-01</StringDate></StartDate>
+<EventName>Conference Atlanta GA June 8-12</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Nitrosamines and Their Precursors by Nanofiltration and Reverse Osmosis Membranes. AWWA</Title>
+<EventName>Annual Conference June 2008.</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Meeting New Orleans LA April 6-10</Title>
+<StartDate><StringDate>2008-03-26</StringDate></StartDate>
+<EventName>18. Padhye L. Tezel U. Pavlostathis S. G. Huang C.-H. Fate and Formation of Nitrosamines in Water and Wastewater Treatment Plants poster presented at the Kindsvatar Symposium</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>23. *Shah A. D. Huang C.-H. Kim J.-H. Effect of Varying Water Quality Conditions on Rejection of Selected Antibiotics by Nanofiltration Membranes. Membrane Technology</Title>
+<EventName>Conference Tampa FL 2007.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Nitrosamines by Nanofiltration and Reverse Osmosis Membranes. Membrane Technology</Title>
+<EventName>Conference Tampa FL 2007.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Hydrolysis in the Presence of Porous Titania Nanoparticle Structures Derived from Diatom</Title>
+<EventName>Frustules the 31st International Cocoa Beach Conference on Advanced Ceramics and</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>27. Huang C.-H. Dodd M. C. Shah A. D. Reactions of Antibacterial Agents with Aqueous</Title>
+<EventName>Chlorine under Water Treatment Conditions poster presented at the Drinking Water Disinfection</EventName>
+<EventType>conference</EventType>
+<Location>San Francisco CA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>By-Products Gordon Research Conference Mount Holyoke College Aug.</EventName>
+<EventType>conference</EventType>
+<Location>South Hadley MA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>28. Park S. H. Wei S. Mizaikoff B. Taylor A. E. Huang C.-H. Mechanistic Insight for the N</Title>
+<EventName>Nirosodimethylamine (NDMA) Formation Potential of Amine-based Polymers poster presented at the Drinking Water Disinfection By-Products Gordon Research Conference Mount Holyoke</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>29. Chen W.-R. Zhang H. Huang C.-H. Kinetic Modeling for the MnO2-Mediated Oxidation of</Title>
+<EventName>Antibacterial Agents and Mechanistic Insight poster presented at the Environmental Sciences</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2006-01-01</StringDate></StartDate>
+<EventName>Water Gordon Research Conference Holderness School June 25-30</EventName>
+<EventType>conference</EventType>
+<Location>Plymouth NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Hormones and Selected Human and Veterinary Antibiotics by Nanofiltration Membranes</Title>
+<StartDate><StringDate>2011-06-01</StringDate></StartDate>
+<EventName>AWWA Annual Conference &amp; Exposition 2006.</EventName>
+<EventType>conference</EventType>
+<Location>San Antonio TX</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>33. Huang C.-H. Transformation of Antibacterial Agents with Aqueous Chlorine: Reaction</Title>
+<StartDate><StringDate>2006-03-16</StringDate></StartDate>
+<EventName>Kinetics Mechanisms and Pathways. The 57th Pittsburgh Conference on Analytical Chemistry and Applied Spectroscopy [Invited]</EventName>
+<EventType>conference</EventType>
+<Location>Orlando FL</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>34. Chen W.-R. Huang C.-H. Transformation of Tetracycline Antibiotics with Manganese Oxide and Mn (II) Ions poster presented at the SETAC 26th Annual Meeting Baltimore</EventName>
+<EventType>conference</EventType>
+<Location>North America</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Ching-Hua Huang Curriculum Vita 35. *Shah A. D. Kim J.-H. Huang C.-H. Reactions of Quinoxaline N N&apos;-Dioxide Antibacterial</Title>
+<EventName>Agents with Free and Combined Chlorine. Water Quality Technology Conference (WQTC)</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>National Meeting</Title>
+<EventName>40. Huang C.-H. Lee S. J. Shian S. Sandhage K. H. Novel Nanostructured Anatase Assemblies from Algae as Strong Catalysts for the Hydrolysis of Organophosphorous Esters oral presentation at the 79th ACS Colloid and Surface Science Symposium Clarkson University</EventName>
+<EventType>conference</EventType>
+<Location>Washington DC</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Potsdam NY 2005.</Title>
+<StartDate><StringDate>2005-04-02</StringDate></StartDate>
+<EventName>41. Shah A. D. McCallum E. Park A. Huang C.-H. Kim J.-H. Effect of Water Quality on Rejection of Selected Human and Veterinary Antibiotics by NF and RO Membranes poster presented at the Quadrangle Conference Georgia Institute of Technology</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Nanofiltration Membranes: Effects of Hormone Concentration and Natural Organic Matter</Title>
+<StartDate><StringDate>2005-04-02</StringDate></StartDate>
+<EventName>Fouling on Removal Efficiency poster presented at the Quadrangle Conference Georgia Institute of Technology</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>43. *Shah A. D. McCallum E. Park A. Huang C.-H. Kim J.-H. Effect of Water Quality on Rejection of Selected Human and Veterinary Antibiotics by Nanofiltration and Reverse Osmosis</Title>
+<EventName>Membranes. Membrane Technology Conference March - 9</EventName>
+<EventType>conference</EventType>
+<Location>Phoenix AZ</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Nanofiltration Membranes: Effects of Hormone Concentration and Natural Organic Matter</Title>
+<EventName>Fouling on Removal Efficiency. Membrane Technology Conference March - 9</EventName>
+<EventType>conference</EventType>
+<Location>Phoenix AZ</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>46. Huang C.-H. Interfacial Transformation of Antibacterial Agents with Metal Oxides. Gordon</Title>
+<StartDate><StringDate>2004-06-30</StringDate></StartDate>
+<EventName>Research Conference Environmental Sciences: Water</EventName>
+<EventType>conference</EventType>
+<Location>New Hampton NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Invited] 47. Zhang H. Huang C.-H. Adsorptive and Oxidative Transformation of Triclosan by Goethite and</Title>
+<EventName>Soils poster presented at the Gordon Research Conference Environmental Sciences: Water</EventName>
+<EventType>conference</EventType>
+<Location>New Hampton NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>48. *Dodd M. C. Huang C.-H. Chemical Oxidation of Aquatic Antibiotic Microcontaminants by</Title>
+<EventName>Free and Combined Chlorine. Water Quality Technology Conference</EventName>
+<EventType>conference</EventType>
+<Location>Philadelphia PA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Structurally-Related Amine Compounds oral presentation at the 77th ACS Colloid and Surface</Title>
+<EventName>Science Symposium 2003.</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>52. Renew J. E. Huang C.-H. Fate Assessment for Fluoroquinolone Sulfonamide and</Title>
+<StartDate><StringDate>2003-05-21</StringDate></StartDate>
+<EventName>Trimethoprim Antibiotics in Engineered Water Treatment Systems oral presentation at the GW&amp;PCA Conference Cobb County GA</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>53. *Zhang H. Huang C.-H. Manganese Oxide-Facilitated Oxidative Transformation of</Title>
+<EventName>Antibacterial Agents. The 3rd International Conference on Pharmaceuticals and Endocrine</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>19-21</Title>
+<EventName>54. Smeby K. L. Renew J. E. Huang C.-H. Occurrence and Fate of Antibiotic Compounds in Wastewater Treatment Systems oral presentation at the GW&amp;PCA Conference Cobb County</EventName>
+<EventType>conference</EventType>
+<Location>Minneapolis MN</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>55. Renew J. E. Huang C.-H. Smeby K. L. Occurrence and Fate of Fluoroquinolone and</Title>
+<EventName>Sulfonamide Antibiotics in Wastewater Treatment Systems poster presented at the Gordon</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2002-06-01</StringDate></StartDate>
+<EventName>Research Conference Environmental Sciences: Water</EventName>
+<EventType>conference</EventType>
+<Location>New Hampton NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>56. Zhang H. Huang C.-H. Oxidative Transformation of Antibacterial Agents by Manganese (Hydr) Oxides poster presented at the Gordon Research Conference Environmental Sciences</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Sulfonamide Antibacterial Agents during Municipal Wastewater Treatment. Endocrine</Title>
+<StartDate><StringDate>2002-01-01</StringDate></StartDate>
+<EventName>Disruptors and the Water Industry Symposium American Water Works Association April 18-20</EventName>
+<EventType>conference</EventType>
+<Location>Cincinnati OH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Meeting Orlando FL</Title>
+<EventName>60. Zhang H. Huang C.-H. Oxidative Transformation of Antibacterial Agents by Manganese (Hydr) Oxides poster presented at the Quadrangle Conference University of North Carolina</EventName>
+<EventType>conference</EventType>
+<Location>Orlando FL</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Chapel Hill NC</Title>
+<EventName>61. Huang C.-H. Smeby K. L. Renew J. E. Assessment of Potential Antibiotic Contaminants in Water and Preliminary Occurrence Analysis poster presented at the 22nd SETAC Meeting</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Antibiotic Contaminants in Water and Preliminary Occurrence Analysis. The 2nd International</Title>
+<EventName>Conference on Pharmaceuticals and Endocrine Disrupting Chemicals in Water October 9-11</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Compounds in Municipal Wastewater and Animal Waste. The 74th Water Environment</Title>
+<StartDate><StringDate>2013-10-01</StringDate></StartDate>
+<EventName>Federation Annual Conference &amp; Exposition (WEFTEC) 2001.</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2000-06-01</StringDate></StartDate>
+<EventName>64. Huang C.-H. Cwiertny D. M. Sedlak D. L. Immunochemical Techniques to Overcome the Analytical Challenges for Studies of Estrogenic Hormones in Environmental Matrices poster presented at the Gordon Research Conference Environmental Sciences: Water</EventName>
+<EventType>conference</EventType>
+<Location>New Hampton NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Disruption oral presentation at the 19th SETAC Meeting</Title>
+<StartDate><StringDate>1998-01-01</StringDate></StartDate>
+<EventName>67. Huang C.-H. Chien M. Sedlak D. L. Draper W. M. Analysis of Estrogenic Hormones in Wastewater Effluent poster presented at the University of California Toxic Substance Research and Teaching Program Symposium April 24-25</EventName>
+<EventType>conference</EventType>
+<Location>Berkeley CA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Electrophoresis. The 214th ACS National Meeting Division of Environmental Chemistry Student</Title>
+<StartDate><StringDate>1997-10-01</StringDate></StartDate>
+<EventName>Award Symposium [Invited]</EventName>
+<EventType>conference</EventType>
+<Location>Las Vegas NV</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>71. Huang C.-H. Stone A. T. CuII-Catalyzed Hydrolysis of the Plant Growth Regulator</Title>
+<StartDate><StringDate>1996-06-01</StringDate></StartDate>
+<EventName>Daminozide (Alar) and Structurally-Related Compounds Using Capillary Electrophoresis poster presented at the Gordon Research Conference Environmental Sciences: Water</EventName>
+<EventType>conference</EventType>
+<Location>New Hampton NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>73. Huang C.-H. Stone A. T. The Effect of Metal Ions and Metal Complexes on the Hydrolysis of</Title>
+<EventName>Amide Anilide and Carbamate Agrochemicals poster presented at the 2nd SETAC World</EventName>
+<EventType>conference</EventType>
+<Location>Washington DC</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1995-11-01</StringDate></StartDate>
+<EventName>Congress Vancouver Canada.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>technical report Geological Survey Georgia Water Resources Institute (Project</Title>
+<EventName>2002GA11B). E. Invited Presentations (not listed under Section V. C - Conferences) 1. Huang C-H. Environmental Occurrence and Transformation of Pharmaceutical Contaminants</EventName>
+<EventType>conference</EventType>
+<Location>U.S.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Beijing Forestry University College of Environmental Science and Engineering</EventName>
+<EventType>conference</EventType>
+<Location>Beijing China</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>3. Huang C-H. Environmental Occurrence and Transformation of Pharmaceutical Contaminants</Title>
+<StartDate><StringDate>2011-01-01</StringDate></StartDate>
+<EventName>School of Environmental Science and Technology Tianjin University</EventName>
+<EventType>conference</EventType>
+<Location>Tianjin China</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>4. Huang C-H. Formation and Control of Nitrosamine Disinfection By-Products. School of</Title>
+<StartDate><StringDate>2011-01-01</StringDate></StartDate>
+<EventName>Environmental Science and Technology Tianjin University</EventName>
+<EventType>conference</EventType>
+<Location>Tianjin China</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>5. Huang C-H. Emerging Contaminants from Agrochemicals: Environmental Fate and Implications</Title>
+<StartDate><StringDate>2010-12-01</StringDate></StartDate>
+<EventName>University of Georgia</EventName>
+<EventType>conference</EventType>
+<Location>Griffin GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>6. Huang C.-H. Discussion Leader - Organic Compounds in Water and Ice. Gordon Research</Title>
+<EventName>Conference Environmental Sciences: Water 2010</EventName>
+<EventType>conference</EventType>
+<Location>New Hampton NH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>7. Huang C.-H. Formation and Fate of Nitrosamines in Water and Wastewater Treatment Systems</Title>
+<StartDate><StringDate>2009-08-06</StringDate></StartDate>
+<EventName>National Taiwan University Institute of Environmental Public Health</EventName>
+<EventType>conference</EventType>
+<Location>Taipei Taiwan</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>8. Huang C.-H. Formation and Fate of Nitrosamines in Water and Wastewater Treatment Systems</Title>
+<StartDate><StringDate>2009-07-21</StringDate></StartDate>
+<EventName>National Cheng Kung University</EventName>
+<EventType>conference</EventType>
+<Location>Tainan Taiwan</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>9. Huang C.-H. Interactions of Tetracycline Antibiotics with Dissolved Metal Ions and Metal</Title>
+<EventName>Oxides. Emerging Contaminant Conference Graduate Institute of Environmental Engineering</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2008-06-11</StringDate></StartDate>
+<EventName>National Taiwan University</EventName>
+<EventType>conference</EventType>
+<Location>Taipei Taiwan</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>10. Huang C.-H. Formation and Fate of Nitrosamines in Water and Wastewater Treatment Systems</Title>
+<StartDate><StringDate>2008-06-06</StringDate></StartDate>
+<EventName>Tsinghua University</EventName>
+<EventType>conference</EventType>
+<Location>Beijing China</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>11. Huang C.-H. Interactions of Tetracycline Antibiotics with Dissolved Metal Ions and Metal</Title>
+<StartDate><StringDate>2008-06-04</StringDate></StartDate>
+<EventName>Oxides. Tongji University</EventName>
+<EventType>conference</EventType>
+<Location>Shanghai China</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>12. Huang C.-H. Interactions of Tetracycline Antibiotics with Dissolved Metal Ions and Metal</Title>
+<StartDate><StringDate>2008-06-03</StringDate></StartDate>
+<EventName>Oxides. Shanghai Jiao Tong University</EventName>
+<EventType>conference</EventType>
+<Location>Shanghai China</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>13. Huang C.-H. Interactions of Tetracycline Antibiotics with Dissolved Metal Ions and Metal</Title>
+<StartDate><StringDate>2008-06-02</StringDate></StartDate>
+<EventName>Oxides. Nanjing University</EventName>
+<EventType>conference</EventType>
+<Location>Nanjing China</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>14. Huang C.-H. Water Treatment of Emerging Contaminants and Implications on Water Reuse</Title>
+<StartDate><StringDate>2008-03-06</StringDate></StartDate>
+<EventName>Department of Environmental Studies Emory University</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>15. Huang C.-H. Impact of Emerging Contaminants on Water Management and</Title>
+<StartDate><StringDate>2007-08-31</StringDate></StartDate>
+<EventName>Knowledge and Future Challenges. The Emerging Contaminants Workshop for metro Atlanta water officials Georgia Institute of Technology</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Analytical Chemistry">
+<CompetencyEvidence name ="Analytical Chemistry" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Instrumentation">
+<CompetencyEvidence name ="Instrumentation">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pharmaceutical Industry">
+<CompetencyEvidence name ="Pharmaceutical Industry" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Science">
+<CompetencyEvidence name ="Science" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Water Treatment">
+<CompetencyEvidence name ="Water Treatment" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">18</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2008-01-01</StringDate></Date>
+<Description>by</Description>
+<IssuingAuthority>Georgia Tech CETL &quot;Thank a Teacher&quot; Program</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01 - PRESENT</StringDate></Date>
+<Description>Division of Environmental Chemistry</Description>
+</Achievement>
+<Achievement>
+<Description>Professional Organization Affiliation American Chemical Society (ACS)</Description>
+</Achievement>
+<Achievement>
+<Description>Association of Environmental Engineering and Science Professors (AEESP) American Water Works Association (AWWA)</Description>
+</Achievement>
+<Achievement>
+<Description>Water Environment Federation (WEF) Society of Environmental Toxicology and Chemistry (SETAC)</Description>
+</Achievement>
+<Achievement>
+<Description>International Water Association (IWA) Georgia Association of Water Professionals (GWAP)</Description>
+</Achievement>
+<Achievement>
+<Description>B. Campus Contributions Georgia Institute of Technology</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01 - 2009-01-01</StringDate></Date>
+<Description>Member Sigma Xi Thesis Award Committee (2002)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01 - PRESENT</StringDate></Date>
+<Description>School of Civil and Environmental Engineering Member Environmental Engineering Faculty Search Committee</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01 - PRESENT</StringDate></Date>
+<Description>Member CEE Awards Committee (2006 - 2008)</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Committee Member and Judge American Chemical Society (ACS)</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member Tenure and Promotion (RPT) Committee College of Engineering Reappointment</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member Singapore Institute Initiative CEE Committee (2006 - 2007) Georgia Tech</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member Environmental Engineering Curriculum Committee</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member Environmental Engineering Facility Committee (2007 - present)</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member of Thesis Committees of 35 Ph.D. and 8 M.S. students (Spring 2000 - present)</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member, Environmental Engineering</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member, Environmental Engineering</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member, Wilder Junior</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member, CEE</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hpbmctSHVhIEh1YW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2hpbmctSHVhIEh1YW5nLCBQaC5ELg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBc3NvY2lhdGUgUHJvZmVzc29yDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNjaG9vbCBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZw0KDQogICAgICAgICAgICAgICAgICAgICAgICAgIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEF0bGFudGEsIEdlb3JnaWEgMzAzMzINCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBob25lOiAoNDA0KSA4OTQtNzY5NDsgRmF4OiAoNDA0KSA4OTQtODI2NjsNCg0KICAgICAgICAgICBFLW1haWw6IGNoaW5nLWh1YS5odWFuZ0BjZS5nYXRlY2guZWR1OyBXZWJzaXRlOiBodHRwOi8vcGVvcGxlLmNlLmdhdGVjaC5lZHUvfmNodWFuZy8NCg0KDQoNCiAgSS4gRUFSTkVEIERFR1JFRVMNCg0KICAgICAgUGguRC4gRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZyAgICAgICAgSm9obnMgSG9wa2lucyBVbml2ZXJzaXR5LCBCYWx0aW1vcmUsIE1hcnlsYW5kICAgICAgICAgIDE5OTcNCg0KICAgICAgTS5TLiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nICAgICAgICAgSm9obnMgSG9wa2lucyBVbml2ZXJzaXR5LCBCYWx0aW1vcmUsIE1hcnlsYW5kICAgICAgICAgIDE5OTMNCg0KICAgICAgQi5TLiAgQ2hlbWlzdHJ5ICAgICAgICAgICAgICAgICAgICAgICAgTmF0aW9uYWwgVGFpd2FuIFVuaXZlcnNpdHksIFRhaXBlaSwgVGFpd2FuICAgICAgICAgICAgIDE5OTANCg0KDQoNCiAgSUkuIEVNUExPWU1FTlQNCg0KICAgICAgQWNhZGVtaWMgQXBwb2ludG1lbnRzOg0KDQogICAgICAyMDA3IC0gUHJlc2VudDogQXNzb2NpYXRlIFByb2Zlc3NvciwgU2Nob29sIG9mIENpdmlsIGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBHZW9yZ2lhDQoNCiAgICAgICAgICAgICAgICAgICAgICBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgQXRsYW50YSwgR2VvcmdpYQ0KDQogICAgICAwNS8nMDktMDgvJzA5ICAgVmlzaXRpbmcgQXNzb2NpYXRlIFByb2Zlc3NvciwgR3JhZHVhdGUgSW5zdGl0dXRlIG9mIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsDQoNCiAgICAgICAgICAgICAgICAgICAgICBOYXRpb25hbCBUYWl3YW4gVW5pdmVyc2l0eSwgVGFpcGVpLCBUYWl3YW4NCg0KICAgICAgMjAwMCAtIDIwMDc6ICAgIEFzc2lzdGFudCBQcm9mZXNzb3IsIFNjaG9vbCBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgR2VvcmdpYQ0KDQogICAgICAgICAgICAgICAgICAgICAgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEF0bGFudGEsIEdlb3JnaWENCg0KICAgICAgMTk5NyAtIDE5OTk6ICAgIFBvc3Rkb2N0b3JhbCBSZXNlYXJjaGVyLCBEZXB0LiBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgVW5pdmVyc2l0eQ0KDQogICAgICAgICAgICAgICAgICAgICAgb2YgQ2FsaWZvcm5pYSwgQmVya2VsZXksIENhbGlmb3JuaWENCg0KICAgICAgMTk5MSAtIDE5OTc6ICAgIEdyYWR1YXRlIFJlc2VhcmNoIEFzc2lzdGFudCwgRGVwdC4gb2YgR2VvZ3JhcGh5IGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLA0KDQogICAgICAgICAgICAgICAgICAgICAgSm9obnMgSG9wa2lucyBVbml2ZXJzaXR5LCBCYWx0aW1vcmUsIE1hcnlsYW5kDQoNCiAgICAgIDE5OTA6ICAgICAgICAgICBOTVIgVGVjaG5pY2lhbiwgQ2VudGVyIG9mIFByZWNpc2lvbiBJbnN0cnVtZW50YXRpb24sIE5hdGlvbmFsIFNjaWVuY2UgQ291bmNpbCwNCg0KICAgICAgICAgICAgICAgICAgICAgIFRhaXBlaSwgVGFpd2FuDQoNCiAgICAgIENvbnN1bHRpbmcgRXhwZXJpZW5jZToNCg0KICAgICAgQmx1ZUluR3JlZW4sIExMQyAoMjAwNCk7IEhhemVuIGFuZCBTYXd5ZXIgKDIwMDMpOyBKb3JkYW4sIEpvbmVzIGFuZCBHb3VsZGluZyAoMjAwMikNCg0KDQoNCiAgSUlJLiBSRVNFQVJDSCBBUkVBUw0KDQogIEVudmlyb25tZW50YWwgY2hlbWlzdHJ5OyBhZHZhbmNlZCBhbmFseXRpY2FsIGNoZW1pc3RyeTsgY29udGFtaW5hbnQgdHJhbnNmb3JtYXRpb24ga2luZXRpY3MgYW5kDQoNCiAgbWVjaGFuaXNtczsgaW5ub3ZhdGl2ZSBwaHlzaWNhbC1jaGVtaWNhbCBwcm9jZXNzZXMgZm9yIHdhdGVyIHRyZWF0bWVudDsgb2NjdXJyZW5jZSBhbmQgZmF0ZSBvZg0KDQogIGVtZXJnaW5nIGNvbnRhbWluYW50cyBpbiBuYXR1cmFsIGFuZCBidWlsdCBzeXN0ZW1zOyBmb3JtYXRpb24gYW5kIGNvbnRyb2wgb2YgZW1lcmdpbmcgZGlzaW5mZWN0aW9uIGJ5LQ0KDQogIHByb2R1Y3RzOyBlbnZpcm9ubWVudGFsIGZhdGUsIHJlYWN0aXZpdHksIGFwcGxpY2F0aW9ucyBhbmQgaW1wbGljYXRpb25zIG9mIG5hbm9tYXRlcmlhbHM7IHdhdGVyIHJldXNlIGFuZA0KDQogIGVudmlyb25tZW50YWwgc3VzdGFpbmFiaWxpdHkuDQoNCg0KDQogIElWLiBIT05PUlMgQU5EIEFXQVJEUw0KDQogICAgICAqICAgQWR2aXNvciwgQUNTIEVudmlyb25tZW50YWwgQ2hlbWlzdHJ5IEdyYWR1YXRlIFN0dWRlbnQgQXdhcmQgKEwuIFBhZGh5ZSksIDIwMTANCg0KICAgICAgKiAgIEFkdmlzb3IsIEdlb3JnaWEgVGVjaCBBRUVTIE91dHN0YW5kaW5nIERvY3RvcmFsIFN0dWRlbnQgQXdhcmQgKEwuIFBhZGh5ZSksIDIwMTANCg0KICAgICAgKiAgIFZpc2l0aW5nIFByb2Zlc3NvciBGZWxsb3dzaGlwLCBOYXRpb25hbCBTY2llbmNlIENvdW5jaWwsIFRhaXdhbiwgMjAwOQ0KDQogICAgICAqICAgQXdhcmQgYnkgR2VvcmdpYSBUZWNoIENFVEwgIlRoYW5rIGEgVGVhY2hlciIgUHJvZ3JhbSwgMjAwOA0KDQogICAgICAqICAgQWR2aXNvciwgR2VvcmdpYSBUZWNoIENFRSBCZXN0IFBoLkQuIFRoZXNpcyBBd2FyZCAoSC4gWmhhbmcpLCAyMDA1Lg0KDQogICAgICAqICAgSW52aXRlZCBzcGVha2VyIGZvciB0aGUgRW52aXJvbm1lbnRhbCBTY2llbmNlcyBXYXRlciBHb3Jkb24gQ29uZmVyZW5jZSwgMjAwNA0KDQogICAgICAqICAgQWR2aXNvciwgR2VvcmdpYSBUZWNoIENFRSBCZXN0IE0uUy4gVGhlc2lzIEF3YXJkIChNLiBDLiBEb2RkKSwgMjAwMw0KDQogICAgICAqICAgQWR2aXNvciwgR2VvcmdpYSBUZWNoIFByZXNpZGVudCBVbmRlcmdyYWR1YXRlIFJlc2VhcmNoIEF3YXJkIChBLiBUYXJ0YWdsaWEpLCAyMDAzLg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDExDQoNCkNoaW5nLUh1YSBIdWFuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YQ0KDQoNCg0KDQoNCiAgICAgICogICBBZHZpc29yLCBBbWVyaWNhbiBDaGVtaWNhbCBTb2NpZXR5IENlcnRpZmljYXRlIG9mIE1lcml0IChILiBaaGFuZyksIDIwMDIuDQoNCiAgICAgICogICBBdXRob3IgZm9yIHRoZSBBbWVyaWNhbiBDaGVtaWNhbCBTb2NpZXR5IChBQ1MpIEdyYWR1YXRlIFN0dWRlbnQgUmVzZWFyY2ggUGFwZXIgQXdhcmQsDQoNCiAgICAgICAgICBEaXZpc2lvbiBvZiBFbnZpcm9ubWVudGFsIENoZW1pc3RyeSwgMTk5Ny4NCg0KDQoNCiAgVi4gU0NIT0xBUkxZIEFDQ09NUExJU0hNRU5UUw0KDQogIEEuIEJvb2sgQ2hhcHRlciBQdWJsaWNhdGlvbnMNCg0KICAgICAxLiBIdWFuZywgQy4tSC47IERvZGQsIE0uIEMuOyBTaGFoLCBBLiBELiAyMDA4LiBSZWFjdGlvbiBhbmQgVHJhbnNmb3JtYXRpb24gb2YgQW50aWJhY3RlcmlhbA0KDQogICAgICAgIEFnZW50cyB3aXRoIEFxdWVvdXMgQ2hsb3JpbmUgdW5kZXIgV2F0ZXIgVHJlYXRtZW50IFJlbGV2YW50IENvbmRpdGlvbnMuIEluIEZhdGUgb2YNCg0KICAgICAgICBQaGFybWFjZXV0aWNhbHMgaW4gdGhlIEVudmlyb25tZW50IGFuZCBpbiBXYXRlciBUcmVhdG1lbnQgU3lzdGVtcywgZWRpdGVkIGJ5IEQuIEFnYSwgQ1JDDQoNCiAgICAgICAgUHJlc3MsIFRheWxvciAmIEZyYW5jaXMgQm9va3MsIEJvY2EgUmF0b24sIEZMLCBwLiAyNjEtMjkwLg0KDQogICAgIDIuIFNlZGxhaywgRC4gTC47IEh1YW5nLCBDLi1ILjsgUGlua3N0b24sIEsuIDIwMDQuIFN0cmF0ZWdpZXMgZm9yIFNlbGVjdGluZyBQaGFybWFjZXV0aWNhbHMgdG8NCg0KICAgICAgICBBc3Nlc3MgQXR0ZW51YXRpb24gZHVyaW5nIEluZGlyZWN0IFBvdGFibGUgV2F0ZXIgUmV1c2UuIEluIFBoYXJtYWNldXRpY2FscyBpbiB0aGUgRW52aXJvbm1lbnQNCg0KICAgICAgICAtIFNvdXJjZXMsIEZhdGUsIEVmZmVjdHMgYW5kIFJpc2tzLCAybmQgRWRpdGlvbjsgRWRpdG9yOiBLbGF1cyBLw7xtbWVyZXIsIFNwcmluZ2VyIFZlcmxhZywgcC4gMTA3LQ0KDQogICAgICAgIDExOC4NCg0KDQoNCiAgQi4gSm91cm5hbCBQdWJsaWNhdGlvbnMNCg0KICAgICDigKANCg0KICAgICAgIEFzIGNvcnJlc3BvbmRpbmcgYXV0aG9yDQoNCiAgICAgUHVibGlzaGVkIG9yIEFjY2VwdGVkDQoNCiAgICAgMS4gVGV6ZWwsIFUuOyBQYWRoeWUgTC47IEh1YW5nLCBDLi1ILuKAoDsgUGF2bG9zdGF0aGlzLCBTLiBHLuKAoCAyMDExLiBCaW90cmFuc2Zvcm1hdGlvbiBvZg0KDQogICAgICAgICBOaXRyb3NhbWluZXMgYW5kIFByZWN1cnNvciBTZWNvbmRhcnkgQW1pbmVzIHVuZGVyIE1ldGhhbm9nZW5pYyBDb25kaXRpb25zLCBFbnZpcm9ubWVudGFsDQoNCiAgICAgICAgIFNjaWVuY2UgJiBUZWNobm9sb2d5LCBhY2NlcHRlZC4NCg0KICAgICAyLiBXYW5nLCBQLjsgSGUsIFkuLUwuOyBIdWFuZywgQy4tSC7igKAgMjAxMS4gT3hpZGF0aW9uIG9mIHRoZSBBbnRpYmlvdGljIEFnZW50IFRyaW1ldGhvcHJpbSBieQ0KDQogICAgICAgICBDaGxvcmluZSBEaW94aWRlOiBSZWFjdGlvbiBLaW5ldGljcyBhbmQgUGF0aHdheXMuIEpvdXJuYWwgb2YgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgaW4NCg0KICAgICAgICAgcHJlc3MuDQoNCiAgICAgMy4gUGFkaHllLCBMLjsgTHV6aW5vdmEsIFkuOyBDaG8sIE0uOyBNaXphaWtvZmYsIEIuOyBLaW0sIEouLUguOyBIdWFuZywgQy4tSC7igKAgMjAxMS4NCg0KICAgICAgICAgUG9seURBRE1BQyBhbmQgRGltZXRoeWxhbWluZSBhcyBQcmVjdXJzb3JzIG9mIE4tTml0cm9zb2RpbWV0aHlsYW1pbmUgZHVyaW5nIE96b25hdGlvbjoNCg0KICAgICAgICAgUmVhY3Rpb24gS2luZXRpY3MgYW5kIE1lY2hhbmlzbXMuIEVudmlyb25tZW50YWwgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIDQ1LCA0MzUzLTQzNTkuDQoNCiAgICAgNC4gQ2hlbiwgVy4tUi47IEh1YW5nLCBDLi1ILuKAoCAyMDExLiBUcmFuc2Zvcm1hdGlvbiBLaW5ldGljcyBhbmQgUGF0aHdheXMgb2YgVGV0cmFjeWNsaW5lDQoNCiAgICAgICAgIEFudGliaW90aWNzIHdpdGggTWFuZ2FuZXNlIERpb3hpZGUsIEVudmlyb25tZW50YWwgUG9sbHV0aW9uLCAxNTksIDEwOTItMTEwMC4NCg0KICAgICA1LiBXYW5nLCBQLjsgSGUsIFkuLUwuOyBIdWFuZywgQy4tSC7igKAgMjAxMS4gUmVhY3Rpb25zIG9mIFRldHJhY3ljbGluZSBBbnRpYmlvdGljcyB3aXRoIENobG9yaW5lDQoNCiAgICAgICAgIERpb3hpZGUgYW5kIEZyZWUgQ2hsb3JpbmUsIFdhdGVyIFJlc2VhcmNoLCA0NSwgMTgzOC0xODQ2Lg0KDQogICAgIDYuIFdhbmcsIFAuOyBIZSwgWS4tTC47IEh1YW5nLCBDLi1ILuKAoCAyMDEwLiBPeGlkYXRpb24gb2YgRmx1b3JvcXVpbm9sb25lIEFudGliaW90aWNzIGFuZA0KDQogICAgICAgICBTdHJ1Y3R1cmFsbHkgUmVsYXRlZCBBbWluZXMgYnkgQ2hsb3JpbmUgRGlveGlkZTogUmVhY3Rpb24gS2luZXRpY3MsIFByb2R1Y3QgYW5kIFBhdGh3YXkNCg0KICAgICAgICAgRXZhbHVhdGlvbiwgV2F0ZXIgUmVzZWFyY2gsIDQ0LCA1OTg5LTU5OTguDQoNCiAgICAgNy4gUGFkaHllLCBMLjsgV2FuZywgUC47IEthcmFuZmlsLCBULjsgSHVhbmcsIEMuLUgu4oCgIDIwMTAuIFVuZXhwZWN0ZWQgUm9sZSBvZiBBY3RpdmF0ZWQgQ2FyYm9uDQoNCiAgICAgICAgIGluIFByb21vdGluZyBUcmFuc2Zvcm1hdGlvbiBvZiBTZWNvbmRhcnkgQW1pbmVzIHRvIE4tTml0cm9zYW1pbmVzLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJg0KDQogICAgICAgICBUZWNobm9sb2d5LCA0NCwgNDE2MS00MTY4Lg0KDQogICAgIDguIENoZW4sIFcuLVIuOyBIdWFuZywgQy4tSC7igKAgMjAxMC4gQWRzb3JwdGlvbiBhbmQgVHJhbnNmb3JtYXRpb24gb2YgVGV0cmFjeWNsaW5lIEFudGliaW90aWNzDQoNCiAgICAgICAgIHdpdGggQWx1bWludW0gT3hpZGUuIENoZW1vc3BoZXJlLCA3OSg4KSwgNzc5LTc4NS4NCg0KICAgICA5LiBQYXJrLCBTLiBILjsgUGl5YWNoYXR1cmF3YXQsIFAuOyBUYXlsb3IsIEEuIEUuOyBIdWFuZywgQy4tSC7igKAgMjAwOS4gUG90ZW50aWFsIE4tDQoNCiAgICAgICAgIE5pdHJvc29kaW1ldGh5bGFtaW5lIChORE1BKSBGb3JtYXRpb24gZnJvbSBBbWluZS1iYXNlZCBXYXRlciBUcmVhdG1lbnQgUG9seW1lcnMgaW4gdGhlDQoNCiAgICAgICAgIFJlYWN0aW9ucyB3aXRoIENobG9yaW5lLWJhc2VkIE94aWRhbnRzIGFuZCBOaXRyb3NpZnlpbmcgQWdlbnRzLiBXYXRlciBTY2llbmNlICYgVGVjaG5vbG9neToNCg0KICAgICAgICAgV2F0ZXIgU3VwcGx5LCA5KDMpLCAyNzktMjg4Lg0KDQogICAgIDEwLiBNaXlhc2hpdGEsIFkuOyBQYXJrLCBTLiBILjsgSHl1bmcsIEguOyBIdWFuZywgQy4tSC47IEtpbSwgSi4gSC7igKAgMjAwOS4gUmVtb3ZhbCBvZiBOLQ0KDQogICAgICAgICBOaXRyb3NhbWluZXMgYW5kIFRoZWlyIFByZWN1cnNvcnMgYnkgTmFub2ZpbHRyYXRpb24gYW5kIFJldmVyc2UgT3Ntb3NpcyBNZW1icmFuZXMuIEpvdXJuYWwNCg0KICAgICAgICAgb2YgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgMTM1KDkpLCA3ODgtNzk1Lg0KDQoNCg0KDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDExDQoNCkNoaW5nLUh1YSBIdWFuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YQ0KDQoNCg0KDQoNCiAgICAgIDExLiBQYWRoeWUsIEwuOyBUZXplbCwgVS47IE1pdGNoLCBXLiBBLjsgUGF2bG9zdGF0aGlzLCBTLiBHLuKAoDsgSHVhbmcsIEMuLUgu4oCgIDIwMDkuIE9jY3VycmVuY2UgYW5kDQoNCiAgICAgICAgICBGYXRlIG9mIE5pdHJvc2FtaW5lcyBhbmQgVGhlaXIgUHJlY3Vyc29ycyBpbiBNdW5pY2lwYWwgU2x1ZGdlIGFuZCBBbmFlcm9iaWMgRGlnZXN0aW9uDQoNCiAgICAgICAgICBTeXN0ZW1zLCBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJiBUZWNobm9sb2d5LCA0MywgMzA4Ny0zMDkzLg0KDQogICAgICAxMi4gUGFyaywgUy4gSC47IFdlaSwgUy47IE1pemFpa29mZiwgQi47IFRheWxvciwgQS4gRS47IEZhdmVybywgQy47IEh1YW5nLCBDLi1ILuKAoCAyMDA5LiBEZWdyYWRhdGlvbg0KDQogICAgICAgICAgb2YgQW1pbmUtYmFzZWQgV2F0ZXIgVHJlYXRtZW50IFBvbHltZXJzIGR1cmluZyBDaGxvcmFtaW5hdGlvbiBhcyBOLU5pdHJvc29kaW1ldGh5bGFtaW5lDQoNCiAgICAgICAgICAoTkRNQSkgUHJlY3Vyc29ycy4gRW52aXJvbm1lbnRhbCBTY2llbmNlICYgVGVjaG5vbG9neSwgNDMoNSksIDEzNjAtMTM2Ni4NCg0KICAgICAgMTMuIENoZW4sIFcuLVIuOyBIdWFuZywgQy4tSC7igKAgMjAwOS4gVHJhbnNmb3JtYXRpb24gb2YgVGV0cmFjeWNsaW5lcyBNZWRpYXRlZCBieSBNbihJSSkgYW5kDQoNCiAgICAgICAgICBDdShJSSkgSW9ucyBpbiB0aGUgUHJlc2VuY2Ugb2YgT3h5Z2VuLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJiBUZWNobm9sb2d5LCA0MywgNDAxLTQwNy4NCg0KICAgICAgMTQuIFpoYW5nLCBCLjsgQ2hvLCBNLjsgRm9ydG5lciwgSi4gRC47IExlZSwgSi47IEh1YW5nLCBDLi1ILjsgSHVnaGVzLCBKLiBCLjsgS2ltLCBKLi1ILuKAoCAyMDA5Lg0KDQogICAgICAgICAgRGVsaW5lYXRpbmcgT3hpZGF0aXZlIFByb2Nlc3NlcyBvZiBBcXVlb3VzIEM2MCBQcmVwYXJhdGlvbnMuIEVudmlyb25tZW50YWwgU2NpZW5jZSAmDQoNCiAgICAgICAgICBUZWNobm9sb2d5LCA0MywgMTA4LTExMy4NCg0KICAgICAgMTUuIFpoYW5nLCBILjsgQ2hlbiwgVy4tUi47IEh1YW5nLCBDLi1ILuKAoCAyMDA4LiBLaW5ldGljIE1vZGVsaW5nIG9mIHRoZSBPeGlkYXRpb24gb2YNCg0KICAgICAgICAgIEFudGliYWN0ZXJpYWwgQWdlbnRzIGJ5IE1hbmdhbmVzZSBPeGlkZXMuIEVudmlyb25tZW50YWwgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIDQyLCA1NTQ4LQ0KDQogICAgICAgICAgNTU1NC4NCg0KICAgICAgMTYuIE1jQ2FsbHVtLCBFLiBBLjsgSHl1bmcsIEguOyBEbywgVC4gQS47IEh1YW5nLCBDLi1ILjsgS2ltLCBKLiBILuKAoCAyMDA4LiBBZHNvcnB0aW9uLA0KDQogICAgICAgICAgRGVzb3JwdGlvbiwgYW5kIFN0ZWFkeS1TdGF0ZSBSZW1vdmFsIG9mIDE3zrItRXN0cmFkaW9sIGJ5IE5hbm9maWx0cmF0aW9uIE1lbWJyYW5lcy4gSm91cm5hbCBvZg0KDQogICAgICAgICAgTWVtYnJhbmUgU2NpZW5jZSwgMzE5LCAzOC00My4NCg0KICAgICAgMTcuIExlZSwgUy4gSi47IFNoaWFuLCBTLjsgSHVhbmcsIEMuLUgu4oCgOyBTYW5kaGFnZSwgSy4gSC7igKAgMjAwNy4gUmFwaWQgSHlkcm9seXNpcyBvZg0KDQogICAgICAgICAgT3JnYW5vcGhvc3Bob3JvdXMgRXN0ZXJzIEluZHVjZWQgYnkgTmFub3N0cnVjdHVyZWQsIEZsdW9yaW5lLWRvcGVkIFRpdGFuaWEgUmVwbGljYXMgb2YNCg0KICAgICAgICAgIERpYXRvbSBGcnVzdHVsZXMuIEpvdXJuYWwgb2YgdGhlIEFtZXJpY2FuIENlcmFtaWMgU29jaWV0eSwgOTBbNV0sIDE2MzItMTYzNi4NCg0KICAgICAgMTguIERvZGQsIE0uIEMuOyBIdWFuZywgQy4tSC7igKAgMjAwNy4gQXF1ZW91cyBDaGxvcmluYXRpb24gb2YgdGhlIEFudGliYWN0ZXJpYWwgQWdlbnQNCg0KICAgICAgICAgIFRyaW1ldGhvcHJpbTogUmVhY3Rpb24gS2luZXRpY3MgYW5kIFBhdGh3YXlzLiBXYXRlciBSZXNlYXJjaCwgNDEsIDY0Ny02NTUuDQoNCiAgICAgIDE5LiBaaGFuZywgSC47IEh1YW5nLCBDLi1ILuKAoCAyMDA3LiBBZHNvcnB0aW9uIGFuZCBPeGlkYXRpb24gb2YgRmx1b3JvcXVpbm9sb25lIEFudGliYWN0ZXJpYWwNCg0KICAgICAgICAgIEFnZW50cyBhbmQgU3RydWN0dXJhbGx5IFJlbGF0ZWQgQW1pbmVzIHdpdGggR29ldGhpdGUuIENoZW1vc3BoZXJlLCA2Nig4KSwgMTUwMi0xNTEyLg0KDQogICAgICAyMC4gU2hhaCwgQS4gRC47IEtpbSwgSi4gSC47IEh1YW5nLCBDLi1ILuKAoCAyMDA2LiBSZWFjdGlvbiBLaW5ldGljcyBhbmQgVHJhbnNmb3JtYXRpb24gb2YgQ2FyYmFkb3gNCg0KICAgICAgICAgIGFuZCBTdHJ1Y3R1cmFsbHkgUmVsYXRlZCBDb21wb3VuZHMgd2l0aCBBcXVlb3VzIENobG9yaW5lLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJg0KDQogICAgICAgICAgVGVjaG5vbG9neSwgNDAsIDcyMjgtNzIzNS4NCg0KICAgICAgMjEuIERvZGQsIE0uIEMuOyBTaGFoLCBBLiBELjsgdm9uIEd1bnRlbiwgVS47IEh1YW5nLCBDLi1ILuKAoCAyMDA1LiBJbnRlcmFjdGlvbnMgb2YgRmx1b3JvcXVpbm9sb25lDQoNCiAgICAgICAgICBBbnRpYmFjdGVyaWFsIEFnZW50cyB3aXRoIEFxdWVvdXMgQ2hsb3JpbmU6IEtpbmV0aWNzLCBSZWFjdGlvbiBNZWNoYW5pc21zLCBhbmQNCg0KICAgICAgICAgIFRyYW5zZm9ybWF0aW9uIFBhdGh3YXlzLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJiBUZWNobm9sb2d5LCAzOSwgNzA2NS03MDc2Lg0KDQogICAgICAyMi4gWmhhbmcsIEguOyBIdWFuZywgQy4tSC7igKAgMjAwNS4gT3hpZGF0aXZlIFRyYW5zZm9ybWF0aW9uIG9mIEZsdW9yb3F1aW5vbG9uZSBBbnRpYmFjdGVyaWFsDQoNCiAgICAgICAgICBBZ2VudHMgYW5kIFN0cnVjdHVyYWxseSBSZWxhdGVkIEFtaW5lcyBieSBNYW5nYW5lc2UgT3hpZGUuIEVudmlyb25tZW50YWwgU2NpZW5jZSAmDQoNCiAgICAgICAgICBUZWNobm9sb2d5LCAzOSwgNDQ3NC00NDgzLg0KDQogICAgICAyMy4gWmhhbmcsIEguOyBIdWFuZywgQy4tSC7igKAgMjAwNS4gUmVhY3Rpdml0eSBhbmQgVHJhbnNmb3JtYXRpb24gb2YgQW50aWJhY3RlcmlhbCBOLU94aWRlcyBpbiB0aGUNCg0KICAgICAgICAgIFByZXNlbmNlIG9mIE1hbmdhbmVzZSBPeGlkZS4gRW52aXJvbm1lbnRhbCBTY2llbmNlICYgVGVjaG5vbG9neSwgMzksIDU5My02MDEuDQoNCiAgICAgIDI0LiBEb2RkLCBNLiBDLjsgSHVhbmcsIEMuLUgu4oCgIDIwMDQuIFRyYW5zZm9ybWF0aW9uIG9mIHRoZSBBbnRpYmFjdGVyaWFsIEFnZW50IFN1bGZhbWV0aG94YXpvbGUNCg0KICAgICAgICAgIGluIFJlYWN0aW9ucyB3aXRoIENobG9yaW5lOiBLaW5ldGljcywgTWVjaGFuaXNtcywgYW5kIFBhdGh3YXlzLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJg0KDQogICAgICAgICAgVGVjaG5vbG9neSwgMzgsIDU2MDctNTYxNS4NCg0KICAgICAgMjUuIFJlbmV3LCBKLiBFLjsgSHVhbmcsIEMuLUgu4oCgIDIwMDQuIFNpbXVsdGFuZW91cyBBbmFseXNpcyBvZiBGbHVvcm9xdWlub2xvbmUsIFN1bGZvbmFtaWRlIGFuZA0KDQogICAgICAgICAgVHJpbWV0aG9wcmltIEFudGliaW90aWNzIGluIFdhc3Rld2F0ZXIgdXNpbmcgVGFuZGVtIFNvbGlkIFBoYXNlIEV4dHJhY3Rpb24gYW5kIExpcXVpZA0KDQogICAgICAgICAgQ2hyb21hdG9ncmFwaHkgRWxlY3Ryb3NwcmF5IE1hc3MgU3BlY3Ryb21ldHJ5LiBKb3VybmFsIG9mIENocm9tYXRvZ3JhcGh5IEEsIDEwNDIsIDExMy0NCg0KICAgICAgICAgIDEyMS4NCg0KICAgICAgMjYuIFpoYW5nLCBILjsgSHVhbmcsIEMuLUgu4oCgIDIwMDMuIE94aWRhdGl2ZSBUcmFuc2Zvcm1hdGlvbiBvZiBUcmljbG9zYW4gYW5kIENobG9yb3BoZW5lIGJ5DQoNCiAgICAgICAgICBNYW5nYW5lc2UgT3hpZGVzLiBFbnZpcm9ubWVudGFsIFNjaWVuY2UgJiBUZWNobm9sb2d5LCAzNywgMjQyMS0yNDMwLg0KDQogICAgICAyNy4gSHVhbmcsIEMuLUgu4oCgOyBTdG9uZSwgQS4gVC4gMjAwMy4gVHJhbnNmb3JtYXRpb24gb2YgdGhlIFBsYW50IEdyb3d0aCBSZWd1bGF0b3IgRGFtaW5vemlkZQ0KDQogICAgICAgICAgKEFsYXIpIHdpdGggQ3VJSSBJb25zOiBPeGlkYXRpb24gdmVyc3VzIEh5ZHJvbHlzaXMuIEVudmlyb25tZW50YWwgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIDM3LA0KDQogICAgICAgICAgMTgyOS0xODM3Lg0KDQogICAgICAyOC4gSHVhbmcsIEMuLUguOyBTZWRsYWssIEQuIEwu4oCgIDIwMDEuIEFuYWx5c2lzIG9mIEVzdHJvZ2VuaWMgSG9ybW9uZXMgaW4gTXVuaWNpcGFsIFdhc3Rld2F0ZXINCg0KICAgICAgICAgIEVmZmx1ZW50IGFuZCBTdXJmYWNlIFdhdGVyIFVzaW5nIEVuenltZS1MaW5rZWQgSW1tdW5vc29yYmVudCBBc3NheXMgKEVMSVNBcykgYW5kIEdhcw0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNi83LzIwMTENCg0KQ2hpbmctSHVhIEh1YW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICAgICAgICAgQ2hyb21hdG9ncmFwaHkgVGFuZGVtIE1hc3MgU3BlY3Ryb21ldHJ5LiBFbnZpcm9ubWVudGFsIFRveGljb2xvZ3kgYW5kIENoZW1pc3RyeSwgMjAsDQoNCiAgICAgICAgICAxMzMtMTM5Lg0KDQogICAgICAyOS4gSHVhbmcsIEMuLUgu4oCgOyBTdG9uZSwgQS4gVC4gMjAwMC4gU3luZXJnaXN0aWMgQ2F0YWx5c2lzIG9mIERpbWV0aWxhbiBIeWRyb2x5c2lzIGJ5IE1ldGFsIElvbnMNCg0KICAgICAgICAgIGFuZCBPcmdhbmljIExpZ2FuZHMuIEVudmlyb25tZW50YWwgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIDM0LCA0MTE3LTQxMjIuDQoNCiAgICAgIDMwLiBIdWFuZywgQy4tSC7igKA7IFN0b25lLCBBLiBULiAxOTk5LiBIeWRyb2x5c2lzIG9mIE5hcHRhbGFtIGFuZCBTdHJ1Y3R1cmFsbHktUmVsYXRlZCBBbWlkZXMuDQoNCiAgICAgICAgICBJbmhpYml0aW9uIGJ5IERpc3NvbHZlZCBNZXRhbCBJb25zIGFuZCBNZXRhbCAoSHlkcilPeGlkZSBTdXJmYWNlcy4gSm91cm5hbCBvZiBBZ3JpY3VsdHVyYWwgYW5kDQoNCiAgICAgICAgICBGb29kIENoZW1pc3RyeSwgNDcoMTApLCA0NDI1LTQ0MzQuDQoNCg0KDQogICAgICBTdWJtaXR0ZWQNCg0KICAgICAgMzEuIFNoYWgsIEEuIEQuOyBIdWFuZywgQy4tSC47IEtpbSwgSi4tSC7igKAgTWVjaGFuaXNtcyBvZiBBbnRpYmlvdGljIFJlbW92YWwgYnkgTmFub2ZpbHRyYXRpb24NCg0KICAgICAgICAgIE1lbWJyYW5lczogTW9kZWwgRGV2ZWxvcG1lbnQgYW5kIEFwcGxpY2F0aW9uLCBKb3VybmFsIG9mIE1lbWJyYW5lIFNjaWVuY2VzLCBzdWJtaXR0ZWQuDQoNCiAgICAgIDMyLiBQYWRoeWUsIEwuOyBIZXJ0emJlcmcsIEIuOyBZdXNoaW4sIEcuOyBIdWFuZywgQy4tSC7igKAgTi1OaXRyb3NhbWluZXMgRm9ybWF0aW9uIGZyb20NCg0KICAgICAgICAgIFNlY29uZGFyeSBBbWluZXMgYnkgTml0cm9nZW4gRml4YXRpb24gb24gdGhlIFN1cmZhY2Ugb2YgQWN0aXZhdGVkIENhcmJvbiwgRW52aXJvbm1lbnRhbA0KDQogICAgICAgICAgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIHN1Ym1pdHRlZC4NCg0KICAgICAgMzMuIFNoYWgsIEEuIEQuOyBLaW0sIEouIEguOyBIdWFuZywgQy4tSC7igKAgVGVydGlhcnkgQW1pbmVzIEVuaGFuY2UgUmVhY3Rpb25zIG9mIE9yZ2FuaWMNCg0KICAgICAgICAgIENvbnRhbWluYW50cyB3aXRoIEFxdWVvdXMgQ2hsb3JpbmUuIFdhdGVyIFJlc2VhcmNoLCBzdWJtaXR0ZWQuDQoNCg0KDQogICAgICBJbiBQcmVwYXJhdGlvbg0KDQogICAgICAzNC4gWmhhbmcsIFcuOyBZYW8sIFkuOyBIdWFuZywgQy4tSC47IENoZW4sIFkuIERpcmVjdCBNZWFzdXJlbWVudCBvZiBUcmFjZSBMZXZlbCBNZXRhbC1iYXNlZA0KDQogICAgICAgICAgTmFub3BhcnRpY2xlcyBieSBJQ1AtTVMgd2l0aG91dCBTYW1wbGUgRGlnZXN0aW9uLCBFbnZpcm9ubWVudGFsIFBvbGx1dGlvbiwgaW4gcHJlcGFyYXRpb24uDQoNCiAgICAgIDM1LiBQYXJrLCBTLi1ILjsgUGFkaHllLCBMLjsgV2FuZywgUC47IENobywgTS47IEtpbSwgSi4tSC47IEh1YW5nLCBDLi1ILiBORE1BIEZvcm1hdGlvbg0KDQogICAgICAgICAgUG90ZW50aWFsIG9mIEFtaW5lLWJhc2VkIFdhdGVyIFRyZWF0bWVudCBQb2x5bWVyczogRWZmZWN0cyBvZiBpbi1zaXR1IENobG9yYW1pbmF0aW9uLA0KDQogICAgICAgICAgQnJlYWtwb2ludCBDaGxvcmluYXRpb24gYW5kIFByZS1veGlkYXRpb24sIGluIHByZXBhcmF0aW9uLg0KDQogICAgICAzNi4gUGFkaHllLCBMLjsgS2ltLCBKLi1ILjsgSHVhbmcsIEMuLUguIE94aWRhdGlvbiBvZiBEaXRoaW9jYXJiYW1hdGVzIHRvIFlpZWxkIE5pdHJvc2FtaW5lcyBieQ0KDQogICAgICAgICAgV2F0ZXIgRGlzaW5mZWN0aW9uIE94aWRhbnRzLCBpbiBwcmVwYXJhdGlvbi4NCg0KICAgICAgMzcuIEdpYnNvbiwgUy47IEh1YW5nLCBDLi1ILiBPeGlkYXRpb24gb2YgUGhhcm1hY2V1dGljYWxzIGFuZCBQZXJzb25hbCBDYXJlIFByb2R1Y3RzIChQUENQcykgYnkNCg0KICAgICAgICAgIFBlcm1hbmdhbmF0ZSwgaW4gcHJlcGFyYXRpb24uDQoNCiAgICAgIDM4LiBQYWRoeWUsIEwuOyBZYW8sIEguOyBLdW5nJ3UsIEYuIFQuOyBNYWNyaW5hLCBKLiBBLjsgQXNoLCBKLiBULjsgSHVhbmcsIEMuLUguIFllYXItTG9uZw0KDQogICAgICAgICAgRXZhbHVhdGlvbiBvbiB0aGUgT2NjdXJyZW5jZSBhbmQgUmVtb3ZhbCBvZiBQUENQcyBpbiBVcmJhbiBTdXJmYWNlIFdhdGVyLCBEcmlua2luZyBXYXRlcg0KDQogICAgICAgICAgYW5kIFdhc3Rld2F0ZXIsIGluIHByZXBhcmF0aW9uLg0KDQogICAgICAzOS4gUGFkaHllLCBMLjsgWWFvLCBILjsgQ2hlbiwgWS47IFN1bGxhcmRzLCBDLjsgSHVhbmcsIEMuLUguIExDL01TL01TIE1ldGhvZCBmb3IgTW9uaXRvcmluZw0KDQogICAgICAgICAgUFBDUHMgaW4gRW52aXJvbm1lbnRhbCBXYXRlciBTYW1wbGVzIC0gTWV0aG9kIEltcHJvdmVtZW50IGFuZCBTdXJyb2dhdGUgU3RhbmRhcmQNCg0KICAgICAgICAgIEV2YWx1YXRpb24sIGluIHByZXBhcmF0aW9uLg0KDQogICAgICA0MC4gQ2hlbiwgVy4tUi47IEh1YW5nLCBDLi1ILiBTdXJmYWNlIEFkc29ycHRpb24gb2YgQXJvbWF0aWMgT3JnYW5vYXJzZW5pY3Mgb24gSXJvbiBhbmQNCg0KICAgICAgICAgIEFsdW1pbnVtIE94aWRlcywgaW4gcHJlcGFyYXRpb24uDQoNCg0KDQogIEMuIENvbmZlcmVuY2UgUHJlc2VudGF0aW9ucw0KDQogICAgICogUHJlc2VudGF0aW9ucyB3aXRoIHByb2NlZWRpbmcgcGFwZXJzDQoNCiAgICAgMS4gSHVhbmcsIEMuLUguIFBvbHlEQURNQUMgYW5kIERpbWV0aHlsYW1pbmUgYXMgUHJlY3Vyc29ycyBvZiBOLU5pdHJvc29kaW1ldGh5bGFtaW5lDQoNCiAgICAgICAgIGR1cmluZyBPem9uYXRpb24sIFdhdGVyIFF1YWxpdHkgVGVjaG5vbG9neSBDb25mZXJlbmNlLCBOb3ZlbWJlciAxMy0xNywgMjAxMS4gUGhvZW5peCwNCg0KICAgICAgICAgQXJpem9uYS4gKGFic3RyYWN0IGFjY2VwdGVkKQ0KDQogICAgIDIuIFlhbywgSC47IEh1YW5nLCBDLi1ILiBQcm9ncmVzcyBDb25jZXJuaW5nIHRoZSBPY2N1cnJlbmNlLCBGYXRlIGFuZCBSZW1vdmFsIG9mIEFudGliaW90aWNzIGluDQoNCiAgICAgICAgIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMgaW4gQ2hpbmEgYW5kIE90aGVyIENvdW50cmllcywgSVdBIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSAtDQoNCiAgICAgICAgIENpdGllcyBvZiB0aGUgRnV0dXJlOiBUZWNobm9sb2dpZXMgZm9yIEludGVncmF0ZWQgVXJiYW4gV2F0ZXIgTWFuYWdlbWVudCwgU2VwdC4gMTUtMTksIDIwMTEsDQoNCiAgICAgICAgIFhpJ2FuLCBDaGluYS4gKGFic3RyYWN0IGFjY2VwdGVkKQ0KDQogICAgIDMuIEh1YW5nLCBDLi1ILiBGb3JtYXRpb24gb2YgTml0cm9zYW1pbmVzIGR1cmluZyBPem9uYXRpb24gYW5kIENobG9yYW1pbmF0aW9uIG9mIE9yZ2FuaWMNCg0KICAgICAgICAgUHJlY3Vyc29ycywgdGhlIDI0MXN0IEFDUyBOYXRpb25hbCBNZWV0aW5nLCBBbmFoZWltLCBDQSwgTWFyY2ggMjctMzEsIDIwMTEuIFtJbnZpdGVkXQ0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2LzcvMjAxMQ0KDQpDaGluZy1IdWEgSHVhbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhDQoNCg0KDQoNCg0KICAgICAgNC4gU3VuLCBQLjsgUGF2bG9zdGF0aGlzLCBTLiBHLjsgQ2FicmVyYSwgTS47IFRob21wc29uLCBBLjsgSHVhbmcsIEMuLUguIFF1YW50aWZpY2F0aW9uIGFuZA0KDQogICAgICAgICAgVHJhbnNmb3JtYXRpb24gRXZhbHVhdGlvbiBmb3IgSW9ub3Bob3JlIEFudGliaW90aWNzIGluIFdhdGVyLCBTb2lsIGFuZCBQb3VsdHJ5IExpdHRlciwgdGhlIDI0MXN0DQoNCiAgICAgICAgICBBQ1MgTmF0aW9uYWwgTWVldGluZywgQW5haGVpbSwgQ0EsIE1hcmNoIDI3LTMxLCAyMDExLg0KDQogICAgICA1LiBEb3lkb3JhLCBTLjsgQ2FicmVyYSwgTS47IEh1YW5nLCBDLi1ILjsgVGhvbXBzb24sIEEuIFNvcnB0aW9uIG9mIE1vbmVuc2luIG9uIFBvdWx0cnkgTGl0dGVyLQ0KDQogICAgICAgICAgQW1lbmRlZCBQYXN0dXJlIFNvaWwgYW5kIE1pbmVyYWwgU29yYmVudHMsIHRoZSAyNDFzdCBBQ1MgTmF0aW9uYWwgTWVldGluZywgQW5haGVpbSwgQ0EsDQoNCiAgICAgICAgICBNYXJjaCAyNy0zMSwgMjAxMS4NCg0KICAgICAgNi4gSHVhbmcsIEMuLUguIFVuZXhwZWN0ZWQgUm9sZSBvZiBBY3RpdmF0ZWQgQ2FyYm9uIGluIFByb21vdGluZyBUcmFuc2Zvcm1hdGlvbiBvZiBTZWNvbmRhcnkNCg0KICAgICAgICAgIEFtaW5lcyB0byBOLU5pdHJvc2FtaW5lcywgdGhlIDI0MHRoIEFDUyBOYXRpb25hbCBNZWV0aW5nLCBCb3N0b24sIE1BLCBBdWd1c3QgMjItMjYsIDIwMTAuDQoNCiAgICAgICAgICBbSW52aXRlZF0NCg0KICAgICAgNy4gKkh1YW5nLCBDLi1ILiwgV2FuZywgUC47IEhlLCBZLi1MLiBSZWFjdGlvbnMgb2YgQ2hsb3JpbmUgRGlveGlkZSBhbmQgRnJlZSBDaGxvcmluZSB3aXRoDQoNCiAgICAgICAgICBGbHVvcm9xdWlub2xvbmUgYW5kIFRldHJhY3ljbGluZSBBbnRpYmlvdGljcyB1bmRlciBXYXRlciBUcmVhdG1lbnQgQ29uZGl0aW9ucywgdGhlIDZ0aA0KDQogICAgICAgICAgSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIFN1c3RhaW5hYmxlIFdhdGVyIEVudmlyb25tZW50OiBXYXRlciBJbmZyYXN0cnVjdHVyZXMgaW4gVGltZSBvZg0KDQogICAgICAgICAgQ2xpbWF0ZSBDaGFuZ2UsIFVuaXZlcnNpdHkgb2YgRGVsYXdhcmUsIE5ld2FyaywgREUsIFVTQSwgSnVseSAyOS0zMSwgMjAxMC4gW0ludml0ZWRdDQoNCiAgICAgIDguIFBhZGh5ZSwgTC47IEx1emlub3ZhLCBZLjsgQ2hvLCBNLjsgTWl6YWlrb2ZmLCBCLjsgS2ltLCBKLi1ILjsgSHVhbmcsIEMuLUguIEtpbmV0aWNzIGFuZA0KDQogICAgICAgICAgTWVjaGFuaXNtcyBvZiBOLU5pdHJvc29kaW1ldGh5bGFtaW5lIEZvcm1hdGlvbiBmcm9tIE96b25hdGlvbiBvZiBQb2x5REFETUFDIGFuZA0KDQogICAgICAgICAgRGltZXRoeWxhbWluZS4gUG9zdGVyIHByZXNlbnRlZCBhdCB0aGUgR29yZG9uIFJlc2VhcmNoIENvbmZlcmVuY2UsIEVudmlyb25tZW50YWwgU2NpZW5jZXM6DQoNCiAgICAgICAgICBXYXRlciwgTmV3IEhhbXB0b24sIE5ILCBKdW5lIDIwLTI1LCAyMDEwLg0KDQogICAgICA5LiAqUGFkaHllLCBMLjsgVGV6ZWwsIFUuOyBIdWFuZywgQy4tSC47IFBhdmxvc3RhdGhpcywgUy4gRy4gQmlvdHJhbnNmb3JtYXRpb24gb2YgTml0cm9zYW1pbmVzIGFuZA0KDQogICAgICAgICAgU2Vjb25kYXJ5IEFtaW5lcyBpbiBhIE1peGVkIE1ldGhhbm9nZW5pYyBDdWx0dXJlLiBXRUZURUMgJzA5LCBSZXNlYXJjaCBTeW1wb3NpdW0sDQoNCiAgICAgICAgICBPcmxhbmRvLCBGTCwgT2N0b2JlciAxMC0xNCwgMjAwOS4NCg0KICAgICAgMTAuIENoZW4sIFcuLVIuOyBIdWFuZywgQy4tSC4gVHJhbnNmb3JtYXRpb24gb2YgVGV0cmFjeWNsaW5lIEFudGliaW90aWNzIFByb21vdGVkIGJ5IEFsdW1pbnVtDQoNCiAgICAgICAgICBPeGlkZSBTdXJmYWNlcywgdGhlIDIzOHRoIEFDUyBOYXRpb25hbCBNZWV0aW5nLCBEaXZpc2lvbiBvZiBFbnZpcm9ubWVudGFsIENoZW1pc3RyeSwNCg0KICAgICAgICAgIFdhc2hpbmd0b24sIEQuQy4sIEF1Z3VzdCAyMCwgMjAwOS4NCg0KICAgICAgMTEuIEh1YW5nLCBDLi1ILjsgWmhhbmcsIEguOyBDaGVuLCBXLi1SLiBLaW5ldGljIE1vZGVsaW5nIG9mIE94aWRhdGlvbiBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cw0KDQogICAgICAgICAgYnkgTWFuZ2FuZXNlIE94aWRlLCB0aGUgMjM3dGggQUNTIE5hdGlvbmFsIE1lZXRpbmcsIERpdmlzaW9uIG9mIEdlb2NoZW1pc3RyeSwgU2FsdCBMYWtlDQoNCiAgICAgICAgICBDaXR5LCBVVCwgTWFyY2ggMjItMjYsIDIwMDkuDQoNCiAgICAgIDEyLiBIdWFuZywgQy4tSC4gUmVtb3ZhbCBhbmQgVHJhbnNmb3JtYXRpb24gb2YgQW50aWJpb3RpY3MgYnkgQ2hsb3JpbmF0aW9uIFByb2Nlc3Nlcy4gR2VvcmdpYQ0KDQogICAgICAgICAgQXNzb2NpYXRpb24gb2YgV2F0ZXIgUHJvZmVzc2lvbmFscyAoR0FXUCkgQW5udWFsIENvbmZlcmVuY2UgJiBFeHBvLCBBdGxhbnRhLCBHQSwgQXVndXN0DQoNCiAgICAgICAgICAxOSwgMjAwOC4gW0ludml0ZWRdDQoNCiAgICAgIDEzLiBQYWRoeWUsIEwuOyBUZXplbCwgVS47IFBhdmxvc3RhdGhpcywgUy4gRy47IEh1YW5nLCBDLi1ILiBGYXRlIGFuZCBGb3JtYXRpb24gb2YgTml0cm9zYW1pbmVzIGluDQoNCiAgICAgICAgICBNdW5pY2lwYWwgV2FzdGV3YXRlciBUcmVhdG1lbnQgUGxhbnRzLCBvcmFsIGFuZCBwb3N0ZXIgcHJlc2VudGF0aW9ucyBhdCB0aGUgSVdBIFlvdW5nIFdhdGVyDQoNCiAgICAgICAgICBQcm9mZXNzaW9uYWwgQ29uZmVyZW5jZSwgQmVya2VsZXksIENBLCBKdWx5IDE2LTE4LCAyMDA4Lg0KDQogICAgICAxNC4gKlNoYWgsIEEuIEQuOyBIdWFuZywgQy4tSC47IEtpbSwgSi4tSC4gTW9kZWxpbmcgUmVqZWN0aW9uIG9mIFNlbGVjdCBBbnRpYmlvdGljcyBieQ0KDQogICAgICAgICAgTmFub2ZpbHRyYXRpb24gTWVtYnJhbmVzIHVuZGVyIFZhcnlpbmcgV2F0ZXIgUXVhbGl0eSBDb25kaXRpb25zLiBBV1dBIEFubnVhbA0KDQogICAgICAgICAgQ29uZmVyZW5jZSwgQXRsYW50YSwgR0EsIEp1bmUgOC0xMiwgMjAwOC4NCg0KICAgICAgMTUuICpNaXlhc2hpdGEsIFkuOyBQYXJrLCBTLiBILjsgSHl1bmcsIEguOyBQYXJrLCBTLiBILjsgSHVhbmcsIEMuLUguOyBLaW0sIEouLUguIFJlbW92YWwgb2YgTi0NCg0KICAgICAgICAgIE5pdHJvc2FtaW5lcyBhbmQgVGhlaXIgUHJlY3Vyc29ycyBieSBOYW5vZmlsdHJhdGlvbiBhbmQgUmV2ZXJzZSBPc21vc2lzIE1lbWJyYW5lcy4gQVdXQQ0KDQogICAgICAgICAgQW5udWFsIENvbmZlcmVuY2UsIEF0bGFudGEsIEdBLCBKdW5lIDgtMTIsIDIwMDguDQoNCiAgICAgIDE2LiAqU2hhaCwgQS4gRC47IEtpbSwgSi4gSC47IEh1YW5nLCBDLi1ILiBFbmhhbmNlZCBDaGxvcmluYXRpb24gYW5kIERpc2luZmVjdGlvbiBCeS1Qcm9kdWN0DQoNCiAgICAgICAgICBGb3JtYXRpb24gb2YgT3JnYW5pYyBDb250YW1pbmFudHMgYnkgVGVydGlhcnkgQW1pbmVzLiBUaGUgMjM1dGggQUNTIE5hdGlvbmFsIE1lZXRpbmcsIE5ldw0KDQogICAgICAgICAgT3JsZWFucywgTEEsIEFwcmlsIDYtMTAsIDIwMDguDQoNCiAgICAgIDE3LiAqWmhhbmcsIEIuOyBGb3J0bmVyLCBKLiBELiwgTGVlLCBKLiBTLjsgSHVhbmcsIEMuLUguOyBLaW0sIEouIEguOyBIdWdoZXMsIEouIEIuIENhdGFseXRpYw0KDQogICAgICAgICAgRGVncmFkYXRpb24gb2YgSW5kaWdvIER5ZSBieSBBcXVlb3VzIFN0YWJsZSBDNjAgQWdncmVnYXRlcy4gVGhlIDIzNXRoIEFDUyBOYXRpb25hbA0KDQogICAgICAgICAgTWVldGluZywgTmV3IE9ybGVhbnMsIExBLCBBcHJpbCA2LTEwLCAyMDA4Lg0KDQogICAgICAxOC4gUGFkaHllLCBMLjsgVGV6ZWwsIFUuOyBQYXZsb3N0YXRoaXMsIFMuIEcuOyBIdWFuZywgQy4tSC4gRmF0ZSBhbmQgRm9ybWF0aW9uIG9mIE5pdHJvc2FtaW5lcyBpbg0KDQogICAgICAgICAgV2F0ZXIgYW5kIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFBsYW50cywgcG9zdGVyIHByZXNlbnRlZCBhdCB0aGUgS2luZHN2YXRhciBTeW1wb3NpdW0sIEF0bGFudGEsDQoNCiAgICAgICAgICBHQSwgTWFyY2ggMjYsIDIwMDguDQoNCg0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDExDQoNCkNoaW5nLUh1YSBIdWFuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICAgICAxOS4gSHVhbmcsIEMuLUguIEZhdGUgb2YgRW1lcmdpbmcgQ29udGFtaW5hbnRzIGR1cmluZyBXYXRlciBUcmVhdG1lbnQgUHJvY2Vzc2VzLiBHZW9yZ2lhDQoNCiAgICAgICAgICBjaGFwdGVyIG9mIEFtZXJpY2FuIFdhdGVyIFJlc291cmNlcyBBc3NvY2lhdGlvbiAoR0FXUkEpIGFuZCBHZW9yZ2lhIEFzc29jaWF0aW9uIG9mIFdhdGVyDQoNCiAgICAgICAgICBQcm9mZXNzaW9uYWxzIChHQVdQKSwgS2VubmVzYXcsIEFwcmlsIDIwLCAyMDA3LiBbSW52aXRlZF0NCg0KICAgICAgMjAuICpTaGFoLCBBLiBELjsgS2ltLCBKLiBILjsgSHVhbmcsIEMuLUguIFJlYWN0aW9uIEtpbmV0aWNzIGFuZCBUcmFuc2Zvcm1hdGlvbiBvZiBDYXJiYWRveCBhbmQNCg0KICAgICAgICAgIFN0cnVjdHVyYWxseSBSZWxhdGVkIENvbXBvdW5kcyB3aXRoIEFxdWVvdXMgQ2hsb3JpbmUuIFRoZSAyMzNyZCBBQ1MgTmF0aW9uYWwgTWVldGluZywNCg0KICAgICAgICAgIENoaWNhZ28sIElMLCBNYXJjaCAyNS0yOSwgMjAwNy4NCg0KICAgICAgMjEuICpDaGVuLCBXLi1SLjsgSHVhbmcsIEMuLUguIEVmZmVjdCBvZiBNYW5nYW5lc2UgYW5kIENvcHBlciBvbiB0aGUgVHJhbnNmb3JtYXRpb24gb2YNCg0KICAgICAgICAgIFRldHJhY3ljbGluZS4gVGhlIDIzM3JkIEFDUyBOYXRpb25hbCBNZWV0aW5nLCBDaGljYWdvLCBJTCwgTWFyY2ggMjUtMjksIDIwMDcuDQoNCiAgICAgIDIyLiAqUGFyaywgUy4gSC47IFdlaSwgUy47IE1pemFpa29mZiwgQi47IFRheWxvciwgQS4gRS47IEFyYWwsIE0uOyBIdWFuZywgQy4tSC4gTWVjaGFuaXN0aWMgSW5zaWdodA0KDQogICAgICAgICAgZm9yIHRoZSBOLU5pcm9zb2RpbWV0aHlsYW1pbmUgKE5ETUEpIEZvcm1hdGlvbiBQb3RlbnRpYWwgb2YgQW1pbmUtYmFzZWQgV2F0ZXIgVHJlYXRtZW50DQoNCiAgICAgICAgICBQb2x5bWVycy4gVGhlIDIzM3JkIEFDUyBOYXRpb25hbCBNZWV0aW5nLCBDaGljYWdvLCBJTCwgTWFyY2ggMjUtMjksIDIwMDcuDQoNCiAgICAgIDIzLiAqU2hhaCwgQS4gRC47IEh1YW5nLCBDLi1ILjsgS2ltLCBKLi1ILiBFZmZlY3Qgb2YgVmFyeWluZyBXYXRlciBRdWFsaXR5IENvbmRpdGlvbnMgb24NCg0KICAgICAgICAgIFJlamVjdGlvbiBvZiBTZWxlY3RlZCBBbnRpYmlvdGljcyBieSBOYW5vZmlsdHJhdGlvbiBNZW1icmFuZXMuIE1lbWJyYW5lIFRlY2hub2xvZ3kNCg0KICAgICAgICAgIENvbmZlcmVuY2UsIFRhbXBhLCBGTCwgTWFyY2ggMTgtMjEsIDIwMDcuDQoNCiAgICAgIDI0LiAqTWl5YXNoaXRhLCBZLjsgTGVlLCBKLi1ZLjsgSHl1bmcsIEguOyBQYXJrLCBTLiBILjsgSHVhbmcsIEMuLUguOyBLaW0sIEouLUguIFJlbW92YWwgb2YgTi0NCg0KICAgICAgICAgIE5pdHJvc2FtaW5lcyBieSBOYW5vZmlsdHJhdGlvbiBhbmQgUmV2ZXJzZSBPc21vc2lzIE1lbWJyYW5lcy4gTWVtYnJhbmUgVGVjaG5vbG9neQ0KDQogICAgICAgICAgQ29uZmVyZW5jZSwgVGFtcGEsIEZMLCBNYXJjaCAxOC0yMSwgMjAwNy4NCg0KICAgICAgMjUuIFNoaWFuLCBTLjsgTGVlLCBTLiBKLjsgSHVhbmcsIEMuLUguOyBTYW5kaGFnLCBLLiBILiBSYXBpZCwgTm9uLXBob3RvY2F0YWx5dGljIFBlc3RpY2lkZQ0KDQogICAgICAgICAgSHlkcm9seXNpcyBpbiB0aGUgUHJlc2VuY2Ugb2YgUG9yb3VzIFRpdGFuaWEgTmFub3BhcnRpY2xlIFN0cnVjdHVyZXMgRGVyaXZlZCBmcm9tIERpYXRvbQ0KDQogICAgICAgICAgRnJ1c3R1bGVzLCB0aGUgMzFzdCBJbnRlcm5hdGlvbmFsIENvY29hIEJlYWNoIENvbmZlcmVuY2Ugb24gQWR2YW5jZWQgQ2VyYW1pY3MgYW5kDQoNCiAgICAgICAgICBDb21wb3NpdGVzLCBKYW51YXJ5IDIxLTI2LCAyMDA3Lg0KDQogICAgICAyNi4gKkh1YW5nLCBDLi1ILiBNZXRhbCBJb24tQ2F0YWx5emVkIFRyYW5zZm9ybWF0aW9uIG9mIFRldHJhY3ljbGluZSBBbnRpYmlvdGljcy4gVGhlIDIzMm5kIEFDUw0KDQogICAgICAgICAgTmF0aW9uYWwgTWVldGluZywgU2FuIEZyYW5jaXNjbywgQ0EsIFNlcHRlbWJlciAxMC0xNCwgMjAwNi4gW0ludml0ZWRdDQoNCiAgICAgIDI3LiBIdWFuZywgQy4tSC47IERvZGQsIE0uIEMuOyBTaGFoLCBBLiBELiBSZWFjdGlvbnMgb2YgQW50aWJhY3RlcmlhbCBBZ2VudHMgd2l0aCBBcXVlb3VzDQoNCiAgICAgICAgICBDaGxvcmluZSB1bmRlciBXYXRlciBUcmVhdG1lbnQgQ29uZGl0aW9ucywgcG9zdGVyIHByZXNlbnRlZCBhdCB0aGUgRHJpbmtpbmcgV2F0ZXIgRGlzaW5mZWN0aW9uDQoNCiAgICAgICAgICBCeS1Qcm9kdWN0cyBHb3Jkb24gUmVzZWFyY2ggQ29uZmVyZW5jZSwgTW91bnQgSG9seW9rZSBDb2xsZWdlLCBTb3V0aCBIYWRsZXksIE1BLCBBdWcuDQoNCiAgICAgICAgICAxMy0xOCwgMjAwNi4NCg0KICAgICAgMjguIFBhcmssIFMuIEguOyBXZWksIFMuOyBNaXphaWtvZmYsIEIuOyBUYXlsb3IsIEEuIEUuOyBIdWFuZywgQy4tSC4gTWVjaGFuaXN0aWMgSW5zaWdodCBmb3IgdGhlIE4tDQoNCiAgICAgICAgICBOaXJvc29kaW1ldGh5bGFtaW5lIChORE1BKSBGb3JtYXRpb24gUG90ZW50aWFsIG9mIEFtaW5lLWJhc2VkIFBvbHltZXJzLCBwb3N0ZXIgcHJlc2VudGVkDQoNCiAgICAgICAgICBhdCB0aGUgRHJpbmtpbmcgV2F0ZXIgRGlzaW5mZWN0aW9uIEJ5LVByb2R1Y3RzIEdvcmRvbiBSZXNlYXJjaCBDb25mZXJlbmNlLCBNb3VudCBIb2x5b2tlDQoNCiAgICAgICAgICBDb2xsZWdlLCBTb3V0aCBIYWRsZXksIE1BLCBBdWcuIDEzLTE4LCAyMDA2Lg0KDQogICAgICAyOS4gQ2hlbiwgVy4tUi47IFpoYW5nLCBILjsgSHVhbmcsIEMuLUguIEtpbmV0aWMgTW9kZWxpbmcgZm9yIHRoZSBNbk8yLU1lZGlhdGVkIE94aWRhdGlvbiBvZg0KDQogICAgICAgICAgQW50aWJhY3RlcmlhbCBBZ2VudHMgYW5kIE1lY2hhbmlzdGljIEluc2lnaHQsIHBvc3RlciBwcmVzZW50ZWQgYXQgdGhlIEVudmlyb25tZW50YWwgU2NpZW5jZXM6DQoNCiAgICAgICAgICBXYXRlciBHb3Jkb24gUmVzZWFyY2ggQ29uZmVyZW5jZSwgSG9sZGVybmVzcyBTY2hvb2wsIFBseW1vdXRoLCBOSCwgSnVuZSAyNS0zMCwgMjAwNi4NCg0KICAgICAgMzAuICpTaGFoLCBBLiBELjsgTWNDYWxsdW0sIEUuOyBEbywgQS4gVC47IEh5dW5nLCBILjsgSHVhbmcsIEMuLUguOyBLaW0sIEouLUguIFJlamVjdGlvbiBvZg0KDQogICAgICAgICAgSG9ybW9uZXMgYW5kIFNlbGVjdGVkIEh1bWFuIGFuZCBWZXRlcmluYXJ5IEFudGliaW90aWNzIGJ5IE5hbm9maWx0cmF0aW9uIE1lbWJyYW5lcy4NCg0KICAgICAgICAgIEFXV0EgQW5udWFsIENvbmZlcmVuY2UgJiBFeHBvc2l0aW9uLCBTYW4gQW50b25pbywgVFgsIEp1bmUgMTEtMTUsIDIwMDYuDQoNCiAgICAgIDMxLiAqQ2hlbiwgVy4gUi47IEh1YW5nLCBDLi1ILiBFZmZlY3Qgb2YgU3VyZmFjZSBhbmQgRGlzc29sdmVkIE1hbmdhbmVzZSBvbiB0aGUgVHJhbnNmb3JtYXRpb24NCg0KICAgICAgICAgIG9mIFRldHJhY3ljbGluZSBBbnRpYmlvdGljcy4gVGhlIDIzMXN0IEFDUyBOYXRpb25hbCBNZWV0aW5nLCBBdGxhbnRhLCBHQSwgTWFyY2ggMjYtMzAsIDIwMDYuDQoNCiAgICAgIDMyLiAqTGVlLCBTLiBKLjsgSHVhbmcsIEMuLUguOyBTaGlhbiwgUy47IFNhbmRoYWdlLCBLLiBILiBGYWN0b3JzIEluZmx1ZW5jaW5nIHRoZSBDYXRhbHl0aWMgQWN0aXZpdHkNCg0KICAgICAgICAgIG9mIEJpb2xvZ2ljYWxseS1EZXJpdmVkIDMtRCBUaXRhbmlhIE5hbm9wYXJ0aWNsZSBBc3NlbWJsaWVzIGZvciB0aGUgSHlkcm9seXNpcyBvZiBDaGVtaWNhbA0KDQogICAgICAgICAgQWdlbnRzLiBUaGUgMjMxc3QgQUNTIE5hdGlvbmFsIE1lZXRpbmcsIEF0bGFudGEsIEdBLCBNYXJjaCAyNi0zMCwgMjAwNi4NCg0KICAgICAgMzMuIEh1YW5nLCBDLi1ILiBUcmFuc2Zvcm1hdGlvbiBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cyB3aXRoIEFxdWVvdXMgQ2hsb3JpbmU6IFJlYWN0aW9uDQoNCiAgICAgICAgICBLaW5ldGljcywgTWVjaGFuaXNtcyBhbmQgUGF0aHdheXMuIFRoZSA1N3RoIFBpdHRzYnVyZ2ggQ29uZmVyZW5jZSBvbiBBbmFseXRpY2FsIENoZW1pc3RyeQ0KDQogICAgICAgICAgYW5kIEFwcGxpZWQgU3BlY3Ryb3Njb3B5LCBPcmxhbmRvLCBGTCwgTWFyY2ggMTYsIDIwMDYuIFtJbnZpdGVkXQ0KDQogICAgICAzNC4gQ2hlbiwgVy4tUi47IEh1YW5nLCBDLi1ILiBUcmFuc2Zvcm1hdGlvbiBvZiBUZXRyYWN5Y2xpbmUgQW50aWJpb3RpY3Mgd2l0aCBNYW5nYW5lc2UgT3hpZGUNCg0KICAgICAgICAgIGFuZCBNbihJSSkgSW9ucywgcG9zdGVyIHByZXNlbnRlZCBhdCB0aGUgU0VUQUMgTm9ydGggQW1lcmljYSAyNnRoIEFubnVhbCBNZWV0aW5nLCBCYWx0aW1vcmUsDQoNCiAgICAgICAgICBNRCwgTm92ZW1iZXIgMTMtMTcsIDIwMDUuDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNi83LzIwMTENCg0KQ2hpbmctSHVhIEh1YW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhDQoNCg0KDQoNCg0KICAgICAgMzUuICpTaGFoLCBBLiBELjsgS2ltLCBKLi1ILjsgSHVhbmcsIEMuLUguIFJlYWN0aW9ucyBvZiBRdWlub3hhbGluZSBOLE4nLURpb3hpZGUgQW50aWJhY3RlcmlhbA0KDQogICAgICAgICAgQWdlbnRzIHdpdGggRnJlZSBhbmQgQ29tYmluZWQgQ2hsb3JpbmUuIFdhdGVyIFF1YWxpdHkgVGVjaG5vbG9neSBDb25mZXJlbmNlIChXUVRDKSwNCg0KICAgICAgICAgIFF1ZWJlYyBDaXR5LCBRdWViZWMsIENhbmFkYSwgTm92ZW1iZXIgNi0xMCwgMjAwNS4NCg0KICAgICAgMzYuICpTaGFoLCBBLjsgS2ltLCBKLi1ILjsgSHVhbmcsIEMuLUguIEZhdGUgYW5kIFRyYW5zZm9ybWF0aW9uIG9mIFF1aW5veGFsaW5lIE4sTictRGlveGlkZQ0KDQogICAgICAgICAgQW50aWJhY3RlcmlhbCBBZ2VudHMgZHVyaW5nIENobG9yaW5hdGlvbi4gV0lUIFRyYW5zYWN0aW9ucyBvbiBFY29sb2d5IGFuZCB0aGUgRW52aXJvbm1lbnQsDQoNCiAgICAgICAgICA4NShFbnZpcm9ubWVudGFsIEV4cG9zdXJlIGFuZCBIZWFsdGgpLCBwcC4gMTExLTExOCwgMjAwNS4NCg0KICAgICAgMzcuICpQYXJrLCBTLi1ILjsgUGl5YWNoYXR1cmF3YXQsIFAuOyBBcmFsLCBNLjsgSHVhbmcsIEMuLUguIFBvdGVudGlhbCBFbmhhbmNlZCBOLQ0KDQogICAgICAgICAgTml0cm9zb2RpbWV0aHlsYW1pbmUgKE5ETUEpIEZvcm1hdGlvbiB1bmRlciBXYXRlciBUcmVhdG1lbnQgQ29uZGl0aW9ucy4gV0lUDQoNCiAgICAgICAgICBUcmFuc2FjdGlvbnMgb24gRWNvbG9neSBhbmQgdGhlIEVudmlyb25tZW50LCA4NShFbnZpcm9ubWVudGFsIEV4cG9zdXJlIGFuZCBIZWFsdGgpLCBwcC4gMTAxLQ0KDQogICAgICAgICAgMTA5LCAyMDA1Lg0KDQogICAgICAzOC4gKlNoYWgsIEEuIEQuOyBNY0NhbGx1bSwgRS47IEh5dW5nLCBILjsgSHVhbmcsIEMuLUguOyBLaW0sIEouLUguIFJlbW92YWwgb2YgRW1lcmdpbmcgVHJhY2UNCg0KICAgICAgICAgIENvbnRhbWluYW50cyBieSBOYW5vZmlsdHJhdGlvbiBNZW1icmFuZXMuIFdJVCBUcmFuc2FjdGlvbnMgb24gRWNvbG9neSBhbmQgdGhlIEVudmlyb25tZW50LA0KDQogICAgICAgICAgODUoRW52aXJvbm1lbnRhbCBFeHBvc3VyZSBhbmQgSGVhbHRoKSwgcHAuIDExOS0xMjcsIDIwMDUuDQoNCiAgICAgIDM5LiAqSHVhbmcsIEMuLUguOyBMZWUsIFMuIEouOyBTaGlhbiwgUy47IFNhbmRoYWdlLCBLLiBILiBOb3ZlbCBOYW5vc3RydWN0dXJlZCBBbmF0YXNlIEFzc2VtYmxpZXMNCg0KICAgICAgICAgIGZyb20gQWxnYWUgYXMgU3Ryb25nIENhdGFseXN0cyBmb3IgdGhlIEh5ZHJvbHlzaXMgb2YgT3JnYW5vcGhvc3Bob3JvdXMgRXN0ZXJzLiBUaGUgMjMwdGggQUNTDQoNCiAgICAgICAgICBOYXRpb25hbCBNZWV0aW5nLCBXYXNoaW5ndG9uLCBEQywgQXVndXN0IDI4LVNlcHRlbWJlciAxLCAyMDA1Lg0KDQogICAgICA0MC4gSHVhbmcsIEMuLUguOyBMZWUsIFMuIEouOyBTaGlhbiwgUy47IFNhbmRoYWdlLCBLLiBILiBOb3ZlbCBOYW5vc3RydWN0dXJlZCBBbmF0YXNlIEFzc2VtYmxpZXMNCg0KICAgICAgICAgIGZyb20gQWxnYWUgYXMgU3Ryb25nIENhdGFseXN0cyBmb3IgdGhlIEh5ZHJvbHlzaXMgb2YgT3JnYW5vcGhvc3Bob3JvdXMgRXN0ZXJzLCBvcmFsDQoNCiAgICAgICAgICBwcmVzZW50YXRpb24gYXQgdGhlIDc5dGggQUNTIENvbGxvaWQgYW5kIFN1cmZhY2UgU2NpZW5jZSBTeW1wb3NpdW0sIENsYXJrc29uIFVuaXZlcnNpdHksDQoNCiAgICAgICAgICBQb3RzZGFtLCBOWSwgSnVuZSAxMi0xNSwgMjAwNS4NCg0KICAgICAgNDEuIFNoYWgsIEEuIEQuOyBNY0NhbGx1bSwgRS47IFBhcmssIEEuOyBIdWFuZywgQy4tSC47IEtpbSwgSi4tSC4gRWZmZWN0IG9mIFdhdGVyIFF1YWxpdHkgb24NCg0KICAgICAgICAgIFJlamVjdGlvbiBvZiBTZWxlY3RlZCBIdW1hbiBhbmQgVmV0ZXJpbmFyeSBBbnRpYmlvdGljcyBieSBORiBhbmQgUk8gTWVtYnJhbmVzLCBwb3N0ZXINCg0KICAgICAgICAgIHByZXNlbnRlZCBhdCB0aGUgUXVhZHJhbmdsZSBDb25mZXJlbmNlLCBHZW9yZ2lhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBBdGxhbnRhLCBHQSwgQXByaWwgMiwNCg0KICAgICAgICAgIDIwMDUuDQoNCiAgICAgIDQyLiBNY0NhbGx1bSwgRS47IFNoYWgsIEEuIEQuOyBQYXJrLCBBLjsgSHVhbmcsIEMuLUguOyBLaW0sIEouLUguIFJlbW92YWwgb2YgSG9ybW9uZXMgYnkNCg0KICAgICAgICAgIE5hbm9maWx0cmF0aW9uIE1lbWJyYW5lczogRWZmZWN0cyBvZiBIb3Jtb25lIENvbmNlbnRyYXRpb24gYW5kIE5hdHVyYWwgT3JnYW5pYyBNYXR0ZXINCg0KICAgICAgICAgIEZvdWxpbmcgb24gUmVtb3ZhbCBFZmZpY2llbmN5LCBwb3N0ZXIgcHJlc2VudGVkIGF0IHRoZSBRdWFkcmFuZ2xlIENvbmZlcmVuY2UsIEdlb3JnaWEgSW5zdGl0dXRlDQoNCiAgICAgICAgICBvZiBUZWNobm9sb2d5LCBBdGxhbnRhLCBHQSwgQXByaWwgMiwgMjAwNS4NCg0KICAgICAgNDMuICpTaGFoLCBBLiBELjsgTWNDYWxsdW0sIEUuOyBQYXJrLCBBLjsgSHVhbmcsIEMuLUguOyBLaW0sIEouLUguIEVmZmVjdCBvZiBXYXRlciBRdWFsaXR5IG9uDQoNCiAgICAgICAgICBSZWplY3Rpb24gb2YgU2VsZWN0ZWQgSHVtYW4gYW5kIFZldGVyaW5hcnkgQW50aWJpb3RpY3MgYnkgTmFub2ZpbHRyYXRpb24gYW5kIFJldmVyc2UgT3Ntb3Npcw0KDQogICAgICAgICAgTWVtYnJhbmVzLiBNZW1icmFuZSBUZWNobm9sb2d5IENvbmZlcmVuY2UsIFBob2VuaXgsIEFaLCBNYXJjaCA2LTksIDIwMDUuDQoNCiAgICAgIDQ0LiAqTWNDYWxsdW0sIEUuOyBTaGFoLCBBLiBELjsgUGFyaywgQS47IEh1YW5nLCBDLi1ILjsgS2ltLCBKLi1ILiBSZW1vdmFsIG9mIEhvcm1vbmVzIGJ5DQoNCiAgICAgICAgICBOYW5vZmlsdHJhdGlvbiBNZW1icmFuZXM6IEVmZmVjdHMgb2YgSG9ybW9uZSBDb25jZW50cmF0aW9uIGFuZCBOYXR1cmFsIE9yZ2FuaWMgTWF0dGVyDQoNCiAgICAgICAgICBGb3VsaW5nIG9uIFJlbW92YWwgRWZmaWNpZW5jeS4gTWVtYnJhbmUgVGVjaG5vbG9neSBDb25mZXJlbmNlLCBQaG9lbml4LCBBWiwgTWFyY2ggNi05LA0KDQogICAgICAgICAgMjAwNS4NCg0KICAgICAgNDUuICpaaGFuZywgSC47IEh1YW5nLCBDLi1ILiBSZWFjdGl2aXR5IGFuZCBUcmFuc2Zvcm1hdGlvbiBvZiBBcm9tYXRpYyBOLU94aWRlcyBpbiB0aGUgUHJlc2VuY2UNCg0KICAgICAgICAgIG9mIE1hbmdhbmVzZSBEaW94aWRlLiBUaGUgMjI4dGggQUNTIE5hdGlvbmFsIE1lZXRpbmcsIFBoaWxhZGVscGhpYSwgUEEsIEF1Z3VzdCAyMy0yNywgMjAwNC4NCg0KICAgICAgNDYuIEh1YW5nLCBDLi1ILiBJbnRlcmZhY2lhbCBUcmFuc2Zvcm1hdGlvbiBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cyB3aXRoIE1ldGFsIE94aWRlcy4gR29yZG9uDQoNCiAgICAgICAgICBSZXNlYXJjaCBDb25mZXJlbmNlLCBFbnZpcm9ubWVudGFsIFNjaWVuY2VzOiBXYXRlciwgTmV3IEhhbXB0b24sIE5ILCBKdW5lIDMwLCAyMDA0Lg0KDQogICAgICAgICAgW0ludml0ZWRdDQoNCiAgICAgIDQ3LiBaaGFuZywgSC47IEh1YW5nLCBDLi1ILiBBZHNvcnB0aXZlIGFuZCBPeGlkYXRpdmUgVHJhbnNmb3JtYXRpb24gb2YgVHJpY2xvc2FuIGJ5IEdvZXRoaXRlIGFuZA0KDQogICAgICAgICAgU29pbHMsIHBvc3RlciBwcmVzZW50ZWQgYXQgdGhlIEdvcmRvbiBSZXNlYXJjaCBDb25mZXJlbmNlLCBFbnZpcm9ubWVudGFsIFNjaWVuY2VzOiBXYXRlciwgTmV3DQoNCiAgICAgICAgICBIYW1wdG9uLCBOSCwgSnVuZSAyNy1KdWx5IDIsIDIwMDQuDQoNCiAgICAgIDQ4LiAqRG9kZCwgTS4gQy47IEh1YW5nLCBDLi1ILiBDaGVtaWNhbCBPeGlkYXRpb24gb2YgQXF1YXRpYyBBbnRpYmlvdGljIE1pY3JvY29udGFtaW5hbnRzIGJ5DQoNCiAgICAgICAgICBGcmVlIGFuZCBDb21iaW5lZCBDaGxvcmluZS4gV2F0ZXIgUXVhbGl0eSBUZWNobm9sb2d5IENvbmZlcmVuY2UsIFBoaWxhZGVscGhpYSwgUEEsDQoNCiAgICAgICAgICBOb3ZlbWJlciAyLTUsIDIwMDMuDQoNCiAgICAgIDQ5LiAqSHVhbmcsIEMuLUguOyBaaGFuZywgSC4gT3hpZGF0aW9uIG9mIEZsdW9yb3F1aW5vbG9uZSBBbnRpYmFjdGVyaWFscyBhbmQgU3RydWN0dXJhbGx5IFJlbGF0ZWQNCg0KICAgICAgICAgIEFtaW5lcyB3aXRoIE1hbmdhbmVzZSBPeGlkZS4gVGhlIDIyNnRoIEFDUyBOYXRpb25hbCBNZWV0aW5nLCBOZXcgWW9yaywgTlksIFNlcHRlbWJlciA3LQ0KDQogICAgICAgICAgMTEsIDIwMDMuDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA3ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNi83LzIwMTENCg0KQ2hpbmctSHVhIEh1YW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICAgICA1MC4gSHVhbmcsIEMuLUguIEZhY3RvcnMgQWZmZWN0aW5nIHRoZSBDb25jZW50cmF0aW9ucyBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cyBSZWxlYXNlZCB0byB0aGUNCg0KICAgICAgICAgIEFxdWF0aWMgRW52aXJvbm1lbnQuIEFXV0EgR0EvU0MgV2F0ZXIgVGVjaG5vbG9neSBGb3J1bSwgU2F2YW5uYWgsIEdBLCBTZXB0ZW1iZXIgMjUsDQoNCiAgICAgICAgICAyMDAzLiBbSW52aXRlZF0NCg0KICAgICAgNTEuIFpoYW5nLCBILjsgSHVhbmcsIEMuLUguIE1ldGFsIE94aWRlLUZhY2lsaXRhdGVkIE94aWRhdGlvbiBvZiBGbHVvcm9xdWlub2xvbmVzIGFuZA0KDQogICAgICAgICAgU3RydWN0dXJhbGx5LVJlbGF0ZWQgQW1pbmUgQ29tcG91bmRzLCBvcmFsIHByZXNlbnRhdGlvbiBhdCB0aGUgNzd0aCBBQ1MgQ29sbG9pZCBhbmQgU3VyZmFjZQ0KDQogICAgICAgICAgU2NpZW5jZSBTeW1wb3NpdW0sIEF0bGFudGEsIEdBLCBKdW5lIDE1LTE4LCAyMDAzLg0KDQogICAgICA1Mi4gUmVuZXcsIEouIEUuOyBIdWFuZywgQy4tSC4gRmF0ZSBBc3Nlc3NtZW50IGZvciBGbHVvcm9xdWlub2xvbmUsIFN1bGZvbmFtaWRlIGFuZA0KDQogICAgICAgICAgVHJpbWV0aG9wcmltIEFudGliaW90aWNzIGluIEVuZ2luZWVyZWQgV2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMsIG9yYWwgcHJlc2VudGF0aW9uIGF0IHRoZQ0KDQogICAgICAgICAgR1cmUENBIENvbmZlcmVuY2UsIENvYmIgQ291bnR5LCBHQSwgTWF5IDIxLCAyMDAzLg0KDQogICAgICA1My4gKlpoYW5nLCBILjsgSHVhbmcsIEMuLUguIE1hbmdhbmVzZSBPeGlkZS1GYWNpbGl0YXRlZCBPeGlkYXRpdmUgVHJhbnNmb3JtYXRpb24gb2YNCg0KICAgICAgICAgIEFudGliYWN0ZXJpYWwgQWdlbnRzLiBUaGUgM3JkIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBQaGFybWFjZXV0aWNhbHMgYW5kIEVuZG9jcmluZQ0KDQogICAgICAgICAgRGlzcnVwdGluZyBDaGVtaWNhbHMgaW4gV2F0ZXIsIE5hdGlvbmFsIEdyb3VuZCBXYXRlciBBc3NvY2lhdGlvbiwgTWlubmVhcG9saXMsIE1OLCBNYXJjaA0KDQogICAgICAgICAgMTktMjEsIDIwMDMuDQoNCiAgICAgIDU0LiBTbWVieSwgSy4gTC47IFJlbmV3LCBKLiBFLjsgSHVhbmcsIEMuLUguIE9jY3VycmVuY2UgYW5kIEZhdGUgb2YgQW50aWJpb3RpYyBDb21wb3VuZHMgaW4NCg0KICAgICAgICAgIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMsIG9yYWwgcHJlc2VudGF0aW9uIGF0IHRoZSBHVyZQQ0EgQ29uZmVyZW5jZSwgQ29iYiBDb3VudHksDQoNCiAgICAgICAgICBHQSwgQXVndXN0LCAyMDAyLg0KDQogICAgICA1NS4gUmVuZXcsIEouIEUuOyBIdWFuZywgQy4tSC47IFNtZWJ5LCBLLiBMLiBPY2N1cnJlbmNlIGFuZCBGYXRlIG9mIEZsdW9yb3F1aW5vbG9uZSBhbmQNCg0KICAgICAgICAgIFN1bGZvbmFtaWRlIEFudGliaW90aWNzIGluIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMsIHBvc3RlciBwcmVzZW50ZWQgYXQgdGhlIEdvcmRvbg0KDQogICAgICAgICAgUmVzZWFyY2ggQ29uZmVyZW5jZSwgRW52aXJvbm1lbnRhbCBTY2llbmNlczogV2F0ZXIsIE5ldyBIYW1wdG9uLCBOSCwgSnVuZSwgMjAwMi4NCg0KICAgICAgNTYuIFpoYW5nLCBILjsgSHVhbmcsIEMuLUguIE94aWRhdGl2ZSBUcmFuc2Zvcm1hdGlvbiBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cyBieSBNYW5nYW5lc2UNCg0KICAgICAgICAgIChIeWRyKU94aWRlcywgcG9zdGVyIHByZXNlbnRlZCBhdCB0aGUgR29yZG9uIFJlc2VhcmNoIENvbmZlcmVuY2UsIEVudmlyb25tZW50YWwgU2NpZW5jZXM6DQoNCiAgICAgICAgICBXYXRlciwgTmV3IEhhbXB0b24sIE5ILCBKdW5lLCAyMDAyLg0KDQogICAgICA1Ny4gKkh1YW5nLCBDLi1ILjsgU21lYnksIEsuIEwuOyBSZW5ldywgSi4gRS4gT2NjdXJyZW5jZSBhbmQgQmVoYXZpb3Igb2YgRmx1b3JvcXVpbm9sb25lIGFuZA0KDQogICAgICAgICAgU3VsZm9uYW1pZGUgQW50aWJhY3RlcmlhbCBBZ2VudHMgZHVyaW5nIE11bmljaXBhbCBXYXN0ZXdhdGVyIFRyZWF0bWVudC4gRW5kb2NyaW5lDQoNCiAgICAgICAgICBEaXNydXB0b3JzIGFuZCB0aGUgV2F0ZXIgSW5kdXN0cnkgU3ltcG9zaXVtLCBBbWVyaWNhbiBXYXRlciBXb3JrcyBBc3NvY2lhdGlvbiwgQ2luY2lubmF0aSwNCg0KICAgICAgICAgIE9ILCBBcHJpbCAxOC0yMCwgMjAwMi4NCg0KICAgICAgNTguICpIdWFuZywgQy4tSC47IFpoYW5nLCBILiBPeGlkYXRpb24gb2YgVHJpY2xvc2FuIGJ5IE1hbmdhbmVzZSBPeGlkZXMuIFRoZSAyMjNyZCBBQ1MNCg0KICAgICAgICAgIE5hdGlvbmFsIE1lZXRpbmcsIE9ybGFuZG8sIEZMLCBBcHJpbCwgMjAwMi4NCg0KICAgICAgNTkuICpIdWFuZywgQy4tSC47IFNtZWJ5LCBLLiBMLjsgUmVuZXcsIEouIEUuIE9jY3VycmVuY2UgYW5kIEJlaGF2aW9yIG9mIEZsdW9yb3F1aW5vbG9uZSBhbmQNCg0KICAgICAgICAgIFN1bGZvbmFtaWRlIEFudGliYWN0ZXJpYWwgQWdlbnRzIGR1cmluZyBNdW5pY2lwYWwgV2FzdGV3YXRlciBUcmVhdG1lbnQuIFRoZSBBQ1MgTmF0aW9uYWwNCg0KICAgICAgICAgIE1lZXRpbmcsIE9ybGFuZG8sIEZMLCBBcHJpbCwgMjAwMi4NCg0KICAgICAgNjAuIFpoYW5nLCBILjsgSHVhbmcsIEMuLUguIE94aWRhdGl2ZSBUcmFuc2Zvcm1hdGlvbiBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cyBieSBNYW5nYW5lc2UNCg0KICAgICAgICAgIChIeWRyKU94aWRlcywgcG9zdGVyIHByZXNlbnRlZCBhdCB0aGUgUXVhZHJhbmdsZSBDb25mZXJlbmNlLCBVbml2ZXJzaXR5IG9mIE5vcnRoIENhcm9saW5hLA0KDQogICAgICAgICAgQ2hhcGVsIEhpbGwsIE5DLCBGZWJydWFyeSwgMjAwMi4NCg0KICAgICAgNjEuIEh1YW5nLCBDLi1ILjsgU21lYnksIEsuIEwuOyBSZW5ldywgSi4gRS4gQXNzZXNzbWVudCBvZiBQb3RlbnRpYWwgQW50aWJpb3RpYyBDb250YW1pbmFudHMgaW4NCg0KICAgICAgICAgIFdhdGVyIGFuZCBQcmVsaW1pbmFyeSBPY2N1cnJlbmNlIEFuYWx5c2lzLCBwb3N0ZXIgcHJlc2VudGVkIGF0IHRoZSAyMm5kIFNFVEFDIE1lZXRpbmcsDQoNCiAgICAgICAgICBCYWx0aW1vcmUsIE1ELCBOb3ZlbWJlciwgMjAwMS4NCg0KICAgICAgNjIuICpIdWFuZywgQy4tSC47IFJlbmV3LCBKLiBFLjsgU21lYnksIEsuIEwuOyBQaW5rc3RvbiwgSy47IFNlZGxhaywgRC4gTC4gQXNzZXNzbWVudCBvZiBQb3RlbnRpYWwNCg0KICAgICAgICAgIEFudGliaW90aWMgQ29udGFtaW5hbnRzIGluIFdhdGVyIGFuZCBQcmVsaW1pbmFyeSBPY2N1cnJlbmNlIEFuYWx5c2lzLiBUaGUgMm5kIEludGVybmF0aW9uYWwNCg0KICAgICAgICAgIENvbmZlcmVuY2Ugb24gUGhhcm1hY2V1dGljYWxzIGFuZCBFbmRvY3JpbmUgRGlzcnVwdGluZyBDaGVtaWNhbHMgaW4gV2F0ZXIsIE9jdG9iZXIgOS0xMSwNCg0KICAgICAgICAgIDIwMDEuDQoNCiAgICAgIDYzLiAqSHVhbmcsIEMuLUguOyBSZW5ldywgSi4gRS47IFBpbmtzdG9uLCBLLjsgU2VkbGFrLCBELiBMLiBPY2N1cnJlbmNlIGFuZCBGYXRlIG9mIEFudGliaW90aWMNCg0KICAgICAgICAgIENvbXBvdW5kcyBpbiBNdW5pY2lwYWwgV2FzdGV3YXRlciBhbmQgQW5pbWFsIFdhc3RlLiBUaGUgNzR0aCBXYXRlciBFbnZpcm9ubWVudA0KDQogICAgICAgICAgRmVkZXJhdGlvbiBBbm51YWwgQ29uZmVyZW5jZSAmIEV4cG9zaXRpb24gKFdFRlRFQyksIEF0bGFudGEsIEdBLCBPY3RvYmVyIDEzLTE3LCAyMDAxLg0KDQogICAgICA2NC4gSHVhbmcsIEMuLUguOyBDd2llcnRueSwgRC4gTS47IFNlZGxhaywgRC4gTC4gSW1tdW5vY2hlbWljYWwgVGVjaG5pcXVlcyB0byBPdmVyY29tZSB0aGUNCg0KICAgICAgICAgIEFuYWx5dGljYWwgQ2hhbGxlbmdlcyBmb3IgU3R1ZGllcyBvZiBFc3Ryb2dlbmljIEhvcm1vbmVzIGluIEVudmlyb25tZW50YWwgTWF0cmljZXMsIHBvc3Rlcg0KDQogICAgICAgICAgcHJlc2VudGVkIGF0IHRoZSBHb3Jkb24gUmVzZWFyY2ggQ29uZmVyZW5jZSwgRW52aXJvbm1lbnRhbCBTY2llbmNlczogV2F0ZXIsIE5ldyBIYW1wdG9uLA0KDQogICAgICAgICAgTkgsIEp1bmUsIDIwMDAuDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA4ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDExDQoNCkNoaW5nLUh1YSBIdWFuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhDQoNCg0KDQoNCg0KICAgICAgNjUuICpIdWFuZywgQy4tSC47IFNlZGxhaywgRC4gTC4gQW5hbHlzaXMgb2YgRXN0cm9nZW5pYyBIb3Jtb25lcyBpbiBNdW5pY2lwYWwgV2FzdGV3YXRlcg0KDQogICAgICAgICAgRWZmbHVlbnQgYW5kIFN1cmZhY2UgV2F0ZXIgVXNpbmcgRUxJU0EgYW5kIEdDL01TL01TLiBUaGUgMjE5dGggQUNTIE5hdGlvbmFsIE1lZXRpbmcsIFNhbg0KDQogICAgICAgICAgRnJhbmNpc2NvLCBDQSwgQXByaWwsIDIwMDAuDQoNCiAgICAgIDY2LiBIdWFuZywgQy4tSC47IENoaWVuLCBNLjsgU2VkbGFrLCBELiBMLiBTeW50aGV0aWMgYW5kIE5hdHVyYWwgSG9ybW9uZXMgaW4gV2FzdGV3YXRlcg0KDQogICAgICAgICAgRWZmbHVlbnQ6IEEgQ29ubmVjdGlvbiBiZXR3ZWVuIFBoYXJtYWNldXRpY2FsbHkgQWN0aXZlIENvbXBvdW5kcyBhbmQgRW5kb2NyaW5lDQoNCiAgICAgICAgICBEaXNydXB0aW9uPywgb3JhbCBwcmVzZW50YXRpb24gYXQgdGhlIDE5dGggU0VUQUMgTWVldGluZywgQ2hhcmxvdHRlLCBOQywgTm92ZW1iZXIsIDE5OTguDQoNCiAgICAgIDY3LiBIdWFuZywgQy4tSC47IENoaWVuLCBNLjsgU2VkbGFrLCBELiBMLjsgRHJhcGVyLCBXLiBNLiBBbmFseXNpcyBvZiBFc3Ryb2dlbmljIEhvcm1vbmVzIGluDQoNCiAgICAgICAgICBXYXN0ZXdhdGVyIEVmZmx1ZW50LCBwb3N0ZXIgcHJlc2VudGVkIGF0IHRoZSBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEgVG94aWMgU3Vic3RhbmNlIFJlc2VhcmNoDQoNCiAgICAgICAgICBhbmQgVGVhY2hpbmcgUHJvZ3JhbSBTeW1wb3NpdW0sIEJlcmtlbGV5LCBDQSwgQXByaWwgMjQtMjUsIDE5OTguDQoNCiAgICAgIDY4LiAqSHVhbmcsIEMuLUguOyBTdG9uZSwgQS4gVC4gQ3VJSS1DYXRhbHl6ZWQgSHlkcm9seXNpcyBvZiB0aGUgUGxhbnQgR3Jvd3RoIFJlZ3VsYXRvcg0KDQogICAgICAgICAgRGFtaW5vemlkZSAoQWxhcikgYW5kIFN0cnVjdHVyYWxseS1SZWxhdGVkIENvbXBvdW5kczogQSBTdHVkeSBFbXBsb3lpbmcgQ2FwaWxsYXJ5DQoNCiAgICAgICAgICBFbGVjdHJvcGhvcmVzaXMuIFRoZSAyMTR0aCBBQ1MgTmF0aW9uYWwgTWVldGluZywgRGl2aXNpb24gb2YgRW52aXJvbm1lbnRhbCBDaGVtaXN0cnksIFN0dWRlbnQNCg0KICAgICAgICAgIEF3YXJkIFN5bXBvc2l1bSwgTGFzIFZlZ2FzLCBOViwgT2N0b2JlciwgMTk5Ny4gW0ludml0ZWRdDQoNCiAgICAgIDY5LiAqSHVhbmcsIEMuLUguOyBTdG9uZSwgQS4gVC4gRWZmZWN0IG9mIExpZ2FuZHMgb24gTWV0YWwtQ2F0YWx5emVkIEh5ZHJvbHlzaXMgb2YNCg0KICAgICAgICAgIEFncm9jaGVtaWNhbHMuIFRoZSAyMTN0aCBBQ1MgTmF0aW9uYWwgTWVldGluZywgRGl2aXNpb24gb2YgRW52aXJvbm1lbnRhbCBDaGVtaXN0cnksIFNhbg0KDQogICAgICAgICAgRnJhbmNpc2NvLCBDQSwgQXByaWwgMTMtMTcsIDE5OTcuDQoNCiAgICAgIDcwLiAqSHVhbmcsIEMuLUguOyBTdG9uZSwgQS4gVC4gRWZmZWN0IG9mIE1ldGFsIElvbnMgYW5kIE1ldGFsIE94aWRlIFN1cmZhY2VzIG9uIHRoZSBIeWRyb2x5c2lzIG9mDQoNCiAgICAgICAgICBBbWlkZSwgQW5pbGlkZSwgQ2FyYmFtYXRlLCBIeWRyYXppZGUgYW5kIFN1bGZvbnlsdXJlYSBBZ3JvY2hlbWljYWxzLiBUaGUgMjEzdGggQUNTDQoNCiAgICAgICAgICBOYXRpb25hbCBNZWV0aW5nLCBEaXZpc2lvbiBvZiBBZ3JvY2hlbWljYWxzLCBTYW4gRnJhbmNpc2NvLCBDQSwgQXByaWwgMTMtMTcsIDE5OTcuDQoNCiAgICAgIDcxLiBIdWFuZywgQy4tSC47IFN0b25lLCBBLiBULiBDdUlJLUNhdGFseXplZCBIeWRyb2x5c2lzIG9mIHRoZSBQbGFudCBHcm93dGggUmVndWxhdG9yDQoNCiAgICAgICAgICBEYW1pbm96aWRlIChBbGFyKSBhbmQgU3RydWN0dXJhbGx5LVJlbGF0ZWQgQ29tcG91bmRzIFVzaW5nIENhcGlsbGFyeSBFbGVjdHJvcGhvcmVzaXMsIHBvc3Rlcg0KDQogICAgICAgICAgcHJlc2VudGVkIGF0IHRoZSBHb3Jkb24gUmVzZWFyY2ggQ29uZmVyZW5jZSwgRW52aXJvbm1lbnRhbCBTY2llbmNlczogV2F0ZXIsIE5ldyBIYW1wdG9uLA0KDQogICAgICAgICAgTkgsIEp1bmUsIDE5OTYuDQoNCiAgICAgIDcyLiBIdWFuZywgQy4tSC47IFN0b25lLCBBLiBULiBDdUlJLUNhdGFseXplZCBIeWRyb2x5c2lzIG9mIHRoZSBQbGFudCBHcm93dGggUmVndWxhdG9yDQoNCiAgICAgICAgICBEYW1pbm96aWRlIChBbGFyKSBhbmQgU3RydWN0dXJhbGx5LVJlbGF0ZWQgQ29tcG91bmRzIFVzaW5nIENhcGlsbGFyeSBFbGVjdHJvcGhvcmVzaXMsIG9yYWwNCg0KICAgICAgICAgIHByZXNlbnRhdGlvbiBhdCB0aGUgMTd0aCBTRVRBQyBNZWV0aW5nLCBXYXNoaW5ndG9uLCBEQywgTm92ZW1iZXIsIDE5OTYuDQoNCiAgICAgIDczLiBIdWFuZywgQy4tSC47IFN0b25lLCBBLiBULiBUaGUgRWZmZWN0IG9mIE1ldGFsIElvbnMgYW5kIE1ldGFsIENvbXBsZXhlcyBvbiB0aGUgSHlkcm9seXNpcyBvZg0KDQogICAgICAgICAgQW1pZGUsIEFuaWxpZGUgYW5kIENhcmJhbWF0ZSBBZ3JvY2hlbWljYWxzLCBwb3N0ZXIgcHJlc2VudGVkIGF0IHRoZSAybmQgU0VUQUMgV29ybGQNCg0KICAgICAgICAgIENvbmdyZXNzLCBWYW5jb3V2ZXIsIENhbmFkYS4gTm92ZW1iZXIsIDE5OTUuDQoNCg0KDQogIEQuIFRlY2huaWNhbCBSZXBvcnRzDQoNCiAgICAgMS4gSHVhbmcsIEMuLUguIDIwMTEuIFRyYW5zZm9ybWF0aW9uIG9mIEFtaW5lcyB0byBOaXRyb3NhbWluZXMgb24gQWN0aXZhdGVkIENhcmJvbnM6DQoNCiAgICAgICAgSW1wbGljYXRpb25zIGZvciBOaXRyb3NhbWluZSBBbmFseXNpcyBhbmQgV2F0ZXIgUHVyaWZpY2F0aW9uLiAxc3QgUGVyaW9kaWMgUmVwb3J0LCBXYXRlcg0KDQogICAgICAgIFJlc2VhcmNoIEZvdW5kYXRpb24gKFByb2plY3QgNDM0MykuDQoNCiAgICAgMi4gSHVhbmcsIEMuLUguIDIwMTAuIEZhdGUgb2YgQW50aWJpb3RpY3MgaW4gUG91bHRyeSBMaXR0ZXIgQmVmb3JlIGFuZCBBZnRlciBBcHBsaWNhdGlvbiB0bw0KDQogICAgICAgIEdyYXNzbGFuZHMuIDFzdCBBbm51YWwgUmVwb3J0LCBVLlMuIERlcHQuIG9mIEFncmljdWx0dXJlIChQcm9qZWN0IDIwMDktNjUxMDItMDU4NDMpLg0KDQogICAgIDMuIFBhdmxvc3RhdGhpcywgUy4gRy47IEh1YW5nLCBDLi1ILiAyMDA4LiBTR0VSOiBSb2xlIG9mIEFuYWVyb2JpYyBEaWdlc3Rpb24gaW4gTi0NCg0KICAgICAgICBOaXRyb3NvZGltZXRoeWxhbWluZSAoTkRNQSkgRm9ybWF0aW9uIGluIE11bmljaXBhbCBXYXN0ZXdhdGVyIFRyZWF0bWVudCBQbGFudHM6IFNvdXJjZSBvcg0KDQogICAgICAgIFNpbmsuIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiwgRmluYWwgUmVwb3J0IChBd2FyZCAjIDA2MTAzNTgpLg0KDQogICAgIDQuIFBhcmssIFMuIEguOyBXZWksIFMuOyBIdWFuZywgQy1ILjsgTWl6YWlrb2ZmLCBCLjsgQXJhbCwgTS4gTS4gMjAwNy4gQSBTdHVkeSBvZiB0aGUgRWZmZWN0IG9mDQoNCiAgICAgICAgUG9seW1lcnMgb24gUG90ZW50aWFsIE4tTml0cm9zb2RpbWV0aHlsYW1pbmUgKE5ETUEpIEZvcm1hdGlvbiBhdCBXYXRlciBhbmQgV2FzdGV3YXRlcg0KDQogICAgICAgIFRyZWF0bWVudCBQbGFudHMsIiBNdWx0aW1lZGlhIEVudmlyb25tZW50YWwgU2ltdWxhdGlvbnMgTGFib3JhdG9yeSwgU2Nob29sIG9mIENpdmlsIGFuZA0KDQogICAgICAgIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIFJlcG9ydCBOby4gTUVTTC0wMy0wNywgMTA3cCwNCg0KICAgICAgICBKdW5lIDIwMDcuDQoNCiAgICAgNS4gSHVhbmcsIEMuLUguIDIwMDYuIEVsdWNpZGF0aW5nIHRoZSBPeGlkYXRpdmUgVHJhbnNmb3JtYXRpb24gb2YgQW50aW1pY3JvYmlhbCBBZ2VudHMgd2l0aCBNbiwNCg0KICAgICAgICBGZSBhbmQgQWwgT3hpZGUsIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiwgRmluYWwgUmVwb3J0IChBd2FyZCAjIDAyMjkxNzIpLg0KDQogICAgIDYuIFNlZGxhaywgRC4gTC47IEh1YW5nLCBDLi1ILjsgUGlua3N0b24sIEsuIDIwMDUuIE9jY3VycmVuY2UgU3VydmV5IG9mIFBoYXJtYWNldXRpY2FsbHkgQWN0aXZlDQoNCiAgICAgICAgQ29tcG91bmRzLCBmaW5hbCB0ZWNobmljYWwgcmVwb3J0LCBBbWVyaWNhbiBXYXRlciBXb3JrcyBBc3NvY2lhdGlvbiBSZXNlYXJjaCBGb3VuZGF0aW9uLA0KDQogICAgICAgIERlbnZlciwgQ08gKElTQk4gMS01ODMyMS0zNzAtOCkuDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2LzcvMjAxMQ0KDQpDaGluZy1IdWEgSHVhbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICAgICA3LiBIdWFuZywgQy4tSC4gMjAwMy4gQ2hsb3JpbmF0aW9uIGFuZCBPem9uYXRpb24gb2YgQW50aWJpb3RpY3MgRGV0ZWN0ZWQgaW4gR2VvcmdpYSBXYXRlcnMsIGZpbmFsDQoNCiAgICAgICAgIHRlY2huaWNhbCByZXBvcnQsIFUuUy4gR2VvbG9naWNhbCBTdXJ2ZXksIEdlb3JnaWEgV2F0ZXIgUmVzb3VyY2VzIEluc3RpdHV0ZSAoUHJvamVjdA0KDQogICAgICAgICAyMDAyR0ExMUIpLg0KDQoNCg0KICBFLiBJbnZpdGVkIFByZXNlbnRhdGlvbnMgKG5vdCBsaXN0ZWQgdW5kZXIgU2VjdGlvbiBWLiBDIC0gQ29uZmVyZW5jZXMpDQoNCiAgICAgIDEuIEh1YW5nLCBDLUguIEVudmlyb25tZW50YWwgT2NjdXJyZW5jZSBhbmQgVHJhbnNmb3JtYXRpb24gb2YgUGhhcm1hY2V1dGljYWwgQ29udGFtaW5hbnRzLg0KDQogICAgICAgICAgQmVpamluZyBGb3Jlc3RyeSBVbml2ZXJzaXR5LCBDb2xsZWdlIG9mIEVudmlyb25tZW50YWwgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcsIEJlaWppbmcsIENoaW5hLA0KDQogICAgICAgICAgSmFudWFyeSA3dGgsIDIwMTEuDQoNCiAgICAgIDIuIEh1YW5nLCBDLUguIEVudmlyb25tZW50YWwgT2NjdXJyZW5jZSBhbmQgVHJhbnNmb3JtYXRpb24gb2YgRW1lcmdpbmcgUGhhcm1hY2V1dGljYWwNCg0KICAgICAgICAgIENvbnRhbWluYW50cy4gSW5zdGl0dXRlIG9mIFByb2Nlc3MgRW5naW5lZXJpbmcsIENoaW5lc2UgQWNhZGVteSBvZiBTY2llbmNlcywgQmVpamluZywgQ2hpbmEsDQoNCiAgICAgICAgICBKYW51YXJ5IDd0aCwgMjAxMS4NCg0KICAgICAgMy4gSHVhbmcsIEMtSC4gRW52aXJvbm1lbnRhbCBPY2N1cnJlbmNlIGFuZCBUcmFuc2Zvcm1hdGlvbiBvZiBQaGFybWFjZXV0aWNhbCBDb250YW1pbmFudHMuDQoNCiAgICAgICAgICBTY2hvb2wgb2YgRW52aXJvbm1lbnRhbCBTY2llbmNlIGFuZCBUZWNobm9sb2d5LCBUaWFuamluIFVuaXZlcnNpdHksIFRpYW5qaW4sIENoaW5hLCBKYW51YXJ5DQoNCiAgICAgICAgICA2dGgsIDIwMTEuDQoNCiAgICAgIDQuIEh1YW5nLCBDLUguIEZvcm1hdGlvbiBhbmQgQ29udHJvbCBvZiBOaXRyb3NhbWluZSBEaXNpbmZlY3Rpb24gQnktUHJvZHVjdHMuIFNjaG9vbCBvZg0KDQogICAgICAgICAgRW52aXJvbm1lbnRhbCBTY2llbmNlIGFuZCBUZWNobm9sb2d5LCBUaWFuamluIFVuaXZlcnNpdHksIFRpYW5qaW4sIENoaW5hLCBKYW51YXJ5IDV0aCwgMjAxMS4NCg0KICAgICAgNS4gSHVhbmcsIEMtSC4gRW1lcmdpbmcgQ29udGFtaW5hbnRzIGZyb20gQWdyb2NoZW1pY2FsczogRW52aXJvbm1lbnRhbCBGYXRlIGFuZCBJbXBsaWNhdGlvbnMuDQoNCiAgICAgICAgICBVbml2ZXJzaXR5IG9mIEdlb3JnaWEsIEdyaWZmaW4sIEdBLCBEZWNlbWJlciA2dGgsIDIwMTAuDQoNCiAgICAgIDYuIEh1YW5nLCBDLi1ILiBEaXNjdXNzaW9uIExlYWRlciAtIE9yZ2FuaWMgQ29tcG91bmRzIGluIFdhdGVyIGFuZCBJY2UuIEdvcmRvbiBSZXNlYXJjaA0KDQogICAgICAgICAgQ29uZmVyZW5jZSwgRW52aXJvbm1lbnRhbCBTY2llbmNlczogV2F0ZXIsIE5ldyBIYW1wdG9uLCBOSCwgSnVuZSAyMC0yNSwgMjAxMA0KDQogICAgICA3LiBIdWFuZywgQy4tSC4gRm9ybWF0aW9uIGFuZCBGYXRlIG9mIE5pdHJvc2FtaW5lcyBpbiBXYXRlciBhbmQgV2FzdGV3YXRlciBUcmVhdG1lbnQgU3lzdGVtcy4NCg0KICAgICAgICAgIE5hdGlvbmFsIFRhaXdhbiBVbml2ZXJzaXR5LCBJbnN0aXR1dGUgb2YgRW52aXJvbm1lbnRhbCBQdWJsaWMgSGVhbHRoLCBUYWlwZWksIFRhaXdhbiwgQXVndXN0IDYsDQoNCiAgICAgICAgICAyMDA5Lg0KDQogICAgICA4LiBIdWFuZywgQy4tSC4gRm9ybWF0aW9uIGFuZCBGYXRlIG9mIE5pdHJvc2FtaW5lcyBpbiBXYXRlciBhbmQgV2FzdGV3YXRlciBUcmVhdG1lbnQgU3lzdGVtcy4NCg0KICAgICAgICAgIE5hdGlvbmFsIENoZW5nIEt1bmcgVW5pdmVyc2l0eSwgVGFpbmFuLCBUYWl3YW4sIEp1bHkgMjEsIDIwMDkuDQoNCiAgICAgIDkuIEh1YW5nLCBDLi1ILiBJbnRlcmFjdGlvbnMgb2YgVGV0cmFjeWNsaW5lIEFudGliaW90aWNzIHdpdGggRGlzc29sdmVkIE1ldGFsIElvbnMgYW5kIE1ldGFsDQoNCiAgICAgICAgICBPeGlkZXMuIEVtZXJnaW5nIENvbnRhbWluYW50IENvbmZlcmVuY2UsIEdyYWR1YXRlIEluc3RpdHV0ZSBvZiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLA0KDQogICAgICAgICAgTmF0aW9uYWwgVGFpd2FuIFVuaXZlcnNpdHksIFRhaXBlaSwgVGFpd2FuLCBKdW5lIDExLCAyMDA4Lg0KDQogICAgICAxMC4gSHVhbmcsIEMuLUguIEZvcm1hdGlvbiBhbmQgRmF0ZSBvZiBOaXRyb3NhbWluZXMgaW4gV2F0ZXIgYW5kIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMsDQoNCiAgICAgICAgICBUc2luZ2h1YSBVbml2ZXJzaXR5LCBCZWlqaW5nLCBDaGluYSwgSnVuZSA2LCAyMDA4Lg0KDQogICAgICAxMS4gSHVhbmcsIEMuLUguIEludGVyYWN0aW9ucyBvZiBUZXRyYWN5Y2xpbmUgQW50aWJpb3RpY3Mgd2l0aCBEaXNzb2x2ZWQgTWV0YWwgSW9ucyBhbmQgTWV0YWwNCg0KICAgICAgICAgIE94aWRlcy4gVG9uZ2ppIFVuaXZlcnNpdHksIFNoYW5naGFpLCBDaGluYSwgSnVuZSA0LCAyMDA4Lg0KDQogICAgICAxMi4gSHVhbmcsIEMuLUguIEludGVyYWN0aW9ucyBvZiBUZXRyYWN5Y2xpbmUgQW50aWJpb3RpY3Mgd2l0aCBEaXNzb2x2ZWQgTWV0YWwgSW9ucyBhbmQgTWV0YWwNCg0KICAgICAgICAgIE94aWRlcy4gU2hhbmdoYWkgSmlhbyBUb25nIFVuaXZlcnNpdHksIFNoYW5naGFpLCBDaGluYSwgSnVuZSAzLCAyMDA4Lg0KDQogICAgICAxMy4gSHVhbmcsIEMuLUguIEludGVyYWN0aW9ucyBvZiBUZXRyYWN5Y2xpbmUgQW50aWJpb3RpY3Mgd2l0aCBEaXNzb2x2ZWQgTWV0YWwgSW9ucyBhbmQgTWV0YWwNCg0KICAgICAgICAgIE94aWRlcy4gTmFuamluZyBVbml2ZXJzaXR5LCBOYW5qaW5nLCBDaGluYSwgSnVuZSAyLCAyMDA4Lg0KDQogICAgICAxNC4gSHVhbmcsIEMuLUguIFdhdGVyIFRyZWF0bWVudCBvZiBFbWVyZ2luZyBDb250YW1pbmFudHMgYW5kIEltcGxpY2F0aW9ucyBvbiBXYXRlciBSZXVzZS4NCg0KICAgICAgICAgIERlcGFydG1lbnQgb2YgRW52aXJvbm1lbnRhbCBTdHVkaWVzLCBFbW9yeSBVbml2ZXJzaXR5LCBBdGxhbnRhLCBHQSwgTWFyY2ggNiwgMjAwOC4NCg0KICAgICAgMTUuIEh1YW5nLCBDLi1ILiBJbXBhY3Qgb2YgRW1lcmdpbmcgQ29udGFtaW5hbnRzIG9uIFdhdGVyIE1hbmFnZW1lbnQgYW5kIFN1cHBseTogQ3VycmVudA0KDQogICAgICAgICAgS25vd2xlZGdlIGFuZCBGdXR1cmUgQ2hhbGxlbmdlcy4gVGhlIEVtZXJnaW5nIENvbnRhbWluYW50cyBXb3Jrc2hvcCBmb3IgbWV0cm8gQXRsYW50YQ0KDQogICAgICAgICAgd2F0ZXIgb2ZmaWNpYWxzLCBHZW9yZ2lhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBBdGxhbnRhLCBHQSwgQXVndXN0IDMxLCAyMDA3Lg0KDQogICAgICAxNi4gSHVhbmcsIEMuLUguIEZhdGUgb2YgUGhhcm1hY2V1dGljYWxzIGR1cmluZyBXYXRlciBhbmQgV2FzdGV3YXRlciBUcmVhdG1lbnQgUHJvY2Vzc2VzLg0KDQogICAgICAgICAgR3JhZHVhdGUgSW5zdGl0dXRlIG9mIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIE5hdGlvbmFsIFRhaXdhbiBVbml2ZXJzaXR5LCBUYWlwZWksIFRhaXdhbiwNCg0KICAgICAgICAgIEp1bmUgOCwgMjAwNy4NCg0KICAgICAgMTcuIEh1YW5nLCBDLi1ILiBGb3JtYXRpb24gYW5kIEZhdGUgb2YgTml0cm9zYW1pbmVzIGluIFdhdGVyIGFuZCBXYXN0ZXdhdGVyIFRyZWF0bWVudCBTeXN0ZW1zLg0KDQogICAgICAgICAgR3JhZHVhdGUgSW5zdGl0dXRlIG9mIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIE5hdGlvbmFsIFRhaXdhbiBVbml2ZXJzaXR5LCBUYWlwZWksIFRhaXdhbiwNCg0KICAgICAgICAgIEp1bmUgOCwgMjAwNy4NCg0KDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDExDQoNCkNoaW5nLUh1YSBIdWFuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICAgICAxOC4gSHVhbmcsIEMuLUguIEVmZmVjdCBvZiBNZXRhbCBTcGVjaWVzIG9uIHRoZSBUcmFuc2Zvcm1hdGlvbiBvZiBUZXRyYWN5Y2xpbmUgQW50aWJpb3RpY3MuIERlcHQuIG9mDQoNCiAgICAgICAgICBFbmVyZ3ksIEVudmlyb25tZW50YWwsIGFuZCBDaGVtaWNhbCBFbmdpbmVlcmluZywgRW52aXJvbm1lbnRhbCBTdHVkaWVzIFByb2dyYW0sIFdhc2hpbmd0b24NCg0KICAgICAgICAgIFVuaXZlcnNpdHksIFN0LiBMb3VpcywgTU8sIE1hcmNoIDUsIDIwMDcuDQoNCiAgICAgIDE5LiBIdWFuZywgQy4tSC4gUmVhY3Rpb25zIG9mIEFudGliYWN0ZXJpYWwgQWdlbnRzIHdpdGggQXF1ZW91cyBDaGxvcmluZSB1bmRlciBXYXRlciBUcmVhdG1lbnQNCg0KICAgICAgICAgIENvbmRpdGlvbnMuIERlcHQuIG9mIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIE5hdGlvbmFsIENodW5nIEhzaW5nIFVuaXZlcnNpdHksIFRhaWNodW5nLA0KDQogICAgICAgICAgVGFpd2FuLCBNYXkgMjQsIDIwMDYuDQoNCiAgICAgIDIwLiBIdWFuZywgQy4tSC4gQW50aWJhY3RlcmlhbCBBZ2VudHMgYXMgRW1lcmdpbmcgQ29udGFtaW5hbnRzOiBBbiBFbnZpcm9ubWVudGFsIENoZW1pc3RyeQ0KDQogICAgICAgICAgUGVyc3BlY3RpdmUuIFNjaG9vbCBvZiBDaGVtaXN0cnkgYW5kIEJpb2NoZW1pc3RyeSwgR2VvcmdpYSBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgQXRsYW50YSwNCg0KICAgICAgICAgIEdBLCBTZXB0ZW1iZXIgOCwgMjAwNQ0KDQogICAgICAyMS4gSHVhbmcsIEMuLUguIEVudmlyb25tZW50YWwgRmF0ZSBvZiBFbWVyZ2luZyBDb250YW1pbmFudHM6IHRoZSBDYXNlcyBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cy4NCg0KICAgICAgICAgIERlcGFydG1lbnQgb2YgQmlvbWVkaWNhbCBFbmdpbmVlcmluZyBhbmQgRW52aXJvbm1lbnRhbCBTY2llbmNlcywgTmF0aW9uYWwgVHNpbmcgSHVhDQoNCiAgICAgICAgICBVbml2ZXJzaXR5LCBIc2luY2h1LCBUYWl3YW4sIE1heSAxOCwgMjAwNS4NCg0KICAgICAgMjIuIEh1YW5nLCBDLi1ILiBFbnZpcm9ubWVudGFsIEZhdGUgb2YgRW1lcmdpbmcgQ29udGFtaW5hbnRzOiB0aGUgQ2FzZXMgb2YgQW50aWJhY3RlcmlhbCBBZ2VudHMuDQoNCiAgICAgICAgICBHcmFkdWF0ZSBJbnN0aXR1dGUgb2YgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgTmF0aW9uYWwgVGFpd2FuIFVuaXZlcnNpdHksIFRhaXBlaSwgVGFpd2FuLA0KDQogICAgICAgICAgTWF5IDE3LCAyMDA1Lg0KDQogICAgICAyMy4gSHVhbmcsIEMuLUguIFRyYW5zZm9ybWF0aW9uIG9mIE4tT3hpZGUgYW5kIEZsdW9yb3F1aW5vbG9uZSBBbnRpYmFjdGVyaWFsIEFnZW50cyBpbiB0aGUNCg0KICAgICAgICAgIFByZXNlbmNlIG9mIE1ldGFsIE94aWRlcy4gRGVwdC4gb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIEF1YnVybiBVbml2ZXJzaXR5LA0KDQogICAgICAgICAgQXVidXJuLCBBTCwgRmVicnVhcnkgOSwgMjAwNS4NCg0KICAgICAgMjQuIEh1YW5nLCBDLi1ILiBQcm9iaW5nIHRoZSBNZWNoYW5pc21zIG9mIHRoZSBJbnRlcmZhY2lhbCBUcmFuc2Zvcm1hdGlvbiBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cw0KDQogICAgICAgICAgd2l0aCBNZXRhbCBPeGlkZXMuIERlcHQuIG9mIENpdmlsIGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBDbGVtc29uIFVuaXZlcnNpdHksDQoNCiAgICAgICAgICBDbGVtc29uLCBTQywgT2N0b2JlciA3LCAyMDA0Lg0KDQogICAgICAyNS4gSHVhbmcsIEMuLUguIFByb2JpbmcgdGhlIE1lY2hhbmlzbXMgb2YgdGhlIEludGVyZmFjaWFsIFRyYW5zZm9ybWF0aW9uIG9mIEFudGliYWN0ZXJpYWwgQWdlbnRzDQoNCiAgICAgICAgICB3aXRoIE1ldGFsIE94aWRlcy4gRGVwdC4gb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIFVuaXZlcnNpdHkgb2YgRGVsYXdhcmUsDQoNCiAgICAgICAgICBOZXdhcmssIERFLCBBdWd1c3QgMjcsIDIwMDQuDQoNCiAgICAgIDI2LiBIdWFuZywgQy4tSC4gVHJhbnNmb3JtYXRpb24gb2YgQW50aWJhY3RlcmlhbCBBZ2VudHMgd2l0aCBNZXRhbCBPeGlkZXMuIE9hayBSaWRnZSBOYXRpb25hbA0KDQogICAgICAgICAgTGFib3JhdG9yeSwgT2FrIFJpZGdlLCBUTiwgTm92ZW1iZXIgMTksIDIwMDIuDQoNCiAgICAgIDI3LiBIdWFuZywgQy4tSC4gVHJhbnNmb3JtYXRpb24gb2YgQW50aWJhY3RlcmlhbCBBZ2VudHMgd2l0aCBNZXRhbCBPeGlkZXMuIFNjaG9vbCBvZiBFYXJ0aCBhbmQNCg0KICAgICAgICAgIEF0bW9zcGhlcmljIFNjaWVuY2VzLCBHZW9yZ2lhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5LCBBdGxhbnRhLCBHQSwgTm92ZW1iZXIgMSwgMjAwMi4NCg0KICAgICAgMjguIEh1YW5nLCBDLi1ILiBGYWN0b3JzIEFmZmVjdGluZyB0aGUgRmF0ZSBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cyBpbiB0aGUgQXF1YXRpYyBFbnZpcm9ubWVudC4NCg0KICAgICAgICAgIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcgU2VtaW5hciwgU2Nob29sIG9mIENpdmlsIGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBHZW9yZ2lhDQoNCiAgICAgICAgICBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgQXRsYW50YSwgR0EsIEF1Z3VzdCAyOCwgMjAwMi4NCg0KICAgICAgMjkuIEh1YW5nLCBDLi1ILiBGYWN0b3JzIEFmZmVjdGluZyB0aGUgQ29uY2VudHJhdGlvbnMgb2YgSG9ybW9uZXMgYW5kIEFudGliaW90aWNzIFJlbGVhc2VkIGludG8NCg0KICAgICAgICAgIHRoZSBBcXVhdGljIEVudmlyb25tZW50LiBHd2lubmV0dCBDb3VudHkgRGVwYXJ0bWVudCBvZiBQdWJsaWMgVXRpbGl0aWVzLCBMYXdyZW5jZXZpbGxlLCBHQSwNCg0KICAgICAgICAgIEF1Z3VzdCA3LCAyMDAyLg0KDQogICAgICAzMC4gSHVhbmcsIEMuLUguIE9jY3VycmVuY2UgYW5kIFJlbW92YWwgb2YgSG9ybW9uZXMgYW5kIEFudGliaW90aWNzIGluIHRoZSBBcXVhdGljDQoNCiAgICAgICAgICBFbnZpcm9ubWVudC4gRGVwdC4gb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhLA0KDQogICAgICAgICAgTWlubmVhcG9saXMsIE1OLCBPY3RvYmVyIDEyLCAyMDAxLg0KDQogICAgICAzMS4gSHVhbmcsIEMuLUguIE9jY3VycmVuY2UgYW5kIEZhdGUgb2YgUGhhcm1hY2V1dGljYWwgQ29tcG91bmRzIGluIEFxdWF0aWMgRW52aXJvbm1lbnQuDQoNCiAgICAgICAgICBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIFNlbWluYXIsIFNjaG9vbCBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgR2VvcmdpYQ0KDQogICAgICAgICAgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEF0bGFudGEsIEdBLCBOb3ZlbWJlciA4LCAyMDAwLg0KDQogICAgICAzMi4gSHVhbmcsIEMuLUguIFRoZSBPY2N1cnJlbmNlIGFuZCBGYXRlIG9mIEVzdHJvZ2VuaWMgSG9ybW9uZXMgaW4gTXVuaWNpcGFsIFdhc3Rld2F0ZXINCg0KICAgICAgICAgIEVmZmx1ZW50IGFuZCBTdXJmYWNlIFdhdGVyLiBFbnZpcm9ubWVudGFsIEZsdWlkIE1lY2hhbmljcyBhbmQgV2F0ZXIgUmVzb3VyY2VzIFNlbWluYXIsDQoNCiAgICAgICAgICBTY2hvb2wgb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEF0bGFudGEsIEdBLA0KDQogICAgICAgICAgT2N0b2JlciAyNywgMjAwMC4NCg0KICAgICAgMzMuIEh1YW5nLCBDLi1ILiBBbmFseXNpcyBvZiBFc3Ryb2dlbmljIEhvcm1vbmVzIGluIE11bmljaXBhbCBXYXN0ZXdhdGVyIEVmZmx1ZW50IGFuZCBTdXJmYWNlDQoNCiAgICAgICAgICBXYXRlciBVc2luZyBFTElTQSBhbmQgR0MvTVMvTVMuIEVQQSBOYXRpb25hbCBFeHBvc3VyZSBSZXNlYXJjaCBMYWJvcmF0b3J5LCBFY29zeXN0ZW1zDQoNCiAgICAgICAgICBSZXNlYXJjaCBEaXZpc2lvbiwgQXRoZW5zLCBHQSwgTWF5IDE4LCAyMDAwLg0KDQoNCg0KDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDExICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDExDQoNCkNoaW5nLUh1YSBIdWFuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YQ0KDQoNCg0KDQoNCiAgICAgIDM0LiBIdWFuZywgQy4tSC4gRmF0ZSBvZiBCaW9sb2dpY2FsbHktQWN0aXZlIFBvbGFyIFBvbGx1dGFudHMgaW4gdGhlIEFxdWF0aWMgRW52aXJvbm1lbnQuIFNjaG9vbCBvZg0KDQogICAgICAgICAgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEF0bGFudGEsIEdBLCBBcHJpbCA4LA0KDQogICAgICAgICAgMTk5OS4NCg0KDQoNCiAgRi4gVGhlc2VzDQoNCiAgICAgMS4gSHVhbmcsIEMuLUguIDE5OTcuIEh5ZHJvbHlzaXMgb2YgQW1pZGUsIENhcmJhbWF0ZSwgSHlkcmF6aWRlIGFuZCBTdWxmb255bHVyZWENCg0KICAgICAgICAgQWdyb2NoZW1pY2FsczogQ2F0YWx5c2lzIGFuZCBJbmhpYml0aW9uIGJ5IERpc3NvbHZlZCBNZXRhbCBJb25zLCBNZXRhbCBJb24tTGlnYW5kIENvbXBsZXhlcw0KDQogICAgICAgICBhbmQgSHlkcm91cyBNZXRhbCBPeGlkZSBTdXJmYWNlcy4gUGguRC4gRGlzc2VydGF0aW9uLCBEZXB0LiBvZiBHZW9ncmFwaHkgYW5kIEVudmlyb25tZW50YWwNCg0KICAgICAgICAgRW5naW5lZXJpbmcsIEpvaG5zIEhvcGtpbnMgVW5pdmVyc2l0eSwgQmFsdGltb3JlLCBNRC4NCg0KICAgICAyLiBIdWFuZywgQy1ILiAxOTkzLiBIeWRyb2x5c2lzIG9mIENhcmJhbWF0ZSBhbmQgQW5pbGlkZSBQZXN0aWNpZGVzIGF0IHRoZSBPeGlkZS9XYXRlciBJbnRlcmZhY2UuDQoNCiAgICAgICAgIE0uUy4gVGhlc2lzLCBEZXB0LiBvZiBHZW9ncmFwaHkgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIEpvaG5zIEhvcGtpbnMgVW5pdmVyc2l0eSwNCg0KICAgICAgICAgQmFsdGltb3JlLCBNRC4NCg0KDQoNCg0KDQogIFZJLiBHUkFOVFMgQU5EIENPTlRSQUNUUw0KDQogICogICBXYXRlciBSZXNlYXJjaCBGb3VuZGF0aW9uLCAwMS8wMS8yMDEyLTEyLzMxLzIwMTQsICQ0MDAsMDAwLCBDb250cm9sbGluZyB0aGUgRm9ybWF0aW9uIG9mDQoNCiAgICAgIE5pdHJvc2FtaW5lcyBkdXJpbmcgV2F0ZXIgVHJlYXRtZW50LCBIdWFuZyAoQ28tUEkpLiAoUGVuZGluZykNCg0KICAqICAgV2F0ZXIgUmVzZWFyY2ggRm91bmRhdGlvbiwgMTAvMDEvMjAxMS01LzMxLzIwMTMsICQyNzUsMDAwLCBHcmVlbiBCdWlsZGluZyBEZXNpZ246IFdhdGVyIFF1YWxpdHkNCg0KICAgICAgYW5kIFV0aWxpdHkgTWFuYWdlbWVudCBDb25zaWRlcmF0aW9ucywgSHVhbmcgKFBJKS4gKFBlbmRpbmcpDQoNCiAgKiAgIFdhdGVyIFJlc2VhcmNoIEZvdW5kYXRpb24sIDExLzAxLzEwLTEwLzMxLzEyLCAkMTUwLDAwMCwgVHJhbnNmb3JtYXRpb24gb2YgQW1pbmVzIHRvDQoNCiAgICAgIE5pdHJvc2FtaW5lcyBvbiBBY3RpdmF0ZWQgQ2FyYm9uczogSW1wbGljYXRpb25zIGZvciBOaXRyb3NhbWluZSBBbmFseXNpcyBhbmQgV2F0ZXIgUHVyaWZpY2F0aW9uLA0KDQogICAgICBIdWFuZyAoUEkpLg0KDQogICogICBVU0RBLCAxMS8xLzA5LTEwLzMxLzEyLCAkNDAwLDAwMCwgRmF0ZSBvZiBBbnRpYmlvdGljcyBpbiBQb3VsdHJ5IExpdHRlciBCZWZvcmUgYW5kIEFmdGVyDQoNCiAgICAgIEFwcGxpY2F0aW9uIHRvIEdyYXNzbGFuZHMsIEh1YW5nIChQSSkuDQoNCiAgKiAgIERlS2FsYiBDb3VudHksIEdBLCAxMC8xLzA5LTMvMzEvMTEsICQ5NywyMDAsIE9jY3VycmVuY2UgU3VydmV5IG9mIFBoYXJtYWNldXRpY2FscyBhbmQgUGVyc29uYWwNCg0KICAgICAgQ2FyZSBQcm9kdWN0cyAoUFBDUHMpIGluIFNvdXJjZSBXYXRlciwgRHJpbmtpbmcgV2F0ZXIsIGFuZCBSYXcgYW5kIFRyZWF0ZWQgV2FzdGV3YXRlciwgJDk3LDIwMCwNCg0KICAgICAgSHVhbmcgKFBJKS4NCg0KICAqICAgU05GIEhvbGRpbmcgQ29tcGFueSwgOS8xLzA3LTgvMzEvMTAsICQzMDgsMzIxLCBQb3RlbnRpYWwgTi1OaXRyb3NvZGltZXRoeWxhbWluZSAoTkRNQSkNCg0KICAgICAgRm9ybWF0aW9uIGF0IFdhdGVyIGFuZCBXYXN0ZXdhdGVyIFRyZWF0bWVudCBQbGFudHMgYW5kIEV4cG9zdXJlIFBhdGh3YXkgQW5hbHlzaXMsIEh1YW5nIChDby0NCg0KICAgICAgUEkpLg0KDQogICogICBOU0YsIDUvMTUvMDYtMTAvMzEvMDcsICQ1OSw5OTgsIFNHRVI6IFJvbGUgb2YgQW5hZXJvYmljIERpZ2VzdGlvbiBpbiBOLU5pdHJvc29kaW1ldGh5bGFtaW5lDQoNCiAgICAgIChORE1BKSBGb3JtYXRpb24gaW4gTXVuaWNpcGFsIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFBsYW50czogU291cmNlIG9yIFNpbmssIEh1YW5nIChDby1QSSkuDQoNCiAgKiAgIFNhZWhhbiBJbmR1c3RyaWVzLCAxLzEvMDYtMTIvMzEvMDcsICQyNSwwMDAsIFJlbW92YWwgb2YgTi1OaXRyb3NhbWluZXMgYW5kIFRoZWlyIFByZWN1cnNvcnMgYnkNCg0KICAgICAgUmV2ZXJzZSBPc21vc2lzIGFuZCBOYW5vZmlsdHJhdGlvbiBNZW1icmFuZXMsIEh1YW5nIChDby1QSSkuDQoNCiAgKiAgIEJsdWVJbkdyZWVuL05JSCwgOS8zMC8wNS05LzI5LzA2LCAkMzEsMzQ1IHRvIEdUICh0b3RhbCA9ICQxMDAsMDAwKSwgUG9pbnQgU291cmNlIE96b25hdGlvbiB0bw0KDQogICAgICBNaW5pbWl6ZSBBbnRpYmlvdGljIFJlc2lzdGFuY2UsIEh1YW5nIChDby1QSSkuDQoNCiAgKiAgIFNORiBIb2xkaW5nIENvbXBhbnksIDMvMTUvMDQtMy8xNC8wNywgJDU1MCw0MzIsIFBvdGVudGlhbCBOLU5pdHJvc29kaW1ldGh5bGFtaW5lIChORE1BKQ0KDQogICAgICBGb3JtYXRpb24gYXQgV2F0ZXIgYW5kIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFBsYW50cyBhbmQgRXhwb3N1cmUgUGF0aHdheSBBbmFseXNpcywgSHVhbmcgKENvLQ0KDQogICAgICBQSSkuDQoNCiAgKiAgIFNhZWhhbiBJbmR1c3RyaWVzLCAxLzEvMDQtMTIvMzEvMDUsICQ0NSwwMDAsIFJlbW92YWwgb2YgRW1lcmdpbmcgVHJhY2UgQ29udGFtaW5hbnRzIGluIFN1cmZhY2UNCg0KICAgICAgV2F0ZXIgYnkgVWx0cmFmaWx0cmF0aW9uIGFuZCBOYW5vZmlsdHJhdGlvbiwgSHVhbmcgKENvLVBJKS4NCg0KICAqICAgTlNGLCA5LzE1LzAyLTgvMzEvMDYsICQyNjEsOTI1LCBFbHVjaWRhdGluZyB0aGUgT3hpZGF0aXZlIFRyYW5zZm9ybWF0aW9uIG9mIEFudGltaWNyb2JpYWwgQWdlbnRzDQoNCiAgICAgIHdpdGggTW4sIEZlIGFuZCBBbCBPeGlkZXMsIEh1YW5nIChQSSkuDQoNCiAgKiAgIEdXUkkvRGVwdC4gb2YgSW50ZXJpb3IsIDMvMS8wMi0yLzI4LzAzLCAkMTQsMDAwLCBDaGxvcmluYXRpb24gYW5kIE96b25hdGlvbiBvZiBBbnRpYmlvdGljcyBEZXRlY3RlZA0KDQogICAgICBpbiBHZW9yZ2lhIFdhdGVycywgSHVhbmcgKFBJKS4NCg0KICAqICAgTWFuYXRlZSBDb3VudHksIDkvMTMvMjAwMC0xMi8xMi8yMDAwLCAkNSw5OTYsIEFuYWx5c2lzIG9mIEVzdHJvZ2VuaWMgSG9ybW9uZXMgaW4gTXVuaWNpcGFsDQoNCiAgICAgIFdhc3Rld2F0ZXIgRWZmbHVlbnQgYW5kIFN1cmZhY2UgV2F0ZXIsIEh1YW5nIChQSSkuDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2LzcvMjAxMQ0KDQpDaGluZy1IdWEgSHVhbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICogICBDaXR5IG9mIEJyYWRlbnRvbiwgOS8xLzIwMDAtMTEvMzAvMjAwMCwgJDIsOTk4LCBBbmFseXNpcyBvZiBFc3Ryb2dlbmljIEhvcm1vbmVzIGluIE11bmljaXBhbA0KDQogICAgICBXYXN0ZXdhdGVyIEVmZmx1ZW50IGFuZCBTdXJmYWNlIFdhdGVyLCBIdWFuZyAoUEkpLg0KDQogICogICBVQyBCZXJrZWxleS9BV1dBUkYsIDEvMS8wMC0xMi8zMS8wMiwgJDY0LDAwMCB0byBHVCAodG90YWwgPSAkMjAwLDAwMCksIE9jY3VycmVuY2UgU3VydmV5IG9mDQoNCiAgICAgIFBoYXJtYWNldXRpY2FsbHkgQWN0aXZlIENvbXBvdW5kcywgSHVhbmcgKENvLVBJKS4NCg0KDQoNCiAgVklJLiBTRVJWSUNFUw0KDQogIEEuIFByb2Zlc3Npb25hbCBDb250cmlidXRpb25zOg0KDQogICAgIENvbmZlcmVuY2UsIFdvcmtzaG9wIENoYWlyIGFuZCBPcmdhbml6ZXINCg0KICAgICAgICAgKiBJbnRlcm5hdGlvbmFsIFByb2dyYW0gQ29tbWl0dGVlIE1lbWJlciwgdGhlIDZ0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gU3VzdGFpbmFibGUNCg0KICAgICAgICAgICAgIFdhdGVyIEVudmlyb25tZW50LCBVbml2ZXJzaXR5IG9mIERlbGF3YXJlLCBOZXdhcmssIERFLCBVU0EsIEp1bHkgMjktMzEsIDIwMTAuDQoNCiAgICAgICAgICogV29ya3Nob3AgT3JnYW5pemVyLCAiRW1lcmdpbmcgQ29udGFtaW5hbnQgV29ya3Nob3AiIGZvciBtZXRybyBBdGxhbnRhIHdhdGVyIG9mZmljaWFscywNCg0KICAgICAgICAgICAgIGNvLW9yZ2FuaXplZCBhbmQgc3BvbnNvcmVkIGJ5IFIyVCwgSW5jLiBhbmQgR2VvcmdpYSBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgQXRsYW50YSwgR0EsDQoNCiAgICAgICAgICAgICBBdWd1c3QgMzEsIDIwMDcuDQoNCiAgICAgICAgICogU3ltcG9zaXVtIENoYWlyLCB0aGUgMjMxc3QgQUNTIE5hdGlvbmFsIE1lZXRpbmcsIFN5bXBvc2l1bSBvZiAiQWR2YW5jZXMgaW4gU3VyZmFjZS0NCg0KICAgICAgICAgICAgIE1lZGlhdGVkIFRyYW5zZm9ybWF0aW9uIGluIEVudmlyb25tZW50YWwgU3lzdGVtcyIsIEF0bGFudGEsIEdBLCBNYXJjaCAyNi0zMCwgMjAwNi4gKENvLQ0KDQogICAgICAgICAgICAgQ2hhaXI6IERyLiBQLiBDaGl1KQ0KDQogICAgICAgICAqIFN5bXBvc2l1bSBDaGFpciwgdGhlIDFzdCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gRW52aXJvbm1lbnRhbCBFeHBvc3VyZSBhbmQgSGVhbHRoLA0KDQogICAgICAgICAgICAgU3ltcG9zaXVtIG9mICJFbWVyZ2luZyBXYXRlciBDb250YW1pbmFudHM6IEVudmlyb25tZW50YWwgRmF0ZSBhbmQgSGVhbHRoIEVmZmVjdHMiLA0KDQogICAgICAgICAgICAgQXRsYW50YSwgR0EsIE9jdG9iZXIgNS03LCAyMDA1Lg0KDQogICAgICAgICAqIFN5bXBvc2l1bSBTZXNzaW9uIENoYWlyLCB0aGUgNzZ0aCBDb2xsb2lkIGFuZCBTdXJmYWNlIFNjaWVuY2UgU3ltcG9zaXVtLCBwb3N0ZXIgc2Vzc2lvbiwNCg0KICAgICAgICAgICAgIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIEF0bGFudGEsIEdBLCBKdW5lIDE1LTE4LCAyMDAzLg0KDQoNCg0KICAgICAgUHJvcG9zYWwgUmV2aWV3ZXINCg0KICAgICAgICAgQXJteSBDb3JwcyBvZiBFbmdpbmVlcnMgRW5naW5lZXIgUmVzZWFyY2ggYW5kIERldmVsb3BtZW50IENlbnRlciAoRVJEQykNCg0KICAgICAgICAgR2VvcmdpYSBXYXRlciBSZXNvdXJjZXMgSW5zdGl0dXRlDQoNCiAgICAgICAgIE5hdGlvbmFsIEluc3RpdHV0ZSBmb3IgV2F0ZXIgUmVzb3VyY2VzIChOSVdSKQ0KDQogICAgICAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gKE5TRikNCg0KICAgICAgICAgTmF0aW9uYWwgU2VhIEdyYW50IFByb2dyYW0NCg0KICAgICAgICAgUmVzZWFyY2ggQ29ycG9yYXRpb24gZm9yIFNjaWVuY2UgQWR2YW5jZW1lbnQgKFJDU0EpDQoNCg0KDQogICAgICBUZWNobmljYWwgSm91cm5hbCBSZXZpZXdlcg0KDQogICAgICAgICBBbmFseXRpY2FsIENoZW1pc3RyeQ0KDQogICAgICAgICBDaGVtb3NwaGVyZQ0KDQogICAgICAgICBFbnZpcm9ubWVudGFsIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kNCg0KICAgICAgICAgRW52aXJvbm1lbnRhbCBUb3hpY29sb2d5IGFuZCBDaGVtaXN0cnkNCg0KICAgICAgICAgRW52aXJvbm1lbnRhbCBQb2xsdXRpb24NCg0KICAgICAgICAgSm91cm5hbCBvZiBBZ3JpY3VsdHVyYWwgYW5kIEZvb2QgQ2hlbWlzdHJ5DQoNCiAgICAgICAgIEpvdXJuYWwgb2YgQ2hyb21hdG9ncmFwaHkgQQ0KDQogICAgICAgICBKb3VybmFsIG9mIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcNCg0KICAgICAgICAgSm91cm5hbCBvZiBIYXphcmRvdXMgTWF0ZXJpYWxzDQoNCiAgICAgICAgIEpvdXJuYWwgb2YgUGh5c2ljYWwgQ2hlbWlzdHJ5DQoNCiAgICAgICAgIFNjaWVuY2Ugb2YgdGhlIFRvdGFsIEVudmlyb25tZW50DQoNCiAgICAgICAgIFNlcGFyYXRpb24gU2NpZW5jZSAmIFRlY2hub2xvZ3kNCg0KICAgICAgICAgV2F0ZXIgUmVzZWFyY2gNCg0KDQoNCiAgICAgIFByb2Zlc3Npb25hbCBPcmdhbml6YXRpb24gU2VydmljZQ0KDQogICAgICAgICAqIENoYWlyIG9mIEJvYXJkIG9mIERpcmVjdG9ycyAoMjAxMSksIEFFRVNQIExpYWlzb24gKDIwMTEpLCBQcmVzaWRlbnQgKDIwMTApIGFuZCBGb3VuZGluZw0KDQogICAgICAgICAgICAgIENvbW1pdHRlZSBNZW1iZXIgKDIwMDcpIGZvciB0aGUgQXNzb2NpYXRpb24gb2YgQ2hpbmVzZS1BbWVyaWNhbiBQcm9mZXNzb3JzIGluDQoNCiAgICAgICAgICAgICAgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZyBhbmQgU2NpZW5jZXMgKENBUEVFUykgKGh0dHA6Ly93d3cuY2FwZWVzLm9yZy8pLg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDExDQoNCkNoaW5nLUh1YSBIdWFuZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YQ0KDQoNCg0KDQoNCiAgICAgICAgICogICBBd2FyZCBDb21taXR0ZWUgTWVtYmVyIGFuZCBKdWRnZSAoMjAxMS1QcmVzZW50KSwgQW1lcmljYW4gQ2hlbWljYWwgU29jaWV0eSAoQUNTKQ0KDQogICAgICAgICAgICAgRGl2aXNpb24gb2YgRW52aXJvbm1lbnRhbCBDaGVtaXN0cnkNCg0KDQoNCiAgICAgIFByb2Zlc3Npb25hbCBPcmdhbml6YXRpb24gQWZmaWxpYXRpb24NCg0KICAgICAgICAgQW1lcmljYW4gQ2hlbWljYWwgU29jaWV0eSAoQUNTKQ0KDQogICAgICAgICBBc3NvY2lhdGlvbiBvZiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIGFuZCBTY2llbmNlIFByb2Zlc3NvcnMgKEFFRVNQKQ0KDQogICAgICAgICBBbWVyaWNhbiBXYXRlciBXb3JrcyBBc3NvY2lhdGlvbiAoQVdXQSkNCg0KICAgICAgICAgV2F0ZXIgRW52aXJvbm1lbnQgRmVkZXJhdGlvbiAoV0VGKQ0KDQogICAgICAgICBTb2NpZXR5IG9mIEVudmlyb25tZW50YWwgVG94aWNvbG9neSBhbmQgQ2hlbWlzdHJ5IChTRVRBQykNCg0KICAgICAgICAgSW50ZXJuYXRpb25hbCBXYXRlciBBc3NvY2lhdGlvbiAoSVdBKQ0KDQogICAgICAgICBHZW9yZ2lhIEFzc29jaWF0aW9uIG9mIFdhdGVyIFByb2Zlc3Npb25hbHMgKEdXQVApDQoNCg0KDQogIEIuIENhbXB1cyBDb250cmlidXRpb25zOg0KDQogICAgIEdlb3JnaWEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kNCg0KICAgICAgICAqIE1lbWJlciwgQ29sbGVnZSBvZiBFbmdpbmVlcmluZyBSZWFwcG9pbnRtZW50LCBUZW51cmUgYW5kIFByb21vdGlvbiAoUlBUKSBDb21taXR0ZWUNCg0KICAgICAgICAgICAgKDIwMDcgLSAyMDA5KQ0KDQogICAgICAgICogTWVtYmVyLCBHZW9yZ2lhIFRlY2gtU2luZ2Fwb3JlIEluc3RpdHV0ZSBJbml0aWF0aXZlIENFRSBDb21taXR0ZWUgKDIwMDYgLSAyMDA3KQ0KDQogICAgICAgICogTWVtYmVyLCBTaWdtYSBYaSBUaGVzaXMgQXdhcmQgQ29tbWl0dGVlICgyMDAyKQ0KDQoNCg0KICAgICAgU2Nob29sIG9mIENpdmlsIGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nDQoNCiAgICAgICAgICogTWVtYmVyLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIEZhY3VsdHkgU2VhcmNoIENvbW1pdHRlZSAoMjAxMSAtIFByZXNlbnQpDQoNCiAgICAgICAgICogTWVtYmVyLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIEN1cnJpY3VsdW0gQ29tbWl0dGVlICgyMDA3IC0gUHJlc2VudCkNCg0KICAgICAgICAgKiBNZW1iZXIsIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcgRmFjaWxpdHkgQ29tbWl0dGVlICgyMDA3IC0gcHJlc2VudCkNCg0KICAgICAgICAgKiBNZW1iZXIgb2YgVGhlc2lzIENvbW1pdHRlZXMgb2YgMzUgUGguRC4gYW5kIDggTS5TLiBzdHVkZW50cyAoU3ByaW5nIDIwMDAgLSBwcmVzZW50KQ0KDQogICAgICAgICAqIE1lbWJlciwgQ0VFIEF3YXJkcyBDb21taXR0ZWUgKDIwMDYgLSAyMDA4KQ0KDQogICAgICAgICAqIE1lbWJlciwgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZyBHcmFkdWF0ZSBBZG1pc3Npb24gQ29tbWl0dGVlICgyMDA1IC0gMjAwNykNCg0KICAgICAgICAgKiBNZW1iZXIsIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcgVW5kZXJncmFkdWF0ZSBMYWIgQ291cnNlIENvbW1pdHRlZSAoMjAwNikNCg0KICAgICAgICAgKiBNZW1iZXIsIFdpbGRlciBKdW5pb3IgQ2hhaXIgU2VhcmNoIENvbW1pdHRlZSAoMjAwNS0gMjAwNikNCg0KICAgICAgICAgKiBDaGFpciwgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZyBQaC5ELiBDb21wcmVoZW5zaXZlIEV4YW0gQ29tbWl0dGVlICgyMDA0LCAyMDA1KQ0KDQogICAgICAgICAqIENoYWlyLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIEdyYWR1YXRlIExhYiBDb3Vyc2UgQ29tbWl0dGVlICgyMDAzKQ0KDQogICAgICAgICAqIE1lbWJlciwgQ0VFIFVuZGVyZ3JhZHVhdGUgQ3VycmljdWx1bSBDb21taXR0ZWUgKDIwMDEtMjAwNCkNCg0KDQoNCg0KDQogIFZJSUkuIFRFQUNISU5HDQoNCiAgQS4gSW5kaXZpZHVhbCBTdHVkZW50IEd1aWRhbmNlDQoNCiAgICAgU3R1ZGVudHMsIFBvc3Rkb2NzIGFuZCBWaXNpdGluZyBTY2hvbGFycyBpbiBQcm9ncmVzcw0KDQogICAgIDEuIFBlaXpoZSBTdW4sIFBoLkQuIENhbmRpZGF0ZSAoQXVndXN0IDIwMDkgLSBwcmVzZW50KQ0KDQogICAgICAgIFJlc2VhcmNoOiBFbnZpcm9ubWVudGFsIGZhdGUgYW5kIHRyYW5zZm9ybWF0aW9uIG9mIHZldGVyaW5hcnkgYW50aWJpb3RpY3MNCg0KICAgICAgMi4gWXVuZy1MaSBXYW5nLCBQaC5ELiBTdHVkZW50IChKYW51YXJ5IDIwMTEtIHByZXNlbnQpDQoNCiAgICAgICAgIFJlc2VhcmNoOiBJbXBhY3Qgb2YgYWN0aXZhdGVkIGNhcmJvbnMgb24gbml0cm9zYW1pbmUgREJQcyBpbiB3YXRlcg0KDQogICAgICAzLiBXZW5sb25nIFpoYW5nLCBHcmFkdWF0ZSBTdHVkZW50IChKYW51YXJ5IDIwMTEtIHByZXNlbnQpDQoNCiAgICAgICAgIFJlc2VhcmNoOiBDYXRhbHl0aWMgb3pvbmF0aW9uIHByb2Nlc3Nlcw0KDQogICAgICA0LiBEci4gSG9uZyBZYW8sIFZpc2l0aW5nIFNjaG9sYXIgKEp1bmUgMjAxMCAtIHByZXNlbnQpDQoNCiAgICAgICAgIEFmZmlsaWF0aW9uOiBBc3NvY2lhdGUgUHJvZmVzc29yLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBCZWlqaW5nIEppYW90b25nIFVuaXZlcnNpdHksIENoaW5hDQoNCiAgICAgICAgIFJlc2VhcmNoOiBFbnZpcm9ubWVudGFsIG9jY3VycmVuY2UgYW5kIGZhdGUgb2YgUFBDUHMNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNi83LzIwMTENCg0KQ2hpbmctSHVhIEh1YW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhDQoNCg0KDQoNCg0KICAgICAgNS4gRHIuIFNodXRhbyBXYW5nLCBWaXNpdGluZyBTY2hvbGFyIChNYXJjaCAyMDExIC0gcHJlc2VudCkNCg0KICAgICAgICAgQWZmaWxpYXRpb246IExlY3R1cmVyLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBIYXJiaW4gSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIENoaW5hDQoNCiAgICAgIDYuIERyLiBMaW4gRGVuZywgVmlzaXRpbmcgU2Nob2xhciAoQXByaWwgMjAxMSAtIHByZXNlbnQpDQoNCiAgICAgICAgIEFmZmlsaWF0aW9uOiBMZWN0dXJlciwgRGVwdC4gb2YgTXVuaWNpcGFsIEVuZ2luZWVyaW5nLCBTb3V0aGVhc3QgVW5pdmVyc2l0eSwgQ2hpbmENCg0KICAgICAgNy4gS2FyZW4gU2F1bGVyLCBVbmRlcmdyYWR1YXRlIFN0dWRlbnQgKEF1Z3VzdCAyMDEwIC0gcHJlc2VudCkNCg0KICAgICAgICAgUmVzZWFyY2g6IE9jY3VycmVuY2UgYW5kIGNvbnRyb2wgb2Ygbml0cm9nZW5vdXMgREJQcyBpbiB3YXRlcg0KDQogICAgICA4LiBXaWxsaWFtIFcuIEJhZ2dldHQsIFVuZGVyZ3JhZHVhdGUgU3R1ZGVudCAoSmFudWFyeSAyMDExIC0gcHJlc2VudCkNCg0KICAgICAgICAgUmVzZWFyY2g6IE9jY3VycmVuY2UgYW5kIGNvbnRyb2wgb2Ygbml0cm9nZW5vdXMgREJQcyBpbiB3YXRlcg0KDQogICAgICA5LiBKb25hdGhhbiBDYWxsdXJhLCBVbmRlcmdyYWR1YXRlIFN0dWRlbnQgKEphbnVhcnkgMjAxMSAtIHByZXNlbnQpDQoNCiAgICAgICAgIFJlc2VhcmNoOiBEZXRlY3Rpb24gYW5kIGZhdGUgb2YgYW50aWJpb3RpY3MgaW4gd2F0ZXItbGl0dGVyLXNvaWwgc3lzdGVtcw0KDQogICAgICAxMC4gSmFzZGVlcCBTaW5naCwgVW5kZXJncmFkdWF0ZSBTdHVkZW50IChKdWx5IDIwMTEgLSBwcmVzZW50KQ0KDQogICAgICAgICAgUmVzZWFyY2g6IE9jY3VycmVuY2UgYW5kIGNvbnRyb2wgb2Ygbml0cm9nZW5vdXMgREJQcyBpbiB3YXRlcg0KDQoNCg0KICAgICAgU3R1ZGVudHMgb2YgQ29tcGxldGVkIFN0dWR5DQoNCiAgICAgIFBvc3Rkb2NzICYgVmlzaXRpbmcgU2Nob2xhcnMNCg0KICAgICAgMTEuIERyLiBMb2tlc2ggUGFkaHllLCBQb3N0ZG9jdG9yYWwgUmVzZWFyY2hlciAoTWF5IDIwMTAgLSBNYXJjaCAyMDExKQ0KDQogICAgICAgICAgUmVzZWFyY2g6IEZvcm1hdGlvbiBhbmQgZmF0ZSBvZiBuaXRyb3NhbWluZXMgYW5kIFBQQ1BzIGluIHdhdGVyL3dhc3Rld2F0ZXIgdHJlYXRtZW50IHN5c3RlbXMNCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IFNlbmlvciBFbmdpbmVlciwgR2Vvc3ludGVjIENvbnN1bHRhbnRzLCBBdGxhbnRhLCBHQQ0KDQogICAgICAxMi4gRGVscGhpbmUgQmFybWF6LCBWaXNpdGluZyBNLlMuIFN0dWRlbnQgKEF1Z3VzdCAyMDA5IC0gRmVicnVhcnkgMjAxMCkNCg0KICAgICAgICAgIEhvbWUgSW5zdGl0dXRpb246IMOJY29sZSBQb2x5dGVjaG5pcXVlIEbDqWTDqXJhbGUgRGUgTGF1c2FubmUgKEVQRkwpLCBTd2l0emVybGFuZA0KDQogICAgICAgICAgTS5TLiB0aGVzaXMgcmVzZWFyY2g6IE1ldGhvZCBEZXZlbG9wbWVudCBmb3IgRGV0ZWN0aW9uIG9mIEFudGliaW90aWNzIGluIFBvdWx0cnkgTGl0dGVyIGFuZA0KDQogICAgICAgICAgTGl0dGVyIEltcGFjdGVkIFNvaWwgYW5kIFJ1bm9mZg0KDQogICAgICAxMy4gUGVpIFdhbmcsIFZpc2l0aW5nIFBoLkQuIFN0dWRlbnQgKFNlcHRlbWJlciAyMDA3IC0gU2VwdGVtYmVyIDIwMDkpDQoNCiAgICAgICAgICBIb21lIEluc3RpdHV0aW9uOiBTaGFuZ2hhaSBKaWFvdG9uZyBVbml2ZXJzaXR5LCBTaGFuZ2hhaSwgQ2hpbmENCg0KICAgICAgICAgIERvY3RvcmFsIHRoZXNpcyByZXNlYXJjaDogRWZmZWN0IG9mIGNobG9yaW5lIGRpb3hpZGUgb24gdGhlIGZvcm1hdGlvbiBhbmQgdHJhbnNmb3JtYXRpb24gb2YNCg0KICAgICAgICAgIG1pY3JvcG9sbHV0YW50cyBvZiBuaXRyb3NhbWluZXMgYW5kIGFudGliaW90aWNzDQoNCiAgICAgIDE0LiBEci4gWW9uZ3BlbmcgWHUsIFZpc2l0aW5nIFNjaG9sYXIgKE5vdmVtYmVyIDIwMDggLSBOb3ZlbWJlciAyMDA5KQ0KDQogICAgICAgICAgQWZmaWxpYXRpb246IEFzc29jaWF0ZSBQcm9mZXNzb3IsIEhhcmJpbiBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neQ0KDQogICAgICAgICAgUmVzZWFyY2g6IEltcGFjdCBvZiBwZXJtYW5nYW5hdGUgb24gdGhlIGZhdGUgYW5kIHRyYW5zZm9ybWF0aW9uIG9mIGVtZXJnaW5nIGNvbnRhbWluYW50cw0KDQogICAgICAxNS4gRHIuIEh1YSBGYW5nLCBWaXNpdGluZyBTY2hvbGFyIChGZWJydWFyeSAyMDA5IC0gQXVndXN0IDIwMDkpDQoNCiAgICAgICAgICBBZmZpbGlhdGlvbjogQXNzb2NpYXRlIFByb2Zlc3NvciwgTmFuamluZyBVbml2ZXJzaXR5IG9mIEluZm9ybWF0aW9uIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kNCg0KICAgICAgICAgIFJlc2VhcmNoOiBDb250cm9sIG9mIG5pdHJvc2FtaW5lIGRpc2luZmVjdGlvbiBieS1wcm9kdWN0cw0KDQogICAgICAxNi4gRHIuIEJvIFpoYW5nLCBQb3N0ZG9jdG9yYWwgUmVzZWFyY2hlciAoQXVndXN0IDIwMDcgLSBNYXJjaCAyMDA5KQ0KDQogICAgICAgICAgUmVzZWFyY2g6IFBob3RvY2hlbWljYWwgcmVhY3Rpdml0eSBvZiBhcXVlb3VzIEM2MCAoY28tYWR2aXNpbmcgd2l0aCBKb3NlcGggSHVnaGVzIGFuZCBKYWUtDQoNCiAgICAgICAgICBIb25nIEtpbSkNCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IEFzc2lzdGFudCBQcm9mZXNzb3IsIFNoYW5naGFpIEppYW90b25nIFVuaXZlcnNpdHksIFNoYW5naGFpLCBDaGluYQ0KDQoNCg0KICAgICAgUGguRC4gU3R1ZGVudHMNCg0KICAgICAgMTcuIExva2VzaCBQYWRoeWUgKFBoLkQuIEF1Z3VzdCAyMDA0IC0gTWF5IDIwMTApDQoNCiAgICAgICAgICBQaC5ELiBEaXNzZXJ0YXRpb246ICJSb2xlcyBvZiBQb2x5REFETUFDcywgRGl0aGlvY2FyYmFtYXRlcyBhbmQgQWN0aXZhdGVkIENhcmJvbnMgaW4NCg0KICAgICAgICAgIEZvcm1hdGlvbiBvZiBOLW5pdHJvc2FtaW5lIENvbnRhbWluYW50cyBpbiBXYXRlciINCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IFNlbmlvciBFbmdpbmVlciwgR2Vvc3ludGVjIENvbnN1bHRhbnRzLCBBdGxhbnRhLCBHQQ0KDQogICAgICAxOC4gQW1pc2hhIEQuIFNoYWgsIFBoLkQuIChBdWd1c3QgMjAwMiAtIEp1bHkgMjAwOCkNCg0KDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE1ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNi83LzIwMTENCg0KQ2hpbmctSHVhIEh1YW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICAgICAgICAgUGguRC4gRGlzc2VydGF0aW9uOiAiQW50aWJpb3RpY3MgaW4gV2F0ZXIgVHJlYXRtZW50OiBUaGUgUm9sZSBvZiBXYXRlciBRdWFsaXR5IENvbmRpdGlvbnMgb24NCg0KICAgICAgICAgIHRoZWlyIEZhdGUgYW5kIFJlbW92YWwgZHVyaW5nIENobG9yaW5hdGlvbiBhbmQgTmFub2ZpbHRyYXRpb24iIChjby1hZHZpc2VkIHdpdGggRHIuIEphZWhvbmcNCg0KICAgICAgICAgIEtpbSkNCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IFBvc3Rkb2N0b3JhbCBSZXNlYXJjaGVyLCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIFByb2dyYW0sIFlhbGUgVW5pdmVyc2l0eSwNCg0KICAgICAgICAgIE5ldyBIYXZlbiwgQ1QNCg0KICAgICAgMTkuIFdhbi1SdSBDaGVuLCBQaC5ELiAoQXVndXN0IDIwMDMgLSBNYXkgMjAwOCkNCg0KICAgICAgICAgIFBoLkQuIERpc3NlcnRhdGlvbjogIkludGVyYWN0aW9ucyBvZiBUZXRyYWN5Y2xpbmUgQW50aWJpb3RpY3Mgd2l0aCBEaXNzb2x2ZWQgTWV0YWwgSW9ucyBhbmQgTWV0YWwNCg0KICAgICAgICAgIE94aWRlcyINCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IFBvc3Rkb2N0b3JhbCBSZXNlYXJjaGVyLCBQbGFudCBhbmQgU29pbCBTY2llbmNlcywgTWljaGlnYW4gU3RhdGUgVW5pdmVyc2l0eSwNCg0KICAgICAgICAgIEVhc3QgTGFuc2luZywgTUkNCg0KICAgICAgMjAuIFNhbmcgSHl1Y2sgUGFyayAoQXVndXN0IDIwMDMgLSBKYW51YXJ5IDIwMDgpDQoNCiAgICAgICAgICBQaC5ELiBEaXNzZXJ0YXRpb246ICJFZmZlY3Qgb2YgQW1pbmUtYmFzZWQgV2F0ZXIgVHJlYXRtZW50IFBvbHltZXJzIG9uIHRoZSBGb3JtYXRpb24gb2YgTi0NCg0KICAgICAgICAgIE5pdHJvc29kaW1ldGh5bGFtaW5lIChORE1BKSBEaXNpbmZlY3Rpb24gQnktUHJvZHVjdCINCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IEFzc2lzdGFudCBQcm9mZXNzb3Igb2YgQ2hlbWlzdHJ5LCBTY2hvb2wgb2YgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIEdlb3JnaWENCg0KICAgICAgICAgIEd3aW5uZXR0IENvbGxlZ2UsIExhd3JlbmNldmlsbGUsIEdBDQoNCiAgICAgIDIxLiBIdWljaHVuIFpoYW5nIChKdWx5IDIwMDAgLSBBdWd1c3QgMjAwNCkNCg0KICAgICAgICAgIFBoLkQuIERpc3NlcnRhdGlvbjogIk1ldGFsIE94aWRlLUZhY2lsaXRhdGVkIE94aWRhdGlvbiBvZiBBbnRpYmFjdGVyaWFsIEFnZW50cyINCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IEFzc2lzdGFudCBQcm9mZXNzb3IsIERlcHQuIG9mIENpdmlsICYgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgVGVtcGxlDQoNCiAgICAgICAgICBVbml2ZXJzaXR5LCBQaGlsYWRlbHBoaWEsIFBBDQoNCg0KDQogICAgICBNLlMuIFN0dWRlbnRzIHdpdGggVGhlc2lzIG9yIFNSUA0KDQogICAgICAyMi4gU2FyYSBOaWNob2xzIEdpYnNvbiAoQXVndXN0IDIwMDggLSBNYXkgMjAxMCkNCg0KICAgICAgICAgIE0uUy4gVGhlc2lzOiAiT3hpZGF0aW9uIG9mIFBoYXJtYWNldXRpY2FscyBhbmQgUGVyc29uYWwgQ2FyZSBQcm9kdWN0cyBieSBQZXJtYW5nYW5hdGUiDQoNCiAgICAgICAgICBDdXJyZW50IFBvc2l0aW9uOiBQcm9qZWN0IEVuZ2luZWVyLCBNYWxjb2xtIFBpcm5pZSwgRGFsbGFzLCBUWA0KDQogICAgICAyMy4gUHVuaXRhIEFuYW5kIChKYW51YXJ5IDIwMDggLSBNYXkgMjAwOSkNCg0KICAgICAgICAgIFNwZWNpYWwgUmVzZWFyY2ggUHJvamVjdDogIkRpc2luZmVjdGlvbiBCeS1Qcm9kdWN0IEZvcm1hdGlvbiBmcm9tIERpdGhpb2NhcmJhbWF0ZSBQZXN0aWNpZGVzIg0KDQogICAgICAgICAgQ3VycmVudCBQb3NpdGlvbjogUHJvamVjdCBFbmdpbmVlciwgUjJULCBBdGxhbnRhLCBHQQ0KDQogICAgICAyNC4gQW5oIFRpZW4gRG8gKEF1Z3VzdCAyMDA0IC0gQXVndXN0IDIwMDYpDQoNCiAgICAgICAgICBTcGVjaWFsIFJlc2VhcmNoIFByb2plY3Q6ICJBZHNvcnB0aW9uIG9mIEVzdHJvZ2VuaWMgSG9ybW9uZSAxN86y4oiSRXN0cmFkaW9sIG9uIE5hbm9maWx0cmF0aW9uDQoNCiAgICAgICAgICBhbmQgVWx0cmFmaWx0cmF0aW9uIE1lbWJyYW5lcyIgKENvLWFkdmlzaW5nIHdpdGggSmFlLUhvbmcgS2ltKQ0KDQogICAgICAyNS4gU2V1bmcgSmluIExlZSAoQXVndXN0IDIwMDMgLSBNYXkgMjAwNikNCg0KICAgICAgICAgIE0uUy4gVGhlc2lzOiAiSHlkcm9seXNpcyBvZiBPcmdhbm9waG9zcGhvcm91cyBFc3RlcnMgSW5kdWNlZCBieSBOYW5vc3RydWN0dXJlZCBUaXRhbmlhLQ0KDQogICAgICAgICAgQmFzZWQgUmVwbGljYXMgb2YgRGlhdG9tIE1pY3Jvc2hlbGxzIg0KDQogICAgICAgICAgQ3VycmVudCBQb3NpdGlvbjogRW52aXJvbm1lbnRhbCBlbmdpbmVlciwgR2VvcmdpYSBFbnZpcm9ubWVudGFsIFByb3RlY3Rpb24gRGl2aXNpb24gKEVQRCksDQoNCiAgICAgICAgICBBdGxhbnRhLCBHQTsgRG9jdG9yYWwgc3R1ZGVudCwgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgR2VvcmdpYSBUZWNoDQoNCiAgICAgIDI2LiBQaXRpIFBpeWFjaGF0dXJhd2F0IChBdWd1c3QgMjAwMyAtIEF1Z3VzdCAyMDA1KQ0KDQogICAgICAgICAgTS5TLiBUaGVzaXM6ICJQb3RlbnRpYWwgTi1OaXRyb3NvZGltZXRoeWxhbWluZSAoTkRNQSkgRm9ybWF0aW9uIGZyb20gV2F0ZXIgVHJlYXRtZW50DQoNCiAgICAgICAgICBQb2x5bWVycyINCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IEVudmlyb25tZW50YWwgZW5naW5lZXIsIEVudmlyb24sIE5vdmF0bywgQ0ENCg0KICAgICAgMjcuIEVkd2FyZCBBLiBNY0NhbGx1bSAoQXVndXN0IDIwMDIgLSBBdWd1c3QgMjAwNSkNCg0KICAgICAgICAgIE0uUy4gVGhlc2lzOiAiQWRzb3JwdGlvbiwgRGVzb3JwdGlvbiwgYW5kIFN0ZWFkeS1TdGF0ZSBSZW1vdmFsIG9mIEVzdHJvZ2VuaWMgSG9ybW9uZQ0KDQogICAgICAgICAgMTfOsuKIkkVzdHJhZGlvbCBieSBOYW5vZmlsdHJhdGlvbiBhbmQgVWx0cmFmaWx0cmF0aW9uIE1lbWJyYW5lcyIgKENvLWFkdmlzaW5nIHdpdGggSmFlLUhvbmcNCg0KICAgICAgICAgIEtpbSkNCg0KICAgICAgICAgIEN1cnJlbnQgUG9zaXRpb246IFNlbmlvciBQcm9qZWN0IEVuZ2luZWVyLCBIYXplbiBhbmQgU2F3eWVyLCBBdGxhbnRhLCBHQQ0KDQogICAgICAyOC4gTWljaGFlbCBDLiBEb2RkIChBdWd1c3QgMjAwMSAtIE1heSAyMDAzKQ0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE2ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2LzcvMjAxMQ0KDQpDaGluZy1IdWEgSHVhbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YQ0KDQoNCg0KDQoNCiAgICAgICAgICBNLlMuIFRoZXNpczogIkNoZW1pY2FsIE94aWRhdGlvbiBvZiBBcXVhdGljIEFudGliaW90aWMgTWljcm9jb250YW1pbmFudHMgYnkgRnJlZSBhbmQNCg0KICAgICAgICAgIENvbWJpbmVkIENobG9yaW5lIg0KDQogICAgICAgICAgQ3VycmVudCBQb3NpdGlvbjogQXNzaXN0YW50IFByb2Zlc3NvciwgRGVwdC4gb2YgQ2l2aWwgJiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCBVbml2ZXJzaXR5IG9mDQoNCiAgICAgICAgICBXYXNoaW5ndG9uLCBTZWF0dGxlLCBXQQ0KDQogICAgICAyOS4gSmF5IFJlbmV3IChBdWd1c3QgMjAwMCAtIE1heSAyMDAzKQ0KDQogICAgICAgICAgTS5TLiBUaGVzaXM6ICJOb3ZlbCBBbmFseXRpY2FsIE1ldGhvZCBEZXZlbG9wbWVudCBhbmQgRmF0ZSBBc3Nlc3NtZW50IGZvciBGbHVvcm9xdWlub2xvbmUsDQoNCiAgICAgICAgICBTdWxmb25hbWlkZSBhbmQgVHJpbWV0aG9wcmltIEFudGliaW90aWNzIGluIEVuZ2luZWVyZWQgV2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMiKDIwMDMpDQoNCiAgICAgICAgICBDdXJyZW50IFBvc2l0aW9uOiBQcmluY2lwbGUgUHJvamVjdCBFbmdpbmVlciwgUGF1bCBCLiBLcmVicyAmIEFzc29jaWF0ZXMsIEF0bGFudGEsIEdBDQoNCiAgICAgIDMwLiBLcmlzdGVuIEwuIFNtZWJ5IChBdWd1c3QgMjAwMCAtIE1heSAyMDAyKQ0KDQogICAgICAgICAgTS5TLiBUaGVzaXM6ICJPY2N1cnJlbmNlIGFuZCBGYXRlIG9mIEZsdW9yb3F1aW5vbG9uZSBBbnRpYmFjdGVyaWFsIEFnZW50cyBpbiBXYXN0ZXdhdGVyDQoNCiAgICAgICAgICBUcmVhdG1lbnQiDQoNCiAgICAgICAgICBDdXJyZW50IFBvc2l0aW9uOiBQcmluY2lwbGUgUHJvamVjdCBFbmdpbmVlciwgSGF6ZW4gYW5kIFNhd3llciwgQXRsYW50YSwgR0ENCg0KDQoNCiAgICAgIE0uUy4gUmVzZWFyY2ggU3R1ZGVudHMNCg0KICAgICAgMzEuIFl1LVdlbiBIdWFuZyAoQXVndXN0IDIwMDYgLSBNYXkgMjAwNykgLSBSZWFjdGl2aXR5IG9mIG5hbm9wYXJ0aWNsZXMgYW5kIHBlcnN1bGZhdGUtYmFzZWQNCg0KICAgICAgICAgIG94aWRhdGlvbiBwcm9jZXNzZXMNCg0KICAgICAgMzIuIEtpbmphbCBTaGFoIChKYW51YXJ5IC0gTWF5IDIwMDYpIC0gTWVjaGFuaXNtcyBhbmQgZW52aXJvbm1lbnRhbCBhcHBsaWNhdGlvbnMgb2YgcGVyc3VsZmF0ZS0NCg0KICAgICAgICAgIGJhc2VkIG94aWRhdGlvbg0KDQogICAgICAzMy4gSm9obiBBdHdvb2QgKEF1Z3VzdCAyMDA0IC0gSmFudWFyeSAyMDA1KSAtIFBvdGVudGlhbCBORE1BIGZvcm1hdGlvbiB2aWEgb3hpZGF0aW9uIG9mIGFtaW5lLQ0KDQogICAgICAgICAgYmFzZWQgcG9seW1lcnMgYnkgQ2xPMg0KDQoNCg0KICAgICAgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBTdHVkZW50cw0KDQogICAgICAzNC4gR2xlbm4gU2thd3NraSAoSmFudWFyeSAtIE1heSAyMDEwKSAtIEVudmlyb25tZW50YWwgZmF0ZSBvZiBwaGFybWFjZXV0aWNhbHMgYW5kIHBlcnNvbmFsIGNhcmUNCg0KICAgICAgICAgIHByb2R1Y3RzIChQUENQcykNCg0KICAgICAgMzUuIE1pY2hhZWwgTWVjcmVkeSAoQXVndXN0IDIwMDggLSBNYXkgMjAwOSkgLSBQaG90b2RlZ3JhZGF0aW9uIG9mIHRldHJhY3ljbGluZSBzdWxmb25hbWlkZQ0KDQogICAgICAgICAgYW50aWJpb3RpY3MgZHVyaW5nIHdhdGVyIHRyZWF0bWVudA0KDQogICAgICAzNi4gU2FyYSBOaWNob2xzIChKYW51YXJ5IDIwMDggLSBNYXkgMjAwOCkgLSBFbnZpcm9ubWVudGFsIGZhdGUgb2YgY2hyb21pdW0gaW4gdGFubmVyeSBzbHVkZ2UgaW4NCg0KICAgICAgICAgIFVsYWFuYmFhdGFyLCBNb25nb2xpYQ0KDQogICAgICAzNy4gTWF0dGhldyBUaG9tcHNvbiAoTWF5IC0gQXVndXN0IDIwMDYpIC0gQ2F0YWx5dGljIGhhbG9nZW5hdGlvbiBpbmR1Y2VkIGJ5IHRlcnRpYXJ5IGFtaW5lcw0KDQogICAgICAgICAgYW5kIGVmZmVjdCBvZiBtZXRhbHMNCg0KICAgICAgMzguIEtpbiBNYW4gQ2h1bmcgKGV4Y2hhbmdlIHN0dWRlbnQgZnJvbSBIb25nIEtvbmcgVW5pdmVyc2l0eSBvZiBTY2llbmNlIGFuZCBUZWNobm9sb2d5Ow0KDQogICAgICAgICAgT2N0b2JlciAyMDAzIC0gQXVndXN0IDIwMDQpIC0gQWRzb3JwdGl2ZSBhbmQgb3hpZGF0aXZlIGludGVyYWN0aW9ucyBvZiBhbnRpYmFjdGVyaWFsIGFnZW50cyB3aXRoDQoNCiAgICAgICAgICBtZXRhbCBveGlkZXMgYW5kIG94aWRlLXJpY2ggc29pbHMNCg0KICAgICAgMzkuIEFuZHJldyBUYXJ0YWdsaWEgKE1heSAtIERlY2VtYmVyIDIwMDIpIC0gKGkpIFJlbW92YWwgb2YgZmx1b3JvcXVpbm9sb25lIGFudGliYWN0ZXJpYWwgYWdlbnRzDQoNCiAgICAgICAgICBieSBncmFudWxhciBhY3RpdmF0ZWQgY2FyYm9uOyAoaWkpIE94aWRhdGl2ZSByZWFjdGlvbiBvZiBjYXJiYWRveCB3aXRoIG1hbmdhbmVzZSBveGlkZXMNCg0KICAgICAgNDAuIE1pY2hhZWwgQy4gRG9kZCAoTWF5IDIwMDEtIEF1Z3VzdCAyMDAxKSAtIFJlbW92YWwgb2YgY2lwcm9mbG94YWNpbiBieQ0KDQogICAgICAgICAgY29hZ3VsYXRpb24vZmxvY2N1bGF0aW9uIGFuZCBncmFudWxhciBhY3RpdmF0ZWQgY2FyYm9uDQoNCg0KDQogICAgICBIaWdoIFNjaG9vbCBSZXNlYXJjaCBTdHVkZW50cyAoR1RFRVJJUCBQcm9ncmFtKQ0KDQogICAgICA0MS4gSmluc29vIExpbSAoSnVseSAyMDEwKSAtIENhdGFseXRpYyByb2xlIG9mIGFjdGl2YXRlZCBjYXJib25zIGluIHRyYW5zZm9ybWF0aW9uIG9mIHNlY29uZGFyeQ0KDQogICAgICAgICAgYW1pbmVzIHRvIE4tbml0cm9zYW1pbmVzDQoNCiAgICAgIDQyLiBKdW4gWW91bmcgTWFlbmcgKEp1bHkgMjAxMCkgLSBDYXRhbHl0aWMgcm9sZSBvZiBhY3RpdmF0ZWQgY2FyYm9ucyBpbiB0cmFuc2Zvcm1hdGlvbiBvZg0KDQogICAgICAgICAgc2Vjb25kYXJ5IGFtaW5lcyB0byBOLW5pdHJvc2FtaW5lcw0KDQogICAgICA0My4gSm9vIEhlZSBMZWUgKEp1bHkgMjAxMCkgLSBDYXRhbHl0aWMgcm9sZSBvZiBhY3RpdmF0ZWQgY2FyYm9ucyBpbiB0cmFuc2Zvcm1hdGlvbiBvZiBzZWNvbmRhcnkNCg0KICAgICAgICAgIGFtaW5lcyB0byBOLW5pdHJvc2FtaW5lcw0KDQogICAgICA0NC4gV29vIEpvbyBQYXJrIChKdW5lIC0gSnVseSAyMDA5KSAtIEVuaGFuY2VkIE5ETUEgZm9ybWF0aW9uIGJ5IGFjdGl2YXRlZCBjYXJib25zDQoNCiAgICAgIDQ1LiBIeXVrIEppbiBZb29uIChKdW5lIC0gSnVseSAyMDA5KSAtIEVuaGFuY2VkIE5ETUEgZm9ybWF0aW9uIGJ5IGFjdGl2YXRlZCBjYXJib25zDQoNCiAgICAgIDQ2LiBZZXVuIENodWwgQ2h1bmcgKEp1bmUgLSBKdWx5IDIwMDgpIC0gTkRNQSBmb3JtYXRpb24gcG90ZW50aWFsIG9mIGRpdGhpb2NhcmJhbWF0ZXMNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNi83LzIwMTENCg0KQ2hpbmctSHVhIEh1YW5nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXJyaWN1bHVtIFZpdGENCg0KDQoNCg0KDQogICAgICA0Ny4gVGVhIFNldW5nIEtpbSAoSnVuZSAtIEp1bHkgMjAwOCkgLSBORE1BIGZvcm1hdGlvbiBwb3RlbnRpYWwgb2YgZGl0aGlvY2FyYmFtYXRlcw0KDQogICAgICA0OC4gS2VlYnVobSBQYXJrIChKdWx5IC0gQXVndXN0IDIwMDcpIC0gQWRzb3JwdGlvbiBvZiBvcmdhbm9hcnNlbmljcyBvbnRvIG1ldGFsIG94aWRlIHN1cmZhY2VzDQoNCiAgICAgIDQ5LiBEb28gSHl1biBDaHVuZyAoSnVseSAtIEF1Z3VzdCAyMDA2KSAtIEFkc29ycHRpdmUgaW50ZXJhY3Rpb25zIG9mIG9yZ2Fub2Fyc2VuaWNzIHdpdGggaXJvbg0KDQogICAgICAgICAgb3hpZGUNCg0KDQoNCiAgQi4gQ291cnNlcyBUYXVnaHQNCg0KICAgICBTaW5jZSBoZXIgYXBwb2ludG1lbnQgYXQgR2VvcmdpYSBUZWNoLCBQcm9mLiBIdWFuZyBoYXMgcmVndWxhcmx5IHRhdWdodCB0aHJlZSBncmFkdWF0ZSBjb3Vyc2VzDQoNCiAgICAgKENFRSA2MzEyLCA2MzUwLCA2MzE5KSwgdHdvIHVuZGVyZ3JhZHVhdGUgY291cnNlcyAoQ0VFIDQzMDAsIDMzNDApLCBhbmQgb25lIGdyYWR1YXRlIHNlbWluYXINCg0KICAgICBjb3Vyc2UgKDgwOTVDKS4gU2hlIGhhcyBkZXZlbG9wZWQgZW50aXJlbHkgbmV3IG1hdGVyaWFscyBmb3IgQ0VFIDQzMDAsIDYzMTIsIGFuZCA2MzUwLiBTaGUgaGFzDQoNCiAgICAgYWxzbyBkZXZlbG9wZWQgbmV3IGxhYm9yYXRvcnkgbW9kdWxlcyBmb3IgQ0VFIDMzNDAgYW5kIDYzMTkuDQoNCiAgICAgICogICBDRUUgMzM0MCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIFVuZGVyZ3JhZHVhdGUgTGFiDQoNCiAgICAgICogICBDRUUgNDMwMCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIFN5c3RlbXMNCg0KICAgICAgKiAgIENFRSA2MzEyIENoZW1pY2FsIFByaW5jaXBsZXMgaW4gRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZw0KDQogICAgICAqICAgQ0VFIDYzNTAgQWR2YW5jZWQgRW52aXJvbm1lbnRhbCBDaGVtaXN0cnkNCg0KICAgICAgKiAgIENFRSA2MzE5IEVudmlyb25tZW50YWwgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcgR3JhZHVhdGUgTGFiDQoNCiAgICAgICogICBDRUUgODA5NUMgRW52aXJvbm1lbnRhbCBSZXNlYXJjaCBTZW1pbmFyOiBXYXRlcg0KDQoNCg0KDQoNCiAgQy4gT3RoZXIgVGVhY2hpbmcgQWN0aXZpdGllcyBhbmQgSGlnaGxpZ2h0cw0KDQogICAgIE91dHJlYWNoIEFjdGl2aXRpZXMNCg0KICAgICBJbiB0aGUgMjAxMCBGYWxsIHNlbWVzdGVyLCBEci4gSHVhbmcgbGVkIHRoZSBzdHVkZW50cyBpbiBoZXIgY291cnNlIChDRUUgMzM0MCBFbnZpcm9ubWVudGFsDQoNCiAgICAgRW5naW5lZXJpbmcgVW5kZXJncmFkdWF0ZSBMYWIpIHRvIGNvbmR1Y3QgYSB3YXRlciBxdWFsaXR5IHN1cnZleSBwcm9qZWN0IGZvciB0aGUgUGllZG1vbnQgUGFyaw0KDQogICAgIENvbnNlcnZhbmN5IChQUEMpIGluIEF0bGFudGEuIEluIHRoaXMgcHJvamVjdCwgRHIuIEh1YW5nIGNvbWJpbmVkIGNsYXNzcm9vbSBsZWN0dXJlcyBhbmQgbGFiDQoNCiAgICAgYWN0aXZpdGllcyBhbmQgZGVzaWduZWQgYSBwcm9qZWN0IHRvIG1lZXQgUFBDJ3MgbmVlZCB0byBldmFsdWF0ZSB0aGVpciB3YXRlciBxdWFsaXR5IGluIHRoZSBuZXdseQ0KDQogICAgIGV4cGFuZGVkIGFyZWFzLiBTdHVkZW50cyB3ZXJlIGFibGUgdG8gYXBwbHkgbGVhcm5lZCB0aGVvcmllcyBhbmQgdGVjaG5pcXVlcyBhbmQgcHJvdmlkZSB2YWx1YWJsZQ0KDQogICAgIHRlY2huaWNhbCBzZXJ2aWNlIHRvIHRoZSBsb2NhbCBjb21tdW5pdHkuDQoNCg0KDQogICAgICBXZWItQmFzZWQgVGVhY2hpbmcgVG9vbHMNCg0KICAgICAgUHJvZi4gSHVhbmcgaGFzIGNyZWF0ZWQgaW5kaXZpZHVhbCB3ZWJzaXRlcyBmb3IgZWFjaCBvZiBoZXIgY291cnNlcyB0byBzZXJ2ZSBtdWx0aXBsZSBmdW5jdGlvbnMNCg0KICAgICAgaW5jbHVkaW5nIGRlcG9zaXRvcnkgb2YgbGVjdHVyZSBoYW5kb3V0cywgc3VwcGxlbWVudGFyeSByZWFkaW5nIG1hdGVyaWFscywgZXhhbS9ob21ld29yaw0KDQogICAgICBzb2x1dGlvbnMsIHN0dWRlbnQgcHJvamVjdHMsIGV0Yy4gVGhlIHdlYnNpdGVzIGhhdmUgYmVlbiB1c2VkIGFzIGEgdml0YWwgaW50ZXJhY3RpdmUgbGVhcm5pbmcgdG9vbCwNCg0KICAgICAgcGFydGljdWxhcmx5IGZvciBzaGFyaW5nIGFuZCBleGNoYW5nZSBvZiBpbmZvcm1hdGlvbiBhbW9uZyBzdHVkZW50cyBhdCBkaWZmZXJlbnQgR2VvcmdpYSBUZWNoDQoNCiAgICAgIGNhbXB1c2VzIGFuZCBvdGhlciBkaXN0YW5jZS1sZWFybmluZyBsb2NhdGlvbnMuDQoNCg0KDQogICAgICBEaXN0YW5jZS1MZWFybmluZy9Db250aW51aW5nIEVkdWNhdGlvbg0KDQogICAgICBTaW5jZSAyMDAwLCBQcm9mLiBIdWFuZyBoYXMgYWxzbyBvZmZlcmVkIGhlciBjb3Vyc2VzIG9mIENoZW1pY2FsIFByaW5jaXBsZXMgaW4gRW52aXJvbm1lbnRhbA0KDQogICAgICBFbmdpbmVlcmluZyAoQ0VFIDYzMTIpLCBBZHZhbmNlZCBFbnZpcm9ubWVudGFsIENoZW1pc3RyeSAoQ0VFIDYzNTApLCBhbmQgRW52aXJvbm1lbnRhbA0KDQogICAgICBFbmdpbmVlcmluZyBTeXN0ZW1zIChDRUUgNDMwMCkgYXMgdmlkZW8tYmFzZWQgY291cnNlcyBmb3IgY29udGludWluZyBlZHVjYXRpb24gc3R1ZGVudHMgb3IgZm9yDQoNCiAgICAgIHN0dWRlbnRzIGxvY2F0ZWQgYXQgYSBkaWZmZXJlbnQgY2FtcHVzLiBUaGUgZGlzdGFuY2UtbGVhcm5pbmcgY291cnNlcyB3ZXJlIG9mZmVyZWQgc2ltdWx0YW5lb3VzbHkNCg0KICAgICAgd2l0aCBvbi1jYW1wdXMgc2Vzc2lvbnMgd2l0aCB0aGUgYXNzaXN0YW5jZSBmcm9tIEdlb3JnaWEgVGVjaCdzIENlbnRlciBvZiBEaXN0YW5jZSBMZWFybmluZyAoREwpDQoNCiAgICAgIFByb2dyYW0uIFByb2YuIEh1YW5nIGhhcyB0YXVnaHQgbW9yZSB0aGFuIDYwIERMIHN0dWRlbnRzIG92ZXIgdGhlIHllYXJzIGFuZCBpcyBleHBlcmllbmNlZCBpbiB0aGlzDQoNCiAgICAgIHRlYWNoaW5nIGZvcm1hdC4NCg0KDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxOCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDYvNy8yMDEx</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915331306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

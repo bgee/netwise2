@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:40 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911606206521"  usageLimitType="allocation" usageLimit="200" currentUsage="29" remainingUsage="171" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>C.M. Lee</FormattedName>
+<GivenName>C.M.</GivenName>
+<FamilyName>Lee</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Lee</Municipality>
+<DeliveryAddress>
+<AddressLine>624 -632. Uston. P. L. J.F. Jr Urban M. Ashraf C.M.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (100) 603-611</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>100</AreaCityCode>
+<SubscriberNumber>603-611</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Oregon University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1962-01-01</AnyDate>
+</DegreeDate>
+<Comments>Chair, Department of Biology</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Antitrypanosomal activities and cytotoxicity of some novel imido- substituted 1,4-naphthoquinone derivatives</Title>
+<Name role="author">
+<FormattedName>Khraiwesh, H. M. Lee, C.M. Brandy, Y. Akinboye E. S. Berhe, S. Gittens, G. Abbas, M M. Ampy, F. R. Ashraf, M. Bakare, O</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Ethnic identity and diabetes type-2 health attitudes in Americans of African ancestry</Title>
+<Name role="author">
+<FormattedName>Brezo, J., C. Royal, F.R. Ampy and V. Headings</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ethnicity and Disease 16</JournalOrSerialName>
+<PageNumber>-632.</PageNumber>
+</Article>
+<Article>
+<Title>L3L3ESantigen and secretagogues induce histamine release from porcine peripheral blood basophils after Ascaris suum infection</Title>
+<Name role="author">
+<FormattedName>Uston. P. L. J.F. Jr, Urban, M. Ashraf, C.M. Lee and F, R, Ampy</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Parasitol</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Attitudes of Muslims Regarding the New Genetics: Testing</Title>
+<Name role="author">
+<FormattedName>Noureddine Berka, Timikia Vaughn, Verle Headings, Barbara Harrison, Robert F. Murray, Jr., Franklin R. Ampy, Imam Johari Abdul-Malik</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Treatment and Technology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Resilience in siblings of children with Sickle Cell disease</Title>
+<Name role="author">
+<FormattedName>Royal, C.D., V.E.. Headings, E.T. Molnar and F.R. Ampy</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1995</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Gen</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Regulatory effects of 17b -estradiol on metabolism of dimethylnitrosamine by renal and hepatic microsomal enzymes from BALB/c mice</Title>
+<Name role="author">
+<FormattedName>Ampy, F.R. and A. Asseffa</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1988</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Cytobios 55</JournalOrSerialName>
+<PageNumber>87-</PageNumber>
+</Article>
+<Article>
+<Title>Benzo (a) pyrene mutagenicity in uninduced tissues from BALB/c mice and Sprague-Dawley rats as an index of possible health risks using the Salmonella mutagenicity assay</Title>
+<Name role="author">
+<FormattedName>Ampy, F.R., S. Saxena and K. Verma</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1988</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Cytobios 56</JournalOrSerialName>
+<PageNumber>81-</PageNumber>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RlJBTktMSU4gQU1QWS0gICANCg0KICANCg0KDQoNCkVkdWNhdGlvbg0KDQpCLlMuLA0KDQpQaC5ELiwgT3JlZ29uIFVuaXZlcnNpdHkgKDE5NjIpDQoNCkNoYWlyLCBEZXBhcnRtZW50IG9mIEJpb2xvZ3kNCg0KDQoNClRlYWNoaW5nDQoNCkJpb3N0YXRpc3RpY3MNCg0KU2VuaW9yIFNlbWluYXINCg0KDQoNClJlc2VhcmNoDQoNCkVudmlyb25tZW50YWwgbXV0YWdlbmVzaXMNCg0KVHJhbnNmb3JtYXRpb24gb2YgcG9sbHV0YW50cyBpbnRvIG11dGFnZW5zDQoNCg0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnMNCg0KICAgIA0KDQoNCg0KS2hyYWl3ZXNoLCBILiBNLjsgTGVlLCBDLk0uOyBCcmFuZHksIFkuOyBBa2luYm95ZSBFLiBTLjsgQmVyaGUsIFMuOyBHaXR0ZW5zLCBHLjsgQWJiYXMsIE0gTS47IEFtcHksIEYuIFIuOyBBc2hyYWYsIE0uOyBCYWthcmUsIE8uICAyMDExLiBBbnRpdHJ5cGFub3NvbWFsIGFjdGl2aXRpZXMgYW5kIGN5dG90b3hpY2l0eSBvZiBzb21lIG5vdmVsIGltaWRvLSBzdWJzdGl0dXRlZCAxLDQtbmFwaHRob3F1aW5vbmUgZGVyaXZhdGl2ZXMuIEFyY2guIFBoYXJtLiBSZXMNCg0KICAgIA0KDQoNCg0KQnJlem8sIEouLCBDLiBSb3lhbCwgRi5SLiBBbXB5IGFuZCBWLiBIZWFkaW5ncy4gIDIwMDYuIEV0aG5pYyBpZGVudGl0eSBhbmQgZGlhYmV0ZXMgdHlwZS0yIGhlYWx0aCBhdHRpdHVkZXMgaW4gQW1lcmljYW5zIG9mIEFmcmljYW4gYW5jZXN0cnkuICBFdGhuaWNpdHkgYW5kIERpc2Vhc2UsIDE2OiA2MjQgLTYzMi4NCg0KICAgIA0KDQoNCg0KVXN0b24uIFAuIEwuICwgSi5GLiBKciwgVXJiYW4sIE0uIEFzaHJhZiwgQy5NLiBMZWUgYW5kIEYsIFIsIEFtcHkuICAyMDA3LiBMM0wzRVNhbnRpZ2VuIGFuZCBzZWNyZXRhZ29ndWVzIGluZHVjZSBoaXN0YW1pbmUgcmVsZWFzZSBmcm9tIHBvcmNpbmUgcGVyaXBoZXJhbCBibG9vZCBiYXNvcGhpbHMgYWZ0ZXIgQXNjYXJpcyBzdXVtIGluZmVjdGlvbi4gIFBhcmFzaXRvbC4gUmVzLiAxMDA6IDYwMy02MTEuDQoNCiAgICANCg0KDQoNCk5vdXJlZGRpbmUgQmVya2EsIFRpbWlraWEgVmF1Z2huLCBWZXJsZSBIZWFkaW5ncywgQmFyYmFyYSBIYXJyaXNvbiwgUm9iZXJ0IEYuIE11cnJheSwgSnIuLCBGcmFua2xpbiBSLiBBbXB5LCBJbWFtIEpvaGFyaSBBYmR1bC1NYWxpay4gMjAwOS4gQXR0aXR1ZGVzIG9mIE11c2xpbXMgUmVnYXJkaW5nIHRoZSBOZXcgR2VuZXRpY3M6IFRlc3RpbmcsIFRyZWF0bWVudCwgYW5kIFRlY2hub2xvZ3kuIEluOiBHZW5ldGljcyBhbmQgRXRoaWNzIGluIEhlYWx0aCBDYXJlOiBOZXcgUXVlc3Rpb25zIGluIHRoZSBBZ2Ugb2YgR2Vub21pYyBIZWFsdGgsIGVkLiBSaXRhIEJsYWNrIE1vbnNlbiwgQW1lcmljYW4gTnVyc2VzIEFzc29jaWF0aW9uLCBwcC4gMTQ5IC0gMTYzLg0KDQogICAgUm95YWwsIEMuRC4sIFYuRS4uIEhlYWRpbmdzLCBFLlQuIE1vbG5hciBhbmQgRi5SLiBBbXB5LiAxOTk1LiBSZXNpbGllbmNlIGluIHNpYmxpbmdzIG9mIGNoaWxkcmVuIHdpdGggU2lja2xlIENlbGwgZGlzZWFzZS4gSi4gR2VuLiBDb3Vuc2VsLiA0OiAoMykgMTk5IC0gMjE3Lg0KDQogICAgQW1weSwgRi5SLiBhbmQgQS4gQXNzZWZmYS4gMTk4OC4gUmVndWxhdG9yeSBlZmZlY3RzIG9mIDE3YiAtZXN0cmFkaW9sIG9uIG1ldGFib2xpc20gb2YgZGltZXRoeWxuaXRyb3NhbWluZSBieSByZW5hbCBhbmQgaGVwYXRpYyBtaWNyb3NvbWFsIGVuenltZXMgZnJvbSBCQUxCL2MgbWljZS4gQ3l0b2Jpb3MsIDU1OiA4Ny05NC4NCg0KICAgIEFtcHksIEYuUi4sIFMuIFNheGVuYSBhbmQgSy4gVmVybWEuIDE5ODguIEJlbnpvKGEpcHlyZW5lIG11dGFnZW5pY2l0eSBpbiB1bmluZHVjZWQgdGlzc3VlcyBmcm9tIEJBTEIvYyBtaWNlIGFuZCBTcHJhZ3VlLURhd2xleSByYXRzIGFzIGFuIGluZGV4IG9mIHBvc3NpYmxlIGhlYWx0aCByaXNrcyB1c2luZyB0aGUgU2FsbW9uZWxsYSBtdXRhZ2VuaWNpdHkgYXNzYXkuIEN5dG9iaW9zLCA1NjogODEtODc=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911606206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:57 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914140306521"  usageLimitType="allocation" usageLimit="200" currentUsage="67" remainingUsage="133" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Margaret D. Johnson</FormattedName>
+<GivenName>Margaret</GivenName>
+<MiddleName>D.</MiddleName>
+<FamilyName>Johnson</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (205) 348-1819</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>205</AreaCityCode>
+<SubscriberNumber>348-1819</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>majohnso@bama.ua.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<PublicationHistory>
+<Article>
+<Title>Alebous H.D.A</Title>
+<Name role="author">
+<FormattedName>Cartee, R., Vaccari, D., Wright, O.A., Ahmed, A., Hood, R.D., Johnson, M.D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental Control of Inositol Phosphate Biosynthesis is Altered in the Brain of both Curly and Phenotypically Normal Straight tail Mutant Mice</JournalOrSerialName>
+</Article>
+<Article>
+<Title>P. M. and Johnson M. D. 2003</Title>
+<Name role="author">
+<FormattedName>Lackey, K. H, . Pope</FormattedName>
+</Name>
+<JournalOrSerialName>Expression of 1L-myo-Inositol-1 Phosphate Synthase in Organelles</JournalOrSerialName>
+</Article>
+<Article>
+<Title>P. M. and Johnson M. D. 2002</Title>
+<Name role="author">
+<FormattedName>Lackey, K. H, . Pope</FormattedName>
+</Name>
+<JournalOrSerialName>Biosynthesis of Inositol Phosphate in Organelles of Arabidopsis thaliana</JournalOrSerialName>
+</Article>
+<Article>
+<Title>IL-myo-inositol-1-phosphate synthase</Title>
+<Name role="author">
+<FormattedName>Majumder, A. L., Johnson, M. D., Henry, S. A</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1997</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Biochimica et Biophysica Acta 1348:245-256 Johnson M</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Primary structure of myo-inositol-1-phosphate synthase and functional analysis of its structural gene the Ino1 locus</Title>
+<Name role="author">
+<FormattedName>Johnson, M., Henry, S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1989</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Biol</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Bull">
+<CompetencyEvidence name ="Bull">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Cellular">
+<CompetencyEvidence name ="Cellular">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Email">
+<CompetencyEvidence name ="Email">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Neurological">
+<CompetencyEvidence name ="Neurological">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Toxicology">
+<CompetencyEvidence name ="Toxicology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Wang">
+<CompetencyEvidence name ="Wang">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TWFyZ2FyZXQgRC4gSm9obnNvbg0KDQpBc3NvY2lhdGUgUHJvZmVzc29yDQoNClBob25lOiAoMjA1KSAzNDgtMTgxOQ0KDQpFbWFpbDrCoG1ham9obnNvQGJhbWEudWEuZWR1DQoNCk1hcmdhcmV0IEpvaG5zb24gcmVjZWl2ZWQgYSBQaC5ELiBpbiBHZW5ldGljcyBmcm9tIEFsYmVydCBFaW5zdGVpbiBDb2xsZWdlIG9mIE1lZGljaW5lIGluIDE5ODcgYW5kIGNvbXBsZXRlZCBoZXIgcG9zdGRvY3RvcmFsIHJlc2VhcmNoIGF0IFlhbGUgVW5pdmVyc2l0eS4gU2hlIHdhcyBhcHBvaW50ZWQgQXNzaXN0YW50IFByb2Zlc3NvciBhdCB0aGUgVW5pdmVyc2l0eSBvZiBBbGFiYW1hIGluIDE5OTAuIERyLiBKb2huc29uIGhhcyBiZWVuIGFuIEFzc29jaWF0ZSBQcm9mZXNzb3IgYXQgdGhlIFVuaXZlcnNpdHkgb2YgQWxhYmFtYSBzaW5jZSAxOTk3Lg0KDQoNCg0KDQoNClJlc2VhcmNoIEludGVyZXN0cw0KDQpNeSBsYWJvcmF0b3J5IGlzIGludGVyZXN0ZWQgaW4gdGhlIGdlbmV0aWMgcmVndWxhdGlvbiBvZiBpbm9zaXRvbCBtZXRhYm9saXNtIGR1cmluZyBncm93dGggYW5kIGRldmVsb3BtZW50IG9mIGV1a2FyeW90ZXMuIElub3NpdG9sLCBhIHNpeCBjYXJib24gY3ljbGl0b2wsIGlzIGFuIGVzc2VudGlhbCBudXRyaWVudCB0aGF0IGlzIHVzZWQgYXMgYSB0aGVyYXBldXRpYyBhZ2VudCBmb3IgYSBudW1iZXIgb2YgbmV1cm9sb2dpY2FsIGRpc29yZGVycyBhbmQgY2VudHJhbCBuZXJ2b3VzIHN5c3RlbSBkZWZlY3RzLiBJbm9zaXRvbCBwaG9zcGhhdGVzIHBsYXkgY3J1Y2lhbCByb2xlcyBpbiBhIHZhcmlldHkgb2YgZnVuZGFtZW50YWwgcGh5c2lvbG9naWNhbCBjZWxsIGZ1bmN0aW9ucyByYW5naW5nIGZyb20gY2VsbCBncm93dGgsIHNpZ25hbCB0cmFuc2R1Y3Rpb24gYW5kIGRpZmZlcmVudGlhdGlvbiB0byB0cmFuc2NyaXB0aW9uYWwgcmVndWxhdGlvbiBhbmQgYXBvcHRvc2lzLg0KDQpXZSBhcmUgdXNpbmcgYSBjb21iaW5hdGlvbiBvZiBnZW5ldGljLCBiaW9jaGVtaWNhbCwgYW5kIG1vbGVjdWxhciBhbmFseXNlcyB0byBpc29sYXRlIGFuZCBzdHVkeSBnZW5lcyBpbnZvbHZlZCBpbiB0aGUgYmlvc3ludGhlc2lzIGFuZCBjYXRhYm9saXNtIG9mIGlub3NpdG9sLiBUaGlzIGFwcHJvYWNoIGhhcyBsZWQgdG8gdGhlIGZpbmRpbmcgdGhhdCBpbm9zaXRvbCBwaG9zcGhhdGUgYmlvc3ludGhlc2lzIGluIEFyYWJpZG9wc2lzIHRoYWxpYW5hLCBQaGFzZW9sdXMgdnVsZ2FyaXMsIGFuZCBTYWNjaGFyb215Y2VzIGNlcmV2aXNpYWUgaXMgbm90IHJlc3RyaWN0ZWQgdG8gb25lIGNlbGx1bGFyIGNvbXBhcnRtZW50LCB0aGUgY3l0b3NvbC4gVXNpbmcgdW5pY2VsbHVsYXIgYW5kIG11bHRpY2VsbHVsYXIgbW9kZWwgb3JnYW5pc21zLCB3ZSB3aWxsOiAoMSkgZGVsaW5lYXRlIG1lY2hhbmlzbXMgYnkgd2hpY2ggaW5vc2l0b2wgYmlvc3ludGhlc2lzIGlzIGNvbXBhcnRtZW50YWxpemVkLCAoMikgcXVlc3Rpb24gdGhlIGdlbmVyYWxpdHkgYW5kIGNvbXBhcnRtZW50YWxpemF0aW9uIG9mIGlub3NpdG9sIGJpb3N5bnRoZXNpcyBpbiBhbmltYWwgY2VsbHMgKG5ldXJvbnMgaW4gcGFydGljdWxhciksIGFuZCAoMykgZXZlbnR1YWxseSBhc2sgaWYgdGhlcmUgYXJlIGRpc2Vhc2Ugc3RhdGVzIGFzc29jaWF0ZWQgd2l0aCB0aGUgZGVjb21wYXJ0bWVudGFsaXphdGlvbi9kZXJlZ3VsYXRpb24gb2YgaW5vc2l0b2wgcGhvc3BoYXRlIGJpb3N5bnRoZXNpcy4NCg0KDQoNCg0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnMNCg0KQWxlYm91cywgSC5ELkEuLCBDYXJ0ZWUsIFIuLCBWYWNjYXJpLCBELiwgV3JpZ2h0LCBPLkEuLCBBaG1lZCwgQS4sIEhvb2QsIFIuRC4sIEpvaG5zb24sIE0uRC4gMjAwOS4gRGV2ZWxvcG1lbnRhbCBDb250cm9sIG9mIElub3NpdG9sIFBob3NwaGF0ZSBCaW9zeW50aGVzaXMgaXMgQWx0ZXJlZCBpbiB0aGUgQnJhaW4gb2YgYm90aCBDdXJseSBhbmQgUGhlbm90eXBpY2FsbHkgTm9ybWFsIFN0cmFpZ2h0IHRhaWwgTXV0YW50IE1pY2UuwqBCaXJ0aCBEZWZlY3RzIFJlc2VhcmNoIChQYXJ0IEEpOk1vbGVjdWxhciBUb3hpY29sb2d5LiBlLXB1YiBhaGVhZCBvZiBwcmludC4NCg0KTGFja2V5LCBLLiBILC4gUG9wZSwgUC4gTS4sIGFuZCBKb2huc29uLCBNLiBELiAyMDAzLiBFeHByZXNzaW9uIG9mIDFMLW15by1Jbm9zaXRvbC0xIFBob3NwaGF0ZSBTeW50aGFzZSBpbiBPcmdhbmVsbGVzLsKgUGxhbnQgUGh5c2lvbC4xMzI6MS04DQoNCkxhY2tleSwgSy4gSCwuIFBvcGUsIFAuIE0uLCBhbmQgSm9obnNvbiwgTS4gRC4gMjAwMi4gQmlvc3ludGhlc2lzIG9mIElub3NpdG9sIFBob3NwaGF0ZSBpbiBPcmdhbmVsbGVzIG9mIEFyYWJpZG9wc2lzIHRoYWxpYW5hLsKgU0FBUyBCdWxsLiBCaW9jaGVtLiBCaW90ZWNoLsKgMTU6OC0xNQ0KDQpNYWp1bWRlciwgQS4gTC4sIEpvaG5zb24sIE0uIEQuLCBIZW5yeSwgUy4gQS4gMTk5Ny4gSUwtbXlvLWlub3NpdG9sLTEtcGhvc3BoYXRlIHN5bnRoYXNlLsKgQmlvY2hpbWljYSBldCBCaW9waHlzaWNhIEFjdGHCoDEzNDg6MjQ1LTI1Ng0KDQpKb2huc29uLCBNLiwgV2FuZywgWC4gMTk5Ni4gRGlmZmVyZW50aWFsbHkgRXhwcmVzc2VkIEZvcm1zIG9mIDFMLW15by1Jbm9zaXRvbCAxLVBob3NwaGF0ZSBTeW50aGFzZSBpbiBQaGFzZW9sdXMgdnVsZ2FyaXMuwqBKLiBCaW9sLiBDaGVtLjI3MTogMTcyMTUtMTcyMTgNCg0KSm9obnNvbiwgTS4sIEhlbnJ5LCBTLiAxOTg5LiBQcmltYXJ5IHN0cnVjdHVyZSBvZiBteW8taW5vc2l0b2wtMS1waG9zcGhhdGUgc3ludGhhc2UgKEVDNS41LjEuNCkgYW5kIGZ1bmN0aW9uYWwgYW5hbHlzaXMgb2YgaXRzIHN0cnVjdHVyYWwgZ2VuZSwgdGhlIElubzEgbG9jdXMuwqBKLiBCaW9sLiBDaGVtLsKgMjY0OjEyNzQtMTI4MS4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914140306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

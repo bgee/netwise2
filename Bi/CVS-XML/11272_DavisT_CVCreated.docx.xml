@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:15 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912610306521"  usageLimitType="allocation" usageLimit="200" currentUsage="41" remainingUsage="159" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Bryn Mawr College Park Science Building</FormattedName>
+<GivenName>Bryn Mawr</GivenName>
+<MiddleName>College Park Science</MiddleName>
+<FamilyName>Building</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>19010-2899</PostalCode>
+<Region>PA</Region>
+<Municipality>Bryn Mawr</Municipality>
+<DeliveryAddress>
+<AddressLine>101 N. Merion Avenue</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (610) 526-5065</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>610</AreaCityCode>
+<SubscriberNumber>526-5065</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (610) 526-5086</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>610</AreaCityCode>
+<SubscriberNumber>526-5086</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>tdavis@brynmawr.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California at San Diego</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.A</DegreeName>
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California at Berkeley</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1996-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Postdoctorate University of Pennsylvania</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Establishment of paternal allele-specific DNA methylation at the imprinted mouse Gtl2 locus</Title>
+<Name role="author">
+<FormattedName>Nowak, K., Stein, G., Powell, E., He, L.M., Naik, S., Morris, J., Marlow, S. and T.L. Davis</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Epigenetics</JournalOrSerialName>
+<Volume>6(8):</Volume>
+<PageNumber>1012-</PageNumber>
+</Article>
+<Article>
+<Title>Differential methylation persists at the mouse Rasgrf1 DMR in tissues displaying monoallelic and biallelic expression</Title>
+<Name role="author">
+<FormattedName>Dockery, L., J. Gerfen, C. Harview, C. Rahn-Lee, R. Horton, Y. Park and T.L. Davis</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Epigenetics</JournalOrSerialName>
+<Volume>4(4):</Volume>
+<PageNumber>241-247.</PageNumber>
+</Article>
+<Article>
+<Title>Methylation at mouse Cdkn1c is acquired during post-implantation development and functions to maintain imprinted expression</Title>
+<Name role="author">
+<FormattedName>Bhogal, B., A. Arnaudo, A. Dymkowski, A. Best and T.L. Davis</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Genomics</JournalOrSerialName>
+<Volume>84(6):</Volume>
+<PageNumber>961-970.</PageNumber>
+</Article>
+<Article>
+<Title>McCarrey and M.S</Title>
+<Name role="author">
+<FormattedName>Davis, T.L., G.J. Yang, J</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>SDC-2 triggers hermaphrodite sexual development and targets nematode dosage compensation machinery to X chromosomes</Title>
+<Name role="author">
+<FormattedName>Dawes, H.E., D.S. Berlin, D.M. Lapidus, C. Nusbaum, T.L. Davis and B.J. Meyer</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Science</JournalOrSerialName>
+<Volume>284(5421):</Volume>
+<PageNumber>1800-1804.</PageNumber>
+</Article>
+<Article>
+<Title>Acquisition of the H19 methylation imprint occurs differentially on the parental alleles during spermatogenesis</Title>
+<Name role="author">
+<FormattedName>Davis, T.L., J.M. Trasler, S.B. Moss, G.J. Yang and M.S. Bartolomei</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Genomics</JournalOrSerialName>
+<Volume>58(1):</Volume>
+<PageNumber>18-28.</PageNumber>
+</Article>
+<Article>
+<Title>Imprinted expression and methylation of the mouse H19 gene are conserved in extraembryonic lineages</Title>
+<Name role="author">
+<FormattedName>Davis, T.L., K.D. Tremblay and M.S. Bartolomei</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1998</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental Genetics</JournalOrSerialName>
+<Volume>23(2):</Volume>
+<PageNumber>111-118.</PageNumber>
+</Article>
+<Article>
+<Title>SDC-3 coordinates the assembly of a dosage compensation complex on the nematode X chromosome</Title>
+<Name role="author">
+<FormattedName>Davis, T.L. and B.J. Meyer</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1997</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Development</JournalOrSerialName>
+<Volume>124(5):</Volume>
+<PageNumber>1019-1031.</PageNumber>
+</Article>
+<Article>
+<Title>Helinski and R.C</Title>
+<Name role="author">
+<FormattedName>Davis, T.L., D.R</FormattedName>
+</Name>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIFRhbWFyYSBMLiBEYXZpcw0KDQpBc3NvY2lhdGUgUHJvZmVzc29yIGFuZCBDaGFpciBvZiBCaW9sb2d5DQoNCg0KDQogDQoNCkVkdWNhdGlvbg0KDQpCLkEuIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSBhdCBTYW4gRGllZ28sIDE5OTENCg0KUGguRC4gVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhIGF0IEJlcmtlbGV5LCAxOTk2DQoNClBvc3Rkb2N0b3JhdGUgVW5pdmVyc2l0eSBvZiBQZW5uc3lsdmFuaWENCg0KDQoNCkNvbnRhY3QgaW5mb3JtYXRpb24NCg0KQnJ5biBNYXdyIENvbGxlZ2UNCg0KUGFyayBTY2llbmNlIEJ1aWxkaW5nLCByb29tIDIyMg0KDQpwaG9uZTogNjEwLTUyNi01MDY1DQoNCmZheDogNjEwLTUyNi01MDg2DQoNCnRkYXZpc0BicnlubWF3ci5lZHUNCg0KDQoNCm1haWxpbmcgYWRkcmVzczoNCg0KRGVwYXJ0bWVudCBvZiBCaW9sb2d5DQoNCkJyeW4gTWF3ciBDb2xsZWdlDQoNCjEwMSBOLiBNZXJpb24gQXZlbnVlDQoNCkJyeW4gTWF3ciwgUEEgMTkwMTAtMjg5OQ0KDQoNCg0KUHVibGljYXRpb25zDQoNCk5vd2FrLCBLLiwgU3RlaW4sIEcuLCBQb3dlbGwsIEUuLCBIZSwgTC5NLiwgTmFpaywgUy4sIE1vcnJpcywgSi4sIE1hcmxvdywgUy4gYW5kIFQuTC4gRGF2aXMsIDIwMTEsIEVzdGFibGlzaG1lbnQgb2YgcGF0ZXJuYWwgYWxsZWxlLXNwZWNpZmljIEROQSBtZXRoeWxhdGlvbiBhdCB0aGUgaW1wcmludGVkIG1vdXNlIEd0bDIgbG9jdXMsIEVwaWdlbmV0aWNzIDYoOCk6IDEwMTItMTAyMC4NCg0KRG9ja2VyeSwgTC4sIEouIEdlcmZlbiwgQy4gSGFydmlldywgQy4gUmFobi1MZWUsIFIuIEhvcnRvbiwgWS4gUGFyayBhbmQgVC5MLiBEYXZpcywgMjAwOSwgRGlmZmVyZW50aWFsIG1ldGh5bGF0aW9uIHBlcnNpc3RzIGF0IHRoZSBtb3VzZSBSYXNncmYxIERNUiBpbiB0aXNzdWVzIGRpc3BsYXlpbmcgbW9ub2FsbGVsaWMgYW5kIGJpYWxsZWxpYyBleHByZXNzaW9uLCBFcGlnZW5ldGljcyA0KDQpOiAyNDEtMjQ3Lg0KDQpCaG9nYWwsIEIuLCBBLiBBcm5hdWRvLCBBLiBEeW1rb3dza2ksIEEuIEJlc3QgYW5kIFQuTC4gRGF2aXMsIDIwMDQsIE1ldGh5bGF0aW9uIGF0IG1vdXNlIENka24xYyBpcyBhY3F1aXJlZCBkdXJpbmcgcG9zdC1pbXBsYW50YXRpb24gZGV2ZWxvcG1lbnQgYW5kIGZ1bmN0aW9ucyB0byBtYWludGFpbiBpbXByaW50ZWQgZXhwcmVzc2lvbiwgR2Vub21pY3MgODQoNik6IDk2MS05NzAuDQoNCg0KDQpEYXZpcywgVC5MLiwgRy5KLiBZYW5nLCBKLiBNY0NhcnJleSBhbmQgTS5TLiBCYXJ0b2xvbWVpLCAyMDAwLCBUaGUgSDE5IG1ldGh5bGF0aW9uIGltcHJpbnQgaXMgZXJhc2VkIGFuZCByZWVzdGFibGlzaGVkIGRpZmZlcmVudGlhbGx5IG9uIHRoZSBwYXJlbnRhbCBhbGxlbGVzIGR1cmluZyBtYWxlIGdlcm0gY2VsbCBkZXZlbG9wbWVudCwgSHVtYW4gTW9sZWN1bGFyIEdlbmV0aWNzIDkoMTkpOiAyODg1LTI4OTQuDQoNCkRhd2VzLCBILkUuLCBELlMuIEJlcmxpbiwgRC5NLiBMYXBpZHVzLCBDLiBOdXNiYXVtLCBULkwuIERhdmlzIGFuZCBCLkouIE1leWVyLCAxOTk5LCBTREMtMiB0cmlnZ2VycyBoZXJtYXBocm9kaXRlIHNleHVhbCBkZXZlbG9wbWVudCBhbmQgdGFyZ2V0cyBuZW1hdG9kZSBkb3NhZ2UgY29tcGVuc2F0aW9uIG1hY2hpbmVyeSB0byBYIGNocm9tb3NvbWVzLCBTY2llbmNlIDI4NCg1NDIxKTogMTgwMC0xODA0Lg0KDQpEYXZpcywgVC5MLiwgSi5NLiBUcmFzbGVyLCBTLkIuIE1vc3MsIEcuSi4gWWFuZyBhbmQgTS5TLiBCYXJ0b2xvbWVpLCAxOTk5LCBBY3F1aXNpdGlvbiBvZiB0aGUgSDE5IG1ldGh5bGF0aW9uIGltcHJpbnQgb2NjdXJzIGRpZmZlcmVudGlhbGx5IG9uIHRoZSBwYXJlbnRhbCBhbGxlbGVzIGR1cmluZyBzcGVybWF0b2dlbmVzaXMsIEdlbm9taWNzIDU4KDEpOiAxOC0yOC4NCg0KRGF2aXMsIFQuTC4sIEsuRC4gVHJlbWJsYXkgYW5kIE0uUy4gQmFydG9sb21laSwgMTk5OCwgSW1wcmludGVkIGV4cHJlc3Npb24gYW5kIG1ldGh5bGF0aW9uIG9mIHRoZSBtb3VzZSBIMTkgZ2VuZSBhcmUgY29uc2VydmVkIGluIGV4dHJhZW1icnlvbmljIGxpbmVhZ2VzLCBEZXZlbG9wbWVudGFsIEdlbmV0aWNzIDIzKDIpOiAxMTEtMTE4Lg0KDQpEYXZpcywgVC5MLiBhbmQgQi5KLiBNZXllciwgMTk5NywgU0RDLTMgY29vcmRpbmF0ZXMgdGhlIGFzc2VtYmx5IG9mIGEgZG9zYWdlIGNvbXBlbnNhdGlvbiBjb21wbGV4IG9uIHRoZSBuZW1hdG9kZSBYIGNocm9tb3NvbWUsIERldmVsb3BtZW50IDEyNCg1KTogMTAxOS0xMDMxLg0KDQpEYXZpcywgVC5MLiwgRC5SLiBIZWxpbnNraSwgYW5kIFIuQy4gUm9iZXJ0cywgMTk5MiwgVHJhbnNjcmlwdGlvbiBhbmQgYXV0b3JlZ3VsYXRpb24gb2YgdGhlIHN0YWJpbGl6aW5nIGZ1bmN0aW9ucyBvZiBicm9hZC1ob3N0LXJhbmdlIHBsYXNtaWQgUksyIGluIEVzY2hlcmljaGlhIGNvbGksIEFncm9iYWN0ZXJpdW0gdHVtZWZhY2llbnMgYW5kIFBzZXVkb21vbmFzIGFlcnVnaW5vc2EsIE1vbGVjdWxhciBNaWNyb2Jpb2xvZ3kgNigxNCk6IDE5ODEtMTk5NC4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912610306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

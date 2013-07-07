@@ -1,0 +1,120 @@
+xlsfile="\\iac.nas.gatech.edu\pubp-common\melkers_project\NETWISE I PROJECT\Bibliometric Data\VantagePoint Data\KBE\VP_auto5.xlsm"
+
+call main
+
+Sub Main
+	App.GetActiveDSName mainDS
+
+	Set xlApp = CreateObject("Excel.Application")
+	xlApp.Visible = True
+	xlApp.Workbooks.Open(xlsfile)
+
+	xlApp.Worksheets("VP_ART").Cells.Delete
+	xlApp.Worksheets("VP_AA").Cells.Delete
+	xlApp.Worksheets("VP_FA").Cells.Delete
+	xlApp.Worksheets("VP_SC").Cells.Delete
+	xlApp.Worksheets("VP_AU").Cells.Delete
+	xlApp.Worksheets("VP_AU_CO").Cells.Delete
+	xlApp.Worksheets("VP_CJ").Cells.Delete
+	xlApp.Worksheets("VP_CJ_CO").Cells.Delete
+	xlApp.Worksheets("VP_KW").Cells.Delete
+	xlApp.Worksheets("VP_KW_CO").Cells.Delete
+	xlApp.Worksheets("VP_KWR").Cells.Delete
+	xlApp.Worksheets("VP_KWRA_CO").Cells.Delete
+	xlApp.Worksheets("VP_KWRT_CO").Cells.Delete
+	xlApp.Worksheets("VP_TI").Cells.Delete
+	xlApp.Worksheets("VP_TI_CO").Cells.Delete
+	xlApp.Worksheets("VP_AB").Cells.Delete
+	xlApp.Worksheets("VP_AB_CO").Cells.Delete
+
+	View.CreateList "Source", srcLIST
+	List.SelectRows 1, 1
+	View.CreateList "Researcher ID", rsrLIST
+	List.GetNumRows numrsr
+
+	for i = 1 to numrsr
+		App.SelectDataset mainDS
+		View.Select srcLIST
+		View.Select rsrLIST
+		List.GetValue i, 2, numRec
+		List.GetValue i, 3, currsrID
+
+		List.DeselectAll
+		List.SelectRows i, i		
+		App.NewDatasetFromSelection authDS
+		App.SelectDataset authDS
+
+		View.CreateCooccurrenceMatrix "ISI Unique Article Identifier", "UNGROUPED", "Title", "UNGROUPED", "RECORDS", tiMATR
+		View.Select tiMATR
+		Matrix.Sort "ROW",2,"ASCEND" 
+		Matrix.Sort "COLUMN",2,"ASCEND" 
+		Matrix.Flood 0
+		Matrix.SelectAll
+		Matrix.CopySelection
+		xlApp.Sheets("VP_ART").Select
+		xlApp.Range("A1").Select
+		xlApp.ActiveSheet.Paste
+		xlApp.Cells(2,2)=currsrID
+
+
+		View.CreateCrosscorrelationMatrix "ISI Unique Article Identifier", "UNGROUPED", "Title: NLP/Words : StopWords: Apply Proper Case", "UNGROUPED", "RECORDS", "COSINE", tiMATR
+		View.Select tiMATR
+		Matrix.Flood 0
+		Matrix.Sort "ROW",2,"ASCEND" 
+		Matrix.Sort "COLUMN",2,"ASCEND" 
+		Matrix.SelectAll
+		Matrix.CopySelection
+		xlApp.Sheets("VP_TI").Select
+		xlApp.Range("A1").Select
+		xlApp.ActiveSheet.Paste
+		View.CreateCooccurrenceMatrix "ISI Unique Article Identifier", "UNGROUPED", "Title: NLP/Words : StopWords: Apply Proper Case", "UNGROUPED", "RECORDS", ticoMATR
+		View.Select ticoMATR
+		Matrix.Flood 0
+		Matrix.Sort "ROW",2,"ASCEND" 
+		Matrix.Sort "COLUMN",2,"ASCEND" 
+		Matrix.SelectAll
+		Matrix.CopySelection
+		xlApp.Sheets("VP_TI_CO").Select
+		xlApp.Range("A1").Select
+		xlApp.ActiveSheet.Paste
+
+		View.CreateCrosscorrelationMatrix "ISI Unique Article Identifier", "UNGROUPED", "Abstract: NLP/Words : StopWords: Apply Proper Case", "UNGROUPED", "RECORDS", "COSINE", abMATR
+		View.Select abMATR
+		Matrix.Flood 0
+		Matrix.Sort "ROW",2,"ASCEND" 
+		Matrix.Sort "COLUMN",2,"ASCEND" 
+		Matrix.SelectAll
+		Matrix.CopySelection
+		xlApp.Sheets("VP_AB").Select
+		xlApp.Range("A1").Select
+		xlApp.ActiveSheet.Paste
+
+'TOO LONG!!!
+'		View.CreateCooccurrenceMatrix "ISI Unique Article Identifier", "UNGROUPED", "Abstract: NLP/Words : StopWords: Apply Proper Case", "UNGROUPED", "RECORDS", abcoMATR
+'		View.Select abcoMATR
+'		Matrix.Flood 0
+'		Matrix.Sort "ROW",2,"ASCEND" 
+'		Matrix.Sort "COLUMN",2,"ASCEND" 
+'		Matrix.SelectAll
+'		Matrix.CopySelection
+'		xlApp.Sheets("VP_AB_CO").Select
+'		xlApp.Range("A1").Select
+'		xlApp.ActiveSheet.Paste
+
+		xlapp.Run "P1GetTitles"
+		xlapp.Run "P2WriteCorr"
+		xlapp.Run "P3WriteTIcooc"
+		xlapp.Run "P5DoR"
+		xlapp.Run "P6GetRez"
+
+		if i = 5 or i = 10 or i = 20 or i = 30 or i = 40 or i = 50 or i = 60 or i = 80 or i = 100 or i = 150 or i = 200 or i = 250 or i = 300 or i = 350 or i = 400 or i = 500 or i = 600 or i = 700 or i = 800 or i = 900 or i = 1000 or i = 1100 or i = 1200 or i = 1300 or i=1400 or i=1500 or i=1600 then xlapp.ActiveWorkbook.Save
+
+		App.SelectDataset authDS
+		App.Closefile("N")
+	next
+
+	xlapp.ActiveWorkbook.Save
+	xlapp.Quit
+	View.Delete srcLIST
+	View.Delete rsrLIST
+end sub

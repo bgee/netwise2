@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:43 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913016206521"  usageLimitType="allocation" usageLimit="200" currentUsage="32" remainingUsage="168" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Keith M. Howard</FormattedName>
+<GivenName>Keith</GivenName>
+<MiddleName>M.</MiddleName>
+<FamilyName>Howard</FamilyName>
+</PersonName>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Delaware State University Plant SciencesYear</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>M.S.University of Delaware</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Plant Pathology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>The Ohio State University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Plant Pathology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Ph.D Thesis: The Effect of Metalaxyl on Resistance in Populations of Phytophthora megasperma f. sp</Title>
+<JournalOrSerialName>glycinea</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A Novel Method of Identifying Newly Produced Conidia in Submerged Liquid Culture</Title>
+<Name role="author">
+<FormattedName>Howard, K.M., Smart, M.G. and R.J. Bothast</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1993</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Mycologia 85: 127-130</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Effect of carbon dioxide on sporulation of Alternaria crassa and Alternaria cassias</Title>
+<Name role="author">
+<FormattedName>Smart, M. G., K. M. Howard and R. J. Bothast</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1992</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Mycopathologia 118: 167-171</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Coinoculation of the weed Sesbania exaltata with Colletotrichum truncatum and epiphytic bacteria to enhance pathogen efficiency</Title>
+<Name role="author">
+<FormattedName>Schisler, D. A., K. M. Howard and R. J. Bothast</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1991</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Biological Control 1: 261-268</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>S2VpdGggTS4gSG93YXJkDQoNCiAgICAgICAgIEFzc2lzdGFudCBQcm9mZXNzb3INCg0KDQoNCiAgICAgRWR1Y2F0aW9uDQoNCiAgICAgQ291cnNlcyBUYXVnaHQNCg0KICAgICBSZXNlYXJjaCBJbnRlcmVzdHMNCg0KICAgICBQdWJsaWNhdGlvbnMNCg0KDQoNClBoLkQgVGhlc2lzOiBUaGUgRWZmZWN0IG9mIE1ldGFsYXh5bCBvbiBSZXNpc3RhbmNlIGluIFBvcHVsYXRpb25zIG9mIFBoeXRvcGh0aG9yYSBtZWdhc3Blcm1hIGYuIHNwLiBnbHljaW5lYQ0KDQoNCg0KRWR1Y2F0aW9uOg0KDQoNCg0KQi5TIERlbGF3YXJlIFN0YXRlIFVuaXZlcnNpdHkgUGxhbnQgU2NpZW5jZXNZZWFyDQoNCk0uUy5Vbml2ZXJzaXR5IG9mIERlbGF3YXJlLCBQbGFudCBQYXRob2xvZ3kNCg0KUGguRCxUaGUgT2hpbyBTdGF0ZSBVbml2ZXJzaXR5LCBQbGFudCBQYXRob2xvZ3kNCg0KDQoNCkNvdXJzZXMgVGF1Z2h0Og0KDQoNCg0KUGxhbnQgU2NpZW5jZXMgMjIwKEJpb18yMjAgY291cnNlIG51bWJlcikNCg0KDQoNClBsYW50IFNjaWVuY2VzIExhYm9yYXRvcnkoZGVwYXJ0bWVudCBhY3JvbnltIGNvdXJzZSBudW1iZXIpDQoNCg0KDQpSZXNlYXJjaCBJbnRlcmVzdHM6DQoNCg0KDQogDQoNCg0KDQpQbGFudCBQYXRob2xvZ3kNCg0KUGFyYXNpdGUtUGxhbnQgSW50ZXJhY3Rpb24NCg0KRnVuZ2FsIEJpb2NoZW1pc3RyeSBhbmQgRGV2ZWxvcG1lbnQNCg0KTWljcm9iaWFsIFBoeXNpb2xvZ3kNCg0KDQoNCjEuIFByb2R1Y3Rpb24gb2YgSW5kb2xlLTMtQWNldGljIEFjaWQgaW4gUHNldWRvbW9uYXMgc29sYW5hY2VhcnVtLiBJbmRvbGUtMy1hY2V0aWMgYWNpZCAoSUFBKSBpcyBhbiBpbXBvcnRhbnQgcGxhbnQgaG9ybW9uZSB3aGljaCBpcyBwcm9kdWNlZCBpbiB0aGlzIGltcG9ydGFudCBwbGFudCBwYXRob2dlbi4gV2UgYXJlIGludGVyZXN0ZWQgaW4gZWx1Y2lkYXRpbmcgdGhlIHByZWNpc2UgYmlvY2hlbWljYWwgcGF0aHdheShzKSBieSB3aGljaCBJQUEgaXMgcHJvZHVjZWQgYW5kIHJlZ3VsYXRlZC4gV2UgdWx0aW1hdGVseSB3aXNoIHRvIGRldGVybWluZSB0aGUgaW1wb3J0YW5jZSBvZiBJQUEgYXMgYSB2aXJ1bGVuY2UgZmFjdG9yIGR1cmluZyBwYXRob2dlbmVzaXMuIFN0dWRpZXMgYXJlIGJlaW5nIGNvbmR1Y3RlZCB1c2luZyBHQy1NYXNzIHNwZWN0cm9tZXRyeSB0byBpZGVudGlmeSBwb3RlbnRpYWwgYmlvY2hlbWljYWwgaW50ZXJtZWRpYXRlcyBsZWFkaW5nIHRvIHRoZSBwcm9kdWN0aW9uIG9mIElBQS4NCg0KDQoNCjIuIE51dHJpdGlvbmFsIHBhcmFtZXRlcnMgYWZmZWN0aW5nIHRoZSBwcm9kdWN0aW9uIG9mIGV4dHJhY2VsbHVsYXIgZW56eW1lcyBpbiBDb2xsZXRvdHJpY2h1bSB0cnVuY2F0dW0uV2UgYXJlIGV2YWx1YXRpbmcgYm90aCBjb25pZGlhIGFuZCBteWNvc2NsZXJvdGlhIGFzIHByb3BhZ3VsZXMgdG8gYmUgdXNlZCBpbiB0aGUgY29udHJvbCBvZiB0aGUgbm94aW91cyB3ZWVkLCBIZW1wIHNlc2JhbmlhIChTZXNiYW5pYSBleGFsdGF0YSkuIFRoaXMgZW5kZW1pYyBmdW5ndXMsIGFsc28ga25vd24gYXMgYSBteWNvaGVyYmljaWRlLCBwcm92aWRlcyBhIG5hdHVyYWwgYWx0ZXJuYXRpdmUgdG8gcmVkdWN0aW9uIG9mIGNoZW1pY2FsIGhlcmJpY2lkZXMgdXNlZCBpbiB0aGUgZW52aXJvbm1lbnQuIFdlIGFyZSBzdHVkeWluZyB0aGUgcHJvZHVjdGlvbiBhbmQgcm9sZSBvZiBleHBvcnRlZCBjdXRpbmFzZXMgcHJvZHVjZWQgZHVyaW5nIHRoZSBpbmZlY3Rpb24gcHJvY2VzcyB3aXRoIHRoZSBnb2FsIG9mIG9wdGltaXppbmcgdGhlaXIgcHJvZHVjdGlvbi4gU2Vjb25kbHksIHdlIGFyZSBldmFsdWF0aW5nIG15Y29zY2xlcm90aWEgcHJvZHVjZWQgYnkgdGhlIGZ1bmd1cyBhcyBhbiBlZmZlY3RpdmUgc29pbCBpbm9jdWx1bSB0byBwcm92aWRlIG1vcmUgdW5pZm9ybSBjb250cm9sIG9mIHRoZSB3ZWVkLg0KDQoNCg0KMy4gTnV0cml0aW9uYWwgYmFzaXMgb2Ygc3BvcnVsYXRpb24gaW4gdGhlIGJpb2NvbnRyb2wgZnVuZ3VzIEFsdGVybmFyaWEgY3Jhc3NhIGFuZCBBbHRlcm5hcmlhIGNhc3NpYWUuIFRoZSBlZmZlY3RzIG9mIGNhcmJvbiwgbml0cm9nZW4gYW5kIHRyYWNlIG1pbmVyYWxzIG9uIHNwb3JlIG1vcnBob2xvZ3kgYW5kIGluZmVjdGl2aXR5IHdpbGwgYmUgZXhhbWluZWQuDQoNCg0KDQo0LiBPbGlnb3NhY2NoYXJpZGUgc2lnbmFsaW5nIGluIHBsYW50cyBhcyBtZWRpYXRlZCBieSBQaHl0b3BodGhvcmEgYW5kIFB5dGhpdW0gc3BwLiBDZWxsIHdhbGwgZnJhZ21lbnRzIGZyb20gYm90aCBwbGFudHMgYW5kIGZ1bmdpIGNhbiBhY3QgYXMgc2lnbmFsaW5nIGFnZW50cyB0byBhY3RpdmF0ZSBhIG51bWJlciBvZiBob3N0IGRlZmVuc2UgbWVjaGFuaXNtcyBkdXJpbmcgaW52YXNpb25zLiBTdHVkaWVzIHdpbGwgYmUgdW5kZXJ0YWtlbiB0byB1bmRlcnN0YW5kIHRoZSBtZWNoYW5pc20gb2YgZ2VuZSBhY3RpdmF0aW9uLg0KDQoNCg0KU2VsZWN0ZWQgUHVibGljYXRpb25zOg0KDQoNCg0KSG93YXJkLCBLLk0uLCBTbWFydCwgTS5HLiBhbmQgUi5KLiBCb3RoYXN0LiAxOTkzLiBBIE5vdmVsIE1ldGhvZCBvZiBJZGVudGlmeWluZyBOZXdseSBQcm9kdWNlZCBDb25pZGlhIGluIFN1Ym1lcmdlZCBMaXF1aWQgQ3VsdHVyZS4gTXljb2xvZ2lhIDg1OiAxMjctMTMwLg0KDQoNCg0KU21hcnQsIE0uIEcuLCBLLiBNLiBIb3dhcmQgYW5kIFIuIEouIEJvdGhhc3QsIDE5OTIuIEVmZmVjdCBvZiBjYXJib24gZGlveGlkZSBvbiBzcG9ydWxhdGlvbiBvZiBBbHRlcm5hcmlhIGNyYXNzYSBhbmQgQWx0ZXJuYXJpYSBjYXNzaWFzLiBNeWNvcGF0aG9sb2dpYSAxMTg6IDE2Ny0xNzEuDQoNCg0KDQpTY2hpc2xlciwgRC4gQS4sIEsuIE0uIEhvd2FyZCBhbmQgUi4gSi4gQm90aGFzdCwgMTk5MS4gQ29pbm9jdWxhdGlvbiBvZiB0aGUgd2VlZCBTZXNiYW5pYSBleGFsdGF0YSB3aXRoIENvbGxldG90cmljaHVtIHRydW5jYXR1bSBhbmQgZXBpcGh5dGljIGJhY3RlcmlhIHRvIGVuaGFuY2UgcGF0aG9nZW4gZWZmaWNpZW5jeS4gQmlvbG9naWNhbCBDb250cm9sIDE6IDI2MS0yNjgu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913016206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

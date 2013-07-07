@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:05:11 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912121306521"  usageLimitType="allocation" usageLimit="200" currentUsage="112" remainingUsage="88" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>EDWARD S. BOYLAN</FormattedName>
+<GivenName>EDWARD</GivenName>
+<MiddleName>S.</MiddleName>
+<FamilyName>BOYLAN</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>BORN</Municipality>
+<DeliveryAddress>
+<AddressLine>T</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (999) 2000-1987</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>999</AreaCityCode>
+<SubscriberNumber>2000-1987</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+</ContactInfo>
+<PersonDescriptors>
+<DemographicDescriptors>
+<MaritalStatus>Married</MaritalStatus>
+</DemographicDescriptors>
+<BiologicalDescriptors>
+<DateOfBirth>1938-02-08</DateOfBirth>
+</BiologicalDescriptors>
+</PersonDescriptors>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>COLUMBIA COLLEGE</SchoolName>
+</School>
+<Degree>
+<DegreeName>A. B</DegreeName>
+<DegreeDate>
+<AnyDate>1959-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>PRINCETON UNIVERSITY</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.A</DegreeName>
+<DegreeDate>
+<AnyDate>1959-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>PI-I1 BETA KAPPA</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>SUMMA CUM LAUDE</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>PRINCETON UNIVERSITY</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>PH. D</DegreeName>
+<DegreeDate>
+<AnyDate>1961-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>PRINCETON UNIVERSITY</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1962-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>NATIONAL SCIENCE FOUNDATION</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>PRINCETON UNIVERSITY</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>WOODROW WILSON</Municipality>
+</PostalAddress>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1962-01-01</AnyDate>
+</DegreeDate>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>HONORARY</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>STEVENS INSTITUTE OF TECHNOLOGY</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeDate>
+<AnyDate>1960-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>COMPUTER SCIENCE</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>YESHIVA UNIVERSITY</SchoolName>
+</School>
+<Degree>
+<DegreeName>ASSOCIATE</DegreeName>
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>RUTGERS UNIVERSITY</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>NEW BRUNSWICK</Region>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>1963-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>ASSISTANT PROFESSOR</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>HUNTER COLLEGE  CITY UNIVERSITY OF N.Y.</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>1966-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>PROFESSOR</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>RUTGERS UNIVERSITY</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>NEWARK</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>1968-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>PROFESSOR</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>SERVIQE T0 RUTGERS UNIVERSITY</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2001-10-02</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>09303 FAX</Name>
+</DegreeMajor>
+<Comments>CHAIR, DEPARTMENT OF MATHEMATICS</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>SERVIQE T0 RUTGERS UNIVERSITY</SchoolName>
+</School>
+<OrganizationUnit>DEPARTMENT OF MATHEMATICS AND COMPUTER SCIENCE</OrganizationUnit>
+<Degree degreeType="bachelors">
+<DegreeName>UNDERGRADUATE PROGRAM</DegreeName>
+<DegreeDate>
+<AnyDate>1982-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>DIRECTOR</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>JOINT RU</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>NJIT COMMITTEE OVERSEEING</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>COMPUTER SCIENCE PROGRAM RUTGERS OBSERVER TO NJIT</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>UNDERGRADUATE</DegreeName>
+<DegreeMajor>
+<Name>COMPUTER</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>UNIVERSITY SENATE</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>UNIVERSITY PROFESSORS</SchoolName>
+</School>
+<OrganizationUnit>NEWARK FACULTY COUNCIL</OrganizationUnit>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>PLACEMENT TESTING</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>MORIAH SCHOOL OF ENGLEWOOD</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>EXECUTIVE COUNCIL</Name>
+</DegreeMajor>
+<Comments>PRESIDENT CONGREGATION SHOMREI EMUNAI-I, ENGLEWOOD PRESIDENT TREASURER MEMBER, BOARD OF DIRECTORS</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>&quot;ON PROPERTIES OF STEADY STATE MEASURES FOR ONE-SECTOR GROWTH</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1972-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>ELSIVER NORTH-HOLLAND  NEW YORK PP</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Inventory">
+<CompetencyEvidence name ="Inventory">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>MEMBER, BOARD OF TRUSTEES</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>MEMBER, BOARD OF OVERSEERS</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>MDIvMTAvMjAwMSBvYXpvcyBGYXggIMKwwrAyL8KwwrAiDQoNCg0KQ1VSUklDVUxVTSBWSVRBDQoNCg0KT0YNCg0KDQpFRFdBUkQgUy4gQk9ZTEFODQoNCg0KR1JBUCBDIFQNCg0KDQpCT1JOIEZFQlJVQVJZIDgsIDE5MzgNCg0KDQpNQVJJVEFMIFNUQVRVUyBNQVJSSUVELCAzIENISUxEUkVODQoNCg0KQUREUkVTUyAyNzAgVkFOIE5PU1RSQU5EIEFWRU5VRQ0KDQoNCkVOR0xFV09PRCwgTi4gSS4gMDc2MzENCg0KDQpFRFVRSUlJT04NCg0KDQpDT0xVTUJJQSBDT0xMRUdFIDE5NTUtMTk1OSwgQS4gQi4sIDE5NTkNCg0KDQpQSS1JMSBCRVRBIEtBUFBBLCBTVU1NQSBDVU0gTEFVREUNCg0KDQpQUklOQ0VUT04gVU5JVkVSU0lUWSAxOTU5LTE5NjIgTS5BLiAxOTYxDQoNCg0KUEguIEQuIChNQVRIRU1BVElDUykgMTk2Mg0KDQoNCk5BVElPTkFMIFNDSUVOQ0UgRk9VTkRBVElPTiBGRUxMT1cgMTk1OS0xOTYyDQoNCg0KV09PRFJPVyBXSUxTT04gRkVMTE9XIChIT05PUkFSWSkgMTk1OS0xOTYwDQoNCg0KU1RFVkVOUyBJTlNUSVRVVEUgT0YgVEVDSE5PTE9HWSAxOTg0LTE5ODUsDQoNCg0KTVMuIChDT01QVVRFUiBTQ0lFTkNFKSAxOTg2DQoNCg0KWUVTSElWQSBVTklWRVJTSVRZDQoNCg0KUkVTRUFSQ0ggQVNTT0NJQVRFIDE5NjItMTk2Mw0KDQoNClJVVEdFUlMgVU5JVkVSU0lUWSAoTkVXIEJSVU5TV0lDSykNCg0KDQpBU1NJU1RBTlQgUFJPRkVTU09SIDE5NjMtMTk2Ng0KDQoNCkhVTlRFUiBDT0xMRUdFICggQ0lUWSBVTklWRVJTSVRZIE9GIE4uWS4pDQoNCg0KQVNTT0NJQVRFIFBST0ZFU1NPUiAxOTk2LTE5NjgNCg0KDQpSVVRHRVJTIFVOSVZFUlNJVFkgKE5FV0FSSykNCg0KDQpBU1NPQ0lBVEUgUFJPRkVTU09SIDE5NjgtUFJFU0VOVA0KDQoNCg0KDQoNCjAyLzEwLzIwMDEgMDkzMDMgRkFYDQoNCg0KU0VSVklRRSBUMCBSVVRHRVJTIFVOSVZFUlNJVFkNCg0KDQogb296cy9vbzQNCg0KDQpDSEFJUiwgREVQQVJUTUVOVCBPRiBNQVRIRU1BVElDUyAxOTc2LTE5ODINCg0KDQpVTkRFUkdSQURVQVRFIFBST0dSQU0gRElSRUNUT1INCg0KDQpERVBBUlRNRU5UIE9GIE1BVEhFTUFUSUNTIEFORCBDT01QVVRFUiBTQ0lFTkNFIDE5OTEtMjAwMg0KDQoNClNFTklPUiBDRVJUSUZJRVIsIFRSQU5TRkVSIEVWQUxVQVRPUiAxOTkxLTIwMDINCg0KDQpNRU1CRVIsIEpPSU5UIFJVLU5KSVQgQ09NTUlUVEVFIE9WRVJTRUVJTkcgMTk4OS0xOTk2LCAxOTk3LVBSRVNFTlQNCg0KDQpDT01QVVRFUiBTQ0lFTkNFIFBST0dSQU0NCg0KDQpSVVRHRVJTIE9CU0VSVkVSIFRPIE5KSVQgVU5ERVJHUkFEVUFURSBDT01QVVRFUiAxOTg5LVBSRVNFTlQNCg0KDQpTQ0lFTkNFIENVUlJJQ1VMVU0gQ08gDQoNCg0KUkVDRU5UIENPTExFR0UgQ09NTUlUVEVFIE1FTUJFUlNISVBTDQoNCg0KTUVNQkVSLCBTQ0hPTEFTVElDIFNUQU5ESU5HIENPTU1JVFRFRQ0KDQoNCk1FTUJFUiwgQ09NTUlUVEVFIE9OIFJFVklFVw0KDQoNClRSRUFTVVJFUi9TRUNSRVRBUlkgUEhJIEJFVEEgS0FQUEEtQUxQSEENCg0KDQoxIDk5NC0xIDk5Nw0KDQoNCjEgOTk0LTEgOTk2LA0KDQoNCjEgOTk5LTIwMDANCg0KDQoxOTg3LVBSRVNFTlQNCg0KDQpGQUNVTFRZIEFEVklTT1IgSkVXSVNIIFNUVURFTlQgT1JHQU5JWkFUSU9OIDE5OTktMjAwMA0KDQoNCkZBQ1VMVFkgQURWSVNPUiBSVVRHRVJTIENIRVNTIENMVUIgMjAwMC1QUkVTRU5UDQoNCg0KTUVNQkVSLCBVTklWRVJTSVRZIFNFTkFURSAxOTk1flBSRVNFTlQNCg0KDQpTUEVDSUFMIEFELUhPQyBVTklWRVJTSVRZIENPTU1JVFRFRSAxOTk2LVBSRVNFTlQNCg0KDQpPTiBQTEFDRU1FTlQgVEVTVElORw0KDQoNCk1FTUJFUiwgTkVXQVJLIEZBQ1VMVFkgQ09VTkNJTA0KDQoNCkFNRVJJQ0FOIEFTU09DSUFUSU9OIE9GIFVOSVZFUlNJVFkgUFJPRkVTU09SUw0KDQoNCk1FTUJFUiwgRVhFQ1VUSVZFIENPVU5DSUwNCg0KDQpUUkVBU1VSRVINCg0KDQpWSUNFIFBSRVNJREVOVA0KDQoNCkNPTkdSRUdBVElPTiBTSE9NUkVJIEVNVU5BSS1JLCBFTkdMRVdPT0QNCg0KDQpQUkVTSURFTlQNCg0KDQpUUkVBU1VSRVINCg0KDQpNRU1CRVIsIEJPQVJEIE9GIERJUkVDVE9SUw0KDQoNCk1PUklBSCBTQ0hPT0wgT0YgRU5HTEVXT09EDQoNCg0KTUVNQkVSLCBCT0FSRCBPRiBUUlVTVEVFUw0KDQoNCk1FTUJFUiwgQk9BUkQgT0YgT1ZFUlNFRVJTDQoNCg0KMjAwMSAtUFJFIFNFTlQNCg0KDQoxIDk4NC1QUkVTRU5UDQoNCg0KMSA5OTctMjAwMQ0KDQoNCjIwMCAxIC1QUkUgU0VOVA0KDQoNCjE5OTEtMTk5NA0KDQoNCjE5ODgtMTk5MQ0KDQoNCjE5ODUtUFJFU0VOVA0KDQoNCjEgOTc5LTEgOTg5DQoNCg0KMTk4OS1QUkVTRU5UDQoNCg0KDQoNCg0KMDJmJzEwLzIwMDEgMDggSSAwMyBGQVgNCg0KDQoxMjEwMDQvMDA0DQoNCg0KUFVCTElRQVRJT05RDQoNCg0KIkxPQ0FMIFRJTUVTIEZPUiBBIENMQVNTIE9GIE1BUktPRlAgUFJPQ0VTU0VTIiwNCg0KDQooMTk2NCkgUFAgMTktMzkuDQoNCg0KIk1VTFRJUExFIChzLHMpIFBPTElDSUVTIiwNCg0KDQogKCAxOTY0ICkgUFAgMzk5LTQwOQ0KDQoNCiJFWElTVEVOQ0UgQU5EIFVOSVFVRU5FU1MgVDEtTEVPUkVNUyBGT1IgVEhFIE9QVElNQUwgSU5WRU5UT1JZDQoNCg0KRVFVQVQxT04nPSwNCg0KDQooMTk2NikgUFAgOTYxLTk2OS4NCg0KDQoiTVVMVElQTEUgKFMscykgUE9MSUNJRVMgQU5EIFRIRSBOLVBFUklPRCBJTlZFTlRPUlkgUFJPQkxFTSIsDQoNCg0KKDE5NjcpIFBQIDE5Ni0yMDQuDQoNCg0KIlNUQUJJTElUWSBUSEVPUkVNUyBGT1IgU09MVVRJT05TIFRPIFRIRSBPUFRJTUFMIElOVkVOVE9SWSBFUVVBVElPTiINCg0KDQogLCAoMTk2OSkgUFAgMjExLTIxNw0KDQoNCiJGVVJUSEVSIEVYSVNURU5DRSBUSEVPUkVNUyBGT1IgVEhFIE9QVElNQUwgSU5WRU5UT1JZIEVRVUFUSU9OIiwNCg0KDQpMQVBMUFJRRSwgKDE5NzApIFBQIDQ2OS00NzINCg0KDQoiRVFVSUNPTlZFUkdFTkNFIE9GIE1BUlRdTkdBTEJTIiwNCg0KDQooMTk3MSkgUFAgNTUyLTU1OQ0KDQoNCiJPTiBTT01FIFBPTElDWSBJU1NVRVMgUkFJU0VEIEJZICcNCg0KDQpJTiDCsCBDSFVSQ0hNQU4gQU5EIE1BU09OIChFRFMuKQ0KDQoNCkVMU0lWRVIgTk9SVEgtSE9MTEFORCAoIE5FVyBZT1JLKSBQUCA2Ny03Mg0KDQoNCiJPTiBQUk9QRVJUSUVTIE9GIFNURUFEWSBTVEFURSBNRUFTVVJFUyBGT1IgT05FLVNFQ1RPUiBHUk9XVEgNCg0KDQpNT0RFTFMiDQoNCg0KKDE5NzYpIFBQIDc4Mi03ODUNCg0KDQoiRVhJU1RCTkNFIEFORCBVTklRVUUtTkVTUyBUSS1JRU9SRU1TIEZPUiBUSS1JRS4gT1BUSU1BTCBJTlZFTlRPUlkNCg0KDQpFUVVBVElPTjogVEhFIEJBQ0tMT0dHSU5HIENBU0UiDQoNCg0KKDE5NzcpIFBQIDYyNS02MzcNCg0KDQoiT04gVEhFIEFWT0lEQU5DRSBPRiBFWFRJTkNUSU9OIElOIE9ORS1TRUNUT1IgR1JPV1RIIE1PREVMUyINCg0KDQpfICgxOTc5KVBQIDI3Ni0yNzkNCg0KDQoiVEhFIENISU5FU0UgQ1VMVFVSQUwgU1RZTEUgT0YgV0FSRkFSRSINCg0KDQooIDE5ODIpIFBQIDM0MS0zNjQNCg0KDQpOVU1FUk9VUyBSRVZJRVdTIElOIEFORA==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912121306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

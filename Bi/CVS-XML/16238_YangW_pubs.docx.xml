@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:44 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914230306521"  usageLimitType="allocation" usageLimit="200" currentUsage="58" remainingUsage="142" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Weidong Yang</FormattedName>
+<GivenName>Weidong</GivenName>
+<FamilyName>Yang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Wang</Municipality>
+<DeliveryAddress>
+<AddressLine>10. Mi L. Xiong R. Zhang Y. Li Z. Yang W. Chen J.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (109) 732-67331</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>109</AreaCityCode>
+<SubscriberNumber>732-67331</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>(http://www.jove.com/index/Details.stp?ID=2040).</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<PersonDescriptors>
+<DemographicDescriptors>
+<MaritalStatus>Single</MaritalStatus>
+</DemographicDescriptors>
+</PersonDescriptors>
+<Qualifications>
+<Competency name = "Data General Nova">
+<CompetencyEvidence name ="Data General Nova">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Distribution">
+<CompetencyEvidence name ="Distribution">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Imaging">
+<CompetencyEvidence name ="Imaging">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Proc">
+<CompetencyEvidence name ="Proc">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Wang">
+<CompetencyEvidence name ="Wang">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>V2VpZG9uZyBZYW5nDQoNCg0KDQoxMy5NYSBKLiwgR29yeWF5bm92IEEuLCBTYXJtYSBBLiBhbmQgWWFuZyBXLiAoMjAxMikgU2VsZi1SZWd1bGF0ZWQgVmlzY291cyBDaGFubmVsIGluIHRoZSBOdWNsZWFyIFBvcmUgQ29tcGxleCwgUHJvYy4gTmF0bC4gQWNhZCBTY2kuIFVTQSwgMTA5ICwgNzMyNi03MzMxLg0KDQoNCg0KMTIuIEdvcnlheW5vdiBBLiwgTWEgSi4gYW5kIFlhbmcgVy4gKDIwMTIpIFNpbmdsZS1Nb2xlY3VsZSBTdHVkaWVzIG9mIE51Y2xlYXIgVHJhbnNwb3J0OiBmcm9tIE9uZSBEaW1lbnNpb24gdG8gVGhyZWUgRGltZW5zaW9ucywgSW50ZWdyYXRpdmUgQmlvbG9neSAoQ292ZXIpLCA0LCAxMC0yMS4NCg0KDQoNCjExLiBTYXJtYSBBLiBhbmQgWWFuZyBXLiAoMjAxMSkgQ2FsY2l1bS1SZWd1bGF0aW9uIG9mIE51Y2xlb2N5dG9wbGFzbWljIFRyYW5zcG9ydCwgUHJvdGVpbiAmIENlbGwsIDI6MjkxLTMwMi4NCg0KDQoNCjEwLiBNaSBMLiwgWGlvbmcgUi4sIFpoYW5nIFkuLCBMaSBaLiwgWWFuZyBXLiwgQ2hlbiBKLiwgV2FuZyBQLiAoMjAxMSkgTWljcm9zY29waWMgT2JzZXJ2YXRpb24gb2YgdGhlIEludGVyY2VsbHVsYXIgVHJhbnNwb3J0IG9mIENkVGUgUXVhbnR1bSBEb3QgQWdncmVnYXRlcyBUaHJvdWdoIFR1bm5lbGluZy1OYW5vdHViZXMuIEpCTkIsIDIsIDE3Mi0xNzkuDQoNCg0KDQo5LiBZYW5nIFcuICgyMDExKSAnJ05hdGl2ZWx5IFVuZm9sZGVkJycgTnVjbGVvcG9yaW5zIGluIE51Y2xlb2N5dG9wbGFzbWljIFRyYW5zcG9ydDogQ2x1c3RlcmVkIG9yIEV2ZW5seSBEaXN0cmlidXRlZD8gTnVjbGV1cywgMiwgMTAtMTYuDQoNCg0KDQo4LiBHb3J5YXlub3YgQS4sIFNhcm1hIEEsIE1hIEouIGFuZCBZYW5nIFcuICgyMDEwKSBTaW5nbGUtTW9sZWN1bGUgSW1hZ2luZyBvZiBOdWNsZWFyIFRyYW5zcG9ydCwgSi4gVmlzLiAgIEV4cC4gKGh0dHA6Ly93d3cuam92ZS5jb20vaW5kZXgvRGV0YWlscy5zdHA/SUQ9MjA0MCkuDQoNCg0KDQo3LiBNYSBKLiBhbmQgWWFuZyBXLiAoMjAxMCkgVGhyZWUtRGltZW5zaW9uYWwgRGlzdHJpYnV0aW9uIG9mIFRyYW5zaWVudCBJbnRlcmFjdGlvbnMgaW4gdGhlIE51Y2xlYXIgUG9yZSBPYnRhaW5lZCBieSBTaW5nbGUtTW9sZWN1bGUgU25hcHNob3RzLCBQcm9jLiBOYXRsLiBBY2FkLiBTY2kuIFVTQSwgMTA3LCA3MzA1LTczMTAuDQoNCg0KDQo2LiBTdW4sIEMuLCBZYW5nLCBXLiwgVHUsIEwuLUMuIGFuZCBNdXNzZXIsIFMuIE0uICgyMDA4KSAiU2luZ2xlIE1vbGVjdWxlIE1lYXN1cmVtZW50cyBvZiBJbXBvcnRpbiBBbHBoYS9DYXJnbyBDb21wbGV4IERpc3NvY2lhdGlvbiBhdCB0aGUgTnVjbGVhciBQb3JlLCIgUHJvYy4gTmF0bC4gQWNhZC4gU2NpLiBVU0EsIDEwNSwgODYxMy04NjE4LiANCg0KDQoNCkJlZm9yZSAyMDA3DQoNCg0KDQo1LiBZYW5nIFcuIGFuZCBNdXNzZXIgTS4gUy4gKDIwMDYpICJOdWNsZWFyIHRyYW5zcG9ydCB0aW1lIGFuZCBlZmZpY2llbmN5IGFyZSBkZXBlbmRlbnQgb24gaW1wb3J0aW4gIGNvbmNlbnRyYXRpb25zIiBKb3VybmFsIG9mIENlbGwgQmlvbG9neSwgMTc0LCA5NTEtOTYxLg0KDQoNCg0KNC4gWWFuZyBXLiBhbmQgTXVzc2VyIE0uIFMuICgyMDA2KSAiVmlzdWFsaXppbmcgc2luZ2xlIG1vbGVjdWxlcyB0cmFuc2l0aW5nIHRocm91Z2ggbnVjbGVhciBwb3JlIGNvbXBsZXhlcyB1c2luZyBuYXJyb3ctZmllbGQgZXBpZmx1b3Jlc2NlbmNlIG1pY3Jvc2NvcHkiIE1ldGhvZHMsIDM5LCAzMTYtMzI4Lg0KDQoNCg0KMy4gWWFuZyBXLiwgR2VsbGVzIEouIGFuZCBNdXNzZXIgTS4gUy4gKDIwMDQpICJJbWFnaW5nIG9mIHNpbmdsZS1tb2xlY3VsZSB0cmFuc2xvY2F0aW9uIHRocm91Z2ggbnVjbGVhciBwb3JlIGNvbXBsZXhlcyIgUHJvYy4gTmF0bC4gQWNhZC4gU2NpLiBVU0EsIDEwMSwgMTI4ODctMTI4OTIuDQoNCg0KDQoyLiBXYW5nIFAuIE4uLCBZYW5nIFcuLCBldCBhbC4gKDIwMDQpICJQaG90b2x1bWluZXNjZW5jZSBmcm9tIEhpZ2ggUHVyaXR5IEluTiBhbmQgSW5HYU4gTmFub3BhcnRpY2xlcyBTeW50aGVzaXplZCBieSBQdWxzZWQgRGlzY2hhcmdlIiBpbiBGb2N1cyBvbiBOYW5vdGVjaG5vbG9neSBSZXNlYXJjaCwgRXVnZW5lIFYuIERpcm90ZSAoRWRpdG9yKSwgTm92YSBTY2llbmNlIFB1Ymxpc2hlci4gQ2hhcHRlciA4LCAxNTUtMTcyLg0KDQoNCg0KMS4gWWFuZyBXLiwgV2FuZyBQLk4uLCBMaSBGLk0uIGFuZCBDaGVhaCBLLlcuICgyMDAyKSAiU3ludGhlc2lzIG9mIG94eWdlbi1mcmVlIEluTiBuYW5vcGFydGljbGVzIGJ5IHB1bHNlIGRpc2NoYXJnZSIuIE5hbm90ZWNobm9sb2d5LCAxMywgNjUtNjgu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914230306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

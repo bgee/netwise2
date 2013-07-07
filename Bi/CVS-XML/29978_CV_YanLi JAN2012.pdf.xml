@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:26 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916450306521"  usageLimitType="allocation" usageLimit="200" currentUsage="84" remainingUsage="116" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Li Yan</FormattedName>
+<GivenName>Li</GivenName>
+<FamilyName>Yan</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>76019-0408</PostalCode>
+<Region>TX</Region>
+<Municipality>Arlington</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>business</Use>
+<Location>office</Location>
+<WhenAvailable>daytime</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (817) 272-5683</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>817</AreaCityCode>
+<SubscriberNumber>272-5683</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Fax>
+<FormattedNumber>+1 (817) 272-5802</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>817</AreaCityCode>
+<SubscriberNumber>272-5802</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>liyanna@uta.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>The University of Texas</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Faculty</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Mathematics Arlington Adjunct Faculty
+</Description>
+<StartDate>
+<AnyDate>2008-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UT Southwestern Medical Center</EmployerOrgName>
+<PositionHistory>
+<Title>Research Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>College Park</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>the Department of Clinical Science at the Joint Program for Survey
+</Description>
+<StartDate>
+<AnyDate>2010-09-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Maryland</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>College Park</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Methodology (JPSM)
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Statistician at the Office of Research and Methodology</EmployerOrgName>
+<PositionHistory>
+<Title>Research and Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Hyattsville</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>National Center for Health Statistics
+</Description>
+<StartDate>
+<AnyDate>2003-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>JPSM</EmployerOrgName>
+<PositionHistory>
+<Title>University of Maryland</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MD</Region>
+<Municipality>Rockville</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Statistician, WESTAT
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Curriculum Vitae of Yan Li</EmployerOrgName>
+<PositionHistory>
+<Title>Research and Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>NE</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>1 at the Department of Lincoln
+</Description>
+<StartDate>
+<AnyDate>2002-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Nebraska-Lincoln</EmployerOrgName>
+<PositionHistory>
+<Title>Mathematics and Statistics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>NE</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>RESEARCH INTERESTS: Health survey and case-control data analysis under complex sample designs Statistical genetics Genetic association study Gene-environment interactions Missing data methods Survival analysis of cohort studies and Collaborative biomedical research. GRANT SUPPORT
+</Description>
+<StartDate>
+<AnyDate>2001-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Single PI</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$142,230 &quot;SNP-based pseudo-semiparametric inference for the case-control studies, &quot; NIH- U01CA159424, National Institute of Health
+</Description>
+<StartDate>
+<AnyDate>2011-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Co-PI</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>(with PI Romero in Bio-Engineering) $2,195,054 &quot;Cellular and molecular contributions to signal instability in peripheral regenerative neurointerfaces, &quot; DARPA-BAA-10-32, Department of Energy, Defense Advanced Research Projects Agency
+</Description>
+<StartDate>
+<AnyDate>2010-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>(with PI Chen in Biostatistics) $35,091
+</Description>
+<StartDate>
+<AnyDate>2010-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>&quot;Statistical Methods in Genetic Epidemiology Research</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot; NIH-5R01ES016626
+</Description>
+<StartDate>
+<AnyDate>2010-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Institute of Health</EmployerOrgName>
+<PositionHistory>
+<Title>Single PI</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$7,100, &quot;Statistical Analyses of Gene-Environment Interactions, &quot; Research Enhancement Program, The University of Texas at Arlington
+</Description>
+<StartDate>
+<AnyDate>2009-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Maryland</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>College Park</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2006-12-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Barry Graubard</Name>
+</DegreeMajor>
+<Comments>Thesis Topic: Analysis of Complex Survey Data Using Model-Based and Model-Assisted Methods Research Advisor: Prof. Partha Lahiri</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Maryland</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2002-12-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Survey Methodology</Name>
+</DegreeMajor>
+<Comments>Thesis Topic: Analysis of Complex Survey Data Using Model-Based and Model-Assisted Methods Research Advisor: Prof. Partha Lahiri</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>China Agricultural University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>China</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>2000-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Statistics</Name>
+</DegreeMajor>
+<Comments>Thesis Topic: Model-Based Small Area Estimation with an Application in Agriculture Research Advisor: Prof. Partha Lahiri</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>National Academy of Science</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>CN</CountryCode>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1997-07-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Member</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Beijing Institute of Technology</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>China</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Computer Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Beijing Institute of Technology</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Juan Levesque</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Piecewise Exponential Survival Times and Analysis of Case-Cohort Data</Title>
+<Name role="author">
+<FormattedName>Y. Li, M.H. Gail, D.L. Preston, B.I. Graubard, and J.H. Lubin</FormattedName>
+</Name>
+<JournalOrSerialName>Published/Accepted Peer-Reviewed Journal Paper 1</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Regression Analysis with Block Missing Values and Variables Selection</Title>
+<Name role="author">
+<FormattedName>C.P. Han and Y. Li</FormattedName>
+</Name>
+<JournalOrSerialName>Pakistan Journal of Statistics and Operation Research 3</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Symptoms in West Africans</Title>
+</Article>
+<Article>
+<Title>Smoothed percentage body fat percentiles: US children and adolescents 1999-2004</Title>
+<Name role="author">
+<FormattedName>C.L. Ogden, Y. Li, D.S. Freedman, L. Borrud, and K.M. Flegal</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>National Health Statistics Reports</JournalOrSerialName>
+<PageNumber>1-7.</PageNumber>
+</Article>
+<Article>
+<Title>Testing for Hardy Weinberg Equilibrium in National Household Surveys that Collect Family-Based Genetic Data</Title>
+<Name role="author">
+<FormattedName>Y. Li and B.I. Graubard</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Annuals of Human Genetics</JournalOrSerialName>
+<PageNumber>732-41.</PageNumber>
+</Article>
+<Article>
+<Title>&quot;Blood lead levels</Title>
+<Name role="author">
+<FormattedName>D.M. van Bemmel, Y. Li, J. McLean, M.H. Chang, N.F. Dowling, B.I. Graubard, P. Rajaraman</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>ALAD gene polymorphisms and mortality</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Weighting methods for population-based case-control study</Title>
+<Name role="author">
+<FormattedName>Y. Li, B.I. Graubard, and R. DiGaetano</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>JRSS C</JournalOrSerialName>
+<PageNumber>165-185.</PageNumber>
+</Article>
+<Article>
+<Title>Active and biomimetic nanofilters for selective protein separation</Title>
+<Name role="author">
+<FormattedName>S. Goyal, Y.T. Kim, Y. Li and S.M. Iqbal</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Curriculum Vitae of Yan Li 9</Title>
+<Name role="author">
+<FormattedName>N. Chatterjee and Y. Li</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Inference in semi-parametric regression models under partial questionnaire design and non-monotone missing data Journal of the American Statistical Association</JournalOrSerialName>
+<Volume>2</Volume>
+</Article>
+<Article>
+<Title>Methods</Title>
+<Name role="author">
+<FormattedName>Theory and</FormattedName>
+</Name>
+<JournalOrSerialName>Y. Li B.I</JournalOrSerialName>
+</Article>
+<Article>
+<Title>percentile curves from survey data</Title>
+<JournalOrSerialName>Statistics in Medicine</JournalOrSerialName>
+<PageNumber>558-572.</PageNumber>
+</Article>
+<Article>
+<Title>Trend test for genetic association populationbased case-control study with complex survey data</Title>
+<Name role="author">
+<FormattedName>D. She, Y. Li, H. Zhang, B.I. Graubard, and Z. Li</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Biostatistics</JournalOrSerialName>
+<PageNumber>48-56.</PageNumber>
+</Article>
+<Article>
+<Title>A new alternative to the standard F test in regression analysis for clustered data</Title>
+<Name role="author">
+<FormattedName>P. Lahiri and Y. Li</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Statistical Planning and Inference</JournalOrSerialName>
+<PageNumber>3430-41.</PageNumber>
+</Article>
+<Article>
+<Title>Testing Hardy-Weinberg Equilibrium and Homogeneity of Hardy- Weinberg Disequilibrium using Complex Survey Data</Title>
+<Name role="author">
+<FormattedName>Y. Li and B.I. Graubard</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Biometrics</JournalOrSerialName>
+<PageNumber>1096-104.</PageNumber>
+</Article>
+<Article>
+<Title>Assessment of lifetime cumulative sun exposure using a self-administered questionnaire: reliability of two approaches</Title>
+<Name role="author">
+<FormattedName>C.L. Yu, Y. Li, D.M. Freedman, M.S. Linet, R.K. Kwok, B.H. Alexander, B.K. Armstrong, and T.R. Fears</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Cancer Epidemiology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Effect modification of endocrine disruptors and testicular germ cell tumor risk by hormone-metabolizing genes</Title>
+<Name role="author">
+<FormattedName>V.M. Chia, Y. Li, S.M. Quraishi, B.I. Graubard, J.D. Figueroa, J.P. Weber, S.J. Chanock, M.V. Rubertone, R.L. Erickson, K.A. McGlynn</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>International Journal of Andrology</JournalOrSerialName>
+<PageNumber>588-96.</PageNumber>
+</Article>
+<Article>
+<Title>control study in Sicily</Title>
+<JournalOrSerialName>Cancer Epidemiology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of Cancer</Title>
+<JournalOrSerialName>controls, International Journal</JournalOrSerialName>
+<PageNumber>952-7.</PageNumber>
+</Article>
+<Article>
+<Title>Generalized regression estimators of a finite population total using the Box-Cox technique</Title>
+<Name role="author">
+<FormattedName>Y. Li</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Biomedical Industry">
+<CompetencyEvidence name ="Biomedical Industry" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "C/C++ Programming Languages">
+<CompetencyEvidence name ="C/C++ Programming Languages">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Cellular">
+<CompetencyEvidence name ="Cellular" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Data Analysis">
+<CompetencyEvidence name ="Data Analysis" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "FORTRAN">
+<CompetencyEvidence name ="FORTRAN">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Gauss">
+<CompetencyEvidence name ="Gauss">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "HyperText Markup Language">
+<CompetencyEvidence name ="HyperText Markup Language">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Matlab">
+<CompetencyEvidence name ="Matlab">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Programming">
+<CompetencyEvidence name ="Programming">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "SAS">
+<CompetencyEvidence name ="SAS">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Statistics">
+<CompetencyEvidence name ="Statistics" lastUsed="2005-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Visual Basic">
+<CompetencyEvidence name ="Visual Basic">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>Travel Award to Eastern North American Region Workshop for Junior Investigators</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>Division of Cancer Epidemiology and Genetics (DCEG) Fellows Award for Research Excellence</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>One of the Six Best Submitted Papers for European Association of Methodology Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>Washington Statistical Society Outstanding Graduate Student Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>Travel Award to the Ninth Meeting of New Researchers in Statistics and Probability</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01 - 2006-01-01</StringDate></Date>
+<Description>Winner of Joint Statistical Meetings (JSM) Student Paper Competition</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-01-01</StringDate></Date>
+<Description>Travel Award to JSM</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2004-01-01</StringDate></Date>
+<Description>Outstanding Work Performance Award from National Center for Health Statistics (NCHS)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-01-01</StringDate></Date>
+<Description>Outstanding Work Performance Award from NCHS</Description>
+</Achievement>
+<Achievement>
+<Description>Eastern North American Region/International Biometric Society International Chinese Statistical Association</Description>
+</Achievement>
+<Achievement>
+<Description>COURSES TAUGHT Statistical Inference (graduate) University of Texas at Arlington Instructor. Class size - about 10</Description>
+</Achievement>
+<Achievement>
+<Description>students. Responsibilities: lectures office hours 4 exams per semester Statistical Methods for Clinical Studies (graduate) University of Texas at Arlington Instructor. Class</Description>
+</Achievement>
+<Achievement>
+<Description>size - 6 students. Responsibilities: lectures office hours 1 exam per semester Sample Surveys (graduate) University of Texas at Arlington Instructor. Class size - about 10</Description>
+</Achievement>
+<Achievement>
+<Description>students. Responsibilities: lectures office hours 3 exams per semester Sampling Theory (graduate)</Description>
+</Achievement>
+<Achievement>
+<Description>University of Maryland at College Park Teaching assistant. Class size about 15 students. Responsibilities: recitations office hours composing and grading quizzes home</Description>
+</Achievement>
+<Achievement>
+<Description>works and exams Mathematical Statistics I (undergraduate and graduate) University of Texas at Arlington Instructor</Description>
+</Achievement>
+<Achievement>
+<Description>Class size - about 15 students. Responsibilities: lectures office hours 3 exams per semester Mathematical Statistics II (graduate) University of Texas at Arlington Instructor. Class size - 6</Description>
+</Achievement>
+<Achievement>
+<Description>students. Responsibilities: lectures office hours 3 exams per semester Statistical Theory for Engineering Research (graduate) University of Texas at Arlington Instructor</Description>
+</Achievement>
+<Achievement>
+<Description>Class size - about 15 students. Responsibilities: lectures office hours 3 exams per semester Statistical Methods (undergraduate) University of Texas at Arlington Instructor. Class size - about 40</Description>
+</Achievement>
+<Achievement>
+<Description>students. Responsibilities: lectures office hours 4 exams per semester </Description>
+</Achievement>
+<Achievement>
+<Description>Curriculum Vitae of Yan Li Calculus I (undergraduate) University of Nebraska at Lincoln Teaching assistant. Class size - about</Description>
+</Achievement>
+<Achievement>
+<Description>35 students. Responsibilities: recitations office hours composing and grading quizzes home works and exams</Description>
+</Achievement>
+<Achievement>
+<Description>SELECTED LIST OF PRESENTATIONS Abstract and Invited Talk: Semi-parametric Pseudo-Maximum-Likelihood Estimation Exploiting Gene</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-07-01</StringDate></Date>
+<Description>Environment Independence for Population-Based Case-Control Studies with Complex Sampling</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-07-01</StringDate></Date>
+<Description>IMS-China International Conference on Statistics and Probability XiAn China. * Abstract and Invited Talk: Semi-parametric Pseudo-Maximum-Likelihood Estimation Exploiting Gene</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-06-01</StringDate></Date>
+<Description>Environment Independence for Population-Based Case-Control Studies with Complex Sampling</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-06-01 - 2011-01-01</StringDate></Date>
+<Description>International Chinese Statistical Association Applied Statistics Symposium New York. * Abstract and Invited Talk: Pseudo-Semiparametric Inference of Gene-Environment Interactions for</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-08-01</StringDate></Date>
+<Description>Population-Based Case-Control Studies with Complex Sampling Joint Statistical Meeting</Description>
+</Achievement>
+<Achievement>
+<Description>Vancouver British Columbia Canada Abstract and Invited Talk: Weighting Methods for Population-Based Case-Control Study with Complex</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-08-01</StringDate></Date>
+<Description>Sampling Joint Statistical Meeting Washington D.C. * Abstract and Contributed Talk: Application of nonparametric percentile regression of body mass index</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-03-01</StringDate></Date>
+<Description>percentile curves from survey data Conference by Eastern North American</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-08-01</StringDate></Date>
+<Description>Region/International Biometric Society San Antonia TX  * Abstract and Invited Talk: Testing Hardy-Weinberg Equilibrium (HWE) and Homogeneity of Hardy Weinberg Disequilibrium (HHWD) Using Complex Survey Data</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2008-06-01</StringDate></Date>
+<Description>JSM Denver Colorado  * Abstract and Contributed Talk: Application of nonparametric percentile regression of body mass index percentile curves from survey data</Description>
+</Achievement>
+<Achievement>
+<Description>WNAR/IMS meeting Davis CA CURRENT PH.D STUDENTS</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>MEMBERSHIP IN PROFESSIONAL ORGANIZATIONS American Statistical Association</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q3VycmljdWx1bSBWaXRhZSBvZiBZYW4gTGkNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDVVJSSUNVTFVNIFZJVEFFDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWWFuIExpLCAwMS8yMDEyDQoNCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18NCg0KRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGVsOiAoODE3KSAyNzItNTY4MyAoTykNCg0KVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24gICAgICAgICAgICAgICAgICAgICAgRmF4OiAoODE3KSAyNzItNTgwMg0KDQpQLk8uIEJveCAxOTQwOCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFbWFpbDogbGl5YW5uYUB1dGEuZWR1DQoNCkFybGluZ3RvbiwgVFggNzYwMTktMDQwOCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVSTDogaHR0cDovL29tZWdhLnV0YS5lZHUvfmxpeWFubmEvDQoNCg0KDQpFRFVDQVRJT04vVFJBSU5JTkc6DQoNCiAgRGVjLiAyMDA2LUp1bHkuIDIwMDgNCg0KICBQb3N0RG9jLCBCaW9zdGF0aXN0aWNzIEJyYW5jaCwgRGl2aXNpb24gb2YgQ2FuY2VyIEVwaWRlbWlvbG9neSBhbmQgR2VuZXRpY3MsIE5DSSwgTklIDQoNCiAgRmllbGQgb2YgU3R1ZHk6IFN1cnZleSBTdGF0aXN0aWNzIGFuZCBCaW9zdGF0aXN0aWNzDQoNCiAgTWVudG9yOiBEci4gQmFycnkgR3JhdWJhcmQNCg0KDQoNCiAgIEphbi4gMjAwMy1EZWMuIDIwMDYNCg0KICAgUGguRC4sIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQsIENvbGxlZ2UgUGFyaw0KDQogICBNYWpvcjogU3VydmV5IE1ldGhvZG9sb2d5DQoNCiAgIFRoZXNpcyBUb3BpYzogQW5hbHlzaXMgb2YgQ29tcGxleCBTdXJ2ZXkgRGF0YSBVc2luZyBNb2RlbC1CYXNlZCBhbmQgTW9kZWwtQXNzaXN0ZWQgTWV0aG9kcw0KDQogICBSZXNlYXJjaCBBZHZpc29yOiBQcm9mLiBQYXJ0aGEgTGFoaXJpDQoNCg0KDQogICBBdWcuIDIwMDEtRGVjLiAyMDAyDQoNCiAgIE0uUy4sIFVuaXZlcnNpdHkgb2YgTmVicmFza2EtTGluY29sbg0KDQogICBNYWpvcjogU3RhdGlzdGljcw0KDQogICBUaGVzaXMgVG9waWM6IE1vZGVsLUJhc2VkIFNtYWxsIEFyZWEgRXN0aW1hdGlvbiB3aXRoIGFuIEFwcGxpY2F0aW9uIGluIEFncmljdWx0dXJlDQoNCiAgIFJlc2VhcmNoIEFkdmlzb3I6IFByb2YuIFBhcnRoYSBMYWhpcmkNCg0KDQoNCiAgIFNlcC4gMTk5Ny1KdWwuIDIwMDANCg0KICAgTS5TLiwgQ2hpbmEgQWdyaWN1bHR1cmFsIFVuaXZlcnNpdHksIENoaW5hDQoNCiAgIE1ham9yOiBBbmltYWwgR2VuZXRpY3MgYW5kIEJyZWVkaW5nDQoNCiAgIFJlc2VhcmNoIEFkdmlzb3I6IFByb2YuIENoYW5neGluIFd1IChNZW1iZXIsIE5hdGlvbmFsIEFjYWRlbXkgb2YgU2NpZW5jZSBpbiBDaGluYSkNCg0KDQoNCiAgIFNlcC4gMTk5My1KdWwuIDE5OTcNCg0KICAgQi5TLiwgQmVpamluZyBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgQ2hpbmENCg0KICAgTWFqb3I6IENvbXB1dGVyIFNjaWVuY2UNCg0KDQoNClBST0ZFU1NJT05BTCBFWFBFUklFTkNFOg0KDQogIEFzc2lzdGFudCBQcm9mZXNzb3IgYXQgdGhlIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MsDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXJsaW5ndG9uLCBUWCwgMDkvMjAwOSAtIHByZXNlbnQNCg0KICBUaGUgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24NCg0KDQoNCiAgIFZpc2l0aW5nIEFzc2lzdGFudCBQcm9mZXNzb3IgYXQgdGhlIERlcGFydG1lbnQgb2YNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBcmxpbmd0b24sIFRYLCAwOS8yMDA4IC0gMDgvMjAwOQ0KDQogICBNYXRoZW1hdGljcywgVGhlIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgQXJsaW5ndG9uDQoNCg0KDQogICBBZGp1bmN0IEZhY3VsdHkgYXQgdGhlIERlcGFydG1lbnQgb2YgQ2xpbmljYWwgU2NpZW5jZSwNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYWxsYXMsIFRYLCAwOS8yMDEwIC0gcHJlc2VudA0KDQogICBVVCBTb3V0aHdlc3Rlcm4gTWVkaWNhbCBDZW50ZXINCg0KDQoNCiAgIFJlc2VhcmNoIEFzc2lzdGFudCBhdCB0aGUgSm9pbnQgUHJvZ3JhbSBmb3IgU3VydmV5DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVnZSBQYXJrLCBNRCwgMDEvMjAwNSAtIDEwLzIwMDYNCg0KICAgTWV0aG9kb2xvZ3kgKEpQU00pLCBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kDQoNCg0KDQogICBTdGF0aXN0aWNpYW4gYXQgdGhlIE9mZmljZSBvZiBSZXNlYXJjaCBhbmQgTWV0aG9kb2xvZ3ksDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSHlhdHRzdmlsbGUsIE1ELCAwNy8yMDAzIC0gMDgvMjAwNQ0KDQogICBOYXRpb25hbCBDZW50ZXIgZm9yIEhlYWx0aCBTdGF0aXN0aWNzDQoNCg0KDQogICBSZXNlYXJjaCBhbmQgVGVhY2hpbmcgQXNzaXN0YW50IGF0IEpQU00sDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVnZSBQYXJrLCBNRCwgMDEvMjAwMyAtIDA3LzIwMDMNCg0KICAgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZA0KDQoNCg0KICAgU3RhdGlzdGljaWFuLCBXRVNUQVQNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSb2NrdmlsbGUsIE1ELCAwOC8yMDAyLTEyLzIwMDINCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YWUgb2YgWWFuIExpDQoNCg0KDQogICBSZXNlYXJjaCBhbmQgVGVhY2hpbmcgQXNzaXN0YW50IGF0IHRoZSBEZXBhcnRtZW50IG9mDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMaW5jb2xuLCBORSwgMDgvMjAwMS0wOC8yMDAyDQoNCiAgIE1hdGhlbWF0aWNzIGFuZCBTdGF0aXN0aWNzLCBVbml2ZXJzaXR5IG9mIE5lYnJhc2thLUxpbmNvbG4NCg0KDQoNClJFU0VBUkNIIElOVEVSRVNUUzoNCg0KICBIZWFsdGggc3VydmV5IGFuZCBjYXNlLWNvbnRyb2wgZGF0YSBhbmFseXNpcyB1bmRlciBjb21wbGV4IHNhbXBsZSBkZXNpZ25zOyBTdGF0aXN0aWNhbCBnZW5ldGljczsgR2VuZXRpYw0KDQogIGFzc29jaWF0aW9uIHN0dWR5OyBHZW5lLWVudmlyb25tZW50IGludGVyYWN0aW9uczsgTWlzc2luZyBkYXRhIG1ldGhvZHM7IFN1cnZpdmFsIGFuYWx5c2lzIG9mIGNvaG9ydA0KDQogIHN0dWRpZXM7IGFuZCBDb2xsYWJvcmF0aXZlIGJpb21lZGljYWwgcmVzZWFyY2guDQoNCg0KDQpHUkFOVCBTVVBQT1JUDQoNCiAgU2luZ2xlIFBJLCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkMTQyLDIzMCwNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAwOS8yMDExIC0gMDgvMjAxMw0KDQogICJTTlAtYmFzZWQgcHNldWRvLXNlbWlwYXJhbWV0cmljIGluZmVyZW5jZSBmb3IgdGhlIGNhc2UtY29udHJvbCBzdHVkaWVzLCIgTklILQ0KDQogIFUwMUNBMTU5NDI0LCBOYXRpb25hbCBJbnN0aXR1dGUgb2YgSGVhbHRoDQoNCg0KDQogICBDby1QSSAod2l0aCBQSSBSb21lcm8gaW4gQmlvLUVuZ2luZWVyaW5nKSwgICAgICAgJDIsMTk1LDA1NCwNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMS8yMDEwIC0gMTAvMjAxMw0KDQogICAiQ2VsbHVsYXIgYW5kIG1vbGVjdWxhciBjb250cmlidXRpb25zIHRvIHNpZ25hbCBpbnN0YWJpbGl0eSBpbiBwZXJpcGhlcmFsIHJlZ2VuZXJhdGl2ZQ0KDQogICBuZXVyb2ludGVyZmFjZXMsIiBEQVJQQS1CQUEtMTAtMzIsIERlcGFydG1lbnQgb2YgRW5lcmd5LCBEZWZlbnNlIEFkdmFuY2VkDQoNCiAgIFJlc2VhcmNoIFByb2plY3RzIEFnZW5jeQ0KDQoNCg0KICAgQ28tUEkgKHdpdGggUEkgQ2hlbiBpbiBCaW9zdGF0aXN0aWNzKSwgICAgICAgICQzNSwwOTEsDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMDQvMjAxMCAtIDAzLzIwMTINCg0KICAgIlN0YXRpc3RpY2FsIE1ldGhvZHMgaW4gR2VuZXRpYyBFcGlkZW1pb2xvZ3kgUmVzZWFyY2gsIiBOSUgtNVIwMUVTMDE2NjI2LA0KDQogICBOYXRpb25hbCBJbnN0aXR1dGUgb2YgSGVhbHRoDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMDUvMjAwOSAtIDA4LzIwMTANCg0KICAgU2luZ2xlIFBJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkNywxMDAsDQoNCiAgICJTdGF0aXN0aWNhbCBBbmFseXNlcyBvZiBHZW5lLUVudmlyb25tZW50IEludGVyYWN0aW9ucywiIFJlc2VhcmNoIEVuaGFuY2VtZW50DQoNCiAgIFByb2dyYW0sIFRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEFybGluZ3Rvbg0KDQoNCg0KUFVCTElDQVRJT05TDQoNClB1Ymxpc2hlZC9BY2NlcHRlZCBQZWVyLVJldmlld2VkIEpvdXJuYWwgUGFwZXINCg0KIDEuIFkuIExpLCBNLkguIEdhaWwsIEQuTC4gUHJlc3RvbiwgQi5JLiBHcmF1YmFyZCwgYW5kIEouSC4gTHViaW4uIFBpZWNld2lzZSBFeHBvbmVudGlhbCBTdXJ2aXZhbCBUaW1lcyBhbmQNCg0KICAgIEFuYWx5c2lzIG9mIENhc2UtQ29ob3J0IERhdGEuIFN0YXRpc3RpY3MgaW4gTWVkaWNpbmUgKGFjY2VwdGVkKS4NCg0KDQoNCiAyLiBDLlAuIEhhbiBhbmQgWS4gTGkuIFJlZ3Jlc3Npb24gQW5hbHlzaXMgd2l0aCBCbG9jayBNaXNzaW5nIFZhbHVlcyBhbmQgVmFyaWFibGVzIFNlbGVjdGlvbi4gUGFraXN0YW4NCg0KICAgIEpvdXJuYWwgb2YgU3RhdGlzdGljcyBhbmQgT3BlcmF0aW9uIFJlc2VhcmNoIChhY2NlcHRlZCkuDQoNCg0KDQogMy4gQS5QLiBDaG9ra2FsaW5nYW0sIEUuRC4gWWVib2FoLCBBLiBEZU1hcnpvLCBHLiBOZXR0bywgSy4gWXUsIFIuQi4gQmlyaXR3dW0sIFkuIFRldHRleSwgQS4gQWRqZWksIFMuDQoNCiAgICBKYWRhbGxhaCwgRS4gUGxhdHosIFkuIExpLCBMLlcuIENodSwgRC4gQ2hpYSwgUy4gTml3YSwgQS4gUGFydGluLCBJLk0uIFRob21wc29uLCBDbGF1cyBSb2VocmJvcm44LA0KDQogICAgUm9iZXJ0IE4uIEhvb3ZlcjQsIEEuVy4gSHNpbmcuIFByZXZhbGVuY2Ugb2YgQmVuaWduIFByb3N0YXRpYyBIeXBlcnBsYXNpYSBhbmQgTG93ZXIgVXJpbmFyeSBUcmFjdA0KDQogICAgU3ltcHRvbXMgaW4gV2VzdCBBZnJpY2Fucy4gUHJvc3RhdGUgQ2FuY2VyIGFuZCBQcm9zdGF0aWMgRGlzZWFzZXMgKGFjY2VwdGVkKS4NCg0KDQoNCiA0LiBDLkwuIE9nZGVuLCBZLiBMaSwgRC5TLiBGcmVlZG1hbiwgTC4gQm9ycnVkLCBhbmQgSy5NLiBGbGVnYWwgKDIwMTEpLiBTbW9vdGhlZCBwZXJjZW50YWdlIGJvZHkgZmF0DQoNCiAgICBwZXJjZW50aWxlczogVVMgY2hpbGRyZW4gYW5kIGFkb2xlc2NlbnRzLCAxOTk5LTIwMDQuIE5hdGlvbmFsIEhlYWx0aCBTdGF0aXN0aWNzIFJlcG9ydHMsIDQzLCAxLTcuDQoNCg0KDQogNS4gWS4gTGkgYW5kIEIuSS4gR3JhdWJhcmQgKDIwMTEpLCBUZXN0aW5nIGZvciBIYXJkeSBXZWluYmVyZyBFcXVpbGlicml1bSBpbiBOYXRpb25hbCBIb3VzZWhvbGQgU3VydmV5cw0KDQogICAgdGhhdCBDb2xsZWN0IEZhbWlseS1CYXNlZCBHZW5ldGljIERhdGEuIEFubnVhbHMgb2YgSHVtYW4gR2VuZXRpY3MsIDc1LCA3MzItNDEuDQoNCg0KDQogNi4gRC5NLiB2YW4gQmVtbWVsLCBZLiBMaSwgSi4gTWNMZWFuLCBNLkguIENoYW5nLCBOLkYuIERvd2xpbmcsIEIuSS4gR3JhdWJhcmQsIFAuIFJhamFyYW1hbiAoMjAxMSksDQoNCiAgICAiQmxvb2QgbGVhZCBsZXZlbHMsIEFMQUQgZ2VuZSBwb2x5bW9ycGhpc21zLCBhbmQgbW9ydGFsaXR5LiBFcGlkZW1pb2xvZ3ksIDIyLCAyNzMtOC4NCg0KDQoNCiA3LiBZLiBMaSwgQi5JLiBHcmF1YmFyZCwgYW5kIFIuIERpR2FldGFubyAoMjAxMCksIFdlaWdodGluZyBtZXRob2RzIGZvciBwb3B1bGF0aW9uLWJhc2VkIGNhc2UtY29udHJvbA0KDQogICAgc3R1ZHkuIEpSU1MgQywgNjAgMTY1LTE4NS4NCg0KDQoNCiA4LiBTLiBHb3lhbCwgWS5ULiBLaW0sIFkuIExpIGFuZCBTLk0uIElxYmFsICgyMDEwKSwgQWN0aXZlIGFuZCBiaW9taW1ldGljIG5hbm9maWx0ZXJzIGZvciBzZWxlY3RpdmUgcHJvdGVpbg0KDQogICAgc2VwYXJhdGlvbi4gQmlvbWVkLiBNaWNvcmRldmljZXMsIDEyLCAzMTctMzI0Lg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YWUgb2YgWWFuIExpDQoNCiA5LiBOLiBDaGF0dGVyamVlIGFuZCBZLiBMaSAoMjAxMCksIEluZmVyZW5jZSBpbiBzZW1pLXBhcmFtZXRyaWMgcmVncmVzc2lvbiBtb2RlbHMgdW5kZXIgcGFydGlhbA0KDQogICAgcXVlc3Rpb25uYWlyZSBkZXNpZ24gYW5kIG5vbi1tb25vdG9uZSBtaXNzaW5nIGRhdGEuIEpvdXJuYWwgb2YgdGhlIEFtZXJpY2FuIFN0YXRpc3RpY2FsIEFzc29jaWF0aW9uLA0KDQogICAgVGhlb3J5IGFuZCBNZXRob2RzLCAxMDUsIDc4Ny03OTcuDQoNCg0KDQogMTAuIFkuIExpLCBCLkkuIEdyYXViYXJkLCBhbmQgRS5MLiBLb3JuICgyMDEwKSwgQXBwbGljYXRpb24gb2Ygbm9ucGFyYW1ldHJpYyBxdWFudGlsZSByZWdyZXNzaW9uIHRvIGJvZHkgbWFzcw0KDQogICAgIHBlcmNlbnRpbGUgY3VydmVzIGZyb20gc3VydmV5IGRhdGEuIFN0YXRpc3RpY3MgaW4gTWVkaWNpbmUsIDI5LCA1NTgtNTcyLg0KDQoNCg0KIDExLiBELiBTaGUsIFkuIExpLCBILiBaaGFuZywgQi5JLiBHcmF1YmFyZCwgYW5kIFouIExpICgyMDEwKSwgVHJlbmQgdGVzdCBmb3IgZ2VuZXRpYyBhc3NvY2lhdGlvbg0KDQogICAgIHBvcHVsYXRpb25iYXNlZCBjYXNlLWNvbnRyb2wgc3R1ZHkgd2l0aCBjb21wbGV4IHN1cnZleSBkYXRhLiBCaW9zdGF0aXN0aWNzLCAxMSwgNDgtNTYuDQoNCg0KDQogMTIuIFAuIExhaGlyaSBhbmQgWS4gTGkgKDIwMDkpLCBBIG5ldyBhbHRlcm5hdGl2ZSB0byB0aGUgc3RhbmRhcmQgRiB0ZXN0IGluIHJlZ3Jlc3Npb24gYW5hbHlzaXMgZm9yIGNsdXN0ZXJlZA0KDQogICAgIGRhdGEuIFN0YXRpc3RpY2FsIFBsYW5uaW5nIGFuZCBJbmZlcmVuY2UsIDEzOSwgMzQzMC00MS4NCg0KDQoNCiAxMy4gWS4gTGkgYW5kIEIuSS4gR3JhdWJhcmQgKDIwMDkpLCBUZXN0aW5nIEhhcmR5LVdlaW5iZXJnIEVxdWlsaWJyaXVtIGFuZCBIb21vZ2VuZWl0eSBvZiBIYXJkeS0NCg0KICAgICBXZWluYmVyZyBEaXNlcXVpbGlicml1bSB1c2luZyBDb21wbGV4IFN1cnZleSBEYXRhLCBCaW9tZXRyaWNzLCA2NSwgMTA5Ni0xMDQuDQoNCg0KDQogMTQuIEMuTC4gWXUsIFkuIExpLCBELk0uIEZyZWVkbWFuLCBNLlMuIExpbmV0LCBSLksuIEt3b2ssIEIuSC4gQWxleGFuZGVyLCBCLksuIEFybXN0cm9uZywgYW5kIFQuUi4gRmVhcnMNCg0KICAgICAoMjAwOSksIEFzc2Vzc21lbnQgb2YgbGlmZXRpbWUgY3VtdWxhdGl2ZSBzdW4gZXhwb3N1cmUgdXNpbmcgYSBzZWxmLWFkbWluaXN0ZXJlZCBxdWVzdGlvbm5haXJlOg0KDQogICAgIHJlbGlhYmlsaXR5IG9mIHR3byBhcHByb2FjaGVzLCBDYW5jZXIgRXBpZGVtaW9sb2d5LCBCaW9tYXJrZXJzICYgUHJldmVudGlvbiwgMTgsIDQ2NC03MS4NCg0KDQoNCiAxNS4gVi5NLiBDaGlhLCBZLiBMaSwgUy5NLiBRdXJhaXNoaSwgQi5JLiBHcmF1YmFyZCwgSi5ELiBGaWd1ZXJvYSwgSi5QLiBXZWJlciwgUy5KLiBDaGFub2NrLCBNLlYuIFJ1YmVydG9uZSwNCg0KICAgICBSLkwuIEVyaWNrc29uLCBLLkEuIE1jR2x5bm4gKDIwMDkpLiBFZmZlY3QgbW9kaWZpY2F0aW9uIG9mIGVuZG9jcmluZSBkaXNydXB0b3JzIGFuZCB0ZXN0aWN1bGFyIGdlcm0gY2VsbA0KDQogICAgIHR1bW9yIHJpc2sgYnkgaG9ybW9uZS1tZXRhYm9saXppbmcgZ2VuZXMuIEludGVybmF0aW9uYWwgSm91cm5hbCBvZiBBbmRyb2xvZ3ksIDMzLCA1ODgtOTYuDQoNCg0KDQogMTYuIEwuQS4gQW5kZXJzb24sIEMuIExhdXJpYSwgTi4gUm9tYW5vLCBFLkUuIEJyb3duLCBELiBXaGl0YnksIEIuSS4gR3JhdWJhcmQsIFkuIExpLCBBLiBNZXNzaW5hLCBMLiBHYWZmYSwNCg0KICAgICBGLiBWaXRhbGUsIEouSi4gR29lZGVydCAoMjAwOSksIFJpc2sgZmFjdG9ycyBmb3IgY2xhc3NpY2FsIEthcG9zaSBTYXJjb21hIGluIGEgcG9wdWxhdGlvbi1iYXNlZCBjYXNlLQ0KDQogICAgIGNvbnRyb2wgc3R1ZHkgaW4gU2ljaWx5LCBDYW5jZXIgRXBpZGVtaW9sb2d5LCBCaW9tYXJrZXJzICYgUHJldmVudGlvbiwgMTcsIDM0MzUtNDMuDQoNCg0KDQogMTcuIFYuTS4gQ2hpYSwgWS4gTGksIEwuUi4gR29sZGluLCBCLkkuIEdyYXViYXJkLCBNLkguIEdyZWVuZSwgTC4gS29yZGUsIE0uVi4gUnViZXJ0b25lLCBSLkwuIEVyaWNrc29uLCBLLkEuDQoNCiAgICAgTWNHbHlubiAoMjAwOSksIFJpc2sgb2YgY2FuY2VyIGluIGZpcnN0LSBhbmQgc2Vjb25kLWRlZ3JlZSByZWxhdGl2ZXMgb2YgdGVzdGljdWxhciBnZXJtIGNlbGwgdHVtb3IgY2FzZXMNCg0KICAgICBhbmQgY29udHJvbHMsIEludGVybmF0aW9uYWwgSm91cm5hbCBvZiBDYW5jZXIsIDEyNCwgOTUyLTcuDQoNCg0KDQogMTguIFkuIExpICgyMDA4KSwgR2VuZXJhbGl6ZWQgcmVncmVzc2lvbiBlc3RpbWF0b3JzIG9mIGEgZmluaXRlIHBvcHVsYXRpb24gdG90YWwgdXNpbmcgdGhlIEJveC1Db3ggdGVjaG5pcXVlLA0KDQogICAgIFN1cnZleSBNZXRob2RvbG9neSwgMzQsIDc5LTg5Lg0KDQoNCg0KIDE5LiBMLkUuIEtlbGVtZW4sIFMuUy4gV2FuZywgVS4gTGltLCBXLiBDb3plbiwgTS4gU2NoZW5rLCBQLiBIYXJ0Z2UsIFkuIExpLCBOLiBSb3RobWFuLCBTLiBEYXZpcywgUy5KLg0KDQogICAgIENoYW5vY2ssIE0uSC4gV2FyZCwgSi5SLiBDZXJoYW4gKDIwMDgpLCBWZWdldGFibGVzIGFuZCBhbnRpb3hpZGFudC1yZWxhdGVkIG51dHJpZW50cywgZ2VuZXRpYw0KDQogICAgIHN1c2NlcHRpYmlsaXR5IGFuZCBub24tSG9kZ2tpbiBseW1waG9tYSByaXNrLCBDYW5jZXIgQ2F1c2VzIGFuZCBDb250cm9sLCAxOSwgNDkxLTUwMy4NCg0KDQoNCiAyMC4gTC5BLiBBbmRlcnNvbiwgWS4gTGksIEIuSS4gR3JhdWJhcmQsIEQuIFdoaXRieSwgRy4gTWJpc2EsIFMuIFRhbiwgSi5KLiBHb2VkZXJ0LCBFLkEuIEVuZ2VscyAoMjAwOCksDQoNCiAgICAgSHVtYW4gaGVycGVzdmlydXMgOCBpbmZlY3Rpb24gYW1vbmcgY2hpbGRyZW4gYW5kIGFkb2xlc2NlbnRzIGluIHRoZSBVbml0ZWQgU3RhdGVzLCBQZWRpYXRyaWMgSW5mZWN0aW91cw0KDQogICAgIERpc2Vhc2VzIEpvdXJuYWwsIDI3LCA2NjEtNjY0Lg0KDQoNCg0KIDIxLiBZLiBMaSBhbmQgUC4gTGFoaXJpICgyMDA3KSwgUm9idXN0IG1vZGVsLWJhc2VkIHByZWRpY3RvciBvZiB0aGUgZmluaXRlIHBvcHVsYXRpb24gdG90YWxzLCBKb3VybmFsIG9mIHRoZQ0KDQogICAgIEFtZXJpY2FuIFN0YXRpc3RpY2FsIEFzc29jaWF0aW9uLCBUaGVvcnkgYW5kIE1ldGhvZHMsIDEwMiwgNjY0LTczLg0KDQoNCg0KIDIyLiBNLlAuIFB1cmR1ZSwgUC4gSGFydGdlLCBTLiBEYXZpcywgSi5SLiBDZXJoYW4sIEouUy4gQ29sdCwgVy4gQ296ZW4sIFIuSy4gU2V2ZXJzb24sIFkuIExpLCBTLkouIENoYW5vY2ssDQoNCiAgICAgTi4gUm90aG1hbiwgUy5TLiBXYW5nICgyMDA3KSwgU3VuIGV4cG9zdXJlLCB2aXRhbWluIEQgcmVjZXB0b3IgZ2VuZSBwb2x5bW9ycGhpc21zIGFuZCByaXNrIG9mIG5vbi0NCg0KICAgICBIb2Rna2luIGx5bXBob21hLCBDYW5jZXIgQ2F1c2VzIGFuZCBDb250cm9sLCAxOCwgOTg5LTk5Lg0KDQoNCg0KU3VibWl0dGVkDQoNCiAyMy4gRC5ZLiBMaW4gYW5kIFkuIExpLiBIYXBsb3R5cGUtQmFzZWQgU3RhdGlzdGljYWwgSW5mZXJlbmNlIGZvciBQb3B1bGF0aW9uLUJhc2VkIENhc2UtQ29udHJvbCBTdHVkaWVzIHdpdGgNCg0KICAgICBDb21wbGV4IFNhbXBsZSBEZXNpZ25zLg0KDQoNCg0KDQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhZSBvZiBZYW4gTGkNCg0KIDI0LiBILkEuIEthdGtpLCBZLiBMaSwgYW5kIFAuRS4gQ2FzdGxlLiBFc3RpbWF0aW5nIHRoZSBhZ3JlZW1lbnQgYW5kIGRpYWdub3N0aWMgYWNjdXJhY3kgb2YgdHdvIGRpYWdub3N0aWMNCg0KICAgICB0ZXN0cyB3aGVuIG9uZSB0ZXN0IGlzIGNvbmR1Y3RlZCBvbiBvbmx5IGEgc3Vic2FtcGxlIG9mIHNwZWNpbWVucy4NCg0KDQoNCiAyNS4gUy5KLiBOeWFudGUsIEIuSS4gR3JhdWJhcmQsIFkuIExpLCBHLk0uIE1jUXVpbGxhbiwgRS5BLiBQbGF0eiwgUy4gUm9ocm1hbm4sIEcuIEJyYWR3aW4sIEQuQS4gTWNHbHlubi4NCg0KICAgICBUcmVuZHMgaW4gc2V4IGhvcm1vbmUgY29uY2VudHJhdGlvbnMgaW4gVS5TLiBtYWxlczogMTk4OC0xOTkxIHRvIDE5OTktMjAwNC4NCg0KDQoNCiAyNi4gWS4gTGkgYW5kIEIuSS4gR3JhdWJhcmQuIFByb2ZpbGUgc2VtaS1wYXJhbWV0cmljIG1heGltdW0gbGlrZWxpaG9vZCBlc3RpbWF0aW9uIG9mIGdlbmUtZW52aXJvbm1lbnQNCg0KICAgICBpbnRlcmFjdGlvbiB1c2luZyBwb3B1bGF0aW9uLWJhc2VkIGNhc2UtY29udHJvbCBzdHVkeSB3aXRoIHByb2JhYmlsaXR5IHNhbXBsaW5nLg0KDQoNCg0KIDI3LiBELiBTaGUsIEguIFpoYW5nLCBZLiBMaSwgQi5JLiBHcmF1YmFyZCwgYW5kIFouIExpLiBGYW1pbHkgQmFzZWQgQXNzb2NpYXRpb24gU3R1ZHkgd2l0aCBDb21wbGV4IFN1cnZleQ0KDQogICAgIERhdGEuDQoNCg0KDQpIT05PUlMgQU5EIEFXQVJEUzoNCg0KICAyMDA5IFRyYXZlbCBBd2FyZCB0byBFYXN0ZXJuIE5vcnRoIEFtZXJpY2FuIFJlZ2lvbiBXb3Jrc2hvcCBmb3IgSnVuaW9yIEludmVzdGlnYXRvcnMNCg0KICAyMDA3IERpdmlzaW9uIG9mIENhbmNlciBFcGlkZW1pb2xvZ3kgYW5kIEdlbmV0aWNzIChEQ0VHKSBGZWxsb3dzIEF3YXJkIGZvciBSZXNlYXJjaCBFeGNlbGxlbmNlDQoNCiAgMjAwNiBPbmUgb2YgdGhlIFNpeCBCZXN0IFN1Ym1pdHRlZCBQYXBlcnMgZm9yIEV1cm9wZWFuIEFzc29jaWF0aW9uIG9mIE1ldGhvZG9sb2d5IEF3YXJkDQoNCiAgMjAwNiBXYXNoaW5ndG9uIFN0YXRpc3RpY2FsIFNvY2lldHkgT3V0c3RhbmRpbmcgR3JhZHVhdGUgU3R1ZGVudCBBd2FyZA0KDQogIDIwMDYgVHJhdmVsIEF3YXJkIHRvIHRoZSBOaW50aCBNZWV0aW5nIG9mIE5ldyBSZXNlYXJjaGVycyBpbiBTdGF0aXN0aWNzIGFuZCBQcm9iYWJpbGl0eQ0KDQogIDIwMDYgV2lubmVyIG9mIDIwMDYgSm9pbnQgU3RhdGlzdGljYWwgTWVldGluZ3MgKEpTTSkgU3R1ZGVudCBQYXBlciBDb21wZXRpdGlvbg0KDQogIDIwMDUgVHJhdmVsIEF3YXJkIHRvIEpTTQ0KDQogIDIwMDQgT3V0c3RhbmRpbmcgV29yayBQZXJmb3JtYW5jZSBBd2FyZCBmcm9tIE5hdGlvbmFsIENlbnRlciBmb3IgSGVhbHRoIFN0YXRpc3RpY3MgKE5DSFMpDQoNCiAgMjAwMyBPdXRzdGFuZGluZyBXb3JrIFBlcmZvcm1hbmNlIEF3YXJkIGZyb20gTkNIUw0KDQoNCg0KTUVNQkVSU0hJUCBJTiBQUk9GRVNTSU9OQUwgT1JHQU5JWkFUSU9OUzoNCg0KICAqIEFtZXJpY2FuIFN0YXRpc3RpY2FsIEFzc29jaWF0aW9uDQoNCiAgKiBFYXN0ZXJuIE5vcnRoIEFtZXJpY2FuIFJlZ2lvbi9JbnRlcm5hdGlvbmFsIEJpb21ldHJpYyBTb2NpZXR5DQoNCiAgKiBJbnRlcm5hdGlvbmFsIENoaW5lc2UgU3RhdGlzdGljYWwgQXNzb2NpYXRpb24NCg0KDQoNCkNPVVJTRVMgVEFVR0hUOg0KDQogICogU3RhdGlzdGljYWwgSW5mZXJlbmNlIChncmFkdWF0ZSksIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgQXJsaW5ndG9uLCBJbnN0cnVjdG9yLiBDbGFzcyBzaXplIC0gYWJvdXQgMTANCg0KICAgIHN0dWRlbnRzLiBSZXNwb25zaWJpbGl0aWVzOiBsZWN0dXJlcywgb2ZmaWNlIGhvdXJzLCA0IGV4YW1zIHBlciBzZW1lc3Rlci4NCg0KDQoNCiAgKiAgICBTdGF0aXN0aWNhbCBNZXRob2RzIGZvciBDbGluaWNhbCBTdHVkaWVzIChncmFkdWF0ZSksIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgQXJsaW5ndG9uLCBJbnN0cnVjdG9yLiBDbGFzcw0KDQogICAgICAgc2l6ZSAtIDYgc3R1ZGVudHMuIFJlc3BvbnNpYmlsaXRpZXM6IGxlY3R1cmVzLCBvZmZpY2UgaG91cnMsIDEgZXhhbSBwZXIgc2VtZXN0ZXIuDQoNCg0KDQogICogICAgU2FtcGxlIFN1cnZleXMgKGdyYWR1YXRlKSwgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24sIEluc3RydWN0b3IuIENsYXNzIHNpemUgLSBhYm91dCAxMA0KDQogICAgICAgc3R1ZGVudHMuIFJlc3BvbnNpYmlsaXRpZXM6IGxlY3R1cmVzLCBvZmZpY2UgaG91cnMsIDMgZXhhbXMgcGVyIHNlbWVzdGVyLg0KDQoNCg0KICAqICAgIFNhbXBsaW5nIFRoZW9yeSAoZ3JhZHVhdGUpLCBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kIGF0IENvbGxlZ2UgUGFyaywgVGVhY2hpbmcgYXNzaXN0YW50LiBDbGFzcyBzaXplIC0NCg0KICAgICAgIGFib3V0IDE1IHN0dWRlbnRzLiBSZXNwb25zaWJpbGl0aWVzOiByZWNpdGF0aW9ucywgb2ZmaWNlIGhvdXJzLCBjb21wb3NpbmcgYW5kIGdyYWRpbmcgcXVpenplcywgaG9tZQ0KDQogICAgICAgd29ya3MgYW5kIGV4YW1zLg0KDQoNCg0KICAqICAgIE1hdGhlbWF0aWNhbCBTdGF0aXN0aWNzIEkgKHVuZGVyZ3JhZHVhdGUgYW5kIGdyYWR1YXRlKSwgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24sIEluc3RydWN0b3IuDQoNCiAgICAgICBDbGFzcyBzaXplIC0gYWJvdXQgMTUgc3R1ZGVudHMuIFJlc3BvbnNpYmlsaXRpZXM6IGxlY3R1cmVzLCBvZmZpY2UgaG91cnMsIDMgZXhhbXMgcGVyIHNlbWVzdGVyLg0KDQoNCg0KICAqICAgIE1hdGhlbWF0aWNhbCBTdGF0aXN0aWNzIElJIChncmFkdWF0ZSksIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgQXJsaW5ndG9uLCBJbnN0cnVjdG9yLiBDbGFzcyBzaXplIC0gNg0KDQogICAgICAgc3R1ZGVudHMuIFJlc3BvbnNpYmlsaXRpZXM6IGxlY3R1cmVzLCBvZmZpY2UgaG91cnMsIDMgZXhhbXMgcGVyIHNlbWVzdGVyLg0KDQoNCg0KICAqICAgIFN0YXRpc3RpY2FsIFRoZW9yeSBmb3IgRW5naW5lZXJpbmcgUmVzZWFyY2ggKGdyYWR1YXRlKSwgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24sIEluc3RydWN0b3IuDQoNCiAgICAgICBDbGFzcyBzaXplIC0gYWJvdXQgMTUgc3R1ZGVudHMuIFJlc3BvbnNpYmlsaXRpZXM6IGxlY3R1cmVzLCBvZmZpY2UgaG91cnMsIDMgZXhhbXMgcGVyIHNlbWVzdGVyLg0KDQoNCg0KICAqICAgIFN0YXRpc3RpY2FsIE1ldGhvZHMgKHVuZGVyZ3JhZHVhdGUpLCBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEFybGluZ3RvbiwgSW5zdHJ1Y3Rvci4gQ2xhc3Mgc2l6ZSAtIGFib3V0IDQwDQoNCiAgICAgICBzdHVkZW50cy4gUmVzcG9uc2liaWxpdGllczogbGVjdHVyZXMsIG9mZmljZSBob3VycywgNCBleGFtcyBwZXIgc2VtZXN0ZXIuDQoNCg0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ3VycmljdWx1bSBWaXRhZSBvZiBZYW4gTGkNCg0KICAqICAgIENhbGN1bHVzIEkgKHVuZGVyZ3JhZHVhdGUpLCBVbml2ZXJzaXR5IG9mIE5lYnJhc2thIGF0IExpbmNvbG4sIFRlYWNoaW5nIGFzc2lzdGFudC4gQ2xhc3Mgc2l6ZSAtIGFib3V0DQoNCiAgICAgICAzNSBzdHVkZW50cy4gUmVzcG9uc2liaWxpdGllczogcmVjaXRhdGlvbnMsIG9mZmljZSBob3VycywgY29tcG9zaW5nIGFuZCBncmFkaW5nIHF1aXp6ZXMsIGhvbWUgd29ya3MNCg0KICAgICAgIGFuZCBleGFtcy4NCg0KDQoNClNFTEVDVEVEIExJU1QgT0YgUFJFU0VOVEFUSU9OUw0KDQogICogIEFic3RyYWN0IGFuZCBJbnZpdGVkIFRhbGs6IFNlbWktcGFyYW1ldHJpYyBQc2V1ZG8tTWF4aW11bS1MaWtlbGlob29kIEVzdGltYXRpb24gRXhwbG9pdGluZyBHZW5lLQ0KDQogICAgIEVudmlyb25tZW50IEluZGVwZW5kZW5jZSBmb3IgUG9wdWxhdGlvbi1CYXNlZCBDYXNlLUNvbnRyb2wgU3R1ZGllcyB3aXRoIENvbXBsZXggU2FtcGxpbmcsDQoNCiAgICAgMDcvMjAxMSwgSU1TLUNoaW5hIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBTdGF0aXN0aWNzIGFuZCBQcm9iYWJpbGl0eSwgWGlBbiwgQ2hpbmEuDQoNCg0KDQogICogICAgQWJzdHJhY3QgYW5kIEludml0ZWQgVGFsazogU2VtaS1wYXJhbWV0cmljIFBzZXVkby1NYXhpbXVtLUxpa2VsaWhvb2QgRXN0aW1hdGlvbiBFeHBsb2l0aW5nIEdlbmUtDQoNCiAgICAgICBFbnZpcm9ubWVudCBJbmRlcGVuZGVuY2UgZm9yIFBvcHVsYXRpb24tQmFzZWQgQ2FzZS1Db250cm9sIFN0dWRpZXMgd2l0aCBDb21wbGV4IFNhbXBsaW5nLA0KDQogICAgICAgMDYvMjAxMSwgSW50ZXJuYXRpb25hbCBDaGluZXNlIFN0YXRpc3RpY2FsIEFzc29jaWF0aW9uIDIwMTEgQXBwbGllZCBTdGF0aXN0aWNzIFN5bXBvc2l1bSwgTmV3IFlvcmsuDQoNCg0KDQogICogICAgQWJzdHJhY3QgYW5kIEludml0ZWQgVGFsazogUHNldWRvLVNlbWlwYXJhbWV0cmljIEluZmVyZW5jZSBvZiBHZW5lLUVudmlyb25tZW50IEludGVyYWN0aW9ucyBmb3INCg0KICAgICAgIFBvcHVsYXRpb24tQmFzZWQgQ2FzZS1Db250cm9sIFN0dWRpZXMgd2l0aCBDb21wbGV4IFNhbXBsaW5nLCAwOC8yMDEwLCBKb2ludCBTdGF0aXN0aWNhbCBNZWV0aW5nLA0KDQogICAgICAgVmFuY291dmVyLCBCcml0aXNoIENvbHVtYmlhLCBDYW5hZGEuDQoNCg0KDQogICogICAgQWJzdHJhY3QgYW5kIEludml0ZWQgVGFsazogV2VpZ2h0aW5nIE1ldGhvZHMgZm9yIFBvcHVsYXRpb24tQmFzZWQgQ2FzZS1Db250cm9sIFN0dWR5IHdpdGggQ29tcGxleA0KDQogICAgICAgU2FtcGxpbmcsIDA4LzIwMDksIEpvaW50IFN0YXRpc3RpY2FsIE1lZXRpbmcsIFdhc2hpbmd0b24gRC5DLg0KDQoNCg0KICAqICAgIEFic3RyYWN0IGFuZCBDb250cmlidXRlZCBUYWxrOiBBcHBsaWNhdGlvbiBvZiBub25wYXJhbWV0cmljIHBlcmNlbnRpbGUgcmVncmVzc2lvbiBvZiBib2R5IG1hc3MgaW5kZXgNCg0KICAgICAgIHBlcmNlbnRpbGUgY3VydmVzIGZyb20gc3VydmV5IGRhdGEsIDAzLzIwMDksIENvbmZlcmVuY2UgYnkgRWFzdGVybiBOb3J0aCBBbWVyaWNhbg0KDQogICAgICAgUmVnaW9uL0ludGVybmF0aW9uYWwgQmlvbWV0cmljIFNvY2lldHksIFNhbiBBbnRvbmlhLCBUWC4NCg0KDQoNCiAgKiAgICBBYnN0cmFjdCBhbmQgSW52aXRlZCBUYWxrOiBUZXN0aW5nIEhhcmR5LVdlaW5iZXJnIEVxdWlsaWJyaXVtIChIV0UpIGFuZCBIb21vZ2VuZWl0eSBvZiBIYXJkeS0NCg0KICAgICAgIFdlaW5iZXJnIERpc2VxdWlsaWJyaXVtIChISFdEKSBVc2luZyBDb21wbGV4IFN1cnZleSBEYXRhLCAwOC8yMDA4LCBKU00sIERlbnZlciwgQ29sb3JhZG8uDQoNCg0KDQogICogICAgQWJzdHJhY3QgYW5kIENvbnRyaWJ1dGVkIFRhbGs6IEFwcGxpY2F0aW9uIG9mIG5vbnBhcmFtZXRyaWMgcGVyY2VudGlsZSByZWdyZXNzaW9uIG9mIGJvZHkgbWFzcyBpbmRleA0KDQogICAgICAgcGVyY2VudGlsZSBjdXJ2ZXMgZnJvbSBzdXJ2ZXkgZGF0YSwgMDYvMjAwOCwgV05BUi9JTVMgbWVldGluZywgRGF2aXMsIENBLg0KDQoNCg0KQ1VSUkVOVCBQSC5EIFNUVURFTlRTDQoNCiAgKiAgRGFveWluZyBMaW4sIFBoLkQuIGNhbmRpZGF0ZSwgZXhwZWN0ZWQgaW4gMjAxMw0KDQogICAgIERpc3NlcnRhdGlvbiBUaXRsZTogIlN0YXRpc3RpY2FsIE1ldGhvZHMgZm9yIFBvcHVsYXRpb24tQmFzZWQgQ2FzZS1Db250cm9sIFN0dWRpZXMgd2l0aCBDb21wbGV4DQoNCiAgICAgU2FtcGxpbmciDQoNCiAgKiAgV2lsbGlhbSBLZW5uZXksIFBoLkQuIGNhbmRpZGF0ZSwgZXhwZWN0ZWQgaW4gMjAxNQ0KDQogICAgIERpc3NlcnRhdGlvbiBUaXRsZTogIlN0YXRpc3RpY2FsIE1ldGhvZHMgZm9yIE5hdGlvbmFsIEdlbmV0aWMgSG91c2Vob2xkIFN1cnZleXMiDQoNCg0KDQpTVVBFUlZJU0VEIE1BU1RFUiBTVFVERU5UUw0KDQogICogIEZyZWQgVHNhaSwgTVMsIDIwMTEgRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcywgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24sIFRleGFzLg0KDQogICAgIFRoZXNpcyBUaXRsZTogIkNvbXBhcmlzb25zIGFtb25nIEhXRSB0ZXN0cyBmb3IgTmF0aW9uYWwgR2VuZXRpYyBIb3VzZWhvbGQgU3VydmV5cyINCg0KDQoNCkRJU1NFUlRBVElPTi9USEVTSVMgQ09NTUlUVEVFIE1FTUJFUlNISVANCg0KICAqICBUaG9tYXMgU2VhcXVpc3QsIFBoLkQuIGNvbW1pdHRlZSAoY2hhaXIgQW5kcnplaiBLb3J6ZW5pb3dza2kgaW4gTWF0aGVtYXRpY3MpDQoNCiAgKiAgS2F0c3VoaXJvIEl3YW8sIFBoLkQuIGNvbW1pdHRlZSBtZW1iZXIgKGNoYWlyIFNoYW4gU3VuLU1pdGNoZWxsIGluIE1hdGhlbWF0aWNzKQ0KDQogICogIERhcmluIEJyZXplYWxlLCBNYXN0ZXIgY29tbWl0dGVlIChjaGFpciBSZW4tQ2FuZyBMaSBpbiBNYXRoZW1hdGljcykNCg0KICAqICBBc2h3aW4gSy4gU2F0eWFsLCBNYXN0ZXIgY29tbWl0dGVlIChjaGFpciBDaGllbi1QYWkgSGFuIGluIE1hdGhlbWF0aWNzKQ0KDQogICogIFByaW5jZSBBbGJlcnQgTmZvZHpvLCBQaC5ELiBjb21taXR0ZWUgKGNoYWlyIEh5ZW9rIENob2kgaW4gQ2l2aWwgRW5naW5lZXJpbmcpDQoNCiAgKiAgSnVhbiBMZXZlc3F1ZSwgUGguRC4gY29tbWl0dGVlIChjaGFpciBKYW1lcyBHcm92ZXIgaW4gQmlvbG9neSkNCg0KDQoNClBST0ZFU1NJT05BTCBTRVJWSUNFDQoNCiAgKiAgTWVtYmVyIG9mIHRoZSBHcmFkdWF0ZSBBZmZhaXIgQ29tbWl0dGVlDQoNCiAgICAgRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcywgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24sIEZhbGwgMjAxMCwgRmFsbCAyMDExLXByZXNlbnQNCg0KICAqICBQcmVsaW0tQiAoU3RhdGlzdGljcykgZXhhbSBjb29yZGluYXRvci9ncmFkZXINCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDUNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEN1cnJpY3VsdW0gVml0YWUgb2YgWWFuIExpDQoNCiAgICAgIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MsIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgQXJsaW5ndG9uLCAyMDEwLXByZXNlbnQNCg0KICAqICAgUHJlbGltLUEgKExpbmVhciBBbGdlYnJhKSBncmFkZXINCg0KICAgICAgRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcywgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24sIFN1bW1lciAyMDEwDQoNCiAgKiAgIENoYWlyIG9mIHRoZSBBbWVyaWNhbiBTdGF0aXN0aWNhbCBBc3NvY2lhdGlvbiAoQVNBKSBDb250cmlidXRlZCBTZXNzaW9uIG9uIEVwaWRlbWlvbG9neSBkZXNpZ25zDQoNCiAgICAgIGJhc2VkIG9uIGNvbXBsZXggc3VydmV5IGRhdGEsIEpvaW50IFN0YXRpc3RpY2FsIE1lZXRpbmcgMjAxMA0KDQogICogICBSZXZpZXcgRWRpdG9yIG9mIHRoZSBqb3VybmFsIG9mIEZyb250aWVycyBpbiBHZW5ldGljcyBBcmNoaXRlY3R1cmUNCg0KICAqICAgUmVwcmVzZW50YXRpb24gb2YgdGhlIEFTQSBTdXJ2ZXkgUmVzZWFyY2ggTWV0aG9kcyBTZWN0aW9uIG9uIDIwMTIgRU5BUiBwcm9ncmFtIGNvbW1pdHRlZQ0KDQogICogICBOb21pbmVlIG9mIHRoZSBCaW9tZXRyaWNzIFNlY3Rpb24gUmVwcmVzZW50YXRpdmUgdG8gQVNBIENvdW5jaWwgb2YgU2VjdGlvbnMgUmVwcmVzZW50YXRpdmUgMjAxMy0xNQ0KDQogICogICBKb3VybmFsIFJldmlld2VyIGZvcjogVGhlIEpvdXJuYWwgb2YgQW1lcmljYW4gU3RhdGlzdGljYWwgQXNzb2NpYXRpb24sIEh1bWFuIEhlcmVkaXR5LCBBbWVyaWNhbg0KDQogICAgICBKb3VybmFsIG9mIEVwaWRlbWlvbG9neSwgU3RhdGlzdGljcyBpbiBNZWRpY2luZSwgQmlvbWV0cmljcywgRWNvbm9taWNzIGFuZCBIdW1hbiBCaW9sb2d5LA0KDQogICAgICBJbnRlcm5hdGlvbmFsIGpvdXJuYWwgb2YgZGF0YSBtaW5pbmcgYW5kIGJpb2luZm9ybWF0aWNzLCBTdGF0aXN0aWNzIGluIE1lZGljaW5lLCBQYWtpc3RhbiBKb3VybmFsIG9mDQoNCiAgICAgIFN0YXRpc3RpY3MgYW5kIE9wZXJhdGlvbiByZXNlYXJjaCwgQk1DIEdlbmV0aWNzLCBTdGF0aXN0aWNhbCBBcHBsaWNhdGlvbnMgaW4gR2VuZXRpY3MgYW5kIE1vbGVjdWxhcg0KDQogICAgICBCaW9sb2d5DQoNCg0KDQpBRERJVElPTkFMIElORk9STUFUSU9ODQoNCiAgKiAgIFByb2dyYW1taW5nIGV4cGVyaWVuY2UgaW4gQy9DKyssIE1hdGxhYiwgUiwgSFRNTCwgRm9ydHJhbiwgVmlzdWFsIEJhc2ljDQoNCiAgKiAgIE1hdGhlbWF0aWNhbC9TdGF0aXN0aWNhbCBQYWNrYWdlczogUi9TcGx1cywgU0FTLCBXaW5CVUdTLCBTVEFUQSwgR0FVU1MsIE1hdGhlbWF0aWNhDQoNCiAgKiAgIFVTIFBlcm1hbmVudCBSZXNpZGVudA0KDQoNCg0KDQoNCg0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA2</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916450306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:05:16 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912421306521"  usageLimitType="allocation" usageLimit="200" currentUsage="113" remainingUsage="87" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>William O. Martin</FormattedName>
+<GivenName>William</GivenName>
+<MiddleName>O.</MiddleName>
+<FamilyName>Martin</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>58108-6050</PostalCode>
+<Region>ND</Region>
+<Municipality>Fargo</Municipality>
+<DeliveryAddress>
+<PostOfficeBox>PO Box 6050</PostOfficeBox>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>business</Use>
+<Location>office</Location>
+<WhenAvailable>daytime</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (701) 231-7104</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>701</AreaCityCode>
+<SubscriberNumber>231-7104</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Fax>
+<FormattedNumber>+1 (701) 231-7416</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>701</AreaCityCode>
+<SubscriberNumber>231-7416</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>william.martin@ndsu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>NDSU School of Education</EmployerOrgName>
+<PositionHistory>
+<Title>Professor and Head</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NDSU School of Education</EmployerOrgName>
+<PositionHistory>
+<Title>Chair</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Interim Chair NDSU School of Education 2004-5
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NDSU Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Teacher Ed</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Teacher Ed</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UW-Madison Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Instructional Specialist UW - Madison College for Kids</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Madison Area Technical College</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Project Assistant UW - Madison Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UW-Madison Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Iowa</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>State University Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Secondary Teacher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1986-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1987-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Victorian Education Department</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Australia William O Martin Professional Objectives * Conduct research in undergraduate mathematics education * Promote reflective mathematics instruction in school and college that encourages student confidence, self- reliance, and responsibility for learning * Provide leadership in local, state, and national K-12 mathematics education * Strengthen ties between school and college mathematics and between mathematics and its client disciplines * Obtain funding to support these professional activities Current Research and Professional Activity Assessment: Current work, including work supported by grants, is in assessment in mathematics departments and in the development and implementation of assessment systems for units with programs in education. K-12 Professional Development: Work includes grant-funded projects that involve K-16 science and mathematics education, including extensively collaborative outreach activities working with science, mathematics and engineering faculty including tribal colleges and schools in ND. Learning Theory Research in Undergraduate Mathematics Education: Current work, supported by an NSF CCLI grant, investigates how coordinated study of learning theories in the specific context of of study of upper level undergraduate mathematics (linear algebra) affects preservice and inservice teacher understanding of both the mathematics content and the associated learning theory.
+</Description>
+<StartDate>
+<AnyDate>1975-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1985-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Axiomatic Geometry (undergrad/grad)</EmployerOrgName>
+<PositionHistory>
+<Title>Linear Algebra</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Mathematics
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>History of Mathematics (undergrad/grad)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University Calculus II (coordinator)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University Calculus</EmployerOrgName>
+<PositionHistory>
+<Title>I (coordinator)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Finite Mathematics (coordinator)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>I (coordinator)
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wisconsin-Madison</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph. D</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics Education</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wisconsin-Madison</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>MA</DegreeName>
+<DegreeDate>
+<AnyDate>1989-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Iowa State University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>with distinction</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>HS Teaching University of Northern Iowa</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BA</DegreeName>
+<DegreeDate>
+<AnyDate>1974-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Geography</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>CUNY Center</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>NY</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Linear Algebra Project workshop</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Assessment workshop for Eastern Kentucky University Department of Mathematics.</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>program review for Bemidji State University Department of</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>External Evaluator</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>CUNY Center</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>NY</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2014-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Linear Algebra Project workshop</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Paradise Valley Community College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Phoenix</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2-03-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>RUMEC Research Group Spring Working Meeting.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Georgia State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Atlanta</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Illinois State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Normal</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>6-10-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>RUMEC Research Group Fall Working Meeting.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>ND State of the Faculty conference. University of North Dakota</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Grand Forks</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeDate>
+<AnyDate>2016-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>ND Mathematics/Science Alliance executive and board meeting.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Organizer and presenter at GraSUS Summer Academy. NDSU</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Bismarck</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Co-organizer and presenter, MAA Project SAUM Workshop #2.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fargo</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Workshop presenter</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Burlington</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>June 3-14.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>and organizer of Math EXCEL for ONR Summer Academy. NDSU</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fargo</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Inquiry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Commonwealth University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Richmond</Municipality>
+</PostalAddress>
+<OrganizationUnit>Departments. Virginia</OrganizationUnit>
+<Degree>
+<DegreeDate>
+<AnyDate>2015-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>MAA Project SAUM Workshop #1, Assessment in Mathematics</Name>
+</DegreeMajor>
+<Comments>Organizer and presenter at ND Reform of Science and Mathematics Education conference.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU CoMSTeP Pathways to Change.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Bismarck</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU Faculty representative and workshop facilitator ONR Sunday Academy.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Arlington</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Little Hoop</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Community College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fort Totten</Municipality>
+</PostalAddress>
+<Degree>
+<Comments>Local organizer and presenter, NDCTM Board Meeting and Spring Conference, Connections.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>5 NSF MSP Workshop.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fargo</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU Faculty representative and workshop facilitator ONR Sunday Academy.</SchoolName>
+</School>
+<Degree>
+<DegreeMajor>
+<Name>Little Hoop</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Community College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fort Totten</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>November 9-11.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU Faculty representative and workshop facilitator ONR Sunday Academy.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Des Moines</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>RUMEC Research Group Fall Working Meeting.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Community College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Belcourt</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Turtle Mountain</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>SD State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>ND</Region>
+<Municipality>Carrington</Municipality>
+<DeliveryAddress>
+<AddressLine>5 6. NDMATYC Conference.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>EPSCOR Conference.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>State of the Faculty Conference. University of North Dakota</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Brookings</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Agassiz Junior High.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Grand Forks</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Organized workshop for Fargo Public Schools math teachers</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>ONR Summer camp at Turtle Mountain Community College.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fargo</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>ND Mathematics Assessment Project Item Bank Writing Workshop.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Belcourt</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>Coordinate final</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>workshop presenter and organizer of Math EXCEL for ONR Summer Academy. NDSU</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>ND</Region>
+<Municipality>Bismarck</Municipality>
+<DeliveryAddress>
+<AddressLine>13 14. ND Math/Science Alliance executive meeting.</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+<Degree>
+<DegreeMajor>
+<Name>June 7-13.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>College of Science and Mathematics.</SchoolName>
+</School>
+<OrganizationUnit>ND DPI nominated representative at the US Department of Education NCEO/OSEP/OERI</OrganizationUnit>
+<Degree>
+<DegreeDate>
+<AnyDate>2000-06-25</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Reform of Undergraduate Science and Mathematics Education Bismarck.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>colleges annual conference Chicago.</SchoolName>
+</School>
+<Degree>
+<DegreeDate>
+<AnyDate>2025-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Assessment Team</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Working group participant, Research in</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Mathematics Education Reform: Implications for</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>Panel organizer for High School Teacher/University Faculty Exchange Projects</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Reforming</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Day for NDSU Mathematics Talent Search participants</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Organized</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Honors</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU Mathematics Club.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1998-02-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>NDCTM Spring</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Workshop for teachers: How Can We Increase Student</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1997-11-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Sonya Kovalevsky Day at NDSU.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>School Mathematics Fargo.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1997-09-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>NDCTM Fall Conference.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Central Michigan University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1997-04-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics Education</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU Mathematics Club.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1997-03-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Careers in Mathematics Education Fargo</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Washington</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1996-04-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>education.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Hamline University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1996-04-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>MAA NCS Spring Meeting: Panelist, Project NExT Panel Discussion</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Invited Concordia College Mathematics Department Colloquium</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>the Reform of</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU Mathematics Department Colloquium.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1995-10-12</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and evaluation standards Fargo</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>courses: Some findings</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1995-10-05</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Readiness for upper-division technical</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>NDSU</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Pi</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Mu Epsilon.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Upper-Division Courses</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Juniors for</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Mathematics Across the Campus: Relating</SchoolName>
+</School>
+<OrganizationUnit>Faculty Expectations and Student Capabilities Green Bay.</OrganizationUnit>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1995-03-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Annual meeting of the MAA Wisconsin Section.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>and Central Michigan Boise and North Dakota State Universities.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1995-01-04</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Universities of Delaware</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Oklahoma. Graphing Technologies and</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Mathematics Department Colloquium</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Syracuse University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Mathematics Education Colloquium, Department of Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Quantitative Assessment Project at the University of Wisconsin-Madison</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Steve Bauman UW Math Department Education Seminar. Readiness of College</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1992-10-16</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>for Upper-Division Work Madison</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Purdue University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Calumet Mathematics colloquium.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Invited address: Are College Juniors</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>ready for the Quantitative Demands of Upper-Division Courses* Calumet.</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UW</SchoolName>
+</School>
+<OrganizationUnit>Madison Department of Mathematics committee reviewing college algebra courses.</OrganizationUnit>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>discussion: quantitative assessment of college juniors and the assessment programs of various UW system</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Panel</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Northern Iowa</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Student contributed paper: Compactness</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University Supervisor for Student Teachers</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Special Methods for Teaching Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University Supervisor for Student Teachers</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Practicum/Field Experience</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Learning Theory Seminar undergraduate/graduate</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>ONR Seminar</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Continuing</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Education/Outreach GraSUS Seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Governor&apos;s School</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics Assessment Project summers</Name>
+</DegreeMajor>
+<Comments>Understanding Variation: The Exploration and</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Integrating learning theories and application- based modules in teaching linear algebra</Title>
+<Name role="author">
+<FormattedName>Martin, W., Loch, S., Cooley, L., Dexter, S., and Vidakovic, D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Linear Algebra and its Applications</JournalOrSerialName>
+<Volume>2099</Volume>
+<PageNumber>2089-</PageNumber>
+</Article>
+<Article>
+<Title>Networking Antarctic Research Discoveries to a Science Classroom</Title>
+<Name role="author">
+<FormattedName>Podoll, A., Olson, B., Montplaisir, L., Schwert, D. McVicar, K., Comez, D., and Martin, W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Science Scope</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Coordinating learning theories with linear algebra</Title>
+<Name role="author">
+<FormattedName>Cooley, L., Martin, W., Vidakovic, D., and Loch, S</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007 May</StringDate>
+</PublicationDate>
+<JournalOrSerialName>International Journal for Mathematics Teaching and Learning [on-line journal] University of Plymouth: U.K</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Assessing Introductory Mathematics: Partnering with Faculty from Other Disciplines</Title>
+<Name role="author">
+<FormattedName>Martin, W. O</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In Bernard L. Madison (Ed.)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Programs and Courses</Title>
+<JournalOrSerialName>(Assessment in the Disciplines volume</JournalOrSerialName>
+<Volume>2</Volume>
+</Article>
+<Article>
+<Title>for Institutional Research</Title>
+<JournalOrSerialName>ÃÃ¶mez</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Curriculum</Title>
+</Article>
+<Article>
+<Title>Literacy (MAA Notes number</Title>
+<Volume>70</Volume>
+</Article>
+<Article>
+<Title>Developing a Departmental Assessment Program</Title>
+<Name role="author">
+<FormattedName>Martin, William O. and Comez, D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>B. Gold L. Hopkins D. Jardine W. Marion (Eds.) Supporting Assessment in Undergraduate Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Mathematical Association of America</Title>
+<Name role="author">
+<FormattedName>Washington DC</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Vidakovic D. and Martin W. O</JournalOrSerialName>
+</Article>
+<Article>
+<Title>reconstructions of mathematical concepts</Title>
+<Name role="author">
+<FormattedName>The Journal</FormattedName>
+</Name>
+<JournalOrSerialName>of Mathematical Behavior</JournalOrSerialName>
+<Volume>23(4</Volume>
+<PageNumber>465-492.</PageNumber>
+</Article>
+<Article>
+<Title>and ÃÃ¶mez Dogan</Title>
+<Name role="author">
+<FormattedName>Martin, W. O</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developing a Departmental Assessment Program: North Dakota State William O Martin University Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>an MAA Notes volume)</Title>
+</Article>
+<Article>
+<Title>Have our students with other majors learned the skills they need* In B. Gold S. Keith and W. Marion (Eds.)</Title>
+<Name role="author">
+<FormattedName>Martin, W. O., and Bauman, S. F</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Society</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Number 49)</Title>
+<Name role="author">
+<FormattedName>Washington, DC</FormattedName>
+</Name>
+<JournalOrSerialName>Mathematical Association of America</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Assessment of students&apos; quantitative needs and proficiencies</Title>
+<Name role="author">
+<FormattedName>Martin, W. O</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In T. W. Banta J. P. Lund K. E. Black &amp; F. W. Oblander (Eds.)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>San Francisco: Jossey-Bass</Title>
+<Name role="author">
+<FormattedName>Bauman, S. F., &amp; Martin, W. O</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>May 1995</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Assessing the Quantitative Skills of College Juniors</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Lasting effects of the integrated use of graphing technologies in precalculus mathematics</Title>
+<Name role="author">
+<FormattedName>Martin, W. O</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Mathematics Journal</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of Wisconsin-Madison 1993)</Title>
+<Name role="author">
+<FormattedName>Dissertation Abstracts International</FormattedName>
+</Name>
+<JournalOrSerialName>Dissertation, University</JournalOrSerialName>
+<Volume>543694A.</Volume>
+</Article>
+<Article>
+<Title>Curricular implications of graphical representations of functions</Title>
+<Name role="author">
+<FormattedName>Philipp, R., Martin, W., &amp; Richgels, G</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1993</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In T. Romberg E. Fennema &amp; T. Carpenter (Eds.)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>function</Title>
+<Name role="author">
+<FormattedName>Hillsdale, N. J</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Department of Public Co-Principal Investigator</Title>
+<Name role="author">
+<FormattedName>William O Martin Grant Activities ND</FormattedName>
+</Name>
+<JournalOrSerialName>ND-Prime: Problem solving</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Instruction (MSP $224,074) and Inquiry for Mathematicians and Educators</Title>
+<Name role="author">
+<FormattedName>Bush Foundation</FormattedName>
+</Name>
+<JournalOrSerialName>($1,493,330 Co PI at NDSU with Stacy Duffield</JournalOrSerialName>
+</Article>
+<Article>
+<Title>total $179,749 in</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>$332,832 in</Title>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>MSUM with commitment through 2009-2020</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of $1,349,998 with potential performance-based bonus in</Title>
+<Volume>2017</Volume>
+</Article>
+<Article>
+<Title>$143,332) National Science Foundation Principal Investigator on collaborative proposal</Title>
+<Name role="author">
+<FormattedName>Collaborative</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<Volume>2011(DUE-0837050</Volume>
+</Article>
+<Article>
+<Title>Research-Linear Algebra in New Environments (primary PI Scott Dexter</Title>
+<JournalOrSerialName>Brooklyn College-CUNY) National Science Foundation Co-Principal Investigator</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(DUE</Title>
+<Volume>0833268$743,516</Volume>
+</Article>
+<Article>
+<Title>Montplaisir) National Science Foundation Co-Principal Investigator</Title>
+<Name role="author">
+<FormattedName>The Linear</FormattedName>
+</Name>
+<JournalOrSerialName>Algebra Project</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(DUE CCLI</Title>
+<Volume>0442574$74,999</Volume>
+</Article>
+<Article>
+<Title>National Science Foundation Co-Principal Investigator</Title>
+<JournalOrSerialName>NDSU GraSUS II</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(DGE</Title>
+<Volume>0338128$2,017,059</Volume>
+</Article>
+<Article>
+<Title>(DUE</Title>
+<JournalOrSerialName>National Science Foundation Member steering group and workshop leader</JournalOrSerialName>
+<Volume>0127694$499,928</Volume>
+</Article>
+<Article>
+<Title>($118,884)</Title>
+<Name role="author">
+<FormattedName>Member NDSU</FormattedName>
+</Name>
+<JournalOrSerialName>University of Arkansas) NASA</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Excellence in Mathematics</Title>
+<JournalOrSerialName>Science</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(PACE/SMET).</Title>
+<Name role="author">
+<FormattedName>(PACE/SMET).</FormattedName>
+</Name>
+<JournalOrSerialName>(PI Carol Davis</JournalOrSerialName>
+</Article>
+<Article>
+<Title>subaward) National Science Foundation Co-Principal Investigator</Title>
+<Name role="author">
+<FormattedName>with NDSU</FormattedName>
+</Name>
+<JournalOrSerialName>NDSU GraSUS</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(DGE</Title>
+<Volume>0086445$971,556</Volume>
+</Article>
+<Article>
+<Title>Office of Naval Research Member NDSU leadership group</Title>
+<Name role="author">
+<FormattedName>William O Martin</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>An Adaptive Systemic Initiative</JournalOrSerialName>
+</Article>
+<Article>
+<Title>($1,274,242)</Title>
+<JournalOrSerialName>of Tribal Colleges-university Collaboration for Increasing Native American Participation in Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Programs</Title>
+<Name role="author">
+<FormattedName>with NDSU subaward) Bush Foundation</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>($450,000)</Title>
+<Name role="author">
+<FormattedName>Project Member, NGIC Project Committee To Improve</FormattedName>
+</Name>
+<JournalOrSerialName>Undergraduate Learning Through Faculty Development and Improvement of Teaching</JournalOrSerialName>
+</Article>
+<Article>
+<Title>National Science Foundation Principal Investigator</Title>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>NDSU Institutional Collaborative for</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(DUE</Title>
+<Volume>987668$605,000</Volume>
+</Article>
+<Article>
+<Title>Proposal Steering Committee Co-director Assessment</Title>
+<Name role="author">
+<FormattedName>Bush Foundation, St Paul MN Grant</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<Volume>2002($450,000</Volume>
+</Article>
+<Article>
+<Title>Undergraduate Learning Through Faculty Development and Improvement of Teaching</Title>
+<Name role="author">
+<FormattedName>(Principal Investigator, Richard</FormattedName>
+</Name>
+<JournalOrSerialName>Chenoweth)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of Education/ Project Coordinator</Title>
+<Name role="author">
+<FormattedName>U.S. Department</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>of Public Project</Title>
+<Name role="author">
+<FormattedName>ND Department</FormattedName>
+</Name>
+<JournalOrSerialName>(Principal Investigator: Greg</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Instruction (ND DPI)</Title>
+<PublicationDate>
+<StringDate>1998</StringDate>
+</PublicationDate>
+<JournalOrSerialName>($1.5 million to DPI $43,000 NDSU subcontracts</JournalOrSerialName>
+</Article>
+<Article>
+<Title>$398,822 NDSU subgrant</Title>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<Volume>2001</Volume>
+</Article>
+<Article>
+<Title>awards</Title>
+<PublicationDate>
+<StringDate>1998</StringDate>
+</PublicationDate>
+<JournalOrSerialName>$19,000 $19,000) Frameworks A Curriculum Development Workshop for Teachers</JournalOrSerialName>
+</Article>
+<Article>
+<Title>$17,000) for Aligning Instruction with Mathematics Standards</Title>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>awards</JournalOrSerialName>
+</Article>
+<Article>
+<Title>NSF DUE</Title>
+<JournalOrSerialName>($99,380)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>(MIPP)</Title>
+<Name role="author">
+<FormattedName>(MIPP)</FormattedName>
+</Name>
+<JournalOrSerialName>project of ND CoMSTeP Planning Grant activities</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Investigator: Debra Tomanek</Title>
+<JournalOrSerialName>NDSU Botany) William O</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Development of Students&apos; Mathematical Knowledge: A Global</Title>
+<JournalOrSerialName>Longitudinal Perspective</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>Lasting Effects of the Integrated Use of Graphing Technologies in Precalculus Mathematics</Title>
+<Name role="author">
+<FormattedName>Martin, W. O</FormattedName>
+</Name>
+<EventName>E. Dubinsky A. Schoenfeld &amp; J. Kaput (Eds.) Research in Collegiate Mathematics Education IV (Conference Board of the Mathematical Sciences: Issues in Mathematics Education pp</EventName>
+<ConferenceDate>
+<StringDate>2000</StringDate>
+</ConferenceDate>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Workshops and Presentations</Title>
+<Name role="author">
+<FormattedName>William O Martin</FormattedName>
+</Name>
+<EventName>Conferences</EventName>
+<ConferenceDate>
+<StringDate>2010</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Martin ND</ConferenceLocation>
+</ConferencePaper>
+</PublicationHistory>
+<Achievements>
+<Achievement>
+<Date><StringDate>1998-01-01</StringDate></Date>
+<Description>NDSU College of Science and Mathematics Award for Excellence in Teaching</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>American Educational Research Association (AERA)</Name>
+</Association>
+<Association>
+<Name>AERA Special Interest Group for Research in Mathematics Education (SIGRME)</Name>
+</Association>
+<Association>
+<Name>American Mathematical Society (AMS)</Name>
+</Association>
+<Association>
+<Name>Association for Supervision and Curriculum Development (ASCD)</Name>
+</Association>
+<Association>
+<Name>Association of Mathematics Teacher Educators (AMTE)</Name>
+</Association>
+<Association>
+<Name>Mathematical Association of America (MAA)</Name>
+</Association>
+<Association>
+<Name>MAA Special Interest Group on Research in Undergraduate Mathematics Education (MAA SIG RUME Program</Name>
+</Association>
+<Association>
+<Name>Chair</Name>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Research in Undergraduate Mathematics Education Community (RUMEC)</Name>
+</Association>
+<Association>
+<Name>National Council of Teachers of Mathematics (NCTM)</Name>
+</Association>
+<Association>
+<Name>North Dakota Association of Colleges of Teacher Education (NDACTE)</Name>
+</Association>
+<Association>
+<Name>North Dakota Association for Supervision and Curriculum Development (NDASCD)</Name>
+</Association>
+<Association>
+<Name>North Dakota Council of Teachers of Mathematics (NDCTM Newsletter Editor</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>North Dakota Mathematics/Science Alliance (NDMSA)</Name>
+</Association>
+<Association>
+<Name>North Dakota Mathematics Association of Two Year Colleges (NDMATYC)</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>V2lsbGlhbSBPLiBNYXJ0aW4gDQoNClNjaG9vbMKgb2bCoEVkdWNhdGlvbsKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9mZmljZcKgUGhvbmU6wqA3MDHCoDIzMS03MTA0DQoNCk5vcnRowqBEYWtvdGHCoFN0YXRlwqBVbml2ZXJzaXR5wqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZheDrCoDcwMcKgMjMxLTc0MTYNCg0KMjEwRsKgRkxDLMKgRGVwYXJ0bWVudMKgIzI2MjXCoMKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFbWFpbDrCoHdpbGxpYW0ubWFydGluQG5kc3UuZWR1wqANCg0KUE/CoEJveMKgNjA1MMKgDQoNCkZhcmdvLMKgTkTCoDU4MTA4LTYwNTDCoMKgDQoNCg0KDQoNCg0KRWR1Y2F0aW9uIA0KDQpQaC7CoEQuLMKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbsKgICAgVW5pdmVyc2l0ecKgb2bCoFdpc2NvbnNpbi1NYWRpc29uICAgICAgMTk5M8KgDQoNCk1BLMKgTWF0aGVtYXRpY3PCoCAgICAgICAgICAgICAgICAgVW5pdmVyc2l0ecKgb2bCoFdpc2NvbnNpbi1NYWRpc29uwqAgICAgIDE5ODnCoA0KDQpCUyzCoE1hdGhlbWF0aWNzwqAgICAgICAgICAgICAgICAgIElvd2HCoFN0YXRlwqBVbml2ZXJzaXR5wqAgICAgICAgICAgICAgICAxOTg2wqAod2l0aMKgZGlzdGluY3Rpb24pwqANCg0KQkEswqBHZW9ncmFwaHkswqBIU8KgVGVhY2hpbmfCoCAgICAgIFVuaXZlcnNpdHnCoG9mwqBOb3J0aGVybsKgSW93YcKgICAgICAgICAgMTk3NMKgDQoNCg0KDQoNCg0KUHJvZmVzc2lvbmFsIEV4cGVyaWVuY2UgDQoNClByb2Zlc3NvcsKgYW5kwqBIZWFkwqAgICAgICAgICAgICAgIE5EU1XCoFNjaG9vbMKgb2bCoEVkdWNhdGlvbiAgICAgICAgICAgICAyMDA2LXByZXNlbnTCoA0KDQpBZGp1bmN0wqBQcm9mZXNzb3LCoCAgICAgICAgICAgICAgIE1hdGhlbWF0aWNzwqAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwNi1wcmVzZW50wqANCg0KQ2hhaXLCoCAgICAgICAgICAgICAgICAgICAgICAgICAgIE5EU1XCoFNjaG9vbMKgb2bCoEVkdWNhdGlvbsKgICAgICAgICAgICAgMjAwNS0wNsKgDQoNCkludGVyaW3CoENoYWlywqAgICAgICAgICAgICAgICAgICAgTkRTVcKgU2Nob29swqBvZsKgRWR1Y2F0aW9uwqAgICAgICAgICAgICAyMDA0LTXCoA0KDQpBc3NvY2lhdGXCoFByb2Zlc3NvcsKgICAgICAgICAgICAgIE5EU1XCoE1hdGhlbWF0aWNzLMKgVGVhY2hlcsKgRWTCoCAgICAgICAgMjAwMS0yMDA2wqANCg0KQXNzaXN0YW50wqBQcm9mZXNzb3LCoCAgICAgICAgICAgICBORFNVwqBNYXRoZW1hdGljcyzCoFRlYWNoZXLCoEVkwqAgICAgICAgIDE5OTUtMjAwMcKgDQoNCkFzc2lzdGFudMKgUmVzZWFyY2hlcsKgICAgICAgICAgICAgVVctTWFkaXNvbsKgTWF0aGVtYXRpY3PCoCAgICAgICAgICAgICAgMTk5My05NcKgDQoNCkluc3RydWN0aW9uYWzCoFNwZWNpYWxpc3TCoCAgICAgICAgVVctTWFkaXNvbsKgQ29sbGVnZcKgZm9ywqBLaWRzwqAgICAgICAgICAxOTg5LTk0wqANCg0KSW5zdHJ1Y3RvcsKgICAgICAgICAgICAgICAgICAgICAgIE1hZGlzb27CoEFyZWHCoFRlY2huaWNhbMKgQ29sbGVnZcKgICAgICAgMTk4OS05NMKgDQoNClByb2plY3TCoEFzc2lzdGFudMKgICAgICAgICAgICAgICAgVVctTWFkaXNvbsKgTWF0aGVtYXRpY3PCoCAgICAgICAgICAgICAgMTk5MC05M8KgDQoNClRlYWNoaW5nwqBBc3Npc3RhbnTCoCAgICAgICAgICAgICAgVVctTWFkaXNvbsKgTWF0aGVtYXRpY3PCoCAgICAgICAgICAgICAgMTk4Ny05MMKgDQoNClRlYWNoaW5nwqBBc3Npc3RhbnTCoCAgICAgICAgICAgICAgSW93YcKgU3RhdGXCoFVuaXZlcnNpdHnCoE1hdGhlbWF0aWNzwqAgICAxOTg2LTg3wqANCg0KU2Vjb25kYXJ5wqBUZWFjaGVywqAgICAgICAgICAgICAgICBWaWN0b3JpYW7CoEVkdWNhdGlvbsKgRGVwYXJ0bWVudCzCoCAgICAgMTk3NS04NcKgDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEF1c3RyYWxpYcKgDQoNCldpbGxpYW0gTyBNYXJ0aW4gDQoNCg0KDQpQcm9mZXNzaW9uYWwgT2JqZWN0aXZlcyANCg0K74K3ICAgQ29uZHVjdMKgcmVzZWFyY2jCoGluwqB1bmRlcmdyYWR1YXRlwqBtYXRoZW1hdGljc8KgZWR1Y2F0aW9uwqANCg0K74K3ICAgUHJvbW90ZcKgcmVmbGVjdGl2ZcKgbWF0aGVtYXRpY3PCoGluc3RydWN0aW9uwqBpbsKgc2Nob29swqBhbmTCoGNvbGxlZ2XCoHRoYXTCoGVuY291cmFnZXPCoHN0dWRlbnTCoGNvbmZpZGVuY2UswqBzZWxmLQ0KDQogICAgcmVsaWFuY2UswqBhbmTCoHJlc3BvbnNpYmlsaXR5wqBmb3LCoGxlYXJuaW5nwqANCg0K74K3ICAgUHJvdmlkZcKgbGVhZGVyc2hpcMKgaW7CoGxvY2FsLMKgc3RhdGUswqBhbmTCoG5hdGlvbmFswqBLLTEywqBtYXRoZW1hdGljc8KgZWR1Y2F0aW9uwqANCg0K74K3ICAgU3RyZW5ndGhlbsKgdGllc8KgYmV0d2VlbsKgc2Nob29swqBhbmTCoGNvbGxlZ2XCoG1hdGhlbWF0aWNzwqBhbmTCoGJldHdlZW7CoG1hdGhlbWF0aWNzwqBhbmTCoGl0c8KgY2xpZW50wqBkaXNjaXBsaW5lc8KgDQoNCu+CtyAgIE9idGFpbsKgZnVuZGluZ8KgdG/CoHN1cHBvcnTCoHRoZXNlwqBwcm9mZXNzaW9uYWzCoGFjdGl2aXRpZXPCoA0KDQoNCg0KQ3VycmVudCBSZXNlYXJjaCBhbmQgUHJvZmVzc2lvbmFsIEFjdGl2aXR5IA0KDQpBc3Nlc3NtZW50OiANCg0KQ3VycmVudMKgd29yayzCoGluY2x1ZGluZ8Kgd29ya8Kgc3VwcG9ydGVkwqBiecKgZ3JhbnRzLMKgaXPCoGluwqBhc3Nlc3NtZW50wqBpbsKgbWF0aGVtYXRpY3PCoGRlcGFydG1lbnRzwqBhbmTCoGluwqB0aGXCoA0KDQpkZXZlbG9wbWVudMKgYW5kwqBpbXBsZW1lbnRhdGlvbsKgb2bCoGFzc2Vzc21lbnTCoHN5c3RlbXPCoGZvcsKgdW5pdHPCoHdpdGjCoHByb2dyYW1zwqBpbsKgZWR1Y2F0aW9uLsKgDQoNCg0KDQpLLTEyIFByb2Zlc3Npb25hbCBEZXZlbG9wbWVudDogDQoNCldvcmvCoGluY2x1ZGVzwqBncmFudC1mdW5kZWTCoHByb2plY3RzwqB0aGF0wqBpbnZvbHZlwqBLLTE2wqBzY2llbmNlwqBhbmTCoG1hdGhlbWF0aWNzwqBlZHVjYXRpb24swqBpbmNsdWRpbmfCoGV4dGVuc2l2ZWx5wqANCg0KY29sbGFib3JhdGl2ZcKgb3V0cmVhY2jCoGFjdGl2aXRpZXPCoHdvcmtpbmfCoHdpdGjCoHNjaWVuY2UswqBtYXRoZW1hdGljc8KgYW5kwqBlbmdpbmVlcmluZ8KgZmFjdWx0ecKgLGluY2x1ZGluZ8KgdHJpYmFswqANCg0KY29sbGVnZXPCoGFuZMKgc2Nob29sc8KgaW7CoE5ELsKgDQoNCg0KDQpMZWFybmluZyBUaGVvcnkgUmVzZWFyY2ggaW4gVW5kZXJncmFkdWF0ZSBNYXRoZW1hdGljcyBFZHVjYXRpb246IA0KDQpDdXJyZW50wqB3b3JrLMKgc3VwcG9ydGVkwqBiecKgYW7CoE5TRsKgQ0NMScKgZ3JhbnQswqBpbnZlc3RpZ2F0ZXPCoGhvd8KgY29vcmRpbmF0ZWTCoHN0dWR5wqBvZsKgbGVhcm5pbmfCoHRoZW9yaWVzwqBpbsKgdGhlwqANCg0Kc3BlY2lmaWPCoGNvbnRleHTCoG9mwqBvZsKgc3R1ZHnCoG9mwqDCoHVwcGVywqBsZXZlbMKgdW5kZXJncmFkdWF0ZcKgbWF0aGVtYXRpY3PCoChsaW5lYXLCoGFsZ2VicmEpwqBhZmZlY3RzwqBwcmVzZXJ2aWNlwqBhbmTCoA0KDQppbnNlcnZpY2XCoHRlYWNoZXLCoHVuZGVyc3RhbmRpbmfCoG9mwqBib3RowqB0aGXCoG1hdGhlbWF0aWNzwqBjb250ZW50wqBhbmTCoHRoZcKgYXNzb2NpYXRlZMKgbGVhcm5pbmfCoHRoZW9yeS7CoA0KDQoNCg0KUHVibGljYXRpb25zIA0KDQpNYXJ0aW4swqBXLizCoExvY2gswqBTLizCoENvb2xleSzCoEwuLMKgRGV4dGVyLMKgUy4swqBhbmTCoFZpZGFrb3ZpYyzCoEQuwqAoMjAwOSkuwqBJbnRlZ3JhdGluZ8KgbGVhcm5pbmfCoHRoZW9yaWVzwqBhbmTCoGFwcGxpY2F0aW9uLQ0KDQogICAgICAgICBiYXNlZMKgbW9kdWxlc8KgaW7CoHRlYWNoaW5nwqBsaW5lYXLCoGFsZ2VicmEuwqBKb3VybmFswqBvZsKgTGluZWFywqBBbGdlYnJhwqBhbmTCoGl0c8KgQXBwbGljYXRpb25zwqA0MzLCoCgyMDEwKSzCoDIwODktDQoNCiAgICAgICAgIDIwOTnCoA0KDQpQb2RvbGwswqBBLizCoE9sc29uLMKgQi4swqBNb250cGxhaXNpcizCoEwuLMKgU2Nod2VydCzCoEQuwqBNY1ZpY2FyLMKgSy4swqBDb21leizCoEQuLMKgYW5kwqBNYXJ0aW4swqBXLsKgKDIwMDgpLsKgTmV0d29ya2luZ8KgDQoNCiAgICAgICAgIEFudGFyY3RpY8KgUmVzZWFyY2jCoERpc2NvdmVyaWVzwqB0b8KgYcKgU2NpZW5jZcKgQ2xhc3Nyb29tLMKgU2NpZW5jZcKgU2NvcGUuwqANCg0KQ29vbGV5LMKgTC4swqBNYXJ0aW4swqBXLizCoFZpZGFrb3ZpYyzCoEQuLMKgYW5kwqBMb2NoLMKgUy7CoCgyMDA3LMKgTWF5wqAyOSkuwqBDb29yZGluYXRpbmfCoGxlYXJuaW5nwqB0aGVvcmllc8Kgd2l0aMKgbGluZWFywqANCg0KICAgICAgICAgYWxnZWJyYS7CoEludGVybmF0aW9uYWzCoEpvdXJuYWzCoGZvcsKgTWF0aGVtYXRpY3PCoFRlYWNoaW5nwqBhbmTCoExlYXJuaW5nwqBbb24tbGluZcKgam91cm5hbF0swqBVbml2ZXJzaXR5wqBvZsKgDQoNCiAgICAgICAgIFBseW1vdXRoOsKgVS5LLsKgaHR0cDovL3d3dy5jaW10LnBseW1vdXRoLmFjLnVrL2pvdXJuYWwvZGVmYXVsdC5odG0uwqBBY2Nlc3NlZMKgTWF5wqAyOSzCoDIwMDcuwqANCg0KTWFydGluLMKgVy7CoE8uwqAoMjAwNikuwqBBc3Nlc3NpbmfCoEludHJvZHVjdG9yecKgTWF0aGVtYXRpY3M6wqBQYXJ0bmVyaW5nwqB3aXRowqBGYWN1bHR5wqBmcm9twqBPdGhlcsKgRGlzY2lwbGluZXMuwqBJbsKgDQoNCiAgICAgICAgIEJlcm5hcmTCoEwuwqBNYWRpc29uwqAoRWQuKSzCoEFzc2Vzc21lbnTCoG9mwqBTdHVkZW50wqBMZWFybmluZ8KgaW7CoENvbGxlZ2XCoE1hdGhlbWF0aWNzOsKgVG93YXJkc8KgSW1wcm92ZWTCoA0KDQogICAgICAgICBQcm9ncmFtc8KgYW5kwqBDb3Vyc2VzwqAoQXNzZXNzbWVudMKgaW7CoHRoZcKgRGlzY2lwbGluZXMswqB2b2x1bWXCoDIswqBwcC7CoDE0LTI5KS7CoFRhbGxhaGFzc2VlLMKgRkw6wqBBc3NvY2lhdGlvbsKgDQoNCiAgICAgICAgIGZvcsKgSW5zdGl0dXRpb25hbMKgUmVzZWFyY2guwqANCg0Kw4fDtm1leizCoERvZ2FuwqDCoGFuZMKgTWFydGluLMKgVy7CoE8uwqAoMjAwNikuwqBRdWFudGl0YXRpdmXCoExpdGVyYWN5wqBhc8KgYW7CoEludGVncmFswqBDb21wb25lbnTCoG9mwqBNYXRoZW1hdGljc8KgDQoNCiAgICAgICAgIEN1cnJpY3VsdW0swqBDYXNlwqBhdMKgTm9ydGjCoERha290YcKgU3RhdGXCoFVuaXZlcnNpdHkuwqBJbsKgUi7CoEdpbGxtYW7CoChFZC4pwqBDdXJyZW50wqBQcmFjdGljZXPCoGluwqBRdWFudGl0YXRpdmXCoA0KDQogICAgICAgICBMaXRlcmFjecKgKE1BQcKgTm90ZXPCoG51bWJlcsKgNzAswqBwcC7CoDE1NS0xNjMpLsKgV2FzaGluZ3RvbsKgREM6wqBNYXRoZW1hdGljYWzCoEFzc29jaWF0aW9uwqBvZsKgQW1lcmljYS7CoA0KDQpNYXJ0aW4swqBXaWxsaWFtwqBPLsKgYW5kwqBDb21leizCoEQuwqAoMjAwNikuwqBEZXZlbG9waW5nwqBhwqBEZXBhcnRtZW50YWzCoEFzc2Vzc21lbnTCoFByb2dyYW0uwqBCLsKgR29sZCzCoEwuwqBIb3BraW5zLMKgRC7CoA0KDQogICAgICAgICBKYXJkaW5lLMKgVy7CoE1hcmlvbsKgKEVkcy4pwqBTdXBwb3J0aW5nwqBBc3Nlc3NtZW50wqBpbsKgVW5kZXJncmFkdWF0ZcKgTWF0aGVtYXRpY3PCoChwcC7CoDkzLTEwMSkuwqANCg0KICAgICAgICAgV2FzaGluZ3RvbsKgREM6wqBNYXRoZW1hdGljYWzCoEFzc29jaWF0aW9uwqBvZsKgQW1lcmljYS7CoA0KDQpWaWRha292aWMswqBELsKgYW5kwqBNYXJ0aW4swqBXLsKgTy7CoCgyMDA0KS7CoFNtYWxsLWdyb3VwwqBzZWFyY2hlc8KgZm9ywqBtYXRoZW1hdGljYWzCoHByb29mc8KgYW5kwqBpbmRpdmlkdWFswqANCg0KICAgICAgICAgcmVjb25zdHJ1Y3Rpb25zwqBvZsKgbWF0aGVtYXRpY2FswqBjb25jZXB0cy7CoFRoZcKgSm91cm5hbMKgb2bCoE1hdGhlbWF0aWNhbMKgQmVoYXZpb3LCoDIzKDQpLMKgNDY1LTQ5Mi7CoA0KDQpNYXJ0aW4swqBXLsKgTy7CoGFuZMKgw4fDtm1leizCoERvZ2FuLsKgKDIwMDMpLsKgRGV2ZWxvcGluZ8KgYcKgRGVwYXJ0bWVudGFswqBBc3Nlc3NtZW50wqBQcm9ncmFtOsKgTm9ydGjCoERha290YcKgU3RhdGXCoA0KDQoNCg0KwqANCg0KV2lsbGlhbSBPIE1hcnRpbiANCg0KICAgICAgICAgIFVuaXZlcnNpdHnCoE1hdGhlbWF0aWNzLsKgTWF0aGVtYXRpY3PCoEFzc29jaWF0aW9uwqBvZsKgQW1lcmljYcKgUHJvamVjdMKgU0FVTSzCoA0KDQogICAgICAgICAgaHR0cDovL3d3dy5tYWEub3JnL1NBVU0vbmV3X2Nhc2VzL25ld19jYXNlXzExXzAzL2Fzc2Vzc05EU1VyMy5odG1sLsKgKFRvwqBhcHBlYXLCoGluwqBhbsKgTUFBwqANCg0KICAgICAgICAgIE5vdGVzwqB2b2x1bWUpLsKgTUFBOsKgV2FzaGluZ3RvbsKgREMuwqANCg0KTWFydGluLMKgVy7CoE8uwqAoMjAwMCkuwqBMYXN0aW5nwqBFZmZlY3RzwqBvZsKgdGhlwqBJbnRlZ3JhdGVkwqBVc2XCoG9mwqBHcmFwaGluZ8KgVGVjaG5vbG9naWVzwqBpbsKgUHJlY2FsY3VsdXPCoE1hdGhlbWF0aWNzLsKgwqANCg0KICAgICAgICAgIEUuwqBEdWJpbnNreSzCoEEuwqBTY2hvZW5mZWxkLMKgJsKgSi7CoEthcHV0wqAoRWRzLinCoFJlc2VhcmNowqBpbsKgQ29sbGVnaWF0ZcKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbsKgSVbCoChDb25mZXJlbmNlwqANCg0KICAgICAgICAgIEJvYXJkwqBvZsKgdGhlwqBNYXRoZW1hdGljYWzCoFNjaWVuY2VzOsKgSXNzdWVzwqBpbsKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbizCoHBwLsKgMTU0LTE4NykuwqBQcm92aWRlbmNlwqBSSTrCoA0KDQogICAgICAgICAgQW1lcmljYW7CoE1hdGhlbWF0aWNhbMKgU29jaWV0eS7CoA0KDQpNYXJ0aW4swqBXLsKgTy4swqBhbmTCoEJhdW1hbizCoFMuwqBGLsKgKDE5OTkpLsKgSGF2ZcKgb3VywqBzdHVkZW50c8Kgd2l0aMKgb3RoZXLCoG1ham9yc8KgbGVhcm5lZMKgdGhlwqBza2lsbHPCoHRoZXnCoG5lZWQ/wqBJbsKgQi7CoA0KDQogICAgICAgICAgR29sZCzCoFMuwqBLZWl0aCzCoGFuZMKgVy7CoE1hcmlvbsKgKEVkcy4pLMKgQXNzZXNzbWVudMKgUHJhY3RpY2VzwqBpbsKgVW5kZXJncmFkdWF0ZcKgTWF0aGVtYXRpY3PCoChNQUHCoE5vdGVzwqANCg0KICAgICAgICAgIE51bWJlcsKgNDkpLsKgV2FzaGluZ3RvbizCoERDOsKgTWF0aGVtYXRpY2FswqBBc3NvY2lhdGlvbsKgb2bCoEFtZXJpY2EuwqANCg0KTWFydGluLMKgVy7CoE8uwqAoMTk5NikuwqBBc3Nlc3NtZW50wqBvZsKgc3R1ZGVudHMnwqBxdWFudGl0YXRpdmXCoG5lZWRzwqBhbmTCoHByb2ZpY2llbmNpZXMuwqBJbsKgVC7CoFcuwqBCYW50YSzCoEouwqBQLsKgTHVuZCzCoEsuwqBFLsKgDQoNCiAgICAgICAgICBCbGFjayzCoCbCoEYuwqBXLsKgT2JsYW5kZXLCoChFZHMuKSzCoEFzc2Vzc21lbnTCoGluwqBQcmFjdGljZTrCoFB1dHRpbmfCoFByaW5jaXBsZXPCoHRvwqBXb3JrwqBvbsKgQ29sbGVnZcKgQ2FtcHVzZXMuwqANCg0KICAgICAgICAgIFNhbsKgRnJhbmNpc2NvOsKgSm9zc2V5LUJhc3MuwqANCg0KQmF1bWFuLMKgUy7CoEYuLMKgJsKgTWFydGluLMKgVy7CoE8uwqAoTWF5wqAxOTk1KS7CoEFzc2Vzc2luZ8KgdGhlwqBRdWFudGl0YXRpdmXCoFNraWxsc8Kgb2bCoENvbGxlZ2XCoEp1bmlvcnMuwqBUaGXCoENvbGxlZ2XCoA0KDQogICAgICAgICAgTWF0aGVtYXRpY3PCoEpvdXJuYWwswqAyNigzKSzCoDIxNC0yMjAuwqANCg0KTWFydGluLMKgVy7CoE8uwqAoMTk5NCkuwqBMYXN0aW5nwqBlZmZlY3RzwqBvZsKgdGhlwqBpbnRlZ3JhdGVkwqB1c2XCoG9mwqBncmFwaGluZ8KgdGVjaG5vbG9naWVzwqBpbsKgcHJlY2FsY3VsdXPCoG1hdGhlbWF0aWNzwqANCg0KICAgICAgICAgIChEb2N0b3JhbMKgRGlzc2VydGF0aW9uLMKgVW5pdmVyc2l0ecKgb2bCoFdpc2NvbnNpbi1NYWRpc29uLMKgMTk5MykuwqBEaXNzZXJ0YXRpb27CoEFic3RyYWN0c8KgSW50ZXJuYXRpb25hbCzCoDU0LMKgDQoNCiAgICAgICAgICAzNjk0QS7CoA0KDQpQaGlsaXBwLMKgUi4swqBNYXJ0aW4swqBXLizCoCbCoFJpY2hnZWxzLMKgRy7CoCgxOTkzKS7CoEN1cnJpY3VsYXLCoGltcGxpY2F0aW9uc8Kgb2bCoGdyYXBoaWNhbMKgcmVwcmVzZW50YXRpb25zwqBvZsKgZnVuY3Rpb25zLsKgSW7CoFQuwqANCg0KICAgICAgICAgIFJvbWJlcmcswqBFLsKgRmVubmVtYSzCoCbCoFQuwqBDYXJwZW50ZXLCoChFZHMuKSzCoEludGVncmF0aW5nwqByZXNlYXJjaMKgb27CoHRoZcKgZ3JhcGhpY2FswqByZXByZXNlbnRhdGlvbsKgb2bCoA0KDQogICAgICAgICAgZnVuY3Rpb24uwqBIaWxsc2RhbGUswqBOLsKgSi46wqBMYXdyZW5jZcKgRXJsYmF1bcKgQXNzb2NpYXRlcy7CoA0KDQoNCg0KDQoNCg0KDQoNCg0KwqANCg0KV2lsbGlhbSBPIE1hcnRpbiANCg0KDQoNCkdyYW50IEFjdGl2aXRpZXMgDQoNCk5EwqBEZXBhcnRtZW50wqBvZsKgUHVibGljwqAgICAgICAgQ28tUHJpbmNpcGFswqBJbnZlc3RpZ2F0b3IswqBORC1QcmltZTrCoFByb2JsZW3CoHNvbHZpbmcswqBSZWFzb25pbmcswqAgICAgMjAwOS0xMQ0KDQpJbnN0cnVjdGlvbsKgKE1TUCzCoCQyMjQsMDc0KcKgICAgYW5kwqBJbnF1aXJ5wqBmb3LCoE1hdGhlbWF0aWNpYW5zwqBhbmTCoEVkdWNhdG9ycy7CoA0KDQoNCg0KDQoNCkJ1c2jCoEZvdW5kYXRpb27CoCgkMSw0OTMsMzMwwqAgICBDb8KgUEnCoGF0wqBORFNVwqB3aXRowqBTdGFjecKgRHVmZmllbGQuwqBQYXJ0bmVyc2hpcMKgZ3JhbnTCoGluwqB0aGXCoEJ1c2jCoCAgICAyMDA5LTIwMjANCg0KdG90YWw7wqAkMTc5LDc0OcKgaW7CoDIwMDk7wqAgICAgICBUZWFjaGVywqBQcmVwYXJhdGlvbsKgQ29uc29ydGl1bcKgYXdhcmRlZMKgdG/CoE5EU1UswqBWQ1NVLMKgYW5kwqANCg0KJDMzMiw4MzLCoGluwqAyMDEwKcKgICAgICAgICAgICAgIE1TVU3CoHdpdGjCoGNvbW1pdG1lbnTCoHRocm91Z2jCoDIwMDktMjAyMC7CoFRvdGFswqBjb21taXRtZW50wqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9mwqAkMSwzNDksOTk4wqB3aXRowqBwb3RlbnRpYWzCoHBlcmZvcm1hbmNlLWJhc2VkwqBib251c8KgaW7CoDIwMTfCoG9mwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICQxNDMsMzMyKcKgDQoNCg0KDQoNCg0KTmF0aW9uYWzCoFNjaWVuY2XCoEZvdW5kYXRpb27CoCAgIFByaW5jaXBhbMKgSW52ZXN0aWdhdG9ywqBvbsKgY29sbGFib3JhdGl2ZcKgcHJvcG9zYWwswqBDb2xsYWJvcmF0aXZlwqAgICAgIDIwMDktMjAxMQ0KDQooRFVFLTA4MzcwNTDCoENDTEnCoCQzOCwzOTMpwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlc2VhcmNoLUxpbmVhcsKgQWxnZWJyYcKgaW7CoE5ld8KgRW52aXJvbm1lbnRzwqAoTElORSkswqANCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAocHJpbWFyecKgUEnCoFNjb3R0wqBEZXh0ZXIswqBCcm9va2x5bsKgQ29sbGVnZS1DVU5ZKcKgDQoNCg0KDQoNCg0KTmF0aW9uYWzCoFNjaWVuY2XCoEZvdW5kYXRpb27CoCAgIENvLVByaW5jaXBhbMKgSW52ZXN0aWdhdG9yLMKgTm95Y2XCoFNjaG9sYXJzOsKgTm9ydGjCoERha290YcKgU2NpZW5jZcKgICAgICAyMDA5LTEzDQoNCihEVUXCoDA4MzMyNjg7wqAkNzQzLDUxNinCoCAgICAgICBhbmTCoE1hdGhlbWF0aWNzwqBUZWFjaGVywqBTY2hvbGFyc2hpcMKgUHJvZ3JhbcKgKFBJwqBMaXNhwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1vbnRwbGFpc2lyKcKgDQoNCg0KDQoNCg0KTmF0aW9uYWzCoFNjaWVuY2XCoEZvdW5kYXRpb27CoCAgIENvLVByaW5jaXBhbMKgSW52ZXN0aWdhdG9yLMKgVGhlwqBMaW5lYXLCoEFsZ2VicmHCoFByb2plY3QuwqAoUEnCoExhdXJlbMKgICAgMjAwNS0wNg0KDQooRFVFwqBDQ0xJwqAwNDQyNTc0LMKgJDc0LDk5OSnCoCAgIENvb2xleSzCoEJyb29rbHluwqBDb2xsZWdlLUNVTlkpwqANCg0KDQoNCg0KDQpOYXRpb25hbMKgU2NpZW5jZcKgRm91bmRhdGlvbsKgICAgQ28tUHJpbmNpcGFswqBJbnZlc3RpZ2F0b3IswqBORFNVwqBHcmFTVVPCoElJLsKgKFBJwqBEb2dhbsKgQ29tZXoswqAgICAgICAgICAyMDA0LTEwDQoNCihER0XCoDAzMzgxMjgswqAkMiwwMTcsMDU5KcKgICAgICBORFNVKcKgDQoNCg0KDQoNCg0KTmF0aW9uYWzCoFNjaWVuY2XCoEZvdW5kYXRpb27CoCAgIE1lbWJlcsKgc3RlZXJpbmfCoGdyb3VwwqBhbmTCoHdvcmtzaG9wwqBsZWFkZXIswqBTdXBwb3J0aW5nwqAgICAgICAgICAgICAgICAyMDAyLTA2DQoNCihEVUXCoDAxMjc2OTQswqAkNDk5LDkyOCnCoCAgICAgICBBc3Nlc3NtZW50wqBpbsKgVW5kZXJncmFkdWF0ZcKgTWF0aGVtYXRpY3MuwqAoUEnCoEJlcm5pZcKgTWFkaXNvbizCoA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVW5pdmVyc2l0ecKgb2bCoEFya2Fuc2FzKcKgDQoNCg0KDQoNCg0KTkFTQcKgKCQxMTgsODg0KcKgICAgICAgICAgICAgICAgTWVtYmVywqBORFNVwqBsZWFkZXJzaGlwwqBncm91cCzCoFByZS1jb2xsZWdlwqBBY2hpZXZlbWVudMKgb2bCoCAgICAgICAgICAgIDIwMDItMDUNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEV4Y2VsbGVuY2XCoGluwqBNYXRoZW1hdGljcyzCoFNjaWVuY2UswqBFbmdpbmVlcmluZ8KgYW5kwqBUZWNobm9sb2d5wqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChQQUNFL1NNRVQpLsKgKFBJwqBDYXJvbMKgRGF2aXMswqBUdXJ0bGXCoE1vdW50YWluwqBDb21tdW5pdHnCoENvbGxlZ2XCoA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2l0aMKgTkRTVcKgc3ViYXdhcmQpwqANCg0KDQoNCg0KDQpOYXRpb25hbMKgU2NpZW5jZcKgRm91bmRhdGlvbsKgICAgQ28tUHJpbmNpcGFswqBJbnZlc3RpZ2F0b3IswqBORFNVwqBHcmFTVVMuwqAoUEnCoERvZ2FuwqBDb21leizCoE5EU1UpwqAgICAgICAyMDAxLTA0DQoNCihER0XCoDAwODY0NDUswqAkOTcxLDU1NinCoA0KDQoNCg0KDQoNCg0KDQoNCg0KwqANCg0KV2lsbGlhbSBPIE1hcnRpbiANCg0KT2ZmaWNlwqBvZsKgTmF2YWzCoFJlc2VhcmNowqAgICAgICBNZW1iZXLCoE5EU1XCoGxlYWRlcnNoaXDCoGdyb3VwLMKgQW7CoEFkYXB0aXZlwqBTeXN0ZW1pY8KgSW5pdGlhdGl2ZcKgICAgICAgIDE5OTktMjAwNA0KDQooJDEsMjc0LDI0MinCoCAgICAgICAgICAgICAgICAgIG9mwqBUcmliYWzCoENvbGxlZ2VzLXVuaXZlcnNpdHnCoENvbGxhYm9yYXRpb27CoGZvcsKgSW5jcmVhc2luZ8KgTmF0aXZlwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFtZXJpY2FuwqBQYXJ0aWNpcGF0aW9uwqBpbsKgTWF0aGVtYXRpY3MswqBTY2llbmNlwqBhbmTCoEVuZ2luZWVyaW5nwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2dyYW1zLsKgKFBJwqBDYXJvbMKgRGF2aXMswqBUdXJ0bGXCoE1vdW50YWluwqBDb21tdW5pdHnCoENvbGxlZ2XCoA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2l0aMKgTkRTVcKgc3ViYXdhcmQpwqANCg0KDQoNCg0KDQpCdXNowqBGb3VuZGF0aW9uLMKgU3TCoFBhdWzCoE1OwqAgICBHcmFudMKgUHJvcG9zYWzCoFN0ZWVyaW5nwqBDb21taXR0ZWU7wqBDby1kaXJlY3RvcsKgQXNzZXNzbWVudMKgICAgICAgICAgICAxOTk5LTIwMDINCg0KKCQ0NTAsMDAwKcKgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0O8KgTWVtYmVyLMKgTkdJQ8KgUHJvamVjdMKgQ29tbWl0dGVlO8KgVG/CoEltcHJvdmXCoA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVW5kZXJncmFkdWF0ZcKgTGVhcm5pbmfCoFRocm91Z2jCoEZhY3VsdHnCoERldmVsb3BtZW50wqBhbmTCoA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSW1wcm92ZW1lbnTCoG9mwqBUZWFjaGluZ8KgKFBJLMKgUmljaGFyZMKgQ2hlbm93ZXRoLMKgTkRTVSkuwqANCg0KDQoNCg0KDQpOYXRpb25hbMKgU2NpZW5jZcKgRm91bmRhdGlvbsKgICAgUHJpbmNpcGFswqBJbnZlc3RpZ2F0b3IswqBORFNVwqBJbnN0aXR1dGlvbmFswqBDb2xsYWJvcmF0aXZlwqBmb3LCoCAgICAgICAgMTk5OS0yMDAzDQoNCihEVUXCoDk4NzY2OCzCoCQ2MDUsMDAwKcKgICAgICAgICBNYXRoZW1hdGljc8KgYW5kwqBTY2llbmNlwqBUZWFjaGVywqBQcmVwYXJhdGlvbi7CoA0KDQoNCg0KDQoNCkJ1c2jCoEZvdW5kYXRpb24swqBTdMKgUGF1bMKgTU7CoCAgIEdyYW50wqBQcm9wb3NhbMKgU3RlZXJpbmfCoENvbW1pdHRlZTvCoENvLWRpcmVjdG9ywqBBc3Nlc3NtZW50wqAgICAgICAgICAgIDE5OTktMjAwMg0KDQooJDQ1MCwwMDApwqAgICAgICAgICAgICAgICAgICAgIFByb2plY3Q7wqBNZW1iZXIswqBOR0lDwqBQcm9qZWN0wqBDb21taXR0ZWU7wqBUb8KgSW1wcm92ZcKgDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBVbmRlcmdyYWR1YXRlwqBMZWFybmluZ8KgVGhyb3VnaMKgRmFjdWx0ecKgRGV2ZWxvcG1lbnTCoGFuZMKgDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJbXByb3ZlbWVudMKgb2bCoFRlYWNoaW5nwqAoUHJpbmNpcGFswqBJbnZlc3RpZ2F0b3IswqBSaWNoYXJkwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoZW5vd2V0aCkuwqANCg0KDQoNCg0KDQpVLlMuwqBEZXBhcnRtZW50wqBvZsKgRWR1Y2F0aW9uL8KgIFByb2plY3TCoENvb3JkaW5hdG9yLMKgTm9ydGjCoERha290YcKgTWF0aGVtYXRpY3PCoEFzc2Vzc21lbnTCoCAgICAgICAgICAgIDE5OTgtMjAwMg0KDQpORMKgRGVwYXJ0bWVudMKgb2bCoFB1YmxpY8KgICAgICAgIFByb2plY3TCoChQcmluY2lwYWzCoEludmVzdGlnYXRvcjrCoEdyZWfCoEdhbGxhZ2hlcizCoE5EwqBEUEkpLsKgDQoNCkluc3RydWN0aW9uwqAoTkTCoERQSSnCoCgkMS41wqANCg0KbWlsbGlvbsKgdG/CoERQSTvCoCQ0MywwMDDCoE5EU1XCoA0KDQpzdWJjb250cmFjdHMswqAxOTk4LTIwMDA7wqANCg0KJDM5OCw4MjLCoE5EU1XCoHN1YmdyYW50wqANCg0KMjAwMC0yMDAxKcKgDQoNCg0KDQoNCg0KTkTCoERQSS9ORFVTwqAoJDE3LDAwMCzCoCAgICAgICAgIFByaW5jaXBhbMKgSW52ZXN0aWdhdG9yLMKgQWxpZ25pbmfCoEluc3RydWN0aW9uwqB3aXRowqBORMKgTWF0aGVtYXRpY3PCoCAgICBBbm51YWzCoA0KDQokMTksMDAwLMKgJDE5LDAwMCnCoCAgICAgICAgICAgICBGcmFtZXdvcmtzwqBBwqBDdXJyaWN1bHVtwqBEZXZlbG9wbWVudMKgV29ya3Nob3DCoGZvcsKgVGVhY2hlcnMuwqAgICAgICAgICAgYXdhcmRzwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTgtMjAwMcKgDQoNCg0KDQoNCg0KTkTCoERQSS9ORFVTwqAoJDE2LDAwMCzCoCAgICAgICAgIFByaW5jaXBhbMKgSW52ZXN0aWdhdG9yLMKgTmV3wqBBc3Nlc3NtZW50wqBQZXJzcGVjdGl2ZXM6wqBBwqBGcmFtZXdvcmvCoCAgICBBbm51YWzCoA0KDQokMTcsMDAwKcKgICAgICAgICAgICAgICAgICAgICAgIGZvcsKgQWxpZ25pbmfCoEluc3RydWN0aW9uwqB3aXRowqBNYXRoZW1hdGljc8KgU3RhbmRhcmRzLsKgICAgICAgICAgICAgICAgIGF3YXJkc8KgDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxOTk2LTk4wqANCg0KDQoNCg0KDQpOU0bCoERVRcKgKCQ5OSwzODApwqAgICAgICAgICAgICAgRGlyZWN0b3LCoG9mwqBVbml2ZXJzaXR5wqBGYWN1bHR5L0hpZ2jCoFNjaG9vbMKgVGVhY2hlcsKgRXhjaGFuZ2XCoCAgICAgICAgIDE5OTctOTgNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChNSVBQKcKgcHJvamVjdMKgb2bCoE5EwqBDb01TVGVQwqBQbGFubmluZ8KgR3JhbnTCoGFjdGl2aXRpZXPCoChQcmluY2lwYWzCoA0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSW52ZXN0aWdhdG9yOsKgRGVicmHCoFRvbWFuZWsswqBORFNVwqBCb3RhbnkpwqANCg0KDQoNCg0KDQoNCg0KDQoNCsKgDQoNCldpbGxpYW0gTyBNYXJ0aW4gDQoNCk5EwqBFUFNDT1LCoCgkNDAsMDAwKcKgICAgUHJpbmNpcGFswqBJbnZlc3RpZ2F0b3IswqBDb25uZWN0aW5nwqBJbnN0cnVjdGlvbmFswqBHb2Fsc8KgYW5kwqB0aGXCoCAgIDE5OTYtOTgNCg0KICAgICAgICAgICAgICAgICAgICAgICBEZXZlbG9wbWVudMKgb2bCoFN0dWRlbnRzJ8KgTWF0aGVtYXRpY2FswqBLbm93bGVkZ2U6wqBBwqBHbG9iYWwswqANCg0KICAgICAgICAgICAgICAgICAgICAgICBMb25naXR1ZGluYWzCoFBlcnNwZWN0aXZlLsKgDQoNCg0KDQoNCg0KDQoNCg0KDQrCoA0KDQpXaWxsaWFtIE8gTWFydGluIA0KDQoNCg0KQ29uZmVyZW5jZXMsIFdvcmtzaG9wcyBhbmQgUHJlc2VudGF0aW9ucyANCg0KMjAxMCANCg0K74K3ICAgU2VwdGVtYmVywqAyNS7CoENvLW9yZ2FuaXplcsKgYW5kwqBwcmVzZW50ZXIswqBORFNVwqBTb25pYcKgS292YWxldnNrecKgSGlnaMKgU2Nob29swqBHaXJsc8KgTWF0aGVtYXRpY3PCoERheS7CoEZhcmdvDQoNCu+CtyAgIFNlcHRlbWJlcsKgMjIuwqBORFNVwqBTT0XCoENvbGxvcXVpdW3CoEHCoE1hdGhlbWF0aWNzwqBQcm9mZXNzb3LCoFJldHVybnPCoHRvwqB0aGXCoENsYXNzcm9vbTrCoExlc3NvbnPCoExlYXJuZWTCoA0KDQogICAgRHVyaW5nwqBhwqBTZW1lc3RlcsKgaW7CoEluZGlhLsKgwqANCg0K74K3ICAgSnVuZcKgMS0yLsKgQnVzaMKgRm91bmRhdGlvbsKgVGVhY2hlcsKgRWR1Y2F0aW9uwqBSZWZvcm3CoFByb2plY3TCoG1lZXRpbmcswqBTY2llbmNlwqBNdXNldW3CoFN0LsKgUGF1bMKgTU4uwqANCg0K74K3ICAgSmFudWFyeS1KdW5lLsKgRGV2ZWxvcG1lbnRhbMKgTGVhdmXCoGF0wqBLb2RhaWthbmFswqBJbnRlcm5hdGlvbmFswqBTY2hvb2wswqBUYW1pbG5hZHUswqBTb3V0aMKgSW5kaWEuwqBIaWdowqBTY2hvb2zCoA0KDQogICAgTWF0aGVtYXRpY3PCoHRlYWNoZXLCoGFuZMKgY29uc3VsdGFudC7CoFByZXNlbnRlZMKgZmFjdWx0ecKgd29ya3Nob3BzwqBvbsKgVXNlwqBvZsKgVGVjaG5vbG9naWVzwqBpbsKgU2Nob29swqANCg0KICAgIE1hdGhlbWF0aWNzLMKgYW5kwqBNecKgUHJpdmF0ZcKgVW5pdmVyc2U6wqBXaGF0wqBkb8KgT3VywqBTdHVkZW50c8KgS25vd8KgYW5kwqBMZWFybj/CoA0KDQoNCg0KMjAwOSANCg0K74K3ICAgRGVjZW1iZXLCoDExLsKgTkRBQ1RFwqBNZWV0aW5nwqB2aWHCoElWTi7CoEZhcmdvLsKgDQoNCu+CtyAgIERlY2VtYmVywqAyLsKgTlNGwqBQcm9qZWN0wqBBc3Nlc3NtZW50wqBNZWV0aW5nwqB3aXRowqBOYXRoYW7CoFdvb2QuwqBEZW52ZXIswqBDTy7CoA0KDQrvgrcgICBOb3ZlbWJlcsKgMTMtMTQuwqBQcmVzZW50YXRpb27CoGF0wqBUaGXCoENvbGxhYm9yYXRpb27CoENvbmZlcmVuY2XCoHdpdGjCoEVyaWthwqBPZmZlcmRhaGzCoGFuZMKgTGlzYcKgTW9udHBsYWlzaXIswqANCg0KICAgIFJldmVhbGluZ8KgV2hhdMKgWW91csKgU3R1ZGVudHPCoEtub3c6wqBJbnRlZ3JhdGluZ8KgVGVjaG5vbG9necKgZm9ywqBGb3JtYXRpdmXCoEFzc2Vzc21lbnQuwqBNaW5uZWFwb2xpcyzCoE1OLsKgDQoNCu+CtyAgIE5vdmVtYmVywqA0LTUuwqBCdXNowqBGb3VuZGF0aW9uwqBUZWFjaGVywqBFZHVjYXRpb27CoFJlZm9ybcKgUHJvamVjdMKgbWVldGluZyzCoFNjaWVuY2XCoE11c2V1bcKgU3QuwqBQYXVswqBNTi7CoA0KDQrvgrcgICBPY3RvYmVywqAxMC7CoENvLW9yZ2FuaXplcsKgTkRTVcKgU29uaWHCoEtvdmFsZXZza3nCoEhpZ2jCoFNjaG9vbMKgR2lybHPCoE1hdGhlbWF0aWNzwqBEYXkuwqBGYXJnb8KgDQoNCu+CtyAgIFNlcHRlbWJlcsKgMjEuwqBCdXNowqBGb3VuZGF0aW9uwqBUZWFjaGVywqBFZHVjYXRpb27CoFJlZm9ybcKgUHJvamVjdMKgbWVldGluZyzCoFNjaWVuY2XCoE11c2V1bcKgU3QuwqBQYXVswqBNTi7CoA0KDQrvgrcgICBBdWd1c3TCoDE5LsKgTkRTVcKgVGVhY2hpbmfCoFdvcmtzaG9wwqBQYW5lbMKgVGVhY2hpbmfCoExhcmdlwqBMZWN0dXJlwqBDbGFzc2VzLsKgwqANCg0K74K3ICAgSnVuZcKgMjUtMjYuwqBCdXNowqBGb3VuZGF0aW9uwqBUZWFjaGVywqBFZHVjYXRpb27CoFJlZm9ybcKgUHJvamVjdMKgbWVldGluZyzCoFNjaWVuY2XCoE11c2V1bcKgU3QuwqBQYXVswqBNTi7CoA0KDQrvgrcgICBKdW5lwqAxNy0xOC7CoEFBQ1RFwqBEYXnCoG9uwqB0aGXCoEhpbGzCoG1lZXRpbmfCoHBhcnRpY2lwYW50LsKgDQoNCu+CtyAgIE1hecKgMjktSnVuZcKgMi7CoE5EU1XCoEdlbmVyYWzCoEVkdWNhdGlvbsKgVGVhbcKgTWVtYmVyLMKgQUFDJlXCoGNvbmZlcmVuY2UswqBVTU7CoE1pbm5lYXBvbGlzLsKgDQoNCu+CtyAgIEFwcmlswqAyNC7CoE5EQUNURcKgU3ByaW5nwqBMZWFkZXJzaGlwwqBDb25mZXJlbmNlwqBwYXJ0aWNpcGFudC7CoEJpc21hcmNrLsKgDQoNCu+CtyAgIE1hcmNowqAxMy7CoE5EQUNURcKgbWVldGluZ8KgaW7CoEJpc21hcmNrLsKgDQoNCu+CtyAgIEphbnVhcnnCoDE2LsKgTkRBQ1RFwqBtZWV0aW5nwqB2aWHCoElWTi7CoA0KDQrvgrcgICBKYW51YXJ5wqA1LTguwqBPcmdhbml6ZXLCoG9mwqBNQUHCoENvbnRyaWJ1dGVkwqBQYXBlcsKgU2Vzc2lvbsKgb27CoEFzc2Vzc21lbnTCoGF0wqBKb2ludMKgTWF0aGVtYXRpY3PCoE1lZXRpbmdzLsKgDQoNCiAgICBXYXNoaW5ndG9uwqBEQy7CoA0KDQoNCg0KMjAwOCANCg0K74K3ICAgTm92ZW1iZXLCoDE3LsKgTkRTVcKgQ29sbGVnZcKgb2bCoFNjaWVuY2XCoGFuZMKgTWF0aGVtYXRpY3MswqBOZXfCoEZhY3VsdHnCoFRlYWNoaW5nwqBXb3Jrc2hvcMKgcHJlc2VudGF0aW9uLsKgDQoNCu+CtyAgIE5vdmVtYmVywqAxNC7CoE5EQUNURcKgTWVldGluZy7CoEJpc21hcmNrLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDIzLsKgTkRDVE3CoEJvYXJkwqBNZWV0aW5nwqBhbmTCoENvbmZlcmVuY2UuwqBHcmFuZMKgRm9ya3MuwqANCg0K74K3ICAgT2N0b2JlcsKgMTcuwqBQcmVzZW50ZXIswqBNQUHCoE5vcnRowqBDZW50cmFswqBTZWN0aW9uwqBQcm9qZWN0wqBORXhUwqBjb25mZXJlbmNlLMKgc2Vzc2lvbsKgQXNzZXNzbWVudMKgaW7CoA0KDQogICAgTWF0aGVtYXRpY3PCoERlcGFydG1lbnRzLsKgDQoNCu+CtyAgIFNlcHRlbWJlcsKgMjcuwqBDby1vcmdhbml6ZXLCoE5EU1XCoFNvbmlhwqBLb3ZhbGV2c2t5wqBIaWdowqBTY2hvb2zCoEdpcmxzwqBNYXRoZW1hdGljc8KgRGF5LsKgRmFyZ2/CoA0KDQrvgrcgICBTZXB0ZW1iZXLCoDE5LsKgTkRBQ1RFwqBNZWV0aW5nLsKgQmlzbWFyY2suwqANCg0K74K3ICAgQXVndXN0wqAyMC7CoE5EU1XCoEZhY3VsdHnCoERldmVsb3BtZW50wqBXb3Jrc2hvcMKgUHJlc2VudGF0aW9uwqBvbsKgU3RyYXRlZ2llc8KgdG/CoEluY3JlYXNlwqBTdHVkZW50wqBFbmdhZ2VtZW50wqANCg0KICAgIGluwqBMYXJnZcKgTGVjdHVyZXMuwqBGYXJnby7CoA0KDQrvgrcgICBKdWx5wqAzLTQuwqBUZWFtwqBtZW1iZXLCoG9mwqBNQUHCoFBsYWNlbWVudMKgVGVzdGluZ8KgUHJvZ3JhbcKgd29ya3Nob3AswqBNYWRpc29uLMKgV2lzY29uc2luLsKgDQoNCu+CtyAgIEp1bmXCoDE2LTIwLsKgSW52aXRlZMKgYW5kwqByZWZlcmVlZMKgcHJlc2VudGF0aW9uwqBhdMKgSW50ZXJuYXRpb25hbMKgTGluZWFywqBBbGdlYnJhwqBTb2NpZXR5wqBtZWV0aW5nLMKgSW50ZWdyYXRpbmfCoA0KDQogICAgbGVhcm5pbmfCoHRoZW9yaWVzwqBhbmTCoGFwcGxpY2F0aW9uLWJhc2VkwqBtb2R1bGVzwqBpbsKgdGVhY2hpbmfCoGxpbmVhcsKgYWxnZWJyYcKgd2l0aMKgU2VyZ2lvwqBMb2NoLMKgRHJhZ2HCoFZpZGFrb3ZpYyzCoA0KDQogICAgTGF1cmVswqBDb29sZXkswqBTY290dMKgRGV4dGVyLsKgQ2FuY3VuLMKgTWV4aWNvLsKgDQoNCu+CtyAgIEp1bmXCoDEzLsKgQ28tb3JnYW5pemVywqBHcmFTVVPCoFN1bW1lcsKgQWNhZGVtecKgUGFydMKgSS7CoE5EU1UswqBGYXJnby7CoA0KDQrvgrcgICBBcHJpbMKgMTktMjMuwqBDaGFpcsKgU3RhdGXCoFRlYW3CoGZvcsKgVU5EwqBOQ0FURS9FU1BCwqBBY2NyZWRpdGF0aW9uwqBhbmTCoEFwcHJvdmFswqBzaXRlwqB2aXNpdC7CoEdyYW5kwqBGb3Jrcy7CoA0KDQrvgrcgICBBcHJpbMKgMTguwqBBdHRlbmTCoE5EQ1RNwqBCb2FyZMKgTWVldGluZ8KgYW5kwqBTcHJpbmfCoENvbmZlcmVuY2UuwqBHcmFuZMKgRm9ya3MuwqANCg0KwqANCg0KV2lsbGlhbSBPIE1hcnRpbiANCg0K74K3ICAgQXByaWzCoDMswqA0LsKgQXR0ZW5kwqBOREFDVEXCoFNwcmluZ8KgTGVhZGVyc2hpcMKgQ29uZmVyZW5jZS7CoFVuaXZlcnNpdHnCoG9mwqBNYXJ5LMKgQmlzbWFyY2suwqANCg0K74K3ICAgSmFudWFyecKgMTgtMjEuwqBMaW5lYXLCoEFsZ2VicmHCoFByb2plY3TCoGdyYW50wqBsZWFkZXJzaGlwwqBtZWV0aW5nwqBhbmTCoHdvcmtzaG9wLsKgQ1VOWcKgR3JhZHVhdGXCoENlbnRlcizCoE5ld8KgDQoNCiAgICBZb3JrLsKgDQoNCu+CtyAgIEphbnVhcnnCoDUtOS7CoE9yZ2FuaXplcsKgb2bCoE1BQcKgQ29udHJpYnV0ZWTCoFBhcGVywqBTZXNzaW9uwqBvbsKgQXNzZXNzbWVudMKgYXTCoEpvaW50wqBNYXRoZW1hdGljc8KgTWVldGluZ3MuwqBTYW7CoA0KDQogICAgRGllZ28uwqANCg0K74K3ICAgSmFudWFyecKgMy7CoENvLXByZXNlbnRlcsKgd2l0aMKgTGlzYcKgTW9udHBsYWlzaXLCoGZvcsKgUGVlcsKgUmV2aWV3wqBvZsKgVGVhY2hpbmfCoHByb2plY3TCoHdvcmtzaG9wwqBvbsKgQXNzZXNzbWVudMKgDQoNCiAgICBhbmTCoEVuZ2FnaW5nwqBTdHVkZW50cy7CoE5EU1UswqBGYXJnby7CoA0KDQoNCg0KMjAwNyANCg0K74K3ICAgTm92ZW1iZXLCoDctMTAuwqBQYXJ0aWNpcGFudMKgQUNFwqBDaGFpcidzwqBDb25mZXJlbmNlLMKgQXVzdGluwqBUZXhhcy7CoA0KDQrvgrcgICBTZXB0ZW1iZXLCoDEzLsKgQ28tb3JnYW5pemVywqBORFNVwqBTb25pYcKgS292YWxldnNrecKgSGlnaMKgU2Nob29swqBHaXJsc8KgTWF0aGVtYXRpY3PCoERheS7CoEZhcmdvwqANCg0K74K3ICAgQXVndXN0wqAxNy0xOS7CoE1BQcKgUGxhY2VtZW50wqBUZXN0aW5nwqBQcm9ncmFtwqB3b3Jrc2hvcCzCoFdhc2hpbmd0b27CoERDLsKgDQoNCu+CtyAgIEF1Z3VzdMKgMTUuwqBORFNVwqBUZWFjaGluZ8KgV29ya3Nob3DCoEFzc2Vzc21lbnTCoGFuZMKgR3JhZGluZ8KgYXPCoEluc3RydWN0aW9uYWzCoFRvb2xzLsKgTkRTVSzCoEZhcmdvLsKgDQoNCu+CtyAgIEp1bmXCoDbCoGFuZMKgMTIuwqBOQVRVUkXCoFJlc2VhcmNowqBQcm9wb3NhbMKgU2VtaW5hci7CoE5BVFVSRcKgU3VtbWVywqBBY2FkZW15wqBhdMKgTkRTVSzCoEZhcmdvLsKgDQoNCu+CtyAgIE1hecKgMzEswqBBdWd1c3TCoDYtNy7CoEdyYVNVU8KgU3VtbWVywqBBY2FkZW15wqBvcmdhbml6ZXLCoGF0wqBORFNVLMKgRmFyZ28uwqANCg0K74K3ICAgQXByaWzCoDE4LsKgQVAtRW5naW5lZXJpbmfCoFByb3Bvc2FswqBXb3Jrc2hvcC7CoFBsYW5uaW5nwqBncm91cMKgcGFydGljaXBhbnTCoGF0wqBVbml2ZXJzaXR5wqBvZsKgTWFyeWxhbmTCoGZvcsKgU0VFSy0xNsKgDQoNCiAgICBwcm9qZWN0wqBoZWFkZWTCoGJ5wqBMZWXCoEFidHMuwqBDb2xsZWdlwqBQYXJrwqBNRC7CoA0KDQrvgrcgICBBcHJpbMKgMTItMTMuwqBOREFDVEXCoFNwcmluZ8KgQ29uZmVyZW5jZcKgYXTCoFVuaXZlcnNpdHnCoG9mwqBNYXJ5LMKgQmlzbWFyY2suwqANCg0K74K3ICAgQXByaWzCoDEwLsKgRG9nYW7CoMOHw7ZtZXoswqBDYW5hbsKgQmlsZW4tR3JlZW4swqBXaWxsaWFtwqBPLsKgTWFydGluLMKgS2ltwqBNY1ZpY2FyLMKgKkxpc2HCoE0uwqBNb250cGxhaXNpcizCoGFuZMKgRGVicmHCoA0KDQogICAgVG9tYW5lay7CoEdyYVNVUzrCoFByb2Zlc3Npb25hbMKgRGV2ZWxvcG1lbnTCoGluwqBNYXRoZW1hdGljc8KgYW5kwqBTY2llbmNlwqB0aHJvdWdowqBTY2hvb2wtVW5pdmVyc2l0ecKgDQoNCiAgICBDb2xsYWJvcmF0aW9uLsKgQ29udHJpYnV0ZWTCoHBhcGVywqBhdMKgQUVSQcKgaW7CoENoaWNhZ28uwqANCg0K74K3ICAgQXByaWzCoDItNC7CoEdyZWF0wqBQbGFpbnPCoElERUHCoGNvbmZlcmVuY2UuwqBPbWFoYSzCoE5lYnJhc2thLsKgDQoNCu+CtyAgIE1hcmNowqAzMC0zMS7CoE5EQ1RNwqBTcHJpbmfCoENvbmZlcmVuY2UuwqBDb25mZXJlbmNlwqBjb8KgQ2hhaXLCoHdpdGjCoExvbm5pZcKgSGFzc8KgYXTCoE5EU1UswqBGYXJnby7CoA0KDQrvgrcgICBNYXJjaMKgMjItMjMuwqBNYXRoZW1hdGljc8KgRGVwYXJ0bWVudMKgUHJvZ3JhbcKgUmV2aWV3LsKgTm9ydGhlcm7CoFN0YXRlwqBVbml2ZXJzaXR5LMKgQWJlcmRlZW7CoFNELsKgDQoNCu+CtyAgIE1hcmNowqAxOS7CoEFQLUVuZ2luZWVyaW5nwqBQcm9wb3NhbMKgV29ya3Nob3AuwqBQbGFubmluZ8KgZ3JvdXDCoHBhcnRpY2lwYW50wqBhdMKgTmF0aW9uYWzCoEFjYWRlbXnCoG9mwqBFbmdpbmVlcmluZ8KgDQoNCiAgICBmb3LCoFNFRUstMTbCoHByb2plY3TCoGhlYWRlZMKgYnnCoExlZcKgQWJ0cy7CoFdhc2hpbmd0b27CoERDLsKgDQoNCu+CtyAgIE1hcmNowqA5LTExLsKgQXR0ZW5kwqBhbmTCoHByZXNlbnTCoHBvc3RlcsKgYXTCoEdLLTEywqBQcm9qZWN0wqBNZWV0aW5nwqBhc8KgY28tUEnCoG9mwqBHcmFTVVPCoElJLsKgV2FzaGluZ3RvbsKgREMuwqANCg0K74K3ICAgRmVicnVhcnnCoDktMTIuwqBMaW5lYXLCoEFsZ2VicmHCoFByb2plY3TCoChmdW5kZWTCoGJ5wqBOU0bCoENDTEkpwqBtZWV0aW5nwqBhdMKgQ1VOWcKgR3JhZHVhdGXCoENlbnRlci7CoE5ld8KgWW9yayzCoE5ld8KgDQoNCiAgICBZb3JrLsKgDQoNCu+CtyAgIEphbnVhcnnCoDE5LsKgUGFuZWxpc3TCoGF0wqBOREFDVEXCoENvbmZlcmVuY2XCoG9uwqBBY2NyZWRpdGF0aW9uL1Byb2dyYW3CoEFwcHJvdmFsLsKgVkNTVSzCoFZhbGxlecKgQ2l0eS7CoA0KDQrvgrcgICBKYW51YXJ5wqA3LsKgT3JnYW5pemVkwqBBc3Nlc3NtZW50wqBjb250cmlidXRlZMKgcGFwZXLCoHNlc3Npb27CoGF0wqBhbm51YWzCoEpvaW50wqBNYXRoZW1hdGljc8KgTWVldGluZ3MuwqBOZXfCoA0KDQogICAgT3JsZWFucyzCoExBLsKgDQoNCu+CtyAgIEphbnVhcnnCoDUuwqBJbnZpdGVkwqBwYW5lbGlzdMKgZm9ywqBRdWFudGl0YXRpdmXCoExpdGVyYWN5wqBzZXNzaW9uwqBhdMKgYW5udWFswqBKb2ludMKgTWF0aGVtYXRpY3PCoE1lZXRpbmdzLsKgTmV3wqANCg0KICAgIE9ybGVhbnMswqBMQS7CoA0KDQoNCg0KMjAwNiANCg0K74K3ICAgTm92ZW1iZXLCoDEwLMKgMjAwNi7CoFRoZcKgTGVhcm5pbmfCoG9mwqBMaW5lYXLCoEFsZ2VicmHCoGZyb23CoGFuwqBBUE9TwqBQZXJzcGVjdGl2ZS7CoFdpdGjCoE1pY2hhZWzCoE1lYWdoZXIswqBMYXVyZWzCoA0KDQogICAgQ29vbGV5LMKgRHJhZ2HCoFZpaWRha292aWMswqBhbmTCoFNlcmdpb8KgTG9jaC7CoFBvc3RlcsKgc2Vzc2lvbsKgYXTCoFBNRS1OQcKgYW5udWFswqBtZWV0aW5nwqBpbsKgTWVyaWRhLMKgTWV4aWNvLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDI4LMKgMjAwNi7CoEFjdGlvbsKgUmVzZWFyY2gswqBOQVRVUkXCoHByb2plY3TCoG1lZXRpbmfCoGF0wqBORFNVLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDI3LMKgMjAwNi7CoE9yZ2FuaXplcizCoEFQMsKgRW5naW5lZXJpbmfCoEZvY3VzwqBHcm91cC7CoE5EU1XCoEdyb3VwwqBEZWNpc2lvbsKgQ2VudGVyLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDIwLTIzLMKgMjAwNi7CoExpbmVhcsKgQWxnZWJyYcKgUHJvamVjdMKgd29ya3Nob3AswqBDVU5ZwqBHcmFkdWF0ZcKgQ2VudGVyLMKgTlkuwqANCg0K74K3ICAgT2N0b2JlcsKgNyzCoDIwMDYuwqBDby1vcmdhbml6ZXIswqBTb25pYcKgS292YWxldnNrecKgSGlnaMKgU2Nob29swqBNYXRoZW1hdGljc8KgRGF5LsKgTkRTVcKgQWx1bW5pwqBDZW50ZXIuwqANCg0K74K3ICAgU2VwdGVtYmVywqAyMizCoDIwMDYuwqBOREFDVEXCoE1lZXRpbmfCoGF0wqBTaXR0aW5nwqBCdWxswqBDb21tdW5pdHnCoENvbGxlZ2UswqBORC7CoA0KDQrvgrcgICBTZXB0ZW1iZXLCoDExLMKgMjAwNi7CoEVmZmVjdHPCoG9mwqB0aGXCoENvbmN1cnJlbnTCoFN0dWR5wqBvZsKgTGVhcm5pbmfCoFRoZW9yecKgYW5kwqBMaW5lYXLCoEFsZ2VicmEuwqBORFNVwqBTY2hvb2zCoG9mwqANCg0KICAgIEVkdWNhdGlvbsKgQ29sbG9xdWl1bS7CoA0KDQrvgrcgICBKdWx5wqAyOC0zMSzCoDIwMDYuwqBMaW5lYXLCoEFsZ2VicmHCoFByb2plY3TCoHdvcmtzaG9wLMKgQ1VOWcKgR3JhZHVhdGXCoENlbnRlcizCoE5ZLsKgDQoNCg0KDQrCoA0KDQpXaWxsaWFtIE8gTWFydGluIA0KDQrvgrcgICBBcHJpbMKgMjctMjkswqAyMDA2LsKgQXNzZXNzbWVudMKgd29ya3Nob3DCoGZvcsKgRWFzdGVybsKgS2VudHVja3nCoFVuaXZlcnNpdHnCoERlcGFydG1lbnTCoG9mwqBNYXRoZW1hdGljcy7CoA0KDQrvgrcgICBBcHJpbMKgOCzCoDIwMDYuwqBMZWFybmluZ8KgVGhlb3J5wqBhbmTCoExpbmVhcsKgQWxnZWJyYS7CoFBvc3RlcsKgc2Vzc2lvbsKgYXTCoEFFUkHCoGFubnVhbMKgbWVldGluZyzCoFNhbsKgRnJhbmNpc2NvLsKgDQoNCu+CtyAgIE1hcmNowqAyOS0zMCzCoDIwMDYuwqBFeHRlcm5hbMKgRXZhbHVhdG9yLMKgcHJvZ3JhbcKgcmV2aWV3wqBmb3LCoEJlbWlkamnCoFN0YXRlwqBVbml2ZXJzaXR5wqBEZXBhcnRtZW50wqBvZsKgDQoNCiAgICBNYXRoZW1hdGljcyzCoE1pbm5lc290YS7CoA0KDQrvgrcgICBNYXJjaMKgMy02LMKgMjAwNi7CoExpbmVhcsKgQWxnZWJyYcKgUHJvamVjdMKgd29ya3Nob3AswqBDVU5ZwqBHcmFkdWF0ZcKgQ2VudGVyLMKgTlkuwqANCg0K74K3ICAgSmFudWFyecKgMTMtMTQswqAyMDA2LsKgTUFBL0FNU8KgQW5udWFswqBKb2ludMKgTWVldGluZ3PCoENvbnRyaWJ1dGVkwqBQYXBlcsKgU2Vzc2lvbsKgT3JnYW5pemVyLMKgUmVzZWFyY2jCoGludG/CoA0KDQogICAgUHJhY3RpY2UswqBvbsKgUmVzZWFyY2jCoGluwqBVbmRlcmdyYWR1YXRlwqBNYXRoZW1hdGljc8KgRWR1Y2F0aW9uwqAoUlVNRSnCoGFzwqBQcm9ncmFtwqBDaGFpcsKgZm9ywqB0aGXCoE1BQcKgU0lHwqBvbsKgDQoNCiAgICBSVU1FLsKgU2FuwqBBbnRvbmlvLMKgVGV4YXPCoA0KDQrvgrcgICBKYW51YXJ5wqAxMC0xMizCoDIwMDYuwqBXb3Jrc2hvcMKgYW5kwqBwYW5lbMKgbGVhZGVywqBmb3LCoE1BQcKgUHJvamVjdMKgU0FVTcKgQXNzZXNzbWVudMKgV29ya3Nob3DCoCM0LMKgU2FuwqANCg0KICAgIEFudG9uaW/CoFRleGFzLsKgDQoNCg0KDQoyMDA1IA0KDQrvgrcgICBOb3ZlbWJlcsKgNC02LMKgMjAwNS7CoExpbmVhcsKgQWxnZWJyYcKgUHJvamVjdMKgd29ya3Nob3AswqBDVU5ZwqBHcmFkdWF0ZcKgQ2VudGVyLMKgTlkuwqANCg0K74K3ICAgT2N0b2JlcsKgMjItMjMswqAyMDA1LsKgSXRlbcKgd3JpdGluZ8Kgd29ya3Nob3DCoGZvcsKgRVRTwqBQUkFYSVPCoElJwqBtYXRoZW1hdGljc8KgY29udGVudMKgZXhhbWluYXRpb25zLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDEzLTE1LMKgMjAwNS7CoFBsZW5hcnnCoHNwZWFrZXLCoGFuZMKgd29ya3Nob3DCoG9yZ2FuaXplcsKgZm9ywqBHZW9yZ2lhwqBOU0Ytc3BvbnNvcmVkwqBNYXRowqBTY2llbmNlwqANCg0KICAgIFBhcnRuZXJzaGlwwqBQUklTTcKgSW5zdGl0dXRlLMKgQXRsYW50YcKgR2VvcmdpYS7CoA0KDQrvgrcgICBKdWx5wqAxNS0xOC7CoExpbmVhcsKgQWxnZWJyYcKgUHJvamVjdMKgbGVhZGVyc2hpcMKgZ3JvdXDCoHdvcmtzaG9wLsKgTmV3wqBZb3JrwqBDaXR5LsKgDQoNCu+CtyAgIEp1bmXCoDYtMTAuwqBUZWFtwqBtZW1iZXIswqBOU0bCoENyaXRpY2FswqBTaXRlwqBWaXNpdMKgZm9ywqBQdWVydG/CoFJpY2/CoE1TUC7CoFNhbsKgSnVhbizCoFB1ZXJ0b8KgUmljby7CoA0KDQrvgrcgICBNYXnCoDMxLUp1bmXCoDMuwqBPcmdhbml6ZXLCoGFuZMKgcGFydGljaXBhbnQswqBPTlLCoFN1bW1lcsKgQWNhZGVtecKgZm9ywqBjb2xsYWJvcmF0aXZlwqBwcm9qZWN0wqB3aXRowqBORMKgVHJpYmFswqANCg0KICAgIENvbGxlZ2VzLsKgRmFyZ28uwqANCg0K74K3ICAgTWF5wqAxLTMuwqBQcm9ncmFtwqByZXZpZXfCoHNpdGXCoHZpc2l0LMKgU2FpbnTCoENsb3VkwqBTdGF0ZcKgVW5pdmVyc2l0ecKgTWF0aGVtYXRpY3PCoERlcGFydG1lbnQuwqBTdC7CoENsb3VkLMKgTU4uwqANCg0K74K3ICAgQXByaWzCoDktMTMuwqBDb29yZGluYXRvcsKgZm9ywqBOQ0FURS9FU1BCwqBjb250aW51aW5nwqBhY2NyZWRpdGF0aW9uwqBzaXRlwqB2aXNpdMKgdG/CoE5EU1UuwqBGYXJnb8KgTkQuwqANCg0K74K3ICAgQXByaWzCoDcswqA5LsKgTkRBQ1RFwqBTdGF0ZcKgY29uZmVyZW5jZS7CoEJpc21hcmNrLMKgTkQuwqANCg0K74K3ICAgQXByaWzCoDMtNS7CoFNpdGXCoENvb3JkaW5hdG9ywqBmb3LCoENBUkXCoGNvbmZlcmVuY2XCoGZyb23CoE1vbnJvZcKgTG91aXNpYW5hwqAoVW5pdmVyc2l0ecKgb2bCoExBLU1vbnJvZSkuwqBGYXJnb8KgTkTCoA0KDQogICAgdmlhwqB2aWRlb8KgY29uZmVyZW5jZS7CoA0KDQrvgrcgICBBcHJpbMKgMS0yLsKgTkRDVE3CoEJvYXJkwqBtZWV0aW5nwqBhbmTCoHNwcmluZ8KgY29uZmVyZW5jZS7CoEphbWVzdG93bizCoE5ELsKgDQoNCu+CtyAgIE1hcmNowqAyMC7CoE5EU1XCoEZhY3VsdHnCoHJlcHJlc2VudGF0aXZlwqBhbmTCoHdvcmtzaG9wwqBmYWNpbGl0YXRvcsKgZm9ywqBPTlLCoHByb2plY3TCoFN1bmRhecKgQWNhZGVtecKgYXTCoFNpdHRpbmfCoA0KDQogICAgQnVsbMKgQ0MuwqBGb3J0wqBZYXRlc8KgTkQuwqANCg0K74K3ICAgRmVicnVhcnnCoDI0LTI3LsKgU3RlZXJpbmfCoGNvbW1pdHRlZcKgY2/CoG9yZ2FuaXplcsKgZm9ywqBNQUHCoFNJR01BQcKgb27CoFJVTUXCoGFubnVhbMKgY29uZmVyZW5jZS7CoFBob2VuaXjCoEFaLsKgDQoNCu+CtyAgIEZlYnJ1YXJ5wqAyMCzCoDIxLsKgSW52aXRlZMKgcGFydGljaXBhbnQswqBTRUVLLTE2wqBjb25mZXJlbmNlwqBhdMKgTmF0aW9uYWzCoEFjYWRlbXnCoG9mwqBFbmdpbmVlcmluZy7CoMKgV2FzaGluZ3RvbizCoA0KDQogICAgREMuwqANCg0K74K3ICAgSmFudWFyecKgOC0xMC7CoExlYWRlcnNoaXDCoGdyb3VwwqBhbmTCoHByZXNlbnRlcsKgYXTCoE1BQcKgUHJvamVjdMKgU0FVTcKgV29ya3Nob3DCoCM0wqBBc3Nlc3NpbmfCoHRoZcKgTWF0aGVtYXRpY3PCoA0KDQogICAgTWFqb3IuwqBDbGF5dG9uwqBDb2xsZWdlLMKgQXRsYW50YcKgR0EuwqANCg0K74K3ICAgSmFudWFyecKgNC04LsKgT3JnYW5pemVywqBmb3LCoE1BQcKgU0lHTUFBwqBSVU1FwqBDb250cmlidXRlZMKgUGFwZXLCoFNlc3Npb27CoGFuZMKgQnVzaW5lc3PCoG1lZXRpbmfCoGF0wqBhbm51YWzCoA0KDQogICAgam9pbnTCoE1BQS9BTVPCoG1lZXRpbmdzLsKgQXRsYW50YSzCoEdBLsKgDQoNCg0KDQoyMDA0IA0KDQrvgrcgICBEZWNlbWJlcsKgMTIuwqBORFNVwqBGYWN1bHR5wqByZXByZXNlbnRhdGl2ZcKgYW5kwqB3b3Jrc2hvcMKgZmFjaWxpdGF0b3LCoGZvcsKgT05SwqBwcm9qZWN0wqBTdW5kYXnCoEFjYWRlbXnCoGF0wqANCg0KICAgIFNpdHRpbmfCoEJ1bGzCoENDLsKgRm9ydMKgWWF0ZXMswqBORC7CoA0KDQrvgrcgICBOb3ZlbWJlcsKgMjEuwqBORFNVwqBGYWN1bHR5wqByZXByZXNlbnRhdGl2ZcKgYW5kwqB3b3Jrc2hvcMKgZmFjaWxpdGF0b3LCoGF0wqBPTlLCoHByb2plY3TCoFN1bmRhecKgQWNhZGVtecKgYXTCoA0KDQogICAgU2l0dGluZ8KgQnVsbMKgQ0MuwqBGb3J0wqBZYXRlcyzCoE5ELsKgDQoNCu+CtyAgIE5vdmVtYmVywqAxMi0xNS7CoEludml0ZWTCoHBhbmVsaXN0LMKgTmF0aW9uYWzCoEFzc2Vzc21lbnTCoG9mwqBFZHVjYXRpb25hbMKgUHJvZ3Jlc3PCoFN0YW5kYXJkc8KgU2V0dGluZ8KgV29ya3Nob3AswqANCg0KICAgIEhpZ2jCoFNjaG9vbMKgTWF0aGVtYXRpY3MuwqBXZXN0aW7CoEhvdGVsLMKgU3QuwqBMb3Vpcy7CoA0KDQrvgrcgICBOb3ZlbWJlcsKgMy02LsKgUGFydGljaXBhbnQswqBBbWVyaWNhbsKgQ291bmNpbMKgb27CoEVkdWNhdGlvbsKgQ2hhaXIvRGVhbsKgV29ya3Nob3AuwqBQbGF6YcKgSG90ZWwswqBTYW7CoEFudG9uaW8swqANCg0KICAgIFRleGFzLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDI5LTMwLsKgTG9jYWzCoE9yZ2FuaXplcizCoE5vcnRowqBDZW50cmFswqBTZWN0aW9uwqBNYXRoZW1hdGljc8KgQXNzb2NpYXRpb27CoG9mwqBBbWVyaWNhwqBGYWxswqBNZWV0aW5nLsKgDQoNCiAgICBOb3J0aMKgRGFrb3RhwqBTdGF0ZcKgVW5pdmVyc2l0eSzCoEZhcmdvLsKgDQoNCsKgDQoNCldpbGxpYW0gTyBNYXJ0aW4gDQoNCu+CtyAgIE9jdG9iZXLCoDkuwqBDby1vcmdhbml6ZXIswqBTb25pYcKgS292YWxldnNrecKgTWF0aGVtYXRpY3PCoERheS7CoE5EU1XCoEFsdW1uacKgQ2VudGVyLMKgRmFyZ28uwqANCg0K74K3ICAgT2N0b2JlcsKgMS0zLsKgUlVNRUPCoFJlc2VhcmNowqBHcm91cMKgRmFsbMKgV29ya2luZ8KgTWVldGluZy7CoEdlb3JnaWHCoFN0YXRlwqBVbml2ZXJzaXR5LMKgQXRsYW50YS7CoA0KDQrvgrcgICBBdWd1c3TCoDE1LTE5LsKgQ28tb3JnYW5pemVyLMKgR3JhU1VTwqBTdW1tZXLCoEFjYWRlbXkuwqBORFNVLMKgRmFyZ28uwqANCg0K74K3ICAgQXVndXN0wqA0LTYuwqBMZWFkZXJzaGlwwqBncm91cCzCoE9OUsKgU3VtbWVywqBDYW1wLMKgcGFydMKgSUkuwqBORFNVLMKgRmFyZ28uwqANCg0K74K3ICAgQXVndXN0wqAyMS7CoE5EVVPCoENvbXBldGVuY3nCoEJhc2VkwqBBZG1pc3Npb27CoFdvcmtpbmfCoEdyb3VwwqBNZWV0aW5nLsKgRmFyZ28swqBORMKgKElWTikuwqANCg0K74K3ICAgSnVuZcKgMTAtMTMuwqBDby1QScKgUlVNRUPCoExpbmVhcsKgQWxnZWJyYcKgUHJvamVjdMKgR3JhbnTCoExlYWRlcnNoaXDCoFBsYW5uaW5nLsKgTmV3YXJrLMKgTkouwqANCg0K74K3ICAgSnVuZcKgMS00LsKgTGVhZGVyc2hpcMKgZ3JvdXAswqBPTlLCoFN1bW1lcsKgQ2FtcCzCoHBhcnTCoEkuwqBORFNVLMKgRmFyZ28uwqANCg0K74K3ICAgQXByaWzCoDI3LTI4LsKgTm9ydGjCoERha290YcKgRGVwYXJ0bWVudMKgb2bCoFB1YmxpY8KgSW5zdHJ1Y3Rpb27CoG5vbWluZWUswqBUZWNobm9sb2d5wqBFZHVjYXRpb27CoFdvcmtzaG9wLsKgDQoNCiAgICBOYXRpb25hbMKgQWNhZGVtecKgb2bCoEVuZ2luZWVyaW5nLMKgV2FzaGluZ3RvbsKgREMuwqANCg0K74K3ICAgQXByaWzCoDI0LsKgU2Vzc2lvbsKgb3JnYW5pemVyLMKgTkTCoFNjaWVuY2XCoE9seW1waWFkwqBQcmFjdGljYWzCoERhdGHCoEdhdGhlcmluZy7CoE5EU1UswqBGYXJnby7CoA0KDQrvgrcgICBNYXJjaMKgMjYtMjcuwqBORENUTcKgU3ByaW5nwqBDb25mZXJlbmNlLMKgQm9hcmTCoG1lZXRpbmfCoGFuZMKgc2Vzc2lvbsKgcHJlc2VudGVyOsKgVGVhY2hpbmfCoGFuZMKgTGVhcm5pbmfCoA0KDQogICAgTWF0aGVtYXRpY3M6wqBTb21lwqBWaWRlb8KgUGVyc3BlY3RpdmVzLsKgR3JhbmTCoEZvcmtzLMKgTkQuwqANCg0K74K3ICAgTWFyY2jCoDExLTE0LsKgTlNGwqBHSy0xMsKgUEnCoE1lZXRpbmcswqBDby1QScKgR3JhU1VTLsKgV2FzaGluZ3RvbsKgREMuwqANCg0K74K3ICAgTWFyY2jCoDUtNy7CoFdvcmtzaG9wwqBDby1MZWFkZXIswqBNQUHCoFBSRVDCoFByb2plY3TCoFNBVU0swqDCoEFzc2Vzc2luZ8KgdGhlwqBNYXRoZW1hdGljc8KgTWFqb3I6wqBXaGF0wqBkb8Kgb3VywqANCg0KICAgIFN0dWRlbnRzwqBLbm93P8KgSGlnaMKgUG9pbnQswqBOb3J0aMKgQ2Fyb2xpbmEuwqANCg0K74K3ICAgTWFyY2jCoDQtNi7CoEludml0ZWTCoHBhcnRpY2lwYW50wqAoTkRTVcKgdGVhbcKgd2l0aMKgQm9iwqBQaWVyacKgYW5kwqBKaW3CoFdpZ3RpbCkswqBURUVNLXVwwqBDb25mZXJlbmNlLsKgQ2xlYXJ3YXRlcsKgDQoNCiAgICBCZWFjaCzCoEZsb3JpZGEuwqANCg0K74K3ICAgRmVicnVhcnnCoDEzLTE1LsKgUlVNRUPCoFJlc2VhcmNowqBHcm91cMKgU3ByaW5nwqBXb3JraW5nwqBNZWV0aW5nLsKgSmVyc2V5wqBDaXR5LMKgTkouwqANCg0K74K3ICAgRmVicnVhcnnCoDgtMTAuwqBJbnZpdGVkwqBwYW5lbGlzdCzCoE5TRsKgcmV2aWV3wqBvZsKgTVNQwqBwcm9ncmFtwqBwcm9wb3NhbHMuwqBBcmxpbmd0b24swqBWaXJnaW5pYS7CoA0KDQrvgrcgICBKYW51YXJ5wqA3LTEyLsKgUG9zdGVywqBzZXNzaW9uwqBmb3LCoE1BQcKgUFJFUMKgUHJvamVjdMKgU0FVTSzCoEFzc2Vzc21lbnTCoGluwqBNYXRoZW1hdGljc8KgYXTCoE5EU1UuwqBKb2ludMKgDQoNCiAgICBBTVMvTUFBwqBtZWV0aW5ncyzCoFBob2VuaXgswqBBcml6b25hLsKgDQoNCu+CtyAgIEphbnVhcnnCoDUtNy7CoFdvcnNraG9wwqBDby1vcmdhbml6ZXLCoGFuZMKgcHJlc2VudGVyLsKgTUFBwqBQUkVQwqBQcm9qZWN0wqBTQVVNwqBXb3Jrc2hvcMKgIzMswqBBc3Nlc3NtZW50wqBpbsKgDQoNCiAgICBNYXRoZW1hdGljcy7CoFBob2VuaXgswqBBcml6b25hLsKgDQoNCg0KDQoyMDAzIA0KDQrvgrcgICBEZWNlbWJlcsKgMTQuwqBORFNVwqBGYWN1bHR5wqByZXByZXNlbnRhdGl2ZcKgYW5kwqB3b3Jrc2hvcMKgZmFjaWxpdGF0b3LCoGF0wqBPTlLCoHByb2plY3TCoFN1bmRhecKgQWNhZGVtecKgYXTCoA0KDQogICAgVW5pdGVkwqBUcmliZXPCoFRlY2huaWNhbMKgQ29sbGVnZS7CoEJpc21hcmNrLMKgTkQuwqANCg0K74K3ICAgTm92ZW1iZXLCoDIzLsKgwqBORFNVwqBGYWN1bHR5wqByZXByZXNlbnRhdGl2ZcKgYW5kwqB3b3Jrc2hvcMKgZmFjaWxpdGF0b3LCoGF0wqBPTlLCoHByb2plY3TCoFN1bmRhecKgQWNhZGVtecKgYXTCoA0KDQogICAgU2l0dGluZ8KgQnVsbMKgQ0MuwqBGb3J0wqBZYXRlcyzCoE5ELsKgDQoNCu+CtyAgIE5vdmVtYmVywqAxNi0xNy7CoFBhcnRpY2lwYW50wqBFU1BCwqBIaWdobHnCoFF1YWxpZmllZMKgU3RhbmRhcmRzwqBTZXR0aW5nwqBjb25mZXJlbmNlLsKgwqBCaXNtYXJjayzCoE5ELsKgDQoNCu+CtyAgIE9jdG9iZXLCoDI2LsKgwqBORFNVwqBGYWN1bHR5wqByZXByZXNlbnRhdGl2ZcKgYW5kwqB3b3Jrc2hvcMKgZmFjaWxpdGF0b3LCoGF0wqBPTlLCoHByb2plY3TCoFN1bmRhecKgQWNhZGVtecKgYXTCoFNpdHRpbmfCoA0KDQogICAgQnVsbMKgQ0MuwqBGb3J0wqBZYXRlcyzCoE5ELsKgDQoNCu+CtyAgIE9jdG9iZXLCoDI0LMKgMjUuwqBQcmVzZW50YXRpb27CoGF0wqBNQUHCoE5vcnRowqBDZW50cmFswqBTZWN0aW9uwqBGYWxswqBjb25mZXJlbmNlLMKgQXNzZXNzbWVudMKgYW5kwqBQcm9qZWN0wqBTQVVNLsKgDQoNCiAgICBTaW91eMKgRmFsbHMswqBTRC7CoA0KDQrvgrcgICBPY3RvYmVywqAxMC7CoEludml0ZWTCoHBhcnRpY2lwYW50LMKgTUNSRUzCoE5vcnRowqBEYWtvdGHCoFBsYW5uaW5nwqBNZWV0aW5nLsKgwqBCaXNtYXJjayzCoE5ELsKgDQoNCu+CtyAgIE9jdG9iZXLCoDkuwqBQYXJ0aWNpcGFudCzCoEVTUELCoFBvcnRmb2xpb8KgRGVzaWduwqBXb3Jrc2hvcMKgZm9ywqBIaWdobHnCoFF1YWxpZmllZC7CoERldmlsJ3PCoExha2XCoE5ELsKgDQoNCu+CtyAgIE9jdG9iZXLCoDMswqA0LsKgTkRNQVRZQ8KgRmFsbMKgQ29uZmVyZW5jZS7CoENhcnJpbmd0b24swqBORC7CoA0KDQrvgrcgICBTZXB0ZW1iZXLCoDI3LsKgQ2/CoE9yZ2FuaXplcsKgYW5kwqBQcmVzZW50ZXLCoGF0wqBORFNVwqBTb25pYcKgS292YWxldnNrecKgSGlnaMKgU2Nob29swqBEYXkuwqBGYXJnbyzCoE5ELsKgDQoNCu+CtyAgIFNlcHRlbWJlcsKgMTktMjEuwqBSVU1FQ8KgUmVzZWFyY2jCoEdyb3VwwqBGYWxswqBXb3JraW5nwqBNZWV0aW5nLsKgR2VvcmdpYcKgU3RhdGXCoFVuaXZlcnNpdHkswqBBdGxhbnRhLMKgR0EuwqANCg0K74K3ICAgU2VwdGVtYmVywqAxMC7CoFBhcnRpY2lwYW50LMKgRVNQQsKgUG9ydGZvbGlvwqBEZXNpZ27CoFdvcmtzaG9wwqBmb3LCoEhpZ2hsecKgUXVhbGlmaWVkLsKgQmlzbWFyY2vCoE5ELsKgDQoNCu+CtyAgIEp1bHnCoDIzLsKgUGFydGljaXBhbnQswqBFU1BCwqBQb3J0Zm9saW/CoERlc2lnbsKgV29ya3Nob3DCoGZvcsKgSGlnaGx5wqBRdWFsaWZpZWQuwqBEZXZpbCdzwqBMYWtlwqBORC7CoA0KDQrvgrcgICBNYXnCoDE4LTIxLsKgT3JnYW5pemVkwqBhbmTCoHByZXNlbnRlZMKgYXTCoGFubnVhbMKgTkTCoFJlZm9ybcKgb2bCoFNjaWVuY2XCoGFuZMKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbsKgY29uZmVyZW5jZS7CoA0KDQogICAgQmlzbWFyY2sswqBORC7CoA0KDQrvgrcgICBBcHJpbMKgMzDCoC3CoE1hecKgMy7CoE5TRsKgQ0VUUMKgUEnCoG1lZXRpbmfCoHJlcHJlc2VudGluZ8KgTkRTVcKgQ29NU1RlUMKgQXJsaW5ndG9uwqBWQS7CoA0KDQrvgrcgICBBcHJpbMKgMjYuwqBTZXNzaW9uwqBvcmdhbml6ZXIswqBORMKgU2NpZW5jZcKgT2x5bXBpYWTCoFByYWN0aWNhbMKgRGF0YcKgR2F0aGVyaW5nLsKgTkRTVSzCoEZhcmdvLsKgDQoNCu+CtyAgIEFwcmlswqAyMC0yMi7CoFByb2dyYW3CoHJldmlld8Kgc2l0ZcKgdmlzaXQswqBXaW5vbmHCoFN0YXRlwqBVbml2ZXJzaXR5wqBNYXRoZW1hdGljc8KgRGVwYXJ0bWVudC7CoFdpbm9uYSzCoE1OLsKgDQoNCg0KDQrCoA0KDQpXaWxsaWFtIE8gTWFydGluIA0KDQrvgrcgICBBcHJpbMKgMTAtMS7CoFBhcnRpY2lwYW50LMKgRVNQQsKgUHJvZ3JhbcKgUmV2aWV3wqBUcmFpbmluZ8KgV29ya3Nob3AuwqBHcmFuZMKgRm9ya3MswqBORC7CoA0KDQrvgrcgICBNYXJjaMKgMjgtMjkuwqBORENUTcKgQm9hcmTCoG1lZXRpbmfCoGFuZMKgc3ByaW5nwqBjb25mZXJlbmNlLsKgTWlub3QswqBORC7CoA0KDQrvgrcgICBNYXJjaMKgMTMtMTYuwqBXb3Jrc2hvcMKgY28tb3JnYW5pemVywqBhbmTCoHByZXNlbnRlcizCoE1BQcKgUHJvamVjdMKgU0FVTcKgV29ya3Nob3DCoCMzwqBBc3Nlc3NtZW50wqBvZsKgR2VuZXJhbMKgDQoNCiAgICBFZHVjYXRpb24uwqBQYXJhZGlzZcKgVmFsbGV5wqBDb21tdW5pdHnCoENvbGxlZ2UswqBQaG9lbml4LMKgQVouwqANCg0K74K3ICAgRmVicnVhcnnCoDI5wqAtwqBNYXJjaMKgMi7CoFJVTUVDwqBSZXNlYXJjaMKgR3JvdXDCoFNwcmluZ8KgV29ya2luZ8KgTWVldGluZy7CoEdlb3JnaWHCoFN0YXRlwqBVbml2ZXJzaXR5LMKgQXRsYW50YSzCoA0KDQogICAgR0EuwqANCg0K74K3ICAgSmFudWFyecKgMTktMjEuwqBQcmVzZW50ZXIswqBNQUHCoFByb2plY3TCoFNBVU3CoFdvcmtzaG9wwqAjMizCoE1hdGhlbWF0aWNzwqBEZXBhcnRtZW50wqBBc3Nlc3NtZW50LsKgQmFsdGltb3JlLMKgDQoNCiAgICBNRC7CoA0KDQrvgrcgICBKYW51YXJ5wqAxNC0xOS7CoEFubnVhbMKgSm9pbnTCoG1lZXRpbmdzwqBvZsKgdGhlwqBNQUEvQU1TLsKgQmFsdGltb3JlLMKgTUQuwqANCg0KDQoNCjIwMDIgDQoNCu+CtyAgIERlY2VtYmVywqA2LMKgNy7CoE9yZ2FuaXplcsKgYW5kwqBwcmVzZW50ZXLCoG9mwqB3b3Jrc2hvcMKgZm9ywqBLLTEywqBzY2llbmNlwqB0ZWFjaGVyc8KgYXTCoHRyaWJhbMKgc2Nob29scyzCoElucXVpcnkuwqBTcGlyaXTCoA0KDQogICAgTGFrZcKgUmVzb3J0LMKgRm9ydMKgVG90dGVuLMKgTkQuwqANCg0K74K3ICAgTm92ZW1iZXLCoDE4LTIwLsKgTlNGwqBNU1DCoFByb3Bvc2FswqBXcml0aW5nwqBXb3Jrc2hvcC7CoE1pbm5lYXBvbGlzLMKgTU4uwqANCg0K74K3ICAgT2N0b2JlcsKgMjQswqAyNS7CoE5EQ1RNwqBCb2FyZMKgTWVldGluZ8KgYW5kwqBGYWxswqBDb25mZXJlbmNlwqBzZXNzaW9uwqBvbsKgR2VvbWV0cnnCoGFuZMKgTW9kZWxzwqBpbsKgTWF0aGVtYXRpY3MuwqANCg0KICAgIEJpc21hcmNrLMKgTkQuwqANCg0K74K3ICAgT2N0b2JlcsKgMTEtMTMuwqDCoFJVTUVDwqBSZXNlYXJjaMKgR3JvdXDCoEZhbGzCoFdvcmtpbmfCoE1lZXRpbmcuwqBJbGxpbm9pc8KgU3RhdGXCoFVuaXZlcnNpdHkswqBOb3JtYWwswqBJTC7CoA0KDQrvgrcgICBPY3RvYmVywqA2LsKgTkTCoFN0YXRlwqBvZsKgdGhlwqBGYWN1bHR5wqBjb25mZXJlbmNlLsKgwqBVbml2ZXJzaXR5wqBvZsKgTm9ydGjCoERha290YSzCoEdyYW5kwqBGb3JrcyzCoE5ELsKgDQoNCu+CtyAgIFNlcHRlbWJlcsKgMTUtMTYuwqBORMKgTWF0aGVtYXRpY3MvU2NpZW5jZcKgQWxsaWFuY2XCoGV4ZWN1dGl2ZcKgYW5kwqBib2FyZMKgbWVldGluZy7CoEJpc21hcmNrLMKgTkQuwqANCg0K74K3ICAgQXVndXN0wqAxMi0xNi7CoE9yZ2FuaXplcsKgYW5kwqBwcmVzZW50ZXLCoGF0wqBHcmFTVVPCoFN1bW1lcsKgQWNhZGVteS7CoE5EU1UswqBGYXJnbyzCoE5ELsKgDQoNCu+CtyAgIEp1bHnCoDI5LTMxLsKgQ28tb3JnYW5pemVywqBhbmTCoHByZXNlbnRlcizCoE1BQcKgUHJvamVjdMKgU0FVTcKgV29ya3Nob3DCoCMyLsKgQnVybGluZ3RvbizCoFZULsKgDQoNCu+CtyAgIEp1bmXCoDMtMTQuwqBXb3Jrc2hvcMKgcHJlc2VudGVywqAoSW5xdWlyeSnCoGFuZMKgb3JnYW5pemVywqBvZsKgTWF0aMKgRVhDRUzCoGZvcsKgT05SwqBTdW1tZXLCoEFjYWRlbXkuwqDCoE5EU1UswqANCg0KICAgIEZhcmdvLMKgTkQuwqANCg0K74K3ICAgTWF5wqAyMi0yNi7CoE1BQcKgUHJvamVjdMKgU0FVTcKgV29ya3Nob3DCoCMxLMKgQXNzZXNzbWVudMKgaW7CoE1hdGhlbWF0aWNzwqBEZXBhcnRtZW50cy7CoFZpcmdpbmlhwqANCg0KICAgIENvbW1vbndlYWx0aMKgVW5pdmVyc2l0eSzCoFJpY2htb25kLMKgVkEuwqANCg0K74K3ICAgTWF5wqAxMi0xNS7CoE9yZ2FuaXplcsKgYW5kwqBwcmVzZW50ZXLCoGF0wqBORMKgUmVmb3JtwqBvZsKgU2NpZW5jZcKgYW5kwqBNYXRoZW1hdGljc8KgRWR1Y2F0aW9uwqBjb25mZXJlbmNlLsKgDQoNCiAgICBCaXNtYXJjayzCoE5ELsKgDQoNCu+CtyAgIEFwcmlswqAxNy0yMS7CoMKgTlNGwqBDRVRQwqBQScKgbWVldGluZ8KgcmVwcmVzZW50aW5nwqBORFNVwqBDb01TVGVQwqBQYXRod2F5c8KgdG/CoENoYW5nZS7CoEFybGluZ3RvbsKgVkEuwqANCg0K74K3ICAgTWFyY2jCoDI0LsKgTkRTVcKgRmFjdWx0ecKgcmVwcmVzZW50YXRpdmXCoGFuZMKgd29ya3Nob3DCoGZhY2lsaXRhdG9yLMKgT05SwqBTdW5kYXnCoEFjYWRlbXkuwqBMaXR0bGXCoEhvb3DCoA0KDQogICAgQ29tbXVuaXR5wqBDb2xsZWdlLMKgRm9ydMKgVG90dGVuLMKgTkQuwqANCg0K74K3ICAgTWFyY2jCoDIxLTIyLsKgTG9jYWzCoG9yZ2FuaXplcsKgYW5kwqBwcmVzZW50ZXIswqBORENUTcKgQm9hcmTCoE1lZXRpbmfCoGFuZMKgU3ByaW5nwqBDb25mZXJlbmNlLMKgQ29ubmVjdGlvbnMuwqANCg0KICAgIEZhcmdvLMKgTkQuwqANCg0K74K3ICAgTWFyY2jCoDMtNS7CoE5TRsKgTVNQwqBXb3Jrc2hvcC7CoEFybGluZ3RvbizCoFZBLsKgDQoNCu+CtyAgIE1hcmNowqAxLMKgMi7CoE9OUsKgUHJvamVjdMKgcGxhbm5pbmfCoG1lZXRpbmcuwqBCaXNtYXJjayzCoE5ELsKgDQoNCu+CtyAgIEZlYnJ1YXJ5wqAyMi0yNC7CoFJVTUVDwqBSZXNlYXJjaMKgR3JvdXDCoFNwcmluZ8KgV29ya2luZ8KgTWVldGluZy7CoEV4eG9uTW9iaWzCoENvcnBvcmF0ZcKgQ2FtcHVzLMKgRGFsbGFzLMKgVFguwqANCg0K74K3ICAgSmFudWFyecKgMjYuwqBQcm9ncmFtwqByZXZpZXdlcsKgZm9ywqBEYWtvdGHCoExlYXJuaW5nwqBTeXN0ZW1zwqB0ZWFjaGVywqB3b3Jrc2hvcC7CoEZhcmdvLMKgTkQuwqANCg0K74K3ICAgSmFudWFyecKgOS0xMS7CoFBhcnRpY2lwYW50wqBpbsKgTUFBwqBQcm9qZWN0wqBTQVVNwqBBc3Nlc3NtZW50wqBXb3Jrc2hvcMKgIzEuwqBTYW7CoERpZWdvLMKgQ0EuwqANCg0K74K3ICAgSmFudWFyecKgNS05LsKgSm9pbnTCoE1lZXRpbmdzwqBvZsKgdGhlwqBNQUEvQU1TLsKgU2FuwqBEaWVnbyzCoENBLsKgDQoNCg0KDQoyMDAxIA0KDQrvgrcgICBEZWNlbWJlcsKgMTYuwqBORFNVwqBGYWN1bHR5wqByZXByZXNlbnRhdGl2ZcKgYW5kwqB3b3Jrc2hvcMKgZmFjaWxpdGF0b3IswqBPTlLCoFN1bmRhecKgQWNhZGVteS7CoExpdHRsZcKgSG9vcMKgDQoNCiAgICBDb21tdW5pdHnCoENvbGxlZ2UswqBGb3J0wqBUb3R0ZW4swqBORC7CoA0KDQrvgrcgICBOb3ZlbWJlcsKgOS0xMS7CoFJVTUVDwqBSZXNlYXJjaMKgR3JvdXDCoEZhbGzCoFdvcmtpbmfCoE1lZXRpbmcuwqBEZXPCoE1vaW5lcyzCoElBLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDI4LsKgwqBORFNVwqBGYWN1bHR5wqByZXByZXNlbnRhdGl2ZcKgYW5kwqB3b3Jrc2hvcMKgZmFjaWxpdGF0b3IswqBPTlLCoFN1bmRhecKgQWNhZGVteS7CoFR1cnRsZcKgTW91bnRhaW7CoA0KDQogICAgQ29tbXVuaXR5wqBDb2xsZWdlLMKgQmVsY291cnTCoE5ELsKgDQoNCu+CtyAgIE9jdG9iZXLCoDE4LMKgMTkuwqBOU0bCoEdLLTEywqBQcm9wb3NhbMKgUmV2aWV3wqBQYW5lbC7CoEFybGluZ3RvbsKgVkEuwqANCg0K74K3ICAgT2N0b2JlcsKgNSzCoDYuwqBORE1BVFlDwqBDb25mZXJlbmNlLsKgwqBDYXJyaW5ndG9uLMKgTkQuwqANCg0KwqANCg0KV2lsbGlhbSBPIE1hcnRpbiANCg0K74K3ICAgT2N0b2JlcsKgMSzCoDIuwqBFUFNDT1LCoENvbmZlcmVuY2UuwqBTRMKgU3RhdGXCoFVuaXZlcnNpdHkswqBCcm9va2luZ3MswqBTRC7CoA0KDQrvgrcgICBTZXB0ZW1iZXLCoDIyLsKgU3RhdGXCoG9mwqB0aGXCoEZhY3VsdHnCoENvbmZlcmVuY2UuwqBVbml2ZXJzaXR5wqBvZsKgTm9ydGjCoERha290YSzCoEdyYW5kwqBGb3JrcyzCoE5ELsKgDQoNCu+CtyAgIFNlcHRlbWJlcsKgMjEuwqBPcmdhbml6ZWTCoHdvcmtzaG9wwqBmb3LCoEZhcmdvwqBQdWJsaWPCoFNjaG9vbHPCoG1hdGjCoHRlYWNoZXJzwqBhdMKgQWdhc3NpesKgSnVuaW9ywqBIaWdoLsKgwqBGYXJnbyzCoE5ELg0KDQrvgrcgICBTZXB0ZW1iZXLCoDE2LMKgMTcuwqBORMKgTWF0aC9TY2llbmNlwqBBbGxpYW5jZcKgZXhlY3V0aXZlwqBjb21taXR0ZWXCoGFuZMKgc3RhdGXCoG1lZXRpbmcuwqBCaXNtYXJjayzCoE5ELsKgDQoNCu+CtyAgIFNlcHRlbWJlcsKgNi7CoMKgTkTCoERQScKgbWVldGluZ8KgYWJvdXTCoGhpZ2hlcsKgZWR1Y2F0aW9uwqBwb3J0aW9uwqBvZsKgVGl0bGXCoElJwqBmdW5kaW5nLsKgwqBCaXNtYXJjayzCoE5ELsKgDQoNCu+CtyAgIEF1Z3VzdMKgMjAtMjQuwqDCoENvLU9yZ2FuaXplZMKgTkRTVcKgTWF0aGVtYXRpY3PCoERlcGFydG1lbnTCoFRBwqB3b3Jrc2hvcC7CoEZhcmdvLMKgTkQuwqANCg0K74K3ICAgSnVuZcKgMTgtMjEuwqBQcmVzZW50wqBhdMKgT05SwqBTdW1tZXLCoGNhbXDCoGF0wqBUdXJ0bGXCoE1vdW50YWluwqBDb21tdW5pdHnCoENvbGxlZ2UuwqBCZWxjb3VydCzCoE5ELsKgDQoNCu+CtyAgIEp1bmXCoDE0LMKgMTUuwqBDb29yZGluYXRlwqBmaW5hbMKgTkTCoE1hdGhlbWF0aWNzwqBBc3Nlc3NtZW50wqBQcm9qZWN0wqBJdGVtwqBCYW5rwqBXcml0aW5nwqBXb3Jrc2hvcC7CoMKgQmlzbWFyY2sswqANCg0KICAgIE5ELsKgDQoNCu+CtyAgIEp1bmXCoDEzLMKgMTQuwqBORMKgTWF0aC9TY2llbmNlwqBBbGxpYW5jZcKgZXhlY3V0aXZlwqBtZWV0aW5nLsKgwqBCaXNtYXJjayzCoE5ELsKgDQoNCu+CtyAgIEp1bmXCoDctMTMuwqBUZWFjaGluZy9sZWFybmluZ8Kgd29ya3Nob3DCoHByZXNlbnRlcsKgYW5kwqBvcmdhbml6ZXLCoG9mwqBNYXRowqBFWENFTMKgZm9ywqBPTlLCoFN1bW1lcsKgQWNhZGVteS7CoMKgDQoNCiAgICBORFNVLMKgRmFyZ28swqBORC7CoA0KDQoNCg0KMjAwMCANCg0K74K3ICAgU2VwdGVtYmVywqAyNCzCoDIwMDAuwqBJbnZpdGVkwqBwYW5lbGlzdCzCoE5vcnRowqBEYWtvdGEnc8KgU3RhbmRhcmRzLUJhc2VkwqBBc3Nlc3NtZW50cyzCoEVkdWNhdGlvbmFswqANCg0KICAgIEltcHJvdmVtZW50wqBDb25mZXJlbmNlLMKgRmFyZ2/CoE5ELsKgDQoNCu+CtyAgIE1hecKgMTUtMTcswqAyMDAwLsKgQ28tb3JnYW5pemVywqB3aXRowqBBbGFuwqBXaGl0ZcKgKE5EU1XCoEJvdGFueS9CaW9sb2d5KcKgb2bCoHRoZcKgVGhpcmTCoEFubnVhbMKgQ29uZmVyZW5jZcKgZm9ywqB0aGXCoA0KDQogICAgUmVmb3JtwqBvZsKgVW5kZXJncmFkdWF0ZcKgU2NpZW5jZcKgYW5kwqBNYXRoZW1hdGljc8KgRWR1Y2F0aW9uwqAoQmlzbWFyY2spLsKgKFNwb25zb3JlZMKgYnnCoE5TRsKgRFVFwqBhbmTCoE5EU1XCoA0KDQogICAgQ29sbGVnZcKgb2bCoFNjaWVuY2XCoGFuZMKgTWF0aGVtYXRpY3MpLsKgDQoNCu+CtyAgIEp1bmXCoDI1LMKgMjAwMC7CoE5EwqBEUEnCoG5vbWluYXRlZMKgcmVwcmVzZW50YXRpdmXCoGF0wqB0aGXCoFVTwqBEZXBhcnRtZW50wqBvZsKgRWR1Y2F0aW9uwqBOQ0VPL09TRVAvT0VSScKgDQoNCiAgICBQcm9qZWN0c8KgbWVldGluZ8KgKFNhbHTCoExha2XCoENpdHkpLsKgDQoNCu+CtyAgIEFwcmlswqAxLTQswqAyMDAwLsKgTkRTVcKgQXNzZXNzbWVudMKgVGVhbcKgTWVtYmVywqBhdMKgTm9ydGjCoENlbnRyYWzCoEFzc29jaWF0aW9uwqBvZsKgY29sbGVnZXPCoGFubnVhbMKgY29uZmVyZW5jZcKgDQoNCiAgICAoQ2hpY2FnbykuwqANCg0K74K3ICAgTWFyY2jCoDIzLTI1LMKgMjAwMC7CoFBhcnRpY2lwYXRlZMKgaW7CoE5TRsKgQ29sbGFib3JhdGl2ZXPCoGZvcsKgRXhjZWxsZW5jZcKgaW7CoFRlYWNoZXLCoFByZXBhcmF0aW9uwqBQcm9qZWN0wqANCg0KICAgIGNvbmZlcmVuY2XCoChXYXNoaW5ndG9uLMKgREMpLsKgDQoNCiAgICDCoA0KDQoNCg0KMTk5OSANCg0K74K3ICAgSnVuZcKgMTMswqAxOTk5LsKgTkTCoERQScKgbm9taW5hdGVkwqByZXByZXNlbnRhdGl2ZcKgYXTCoHRoZcKgVVPCoERlcGFydG1lbnTCoG9mwqBFZHVjYXRpb27CoE5DRU8vT1NFUC9PRVJJwqANCg0KICAgIFByb2plY3RzwqBtZWV0aW5nwqAoU2FsdMKgTGFrZcKgQ2l0eSkuwqANCg0K74K3ICAgQXByaWzCoDkswqAxOTk5LsKgT3JnYW5pemVkwqBIb25vcnPCoERhecKgZm9ywqBORMKgTWF0aGVtYXRpY3PCoFRhbGVudMKgU2VhcmNowqBQYXJ0aWNpcGFudHPCoChORFNVLMKgRmFyZ28pLsKgDQoNCu+CtyAgIEZlYnJ1YXJ5MTEtMTMswqAxOTk5LsKgSW52aXRlZMKgcHJlc2VudGF0aW9uwqBNMzrCoE1vdGl2YXRpbmfCoE1hdGhlbWF0aWNzwqB3aXRowqBNb2RlbHMswqBOQ1RNwqBSZWdpb25hbMKgDQoNCiAgICBDb25mZXJlbmNlwqAoRGVzwqBNb2luZXMpLsKgDQoNCu+CtyAgIEphbnVhcnkswqAxOTk5wqAoV2l0aMKgVmlkYWtvdmljLMKgRC4swqAmwqBWYWtpbCzCoFIuKS7CoENvbnRyaWJ1dGVkwqBwYXBlcsKgUHJvdmluZ8KgaXTCoGluwqBTbWFsbMKgR3JvdXBzOsKgQ29sbGFib3JhdGl2ZcKgDQoNCiAgICBTZWFyY2hlc8KgZm9ywqBNYXRoZW1hdGljYWzCoFByb29mcy7CoEFubnVhbMKgSm9pbnTCoE1lZXRpbmdzwqBvZsKgdGhlwqBNQUHCoGFuZMKgQU1TwqAoU2FuwqBBbnRvbmlvKS7CoA0KDQoNCg0KMTk5OCANCg0K74K3ICAgTm92ZW1iZXLCoDEtMyzCoDE5OTguwqBXb3JraW5nwqBncm91cMKgcGFydGljaXBhbnQswqBSZXNlYXJjaMKgaW7CoFVuZGVyZ3JhZHVhdGXCoE1hdGhlbWF0aWNzwqBFZHVjYXRpb24uwqANCg0KICAgIFBzeWNob2xvZ3nCoG9mwqBNYXRoZW1hdGljc8KgRWR1Y2F0aW9uLU5vcnRowqBBbWVyaWNhwqBBbm51YWzCoENvbmZlcmVuY2XCoChSYWxlaWdoKS7CoA0KDQrvgrcgICBPY3RvYmVywqAxNSzCoDE5OTguwqBJbnZpdGVkwqBwcmVzZW50YXRpb24swqBJbXBsZW1lbnRpbmfCoE1hdGhlbWF0aWNzwqBTdGFuZGFyZHMswqBNaW5uZXNvdGHCoEtPVEHCoEZhbGzCoA0KDQogICAgY29uZmVyZW5jZcKgKEZhcmdvKS7CoA0KDQrvgrcgICBPY3RvYmVywqA4LTkswqAxOTk4LsKgUHJlc2VudGF0aW9uc8Kgb27CoHRoZcKgTkTCoE1hdGhlbWF0aWNzwqBBc3Nlc3NtZW50wqBQcm9qZWN0wqBhbmTCoFN0YW5kYXJkc8KgMjAwMMKgKE1pbm90KS7CoA0KDQrvgrcgICBPY3RvYmVywqAyLTMswqAxOTk4LsKgTkRNQVRZQ8KgQW5udWFswqBDb25mZXJlbmNlwqAoQ2FycmluZ3RvbikuwqANCg0K74K3ICAgU2VwdGVtYmVywqAxNy0yMCzCoDE5OTjCoChXaXRowqBWaWRha292aWMswqBELikuwqBDb250cmlidXRlZMKgcGFwZXLCoFRoZcKgUm9sZcKgb2bCoENvbGxhYm9yYXRpdmXCoFdvcmvCoG9uwqBJbmRpdmlkdWFswqANCg0KICAgIFJlY29uc3RydWN0aW9uc8Kgb2bCoE1hdGhlbWF0aWNhbMKgQ29uY2VwdHMswqBSZXNlYXJjaMKgaW7CoFVuZGVyZ3JhZHVhdGXCoE1hdGhlbWF0aWNzwqBFZHVjYXRpb27CoGNvbmZlcmVuY2XCoA0KDQogICAgKFNvdXRowqBCZW5kKS7CoA0KDQrvgrcgICBKdW5lwqAxNCzCoDE5OTguwqBORMKgRFBJwqBub21pbmF0ZWTCoHJlcHJlc2VudGF0aXZlwqBhdMKgdGhlwqBVU8KgRGVwYXJ0bWVudMKgb2bCoEVkdWNhdGlvbsKgTkNFTy9PU0VQL09FUknCoA0KDQrCoA0KDQpXaWxsaWFtIE8gTWFydGluIA0KDQogICAgUHJvamVjdHPCoG1lZXRpbmfCoChDb2xvcmFkb8KgU3ByaW5ncykuwqANCg0K74K3ICAgTWF5wqAxNy0xOSzCoDE5OTguwqBORMKgRFBJwqBub21pbmF0ZWTCoHN0YXRlwqBtYXRoZW1hdGljcy9zY2llbmNlwqByZXByZXNlbnRhdGl2ZcKgYXTCoHRoZcKgTmF0aW9uYWzCoFJlc2VhcmNowqANCg0KICAgIENvdW5jaWzCoFN0YXRlwqBMZWFkZXJzaGlwwqBDb25mZXJlbmNlwqAoV2FzaGluZ3RvbizCoERDKS7CoA0KDQrvgrcgICBNYXnCoDExLTEzLMKgMTk5OC7CoEludml0ZWTCoFBhbmVsaXN0wqBvbsKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbsKgUmVmb3JtOsKgSW1wbGljYXRpb25zwqBmb3LCoFVuZGVyZ3JhZHVhdGXCoA0KDQogICAgRWR1Y2F0aW9uLMKgUGFuZWzCoG9yZ2FuaXplcsKgZm9ywqBIaWdowqBTY2hvb2zCoFRlYWNoZXIvVW5pdmVyc2l0ecKgRmFjdWx0ecKgRXhjaGFuZ2XCoFByb2plY3RzLMKgYm90aMKgYXTCoENvbmZlcmVuY2XCoA0KDQogICAgb27CoFJlZm9ybWluZ8KgVW5kZXJncmFkdWF0ZcKgU2NpZW5jZcKgYW5kwqBNYXRoZW1hdGljc8KgRWR1Y2F0aW9uwqAoQmlzbWFyY2spLsKgDQoNCu+CtyAgIEFwcmlswqAzMCzCoDE5OTguwqBPcmdhbml6ZWTCoEhvbm9yc8KgRGF5wqBmb3LCoE5EU1XCoE1hdGhlbWF0aWNzwqBUYWxlbnTCoFNlYXJjaMKgcGFydGljaXBhbnRzwqAoTkRTVSzCoEZhcmdvKS7CoA0KDQrvgrcgICBNYXJjaMKgNi03wqAxOTk4LsKgSW52aXRlZMKgd29ya3Nob3DCoG9uwqBFbmdhZ2luZ8KgU3R1ZGVudHPCoHdpdGjCoEFwcGxpY2F0aW9uc8KgYW5kwqBUZWNobm9sb2dpZXMswqBORENUTcKgU3ByaW5nwqANCg0KICAgIENvbmZlcmVuY2XCoChNaW5vdCkuwqANCg0K74K3ICAgRmVicnVhcnnCoDE5OTguwqBORFNVwqBNYXRoZW1hdGljc8KgQ2x1Yi7CoFRoZcKgR2VvbWV0ZXJzwqBTa2V0Y2hwYWTCoChGYXJnbykuwqANCg0K74K3ICAgSmFudWFyecKgMTk5OC7CoEFubnVhbMKgSm9pbnTCoE1lZXRpbmdzwqBvZsKgQU1TL01BQS7CoEludml0ZWTCoHBhbmVsaXN0wqBmb3LCoFByb2plY3TCoE5FeFTCoHBhbmVswqBkaXNjdXNzaW9uwqBUaGXCoFByb3PCoA0KDQogICAgYW5kwqBDb25zwqBvZsKgRGlmZmVyZW50wqBDbGFzc3Jvb23CoFN0cmF0ZWdpZXPCoChCYWx0aW1vcmUpLsKgDQoNCg0KDQoxOTk3IA0KDQrvgrcgICBOb3ZlbWJlcsKgMTk5Ny7CoFNvbnlhwqBLb3ZhbGV2c2t5wqBEYXnCoGF0wqBORFNVLsKgV29ya3Nob3DCoGZvcsKgdGVhY2hlcnM6wqBIb3fCoENhbsKgV2XCoEluY3JlYXNlwqBTdHVkZW50wqANCg0KICAgIEVuZ2FnZW1lbnTCoGluwqBvdXLCoENsYXNzZXM/wqANCg0K74K3ICAgT2N0b2JlcsKgMTk5N8KgTkRDVE3CoEZhbGzCoENvbmZlcmVuY2UuwqBNb2RlbGluZ8KgaW7CoFNjaG9vbMKgTWF0aGVtYXRpY3PCoChGYXJnbykuwqANCg0K74K3ICAgU2VwdGVtYmVywqAxOTk3LsKgRVBTQ09SwqBDb25mZXJlbmNlLsKgQ29ubmVjdGluZ8KgSW5zdHJ1Y3Rpb25hbMKgR29hbHPCoGFuZMKgdGhlwqBEZXZlbG9wbWVudMKgb2bCoFN0dWRlbnRzJ8KgDQoNCiAgICBNYXRoZW1hdGljYWzCoEtub3dsZWRnZTrCoEHCoEdsb2JhbCzCoExvbmdpdHVkaW5hbMKgUGVyc3BlY3RpdmXCoChCcm9va2luZ3PCoFNEKS7CoA0KDQrvgrcgICBTZXB0ZW1iZXLCoDE5OTcuwqBSVU1FwqBDb25mZXJlbmNlLsKgSW52aXRlZMKgcGFuZWxpc3TCoHdpdGjCoEQuwqBCYWxswqBhbmTCoFIuwqBEYXZpc8KgQ29ubmVjdGluZ8KgSy0xMsKgYW5kwqBDb2xsZWdpYXRlwqANCg0KICAgIE1hdGhlbWF0aWNzwqBFZHVjYXRpb27CoChDZW50cmFswqBNaWNoaWdhbsKgVW5pdmVyc2l0eSzCoE10LsKgUGxlYXNhbnQpLsKgDQoNCu+CtyAgIEFwcmlswqAxOTk3LsKgTkRTVcKgTWF0aGVtYXRpY3PCoENsdWIuwqBDYXJlZXJzwqBpbsKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbsKgKEZhcmdvKS7CoA0KDQrvgrcgICBNYXJjaMKgMTk5N8KgSW52aXRlZMKgd29ya3Nob3AswqBORENUTcKgU3ByaW5nwqBDb25mZXJlbmNlLsKgVXNpbmfCoEdyb3VwwqBBY3Rpdml0aWVzwqB0b8KgQnVpbGTCoE1hdGhlbWF0aWNhbMKgDQoNCiAgICBLbm93bGVkZ2XCoChEZXZpbCdzwqBMYWtlKS7CoA0KDQrvgrcgICBKYW51YXJ5wqAxOTk3LsKgQW5udWFswqBKb2ludMKgTWVldGluZ3PCoG9mwqBBTVMvTUFBLsKgwqBDb250cmlidXRlZMKgcGFwZXLCoGZvcsKgc2Vzc2lvbsKgb27CoE5lZWRlZMKgQ29ubmVjdGlvbnM6wqANCg0KICAgIFByZXBhcmF0aW9uwqBvZsKgVGVhY2hlcnPCoEstMTIswqBBwqBNb2RlbMKgZm9ywqBXb3JraW5nwqB3aXRowqBTZWNvbmRhcnnCoFRlYWNoZXJzwqB0b8KgUmVmb3JtwqBNYXRoZW1hdGljc8KgDQoNCiAgICBJbnN0cnVjdGlvbsKgKFNhbsKgRGllZ28pLsKgDQoNCg0KDQoxOTk2IA0KDQrvgrcgICBGYWxsLMKgMTk5NizCoFdhaHBldG9uwqBTY2hvb2zCoERpc3RyaWN0OsKgSW52aXRlZMKgU3RhbmRhcmRzwqB3b3Jrc2hvcMKgYXTCoHByZWxpbWluYXJ5wqBtZWV0aW5nwqB0b8KgcmV2aXNlwqBkaXN0cmljdMKgDQoNCiAgICBtYXRoZW1hdGljc8KgY3VycmljdWx1bcKgZ3VpZGXCoChXYWhwZXRvbikuwqANCg0K74K3ICAgT2N0b2JlcsKgMTk5NizCoE5EQ1RNwqBGYWxswqBDb25mZXJlbmNlOsKgT3JnYW5pemVywqBhbmTCoFBhbmVsaXN0wqBvZsKgc2Vzc2lvbsKgcmVwb3J0aW5nwqBvbsKgTUNSRUzCoE1ha2luZ8KgDQoNCiAgICBDb25uZWN0aW9uc8KgQ29uZmVyZW5jZS7CoChCaXNtYXJjaynCoA0KDQrvgrcgICBPY3RvYmVywqAxOTk2LMKgTkRDVE3CoEZhbGzCoENvbmZlcmVuY2U6wqBXb3Jrc2hvcMKgc2Vzc2lvbsKgb27CoHRoZcKgVEktOTLCoGhhbmRoZWxkwqBjYWxjdWxhdG9yL2NvbXB1dGVywqANCg0KICAgIChCaXNtYXJjaykuwqANCg0K74K3ICAgU2VwdGVtYmVywqAxOTk2LsKgUlVNRcKgQ29uZmVyZW5jZTrCoENvbnRyaWJ1dGVkwqBQYXBlcjrCoCJDb25uZWN0aW5nwqBJbnN0cnVjdGlvbmFswqBHb2Fsc8KgYW5kwqB0aGXCoA0KDQogICAgRGV2ZWxvcG1lbnTCoG9mwqBTdHVkZW50cyfCoE1hdGhlbWF0aWNhbMKgS25vd2xlZGdlOsKgQcKgR2xvYmFsLMKgTG9uZ2l0dWRpbmFswqBQZXJzcGVjdGl2ZSLCoChDZW50cmFswqBNaWNoaWdhbsKgDQoNCiAgICBVbml2ZXJzaXR5LMKgTXTCoFBsZWFzYW50KS7CoA0KDQrvgrcgICBBdWd1c3TCoDE5OTYuwqBNQUHCoE1hdGhmZXN0OsKgT3JnYW5pemVkwqBzZXNzaW9uwqBvbsKgVGVhY2hlcsKgRW5oYW5jZW1lbnQ6wqBNYWtpbmfCoGNvbm5lY3Rpb25zwqB3aXRowqBLLTEywqANCg0KICAgIG1hdGhlbWF0aWNzwqBlZHVjYXRpb24uwqAoVW5pdmVyc2l0ecKgb2bCoFdhc2hpbmd0b24swqBTZWF0dGxlKcKgDQoNCu+CtyAgIEFwcmlswqAxOTk2LsKgTUFBwqBOQ1PCoFNwcmluZ8KgTWVldGluZzrCoFBhbmVsaXN0LMKgUHJvamVjdMKgTkV4VMKgUGFuZWzCoERpc2N1c3Npb27CoChIYW1saW5lwqBVbml2ZXJzaXR5LMKgU3QuwqBQYXVsKS7CoA0KDQrvgrcgICBBcHJpbCzCoDE5OTYuwqBJbnZpdGVkwqBDb25jb3JkaWHCoENvbGxlZ2XCoE1hdGhlbWF0aWNzwqBEZXBhcnRtZW50wqBDb2xsb3F1aXVtwqBvbsKgdGhlwqBSZWZvcm3CoG9mwqBVbmRlcmdyYWR1YXRlwqANCg0KICAgIE1hdGhlbWF0aWNzwqBFZHVjYXRpb24tLXJlY2VudMKgVHJlbmRzwqBhbmTCoERldmVsb3BtZW50cy7CoChNb29yaGVhZCnCoA0KDQoNCg0KMTk5NSANCg0K74K3ICAgTm92ZW1iZXLCoDYswqAxOTk1LMKgQXNzZXNzbWVudMKgQ29uZmVyZW5jZcKgaW7CoEluZGlhbmFwb2xpcy7CoMKgSW52aXRlZMKgc2Vzc2lvbizCoHdpdGjCoFN0ZXZlwqBCYXVtYW7CoChwcmVzZW50ZWTCoA0KDQogICAgdHdpY2XCoGR1cmluZ8KgY29uZmVyZW5jZSkswqBBcmXCoHN0dWRlbnRzwqBwcmVwYXJlZMKgZm9ywqB0aGXCoHF1YW50aXRhdGl2ZcKgZGVtYW5kc8Kgb2bCoHVwcGVyLWRpdmlzaW9uwqBjb3Vyc2VzP8KgDQoNCg0KDQrCoA0KDQpXaWxsaWFtIE8gTWFydGluIA0KDQrvgrcgICBPY3RvYmVywqAyMSzCoDE5OTUswqBOb3J0aMKgQ2VudHJhbMKgU2VjdGlvbsKgTUFBwqBtZWV0aW5nLsKgwqBBc3Nlc3NpbmfCoHRoZcKgbGFzdGluZ8KgaW1wYWN0wqBvZsKgaW50cm9kdWN0b3J5wqANCg0KICAgIG1hdGhlbWF0aWNzwqBjb3Vyc2VzwqAoTkRTVSzCoEZhcmdvKS7CoA0KDQrvgrcgICBPY3RvYmVywqAxOSzCoDE5OTUswqBORENUTcKgbWVldGluZy7CoFByb2JsZW1zwqBvZsKgdGhlwqB3ZWVrOsKgQcKgcHJhY3RpY2FswqB3YXnCoHRvwqBpbXBsZW1lbnTCoE5DVE3CoGN1cnJpY3VsdW0swqANCg0KICAgIHRlYWNoaW5nLMKgYW5kwqBldmFsdWF0aW9uwqBzdGFuZGFyZHPCoChGYXJnbykuwqANCg0K74K3ICAgT2N0b2JlcsKgMTIswqAxOTk1LMKgTkRTVcKgTWF0aGVtYXRpY3PCoERlcGFydG1lbnTCoENvbGxvcXVpdW0uwqDCoFJlYWRpbmVzc8KgZm9ywqB1cHBlci1kaXZpc2lvbsKgdGVjaG5pY2FswqANCg0KICAgIGNvdXJzZXM6wqDCoFNvbWXCoGZpbmRpbmdzwqBmcm9twqBhwqBmaXZlLXllYXLCoGFzc2Vzc21lbnTCoHByb2plY3TCoChGYXJnbykuwqANCg0K74K3ICAgT2N0b2JlcsKgNSzCoDE5OTUswqBORFNVLMKgUGnCoE11wqBFcHNpbG9uLsKgwqBBbWVyaWNhbsKgbWF0aGVtYXRpY3PCoGVkdWNhdGlvbjrCoMKgQ2hhbmdlc8KgZm9ywqB0aGXCoGJldHRlcj/CoEp1bmlvcnPCoGZvcsKgDQoNCiAgICBVcHBlci1EaXZpc2lvbsKgQ291cnNlcynCoA0KDQrvgrcgICBBcHJpbMKgNy04LMKgMTk5NS7CoEFubnVhbMKgbWVldGluZ8Kgb2bCoHRoZcKgTUFBwqBXaXNjb25zaW7CoFNlY3Rpb24uwqBNYXRoZW1hdGljc8KgQWNyb3NzwqB0aGXCoENhbXB1czrCoFJlbGF0aW5nwqANCg0KICAgIEZhY3VsdHnCoEV4cGVjdGF0aW9uc8KgYW5kwqBTdHVkZW50wqBDYXBhYmlsaXRpZXPCoChHcmVlbsKgQmF5KS7CoA0KDQrvgrcgICBGZWJydWFyeS1NYXJjaMKgMTk5NS7CoMKgSW52aXRlZMKgY29sbG9xdWlhwqB0YWxrc8Kgb27CoEFzc2Vzc2luZ8KgdGhlwqBJbXBhY3TCoG9mwqBNYXRoZW1hdGljc8KgSW5zdHJ1Y3Rpb24uwqDCoA0KDQogICAgVW5pdmVyc2l0aWVzwqBvZsKgRGVsYXdhcmUswqBHZW9yZ2lhLMKgV2VzdMKgVmlyZ2luaWEswqBhbmTCoENlbnRyYWzCoE1pY2hpZ2FuO8KgQm9pc2XCoGFuZMKgTm9ydGjCoERha290YcKgU3RhdGXCoA0KDQogICAgVW5pdmVyc2l0aWVzLsKgDQoNCu+CtyAgIEphbnVhcnnCoDQswqAxOTk1OsKgwqBBbm51YWzCoGpvaW50wqBtZWV0aW5nwqBvZsKgdGhlwqBBTVPCoGFuZMKgTUFBLsKgQ29udHJpYnV0ZWTCoHBhcGVyOsKgTGlua2luZ8KgRmFjdWx0ecKgRXhwZWN0YXRpb25zwqANCg0KICAgIGFuZMKgU3R1ZGVudMKgR29hbHPCoHRvwqB0aGXCoEFzc2Vzc21lbnTCoG9mwqBRdWFudGl0YXRpdmXCoENhcGFiaWxpdGllc8KgKMKgU2FuwqBGcmFuY2lzY28pLsKgDQoNCg0KDQpQcmUgMTk5NSANCg0K74K3ICAgQXByaWzCoDE5OTQ6wqBBbm51YWzCoG1lZXRpbmfCoG9mwqB0aGXCoE1BQcKgV2lzY29uc2luwqBTZWN0aW9uLsKgQ3VycmljdWxhcsKgSW1wYWN0wqBvZsKgUXVhbnRpdGF0aXZlwqBBc3Nlc3NtZW50wqAoRWF1wqANCg0KICAgIENsYWlyZSkuwqANCg0K74K3ICAgTWFyY2jCoDE5OTQ6wqDCoE1hdGhlbWF0aWNzwqBEZXBhcnRtZW50wqBDb2xsb3F1aXVtLMKgVW5pdmVyc2l0ecKgb2bCoE9rbGFob21hLsKgR3JhcGhpbmfCoFRlY2hub2xvZ2llc8KgYW5kwqANCg0KICAgIExhc3RpbmfCoEVmZmVjdHPCoG9mwqBNYXRoZW1hdGljc8KgSW5zdHJ1Y3Rpb27CoChOb3JtYW4pLsKgDQoNCu+CtyAgIEphbnVhcnnCoDE5OTQ6wqBBbm51YWzCoGpvaW50wqBtZWV0aW5nwqBvZsKgdGhlwqBBTVPCoGFuZMKgTUFBLsKgQ29udHJpYnV0ZWTCoHBhcGVyOsKgTGFzdGluZ8KgRWZmZWN0c8Kgb2bCoHRoZcKgSW50ZWdyYXRlZMKgDQoNCiAgICBVc2XCoG9mwqBHcmFwaGluZ8KgVGVjaG5vbG9naWVzwqBpbsKgUHJlY2FsY3VsdXPCoE1hdGhlbWF0aWNzwqAoQ2luY2lubmF0aSkuwqANCg0K74K3ICAgQXByaWzCoDE3LMKgMTk5M8KgKFdpdGjCoFN0ZXZlwqBCYXVtYW4pwqBBbm51YWzCoE1lZXRpbmfCoG9mwqB0aGXCoFdpc2NvbnNpbsKgU2VjdGlvbsKgb2bCoHRoZcKgTUFBLsKgTWFkaXNvbidzwqANCg0KICAgIEFzc2Vzc21lbnTCoFByb2plY3TCoChNZW5hc2hhKS7CoA0KDQrvgrcgICBNYXJjaMKgMSzCoDE5OTM6wqDCoE1hdGhlbWF0aWNzwqBFZHVjYXRpb27CoENvbGxvcXVpdW0swqBEZXBhcnRtZW50wqBvZsKgTWF0aGVtYXRpY3MswqBTeXJhY3VzZcKgVW5pdmVyc2l0ecKgDQoNCiAgICAoUXVhbnRpdGF0aXZlwqBBc3Nlc3NtZW50wqBQcm9qZWN0wqBhdMKgdGhlwqBVbml2ZXJzaXR5wqBvZsKgV2lzY29uc2luLU1hZGlzb24pwqANCg0K74K3ICAgTm92ZW1iZXLCoDI1LMKgMTk5MizCoChXaXRowqBTdGV2ZcKgQmF1bWFuKcKgVVfCoE1hdGjCoERlcGFydG1lbnTCoEVkdWNhdGlvbsKgU2VtaW5hci7CoFJlYWRpbmVzc8Kgb2bCoENvbGxlZ2XCoA0KDQogICAgSnVuaW9yc8KgZm9ywqBVcHBlci1EaXZpc2lvbsKgV29ya8KgKE1hZGlzb24pLsKgDQoNCu+CtyAgIE9jdG9iZXLCoDE2LMKgMTk5MizCoFB1cmR1ZcKgVW5pdmVyc2l0eS1DYWx1bWV0wqBNYXRoZW1hdGljc8KgY29sbG9xdWl1bS7CoEludml0ZWTCoGFkZHJlc3M6wqBBcmXCoENvbGxlZ2XCoEp1bmlvcnPCoA0KDQogICAgcmVhZHnCoGZvcsKgdGhlwqBRdWFudGl0YXRpdmXCoERlbWFuZHPCoG9mwqDCoFVwcGVyLURpdmlzaW9uwqBDb3Vyc2VzP8KgKENhbHVtZXQpLsKgDQoNCu+CtyAgIFNlcHRlbWJlcsKgMjIswqAxOTkyLMKgVVctTWFkaXNvbsKgRGVwYXJ0bWVudMKgb2bCoE1hdGhlbWF0aWNzwqBjb21taXR0ZWXCoHJldmlld2luZ8KgY29sbGVnZcKgYWxnZWJyYcKgY291cnNlcy7CoA0KDQogICAgV2hhdMKgUHJlY2FsY3VsdXPCoE1hdGhlbWF0aWNzwqBkb8KgT3RoZXLCoERlcGFydG1lbnRzwqBXYW50P8KgKE1hZGlzb24pLsKgDQoNCu+CtyAgIEFwcmlswqAxOTkyLMKgKHdpdGjCoFRvbcKgS3VydHoswqBTdGV2ZcKgQmF1bWFuwqBhbmTCoEJvYsKgV2FyZHJvcCnCoFdpc2NvbnNpbsKgc2VjdGlvbsKgbWVldGluZ8Kgb2bCoHRoZcKgTUFBLsKgLsKgUGFuZWzCoA0KDQogICAgZGlzY3Vzc2lvbjrCoHF1YW50aXRhdGl2ZcKgYXNzZXNzbWVudMKgb2bCoGNvbGxlZ2XCoGp1bmlvcnPCoGFuZMKgdGhlwqBhc3Nlc3NtZW50wqBwcm9ncmFtc8Kgb2bCoHZhcmlvdXPCoFVXwqBzeXN0ZW3CoA0KDQogICAgY2FtcHVzZXPCoChXaGl0ZXdhdGVyKS7CoA0KDQrvgrcgICBBcHJpbMKgMTk4NzrCoMKgSW93YcKgc2VjdGlvbmFswqBqb2ludMKgbWVldGluZ8Kgb2bCoFNJQU3CoGFuZMKgdGhlwqBNQUEuwqBTdHVkZW50wqBjb250cmlidXRlZMKgcGFwZXI6wqBDb21wYWN0bmVzc8KgDQoNCiAgICAoVW5pdmVyc2l0ecKgb2bCoE5vcnRoZXJuwqBJb3dhLMKgQ2VkYXLCoEZhbGxzKS7CoA0KDQoNCg0KDQoNCg0KDQoNCg0KwqANCg0KV2lsbGlhbSBPIE1hcnRpbiANCg0KDQoNClNlcnZpY2UgDQoNCk5hdGlvbmFswqAgICAgIFByb2dyYW3CoENoYWlyLMKgTUFBwqBTSUfCoG9uwqBSVU1FICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwNC0yMDA2DQoNCiAgICAgICAgICAgICAgQ2hhaXIswqBOYXRpb25hbMKgQ291bmNpbMKgb2bCoFRlYWNoZXJzwqBvZsKgTWF0aGVtYXRpY3PCoChOQ1RNKcKgUlVNRUPCoCAgICAgICAgICAgMTk5OC0yMDAwwqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgIEFzc29jaWF0aW9uwqBSZXZpZXfCoEdyb3VwwqAoQVJHKcKgZm9ywqBTdGFuZGFyZHPCoFJldmlld8KgUHJvamVjdC7CoCAgIMKgDQoNCiAgICAgICAgICAgICAgUmV2aWV3ZWTCoHBhcGVyc8KgZm9ywqB0aGXCoEpvdXJuYWzCoGZvcsKgUmVzZWFyY2jCoGluwqBNYXRoZW1hdGljc8KgRWR1Y2F0aW9uLMKgICAgIMKgDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICB0aGXCoE1BQcKgTW9udGhsecKgYW5kwqBDb2xsZWdlwqBNYXRoZW1hdGljc8KgSm91cm5hbMKgYW5kwqBmb3LCoHRoZcKgICAgIDE5OTUtMjAwNMKgDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICBKb3VybmFswqBmb3LCoFJlc2VhcmNowqBpbsKgQ29sbGVnaWF0ZcKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbi7CoA0KDQoNCg0KU3RhdGXCoCAgICAgICAgTkRDVE3CoE5ld3NsZXR0ZXLCoEVkaXRvcsKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTk5OC0yMDA5DQoNCiAgICAgICAgICAgICAgTkTCoE1hdGhlbWF0aWNzL1NjaWVuY2XCoEFsbGlhbmNlwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTk5NS0yMDA1wqANCg0KICAgICAgICAgICAgICBORMKgRVNQQsKgSGlnaGx5wqBRdWFsaWZpZWTCoHBvcnRmb2xpb8KgYW5kwqBtYWpvcsKgZXF1aXZhbGVuY3nCoGRldmVsb3BtZW50wqAgICAgICAyMDAzLTIwMDjCoA0KDQogICAgICAgICAgICAgICAgICAgICAgICB0ZWFtc8KgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDCoA0KDQogICAgICAgICAgICAgIE1jUkVMwqBIaWdowqBQbGFpbnPCoENvbnNvcnRpdW3CoEFkdmlzb3J5wqBCb2FyZMKgbWVtYmVywqBmb3LCoE5EwqAgICAgICAgICAgICAgICAgIDE5OTctMjAwMcKgDQoNCiAgICAgICAgICAgICAgV3JpdGluZ8KgdGVhbcKgZm9ywqBORMKgRVNQQsKgTWF0aMKgRWTCoFRlYWNoZXLCoFByZXBhcmF0aW9uwqBTdGFuZGFyZHPCoCAgICAgICAgICAgIDE5OTgtOTnCoA0KDQogICAgICAgICAgICAgIFdyaXRpbmfCoHRlYW3CoGZvcsKgTkTCoFN0YXRlwqBNYXRoZW1hdGljc8KgRnJhbWV3b3Jrc8KgICAgICAgICAgICAgICAgICAgICAgICAgICAxOTk2LTk3wqANCg0KICAgICAgICAgICAgICBQcm9qZWN0wqBDb29yZGluYXRvcizCoE5EwqBNYXRoZW1hdGljc8KgQXNzZXNzbWVudMKgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTYtOTnCoA0KDQogICAgICAgICAgICAgIE9yZ2FuaXplZMKgdGhlwqBORFNVwqBNYXRoZW1hdGljc8KgVGFsZW50wqBTZWFyY2jCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTgtMjAwMsKgDQoNCiAgICAgICAgICAgICAgT3JnYW5pemVkwqBQcmFjdGljYWzCoERhdGHCoEdhdGhlcmluZ8KgZXZlbnTCoGZvcsKgTm9ydGjCoERha290YcKgU2NpZW5jZcKgICAgICAgICAgMTk5Ny0yMDA1wqANCg0KICAgICAgICAgICAgICAgICAgICAgICAgT2x5bXBpYWTCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgwqANCg0KICAgICAgICAgICAgICBPcmdhbml6ZWTCoE1hdGhlbWF0aWNzwqBDb21wZXRpdGlvbsKgZm9ywqByZWdpb25hbMKgQUlTRVPCoFNjaWVuY2XCoEZhaXLCoCAgICAgICAgIDE5OTYswqAxOTk4LTIwMDDCoA0KDQogICAgICAgICAgICAgIE5EU1XCoHJlcHJlc2VudGF0aXZlwqB0b8KgQlJJREdFU8KgbWlkZGxlwqBzY2hvb2zCoHByb2plY3TCoCAgICAgICAgICAgICAgICAgICAgICAxOTk2wqANCg0KICAgICAgICAgICAgICBPcmdhbml6ZWTCoHRoZcKgRmFyZ28vTW9vcmhlYWTCoE1hdGhlbWF0aWNzwqBFZHVjYXRpb27CoFNlbWluYXLCoCAgICAgICAgICAgICAgICAxOTk2LTIwMDLCoA0KDQoNCg0KVW5pdmVyc2l0ecKgICAgQ2hhaXIswqBGYWN1bHR5wqBEZXZlbG9wbWVudMKgQ29tbWl0dGVlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwNC1wcmVzZW50DQoNCiAgICAgICAgICAgICAgQ1NNRcKgQWR2aXNvcnnCoEJvYXJkwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwMi1wcmVzZW50wqANCg0KICAgICAgICAgICAgICBQZWVywqBSZXZpZXfCoG9mwqBUZWFjaGluZ8KgQm9hcmTCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMDItMjAwNMKgDQoNCiAgICAgICAgICAgICAgVW5pdmVyc2l0ecKgU2VuYXRlwqBFeGVjdXRpdmXCoENvbW1pdHRlZcKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMDItMjAwM8KgDQoNCiAgICAgICAgICAgICAgVW5pdmVyc2l0ecKgU2VuYXRlwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyMDAwLTIwMDPCoA0KDQogICAgICAgICAgICAgIE5EU1XCoFF1YW50aXRhdGl2ZcKgQXNzZXNzbWVudMKgUHJvamVjdMKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxOTk1LTIwMDPCoA0KDQogICAgICAgICAgICAgIEluZm9ybWF0aW9uwqBUZWNobm9sb2d5wqBSb3VuZMKgVGFibGXCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxOTk2LTIwMDHCoA0KDQogICAgICAgICAgICAgIFVuaXZlcnNpdHnCoEFzc2Vzc21lbnTCoENvbW1pdHRlZcKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTctMjAwM8KgDQoNCiAgICAgICAgICAgICAgU3VtbWVywqBTY2hvb2zCoENvbW1pdHRlZcKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTk5Ni05N8KgDQoNCg0KDQpEZXBhcnRtZW50wqAgICBTY2hvb2zCoG9mwqBFZHVjYXRpb27CoENoYWlywqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwNS0yMDA3DQoNCiAgICAgICAgICAgICAgU2Nob29swqBvZsKgRWR1Y2F0aW9uwqBJbnRlcmltwqBDaGFpcsKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyMDA0LTIwMDXCoA0KDQogICAgICAgICAgICAgIFNPRcKgQ2hhaXLCoFJldmlld8KgYW5kwqBSZXN0cnVjdHVyaW5nwqBDb21taXR0ZWXCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMDMtMjAwNMKgDQoNCiAgICAgICAgICAgICAgTWF0aGVtYXRpY3PCoERlcGFydG1lbnTCoFVuZGVyZ3JhZHVhdGXCoFByb2dyYW3CoERpcmVjdG9ywqAgICAgICAgICAgICAgICAgICAgICAxOTk3LTIwMDTCoA0KDQogICAgICAgICAgICAgIFJhb8KgRXhhbcKgY29tbWl0dGVlwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTUtMjAwNMKgDQoNCiAgICAgICAgICAgICAgVEHCoG9yaWVudGF0aW9uwqB3b3Jrc2hvcMKgY29tbWl0dGVlwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTUtMjAwNMKgDQoNCiAgICAgICAgICAgICAgRGVwYXJ0bWVudGFswqBjb21wdXRlcsKgZXF1aXBtZW50wqBjb21taXR0ZWXCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTctMjAwNMKgDQoNCiAgICAgICAgICAgICAgQ2FsY3VsdXPCoHJldmlld8Kgd29ya2luZ8KgZ3JvdXDCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTctMjAwNMKgDQoNCiAgICAgICAgICAgICAgVGVhY2hlcsKgRWR1Y2F0aW9uwqBDb3VuY2lswqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTk5NS05NizCoDE5OTctOTjCoA0KDQogICAgICAgICAgICAgIFNjaG9vbMKgb2bCoEVkdWNhdGlvbsKgQ3VycmljdWx1bcKgQ29tbWl0dGVlwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTk5Ny0yMDAwwqANCg0KICAgICAgICAgICAgICBTY2hvb2zCoG9mwqBFZHVjYXRpb27CoEFjYWRlbWljwqBBZmZhaXJzwqBDb21taXR0ZWXCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAxOTk3LTk5wqANCg0KDQoNCg0KDQoNCg0KDQoNCsKgDQoNCldpbGxpYW0gTyBNYXJ0aW4gDQoNCg0KDQpUZWFjaGluZyANCg0KTWF0aGVtYXRpY3PCoCAgICAgICAgICBMaW5lYXLCoEFsZ2VicmHCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwNsKgDQoNCiAgICAgICAgICAgICAgICAgICAgICBBeGlvbWF0aWPCoEdlb21ldHJ5wqAodW5kZXJncmFkL2dyYWQpwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTctMjAwM8KgDQoNCiAgICAgICAgICAgICAgICAgICAgICBIaXN0b3J5wqBvZsKgTWF0aGVtYXRpY3PCoCh1bmRlcmdyYWQvZ3JhZCnCoCAgICAgICAgICAgICAgICAgICAgICAgICAxOTk4LTIwMDTCoA0KDQogICAgICAgICAgICAgICAgICAgICAgVW5pdmVyc2l0ecKgQ2FsY3VsdXPCoElJwqAoY29vcmRpbmF0b3IpwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMTk5OC0yMDA4wqANCg0KICAgICAgICAgICAgICAgICAgICAgIFVuaXZlcnNpdHnCoENhbGN1bHVzwqBJwqAoY29vcmRpbmF0b3IpwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTctMjAwNMKgDQoNCiAgICAgICAgICAgICAgICAgICAgICBGaW5pdGXCoE1hdGhlbWF0aWNzwqAoY29vcmRpbmF0b3IpwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTUtOTfCoA0KDQoNCg0KRWR1Y2F0aW9uwqAgICAgICAgICAgICBTcGVjaWFswqBNZXRob2RzwqBmb3LCoFRlYWNoaW5nwqBNYXRoZW1hdGljcyAgICAgICAgICAgICAgICAgICAgICAgICAxOTk1LTIwMDgNCg0KICAgICAgICAgICAgICAgICAgICAgIFVuaXZlcnNpdHnCoFN1cGVydmlzb3LCoGZvcsKgU3R1ZGVudMKgVGVhY2hlcnPCoCAgICAgICAgICAgICAgICAgICAgICAxOTk1LTIwMDjCoA0KDQogICAgICAgICAgICAgICAgICAgICAgU2NpZW5jZcKgYW5kwqBNYXRoZW1hdGljc8KgVGVhY2hpbmfCoGFuZMKgQ3VycmljdWx1bcKgKGdyYWR1YXRlKcKgICAgICAgMjAwMi0yMDA1wqANCg0KICAgICAgICAgICAgICAgICAgICAgIFByYWN0aWN1bS9GaWVsZMKgRXhwZXJpZW5jZcKgKGdyYWR1YXRlKcKgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwMy0yMDA1wqANCg0KICAgICAgICAgICAgICAgICAgICAgIExlYXJuaW5nwqBUaGVvcnnCoFNlbWluYXLCoCh1bmRlcmdyYWR1YXRlL2dyYWR1YXRlKcKgICAgICAgICAgICAgICAgIDIwMDXCoA0KDQoNCg0KQ29udGludWluZ8KgICAgICAgICAgT05SwqBTZW1pbmFywqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMjAwMS0yMDA1DQoNCkVkdWNhdGlvbi9PdXRyZWFjaMKgIEdyYVNVU8KgU2VtaW5hcsKgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIwMDEtMjAwOMKgDQoNCiAgICAgICAgICAgICAgICAgICAgQWxpZ25pbmfCoEluc3RydWN0aW9uwqB3aXRowqBTdGFuZGFyZHPCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxOTk2LTIwMDDCoA0KDQogICAgICAgICAgICAgICAgICAgIE1hdGhlbWF0aWNzwqBBc3Nlc3NtZW50wqBQcm9qZWN0wqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoc3VtbWVycynCoA0KDQogICAgICAgICAgICAgICAgICAgIEdvdmVybm9yJ3PCoFNjaG9vbDrCoFVuZGVyc3RhbmRpbmfCoFZhcmlhdGlvbjrCoFRoZcKgRXhwbG9yYXRpb27CoGFuZMKgICAgMTk5OcKgDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbmFseXNpc8Kgb2bCoERhdGHCoCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDE5OTYswqAxOTk3wqANCg0KwqAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIMKgDQoNCg0KDQoNCg0KDQoNCg0KDQrCoA0KDQpXaWxsaWFtIE8gTWFydGluIA0KDQoNCg0KQXdhcmRzIA0KDQpORFNVwqBDb2xsZWdlwqBvZsKgU2NpZW5jZcKgYW5kwqBNYXRoZW1hdGljc8KgQXdhcmTCoGZvcsKgRXhjZWxsZW5jZcKgaW7CoFRlYWNoaW5nLMKgMTk5OA0KDQoNCg0KDQoNCg0KDQpQcm9mZXNzaW9uYWwgQXNzb2NpYXRpb25zIA0KDQrvgrcgICBBbWVyaWNhbsKgRWR1Y2F0aW9uYWzCoFJlc2VhcmNowqBBc3NvY2lhdGlvbsKgKEFFUkEpwqANCg0K74K3ICAgQUVSQcKgU3BlY2lhbMKgSW50ZXJlc3TCoEdyb3VwwqBmb3LCoFJlc2VhcmNowqBpbsKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbsKgKFNJR1JNRSnCoA0KDQrvgrcgICBBbWVyaWNhbsKgTWF0aGVtYXRpY2FswqBTb2NpZXR5wqAoQU1TKcKgDQoNCu+CtyAgIEFzc29jaWF0aW9uwqBmb3LCoFN1cGVydmlzaW9uwqBhbmTCoEN1cnJpY3VsdW3CoERldmVsb3BtZW50wqAoQVNDRCnCoA0KDQrvgrcgICBBc3NvY2lhdGlvbsKgb2bCoE1hdGhlbWF0aWNzwqBUZWFjaGVywqBFZHVjYXRvcnPCoChBTVRFKcKgDQoNCu+CtyAgIE1hdGhlbWF0aWNhbMKgQXNzb2NpYXRpb27CoG9mwqBBbWVyaWNhwqAoTUFBKcKgDQoNCu+CtyAgIE1BQcKgU3BlY2lhbMKgSW50ZXJlc3TCoEdyb3VwwqBvbsKgUmVzZWFyY2jCoGluwqBVbmRlcmdyYWR1YXRlwqBNYXRoZW1hdGljc8KgRWR1Y2F0aW9uwqAoTUFBwqBTSUfCoFJVTUXCoFByb2dyYW3CoA0KDQogICAgQ2hhaXIswqAyMDA0LTA2KcKgDQoNCu+CtyAgIFJlc2VhcmNowqBpbsKgVW5kZXJncmFkdWF0ZcKgTWF0aGVtYXRpY3PCoEVkdWNhdGlvbsKgQ29tbXVuaXR5wqAoUlVNRUMpwqANCg0K74K3ICAgTmF0aW9uYWzCoENvdW5jaWzCoG9mwqBUZWFjaGVyc8Kgb2bCoE1hdGhlbWF0aWNzwqAoTkNUTSnCoA0KDQrvgrcgICBOb3J0aMKgRGFrb3RhwqBBc3NvY2lhdGlvbsKgb2bCoENvbGxlZ2VzwqBvZsKgVGVhY2hlcsKgRWR1Y2F0aW9uwqAoTkRBQ1RFKcKgDQoNCu+CtyAgIE5vcnRowqBEYWtvdGHCoEFzc29jaWF0aW9uwqBmb3LCoFN1cGVydmlzaW9uwqBhbmTCoEN1cnJpY3VsdW3CoERldmVsb3BtZW50wqAoTkRBU0NEKcKgDQoNCu+CtyAgIE5vcnRowqBEYWtvdGHCoENvdW5jaWzCoG9mwqBUZWFjaGVyc8Kgb2bCoE1hdGhlbWF0aWNzwqAoTkRDVE3CoE5ld3NsZXR0ZXLCoEVkaXRvcsKgMTk5Ny1wcmVzZW50KcKgDQoNCu+CtyAgIE5vcnRowqBEYWtvdGHCoE1hdGhlbWF0aWNzL1NjaWVuY2XCoEFsbGlhbmNlwqAoTkRNU0EpwqANCg0K74K3ICAgTm9ydGjCoERha290YcKgTWF0aGVtYXRpY3PCoEFzc29jaWF0aW9uwqBvZsKgVHdvwqBZZWFywqBDb2xsZWdlc8KgKE5ETUFUWUMpwqANCg0KwqANCg0KDQoNCg0KDQoNCg0KDQoNCsKg</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912421306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

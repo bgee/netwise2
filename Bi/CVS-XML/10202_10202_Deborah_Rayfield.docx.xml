@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:44 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912116206521"  usageLimitType="allocation" usageLimit="200" currentUsage="34" remainingUsage="166" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Deborah Rayfield Associate</FormattedName>
+<GivenName>Deborah</GivenName>
+<FamilyName>Rayfield</FamilyName>
+<Affix type="qualification">Associate</Affix>
+</PersonName>
+</ContactInfo>
+<ExecutiveSummary>Areas of Expertise - human anatomy &amp; physiology, cardiovascular physiology, endocrinology Office - 006 Crawford Hall</ExecutiveSummary>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Howard University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Physiology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Cardiovascular">
+<CompetencyEvidence name ="Cardiovascular">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGVib3JhaCBSYXlmaWVsZCwgQXNzb2NpYXRlIFByb2Zlc3Nvcg0KDQogDQoNCg0KDQpCLlMuIC0gSG93YXJkIFVuaXZlcnNpdHkNCg0KDQoNClBoLkQuIC0gSG93YXJkIFVuaXZlcnNpdHkgKFBoeXNpb2xvZ3kpIA0KDQoNCg0KQXJlYXMgb2YgRXhwZXJ0aXNlIC0gaHVtYW4gYW5hdG9teSAmIHBoeXNpb2xvZ3ksIGNhcmRpb3Zhc2N1bGFyIHBoeXNpb2xvZ3ksIGVuZG9jcmlub2xvZ3kgDQoNCg0KDQpPZmZpY2UgLSAwMDYgQ3Jhd2ZvcmQgSGFsbA==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912116206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

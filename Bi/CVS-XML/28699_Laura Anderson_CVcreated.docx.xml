@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:20 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911350306521"  usageLimitType="allocation" usageLimit="200" currentUsage="82" remainingUsage="118" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Laura Anderson</FormattedName>
+<GivenName>Laura</GivenName>
+<FamilyName>Anderson</FamilyName>
+</PersonName>
+</ContactInfo>
+<ExecutiveSummary>Summary of research interests</ExecutiveSummary>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>MIT</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Binghamton</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1994-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TGF1cmEgQW5kZXJzb24NCg0KDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3INCg0KUGguRC4sIDE5OTQsIE1JVA0KDQpBdCBCaW5naGFtdG9uIHNpbmNlIDIwMDENCg0KDQoNCkFyZWFzIG9mIGludGVyZXN0OiBDb21iaW5hdG9yaWNzLCBUb3BvbG9neQ0KDQpTdW1tYXJ5IG9mIHJlc2VhcmNoIGludGVyZXN0cw==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911350306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

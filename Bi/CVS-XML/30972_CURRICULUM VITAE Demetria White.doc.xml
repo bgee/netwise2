@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:37 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910360306521"  usageLimitType="allocation" usageLimit="200" currentUsage="89" remainingUsage="111" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Demetria Howard White</FormattedName>
+<GivenName>Demetria</GivenName>
+<MiddleName>Howard</MiddleName>
+<FamilyName>White</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>39286</PostalCode>
+<Region>MS</Region>
+<Municipality>Jackson</Municipality>
+<DeliveryAddress>
+<PostOfficeBox>P.O. Box 68686</PostOfficeBox>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (601) 209-6736</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>601</AreaCityCode>
+<SubscriberNumber>209-6736</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>decled@aol.com</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<ExecutiveSummary>2007 Using Assessment to Build Stronger and Better Programs in Reading, English and Math. The National Resource Center 26th Annual Conference on The First-Year Experience ï¿½ (RMP) Discussed using effective instructional and problem solving strategies in the classroom to enhance student learning outcomes. Tasks were developed that engage students in thinking about the defining characteristics of important mathematical concepts that help students develop a deep understanding of core mathematical ideas that increase retention and transfer of knowledge to new situations. (Virtual Presentation) Science Development (Mathematics) implementation in identifying aspects of subject specialty areas, pedagogy training methods, and pupil assessment from AWP year 3 evaluations of the Liberian Teacher Training Project (LTTP). in Society International Conference Carlos III</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Tougaloo College</EmployerOrgName>
+<PositionHistory>
+<Title>Chair of Mathematics and Computer Science, Assistant Professor of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Upward Bound</EmployerOrgName>
+<PositionHistory>
+<Title>Mathematics Teacher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Tougaloo College</EmployerOrgName>
+<PositionHistory>
+<Title>Mathematics Teacher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Math Consultant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Summer Science Math Consultant, Tougaloo College Institute for Mathematics, Tougaloo College
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Jackson Public Schools</EmployerOrgName>
+<PositionHistory>
+<Title>Mathematics Teacher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MS</Region>
+<Municipality>Jackson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Carnegie Learning</EmployerOrgName>
+<PositionHistory>
+<Title>Computer Instructor/Yearbook and SECME Sponsor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Certified Implementation Specialist
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Jackson State University</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Mathematics Instructor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bluebonnet Life Insurance Company</EmployerOrgName>
+<PositionHistory>
+<Title>Administrative Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Data Entry Specialist, Deposit Guaranty Bank</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Jackson Public Schools</EmployerOrgName>
+<PositionHistory>
+<Title>Substitute Teacher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sears Roebuck &amp; Company</EmployerOrgName>
+<PositionHistory>
+<Title>Customer Service Representative</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>customer service</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1983-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Other Professional Activities</EmployerOrgName>
+<PositionHistory>
+<Title>File Clerk, Trustmark National Bank</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>banking/financial</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1981-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1983-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Carnegie Learning.</EmployerOrgName>
+<PositionHistory>
+<Title>Cognitive Tutor Training</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>GA</Region>
+<Municipality>Smyrna</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Trained teachers how to use and implement the Cognitive Tutor software in Bridge to Algebra and Algebra I classes.
+</Description>
+<StartDate>
+<AnyDate>2001-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mississippi Mega Conference</EmployerOrgName>
+<PositionHistory>
+<Title>Action Research</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Integrating Technology with Mathematics Instruction, Jackson, MS. This workshop was a result of personal action research on the integration of technology within the Algebra I Class. The results of student achievement with and without the use of hand-held technology were discussed.
+</Description>
+<StartDate>
+<AnyDate>2001-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Math Workshop. Tougaloo College.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>A Tougaloo College Initiative</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Using Assessment to Build Stronger and Better Programs in Reading, English and Math. The National Resource Center 26th Annual Conference on The First-Year Experience ï¿½
+</Description>
+<StartDate>
+<AnyDate>2007-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bridging the Academic Gap Between High School and College</EmployerOrgName>
+<PositionHistory>
+<Title>First-Year Initiatives</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>Addison</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>First-Year Experience 20th International Conference Hawaii&apos;s</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Hawaii</Region>
+<Municipality>Big Island</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>July 9- 12, 2007.
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Bloom&apos;s And Mathematical Concepts. Algebra I Workshop.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MS</Region>
+<Municipality>Jackson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Discussed problem solving strategies and instructions strategies with middle and high school teachers in the Jackson Public School District.
+</Description>
+<StartDate>
+<AnyDate>2008-02-28</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Problem Solving Workshop. Johnson Elementary School</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MS</Region>
+<Municipality>Jackson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Discussed problem solving strategies with 1st 2nd and 3rd grade teachers.
+</Description>
+<StartDate>
+<AnyDate>2008-02-28</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-02-28</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>ACT Prep</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Vision 2000
+</Description>
+<EndDate>
+<AnyDate>2008-02-28</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Tougaloo College Upward Bound.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MS</Region>
+<Municipality>Jackson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>GAP. Educational Training Center.
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Tougaloo, College.</EmployerOrgName>
+<PositionHistory>
+<Title>Praxis I Mathematics Workshop</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2007-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>ECCC</EmployerOrgName>
+<PositionHistory>
+<Title>Praxis I Mathematics Workshop</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Mississippi</Region>
+<Municipality>Jackson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Reading and Math Project</EmployerOrgName>
+<PositionHistory>
+<Title>Enhancing Faculty Professional Development</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Praxis I Mathematics Workshop Enhancing Faculty Professional Development
+</Description>
+<StartDate>
+<AnyDate>2008-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Student-Centered Learning&quot; Professor Al Armstrong</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Liberia</Region>
+<Municipality>Monrovia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>&quot;First-Year Initiative 27th National Resources First-Year Experience Conference. Title for Chemistry Success Student-Centered Learning&quot; Professor Al Armstrong, Dr. George Armstrong, Professor Demetria-Howard White.
+</Description>
+<StartDate>
+<AnyDate>2010-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Liberia</EmployerOrgName>
+<PositionHistory>
+<Title>Faculty</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Liberia</Region>
+<Municipality>Monrovia</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>&quot;Differentiating Instruction in Mathematics Development (Mathematics) implementation in identifying aspects of subject specialty areas, pedagogy training methods, and pupil assessment from AWP year 3 evaluations of the Liberian Teacher Training Project (LTTP).
+</Description>
+<StartDate>
+<AnyDate>2010-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Thinking &amp; Analytical Reasoning. &quot;The Reading and Math Project (RMP)</EmployerOrgName>
+<PositionHistory>
+<Title>Tougaloo College Faculty Development/QEP Center 2nd Annual Tougaloo College Teaching</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Effectiveness Symposium Theme:&quot; Creating Significant Learning Environments to Enhancing Critical Taking it a Step Further
+</Description>
+<StartDate>
+<AnyDate>2010-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>17th National HBCU Faculty Development Symposium</EmployerOrgName>
+<PositionHistory>
+<Title>Professor Demetria Howard-White, Dr. Linda Anderson</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode><Municipality>New Orleans LA</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Linda Anderson.</EmployerOrgName>
+<PositionHistory>
+<Title>Professor Demetria Howard</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Spain</Region>
+<Municipality>Madrid</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Pre-Conference Workshop &quot;The Reading and Math Project (RMP) Taking it a Step Further Professor Demetria Howard- White Dr.
+</Description>
+<StartDate>
+<AnyDate>2010-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-11-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University Title</EmployerOrgName>
+<PositionHistory>
+<Title>Professor Al</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>&quot;First-Year Initiative for Chemistry Success Student-Centered Learning&quot; Professor Al Armstrong, Dr. George Armstrong, Professor Demetria-Howard White. CURRICULUM Basic Literacy Mathematics Curriculum Specialist for MCID&apos;s project, Liberia Teacher Training Program (LTTP), under the EQUIP 2 Grant to the Academy for Educational Development (AED) funded by the United States Agency for International Development (USAID) May 2008 Mathematics Education Curriculum Consultant, training of peer tutors and developing mechanism to ensure high levels of achievement in basic literacy (mathematics) via pedagogical techniques and integrated systems approaches to teaching and learning. Monrovia, Liberia
+</Description>
+<StartDate>
+<AnyDate>2009-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Blue Ribbon Committee (BRC)</EmployerOrgName>
+<PositionHistory>
+<Title>Teacher Education</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Mississippi</Region>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Institute of Higher Learning Tougaloo College (Team Member)
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Hinds Community College</SchoolName>
+</School>
+<Degree>
+<DegreeName>A.A</DegreeName>
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<Comments>Subjects: Engineering</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Tougaloo College</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1990-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics/Computer Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Jackson State University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>T.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Capella University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>First-year initiative for chemistry success: Student-centered learning</Title>
+<Name role="author">
+<FormattedName>Armstrong, A., Armstrong, G. &amp; White, D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>International Journal of Science in Society &quot;http://science-society.com/journal/&quot; http://science-society.com/journal/</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Lead/Contributing Writer Editors and support staff Foundations: Module 4.3</Title>
+<Name role="author">
+<FormattedName>White, D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Basic Literacy: Mathematical Concepts and Applications Part</JournalOrSerialName>
+<Volume>1</Volume>
+</Article>
+<Article>
+<Title>ISBN 089492-162-1 ISBN</Title>
+<PageNumber>978-0-8942-162-9</PageNumber>
+</Article>
+<Article>
+<Title>(The process of developing assessing and publishing the &quot;C&quot; Certificate curriculum materials was supported by the Liberian Teacher Training Program a USAID-funded project.)</Title>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Administrative Assistant">
+<CompetencyEvidence name ="Administrative Assistant">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Customer Service">
+<CompetencyEvidence name ="Customer Service">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Data Entry">
+<CompetencyEvidence name ="Data Entry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Integrate">
+<CompetencyEvidence name ="Integrate" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Integrated Systems">
+<CompetencyEvidence name ="Integrated Systems" lastUsed="2009-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2001-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Training">
+<CompetencyEvidence name ="Training" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">13</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2007-01-01</StringDate></Date>
+<Description>Who&apos;s Who Among American Educators and Professionals 2010.</Description>
+</Achievement>
+<Achievement>
+<Description>Grantsmanship</Description>
+</Achievement>
+<Achievement>
+<Description>Evaluative Research and Capacity Building Project (ERCB) for the Mississippi Delta</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>American Association of Women (AAUW)</Name>
+</Association>
+<Association>
+<Name>Women in Mathematics Education (WME)</Name>
+</Association>
+<Association>
+<Name>National Council of Teachers of Mathematics (NCTM)</Name>
+</Association>
+<Association>
+<Name>Mathematics Association of America (MMA)</Name>
+</Association>
+<Association>
+<Name>American Evaluation Association (AEA)</Name>
+</Association>
+<Association>
+<Name>Tri-State Delta Evaluation Association (TSDEA)</Name>
+</Association>
+<Association>
+<Name>Leadership of Greater Jackson (LGJ) Class of</Name>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBRQ0KTkFNRToNCkRlbWV0cmlhIEhvd2FyZCBXaGl0ZQ0KUC5PLiBCb3ggNjg2ODYNCkphY2tzb24sIE1TICAzOTI4Ng0KKDYwMSkgMjA5LTY3MzYgIA0KIEhZUEVSTElOSyAibWFpbHRvOmRlY2xlZEBhb2wuY29tIiBkZWNsZWRAYW9sLmNvbQ0KDQpBY2FkZW1pYyBEZWdyZWVzOg0KQS5BLiAgICAgICAgMTk4NiAgICAgSGluZHMgQ29tbXVuaXR5IENvbGxlZ2UgICAgICAgIFN1YmplY3RzOiBFbmdpbmVlcmluZw0KQi5TLiAgICAgICAgIDE5OTAgICAgIFRvdWdhbG9vIENvbGxlZ2UgICAgICAgICAgICAgICAgICAgICAgTWF0aGVtYXRpY3MvQ29tcHV0ZXIgU2NpZW5jZSAgDQpNLlMuIFQuICAgIDE5OTUgICAgIEphY2tzb24gU3RhdGUgVW5pdmVyc2l0eSAgICAgICAgICAgTWF0aGVtYXRpY3MgDQoyMDA5IC0gY3VycmVudCAgICAgIENhcGVsbGEgVW5pdmVyc2l0eSAgICAgICAgICAgICAgICAgICAgIFByb2dyYW0gb2YgU3R1ZHk6IFBoLkQuIEluc3RydWN0aW9uYWwgRGVzaWduIGZvciBPbmxpbmUgTGVhcm5pbmcgICAgICAgICAgICAgICANCg0KUG9zaXRpb25zOg0KMjAwMiAtIHByZXNlbnQgICAgICAgIENoYWlyIG9mIE1hdGhlbWF0aWNzIGFuZCBDb21wdXRlciBTY2llbmNlLCBBc3Npc3RhbnQgUHJvZmVzc29yIG9mIE1hdGhlbWF0aWNzLCAgDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvdWdhbG9vIENvbGxlZ2UNCjE5OTkgLSAgMjAwMiAgICAgICAgICAgTWF0aGVtYXRpY3MgVGVhY2hlciwgVXB3YXJkIEJvdW5kLCBUb3VnYWxvbyBDb2xsZWdlDQoyMDAyIC0gIDIwMDcgICAgICAgICAgIE1hdGhlbWF0aWNzIFRlYWNoZXIsIFN1bW1lciBTY2llbmNlLCBUb3VnYWxvbyBDb2xsZWdlDQoyMDA0IC0gIDIwMDYgICAgICAgICAgIE1hdGggQ29uc3VsdGFudCwgVG91Z2Fsb28gQ29sbGVnZSBJbnN0aXR1dGUgZm9yIE1hdGhlbWF0aWNzLCBUb3VnYWxvbyBDb2xsZWdlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQoxOTk1IC0gIDIwMDIgICAgICAgICAgIE1hdGhlbWF0aWNzIFRlYWNoZXIsIEphY2tzb24gUHVibGljIFNjaG9vbHMsIEphY2tzb24sIE1TDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29tcHV0ZXIgSW5zdHJ1Y3Rvci9ZZWFyYm9vayBhbmQgU0VDTUUgU3BvbnNvcg0KMjAwMSAtICBwcmVzZW50ICAgICAgQ2FybmVnaWUgTGVhcm5pbmcsIENlcnRpZmllZCBJbXBsZW1lbnRhdGlvbiBTcGVjaWFsaXN0DQoxOTk1IC0gIDE5OTYgICBBZGp1bmN0IE1hdGhlbWF0aWNzIEluc3RydWN0b3IsIEphY2tzb24gU3RhdGUgVW5pdmVyc2l0eQ0KMTk5MyAtICAxOTk1ICAgICBBZG1pbmlzdHJhdGl2ZSBBc3Npc3RhbnQsIEJsdWVib25uZXQgTGlmZSBJbnN1cmFuY2UgQ29tcGFueQ0KMTk5MiAtICAxOTkzICAgICAgICAgICBEYXRhIEVudHJ5IFNwZWNpYWxpc3QsIERlcG9zaXQgR3VhcmFudHkgQmFuaw0KMTk5MCAtICAxOTkyICAgICAgICAgICBTdWJzdGl0dXRlIFRlYWNoZXIsIEphY2tzb24gUHVibGljIFNjaG9vbHMNCjE5ODMgLSAgMTk5MCAgICAgICAgICAgQ3VzdG9tZXIgU2VydmljZSBSZXByZXNlbnRhdGl2ZSwgU2VhcnMgUm9lYnVjayAmIENvbXBhbnkNCjE5ODEgLSAgMTk4MyAgICAgICAgICAgRmlsZSBDbGVyaywgVHJ1c3RtYXJrIE5hdGlvbmFsIEJhbmsNCg0KT3RoZXIgUHJvZmVzc2lvbmFsIEFjdGl2aXRpZXM6DQpTdW1tZXIgMjAwMSwgU3VtbWVyIDIwMDIsIEZhbGwgMjAwOSwgU3VtbWVyIDIwMTAgLSBDaGF0dGFub29nYSwgVE4sIFNteXJuYSBHQSwgS2luZ3NsYW5kLCBHQSwgU2FuIEFudG9uaW8sIFRYLCBEcnVtcmlnaHQsIE9LLCBMYWZheWV0dGUsIExBLCBDb2duaXRpdmUgVHV0b3IgVHJhaW5pbmcsIENhcm5lZ2llIExlYXJuaW5nLiBUcmFpbmVkIHRlYWNoZXJzIGhvdyB0byB1c2UgYW5kIGltcGxlbWVudCB0aGUgQ29nbml0aXZlIFR1dG9yIHNvZnR3YXJlIGluIEJyaWRnZSB0byBBbGdlYnJhIGFuZCBBbGdlYnJhIEkgY2xhc3Nlcy4NCg0KRmFsbCAyMDAxIC0gTWlzc2lzc2lwcGkgTWVnYSBDb25mZXJlbmNlOiBBY3Rpb24gUmVzZWFyY2g6IEludGVncmF0aW5nIFRlY2hub2xvZ3kgd2l0aCBNYXRoZW1hdGljcyBJbnN0cnVjdGlvbiwgSmFja3NvbiwgTVMuICBUaGlzIHdvcmtzaG9wIHdhcyBhIHJlc3VsdCBvZiBwZXJzb25hbCBhY3Rpb24gcmVzZWFyY2ggb24gdGhlIGludGVncmF0aW9uIG9mIHRlY2hub2xvZ3kgd2l0aGluIHRoZSBBbGdlYnJhIEkgQ2xhc3MuICBUaGUgcmVzdWx0cyBvZiBzdHVkZW50IGFjaGlldmVtZW50IHdpdGggYW5kIHdpdGhvdXQgdGhlIHVzZSBvZiBoYW5kLWhlbGQgdGVjaG5vbG9neSB3ZXJlIGRpc2N1c3NlZC4NCg0KTWFyY2ggMjAwNS4gTWF5IDIwMDguIENvbnNvcnRpdW0gZm9yIFJlc2VhcmNoIG9uIEVkdWNhdGlvbmFsIEFjY291bnRhYmlsaXR5IGFuZCBUZWFjaGVyIEV2YWx1YXRpb24gKENSRUFURSkuIE1lbXBoaXMsIFROIEV2YWx1YXRpdmUgUmVzZWFyY2ggYW5kIENhcGFjaXR5IEJ1aWxkaW5nIFByb2plY3QgKEVSQ0IpIGZvciB0aGUgTWlzc2lzc2lwcGkgRGVsdGEgVGl0bGU6IEludGVncmF0aW5nIFRlY2hub2xvZ3kgaW4gTWF0aGVtYXRpY3M6IEhvdyBpcyBpdCBMaW5rZWQgdG8gSGlnaCBTdGFrZXMgVGVzdGluZz8NClNwcmluZyAyMDA2IGFuZCBGYWxsIDIwMDYuUHJheGlzIE1hdGggV29ya3Nob3AuIFRvdWdhbG9vIENvbGxlZ2UuIA0KRmVicnVhcnkgMjAwNy4gQSBUb3VnYWxvbyBDb2xsZWdlIEluaXRpYXRpdmU6IFVzaW5nIEFzc2Vzc21lbnQgdG8gQnVpbGQgU3Ryb25nZXIgYW5kIEJldHRlciBQcm9ncmFtcyBpbiBSZWFkaW5nLCBFbmdsaXNoIGFuZCBNYXRoLiBUaGUgTmF0aW9uYWwgUmVzb3VyY2UgQ2VudGVyIDI2dGggQW5udWFsIENvbmZlcmVuY2Ugb24gVGhlIEZpcnN0LVllYXIgRXhwZXJpZW5jZcKuIEZlYnJ1YXJ5IDE2LTIwLCAyMDA3IGluIEFkZGlzb24sIFRleGFzLiANCiAgIEp1bHkgMjAwNy4gRmlyc3QtWWVhciBJbml0aWF0aXZlczogQnJpZGdpbmcgdGhlIEFjYWRlbWljIEdhcCBCZXR3ZWVuIEhpZ2ggU2Nob29sIGFuZCBDb2xsZWdlIA0KVGhlIEZpcnN0LVllYXIgRXhwZXJpZW5jZSAyMHRoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSAgSGF3YWlpJ3MgQmlnIElzbGFuZCwgSGF3YWlpIEp1bHkgOS0gMTIsIDIwMDcuDQoNCkphbnVhcnkgMjAwNy4gQmxvb20ncyBBbmQgTWF0aGVtYXRpY2FsIENvbmNlcHRzLiBBbGdlYnJhIEkgV29ya3Nob3AuIEphY2tzb24sIE1TLiBEaXNjdXNzZWQgcHJvYmxlbSBzb2x2aW5nIHN0cmF0ZWdpZXMgYW5kIGluc3RydWN0aW9ucyBzdHJhdGVnaWVzIHdpdGggbWlkZGxlIGFuZCBoaWdoIHNjaG9vbCB0ZWFjaGVycyBpbiB0aGUgSmFja3NvbiBQdWJsaWMgU2Nob29sIERpc3RyaWN0Lg0KRmVicnVhcnkgMjAwOC4gUHJvYmxlbSBTb2x2aW5nIFdvcmtzaG9wLiBKb2huc29uIEVsZW1lbnRhcnkgU2Nob29sLCBKYWNrc29uLCBNUy4gRmVicnVhcnkgMjgsIDIwMDguDQogICAgICAgICAgICAgIERpc2N1c3NlZCBwcm9ibGVtIHNvbHZpbmcgc3RyYXRlZ2llcyB3aXRoIDFzdCAsIDJuZCAsIGFuZCAzcmQgZ3JhZGUgdGVhY2hlcnMuDQoNCkFDVCBQcmVwOiBWaXNpb24gMjAwMCxUb3VnYWxvbyBDb2xsZWdlIFVwd2FyZCBCb3VuZC4gVG91Z2Fsb28sIE1TICAyMDAyLSBwcmVzZW50DQogICAgICAgICAgICBHQVAuIEVkdWNhdGlvbmFsIFRyYWluaW5nIENlbnRlci4gSmFja3NvbiwgTVMgIFNwcmluZyAyMDA4LCBKdW5lIDIwMDksIA0KDQpTdW1tZXIgMjAwMyAtIDIwMDguIFRvdWdhbG9vIENvbGxlZ2UgSW5zdGl0dXRlIG9mIE1hdGhlbWF0aWNzIChUQ0lNKSBUcmFpbmVkIHRlYWNoZXJzIHRvIGFsaWduIE5DVE0gDQogICAgICAgICAgIHN0YW5kYXJkcywgdXNlIGVmZmVjdGl2ZSBpbnN0cnVjdGlvbmFsIHN0cmF0ZWdpZXMsIGludGVncmF0ZSB0ZWNobm9sb2d5IGluIHRoZSBjdXJyaWN1bHVtLCBhbmQgd29yayBzdHJhdGVnaWNhbGx5IA0KICAgICAgICAgICB1c2luZyBjb29wZXJhdGl2ZSBsZWFybmluZy4NCg0KT2N0b2JlciAyMDA3LCBEZWNlbWJlciAyMDA3LCBGZWJydWFyeSAyMDA4LCBQcmF4aXMgSSBNYXRoZW1hdGljcyBXb3Jrc2hvcCwgVG91Z2Fsb28sIENvbGxlZ2UuDQoNClNlcHRlbWJlciAyMDA4LCBNYXkgMjAwOSwgIFByYXhpcyBJIE1hdGhlbWF0aWNzIFdvcmtzaG9wLCBFQ0NDLCBKYWNrc29uLCBNaXNzaXNzaXBwaS4NCg0KU2VwdGVtYmVyIDIwMDgsIEphbnVhcnkgMjAwOS4gVGl0bGU6IEVuaGFuY2luZyBGYWN1bHR5IFByb2Zlc3Npb25hbCBEZXZlbG9wbWVudDogVGhlIFJlYWRpbmcgYW5kIE1hdGggUHJvamVjdCANCiAgICAgICAgICAgIChSTVApLCBUb3VnYWxvbywgTVMuIERpc2N1c3NlZCB1c2luZyBlZmZlY3RpdmUgaW5zdHJ1Y3Rpb25hbCBhbmQgcHJvYmxlbSBzb2x2aW5nIHN0cmF0ZWdpZXMgaW4gdGhlDQogICAgICAgICAgICBjbGFzc3Jvb20gdG8gZW5oYW5jZSBzdHVkZW50IGxlYXJuaW5nIG91dGNvbWVzLiAgVGFza3Mgd2VyZSBkZXZlbG9wZWQgdGhhdCBlbmdhZ2Ugc3R1ZGVudHMgaW4gdGhpbmtpbmcgDQogICAgICAgICAgICBhYm91dCB0aGUgZGVmaW5pbmcgY2hhcmFjdGVyaXN0aWNzIG9mIGltcG9ydGFudCBtYXRoZW1hdGljYWwgY29uY2VwdHMgdGhhdCBoZWxwIHN0dWRlbnRzIGRldmVsb3AgYSBkZWVwIA0KICAgICAgICAgICAgdW5kZXJzdGFuZGluZyBvZiBjb3JlIG1hdGhlbWF0aWNhbCBpZGVhcyB0aGF0IGluY3JlYXNlIHJldGVudGlvbiBhbmQgdHJhbnNmZXIgb2Yga25vd2xlZGdlIHRvIG5ldyBzaXR1YXRpb25zLg0KDQpGZWJydWFyeSAyMDEwLCBEYWxsYXMsIFRYLCAgMjd0aCBOYXRpb25hbCBSZXNvdXJjZXMgRmlyc3QtWWVhciBFeHBlcmllbmNlIENvbmZlcmVuY2UuIFRpdGxlOiAiRmlyc3QtWWVhciBJbml0aWF0aXZlIA0KICAgICAgICAgICAgZm9yIENoZW1pc3RyeSBTdWNjZXNzOiBTdHVkZW50LUNlbnRlcmVkIExlYXJuaW5nIiBQcm9mZXNzb3IgQWwgQXJtc3Ryb25nLCBEci4gR2VvcmdlIEFybXN0cm9uZywgDQogICAgICAgICAgICBQcm9mZXNzb3IgRGVtZXRyaWEtSG93YXJkIFdoaXRlLg0KDQpNYXJjaCAyMDEwLCBNb25yb3ZpYSwgTGliZXJpYSwgVGl0bGU6ICJEaWZmZXJlbnRpYXRpbmcgSW5zdHJ1Y3Rpb24gaW4gTWF0aGVtYXRpY3MsIFVuaXZlcnNpdHkgb2YgTGliZXJpYSwgRmFjdWx0eSANCiAgICAgICAgICAgICBEZXZlbG9wbWVudCAoTWF0aGVtYXRpY3MpOyBpbXBsZW1lbnRhdGlvbiBpbiBpZGVudGlmeWluZyBhc3BlY3RzIG9mIHN1YmplY3Qgc3BlY2lhbHR5IGFyZWFzLCBwZWRhZ29neSANCiAgICAgICAgICAgICB0cmFpbmluZyBtZXRob2RzLCBhbmQgcHVwaWwgYXNzZXNzbWVudCBmcm9tIEFXUCB5ZWFyIDMgZXZhbHVhdGlvbnMgb2YgdGhlIExpYmVyaWFuIFRlYWNoZXIgVHJhaW5pbmcgDQogICAgICAgICAgICAgUHJvamVjdCAoTFRUUCkuDQoNCkF1Z3VzdCAyMDEwLCBUb3VnYWxvbyBDb2xsZWdlIEZhY3VsdHkgRGV2ZWxvcG1lbnQvUUVQIENlbnRlciAybmQgQW5udWFsIFRvdWdhbG9vIENvbGxlZ2UgVGVhY2hpbmcgDQogICAgICAgICAgICAgRWZmZWN0aXZlbmVzcyBTeW1wb3NpdW0gVGhlbWU6IiBDcmVhdGluZyBTaWduaWZpY2FudCBMZWFybmluZyBFbnZpcm9ubWVudHMgdG8gRW5oYW5jaW5nIENyaXRpY2FsIA0KICAgICAgICAgICAgIFRoaW5raW5nICYgQW5hbHl0aWNhbCBSZWFzb25pbmcuICJUaGUgUmVhZGluZyBhbmQgTWF0aCBQcm9qZWN0IChSTVApOiBUYWtpbmcgaXQgYSBTdGVwIEZ1cnRoZXIsDQogICAgICAgICAgICAgUHJvZmVzc29yIERlbWV0cmlhIEhvd2FyZC1XaGl0ZSwgRHIuIExpbmRhIEFuZGVyc29uLg0KDQpPY3RvYmVyIDIwMTAsIE5ldyBPcmxlYW5zLCBMQSwgMTd0aCBOYXRpb25hbCBIQkNVIEZhY3VsdHkgRGV2ZWxvcG1lbnQgU3ltcG9zaXVtLCBQcmUtQ29uZmVyZW5jZSAgICAgICAgIA0KICAgICAgICAgICAgIFdvcmtzaG9wLCAiVGhlIFJlYWRpbmcgYW5kIE1hdGggUHJvamVjdCAoUk1QKTogVGFraW5nIGl0IGEgU3RlcCBGdXJ0aGVyLCBQcm9mZXNzb3IgRGVtZXRyaWEgSG93YXJkLSAgDQogICAgICAgICAgICAgV2hpdGUsIERyLiBMaW5kYSBBbmRlcnNvbi4NCg0KTm92ZW1iZXIgMjAxMCwgTWFkcmlkLCBTcGFpbiAoVmlydHVhbCBQcmVzZW50YXRpb24pIFNjaWVuY2UgaW4gU29jaWV0eSBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2UsIENhcmxvcyBJSUkgDQogICAgICAgICAgICAgVW5pdmVyc2l0eSBUaXRsZTogIkZpcnN0LVllYXIgSW5pdGlhdGl2ZSBmb3IgQ2hlbWlzdHJ5IFN1Y2Nlc3M6IFN0dWRlbnQtQ2VudGVyZWQgTGVhcm5pbmciLCBQcm9mZXNzb3IgQWwgDQogICAgICAgICAgICAgQXJtc3Ryb25nLCBEci4gR2VvcmdlIEFybXN0cm9uZywgUHJvZmVzc29yIERlbWV0cmlhLUhvd2FyZCBXaGl0ZS4NCg0KQ1VSUklDVUxVTQ0KDQpCYXNpYyBMaXRlcmFjeSBNYXRoZW1hdGljcyBDdXJyaWN1bHVtIFNwZWNpYWxpc3QgZm9yIE1DSUQncyBwcm9qZWN0LCBMaWJlcmlhIFRlYWNoZXIgVHJhaW5pbmcgUHJvZ3JhbSAoTFRUUCksIHVuZGVyIHRoZSBFUVVJUCAyIEdyYW50IHRvIHRoZSBBY2FkZW15IGZvciBFZHVjYXRpb25hbCBEZXZlbG9wbWVudCAoQUVEKSBmdW5kZWQgYnkgdGhlIFVuaXRlZCBTdGF0ZXMgQWdlbmN5IGZvciBJbnRlcm5hdGlvbmFsIERldmVsb3BtZW50IChVU0FJRCkgICBNYXkgMjAwOA0KDQpNYXRoZW1hdGljcyBFZHVjYXRpb24gQ3VycmljdWx1bSBDb25zdWx0YW50LCB0cmFpbmluZyBvZiBwZWVyIHR1dG9ycyBhbmQgZGV2ZWxvcGluZyBtZWNoYW5pc20gdG8gZW5zdXJlIGhpZ2ggbGV2ZWxzIG9mIGFjaGlldmVtZW50IGluIGJhc2ljIGxpdGVyYWN5IChtYXRoZW1hdGljcykgdmlhIHBlZGFnb2dpY2FsIHRlY2huaXF1ZXMgYW5kIGludGVncmF0ZWQgc3lzdGVtcyBhcHByb2FjaGVzIHRvIHRlYWNoaW5nIGFuZCBsZWFybmluZy4gIE1vbnJvdmlhLCBMaWJlcmlhICwgRmVicnVhcnkgMjAwOSwgU2VwdGVtYmVyIDIwMDksIE1hcmNoIDIwMTAuDQoNCkJsdWUgUmliYm9uIENvbW1pdHRlZSAoQlJDKSAyMDA4IFRlYWNoZXIgRWR1Y2F0aW9uLCBNaXNzaXNzaXBwaSBJbnN0aXR1dGUgb2YgSGlnaGVyIExlYXJuaW5nICANClRvdWdhbG9vIENvbGxlZ2UgKFRlYW0gTWVtYmVyKQ0KDQoNCkhvbm9yczoNCldobydzIFdobyBBbW9uZyBBbWVyaWNhbiBFZHVjYXRvcnMgYW5kIFByb2Zlc3Npb25hbHMgMjAwNywgMjAxMC4NCg0KDQpHcmFudHNtYW5zaGlwOiANCkV2YWx1YXRpdmUgUmVzZWFyY2ggYW5kIENhcGFjaXR5IEJ1aWxkaW5nIFByb2plY3QgKEVSQ0IpIGZvciB0aGUgTWlzc2lzc2lwcGkgRGVsdGENClRpdGxlOiBJbnRlZ3JhdGluZyBUZWNobm9sb2d5IGluIE1hdGhlbWF0aWNzOiBIb3cgaXMgaXQgTGlua2VkIHRvIEhpZ2ggU3Rha2VzIFRlc3Rpbmc/DQpGdW5kZWQ6IE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiANCkFwcmlsIDEsIDIwMDIgdG8gT2N0b2JlciAzMSwgMjAwNSwgJDYwLDAwMA0KDQpUaXRsZTogRW5oYW5jaW5nIEZhY3VsdHkgUHJvZmVzc2lvbmFsIERldmVsb3BtZW50OiBUaGUgUmVhZGluZyBhbmQgTWF0aCBQcm9qZWN0IChSTVApDQpGdW5kZWQ6IE9mZmljZSBvZiB0aGUgUHJvdm9zdCBhbmQgVmljZSBQcmVzaWRlbnQgZm9yIEFjYWRlbWljIEFmZmFpcnMNCkF1Z3VzdCAyMDA4IC0gTWF5IDIwMDgsICQxNTAwDQpBdWd1c3QgMjAwOSAtIE1heSAyMDEwICAkNzUwDQpNYXJjaCAtIE1heSAyMDExICAkMTAwMCAocGVuZGluZykNCg0KVVNNOiBMZWFybiAmIFNlcnZlIEdyYW50DQpGdW5kZWQ6IENOQ1MgTWlzc2lzc2lwcGkgQ2FtcHVzIENvbXBhY3QgDQpTZXB0ZW1iZXIgMSwgMjAxMCAtIE1heSAzMSwgMjAxMSAgJDUwMDANCkxlYXJuICYgU2VydmUgU3R1ZGVudCBMZWFkZXJzaGlwIEdyYW50IA0KRnVuZGVkOiBDTkNTIE1pc3Npc3NpcHBpIENhbXB1cyBDb21wYWN0DQpPY3RvYmVyIDEsIDIwMTAgLSBNYXkgMzEsIDIwMTEgICAkMjI1MA0KDQpQdWJsaWNhdGlvbnMNCkFybXN0cm9uZywgQS4sIEFybXN0cm9uZywgRy4gJiBXaGl0ZSwgRC4gKDIwMTApIC4gRmlyc3QteWVhciBpbml0aWF0aXZlIGZvciBjaGVtaXN0cnkgc3VjY2VzczogU3R1ZGVudC1jZW50ZXJlZCANCiAgICAgIGxlYXJuaW5nLiBJbnRlcm5hdGlvbmFsIEpvdXJuYWwgb2YgU2NpZW5jZSBpbiBTb2NpZXR5LCAoMikuICBIWVBFUkxJTksgImh0dHA6Ly9zY2llbmNlLXNvY2lldHkuY29tL2pvdXJuYWwvIiBodHRwOi8vc2NpZW5jZS1zb2NpZXR5LmNvbS9qb3VybmFsLy4gSVNTTiAxODM2LTYyMzYuDQoNCldoaXRlLCBELiAoMjAxMCkgTGVhZC9Db250cmlidXRpbmcgV3JpdGVyICAsIEVkaXRvcnMgYW5kIHN1cHBvcnQgc3RhZmYNCiAgICAgIEZvdW5kYXRpb25zOiBNb2R1bGUgNC4zLCBCYXNpYyBMaXRlcmFjeTogTWF0aGVtYXRpY2FsIENvbmNlcHRzIGFuZCBBcHBsaWNhdGlvbnMgUGFydCAxICYgUGFydCAyDQogICAgICBJU0JOIDA4OTQ5Mi0xNjItMSAgIElTQk4gMTMgOTc4LTAtODk0Mi0xNjItOQ0KICAgICAgKFRoZSBwcm9jZXNzIG9mIGRldmVsb3BpbmcsIGFzc2Vzc2luZyBhbmQgcHVibGlzaGluZyB0aGUgIkMiIENlcnRpZmljYXRlIGN1cnJpY3VsdW0gbWF0ZXJpYWxzIHdhcyBzdXBwb3J0ZWQgYnkgDQogICAgICAgIHRoZSBMaWJlcmlhbiBUZWFjaGVyIFRyYWluaW5nIFByb2dyYW0gKExUVFApLCBhIFVTQUlELWZ1bmRlZCBwcm9qZWN0LikNCg0KTWVtYmVyc2hpcHM6DQpBbWVyaWNhbiBBc3NvY2lhdGlvbiBvZiBXb21lbiAoQUFVVykNCldvbWVuIGluIE1hdGhlbWF0aWNzIEVkdWNhdGlvbiAoV01FKSANCk5hdGlvbmFsIENvdW5jaWwgb2YgVGVhY2hlcnMgb2YgTWF0aGVtYXRpY3MgKE5DVE0pIA0KTWF0aGVtYXRpY3MgQXNzb2NpYXRpb24gb2YgQW1lcmljYSAoTU1BKSANCkFtZXJpY2FuIEV2YWx1YXRpb24gQXNzb2NpYXRpb24gKEFFQSkNClRyaS1TdGF0ZSBEZWx0YSBFdmFsdWF0aW9uIEFzc29jaWF0aW9uIChUU0RFQSkNCkxlYWRlcnNoaXAgb2YgR3JlYXRlciBKYWNrc29uIChMR0opIENsYXNzIG9mIDIwMTAgLSAyMDEx</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910360306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

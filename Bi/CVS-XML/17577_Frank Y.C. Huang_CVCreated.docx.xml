@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:51 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914530306521"  usageLimitType="allocation" usageLimit="200" currentUsage="62" remainingUsage="138" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Frank Y.C. Huang</FormattedName>
+<GivenName>Frank</GivenName>
+<MiddleName>Y.C.</MiddleName>
+<FamilyName>Huang</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>87801</PostalCode>
+<Region>NM</Region>
+<Municipality>Socorro</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (505) 835-5592</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>505</AreaCityCode>
+<SubscriberNumber>835-5592</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (505) 835-5509</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>505</AreaCityCode>
+<SubscriberNumber>835-5509</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>huang@nmt.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Advanced Inhalation Research Inc.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Cambridge</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Controlled Release Group Technical Consultant, Summer 2001 Studied the in vitro release profiles of different formulations. Correlated the in vitro kinetics with in vivo pharmacokinetics.
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>General Mills Inc.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Buffalo</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Engineering Division Technical Consultant, Summer 2001 Investigated the fundamentals of particle segregation. Optimized the production process to reduce product quality variation.
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NM</Region>
+<Municipality>Albuquerque</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Production Division Technical Consultant, Summer 2001 Studied the fundamentals of particulate adhesion. Developed new processes to minimize ingredient loss.
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Massachusetts Institute of Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Research/Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Cambridge</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Department of Chemical Engineering Research/Teaching Assistant Participated in the feasibility study of using polymer-coated magnetic beads to enhance oxygen transfer in pharmaceutical fermentors. Assisted the instruction of Fluid Mechanics.
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>New Mexico Tech, Department of Environmental Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor (tenured)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NM</Region>
+<Municipality>Socorro</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Managed and Conducted research sponsored by Gaz de France, DOE, Sandia National Labs, Public Service Company of New Mexico, and City of Albuquerque (Total amount ~ $800,000). Removal of arsenate from drinking water using semi-permeable membrane and ferric hydroxide adsorption. Removal of hydrogen sulfide from natural gas using Chromatium vinosum and Chlorobium limicola Catalytic decomposition of sulfur odorants using zero-valent iron Removal of uranium from unsaturated soils using electrokinetics Cometabolism of carbon tetrachloride and nitrate using denitrifying bacteria Served as consultant to Public Service Company of New Mexico, US Park Services, Sandia National Labs, and Petroleum Recovery Research Center.
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>New Mexico Tech, Department of Petroleum and Chemical Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NM</Region>
+<Municipality>Socorro</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Gulf Coast Hazardous Substance Research Center Beaumont, TX
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Technical Assistant to the Director</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Reviewed proposals submitted to the center for funding. Interacted with industries, EPA, and universities on innovative technologies. Conducted research sponsored by Dow Chemical and EPA. Assisted the organization of short courses, seminars, and conferences. Served as the technical editor of Journal of Waste Management.
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>MIT</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MA</Region>
+<Municipality>Cambridge</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>MSCEP in Chemical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Vanderbilt University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>TN</Region>
+<Municipality>Nashville</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Vanderbilt University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>TN</Region>
+<Municipality>Nashville</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1989-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>National Chung-Hsing University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Taiwan</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1984-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil and Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Radionuclide Plumes</Title>
+<Name role="author">
+<FormattedName>Brady, P.V., C.F.J. Colon, and F.Y.C. Huang, Soil</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>K.Y. Li and C.C</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>P. Brady E. Lindgren and P. Guerra &quot;Biodegradation of Uranium-Citrate Complexes: Implications for Extraction of Uranium from Soils &quot; Environmental Science &amp; Technology 32:379-382 1998</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Development of an Influent Flow Monitoring and Autosampling System for On-Site Wastewater Treatment Systems in Bernalillo County NM &quot; the Small Flow Journal</JournalOrSerialName>
+</Article>
+<Article>
+<Title>K.Y. Li C.C</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Kinetic Study of UV Peroxidation of Bis (2-chloroethyl) Ether in Aqueous Solution &quot; Ind</Title>
+<Name role="author">
+<FormattedName>Li, K.Y., C.C. Liu, Q. Ni, Z.F. Liu, F.Y.C. Huang and J.A. Colapret</FormattedName>
+</Name>
+<JournalOrSerialName>Eng. Chem</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Koussis and F.Y.C</Title>
+<Name role="author">
+<FormattedName>Bourne, J.R., J. Cantwell, A.J. Broderson, B. Antao, A</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Giurumescu and F.Y.C</Title>
+<Name role="author">
+<FormattedName>Jhunjhunwala, M., C</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>New Mexico 1999</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Historical Case Analysis of 90Sr and 137Cs Plumes &quot; a final report submitted to Sandia National Laboratories</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;THT</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+<JournalOrSerialName>Mercaptans and H2S Remediation &quot; a final report submitted to Gaz de France</JournalOrSerialName>
+<Volume>1998.</Volume>
+</Article>
+<Article>
+<Title>&quot;Impact of THT</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;A Literature Review of Alternative On-Site Liquid Waste Treatment and Disposal Systems &quot; a final report submitted to the Bernalillo County Environmental Health Department</JournalOrSerialName>
+</Article>
+<Article>
+<Title>P. Guerra and W. Zachritz &quot;Influent Characterization of Alternative On-site Wastewater Treatment Systems in Bernalillo County</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+<JournalOrSerialName>New Mexico&quot; a final report submitted to the Environment Health Department of Bernalillo County</JournalOrSerialName>
+</Article>
+<Article>
+<Title>New Mexico 1995</Title>
+<Name role="author">
+<FormattedName>Huang, F.Y.C</FormattedName>
+</Name>
+<JournalOrSerialName>and W. Zachritz &quot;A Study Plan for Evaluation of On-site Wastewater Treatment and Disposal: Demonstration of Alternative Technologies&quot; a final report submitted to the Environment Health Department of Bernalillo County</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<Title>Huang F.Y.C. A. Colon and B. Martens &quot;Particulate Adhesion Improvement &quot; General Mills Inc</Title>
+<StartDate><StringDate>1997-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. and R.L. Lee &quot;Degradation of Ethyl Mercaptan in the Presence of Zero-Valence Iron &quot; 4th Annual International Petroleum Environmental Conference</EventName>
+<EventType>conference</EventType>
+<Location>San Antonio TX</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1997-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. R.L. Lee B. Wear and P. Guerra &quot;Biodegradation of Tetrahydrothiophene and Mercaptans &quot; 7th Annual West Coast Conference on Contaminated Soils and Groundwater</EventName>
+<EventType>conference</EventType>
+<Location>Oxnard CA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1997-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. &quot;An Overview of Alternative On-site Wastewater Treatment and Disposal Systems &quot; New Mexico Conference on the Environment</EventName>
+<EventType>conference</EventType>
+<Location>Albuquerque NM</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>Guerra P. F.Y.C. Huang and B. Wear &quot;Pilot Testing and Modeling for the Design of Air Sparging Systems for Remediation of Petroleum Hydrocarbon Contaminated Soil and Groundwater: Pilot Testing for Effective and Safe Remediation &quot; Third Annual International Petroleum Environmental Conference</EventName>
+<EventType>conference</EventType>
+<Location>Albuquerque NM</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. W. Zachritz and C. Cates &quot;Alternative On-site Wastewater Treatment Technologies: A Demonstration Plan &quot; New Mexico Conference on the Environment</EventName>
+<EventType>conference</EventType>
+<Location>Albuquerque NM</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. &quot;Biological Removal of H2S from Natural Gas using Photosynthetic Bacteria &quot; presented at the Department of Petroleum and Natural Gas Engineering New Mexico Tech</EventName>
+<EventType>conference</EventType>
+<Location>Socorro NM</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. &quot;Biodegradation of Uranium-citrate Complexes: Its Implication in In-situ Electrokinetic Extraction of Uranium &quot; presented at the Department of Civil Engineering Case Western Reserve University</EventName>
+<EventType>conference</EventType>
+<Location>Cleveland OH</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1995-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. &quot;Biodegradation of Uranium-citrate Complexes &quot; presented at the Department of Biology New Mexico Tech</EventName>
+<EventType>conference</EventType>
+<Location>Socorro NM</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1994-01-01</StringDate></StartDate>
+<EventName>Li K.Y. C.C. Liu Q. Ni Z.F. Liu F.Y.C. Huang and J.A. Colapret &quot;Kinetic Study of Photo-oxidation of Bis (2-chloroethyl) ether in Aqueous Solution &quot; Special Symposium - Emerging Technologies in Hazardous Waste Management</EventName>
+<EventType>conference</EventType>
+<Location>Atlanta GA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Huang F.Y.C. K.Y. Li C.C. Liu and Z.F. Liu &quot;UV Peroxidation Process for Treatment of Groundwater Contaminated with Chlorinated Hydrocarbons &quot; 207th ACS National Meeting on Remediation of Hazardous Waste Sites</Title>
+<StartDate><StringDate>1994-01-01</StringDate></StartDate>
+<EventName>Huang F.Y.C. K.Y. Li C.C. Liu Z.F. Liu and P.H. Liu &quot;Treatment of Groundwater Contaminated with Bis (2-chloroethyl) ether &quot; Fifth Annual West Coast Conference on Contaminated Soils and Groundwater</EventName>
+<EventType>conference</EventType>
+<Location>Long Beach CA</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1991-10-01</StringDate></StartDate>
+<EventName>Speece R.E. and Y.C. Huang &quot;Anaerobic process Treatment Alternatives &quot; Second International Symposium - By Products from Biotechnology Iowa State University</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management" lastUsed="1994-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pharmaceutical">
+<CompetencyEvidence name ="Pharmaceutical" lastUsed="2001-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2001-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2000-01-01 - 2001-01-01</StringDate></Date>
+<Description>Howard Stern Fellow Department of Chemical Engineering</Description>
+<IssuingAuthority>Massachusetts Institute of Technology</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1987-01-01 - 1992-01-01</StringDate></Date>
+<Description>Teaching/Research Assistantships</Description>
+<IssuingAuthority>Vanderbilt University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1980-01-01 - 1984-01-01</StringDate></Date>
+<Description>Taiwan Water Works Scholarship</Description>
+</Achievement>
+<Achievement>
+<Description>Who&apos;s Who in America Member Sigma Xi</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Member Tau Beta Pi Member American Chemical Society (ACS)</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member Association of Environmental Engineering and Science Professors (AEESP)</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RnJhbmsgWS5DLiBIdWFuZw0KDQpEZXBhcnRtZW50IG9mIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcNCg0KTmV3IE1leGljbyBUZWNoLCBTb2NvcnJvLCBOTSA4NzgwMQ0KDQpUZWw6ICg1MDUpIDgzNS01NTkyOyBGYXg6ICg1MDUpIDgzNS01NTA5DQoNCkVtYWlsOiBodWFuZ0BubXQuZWR1DQoNCiANCg0KRURVQ0FUSU9ODQoNCiANCg0KTVNDRVAgaW4gQ2hlbWljYWwgRW5naW5lZXJpbmcsIDIwMDEsIE1JVCwgQ2FtYnJpZGdlLCBNQQ0KDQpQaC5ELiBpbiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCAxOTkzLCBWYW5kZXJiaWx0IFVuaXZlcnNpdHksIE5hc2h2aWxsZSwgVE4NCg0KTS5TLiBpbiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCAxOTg5LCBWYW5kZXJiaWx0IFVuaXZlcnNpdHksIE5hc2h2aWxsZSwgVE4NCg0KQi5TLiBpbiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgMTk4NCwgTmF0aW9uYWwgQ2h1bmctSHNpbmcgVW5pdmVyc2l0eSwgVGFpd2FuDQoNCiANCg0KRVhQRVJJRU5DRQ0KDQogDQoNCkFkdmFuY2VkIEluaGFsYXRpb24gUmVzZWFyY2gsIEluYy4sIENvbnRyb2xsZWQgUmVsZWFzZSBHcm91cCBDYW1icmlkZ2UsIE1BDQoNClRlY2huaWNhbCBDb25zdWx0YW50LCBTdW1tZXIgMjAwMQ0KDQoNCg0KICAgIFN0dWRpZWQgdGhlIGluIHZpdHJvIHJlbGVhc2UgcHJvZmlsZXMgb2YgZGlmZmVyZW50IGZvcm11bGF0aW9ucy4NCg0KICAgIENvcnJlbGF0ZWQgdGhlIGluIHZpdHJvIGtpbmV0aWNzIHdpdGggaW4gdml2byBwaGFybWFjb2tpbmV0aWNzLiANCg0KDQoNCkdlbmVyYWwgTWlsbHMsIEluYy4sIEVuZ2luZWVyaW5nIERpdmlzaW9uIEJ1ZmZhbG8sIE5ZDQoNClRlY2huaWNhbCBDb25zdWx0YW50LCBTdW1tZXIgMjAwMQ0KDQoNCg0KICAgIEludmVzdGlnYXRlZCB0aGUgZnVuZGFtZW50YWxzIG9mIHBhcnRpY2xlIHNlZ3JlZ2F0aW9uLg0KDQogICAgT3B0aW1pemVkIHRoZSBwcm9kdWN0aW9uIHByb2Nlc3MgdG8gcmVkdWNlIHByb2R1Y3QgcXVhbGl0eSB2YXJpYXRpb24uIA0KDQoNCg0KR2VuZXJhbCBNaWxscywgSW5jLiwgUHJvZHVjdGlvbiBEaXZpc2lvbiBBbGJ1cXVlcnF1ZSwgTk0NCg0KVGVjaG5pY2FsIENvbnN1bHRhbnQsIFN1bW1lciAyMDAxDQoNCg0KDQogICAgU3R1ZGllZCB0aGUgZnVuZGFtZW50YWxzIG9mIHBhcnRpY3VsYXRlIGFkaGVzaW9uLg0KDQogICAgRGV2ZWxvcGVkIG5ldyBwcm9jZXNzZXMgdG8gbWluaW1pemUgaW5ncmVkaWVudCBsb3NzLiANCg0KDQoNCk1hc3NhY2h1c2V0dHMgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIERlcGFydG1lbnQgb2YgQ2hlbWljYWwgRW5naW5lZXJpbmcgQ2FtYnJpZGdlLCBNQQ0KDQpSZXNlYXJjaC9UZWFjaGluZyBBc3Npc3RhbnQsIDIwMDAtMjAwMQ0KDQoNCg0KICAgIFBhcnRpY2lwYXRlZCBpbiB0aGUgZmVhc2liaWxpdHkgc3R1ZHkgb2YgdXNpbmcgcG9seW1lci1jb2F0ZWQgbWFnbmV0aWMgYmVhZHMgdG8gZW5oYW5jZSBveHlnZW4gdHJhbnNmZXIgaW4gcGhhcm1hY2V1dGljYWwgZmVybWVudG9ycy4NCg0KICAgIEFzc2lzdGVkIHRoZSBpbnN0cnVjdGlvbiBvZiBGbHVpZCBNZWNoYW5pY3MuIA0KDQoNCg0KTmV3IE1leGljbyBUZWNoLCBEZXBhcnRtZW50IG9mIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcgU29jb3JybywgTk0NCg0KQXNzb2NpYXRlIFByb2Zlc3NvciAodGVudXJlZCksIDE5OTktcHJlc2VudA0KDQpBc3Npc3RhbnQgUHJvZmVzc29yLCAxOTk0LTE5OTkNCg0KDQoNCiAgICBNYW5hZ2VkIGFuZCBDb25kdWN0ZWQgcmVzZWFyY2ggc3BvbnNvcmVkIGJ5IEdheiBkZSBGcmFuY2UsIERPRSwgU2FuZGlhIE5hdGlvbmFsIExhYnMsIFB1YmxpYyBTZXJ2aWNlIENvbXBhbnkgb2YgTmV3IE1leGljbywgYW5kIENpdHkgb2YgQWxidXF1ZXJxdWUgKFRvdGFsIGFtb3VudCB+ICQ4MDAsMDAwKS4NCg0KICAgIFJlbW92YWwgb2YgYXJzZW5hdGUgZnJvbSBkcmlua2luZyB3YXRlciB1c2luZyBzZW1pLXBlcm1lYWJsZSBtZW1icmFuZSBhbmQgZmVycmljIGh5ZHJveGlkZSBhZHNvcnB0aW9uLg0KDQogICAgUmVtb3ZhbCBvZiBoeWRyb2dlbiBzdWxmaWRlIGZyb20gbmF0dXJhbCBnYXMgdXNpbmcgQ2hyb21hdGl1bSB2aW5vc3VtIGFuZCBDaGxvcm9iaXVtIGxpbWljb2xhDQoNCiAgICBDYXRhbHl0aWMgZGVjb21wb3NpdGlvbiBvZiBzdWxmdXIgb2RvcmFudHMgdXNpbmcgemVyby12YWxlbnQgaXJvbg0KDQogICAgUmVtb3ZhbCBvZiB1cmFuaXVtIGZyb20gdW5zYXR1cmF0ZWQgc29pbHMgdXNpbmcgZWxlY3Ryb2tpbmV0aWNzDQoNCiAgICBDb21ldGFib2xpc20gb2YgY2FyYm9uIHRldHJhY2hsb3JpZGUgYW5kIG5pdHJhdGUgdXNpbmcgZGVuaXRyaWZ5aW5nIGJhY3RlcmlhDQoNCiAgICBTZXJ2ZWQgYXMgY29uc3VsdGFudCB0byBQdWJsaWMgU2VydmljZSBDb21wYW55IG9mIE5ldyBNZXhpY28sIFVTIFBhcmsgU2VydmljZXMsIFNhbmRpYSBOYXRpb25hbCBMYWJzLCBhbmQgUGV0cm9sZXVtIFJlY292ZXJ5IFJlc2VhcmNoIENlbnRlci4gDQoNCg0KDQpOZXcgTWV4aWNvIFRlY2gsIERlcGFydG1lbnQgb2YgUGV0cm9sZXVtIGFuZCBDaGVtaWNhbCBFbmdpbmVlcmluZyBTb2NvcnJvLCBOTQ0KDQpBZGp1bmN0IFByb2Zlc3NvciwgMTk5NS1wcmVzZW50DQoNCiANCg0KR3VsZiBDb2FzdCBIYXphcmRvdXMgU3Vic3RhbmNlIFJlc2VhcmNoIENlbnRlciBCZWF1bW9udCwgVFgNCg0KVGVjaG5pY2FsIEFzc2lzdGFudCB0byB0aGUgRGlyZWN0b3IsIDE5OTMtMTk5NA0KDQoNCg0KICAgIFJldmlld2VkIHByb3Bvc2FscyBzdWJtaXR0ZWQgdG8gdGhlIGNlbnRlciBmb3IgZnVuZGluZy4NCg0KICAgIEludGVyYWN0ZWQgd2l0aCBpbmR1c3RyaWVzLCBFUEEsIGFuZCB1bml2ZXJzaXRpZXMgb24gaW5ub3ZhdGl2ZSB0ZWNobm9sb2dpZXMuDQoNCiAgICBDb25kdWN0ZWQgcmVzZWFyY2ggc3BvbnNvcmVkIGJ5IERvdyBDaGVtaWNhbCBhbmQgRVBBLg0KDQogICAgQXNzaXN0ZWQgdGhlIG9yZ2FuaXphdGlvbiBvZiBzaG9ydCBjb3Vyc2VzLCBzZW1pbmFycywgYW5kIGNvbmZlcmVuY2VzLg0KDQogICAgU2VydmVkIGFzIHRoZSB0ZWNobmljYWwgZWRpdG9yIG9mIEpvdXJuYWwgb2YgV2FzdGUgTWFuYWdlbWVudC4gDQoNCg0KDQpQVUJMSUNBVElPTlMNCg0KIA0KDQpCcmFkeSwgUC5WLiwgQy5GLkouIENvbG9uLCBhbmQgRi5ZLkMuIEh1YW5nLCBTb2lsIFJhZGlvbnVjbGlkZSBQbHVtZXMsIFNvaWwgU2NpZW5jZSBTb2NpZXR5IG9mIEFtZXJpY2EsIGluIHByZXNzLCAyMDAxLg0KDQogDQoNCkh1YW5nLCBGLlkuQy4sIEsuWS4gTGkgYW5kIEMuQy4gTGl1LCAiVHJlYXRhYmlsaXR5IFN0dWRpZXMgb2YgR3JvdW5kd2F0ZXIgQ29udGFtaW5hdGVkIHdpdGggQmlzKDItY2hsb3JvZXRoeWwpIEV0aGVyLCIgRW52aXJvbm1lbnRhbCBQcm9ncmVzcywgMTgoMSk6NTUtNTksIDE5OTkuDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgIkRldmVsb3BtZW50IG9mIGFuIEluZmx1ZW50IEZsb3cgTW9uaXRvcmluZyBhbmQgQXV0b3NhbXBsaW5nIFN5c3RlbSBmb3IgT24tU2l0ZSBXYXN0ZXdhdGVyIFRyZWF0bWVudCBTeXN0ZW1zIGluIEJlcm5hbGlsbG8gQ291bnR5LCBOTSwiIHRoZSBTbWFsbCBGbG93IEpvdXJuYWwsIDUoMSk6MTItMTksIDE5OTkuDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgUC4gQnJhZHksIEUuIExpbmRncmVuLCBhbmQgUC4gR3VlcnJhLCAiQmlvZGVncmFkYXRpb24gb2YgVXJhbml1bS1DaXRyYXRlIENvbXBsZXhlczogSW1wbGljYXRpb25zIGZvciBFeHRyYWN0aW9uIG9mIFVyYW5pdW0gZnJvbSBTb2lscywiIEVudmlyb25tZW50YWwgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIDMyOjM3OS0zODIsIDE5OTguDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgSy5ZLiBMaSwgQy5DLiBMaXUsIGFuZCBaLkYuIExpdSwgIlRyZWF0bWVudCBvZiBHcm91bmR3YXRlciBDb250YW1pbmF0ZWQgd2l0aCBDaGxvcmluYXRlZCBIeWRyb2NhcmJvbnMsIiBDaGVtaWNhbCBPeGlkYXRpb246IFRlY2hub2xvZ3kgZm9yIHRoZSBOaW5ldGllcywgZWRpdGVkIGJ5IFcuIFdlc2xleSBFY2tlbmZlbGRlciBldCBhbC4sIFRlY2hub21pYyBQdWJsaXNoaW5nIENvbXBhbnksIEluYy4sIExhbmNhc3RlciwgUEEsIDE5OTcuDQoNCiANCg0KTGksIEsuWS4sIEMuQy4gTGl1LCBRLiBOaSwgWi5GLiBMaXUsIEYuWS5DLiBIdWFuZyBhbmQgSi5BLiBDb2xhcHJldCwgIktpbmV0aWMgU3R1ZHkgb2YgVVYgUGVyb3hpZGF0aW9uIG9mIEJpcygyLWNobG9yb2V0aHlsKSBFdGhlciBpbiBBcXVlb3VzIFNvbHV0aW9uLCIgSW5kLiBFbmcuIENoZW0uIFJlcy4gMzQ6MTk2MC0xOTY4LCAxOTk1Lg0KDQogDQoNCkJvdXJuZSwgSi5SLiwgSi4gQ2FudHdlbGwsIEEuSi4gQnJvZGVyc29uLCBCLiBBbnRhbywgQS4gS291c3NpcywgYW5kIEYuWS5DLiBIdWFuZywgIkludGVsbGlnZW50IEh5cGVydHV0b3JpbmcgaW4gRW5naW5lZXJpbmcsIiBBY2FkZW1pYyBDb21wdXRpbmcsIFNlcHRlbWJlciAxOTg5Lg0KDQogDQoNClRFQ0hOSUNBTCBSRVBPUlRTDQoNCiANCg0KSmh1bmpodW53YWxhLCBNLiwgQy4gR2l1cnVtZXNjdSwgYW5kIEYuWS5DLiBIdWFuZywgIkluIFZpdHJvIFJlbGVhc2UgTWV0aG9kIGZvciBJbmhhbGF0aW9uIEFlcm9zb2xzIERlc2lnbmVkIGZvciBTeXN0ZW1pYyBEcnVnIEFic29ycHRpb24sIiBhIGZpbmFsIHJlcG9ydCBzdWJtaXR0ZWQgdG8gQWxrZXJtZXMsIEluYy4sIENhbWJyaWRnZSwgTUEsIDIwMDEuDQoNCiANCg0KQ2h1YSwgWS4gYW5kIEYuWS5DLiBIdWFuZywgIk1hcmJpdCBBZGRpdGlvbiBWYXJpYXRpb24sIiBhIGZpbmFsIHJlcG9ydCBzdWJtaXR0ZWQgdG8gR2VuZXJhbCBNaWxscywgSW5jLiwgQnVmZmFsbywgTlksIDIwMDEuDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgQS4gQ29sb24sIGFuZCBCLiBNYXJ0ZW5zLCAiUGFydGljdWxhdGUgQWRoZXNpb24gSW1wcm92ZW1lbnQsIiBhIGZpbmFsIHJlcG9ydCBzdWJtaXR0ZWQgdG8gR2VuZXJhbCBNaWxscywgSW5jLiwgQWxidXF1ZXJxdWUsIE5NLCAyMDAxLg0KDQogDQoNCkh1YW5nLCBGLlkuQy4sICJIaXN0b3JpY2FsIENhc2UgQW5hbHlzaXMgb2YgOTBTciBhbmQgMTM3Q3MgUGx1bWVzLCIgYSBmaW5hbCByZXBvcnQgc3VibWl0dGVkIHRvIFNhbmRpYSBOYXRpb25hbCBMYWJvcmF0b3JpZXMsIE5ldyBNZXhpY28sIDE5OTkuDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgIlRIVCwgTWVyY2FwdGFucyBhbmQgSDJTIFJlbWVkaWF0aW9uLCIgYSBmaW5hbCByZXBvcnQgc3VibWl0dGVkIHRvIEdheiBkZSBGcmFuY2UsIFBhcmlzLCBGcmFuY2UsIDE5OTguDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgIkEgTGl0ZXJhdHVyZSBSZXZpZXcgb2YgQWx0ZXJuYXRpdmUgT24tU2l0ZSBMaXF1aWQgV2FzdGUgVHJlYXRtZW50IGFuZCBEaXNwb3NhbCBTeXN0ZW1zLCIgYSBmaW5hbCByZXBvcnQgc3VibWl0dGVkIHRvIHRoZSBCZXJuYWxpbGxvIENvdW50eSBFbnZpcm9ubWVudGFsIEhlYWx0aCBEZXBhcnRtZW50LCBBbGJ1cXVlcnF1ZSwgTmV3IE1leGljbywgMTk5OC4NCg0KIA0KDQpIdWFuZywgRi5ZLkMuLCAiSW1wYWN0IG9mIFRIVCwgTWVyY2FwdGFucywgYW5kIEgyUyBvbiBTdG9yYWdlIE9wZXJhdGlvbnMsIiBhIGZpbmFsIHJlcG9ydCBzdWJtaXR0ZWQgdG8gdGhlIE5ldyBNZXhpY28gV2FzdGUtTWFuYWdlbWVudCBFZHVjYXRpb24gJiBSZXNlYXJjaCBDb25zb3J0aXVtLCAxOTk3Lg0KDQogDQoNCkh1YW5nLCBGLlkuQy4sIFAuIEd1ZXJyYSwgYW5kIFcuIFphY2hyaXR6LCAiSW5mbHVlbnQgQ2hhcmFjdGVyaXphdGlvbiBvZiBBbHRlcm5hdGl2ZSBPbi1zaXRlIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMgaW4gQmVybmFsaWxsbyBDb3VudHksIE5ldyBNZXhpY28iLCBhIGZpbmFsIHJlcG9ydCBzdWJtaXR0ZWQgdG8gdGhlIEVudmlyb25tZW50IEhlYWx0aCBEZXBhcnRtZW50IG9mIEJlcm5hbGlsbG8gQ291bnR5LCBOZXcgTWV4aWNvLCAxOTk2Lg0KDQogDQoNCkh1YW5nLCBGLlkuQy4gYW5kIFcuIFphY2hyaXR6LCAiQSBTdHVkeSBQbGFuIGZvciBFdmFsdWF0aW9uIG9mIE9uLXNpdGUgV2FzdGV3YXRlciBUcmVhdG1lbnQgYW5kIERpc3Bvc2FsOiBEZW1vbnN0cmF0aW9uIG9mIEFsdGVybmF0aXZlIFRlY2hub2xvZ2llcyIsIGEgZmluYWwgcmVwb3J0IHN1Ym1pdHRlZCB0byB0aGUgRW52aXJvbm1lbnQgSGVhbHRoIERlcGFydG1lbnQgb2YgQmVybmFsaWxsbyBDb3VudHksIE5ldyBNZXhpY28sIDE5OTUuDQoNCiANCg0KUFJFU0VOVEFUSU9OUw0KDQogDQoNCkpodW5qaHVud2FsYSwgTS4sIEMuIEdpdXJ1bWVzY3UsIGFuZCBGLlkuQy4gSHVhbmcsICJJbiBWaXRybyBSZWxlYXNlIE1ldGhvZCBmb3IgSW5oYWxhdGlvbiBBZXJvc29scyBEZXNpZ25lZCBmb3IgU3lzdGVtaWMgRHJ1ZyBBYnNvcnB0aW9uLCIgQWxrZXJtZXMsIEluYy4sIENhbWJyaWRnZSwgTUEsIDIwMDEuDQoNCiANCg0KQ2h1YSwgWS4gYW5kIEYuWS5DLiBIdWFuZywgIk1hcmJpdCBBZGRpdGlvbiBWYXJpYXRpb24sIiBHZW5lcmFsIE1pbGxzLCBJbmMuLCBCdWZmYWxvLCBOWSwgMjAwMS4NCg0KIA0KDQpIdWFuZywgRi5ZLkMuLCBBLiBDb2xvbiwgYW5kIEIuIE1hcnRlbnMsICJQYXJ0aWN1bGF0ZSBBZGhlc2lvbiBJbXByb3ZlbWVudCwiIEdlbmVyYWwgTWlsbHMsIEluYy4sIEFsYnVxdWVycXVlLCBOTSwgMjAwMS4NCg0KIA0KDQpIdWFuZywgRi5ZLkMuIGFuZCBSLkwuIExlZSwgIkRlZ3JhZGF0aW9uIG9mIEV0aHlsIE1lcmNhcHRhbiBpbiB0aGUgUHJlc2VuY2Ugb2YgWmVyby1WYWxlbmNlIElyb24sIiA0dGggQW5udWFsIEludGVybmF0aW9uYWwgUGV0cm9sZXVtIEVudmlyb25tZW50YWwgQ29uZmVyZW5jZSwgU2FuIEFudG9uaW8sIFRYLCAxOTk3Lg0KDQogDQoNCkh1YW5nLCBGLlkuQy4sIFIuTC4gTGVlLCBCLiBXZWFyIGFuZCBQLiBHdWVycmEsICJCaW9kZWdyYWRhdGlvbiBvZiBUZXRyYWh5ZHJvdGhpb3BoZW5lIGFuZCBNZXJjYXB0YW5zLCIgN3RoIEFubnVhbCBXZXN0IENvYXN0IENvbmZlcmVuY2Ugb24gQ29udGFtaW5hdGVkIFNvaWxzIGFuZCBHcm91bmR3YXRlciwgT3huYXJkLCBDQSwgMTk5Ny4NCg0KIA0KDQpIdWFuZywgRi5ZLkMuLCAiQW4gT3ZlcnZpZXcgb2YgQWx0ZXJuYXRpdmUgT24tc2l0ZSBXYXN0ZXdhdGVyIFRyZWF0bWVudCBhbmQgRGlzcG9zYWwgU3lzdGVtcywiIE5ldyBNZXhpY28gQ29uZmVyZW5jZSBvbiB0aGUgRW52aXJvbm1lbnQsIEFsYnVxdWVycXVlLCBOTSwgMTk5Ny4NCg0KIA0KDQpHdWVycmEsIFAuLCBGLlkuQy4gSHVhbmcgYW5kIEIuIFdlYXIsICJQaWxvdCBUZXN0aW5nIGFuZCBNb2RlbGluZyBmb3IgdGhlIERlc2lnbiBvZiBBaXIgU3BhcmdpbmcgU3lzdGVtcyBmb3IgUmVtZWRpYXRpb24gb2YgUGV0cm9sZXVtIEh5ZHJvY2FyYm9uIENvbnRhbWluYXRlZCBTb2lsIGFuZCBHcm91bmR3YXRlcjogUGlsb3QgVGVzdGluZyBmb3IgRWZmZWN0aXZlIGFuZCBTYWZlIFJlbWVkaWF0aW9uLCIgVGhpcmQgQW5udWFsIEludGVybmF0aW9uYWwgUGV0cm9sZXVtIEVudmlyb25tZW50YWwgQ29uZmVyZW5jZSwgQWxidXF1ZXJxdWUsIE5NLCAxOTk2Lg0KDQogDQoNCkh1YW5nLCBGLlkuQy4sIFcuIFphY2hyaXR6IGFuZCwgQy4gQ2F0ZXMsICJBbHRlcm5hdGl2ZSBPbi1zaXRlIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFRlY2hub2xvZ2llczogQSBEZW1vbnN0cmF0aW9uIFBsYW4sIiBOZXcgTWV4aWNvIENvbmZlcmVuY2Ugb24gdGhlIEVudmlyb25tZW50LCBBbGJ1cXVlcnF1ZSwgTk0sIDE5OTYuDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgIkJpb2xvZ2ljYWwgUmVtb3ZhbCBvZiBIMlMgZnJvbSBOYXR1cmFsIEdhcyB1c2luZyBQaG90b3N5bnRoZXRpYyBCYWN0ZXJpYSwiIHByZXNlbnRlZCBhdCB0aGUgRGVwYXJ0bWVudCBvZiBQZXRyb2xldW0gYW5kIE5hdHVyYWwgR2FzIEVuZ2luZWVyaW5nLCBOZXcgTWV4aWNvIFRlY2gsIFNvY29ycm8sIE5NLCAxOTk2Lg0KDQogDQoNCkh1YW5nLCBGLlkuQy4sICJCaW9kZWdyYWRhdGlvbiBvZiBVcmFuaXVtLWNpdHJhdGUgQ29tcGxleGVzOiBJdHMgSW1wbGljYXRpb24gaW4gSW4tc2l0dSBFbGVjdHJva2luZXRpYyBFeHRyYWN0aW9uIG9mIFVyYW5pdW0sIiBwcmVzZW50ZWQgYXQgdGhlIERlcGFydG1lbnQgb2YgQ2l2aWwgRW5naW5lZXJpbmcsIENhc2UgV2VzdGVybiBSZXNlcnZlIFVuaXZlcnNpdHksIENsZXZlbGFuZCwgT0gsIDE5OTYuDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgIkJpb2RlZ3JhZGF0aW9uIG9mIFVyYW5pdW0tY2l0cmF0ZSBDb21wbGV4ZXMsIiBwcmVzZW50ZWQgYXQgdGhlIERlcGFydG1lbnQgb2YgQmlvbG9neSwgTmV3IE1leGljbyBUZWNoLCBTb2NvcnJvLCBOTSwgMTk5NS4NCg0KIA0KDQpMaSwgSy5ZLiwgQy5DLiBMaXUsIFEuIE5pLCBaLkYuIExpdSwgRi5ZLkMuIEh1YW5nLCBhbmQgSi5BLiBDb2xhcHJldCwgIktpbmV0aWMgU3R1ZHkgb2YgUGhvdG8tb3hpZGF0aW9uIG9mIEJpcygyLWNobG9yb2V0aHlsKWV0aGVyIGluIEFxdWVvdXMgU29sdXRpb24sIiBTcGVjaWFsIFN5bXBvc2l1bSAtIEVtZXJnaW5nIFRlY2hub2xvZ2llcyBpbiBIYXphcmRvdXMgV2FzdGUgTWFuYWdlbWVudCwgQXRsYW50YSwgR0EsIDE5OTQuDQoNCiANCg0KSHVhbmcsIEYuWS5DLiwgSy5ZLiBMaSwgQy5DLiBMaXUsIGFuZCBaLkYuIExpdSwgIlVWIFBlcm94aWRhdGlvbiBQcm9jZXNzIGZvciBUcmVhdG1lbnQgb2YgR3JvdW5kd2F0ZXIgQ29udGFtaW5hdGVkIHdpdGggQ2hsb3JpbmF0ZWQgSHlkcm9jYXJib25zLCIgMjA3dGggQUNTIE5hdGlvbmFsIE1lZXRpbmcgb24gUmVtZWRpYXRpb24gb2YgSGF6YXJkb3VzIFdhc3RlIFNpdGVzLCBTYW4gRGllZ28sIENBLCAxOTk0Lg0KDQogDQoNCkh1YW5nLCBGLlkuQy4sIEsuWS4gTGksIEMuQy4gTGl1LCBaLkYuIExpdSwgYW5kIFAuSC4gTGl1LCAiVHJlYXRtZW50IG9mIEdyb3VuZHdhdGVyIENvbnRhbWluYXRlZCB3aXRoIEJpcygyLWNobG9yb2V0aHlsKWV0aGVyLCIgRmlmdGggQW5udWFsIFdlc3QgQ29hc3QgQ29uZmVyZW5jZSBvbiBDb250YW1pbmF0ZWQgU29pbHMgYW5kIEdyb3VuZHdhdGVyLCBMb25nIEJlYWNoLCBDQSwgMTk5NC4NCg0KIA0KDQpTcGVlY2UsIFIuRS4gYW5kIFkuQy4gSHVhbmcsICJBbmFlcm9iaWMgcHJvY2VzcyBUcmVhdG1lbnQgQWx0ZXJuYXRpdmVzLCIgU2Vjb25kIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIC0gQnkgUHJvZHVjdHMgZnJvbSBCaW90ZWNobm9sb2d5LCBJb3dhIFN0YXRlIFVuaXZlcnNpdHksIE9jdG9iZXIgMTk5MS4NCg0KIA0KDQpSRVNFQVJDSCBDT05UUkFDVFMNCg0KIA0KDQpIaXN0b3JpY2FsIENhc2UgQW5hbHlzaXMgb2YgOTBTciBhbmQgMTM3Q3MgUGx1bWVzLCBTYW5kaWEgTmF0aW9uYWwgTGFib3JhdG9yaWVzLCAxOTk5LCAkMTEsMDAwIChQSSkuDQoNCiANCg0KVEhULCBNZXJjYXB0YW5zLCBhbmQgSDJTIFJlbWVkaWF0aW9ucywgR2F6IGRlIEZyYW5jZSwgMTk5Ni0xOTk4LCAkOTUsMDAwIChQSSkuDQoNCiANCg0KRXZhbHVhdGlvbiBvZiBPbi1zaXRlIFdhc3Rld2F0ZXIgVHJlYXRtZW50OiBEZW1vbnN0cmF0aW9uIG9mIEFsdGVybmF0aXZlIFRlY2hub2xvZ2llcywgQ2l0eSBvZiBBbGJ1cXVlcnF1ZSBhbmQgQmVybmFsaWxsbyBDb3VudHksIE5ldyBNZXhpY28sIDE5OTYtMTk5OCwgJDI2Nyw4NDYgKFRlY2huaWNhbCBTcGVjaWFsaXN0KS4NCg0KIA0KDQpJbXBhY3Qgb2YgVEhUIGluIFN0b3JhZ2UgT3BlcmF0aW9ucywgR2F6IGRlIEZyYW5jZSwgMTk5Ni0xOTk4LCAkMTY1LDAwMCAoQ28tUEkpLg0KDQogDQoNCkltcGFjdCBvZiBUSFQsIE1lcmNhcHRhbnMsIGFuZCBIMlMgb24gU3RvcmFnZSBPcGVyYXRpb25zLCBET0UtV0VSQywgMTk5Ni0xOTk3LCAkMjEsNDgwIChQSSkuDQoNCiANCg0KRXZhbHVhdGlvbiBvZiBBbHRlcm5hdGl2ZSBFZmZsdWVudCBEcmFpbmZpZWxkcyBmb3IgT24tU2l0ZSBXYXN0ZXdhdGVyIFRyZWF0bWVudCBTeXN0ZW1zLCBCZXJuYWxpbGxvIENvdW50eSwgTmV3IE1leGljbywgMTk5Ni0xOTk3LCAkMjksMzM4IChQSSkuDQoNCiANCg0KSW5mbHVlbnQgQ2hhcmFjdGVyaXphdGlvbiBmb3IgQWx0ZXJuYXRpdmUgT25zaXRlIFdhc3Rld2F0ZXIgVHJlYXRtZW50IFN5c3RlbXMgaW4gQmVybmFsaWxsbyBDb3VudHksIE5ldyBNZXhpY28sIDE5OTYsICQyMyw1OTQgKFBJKS4NCg0KIA0KDQpEZXZlbG9wbWVudCBvZiBhIFN0dWR5IFBsYW4gZm9yIEV2YWx1YXRpb24gb2YgT24tU2l0ZSBXYXN0ZXdhdGVyIFRyZWF0bWVudCBhbmQgRGlzcG9zYWwsIENpdHkgb2YgQWxidXF1ZXJxdWUgYW5kIEJlcm5hbGlsbG8gQ291bnR5LCBOZXcgTWV4aWNvLCAxOTk1LCAkMjksNTI5IChQcm9qZWN0IFRlY2huaWNhbCBTcGVjaWFsaXN0KS4NCg0KIA0KDQpPcmdhbmljYWxseSBFbmhhbmNlZCBJbiBTaXR1IEVsZWN0cm9raW5ldGljIFJlbW92YWwgb2YgVXJhbml1bSBmcm9tIFNvaWxzLCBTYW5kaWEgTmF0aW9uYWwgTGFicywgMTk5NC0xOTk2LCAkMTA1LDAwMCAoUEkpLg0KDQogDQoNClNlcXVlbnRpYWwgQmlvbG9naWNhbCBUcmVhdG1lbnQgb2YgR3JvdW5kd2F0ZXIgQ29udGFtaW5hdGVkIHdpdGggQ2FyYm9uIFRldHJhY2hsb3JpZGUgYW5kIE5pdHJhdGUsIERPRS1XRVJDLCAxOTk0LTE5OTUsICQ1Nyw4NTUgKFBJKS4NCg0KIA0KDQpTRVJWSUNFDQoNCiANCg0KUHJvcG9zYWwgcmV2aWV3ZXIgb2YgdGhlIERPRC9BQVRERiBwcm9ncmFtDQoNClJldmlld2VyIG9mIEVTJlQgYW5kIEpvdXJuYWwgb2YgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZw0KDQpTZXNzaW9uIENoYWlyIG9mIHRoZSAyMDd0aCBBQ1MgTmF0aW9uYWwgTWVldGluZw0KDQpFUEEncyBTQklSIFJldmlldyBQYW5lbCBmb3IgSW4gU2l0dSBSZW1lZGlhdGlvbg0KDQogDQoNCkFXQVJEUy9NRU1CRVJTSElQUw0KDQogDQoNCkhvd2FyZCBTdGVybiBGZWxsb3csIERlcGFydG1lbnQgb2YgQ2hlbWljYWwgRW5naW5lZXJpbmcsIE1hc3NhY2h1c2V0dHMgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIDIwMDAtMjAwMS4NCg0KVGVhY2hpbmcvUmVzZWFyY2ggQXNzaXN0YW50c2hpcHMsIFZhbmRlcmJpbHQgVW5pdmVyc2l0eSwgMTk4Ny0xOTkyLg0KDQpUYWl3YW4gV2F0ZXIgV29ya3MgU2Nob2xhcnNoaXAsIDE5ODAtMTk4NC4NCg0KV2hvJ3MgV2hvIGluIEFtZXJpY2EuDQoNCk1lbWJlciwgU2lnbWEgWGkuDQoNCk1lbWJlciwgVGF1IEJldGEgUGkuDQoNCk1lbWJlciwgQW1lcmljYW4gQ2hlbWljYWwgU29jaWV0eSAoQUNTKS4NCg0KTWVtYmVyLCBBc3NvY2lhdGlvbiBvZiBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nIGFuZCBTY2llbmNlIFByb2Zlc3NvcnMgKEFFRVNQKS4=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914530306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:12 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914410306521"  usageLimitType="allocation" usageLimit="200" currentUsage="37" remainingUsage="163" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Danuta Leszczynska</FormattedName>
+<GivenName>Danuta</GivenName>
+<FamilyName>Leszczynska</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1601-979109</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode></AreaCityCode>
+<SubscriberNumber>601-979109</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (601) 979-3238</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>601</AreaCityCode>
+<SubscriberNumber>979-3238</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>danuta.leszczynska@jsums.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>(A) Positions</EmployerOrgName>
+<PositionHistory>
+<Title>Professor, Department of Civil and Environmental Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>JacksonStateUniversity, Jackson, MS, August 2006 - Associate Professor, Department of Civil and Environmental Engineering, FAMU-FSU College of Engineering
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Jackson State University</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Department of Chemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Mississippi</Region>
+<Municipality>Jackson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Florida</EmployerOrgName>
+<PositionHistory>
+<Title>Post Doctorate Associate, Dept. of Environmental Sciences and Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>(B) Pertinent Teaching, Research and Related Activities: Teaching Areas: Design of water quality management facilities, water reuse engineering, remediation engineering, water quality, general environmental engineering, and environmental engineering chemistry Research Areas: (1) Water, stormwater and wastewater (water matrix) contamination, and treatment (2) Operational problems with secondary contamination (water matrix) (3) Techniques and mechanisms for enhancement of treatment/removal of organic and metallic contamination (water and soil matrixes) (4) Emerging technologies for water/soil treatment (constructed wetlands, phytoremediation, photodegradation), (5) Applications of magnetic field for bioscience and biotechnology (6) Quantum cluster study on degradation explosives on the model clay surface and (7) Nanomaterial in drinking water (D) Citation of Pertinent Publications all referred (last 3 years): D. Leszczynska, A. Hafiz, &quot;Toxic Elements in Soil and Groundwater: Short-Time Study on Electrokinetic Removal of Arsenic in the Presence of other Ions&quot;, International Journal of Environmental Research and Public Health, 3 (2)
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>D. Leszczynska</EmployerOrgName>
+<PositionHistory>
+<Title>A. Dzurik</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>H. Ahmad, &quot;Policy, Management and in situ Treatment of Stormwater Runoff&quot;, published in the Environmental Management: Contribution to Solution&quot;, special Book of Papers from the International Symposium on Environmental Management, p. 137-143, 2006 P. Babiniec, M. Babincova, P. Sourivong, D.Leszczynska, &quot;Efficient treatment of pigmented B16 melanoma using photosensitized long-circulating magnetofullerenosomes&quot;, Journal of Magnetism and Magnetic Material, 293, 1, 394-397, 2005 M. Babincova, P.Sourivong, D.Leszczynska, P.Babinec, Photodynamic therapy of pigmented melanoma B16 using sterically stabilized fullerenosomes, Laser Physics Letters, 1, 9, 476-478, 2004. Babincova M, Sourivong P, D. Leszczynska, Babinec P &quot;Effects of GSM microwaves, pulsed magnetic field, and temperature on fractal dimension of brain tumors&quot;, Chaos, Soliton &amp;Fractals, 20 (5): 1041-1045, 2004. M. BabincovÃ¡, P. Sourivong, D.Leszczynska, P. Babinec, J. Leszczynski: Principles of Magnetodynamic Chemotherapy, Medical Hypotheses, 62, 375-377, 2004. M. Babincova, P. Sourivong, D.Leszczynska, P.Babinec, &quot;Fullerenosomes: Design of a novel nanomaterial for laser controlled topical drug release:, Physica Medica, XIX, 3, 213-216, 2003. M. Babincova, P. Sourivong D.Leszczynska, P.Babinec, &quot;Influence of GSM Microwaves on Fractal Structure of Brain Tumors:, HarFA Harmonic and Fractal Image Analysis, 35-38, 2003. C. Bogatu, D. Leszczynska, A. Dzurik M. Nicolau I. Vlaicu, G. MoÅoarcÄ, &quot;Studies on the use of chloramines to minimize DOCl formation in treated water&quot;, Chemical Bulletin, Series of Chemistry and Environmental Engineering, 47 (61), 1-2, .38-43, 2002. Zilberberg, A. Pelmenschikov, C.J. McGrath, W. M. Davis, D. Leszczynska, J.Leszczynski &quot;Reduction of Nitroaromatic Compounds on the Surface of Metallic Iron: Quantum Chemical Study&quot;, International Journal of Molecular Science, 3, 801-813, 2002
+</Description>
+<StartDate>
+<AnyDate>67-73-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Technical University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Poland</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Environmental Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Technical University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Poland</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Organic Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Technical University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Poland</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Chemical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">1942</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Chemotherapy">
+<CompetencyEvidence name ="Chemotherapy" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">1939</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering" lastUsed="1995-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Global System for Mobile Communications (GSM)">
+<CompetencyEvidence name ="Global System for Mobile Communications (GSM)" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">1939</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">1942</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Public Health">
+<CompetencyEvidence name ="Public Health" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Quality Management">
+<CompetencyEvidence name ="Quality Management" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Therapy">
+<CompetencyEvidence name ="Therapy" lastUsed="2006-01-01">
+<NumericValue description="Range in years of experience">1939</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RGFudXRhIExlc3pjenluc2thLCBQaEQNCg0KDQoNClByb2Zlc3Nvcg0KDQoNCg0KRGVwYXJ0bWVudCBvZiBDaXZpbCBhbmQgRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZw0KDQoNCg0KUGhvbmUgbnVtYmVyOiA2MDEtOTc5LTEwOQ0KDQoNCg0KRmF4IG51bWJlcjogICA2MDEtOTc5LTMyMzgNCg0KDQoNClJvb20gbnVtYmVyOiAxMDEgU09FDQoNCmRhbnV0YS5sZXN6Y3p5bnNrYUBqc3Vtcy5lZHUNCg0KDQoNCiANCg0KDQoNCkVEVUNBVElPTg0KDQoNCg0KUGguRC4gaW4gRW52aXJvbm1lbnRhbCBFbmdpbmVlcmluZywgVGVjaG5pY2FsIFVuaXZlcnNpdHksIFBvbGFuZA0KDQoNCg0KTS5TLi4gaW4gT3JnYW5pYyBDaGVtaXN0cnksIFRlY2huaWNhbCBVbml2ZXJzaXR5LCBQb2xhbmQNCg0KDQoNCkIuUy4gaW4gQ2hlbWljYWwgRW5naW5lZXJpbmcsIFRlY2huaWNhbCBVbml2ZXJzaXR5LCBQb2xhbmQNCg0KDQoNCiANCg0KDQoNClBST0ZFU1NJT05BTCBFWFBFUklFTkNFDQoNCg0KDQogICAgKEEpIFBvc2l0aW9uczoNCg0KDQoNCiBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIEphY2tzb25TdGF0ZVVuaXZlcnNpdHksIEphY2tzb24sIE1TLCBBdWd1c3QgMjAwNi0NCg0KDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgQ2l2aWwgYW5kIEVudmlyb25tZW50YWwgRW5naW5lZXJpbmcsIEZBTVUtRlNVIENvbGxlZ2Ugb2YgRW5naW5lZXJpbmcgMTk5NS0NCg0KDQoNCkFzc2lzdGFudCBQcm9mZXNzb3IsIERlcGFydG1lbnQgb2YgQ2hlbWlzdHJ5LCBKYWNrc29uIFN0YXRlIFVuaXZlcnNpdHksIEphY2tzb24sIE1pc3Npc3NpcHBpIDE5OTEtIDE5OTUuDQoNCg0KDQpQb3N0IERvY3RvcmF0ZSBBc3NvY2lhdGUsIERlcHQuIG9mIEVudmlyb25tZW50YWwgU2NpZW5jZXMgYW5kIEVuZ2luZWVyaW5nLCBVbml2ZXJzaXR5IG9mIEZsb3JpZGEgMTk4Ny0gMTk5MA0KDQoNCg0KICAgIChCKSBQZXJ0aW5lbnQgVGVhY2hpbmcsIFJlc2VhcmNoIGFuZCBSZWxhdGVkIEFjdGl2aXRpZXM6DQoNCg0KDQpUZWFjaGluZyBBcmVhczogRGVzaWduIG9mIHdhdGVyIHF1YWxpdHkgbWFuYWdlbWVudCBmYWNpbGl0aWVzLCB3YXRlciByZXVzZSBlbmdpbmVlcmluZywgcmVtZWRpYXRpb24gZW5naW5lZXJpbmcsIHdhdGVyIHF1YWxpdHksIGdlbmVyYWwgZW52aXJvbm1lbnRhbCBlbmdpbmVlcmluZywgYW5kIGVudmlyb25tZW50YWwgZW5naW5lZXJpbmcgY2hlbWlzdHJ5DQoNCg0KDQogDQoNCg0KDQpSZXNlYXJjaCBBcmVhczoNCg0KDQoNCiANCg0KDQoNCigxKSBXYXRlciwgc3Rvcm13YXRlciBhbmQgd2FzdGV3YXRlciAod2F0ZXIgbWF0cml4KSBjb250YW1pbmF0aW9uLCBhbmQgdHJlYXRtZW50OyAoMikgT3BlcmF0aW9uYWwgcHJvYmxlbXMgd2l0aCBzZWNvbmRhcnkgY29udGFtaW5hdGlvbiAod2F0ZXIgbWF0cml4KTsgKDMpIFRlY2huaXF1ZXMgYW5kIG1lY2hhbmlzbXMgZm9yIGVuaGFuY2VtZW50IG9mIHRyZWF0bWVudC9yZW1vdmFsIG9mIG9yZ2FuaWMgYW5kIG1ldGFsbGljIGNvbnRhbWluYXRpb24gKHdhdGVyIGFuZCBzb2lsIG1hdHJpeGVzKTsoNCkgRW1lcmdpbmcgdGVjaG5vbG9naWVzIGZvciB3YXRlci9zb2lsIHRyZWF0bWVudCAoY29uc3RydWN0ZWQgd2V0bGFuZHMsIHBoeXRvcmVtZWRpYXRpb24sIHBob3RvZGVncmFkYXRpb24pLCAoNSkgQXBwbGljYXRpb25zIG9mIG1hZ25ldGljIGZpZWxkIGZvciBiaW9zY2llbmNlIGFuZCBiaW90ZWNobm9sb2d5OyAoNikgUXVhbnR1bSBjbHVzdGVyIHN0dWR5IG9uIGRlZ3JhZGF0aW9uIGV4cGxvc2l2ZXMgb24gdGhlIG1vZGVsIGNsYXkgc3VyZmFjZTsgYW5kICg3KSBOYW5vbWF0ZXJpYWwgaW4gZHJpbmtpbmcgd2F0ZXINCg0KDQoNCiAgDQoNCg0KDQogICAgKEQpIENpdGF0aW9uIG9mIFBlcnRpbmVudCBQdWJsaWNhdGlvbnMgYWxsIHJlZmVycmVkIChsYXN0IDMgeWVhcnMpOg0KDQoNCg0KRC4gTGVzemN6eW5za2EsIEEuIEhhZml6LCAiVG94aWMgRWxlbWVudHMgaW4gU29pbCBhbmQgR3JvdW5kd2F0ZXI6IFNob3J0LVRpbWUgU3R1ZHkgb24gRWxlY3Ryb2tpbmV0aWMgUmVtb3ZhbCBvZiBBcnNlbmljIGluIHRoZSBQcmVzZW5jZSBvZiBvdGhlciBJb25zIiwgSW50ZXJuYXRpb25hbCBKb3VybmFsIG9mIEVudmlyb25tZW50YWwgUmVzZWFyY2ggYW5kIFB1YmxpYyBIZWFsdGgsMygyKSwgNjctNzMsIDIwMDYNCg0KDQoNCkQuIExlc3pjenluc2thLCBBLiBEenVyaWssIEguIEFobWFkLCAiUG9saWN5LCBNYW5hZ2VtZW50IGFuZCBpbiBzaXR1IFRyZWF0bWVudCBvZiBTdG9ybXdhdGVyIFJ1bm9mZiIsIHB1Ymxpc2hlZCBpbiB0aGUgRW52aXJvbm1lbnRhbCBNYW5hZ2VtZW50OiBDb250cmlidXRpb24gdG8gU29sdXRpb24iLCBzcGVjaWFsIEJvb2sgb2YgUGFwZXJzIGZyb20gdGhlIEludGVybmF0aW9uYWwgU3ltcG9zaXVtIG9uIEVudmlyb25tZW50YWwgTWFuYWdlbWVudCwgcC4gMTM3LTE0MywgMjAwNg0KDQoNCg0KUC4gQmFiaW5pZWMsIE0uIEJhYmluY292YSwgUC4gU291cml2b25nLCBELkxlc3pjenluc2thLCAiRWZmaWNpZW50IHRyZWF0bWVudCBvZiBwaWdtZW50ZWQgQjE2IG1lbGFub21hIHVzaW5nIHBob3Rvc2Vuc2l0aXplZCBsb25nLWNpcmN1bGF0aW5nIG1hZ25ldG9mdWxsZXJlbm9zb21lcyIsIEpvdXJuYWwgb2YgTWFnbmV0aXNtIGFuZCBNYWduZXRpYyBNYXRlcmlhbCwgMjkzLCAxLCAzOTQtMzk3LCAyMDA1DQoNCg0KDQpNLiBCYWJpbmNvdmEsIFAuU291cml2b25nLCBELkxlc3pjenluc2thLCBQLkJhYmluZWMsIFBob3RvZHluYW1pYyB0aGVyYXB5IG9mIHBpZ21lbnRlZCBtZWxhbm9tYSBCMTYgdXNpbmcgc3RlcmljYWxseSBzdGFiaWxpemVkIGZ1bGxlcmVub3NvbWVzLCBMYXNlciBQaHlzaWNzIExldHRlcnMsIDEsIDksIDQ3Ni00NzgsIDIwMDQuDQoNCg0KDQpCYWJpbmNvdmEgTSwgU291cml2b25nIFAsIEQuIExlc3pjenluc2thLCBCYWJpbmVjIFAgIkVmZmVjdHMgb2YgR1NNIG1pY3Jvd2F2ZXMsIHB1bHNlZCBtYWduZXRpYyBmaWVsZCwgYW5kIHRlbXBlcmF0dXJlIG9uIGZyYWN0YWwgZGltZW5zaW9uIG9mIGJyYWluIHR1bW9ycyIsIENoYW9zLCBTb2xpdG9uICZGcmFjdGFscywgMjAgKDUpOiAxMDQxLTEwNDUsIDIwMDQuDQoNCg0KDQpNLiBCYWJpbmNvdsOhLCBQLiBTb3VyaXZvbmcsIEQuTGVzemN6eW5za2EsIFAuIEJhYmluZWMsIEouIExlc3pjenluc2tpOiBQcmluY2lwbGVzIG9mIE1hZ25ldG9keW5hbWljIENoZW1vdGhlcmFweSwgTWVkaWNhbCBIeXBvdGhlc2VzLCA2MiwgMzc1LTM3NywgMjAwNC4NCg0KDQoNCk0uIEJhYmluY292YSwgUC4gU291cml2b25nLCBELkxlc3pjenluc2thLCBQLkJhYmluZWMsICJGdWxsZXJlbm9zb21lczogRGVzaWduIG9mIGEgbm92ZWwgbmFub21hdGVyaWFsIGZvciBsYXNlciBjb250cm9sbGVkIHRvcGljYWwgZHJ1ZyByZWxlYXNlOiwgUGh5c2ljYSBNZWRpY2EsIFhJWCwgMywgMjEzLTIxNiwgMjAwMy4NCg0KDQoNCk0uIEJhYmluY292YSwgUC4gU291cml2b25nICwgRC5MZXN6Y3p5bnNrYSwgUC5CYWJpbmVjLCAiSW5mbHVlbmNlIG9mIEdTTSBNaWNyb3dhdmVzIG9uIEZyYWN0YWwgU3RydWN0dXJlIG9mIEJyYWluIFR1bW9yczosIEhhckZBIEhhcm1vbmljIGFuZCBGcmFjdGFsIEltYWdlIEFuYWx5c2lzLCAzNS0zOCwgMjAwMy4NCg0KDQoNCkMuIEJvZ2F0dSwgRC4gTGVzemN6eW5za2EsIEEuIER6dXJpayAsIE0uIE5pY29sYXUgLCBJLiBWbGFpY3UsIEcuIE1vxZ9vYXJjxIMsICJTdHVkaWVzIG9uIHRoZSB1c2Ugb2YgY2hsb3JhbWluZXMgdG8gbWluaW1pemUgRE9DbCBmb3JtYXRpb24gaW4gdHJlYXRlZCB3YXRlciIsIENoZW1pY2FsIEJ1bGxldGluLCBTZXJpZXMgb2YgQ2hlbWlzdHJ5IGFuZCBFbnZpcm9ubWVudGFsIEVuZ2luZWVyaW5nLCA0Nyg2MSksIDEtMiwuMzgtNDMsIDIwMDIuDQoNCg0KDQpaaWxiZXJiZXJnLCBBLiBQZWxtZW5zY2hpa292LCBDLkouIE1jR3JhdGgsIFcuIE0uIERhdmlzLCBELiBMZXN6Y3p5bnNrYSwgSi5MZXN6Y3p5bnNraSAiUmVkdWN0aW9uIG9mIE5pdHJvYXJvbWF0aWMgQ29tcG91bmRzIG9uIHRoZSBTdXJmYWNlIG9mIE1ldGFsbGljIElyb246IFF1YW50dW0gQ2hlbWljYWwgU3R1ZHkiLCBJbnRlcm5hdGlvbmFsIEpvdXJuYWwgb2YgTW9sZWN1bGFyIFNjaWVuY2UsMywgODAxLTgxMywgMjAwMg0KDQoNCg0KIA0KDQoNCg0KQ2hhcHRlcnMgaW4gQm9va3MNCg0KDQoNCkNvLWF1dGhvciBvZiBERVBBIChGbG9yaWRhIERlcGFydG1lbnQgb2YgRW52aXJvbm1lbnRhbCBQcm90ZWN0aW9uKSBtYW51YWwgIkJlc3QgTWFuYWdlbWVudCBQcmFjdGljZXMgZm9yIEVudmlyb25tZW50YWwgU3Rld2FyZHNoaXAgb2YgRmxvcmlkYSBTaG9vdGluZyBSYW5nZXMiLCAxNzAgcGFnZXMsIHB1Ymxpc2hlZCBpbiBBdWd1c3QgMjAwMiBhbmQgMjAwNCB3d3cuZGVwLnN0YXRlLmZsLnVzL3dhc3RlL2NhdGVnb3JpZXMvaGF6YXJkb3VzL3BhZ2VzL2xlYWQuaHRtDQoNCg0KDQpNYXJrZXksTS4sIEQuIExlc3pjenluc2thIGFuZCBBLiBEenVyaWssICJSZW1lZGlhdGlvbiBvZiBBcnNlbmljOiBDbGVhbnVwIE1ldGhvZHMgYW5kIENhc2UgSGlzdG9yaWVzLCIgQ2hhcHRlciBpbiBBLlIuIEdhdmFza2FyIGFuZCBBLlMuQy4gQ2hlbiAoZWRzLiksIFJlbWVkaWF0aW9uIG9mIENobG9yaW5hdGVkIGFuZCBSZWNhbGNpdHJhbnQgQ29tcG91bmRzLCBDb2x1bWJ1cywgT0g6IEJhdHRlbGxlIFByZXNzLCBNYXkyMDAyDQoNCg0KDQogICAgKEgpIFBhdGVudHMNCg0KDQoNCkQuIExlc3pjenluc2thLCBNLiBCYWJpbmNvdmEsIFAuIEJhYmluZWMsIEouIExlc3pjenluc2tpLCAiTWFnbmV0b2xpcG9zb21lcyBDb21wb3NpdGlvbiBmb3IgVGFyZ2V0ZWQgVHJlYXRtZW50IG9mIEJpb2xvZ2ljYWwgVGlzc3VlIGFuZCBBc3NvY2lhdGVkIE1ldGhvZHMiIEV1cm9wZWFuIFBhdGVudCBPcmdhbml6YXRpb24gUGF0ZW50IE5vLiBFUDEyNTU1MzMsIE5vdmVtYmVyIDYsIDIwMDIuDQoNCg0KDQogDQoNCg0KDQogICAgUHJvZmVzc2lvbmFsIFNlcnZpY2UgKGxhc3QgZml2ZSB5ZWFycykgIA0KDQoNCg0KICAgIFBhbmVsaXN0IFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIEJvYXJkIG9mIHRoZSBOYXRpb25hbCBBY2FkZW1pZXMgb2YgU2NpZW5jZSwgRW5naW5lZXJpbmcgYW5kIE1lZGljaW5lLCAyMDA2LQ0KDQogICAgR3Vlc3QtRWRpdG9yIHRvIHRoZU1lZGljYWwgUGh5c2ljcyAoQW1lcmljYW4gQXNzb2NpYXRpb24gb2YgUGh5c2ljaXN0cyBpbiBNZWRpY2luZSksIDIwMDMgLXByZXNlbnQNCg0KICAgIENvLWVkaXRvciBvZiB0aGVJbnRlcm5hdGlvbmFsIEpvdXJuYWwgb2YgTW9sZWN1bGFyIFNjaWVuY2VzLCAyMDAxLXByZXNlbnQNCg0KICAgIEFTQ0UgU3BpbGwgUHJldmVudGlvbiBDb21taXR0ZWUsIGFjdGluZyBvZmZpY2VyLCAyMDAwLXByZXNlbnQ=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914410306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

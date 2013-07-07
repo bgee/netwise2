@@ -1,0 +1,2548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:15:19 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911053306521"  usageLimitType="allocation" usageLimit="200" currentUsage="126" remainingUsage="74" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>L. Courtney Smith</FormattedName>
+<GivenName>L.</GivenName>
+<MiddleName>Courtney</MiddleName>
+<FamilyName>Smith</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>20052</PostalCode>
+<Region>DC</Region>
+<Municipality>Washington</Municipality>
+<DeliveryAddress>
+<AddressLine>340 Lisner Hall George Washington University 2023 G St. NW</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>business</Use>
+<Location>office</Location>
+<WhenAvailable>daytime</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (202) 994-9211</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>202</AreaCityCode>
+<SubscriberNumber>994-9211</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>csmith@gwu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Electron Microscopist</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Dept of Pediatrics, University of Minnesota, Sch of Med
+</Description>
+<StartDate>
+<AnyDate>1977-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1980-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Minnesota</EmployerOrgName>
+<PositionHistory>
+<Title>Electron Microscopist, Department of Entomology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1976-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1977-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Teaching Assistant, Department of Zoology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Adjunct Positions
+</Description>
+<StartDate>
+<AnyDate>1975-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1976-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Adjunct</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Dept of Immunology, GWU Medical School
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Graduate Programs</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>in 1) Genetics and Molecular Medicine, 2) Microbiology Immunology and and Tropical Medicine, GW Inst Biomed Sci
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Graduate Programs</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>in 1) Genetics, 2) Immunology, GW Inst Biomed Sci
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Adjunct, Center of Marine Biotechnology</EmployerOrgName>
+<PositionHistory>
+<Title>Other Professional Affiliations</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Univ. Maryland
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Macquarie University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Australia</Region>
+<Municipality>Sydney</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Other Professional Affiliations Visiting Researcher (Sabbatical)
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Institute for Proteomics Technology and Applications</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>GWU</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Computational Molecular Biology and Bioinformatics Working Group, GWU
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Univ of Pennsylvania</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Sch of Veterinary Med (Sabbatical) RESEARCH INTERESTS Comparative Immunology Current Resesarch (and postdoctoral research with Eric Davidson, Caltech) Innate Immune Diversity, Sea Urchin Immunology, Evolution of the deuterostome immune system, Immunity and cellular defense mechanisms in invertebrates Doctoral Research (with William H Hildemann, UCLA) Allograft Rejection Kinetics and Responses to Injury in Marine Sponges. FUNDING Current Awards
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation (MCB-0744999)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>year no-cost extension &quot;Diversity of the 185/333 system and innate immunity in the purple sea urchin&quot; PI: L.C. Smith, $525,000
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Columbian College Facilitating Fund (internal GWU award)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;How to make an immune system uncovering the origins of immune cells in the purple sea urchin&quot; PI: L. Courtney Smith, Co-I: J. Ghosh, $23,000 Previous Awards
+</Description>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Production of Immune Proteins in Single Sea Urchin Cells&quot; PI: L. Courtney Smith, $6,498
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation (IOS-0905197)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>International Travel for Students and Postdocs to attend ISDCI-11 in Prague PI: L. Courtney Smith, Co-PI: Martin Flajnik (UMD), $10,000
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Co-PIs: Arthur</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>PI</Region>
+<Municipality>Robinson</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Dilthy Award (GWU internal funding for collaborative research) &quot;Mathematical approaches to understanding sequence diversity generated during gene expression in the immune system of the purple sea urchin.&quot; (Math Dept), LC Smith Co-PI. $9,511
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Australian Research Council</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Diversity and Defence Characterisation of Extremely Variable Defensive Proteins from Sea Urchins&quot; Chief Investigator: DA Raftos, Macquarie University. Partner Investigator: LC Smith AUD$210,000 direct costs to Macquarie (USD$164,000).
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>&quot;Origins and Evolution of Adaptive Immunity&quot;</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>LC</Region>
+<Municipality>PI</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>GWU Postdoctoral Scientist Award postdocs, Drs. V Brockton, Y-O Kim, K Buckley. $88,000 direct costs
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation (MCB 0424235)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>LC</Region>
+<Municipality>PI</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>year no cost extention &quot;Unexpected Immune Diversity in the Purple Sea Urchin&quot; Smith Co-PI
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Macquarie University</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Australia</Region>
+<Municipality>Sydney</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Raftos $550,000 including sub-award to Macquarie University
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation (MCB 0077970)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;The Ancient Innate Immune System in Sea Urchins&quot;
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>George Washington University PI</EmployerOrgName>
+<PositionHistory>
+<Title>Department of Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>LC Smith</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>$507,313 Supplement Research Opportunity Award
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Ripon College</EmployerOrgName>
+<PositionHistory>
+<Title>Dr. Margaret Stevens</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Co-I (sabbatical leave for Stevens to visit GW) &quot;The Ancient Immune System in Sea Urchins&quot; - investigations of a cell surface receptor and clotting factors Supplement: (sabbatical leave to go to U Penn)
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Oriol Sunyer</EmployerOrgName>
+<PositionHistory>
+<Title>Co-Investigator, Dr. J</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Veterinary Medicine, University of Pennsylvania &quot;Activation and regulation of the alternative pathway of complement in the sea urchin&quot;
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation (MUE-0303143)</EmployerOrgName>
+<PositionHistory>
+<Title>Multi-user Equipment</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Capillary Sequencer for the George Washington University Campus&quot; PIs: MW Allard: Co-PIs, L.C. Smith, P. Herendeen, G. Hormiga, F. Turano $90,588 plus $38,000 matching funds from GWU
+</Description>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation</EmployerOrgName>
+<PositionHistory>
+<Title>Director of the Biology Sequencing Facility, LC Smith</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Meeting Support &quot;Evolutionary Immunobiology: New Approaches, New Paradigms&quot; PI, Dr. Greg Warr. Co-PI, R Chapman, LC Smith. Medical University of South Carolina $26,000 to MUSC
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation (MCB 9603086)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>LC</Region>
+<Municipality>PI</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;The Complement System in Sea Urchins and the Evolution of the Vertebrate Complement Cascades&quot;, $289,739 Supplements
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>REU</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Supplement Dr. Paul S. Gross
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Co-I</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Expression of the sea urchin complement component, SpC3, during early development&quot;
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Science Foundation (MCB 9219330)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>&quot;Coelomocyte Activation and the Sea Urchin Immune System&quot; Division of Biology, California Institute of Technology Eric Davidson, Co-I
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Transferred to George Washington University</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>LC</Region>
+<Municipality>PI</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>$327,266
+</Description>
+<StartDate>
+<AnyDate>1995-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Supplement: REU</EmployerOrgName>
+<PositionHistory>
+<Title>Oak Ridge Associated Universities</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>LC</Region>
+<Municipality>PI</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;The Primitive Complement System in Sea Urchins&quot;, $10,000
+</Description>
+<StartDate>
+<AnyDate>1995-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>George Washington University Facilitating Fund (GWU internal funding)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>LC</Region>
+<Municipality>PI</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;A Cell Surface Receptor on Sea Urchin Immune Cells&quot;, $13,800
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>George Washington Univ Junior Scholar Enhancement Fund (GWU internal funding)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>LC</Region>
+<Municipality>PI</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>&quot;A Putative Complement Receptor/Regulatory Protein Expressed by Sea Urchin Immune Cells&quot;, $5,000 Other Awards
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Participating faculty. National Science Foundation &quot;REU Site</EmployerOrgName>
+<PositionHistory>
+<Title>Molecular Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Bioinformatics, and Biomaterials&quot;. PI: R. Donaldson
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Program in Systematics and Evolution.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Participating faculty. George Washington University Research Enhancement Fund. The Robert Weintraub Research
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Columbian College of Arts and Sciences</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Teaching release for the purpose of grant writing.
+</Description>
+<StartDate>
+<AnyDate>1999-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Lucille P. Markey Charitable Trust Grant</EmployerOrgName>
+<PositionHistory>
+<Title>Caltech. PI</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Post doc support. Division of Biology, EH Davidson
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Alfred P. Sloan Foundation</EmployerOrgName>
+<PositionHistory>
+<Title>Caltech. PI</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Post doc support. Molecular Studies in Evolution Division of Biology, EH Davidson
+</Description>
+<StartDate>
+<AnyDate>1986-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1987-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Institutes of Health</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Post doc support. Genetics Training Grant Division of Biology
+</Description>
+<StartDate>
+<AnyDate>1985-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1986-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Caltech</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Graduate research support. Tumor Immunology Training Grant, National Cancer Institute, Department of Microbiology and Immunology, UCLA
+</Description>
+<StartDate>
+<AnyDate>1981-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1983-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Los Angeles</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1985-03-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Immunology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Minnesota</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1976-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Zoology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Drake University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.A</DegreeName>
+<DegreeDate>
+<AnyDate>1974-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>George Washington University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Professor of Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>George Washington University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Professor of Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>George Washington University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Assistant Professor of Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree>
+<DegreeName>Associate</DegreeName>
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Caltech</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Senior Postdoctoral Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>Postdoctoral Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Postgraduate</DegreeName>
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Caltech</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UCLA School of Medicine</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1982-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Researcher, Dept of Micro &amp; Immunol</Name>
+</DegreeMajor>
+<Comments>Teaching Assistant, Dept of Micro &amp; Immunol, UCLA School of Medicine</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>(53 total)</Title>
+<Name role="author">
+<FormattedName>Peer Reviewed</FormattedName>
+</Name>
+<JournalOrSerialName>Miller C.A</JournalOrSerialName>
+</Article>
+<Article>
+<Title>SpTie1/2 from the sea urchin Strongylocentrotus purpuratus is an orthologue of vertebrate Tie1 and Tie2 and is expressed in coelomocytes axial organ and embryos</Title>
+<Name role="author">
+<FormattedName>Stevens, M.E., J. Dhillon, C. Miller, C. Messier-Solek, J.P. Rast, A.J. Majeske, D. Zuelke, L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental and Comparative Immunology</JournalOrSerialName>
+<Volume>34(8):884-895.</Volume>
+</Article>
+<Article>
+<Title>Blencke L.C</Title>
+<Name role="author">
+<FormattedName>Li, C., H-M</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>A method for identifying alternative or cryptic splice sites within gene and mRNA sequences</Title>
+<Name role="author">
+<FormattedName>Buckley, K.M., L. Florea &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Comparisons among sequences from vertebrates echinoderms and other groups</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Raftos</Title>
+<Name role="author">
+<FormattedName>Dheilly, N.M., S.V. Nair, L.C. Smith &amp; D.A</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Highly variable immune response proteins from the sea urchin Strongylocentrotus purpuratus: proteomic analyses identifies diversity within and between individuals Journal of Immunology 182:2203-2212</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sequence variations in 185/333 messages from the purple sea urchin suggest post-transcriptional modifications to increase immune diversity</Title>
+<Name role="author">
+<FormattedName>Buckley, K.M., D.P. Terwilliger &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Immunology 181:8585-8594</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The 185/333 gene family is a rapidly diversifying host-defense gene cluster in the purple sea urchin</Title>
+<Name role="author">
+<FormattedName>Buckley, K.M., S. Munshaw, T.B. Kepler &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Strongylocentrotus purpuratus Journal of Molecular Biology 379:912-928</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Majeske Y-O</Title>
+<Name role="author">
+<FormattedName>Brockton V., J.H. Henson, D.A. Raftos, A.J</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Extraordinary diversity among members of the large gene family 185/333 from the purple sea urchin</Title>
+<Name role="author">
+<FormattedName>Buckley, K.M. &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Strongylocentrotus purpuratus</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Distinctive expression patterns of 185/333 genes in the sea urchin an unexpectedly diverse family of transcripts in response to LPS Î²-1,3-glucan and dsRNA</Title>
+<Name role="author">
+<FormattedName>Terwilliger, D.P., K.M. Buckley, V. Brockton, N.J. Ritter &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>BMC Molecular Biology 8:16</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Hibino &amp; G.W</Title>
+<Name role="author">
+<FormattedName>Rast, J.P., L.C. Smith, M. Loza-Coll, T</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>The genome of the sea urchin Strongylocentrotus purpuratus</Title>
+<Name role="author">
+<FormattedName>Sodergren et al</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Science 314:941-952</JournalOrSerialName>
+<Volume>*24th</Volume>
+</Article>
+<Article>
+<Title>Loza-Coll</Title>
+<Name role="author">
+<FormattedName>Hibino, T., M</FormattedName>
+</Name>
+<JournalOrSerialName>C. Messier A.J</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Unexpected diversity displayed in cDNAs expressed by the immune cells of the purple sea urchin</Title>
+<Name role="author">
+<FormattedName>Terwilliger D.P., K.M. Buckley, D. Mehta, P.G. Moorjani &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Strongylocentrotus purpuratus</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Macroarray analysis of coelomocyte gene expression in response to LPS in the sea urchin</Title>
+<Name role="author">
+<FormattedName>Nair, S.V., H. Del Valle, P.S. Gross, D.P Terwilliger &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Strongylocentrotus purpuratus</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Constitutive expression and alternative splicing of the SCR domains of Sp152 the sea urchin homologue of complement factor B. Implications on the evolution of the C2/Bf gene family</Title>
+<Name role="author">
+<FormattedName>Terwilliger, D.P., L.A. Clow, P.S. Gross &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Immunogenetics 56:531-543</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The sea urchin complement homologue</Title>
+<Name role="author">
+<FormattedName>Clow, L.A., D.A. Raftos, P.S. Gross &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>SpC3 functions as an opsonin Journal of Experimental Biology 207:2147-2155</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The gene encoding the sea urchin complement protein</Title>
+<Name role="author">
+<FormattedName>Shah, M., K.M. Brown &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>SpC3 is expressed in embryos and can be upregulated by bacteria</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Thioester function is conserved in SpC3 the sea urchin homologue of the complement component C3</Title>
+<Name role="author">
+<FormattedName>Smith, L.C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental and Comparative Immunology 26:603-614</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Expression of SpC3 the sea urchin complement component in response to lipopolysaccharide</Title>
+<Name role="author">
+<FormattedName>Clow, L.A., P.S. Gross, C.-S. Shih &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Immunogenetics 51:1021-1033</JournalOrSerialName>
+</Article>
+<Article>
+<Title>SpC3 the complement homologue from the purple sea urchin</Title>
+<Name role="author">
+<FormattedName>Gross, P.S., L.A. Clow &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Strongylocentrotus purpuratus is expressed in two subpopulations of the phagocytic coelomocytes</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Coelomocytes specifically express SpBf a homologue of factor B the second component in the sea urchin complement system</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., C.-S. Shih &amp; S. Dachenhausen</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1998</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Immunology 161:6784-6793</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Lambris &amp; L.C</Title>
+<Name role="author">
+<FormattedName>Al-Sharif, W.Z., J.O. Sunyer, J.D</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Lipopolysaccharide activates the sea urchin immune system</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., R.J. Britten &amp; E.H. Davidson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1995</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental and Comparative Immunology 19:217-224</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The sea urchin profilin gene is expressed in mesenchyme cells during gastrulation</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., M.G. Harrington, R.J. Britten &amp; E.H. Davidson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental Biology 164:463-474</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Ligand-dependent stimulation of introduced mammalian brain receptors alters spicule symmetry and other morphogenetic events in sea urchin embryos</Title>
+<Name role="author">
+<FormattedName>Cameron, R.A., L.C. Smith, R.J. Britten &amp; E.H. Davidson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Mechanisms of Development 45:31-47</JournalOrSerialName>
+</Article>
+<Article>
+<Title>SpCoel1 a sea urchin profilin gene expressed specifically in coelomocytes in response to injury</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., R.J. Britten &amp; E.H. Davidson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1992</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Molecular Biology of the Cell 3:403-414</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Allogeneic cell interactions during graft rejection in Callyspongia diffusa</Title>
+<Name role="author">
+<FormattedName>Smith, L.C. &amp; W.H. Hildemann</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1986</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Porifera</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Allograft rejection autograft fusion and inflammatory responses to injury in Callyspongia diffusa</Title>
+<Name role="author">
+<FormattedName>Smith, L.C. &amp; W.H. Hildemann</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1986</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Porifera Demospongia)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Alloimmune memory is absent in Hymeniacidon sinapium a marine sponge</Title>
+<Name role="author">
+<FormattedName>Smith, L.C. &amp; W.H. Hildemann</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1984</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Immunology 135:2351-2355</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Echinoderm Immunity</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., J. Ghosh, K.M. Buckley, L.A. Clow, N.M. Dheilly, T. Haug, J.H. Henson, C. Li, C.M. Lun, A.J. Majeske, V. Matranga, S.V. Nair J.P. Rast, D.A. Raftos, M. Roth, S. Sacchi, C.S. Schrankel, K. StensvÃ¥g</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In &quot;Invertebrate Immunity&quot; K. Soderhall ed</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Diversification of innate immune genes: lessons from the purple sea urchin</Title>
+<Name role="author">
+<FormattedName>Smith, L.C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Disease Models and Mechanisms 3:274-279</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Sp185/333: A novel family of genes and proteins involved in the purple sea urchin immune response</Title>
+<Name role="author">
+<FormattedName>Ghosh JG, KM, Buckley, SV Nair, DA Raftos, C Miller, AJ Majeske, T Hibino, JP Rast, M Roth, L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental and Comparative Immunology 34:235-245</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The sea urchin immune system</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., J.P. Rast, V. Brockton, D.P. Terwilliger, S.V. Nair, K.M. Buckley &amp; A.J. Majeske</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Invertebrate Survival Journal 3:25-39</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The ancestral complement system in sea urchins</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., L.A. Clow &amp; D.P. Terwilliger</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Immunological Reviews 180:16-34</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Azumi &amp; M. Nonaka</Title>
+<Name role="author">
+<FormattedName>Smith, L.C., K</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Complement systems in invertebrates</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Echinoderm immunity and the evolution of the complement system</Title>
+<Name role="author">
+<FormattedName>Gross, P.S., W.Z. Al-Sharif, L.A. Clow &amp; L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Developmental and Comparative Immunology 23:439-453</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The echinoid immune system revisited: reply</Title>
+<Name role="author">
+<FormattedName>Smith, L.C. &amp; E.H. Davidson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1992</StringDate>
+</PublicationDate>
+<JournalOrSerialName>ImmunologyToday 14:93-94</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The echinoid immune system and the phylogenetic occurrence of immune mechanisms in deuterostomes</Title>
+<Name role="author">
+<FormattedName>Smith, L.C. &amp; E.H. Davidson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1992</StringDate>
+</PublicationDate>
+<JournalOrSerialName>ImmunologyToday 13:356-362</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The complement system in sea urchins</Title>
+<Name role="author">
+<FormattedName>Smith, L.C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In Phylogenetic Perspectives on the Vertebrate Immune Systems</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The echinoderm immune system: characters shared with vertebrate immune systems and characters arising later in deuterostome phylogeny</Title>
+<Name role="author">
+<FormattedName>Smith, L.C. &amp; E.H. Davidson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In: Primordial Immunity: Foundations for the Vertebrate Immune System</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Cellular morphology of Callyspongia diffusa</Title>
+<Name role="author">
+<FormattedName>Smith, L.C. &amp; W.H. Hildemann</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1990</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Porifera: Demospongia)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The role of mesohyl cells in sponge allograft rejection</Title>
+<Name role="author">
+<FormattedName>Smith, L.C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1988</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In: Invertebrate Historecognition</JournalOrSerialName>
+</Article>
+<Book>
+<Title>Refereed Reviews and Book Chapters 10</Title>
+<Name role="author">
+<FormattedName>Ghosh, J., C.M. Lun, A.J. Majeske, S. Sacchi, C.S. Schrankel, L.C. Smith</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<Abstract>Developmental and Comparative Immunology 34 (9):959-974 (epub 12/21/10). Invited for a special issue in honor of Dr. Greg Warr former DCI editor.</Abstract>
+</Book>
+<Book>
+<Title>Non-refereed Reviews and Book Chapters</Title>
+<Abstract>Smith L.C. 2005. Host responses to bacteria innate immunity in invertebrates. In The Influence of Cooperative Bacteria on Animal Host Biology (M. McFall-Ngai N. Ruby B. Henderson eds.). Advances in Molecular and Cellular Microbiology 10:293-320. Cambridge University Press. invited</Abstract>
+</Book>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<Title>and Symposia</Title>
+<EventName>American Association of Immunologists Annual meeting May 2010. International Society of Developmental and Comparative Immunology Guest Society Symposium on &quot;Novel Strategies of Non-Self Recognition by Invertebrate and Non-Mammalian Vertebrate Model Species&quot;. Title of Talk: &quot;Highly Variable Immune-Response Genes (Sp185/333) from the Purple Sea Urchin&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Baltimore Maryland</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Workshop: &quot;Recognition and Specificity in Invertebrate Immune Systems&quot;. Wissenschaftskolleg zu Berlin Institute for Advanced Study February - 2 2007. &quot;Diversification of the innate immune system in the sea urchin&quot;.</Title>
+<EventName>International Society of Developmental and Comparative Immunology Tenth Congress July - 6 &quot;Diversity of the 185/333 gene system in the purple sea urchin&quot;.</EventName>
+<EventType>conference</EventType>
+<Location>Charleston SC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2004-01-01</StringDate></StartDate>
+<EventName>Experimental Biology Special ISDCI Symposium &quot;Remarkable Complexity of Immune Recognition in Invertebrates&quot;. Washington DC. &quot;Unexpected diversity in a putative anti-microbial protein in a sea urchin.&quot;</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Rockefeller Conference on &quot;The Influence of Cooperative Bacteria on Animal Host Biology&quot;. Bellagio Study and Conference Center &quot;Immune Defenses Against Marine Microbes.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Bellagio Italy.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>International Society of Developmental and Comparative Immunology Ninth Congress. St. Andrews Scotland. &quot;A diverse array of genes are upregulated in sea urchin coelomocytes in response to lipopolysaccharide.&quot;</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Fifth Comparative Immunology Symposium. Florida International University March - 7 &quot;Sea urchin coelomocytes respond to lipopolysaccharide with a diverse array of messages encoding a putative antimicrobial protein.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Miami FL.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2002-01-01</StringDate></StartDate>
+<EventName>NSF Workshop on &quot;Evolutionary Immunobiology: New Approaches New Paradigms&quot; Medical University of South Carolina Feb 22-25 &quot;A Genomics Approach to Understanding the Sea Urchin Immune System.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Charleston SC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>International Society of Developmental and Comparative Immunology Eighth Congress July - 6 &quot;SpC3 the Sea Urchin Complement Component Homologous to Vertebrate C3 Undergoes Autolysis and may be Regulated through Controlled Degradation.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Cairns Australia.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2000-04-06</StringDate></StartDate>
+<EventName>Comparative Immunology Group Mini-Symposium &quot;Immunodiversity in Defense Mechanisms&quot;. Florida International University &quot;Production Function and Degradation of SpC3 the Sea Urchin Homologue of the Vertebrate Complement Component C3.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Miami FL.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>New England Immunology Conference. &quot;Innate Immunity&quot; Nov - 7 &quot;The Ancient Complement System in Sea Urchins.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Woods Hole MA.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>American Red Cross Holland Research Laboratory Rockville MD. &quot;Origin and Evolution of the Complement System a Central Component of Innate Immunity.&quot;</Title>
+<StartDate><StringDate>2011-01-01</StringDate></StartDate>
+<EventName>FASEB Summer Research Conference &quot;Phylogenetic Perspectives on the Vertebrate Immune System&quot; July 1999. &quot;The Complement System in Sea Urchins.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Copper Mountain CO.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Developmental Biology of Sea Urchins XI 1997. &quot;Sea urchin coelomocytes express the first two components of the alternative complement cascade.&quot;</Title>
+<StartDate><StringDate>1997-01-01</StringDate></StartDate>
+<EventName>International Society of Developmental and Comparative Immunology Seventh Congress. College of William and Mary Williamsburg VA. July 20-25 &quot;Sea urchin coelomocytes specifically express a C3 complement component and a complement receptor or regulatory protein.&quot;</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>FASEB American Association of Pathologists &quot;Use of Aquatic Animals in Biomedical Research&quot; &quot;A sea urchin profilin gene shows increases in expression during coelomocyte responses to injury.&quot;</Title>
+<StartDate><StringDate>2010-01-01</StringDate></StartDate>
+<EventName>University of California Marine Laboratory &quot;Mechanisms Ecology &amp; Evolution of Historecognition in Marine Invertebrates&quot; Sept 1987. &quot;Cellular morphology of Callyspongia diffusa (Porifera: Demospongia).&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Bodega Bay CA.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>GW Genomics and Proteomics Focus Group GW School of Medicine &quot;Immune Response Diversity in the Purple Sea Urchin.&quot;</Title>
+<StartDate><StringDate>2007-04-27</StringDate></StartDate>
+<EventName>Math Initiative Spring Symposium. GWU &quot;Diversity in the 185/333 gene family from the purple sea urchin.&quot;</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Dickinson College Department of Biology &quot;Diversity in the Innate Immune System of the Purple Sea Urchin.&quot;</Title>
+<StartDate><StringDate>2005-09-14</StringDate></StartDate>
+<EventName>George Washington University Institute of Biomedical Sciences Dept of Immunology and Tropical Medicine &quot;Infection and Immunity Seminar Series. &quot;Unexpected diversity in a gene family expressed by the immune cells in the purple sea urchin.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Washington DC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Harbor Branch Oceanographic Institution &quot;Unexpected genetic diversity in a small gene family expressed by the immune cells of the purple sea urchin.&quot;</Title>
+<StartDate><StringDate>2005-02-02</StringDate></StartDate>
+<EventName>University of Maryland Department of Biology &quot;Unexpected genetic diversity in a small gene family expressed by the immune cells of the purple sea urchin.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>College Park MD.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2004-05-28</StringDate></StartDate>
+<EventName>Medical University of South Carolina Department of Biochemistry &quot;Unexpected genetic diversity in the purple sea urchin. A small gene family encoding putative antimicrobial proteins.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Charleston SC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2004-03-26</StringDate></StartDate>
+<EventName>University of New Mexico Department of Biology &quot;Unexpected Genetic Diversity in a Putative Antimicrobial Peptide From the Sea Urchin Strongylocentrotus purpuratus.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Albuquerque NM.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2001-04-09</StringDate></StartDate>
+<EventName>Ohio University Department of Biology &quot;The ancestral innate immune system in sea urchins&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Athens OH.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2001-02-08</StringDate></StartDate>
+<EventName>Medical University of South Carolina Department of Microbiology &quot;The ancestral innate immune system in sea urchins&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Charleston SC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2000-11-21</StringDate></StartDate>
+<EventName>George Washington University Medical School Department of Immunology &quot;The ancestral innate immune system in sea urchins&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Washington DC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>St. Mary&apos;s College of Maryland Department of Biology. St. Mary&apos;s City MD &quot;The Sea Urchin Immune System.&quot;</Title>
+<StartDate><StringDate>1996-10-25</StringDate></StartDate>
+<EventName>Georgetown University Department of Biology &quot;The sea urchin immune system: coelomocyte activation gene expression and the evolution of deuterostome immunity.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Washington DC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1996-03-25</StringDate></StartDate>
+<EventName>University of Maryland Center of Marine Biotechnology &quot;Coelomocyte activation and gene expression in sea urchin immune coelomocytes and the evolution of deuterostome immunity.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Baltimore MD.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>at Conferences</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2011-05-01</StringDate></StartDate>
+<EventName>Comparative Immunology and Pathology Workshop &quot;Immune diversity in the purple sea urchin Strongylocentrotus purpuratus.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Edmonton Canada.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Experimental Biology &apos;95 &quot;Sea urchin coelomocytes express a homologue of complement C3 and a putative complement receptor.&quot;</Title>
+<EventName>International Society of Developmental and Comparative Immunology Fifth Congress. Reed College Portland OR. Aug - 9 &quot;A gene (SpCoel) expressed in sea urchin coelomocytes shows an increase in transcripts after immune challenge.&quot;</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1985-01-01</StringDate></StartDate>
+<EventName>Third International Conference on the Biology of Sponges Nov 17-23 &quot;Cellular morphology of Callyspongia diffusa.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Woods Hole MA.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>1983-01-01</StringDate></StartDate>
+<EventName>American Society of Zoology Division of Developmental and Comparative Immunology Dec 27-30 &quot;Cellular reorganization during allograft rejection in the Hawaiian sponge Callyspongia diffusa.&quot;</EventName>
+<EventType>conference</EventType>
+<Location>Philadelphia PA.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2014-01-01</StringDate></StartDate>
+<EventName>International Society of Developmental and Comparative Immunology Third Congress. UCLA Los Angeles CA. Aug 1983. &quot;Transplantation Immunity in the Hawaiian sponge Callyspongia diffusa.&quot;</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>MEETING ORGANIZER SESSION CHAIR</Title>
+<EventName>Session Co-Chair: &quot;Pattern Recognition Molecules and Immune Sensors of Pathogens.&quot; International Society of Developmental and Comparative Immunology</EventName>
+<EventType>conference</EventType>
+<Location>11th Congress. Prague Czech Republic</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Symposium organizer and chair: &quot;Diversity in Innate Immunity.&quot; International Society of Developmental and Comparative Immunology 10th Congress July - 6</EventName>
+<EventType>conference</EventType>
+<Location>Charleston SC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Session Co-chair &quot;The Complement System.&quot; International Society of Developmental and Comparative Immunology 9th Congress. St  Andrews Scotland.</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Session Co-Chair: &quot;Evolution of the Complement System.&quot; International Society of Developmental and Comparative Immunology July - 6 2000.</EventName>
+<EventType>conference</EventType>
+<Location>8th Congress Cairns Australia</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2002-01-01</StringDate></StartDate>
+<EventName>Meeting Co-Organizer. NSF Workshop on &quot;Evolutionary Immunobiology: New Approaches New Paradigms.&quot; Medical University of South Carolina Feb 22-25</EventName>
+<EventType>conference</EventType>
+<Location>Charleston SC.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>Meeting Organizer. Mid-Atlantic Society of Developmental and Comparative Immunology August - 7</EventName>
+<EventType>conference</EventType>
+<Location>Washington DC.</Location>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Cancer">
+<CompetencyEvidence name ="Cancer" lastUsed="1983-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Cellular">
+<CompetencyEvidence name ="Cellular" lastUsed="2003-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Diversity">
+<CompetencyEvidence name ="Diversity" lastUsed="2012-01-01">
+<NumericValue description="Range in years of experience">16</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Immunology">
+<CompetencyEvidence name ="Immunology" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">33</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Microbiology">
+<CompetencyEvidence name ="Microbiology" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">11</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pathway">
+<CompetencyEvidence name ="Pathway" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pediatrics">
+<CompetencyEvidence name ="Pediatrics" lastUsed="1980-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Training">
+<CompetencyEvidence name ="Training" lastUsed="1986-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>and OTHER AFFILIATIONS</Name>
+</Association>
+<Association>
+<Name>International Society of Developmental and Comparative Immunology.</Name>
+<StartDate>
+<AnyDate>1983-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Secretary of Education and Member of the Executive Board, International Society of Developmental and Comparative Immunology.</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Editorial Board, Developmental and Comparative Immunology</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>Editorial Board, Invertebrate Survival Jounal</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>American Association for the Advancement of Science.</Name>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Golden Key National Honor Society, Honorary Member.  (Invitation for membership was extended by GWU undergraduates and was based on outstanding teaching.)</Name>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>External Advisory Committee for The Center for Evolutionary and Theoretical Immunology</Name>
+</Association>
+<Association>
+<Name>an NIH funded COBRE program.</Name>
+</Association>
+<Association>
+<Name>Department of Biological Sciences, University of New Mexico.</Name>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Association for Women in Science.</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Ad-Hoc Reviewer</Name>
+</Association>
+<Association>
+<Name>Grant Proposals:</Name>
+</Association>
+<Association>
+<Name>National Science Foundation (Signal Transduction Panel</Name>
+</Association>
+<Association>
+<Name>Self Recognition, Defense and Symbiosis Panel), NIH (Vector Biology Panel), NIST, European Science Foundation, Welcome Trust, US-Israel Bination Science Foundation, Australian Research Council, Maryland Sea Grant, California Sea Grant</Name>
+</Association>
+<Association>
+<Name>Journal Manuscripts:</Name>
+</Association>
+<Association>
+<Name>Aquaculture, Biological Bulletin, Biotechniques, Cell Motility and the Cytoskeleton, Comparative Biochemistry and Physiology, Developmental and Comparative Immunology, EMBO Journal, European Journal of Biochemistry, European Journal of Cell Biology, Fish and Shellfish Immunology, Gene, Genome Research, Glycobiology, Immunogenetics, Integrative and Comparative Biology, Invertebrate Biology, Journal of Immunology, Physiological Genomics, PLoS ONE, Proceedings of the National Academy of Science, Journal of Invertebrate Pathology, Nature Reviews Immunology, Quarterly Review of Biology</Name>
+</Association>
+<Association>
+<Name>STUDENTS and RESEARCH ASSOCIATES</Name>
+</Association>
+<Association>
+<Name>Visiting Research Scientists</Name>
+</Association>
+<Association>
+<Name>Paul S.</Name>
+</Association>
+<Association>
+<Name>Gross Ph.D.</Name>
+</Association>
+<Association>
+<Name>Medical University of South Carolina.</Name>
+</Association>
+<Association>
+<Name>Eleanor F.</Name>
+</Association>
+<Association>
+<Name>Shepard Ph.D.</Name>
+</Association>
+<Association>
+<Name>Dept of Nat.</Name>
+</Association>
+<Association>
+<Name>Res.</Name>
+</Association>
+<Association>
+<Name>David Raftos Ph.D.</Name>
+</Association>
+<Association>
+<Name>Macquarie University Australia.</Name>
+<StartDate>
+<AnyDate>1999-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-06-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Sabbatical leave</Name>
+<StartDate>
+<AnyDate>2003-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-06-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Margaret Stevens Ph.D.</Name>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-07-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Ripon College Wisconsin.</Name>
+</Association>
+<Association>
+<Name>Sabbatical leave</Name>
+<StartDate>
+<AnyDate>2001-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-12-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Jacques Robert Ph.D.</Name>
+</Association>
+<Association>
+<Name>University of Rochester.</Name>
+</Association>
+<Association>
+<Name>Trudy Gillevet MS.</Name>
+</Association>
+<Association>
+<Name>Northern Virginia Community College.</Name>
+<StartDate>
+<AnyDate>2005-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-06-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Sham V.</Name>
+</Association>
+<Association>
+<Name>Nair Ph.D.</Name>
+</Association>
+<Association>
+<Name>Macquarie University.</Name>
+</Association>
+<Association>
+<Name>Avis Cohen Ph.D.</Name>
+</Association>
+<Association>
+<Name>University of Maryland.</Name>
+</Association>
+<Association>
+<Name>Sabbatical leave</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-12-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>John Henson Ph.D.</Name>
+</Association>
+<Association>
+<Name>Dickinson College.</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-07-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Post Doctoral Research Associates</Name>
+</Association>
+<Association>
+<Name>Paul S.</Name>
+</Association>
+<Association>
+<Name>Gross Ph.D.</Name>
+<StartDate>
+<AnyDate>summers of 1996-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Sham V.</Name>
+</Association>
+<Association>
+<Name>Nair Ph.D.</Name>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Tushini V.</Name>
+</Association>
+<Association>
+<Name>de Soyza Ph.D.</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Virginia Brockton Ph.D.</Name>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Young-Ok Kim Ph.D.</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Katherine M.</Name>
+</Association>
+<Association>
+<Name>Buckley, PhD 2008</Name>
+</Association>
+<Association>
+<Name>Sandro Sacchi, PhD</Name>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Limei Qiu, PhD</Name>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>visiting from the Chinese Academy of Science</Name>
+</Association>
+<Association>
+<Name>Graduate Students Director:</Name>
+</Association>
+<Association>
+<Name>Dissertations</Name>
+</Association>
+<Association>
+<Name>Lori Clow Genetics  Ph.D.</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>David Terwilliger Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Katherine Buckley Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Audrey Majeske Biology  Doctoral Candidate</Name>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Julie Ghosh Biology  Doctoral Candidate</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Cheng Man (Bonnie) Lun Biology  Doctoral Student Co-Director:</Name>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Dissertations</Name>
+</Association>
+<Association>
+<Name>Lawrence Lantz Genetics  Ph.D.</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Paul Kreibel Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Director: Theses</Name>
+</Association>
+<Association>
+<Name>Walid Al-Sharif Genetics  M.Ph.</Name>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Megha Shah Biology  M.S.</Name>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Keri (Fisher) Multerer Genetics  M.S.</Name>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Priya Moorjani Genomics/Bioinf  M.S.</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Chase Miller Genomics/Bioinf  M.S.</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Catherine Schrankel Biology  M.S.</Name>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>(BS/MS program)</Name>
+</Association>
+<Association>
+<Name>Visiting Graduate Students</Name>
+</Association>
+<Association>
+<Name>Chun Li Univ of Norway</Name>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Evelina Bertolotti Univ of Modena</Name>
+<EndDate>
+<AnyDate>2011-04-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>&amp; Reggio Emilia</Name>
+</Association>
+<Association>
+<Name>Modena Italy</Name>
+</Association>
+<Association>
+<Name>Graduate Committee Membership</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Dorothy Phuong-My Trinh Genetics  Ph.D.</Name>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Daoud Meerzamen Genetics 1997 Ph.D.</Name>
+</Association>
+<Association>
+<Name>Di Jiang Genetics 1998 Ph.D.</Name>
+</Association>
+<Association>
+<Name>Maxine Lesniak Genetics  M.S.</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Cathleen Coss Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Rachel Poltilove Genetics  Ph.D.</Name>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Masoumeh Assadi Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Ginny Emmerson Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Miriam Darnell Genetics  Ph.D.</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Tulin Olcom Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Kathi Beutler Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Nathaniel Brittain Genetics/NIH  Ph.D.</Name>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Jessica Shockey Medical Univ SC  Ph.D.</Name>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Elizabeth Overland Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>student</Name>
+</Association>
+<Association>
+<Name>Rachel Truhan Biology  M.S.</Name>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Tara Scully Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>student</Name>
+</Association>
+<Association>
+<Name>Paaqua Grant Biology  Ph.D.</Name>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Candidate</Name>
+</Association>
+<Association>
+<Name>Rotation Graduate Students</Name>
+</Association>
+<Association>
+<Name>Jennifer Solomon GWIBS Oncology summer 1998</Name>
+</Association>
+<Association>
+<Name>Chase Miller Genomics/Bioinf spring 2008</Name>
+</Association>
+<Association>
+<Name>Christopher Rees Genomics/Bioinf spring 2008</Name>
+</Association>
+<Association>
+<Name>Research Technicians</Name>
+</Association>
+<Association>
+<Name>Claudio Guttman, Laboratory Research Technician</Name>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>G. Pat Riordan, Manager, Sequencing Facility for the Biological Sciences</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Rebecca Easley, Laboratory Research Technician</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Undergraduate Students 1REU</Name>
+</Association>
+<Association>
+<Name>NSF Research Experience for Undergraduates.</Name>
+</Association>
+<Association>
+<Name>2SURF: Summer Undergraduate Research Fellow at Caltech.</Name>
+</Association>
+<Association>
+<Name>*Co-author on a publication) Caltech:</Name>
+</Association>
+<Association>
+<Name>Mike Graham 1985</Name>
+</Association>
+<Association>
+<Name>Ali Lashgari 1986</Name>
+</Association>
+<Association>
+<Name>John Bowers2 2SURF: 1988</Name>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Aaron Petty SURF: 1992</Name>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Lily Chang* SURF: 1994</Name>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Charles Lee1,2  SURF 1994, 1REU 1995</Name>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>George Washington University:</Name>
+</Association>
+<Association>
+<Name>Chie-Schin Shih1*  REU 1996, Special Honors in Biol, May 1997</Name>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Sebastian Dachenhausen*  Special Honors in Biol, May 1997</Name>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>David Lima</Name>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Lee Heiman fall 1997</Name>
+</Association>
+<Association>
+<Name>Mary Ann McYat1  REU 1998</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Susan Pesci1  REU 1999, Special Honors in Biol, May 2000</Name>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Sabina Siddiqui1 summer 1999 REU 1999</Name>
+</Association>
+<Association>
+<Name>Sohum Mehta</Name>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Valle*</Name>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Megan Dixon</Name>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Jonathan Mendelson  HHMI Fellowship, summer 2004</Name>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>George Gamow Fellowship, summer 2005</Name>
+</Association>
+<Association>
+<Name>Lindsay Edwards</Name>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Jason Powlowski summer 2006</Name>
+</Association>
+<Association>
+<Name>Caroline Rosa fall 2006</Name>
+</Association>
+<Association>
+<Name>Khin Sone spring 2007</Name>
+</Association>
+<Association>
+<Name>Katie Zaleske spring 2007</Name>
+</Association>
+<Association>
+<Name>Wei-Sern Cheah spring 2007</Name>
+</Association>
+<Association>
+<Name>Charles Ziscovici summer 2007</Name>
+</Association>
+<Association>
+<Name>Praveen Savalgi  HHMI Fellowship, summer 2007</Name>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Laila Ghauri</Name>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Elizabeth Hoye summer 2008 NSF REU student from U Wisc Madison</Name>
+</Association>
+<Association>
+<Name>Catherine Schrankel  HHMI Fellowship, summer 2008</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Enosinian Scholar Program</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Enosinian Honors, May 2009</Name>
+</Association>
+<Association>
+<Name>Taylor Gould summer, fall 2009</Name>
+</Association>
+<Association>
+<Name>Lauren Canary  Enosinian Scholar Program</Name>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Enosinian Honors, May 2011</Name>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Lauren Sherman  Luther Rice Award</Name>
+<StartDate>
+<AnyDate>2010-10-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Harlan Undergraduate Summer Scholarship, summer 2011</Name>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Hung-Yen (Peter) Chou</Name>
+<StartDate>
+<AnyDate>2010-10-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Preethi Golconda</Name>
+<StartDate>
+<AnyDate>2011-07-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Medical Students</Name>
+</Association>
+<Association>
+<Name>Chie-Schin Shih* summer 1998 GWU Med School, Gill Award for summer research</Name>
+</Association>
+<Association>
+<Name>Dhruti Mehta* summer 2002 Howard University Medical School</Name>
+</Association>
+<Association>
+<Name>High School Students</Name>
+</Association>
+<Association>
+<Name>Nicole Ritter* summers 2003, 2004 Plainfield HS, Indiana</Name>
+</Association>
+<Association>
+<Name>Monica Stone  Academy of the Sciences, Sterling VA</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Maha Hassan  George C.</Name>
+<StartDate>
+<AnyDate>2011-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Marshall HS, Falls Church VA</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TC4gQ291cnRuZXkgU21pdGgsIEN1cnJpY3VsdW0gVml0YQ0KRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzDQpHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5DQoNCg0KDQoNCg0KTElaQkVUSCBDT1VSVE5FWSBTTUlUSA0KRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzDQozNDAgTGlzbmVyIEhhbGwsIEdlb3JnZSBXYXNoaW5ndG9uIFVuaXZlcnNpdHkNCjIwMjMgRyBTdC4gTlcsIFdhc2hpbmd0b24gREMgMjAwNTINCk9mZmljZTogMjAyLTk5NC05MjExICAgIExhYjogMjAyLTk5NC05MzI1ICAgIEZheDogMjAyLTk5NC02MTAwICAgIGNzbWl0aEBnd3UuZWR1DQp3ZWIgcGFnZTogIEhZUEVSTElOSyAiaHR0cDovL3d3dy5nd3UuZWR1L35iaW9sb2d5L2ZhY3VsdHkvc21pdGguY2ZtIiBodHRwOi8vd3d3Lmd3dS5lZHUvfmJpb2xvZ3kvZmFjdWx0eS9zbWl0aC5jZm0NCg0KRURVQ0FUSU9ODQpQaC5ELg0KMy8xOTg1DQpJbW11bm9sb2d5DQpVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEsIExvcyBBbmdlbGVzDQoNCk0uUy4NCjYvMTk3Ng0KWm9vbG9neQ0KVW5pdmVyc2l0eSBvZiBNaW5uZXNvdGEgDQoNCkIuQS4NCjUvMTk3NA0KQmlvbG9neQ0KRHJha2UgVW5pdmVyc2l0eSANCg0KDQpQUk9GRVNTSU9OQUwgUE9TSVRJT05TIA0KMjAwNy1wcmVzZW50IFByb2Zlc3NvciBvZiBCaW9sb2d5LCBHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5DQoyMDAxLTIwMDcgQXNzb2NpYXRlIFByb2Zlc3NvciBvZiBCaW9sb2d5LCBHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5DQoxOTk1LTIwMDEgQXNzaXN0YW50IFByb2Zlc3NvciBvZiBCaW9sb2d5LCBHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5DQoxOTk1IE1lbWJlciwgUHJvZmVzc2lvbmFsIFN0YWZmLCBEaXZpc2lvbiBvZiBCaW9sb2d5LCBDYWx0ZWNoDQoxOTkxLTE5OTUgQXNzb2NpYXRlIFN0YWZmIFJlc2VhcmNoIEJpb2xvZ2lzdCwgRGl2aXNpb24gb2YgQmlvbG9neSwgQ2FsdGVjaA0KMTk3Ny0xOTgwIEVsZWN0cm9uIE1pY3Jvc2NvcGlzdCwgRGVwdCBvZiBQZWRpYXRyaWNzLCBVbml2ZXJzaXR5IG9mIE1pbm5lc290YSwgU2NoIG9mIE1lZA0KMTk3Ni0xOTc3IEVsZWN0cm9uIE1pY3Jvc2NvcGlzdCwgRGVwYXJ0bWVudCBvZiBFbnRvbW9sb2d5LCBVbml2ZXJzaXR5IG9mIE1pbm5lc290YQ0KDQpQb3N0IEdyYWR1YXRlIFRyYWluaW5nDQoxOTg4LTE5OTEgU2VuaW9yIFBvc3Rkb2N0b3JhbCBSZXNlYXJjaCBGZWxsb3csIERpdmlzaW9uIG9mIEJpb2xvZ3ksIENhbHRlY2gNCjE5ODUtMTk4OCBQb3N0ZG9jdG9yYWwgUmVzZWFyY2ggRmVsbG93LCBEaXZpc2lvbiBvZiBCaW9sb2d5LCBDYWx0ZWNoDQoxOTgwLTE5ODUgUG9zdGdyYWR1YXRlIFJlc2VhcmNoZXIsIERlcHQgb2YgTWljcm8gJiBJbW11bm9sLCBVQ0xBIFNjaG9vbCBvZiBNZWRpY2luZQ0KMTk4MS0xOTgyIFRlYWNoaW5nIEFzc2lzdGFudCwgRGVwdCBvZiBNaWNybyAmIEltbXVub2wsIFVDTEEgU2Nob29sIG9mIE1lZGljaW5lDQoxOTc1LTE5NzYgVGVhY2hpbmcgQXNzaXN0YW50LCBEZXBhcnRtZW50IG9mIFpvb2xvZ3ksIFVuaXZlcnNpdHkgb2YgTWlubmVzb3RhDQoNCkFkanVuY3QgUG9zaXRpb25zDQoyMDAwLXByZXNlbnQgQWRqdW5jdCwgRGVwdCBvZiBJbW11bm9sb2d5LCBHV1UgTWVkaWNhbCBTY2hvb2wNCjIwMDQtcHJlc2VudCBBZGp1bmN0LCBHcmFkdWF0ZSBQcm9ncmFtcyBpbiAxKSBHZW5ldGljcyBhbmQgTW9sZWN1bGFyIE1lZGljaW5lLCANCiAgMikgTWljcm9iaW9sb2d5IEltbXVub2xvZ3kgYW5kIGFuZCBUcm9waWNhbCBNZWRpY2luZSwgR1cgSW5zdCBCaW9tZWQgU2NpDQoxOTk2LTIwMDQgQWRqdW5jdCwgR3JhZHVhdGUgUHJvZ3JhbXMgaW4gMSkgR2VuZXRpY3MsIDIpIEltbXVub2xvZ3ksIEdXIEluc3QgQmlvbWVkIFNjaQ0KMTk5Ni0xOTk4IEFkanVuY3QsIENlbnRlciBvZiBNYXJpbmUgQmlvdGVjaG5vbG9neSwgVW5pdi4gTWFyeWxhbmQNCg0KT3RoZXIgUHJvZmVzc2lvbmFsIEFmZmlsaWF0aW9ucw0KMjAwOSBWaXNpdGluZyBSZXNlYXJjaGVyLCBNYWNxdWFyaWUgVW5pdmVyc2l0eSwgU3lkbmV5IEF1c3RyYWxpYSAoU2FiYmF0aWNhbCkNCjIwMDQtcHJlc2VudCBJbnN0aXR1dGUgZm9yIFByb3Rlb21pY3MgVGVjaG5vbG9neSBhbmQgQXBwbGljYXRpb25zLCBHV1UNCjIwMDMtMjAwNyBDb21wdXRhdGlvbmFsIE1vbGVjdWxhciBCaW9sb2d5IGFuZCBCaW9pbmZvcm1hdGljcyBXb3JraW5nIEdyb3VwLCBHV1UNCjIwMDItMjAwMyBWaXNpdGluZyBSZXNlYXJjaGVyLCBVbml2IG9mIFBlbm5zeWx2YW5pYSwgU2NoIG9mIFZldGVyaW5hcnkgTWVkIChTYWJiYXRpY2FsKQ0KDQpSRVNFQVJDSCBJTlRFUkVTVFMNCkNvbXBhcmF0aXZlIEltbXVub2xvZ3kNCkN1cnJlbnQgUmVzZXNhcmNoIChhbmQgcG9zdGRvY3RvcmFsIHJlc2VhcmNoIHdpdGggRXJpYyBEYXZpZHNvbiwgQ2FsdGVjaCkNCklubmF0ZSBJbW11bmUgRGl2ZXJzaXR5LCBTZWEgVXJjaGluIEltbXVub2xvZ3ksIEV2b2x1dGlvbiBvZiB0aGUgZGV1dGVyb3N0b21lIGltbXVuZSBzeXN0ZW0sIEltbXVuaXR5IGFuZCBjZWxsdWxhciBkZWZlbnNlIG1lY2hhbmlzbXMgaW4gaW52ZXJ0ZWJyYXRlcw0KRG9jdG9yYWwgUmVzZWFyY2ggKHdpdGggV2lsbGlhbSBIIEhpbGRlbWFubiwgVUNMQSkNCkFsbG9ncmFmdCBSZWplY3Rpb24gS2luZXRpY3MgYW5kIFJlc3BvbnNlcyB0byBJbmp1cnkgaW4gTWFyaW5lIFNwb25nZXMuDQpGVU5ESU5HDQpDdXJyZW50IEF3YXJkcw0KMjAwOC0yMDEyLiAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIChNQ0ItMDc0NDk5OSksIG9uZSB5ZWFyIG5vLWNvc3QgZXh0ZW5zaW9uICANCiAiRGl2ZXJzaXR5IG9mIHRoZSAxODUvMzMzIHN5c3RlbSBhbmQgaW5uYXRlIGltbXVuaXR5IGluIHRoZSBwdXJwbGUgc2VhIHVyY2hpbiINCiBQSTogTC5DLiBTbWl0aCwgJDUyNSwwMDANCjIwMTEtMjAxMi4gIENvbHVtYmlhbiBDb2xsZWdlIEZhY2lsaXRhdGluZyBGdW5kIChpbnRlcm5hbCBHV1UgYXdhcmQpDQoiSG93IHRvIG1ha2UgYW4gaW1tdW5lIHN5c3RlbTogdW5jb3ZlcmluZyB0aGUgb3JpZ2lucyBvZiBpbW11bmUgY2VsbHMgaW4gdGhlIHB1cnBsZSBzZWEgdXJjaGluIg0KIFBJOiBMLiBDb3VydG5leSBTbWl0aCwgQ28tSTogSi4gR2hvc2gsICQyMywwMDANCg0KUHJldmlvdXMgQXdhcmRzDQoyMDA5LTIwMTAuICBDb2x1bWJpYW4gQ29sbGVnZSBGYWNpbGl0YXRpbmcgRnVuZCAoaW50ZXJuYWwgR1dVIGF3YXJkKQ0KICJQcm9kdWN0aW9uIG9mIEltbXVuZSBQcm90ZWlucyBpbiBTaW5nbGUgU2VhIFVyY2hpbiBDZWxscyINCiBQSTogTC4gQ291cnRuZXkgU21pdGgsICQ2LDQ5OA0KMjAwOS0yMDEwLiAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIChJT1MtMDkwNTE5NykNCkludGVybmF0aW9uYWwgVHJhdmVsIGZvciBTdHVkZW50cyBhbmQgUG9zdGRvY3MgdG8gYXR0ZW5kIElTRENJLTExIGluIFByYWd1ZQ0KUEk6IEwuIENvdXJ0bmV5IFNtaXRoLCBDby1QSTogTWFydGluIEZsYWpuaWsgKFVNRCksICQxMCwwMDANCjIwMDgtMjAwOS4gIERpbHRoeSBBd2FyZCAgKEdXVSBpbnRlcm5hbCBmdW5kaW5nIGZvciBjb2xsYWJvcmF0aXZlIHJlc2VhcmNoKQ0KICJNYXRoZW1hdGljYWwgYXBwcm9hY2hlcyB0byB1bmRlcnN0YW5kaW5nIHNlcXVlbmNlIGRpdmVyc2l0eSBnZW5lcmF0ZWQgZHVyaW5nIGdlbmUgZXhwcmVzc2lvbiBpbiB0aGUgaW1tdW5lIHN5c3RlbSBvZiB0aGUgcHVycGxlIHNlYSB1cmNoaW4uIiANCiBDby1QSXM6IEFydGh1ciBSb2JpbnNvbiBQSSAoTWF0aCBEZXB0KSwgTEMgU21pdGggQ28tUEkuICAkOSw1MTENCjIwMDUtMjAwOC4gIEF1c3RyYWxpYW4gUmVzZWFyY2ggQ291bmNpbCAgDQogIkRpdmVyc2l0eSBhbmQgRGVmZW5jZTogQ2hhcmFjdGVyaXNhdGlvbiBvZiBFeHRyZW1lbHkgVmFyaWFibGUgRGVmZW5zaXZlIFByb3RlaW5zIGZyb20gU2VhIFVyY2hpbnMiDQogQ2hpZWYgSW52ZXN0aWdhdG9yOiBEQSBSYWZ0b3MsIE1hY3F1YXJpZSBVbml2ZXJzaXR5LiBQYXJ0bmVyIEludmVzdGlnYXRvcjogTEMgU21pdGgNCiBBVUQkMjEwLDAwMCBkaXJlY3QgY29zdHMgdG8gTWFjcXVhcmllIChVU0QkMTY0LDAwMCkuICANCjIwMDUtMjAwOC4gIEdXVSBQb3N0ZG9jdG9yYWwgU2NpZW50aXN0IEF3YXJkICANCiAiT3JpZ2lucyBhbmQgRXZvbHV0aW9uIG9mIEFkYXB0aXZlIEltbXVuaXR5Ig0KIFBJOiBMQyBTbWl0aDsgcG9zdGRvY3MsIERycy4gViBCcm9ja3RvbiwgWS1PIEtpbSwgSyBCdWNrbGV5LiAgJDg4LDAwMCBkaXJlY3QgY29zdHMNCjIwMDQtMjAwOC4gIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiAoTUNCIDA0MjQyMzUpLCBvbmUgeWVhciBubyBjb3N0IGV4dGVudGlvbiANCiAiVW5leHBlY3RlZCBJbW11bmUgRGl2ZXJzaXR5IGluIHRoZSBQdXJwbGUgU2VhIFVyY2hpbiINCiBQSTogTEMgU21pdGgsIENvLVBJOiBEQSBSYWZ0b3MsIE1hY3F1YXJpZSBVbml2ZXJzaXR5LCBTeWRuZXkgQXVzdHJhbGlhDQogJDU1MCwwMDAgaW5jbHVkaW5nIHN1Yi1hd2FyZCB0byBNYWNxdWFyaWUgVW5pdmVyc2l0eQ0KMjAwMC0yMDA0LiAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uICAoTUNCIDAwNzc5NzApIA0KICJUaGUgQW5jaWVudCBJbm5hdGUgSW1tdW5lIFN5c3RlbSBpbiBTZWEgVXJjaGlucyINCiBEZXBhcnRtZW50IG9mIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIEdlb3JnZSBXYXNoaW5ndG9uIFVuaXZlcnNpdHkNCiBQSTogTEMgU21pdGgsICQ1MDcsMzEzIA0KU3VwcGxlbWVudDogUmVzZWFyY2ggT3Bwb3J0dW5pdHkgQXdhcmQsIDIwMDEtMjAwMg0KIERyLiBNYXJnYXJldCBTdGV2ZW5zLCBSaXBvbiBDb2xsZWdlLCBDby1JIChzYWJiYXRpY2FsIGxlYXZlIGZvciBTdGV2ZW5zIHRvIHZpc2l0IEdXKQ0KIlRoZSBBbmNpZW50IEltbXVuZSBTeXN0ZW0gaW4gU2VhIFVyY2hpbnMiIC0gaW52ZXN0aWdhdGlvbnMgb2YgYSBjZWxsIHN1cmZhY2UgcmVjZXB0b3IgYW5kIGNsb3R0aW5nIGZhY3RvcnMNClN1cHBsZW1lbnQ6IChzYWJiYXRpY2FsIGxlYXZlIHRvIGdvIHRvIFUgUGVubiksIDIwMDItMjAwMw0KIENvLUludmVzdGlnYXRvciwgRHIuIEouIE9yaW9sIFN1bnllciwgVmV0ZXJpbmFyeSBNZWRpY2luZSwgVW5pdmVyc2l0eSBvZiBQZW5uc3lsdmFuaWENCiAiQWN0aXZhdGlvbiBhbmQgcmVndWxhdGlvbiBvZiB0aGUgYWx0ZXJuYXRpdmUgcGF0aHdheSBvZiBjb21wbGVtZW50IGluIHRoZSBzZWEgdXJjaGluIg0KMjAwMy0yMDA0LiAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uICAoTVVFLTAzMDMxNDMpIA0KTXVsdGktdXNlciBFcXVpcG1lbnQ6ICJDYXBpbGxhcnkgU2VxdWVuY2VyIGZvciB0aGUgR2VvcmdlIFdhc2hpbmd0b24gVW5pdmVyc2l0eSBDYW1wdXMiDQogUElzOiBNVyBBbGxhcmQ6IENvLVBJcywgTC5DLiBTbWl0aCwgUC4gSGVyZW5kZWVuLCBHLiBIb3JtaWdhLCBGLiBUdXJhbm8NCiAkOTAsNTg4IHBsdXMgJDM4LDAwMCBtYXRjaGluZyBmdW5kcyBmcm9tIEdXVQ0KIERpcmVjdG9yIG9mIHRoZSBCaW9sb2d5IFNlcXVlbmNpbmcgRmFjaWxpdHksIExDIFNtaXRoLCAyMDAzIHRvIHByZXNlbnQNCjIwMDEtMjAwMi4gIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiwgTWVldGluZyBTdXBwb3J0ICANCiAiRXZvbHV0aW9uYXJ5IEltbXVub2Jpb2xvZ3k6IE5ldyBBcHByb2FjaGVzLCBOZXcgUGFyYWRpZ21zIg0KIFBJLCBEci4gR3JlZyBXYXJyLiBDby1QSSwgUiBDaGFwbWFuLCBMQyBTbWl0aC4gIE1lZGljYWwgVW5pdmVyc2l0eSBvZiBTb3V0aCBDYXJvbGluYQ0KICQyNiwwMDAgdG8gTVVTQw0KMTk5Ny0yMDAxLiAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIChNQ0IgOTYwMzA4NikgIA0KICJUaGUgQ29tcGxlbWVudCBTeXN0ZW0gaW4gU2VhIFVyY2hpbnMgYW5kIHRoZSBFdm9sdXRpb24gb2YgdGhlIFZlcnRlYnJhdGUgQ29tcGxlbWVudCBDYXNjYWRlcyINCiBQSTogTEMgU21pdGgsICQyODksNzM5DQpTdXBwbGVtZW50cyANCiBSRVUgMTk5Ny0yMDAwDQogU3VwcGxlbWVudCwgRHIuIFBhdWwgUy4gR3Jvc3MsIENvLUksIDE5OTgtMTk5OQ0KIkV4cHJlc3Npb24gb2YgdGhlIHNlYSB1cmNoaW4gY29tcGxlbWVudCBjb21wb25lbnQsIFNwQzMsIGR1cmluZyBlYXJseSBkZXZlbG9wbWVudCINCjE5OTMtMTk5Ny4gIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiAoTUNCIDkyMTkzMzApICANCiAiQ29lbG9tb2N5dGUgQWN0aXZhdGlvbiBhbmQgdGhlIFNlYSBVcmNoaW4gSW1tdW5lIFN5c3RlbSINCiBEaXZpc2lvbiBvZiBCaW9sb2d5LCBDYWxpZm9ybmlhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5OyBFcmljIERhdmlkc29uLCBDby1JDQogVHJhbnNmZXJyZWQgdG8gR2VvcmdlIFdhc2hpbmd0b24gVW5pdmVyc2l0eSwgQXVnLiAxOTk1DQogUEk6IExDIFNtaXRoLCAkMzI3LDI2Ng0KICBTdXBwbGVtZW50OiBSRVUgc3VtbWVyIDE5OTUNCjE5OTYtMTk5Ny4gIE9hayBSaWRnZSBBc3NvY2lhdGVkIFVuaXZlcnNpdGllcyAgDQogIlRoZSBQcmltaXRpdmUgQ29tcGxlbWVudCBTeXN0ZW0gaW4gU2VhIFVyY2hpbnMiDQogUEk6IExDIFNtaXRoLCAkMTAsMDAwDQoxOTk2LTE5OTcuICBHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5IEZhY2lsaXRhdGluZyBGdW5kICAoR1dVIGludGVybmFsIGZ1bmRpbmcpDQogIkEgQ2VsbCBTdXJmYWNlIFJlY2VwdG9yIG9uIFNlYSBVcmNoaW4gSW1tdW5lIENlbGxzIg0KIFBJOiBMQyBTbWl0aCwgJDEzLDgwMA0KMTk5Ni4gIEdlb3JnZSBXYXNoaW5ndG9uIFVuaXYgSnVuaW9yIFNjaG9sYXIgRW5oYW5jZW1lbnQgRnVuZCAgKEdXVSBpbnRlcm5hbCBmdW5kaW5nKQ0KICJBIFB1dGF0aXZlIENvbXBsZW1lbnQgUmVjZXB0b3IvUmVndWxhdG9yeSBQcm90ZWluIEV4cHJlc3NlZCBieSBTZWEgVXJjaGluIEltbXVuZSBDZWxscyINCiBQSTogTEMgU21pdGgsICQ1LDAwMA0KDQpPdGhlciBBd2FyZHMNCjIwMDctMjAxMCBQYXJ0aWNpcGF0aW5nIGZhY3VsdHkuICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gIlJFVSBTaXRlOiBNb2xlY3VsYXIgQmlvbG9neSwgQmlvaW5mb3JtYXRpY3MsIGFuZCBCaW9tYXRlcmlhbHMiLiAgUEk6IFIuIERvbmFsZHNvbg0KMjAwNi0yMDA5IFBhcnRpY2lwYXRpbmcgZmFjdWx0eS4gIEdlb3JnZSBXYXNoaW5ndG9uIFVuaXZlcnNpdHkgU2VsZWN0aXZlIEV4Y2VsbGVuY2UgQXdhcmQsIFRoZSBSb2JlcnQgV2VpbnRyYXViIEdyYWR1YXRlIFByb2dyYW0gIkRpc2NvdmVyaW5nIGFuZCBpbnRlcnByZXRpbmcgdGhlIGRpdmVyc2l0eSBvZiBsaWZlOiB0aGUgY2hhbGxlbmdlIG9mIHN1cGVyYWJ1bmRhbnQgZGF0YS4iICANCjIwMDYtMjAwOSBQYXJ0aWNpcGF0aW5nIGZhY3VsdHkuICBHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5IFNlbGVjdGl2ZSBFeGNlbGxlbmNlIEF3YXJkLCBJbnN0aXR1dGUgZm9yIFByb3Rlb21pY3MgVGVjaG5vbG9neSBhbmQgQXBwbGljYXRpb25zLiAgIlJlc2VhcmNoIGluIFN5c3RlbXMgQmlvbG9neTogVmlydXMgLSBIb3N0IEludGVyYWN0aW9ucy4iICANCjIwMDUtMjAxMSBQYXJ0aWNpcGF0aW5nIGZhY3VsdHkuICBHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5IFJlc2VhcmNoIEVuaGFuY2VtZW50IEZ1bmQuICBUaGUgUm9iZXJ0IFdlaW50cmF1YiBSZXNlYXJjaCBQcm9ncmFtIGluIFN5c3RlbWF0aWNzIGFuZCBFdm9sdXRpb24uIA0KRmFsbCAxOTk5IFRlYWNoaW5nIHJlbGVhc2UgZm9yIHRoZSBwdXJwb3NlIG9mIGdyYW50IHdyaXRpbmcuICBDb2x1bWJpYW4gQ29sbGVnZSBvZiBBcnRzIGFuZCBTY2llbmNlcywgR2VvcmdlIFdhc2hpbmd0b24gVW5pdmVyc2l0eQ0KMTk4OS0xOTkyIFBvc3QgZG9jIHN1cHBvcnQuICBMdWNpbGxlIFAuIE1hcmtleSBDaGFyaXRhYmxlIFRydXN0IEdyYW50LCBEaXZpc2lvbiBvZiBCaW9sb2d5LCBDYWx0ZWNoLiAgUEksIEVIIERhdmlkc29uDQoxOTg2LTE5ODcgUG9zdCBkb2Mgc3VwcG9ydC4gIE1vbGVjdWxhciBTdHVkaWVzIGluIEV2b2x1dGlvbiwgQWxmcmVkIFAuIFNsb2FuIEZvdW5kYXRpb24sIERpdmlzaW9uIG9mIEJpb2xvZ3ksIENhbHRlY2guICBQSSwgRUggRGF2aWRzb24NCjE5ODUtMTk4NiBQb3N0IGRvYyBzdXBwb3J0LiAgR2VuZXRpY3MgVHJhaW5pbmcgR3JhbnQsIE5hdGlvbmFsIEluc3RpdHV0ZXMgb2YgSGVhbHRoLCBEaXZpc2lvbiBvZiBCaW9sb2d5LCBDYWx0ZWNoDQoxOTgxLTE5ODMgR3JhZHVhdGUgcmVzZWFyY2ggc3VwcG9ydC4gIFR1bW9yIEltbXVub2xvZ3kgVHJhaW5pbmcgR3JhbnQsIE5hdGlvbmFsIENhbmNlciBJbnN0aXR1dGUsIERlcGFydG1lbnQgb2YgTWljcm9iaW9sb2d5IGFuZCBJbW11bm9sb2d5LCBVQ0xBDQoNClBVQkxJQ0FUSU9OUyAoNTMgdG90YWwpDQpQZWVyIFJldmlld2VkDQozMi4gTWlsbGVyLCBDLkEuLCBLLk0uIEJ1Y2tsZXksIFIuTC4gRWFzbGV5LCBMLkMuIFNtaXRoLiAgMjAxMC4gIEFuIFNwMTg1LzMzMyBnZW5lIGNsdXN0ZXIgZnJvbSB0aGUgcHVycGxlIHNlYSB1cmNoaW4gYW5kIHB1dGF0aXZlIG1pY3Jvc2F0ZWxsaXRlLW1lZGlhdGVkIGdlbmUgZGl2ZXJzaWZpY2F0aW9uLiAgQk1DIEdlbm9taWNzLCAxMTo1NzUuDQozMS4gU3RldmVucywgTS5FLiwgSi4gRGhpbGxvbiwgQy4gTWlsbGVyLCBDLiBNZXNzaWVyLVNvbGVrLCBKLlAuIFJhc3QsIEEuSi4gTWFqZXNrZSwgRC4gWnVlbGtlLCBMLkMuIFNtaXRoLiAgMjAxMC4gIFNwVGllMS8yIGZyb20gdGhlIHNlYSB1cmNoaW4gU3Ryb25neWxvY2VudHJvdHVzIHB1cnB1cmF0dXMsIGlzIGFuIG9ydGhvbG9ndWUgb2YgdmVydGVicmF0ZSBUaWUxIGFuZCBUaWUyIGFuZCBpcyBleHByZXNzZWQgaW4gY29lbG9tb2N5dGVzLCBheGlhbCBvcmdhbiBhbmQgZW1icnlvcy4gIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIDM0KDgpOjg4NC04OTUuDQozMC4gTGksIEMuLCBILU0uIEJsZW5ja2UsIEwuQy4gU21pdGgsIE0uVC4gS2FycCwgSy4gU3RlbnN2w6VnLiAgMjAxMC4gIFR3byByZWNvbWJpbmFudCBwZXB0aWRlcywgU3BTdHJvbmd5bG9jaW5zIDEgYW5kIDIsIGZyb20gU3Ryb25neWxvY2VudHJvdHVzIHB1cnB1cmF0dXMsIHNob3cgYW50aW1pY3JvYmlhbCBhY3Rpdml0eSBhZ2FpbnN0IEdyYW0tcG9zaXRpdmUgYW5kIEdyYW0tbmVnYXRpdmUgYmFjdGVyaWEuICBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5LCAzNCgzKToyODYtMjkyLg0KMjkuIEJ1Y2tsZXksIEsuTS4sIEwuIEZsb3JlYSAmIEwuQy4gU21pdGguICAyMDA5LiAgQSBtZXRob2QgZm9yIGlkZW50aWZ5aW5nIGFsdGVybmF0aXZlIG9yIGNyeXB0aWMgc3BsaWNlIHNpdGVzIHdpdGhpbiBnZW5lIGFuZCBtUk5BIHNlcXVlbmNlcy4gIENvbXBhcmlzb25zIGFtb25nIHNlcXVlbmNlcyBmcm9tIHZlcnRlYnJhdGVzLCBlY2hpbm9kZXJtcyBhbmQgb3RoZXIgZ3JvdXBzLiAgQk1DIEdlbm9taWNzLCAxMDozMTguDQoyOC4gRGhlaWxseSwgTi5NLiwgUy5WLiBOYWlyLCBMLkMuIFNtaXRoICYgRC5BLiBSYWZ0b3MuICAyMDA5LiAgSGlnaGx5IHZhcmlhYmxlIGltbXVuZSByZXNwb25zZSBwcm90ZWlucyAoMTg1LzMzMykgZnJvbSB0aGUgc2VhIHVyY2hpbiBTdHJvbmd5bG9jZW50cm90dXMgcHVycHVyYXR1czogcHJvdGVvbWljIGFuYWx5c2VzIGlkZW50aWZpZXMgZGl2ZXJzaXR5IHdpdGhpbiBhbmQgYmV0d2VlbiBpbmRpdmlkdWFscy4gIEpvdXJuYWwgb2YgSW1tdW5vbG9neSAxODI6MjIwMy0yMjEyLg0KMjcuIEJ1Y2tsZXksIEsuTS4sIEQuUC4gVGVyd2lsbGlnZXIgJiBMLkMuIFNtaXRoLiAgMjAwOC4gIFNlcXVlbmNlIHZhcmlhdGlvbnMgaW4gMTg1LzMzMyBtZXNzYWdlcyBmcm9tIHRoZSBwdXJwbGUgc2VhIHVyY2hpbiBzdWdnZXN0IHBvc3QtdHJhbnNjcmlwdGlvbmFsIG1vZGlmaWNhdGlvbnMgdG8gaW5jcmVhc2UgaW1tdW5lIGRpdmVyc2l0eS4gIEpvdXJuYWwgb2YgSW1tdW5vbG9neSAxODE6ODU4NS04NTk0Lg0KMjYuIEJ1Y2tsZXksIEsuTS4sIFMuIE11bnNoYXcsIFQuQi4gS2VwbGVyICYgTC5DLiBTbWl0aC4gIDIwMDguICBUaGUgMTg1LzMzMyBnZW5lIGZhbWlseSBpcyBhIHJhcGlkbHkgZGl2ZXJzaWZ5aW5nIGhvc3QtZGVmZW5zZSBnZW5lIGNsdXN0ZXIgaW4gdGhlIHB1cnBsZSBzZWEgdXJjaGluLCBTdHJvbmd5bG9jZW50cm90dXMgcHVycHVyYXR1cy4gIEpvdXJuYWwgb2YgTW9sZWN1bGFyIEJpb2xvZ3kgMzc5OjkxMi05MjguDQoyNS4gQnJvY2t0b24gVi4sIEouSC4gSGVuc29uLCBELkEuIFJhZnRvcywgQS5KLiBNYWplc2tlLCBZLU8uIEtpbSAmIEwuQy4gU21pdGguICAyMDA4LiAgTG9jYWxpemF0aW9uIGFuZCBkaXZlcnNpdHkgb2YgMTg1LzMzMyBwcm90ZWlucyBmcm9tIHRoZSBwdXJwbGUgc2VhIHVyY2hpbiwgU3Ryb25neWxvY2VudHJvdHVzIHB1cnB1cmF0dXMgKFN0aW1wc29uKTsgdW5leHBlY3RlZCBwcm90ZWluIHNpemUgcmFuZ2UgYW5kIGV4cHJlc3Npb24gaW4gYSBuZXcgY29lbG9tb2N5dGUgdHlwZS4gIEpvdXJuYWwgb2YgQ2VsbCBTY2llbmNlIDEyMTozMzktMzQ4LiAgKENvdmVyIGltYWdlLCBGZWIgMSwgMjAwOC4pDQoyNC4gQnVja2xleSwgSy5NLiAmIEwuQy4gU21pdGguICAyMDA3LiAgRXh0cmFvcmRpbmFyeSBkaXZlcnNpdHkgYW1vbmcgbWVtYmVycyBvZiB0aGUgbGFyZ2UgZ2VuZSBmYW1pbHksIDE4NS8zMzMsIGZyb20gdGhlIHB1cnBsZSBzZWEgdXJjaGluLCBTdHJvbmd5bG9jZW50cm90dXMgcHVycHVyYXR1cy4gIEJNQyBNb2xlY3VsYXIgQmlvbG9neSA4OjY4Lg0KMjMuIFRlcndpbGxpZ2VyLCBELlAuLCBLLk0uIEJ1Y2tsZXksIFYuIEJyb2NrdG9uLCBOLkouIFJpdHRlciAmIEwuQy4gU21pdGguICAyMDA3LiAgRGlzdGluY3RpdmUgZXhwcmVzc2lvbiBwYXR0ZXJucyBvZiAxODUvMzMzIGdlbmVzIGluIHRoZSBzZWEgdXJjaGluOyBhbiB1bmV4cGVjdGVkbHkgZGl2ZXJzZSBmYW1pbHkgb2YgdHJhbnNjcmlwdHMgaW4gcmVzcG9uc2UgdG8gTFBTLCDOsi0xLDMtZ2x1Y2FuLCBhbmQgZHNSTkEuICBCTUMgTW9sZWN1bGFyIEJpb2xvZ3kgODoxNi4NCjIyLiBSYXN0LCBKLlAuLCBMLkMuIFNtaXRoLCBNLiBMb3phLUNvbGwsIFQuIEhpYmlubyAmIEcuVy4gTGl0bWFuLiAgMjAwNi4gIEdlbm9taWMgaW5zaWdodHMgaW50byB0aGUgaW1tdW5lIHN5c3RlbSBvZiB0aGUgc2VhIHVyY2hpbi4gIFNjaWVuY2UgMzE0Ojk1Mi05NTYuICANCjIxLiBTb2RlcmdyZW4gZXQgYWwuKiAgMjAwNi4gIFRoZSBnZW5vbWUgb2YgdGhlIHNlYSB1cmNoaW4gU3Ryb25neWxvY2VudHJvdHVzIHB1cnB1cmF0dXMuICBTY2llbmNlIDMxNDo5NDEtOTUyLiAgKCoyNHRoIG9mIDI0MCBhdXRob3JzLCBDby1jb29yZGluYXRvciBmb3IgaW1tdW5lIGdlbmUgYW5ub3RhdGlvbikNCjIwLiBIaWJpbm8sIFQuLCBNLiBMb3phLUNvbGwuIEMuIE1lc3NpZXIsIEEuSi4gTWFqZXNrZSwgQS5ILiBDb2hlbiwgRC5QLiBUZXJ3aWxsaWdlciwgSy5NLiBCdWNrbGV5LCBWLiBCcm9ja3RvbiwgUy5WLiBOYWlyLCBLLiBCZXJuZXksIFMuRC4gRnVnbWFubiwgTS5LLiBBbmRlcnNvbiwgWi4gUGFuY2VyLCBSLkEuIENhbWVyb24sIEwuQy4gU21pdGgqICYgSi5QLiBSYXN0Ki4gIDIwMDYuICBUaGUgaW1tdW5lIGdlbmUgcmVwZXJ0b2lyZSBlbmNvZGVkIGluIHRoZSBwdXJwbGUgc2VhIHVyY2hpbiBnZW5vbWUuICBEZXZlbG9wbWVudGFsIEJpb2xvZ3ksIDMwMDozNDktMzY1LiAgKCpjb250cmlidXRpbmcgYXV0aG9ycykNCjE5LiBUZXJ3aWxsaWdlciBELlAuLCBLLk0uIEJ1Y2tsZXksIEQuIE1laHRhLCBQLkcuIE1vb3JqYW5pICYgTC5DLiBTbWl0aC4gIDIwMDYuICBVbmV4cGVjdGVkIGRpdmVyc2l0eSBkaXNwbGF5ZWQgaW4gY0ROQXMgZXhwcmVzc2VkIGJ5IHRoZSBpbW11bmUgY2VsbHMgb2YgdGhlIHB1cnBsZSBzZWEgdXJjaGluLCBTdHJvbmd5bG9jZW50cm90dXMgcHVycHVyYXR1cy4gIFBoeXNpb2xvZ2ljYWwgR2Vub21pY3MgMjY6MTM0LTE0NC4gIChSZWNvbW1lbmRlZCByZWFkaW5nIGJ5IHRoZSAiRmFjdWx0eSBvZiAxMDAwIEJpb2xvZ3kiLCA5LzIwMDYpDQoxOC4gTmFpciwgUy5WLiwgSC4gRGVsIFZhbGxlLCBQLlMuIEdyb3NzLCBELlAgVGVyd2lsbGlnZXIgJiBMLkMuIFNtaXRoLiAgMjAwNS4gIE1hY3JvYXJyYXkgYW5hbHlzaXMgb2YgY29lbG9tb2N5dGUgZ2VuZSBleHByZXNzaW9uIGluIHJlc3BvbnNlIHRvIExQUyBpbiB0aGUgc2VhIHVyY2hpbiwgU3Ryb25neWxvY2VudHJvdHVzIHB1cnB1cmF0dXMuICBJZGVudGlmaWNhdGlvbiBvZiB1bmV4cGVjdGVkIGltbXVuZSBkaXZlcnNpdHkgaW4gYW4gaW52ZXJ0ZWJyYXRlLiAgUGh5c2lvbG9naWNhbCBHZW5vbWljcyAyMjogMzMtNDcuICAoRWRpdG9yJ3MgQ2hvaWNlLCBTY2llbmNlIDMxMDoxODcxLCAyMDA1KQ0KMTcuIFRlcndpbGxpZ2VyLCBELlAuLCBMLkEuIENsb3csIFAuUy4gR3Jvc3MgJiBMLkMuIFNtaXRoLiAgMjAwNC4gIENvbnN0aXR1dGl2ZSBleHByZXNzaW9uIGFuZCBhbHRlcm5hdGl2ZSBzcGxpY2luZyBvZiB0aGUgU0NSIGRvbWFpbnMgb2YgU3AxNTIsIHRoZSBzZWEgdXJjaGluIGhvbW9sb2d1ZSBvZiBjb21wbGVtZW50IGZhY3RvciBCLiAgSW1wbGljYXRpb25zIG9uIHRoZSBldm9sdXRpb24gb2YgdGhlIEMyL0JmIGdlbmUgZmFtaWx5LiAgSW1tdW5vZ2VuZXRpY3MgNTY6NTMxLTU0My4NCjE2LiBNdWx0ZXJlciwgSy5BLiAmIEwuQy4gU21pdGguICAyMDA0LiAgVHdvIG1vc2FpYyBwcm90ZWlucyBpbiB0aGUgcHVycGxlIHNlYSB1cmNoaW4sIFN0cm9uZ3lsb2NlbnRyb3R1cyBwdXJwdXJhdHVzLCB3aXRoIG11bHRpcGxlIGRvbWFpbnMgZm91bmQgaW4gZmFjdG9yIEgsIGZhY3RvciBJLCBhbmQgY29tcGxlbWVudCBjb21wb25lbnRzIEM2IGFuZCBDNy4gIEltbXVub2dlbmV0aWNzIDU2Ojg5LTEwNi4NCjE1LiBDbG93LCBMLkEuLCBELkEuIFJhZnRvcywgUC5TLiBHcm9zcyAmIEwuQy4gU21pdGguICAyMDA0LiAgVGhlIHNlYSB1cmNoaW4gY29tcGxlbWVudCBob21vbG9ndWUsIFNwQzMsIGZ1bmN0aW9ucyBhcyBhbiBvcHNvbmluLiAgSm91cm5hbCBvZiBFeHBlcmltZW50YWwgQmlvbG9neSAyMDc6MjE0Ny0yMTU1Lg0KMTQuIFNoYWgsIE0uLCBLLk0uIEJyb3duICYgTC5DLiBTbWl0aC4gIDIwMDMuICBUaGUgZ2VuZSBlbmNvZGluZyB0aGUgc2VhIHVyY2hpbiBjb21wbGVtZW50IHByb3RlaW4sIFNwQzMsIGlzIGV4cHJlc3NlZCBpbiBlbWJyeW9zIGFuZCBjYW4gYmUgdXByZWd1bGF0ZWQgYnkgYmFjdGVyaWEuICBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5IDI3OjUyOS01MzguDQoxMy4gU21pdGgsIEwuQy4gIDIwMDIuICBUaGlvZXN0ZXIgZnVuY3Rpb24gaXMgY29uc2VydmVkIGluIFNwQzMsIHRoZSBzZWEgdXJjaGluIGhvbW9sb2d1ZSBvZiB0aGUgY29tcGxlbWVudCBjb21wb25lbnQgQzMuICBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5IDI2OjYwMy02MTQuDQoxMi4gQ2xvdywgTC5BLiwgUC5TLiBHcm9zcywgQy4tUy4gU2hpaCAmIEwuQy4gU21pdGguICAyMDAwLiAgRXhwcmVzc2lvbiBvZiBTcEMzLCB0aGUgc2VhIHVyY2hpbiBjb21wbGVtZW50IGNvbXBvbmVudCwgaW4gcmVzcG9uc2UgdG8gbGlwb3BvbHlzYWNjaGFyaWRlLiAgSW1tdW5vZ2VuZXRpY3MsIDUxOjEwMjEtMTAzMy4NCjExLiBHcm9zcywgUC5TLiwgTC5BLiBDbG93ICYgTC5DLiBTbWl0aC4gIDIwMDAuICBTcEMzLCB0aGUgY29tcGxlbWVudCBob21vbG9ndWUgZnJvbSB0aGUgcHVycGxlIHNlYSB1cmNoaW4sIFN0cm9uZ3lsb2NlbnRyb3R1cyBwdXJwdXJhdHVzLCBpcyBleHByZXNzZWQgaW4gdHdvIHN1YnBvcHVsYXRpb25zIG9mIHRoZSBwaGFnb2N5dGljIGNvZWxvbW9jeXRlcy4gIEltbXVub2dlbmV0aWNzIDUxOjEwMzQtMTA0NC4NCjEwLiBTbWl0aCwgTC5DLiwgQy4tUy4gU2hpaCAmIFMuIERhY2hlbmhhdXNlbi4gIDE5OTguICBDb2Vsb21vY3l0ZXMgc3BlY2lmaWNhbGx5IGV4cHJlc3MgU3BCZiwgYSBob21vbG9ndWUgb2YgZmFjdG9yIEIsIHRoZSBzZWNvbmQgY29tcG9uZW50IGluIHRoZSBzZWEgdXJjaGluIGNvbXBsZW1lbnQgc3lzdGVtLiAgSm91cm5hbCBvZiBJbW11bm9sb2d5IDE2MTo2Nzg0LTY3OTMuDQo5LiBBbC1TaGFyaWYsIFcuWi4sIEouTy4gU3VueWVyLCBKLkQuIExhbWJyaXMgJiBMLkMuIFNtaXRoLiAgMTk5OC4gIEEgaG9tb2xvZ3VlIG9mIHRoZSBjb21wbGVtZW50IGNvbXBvbmVudCBDMyBpcyBzcGVjaWZpY2FsbHkgZXhwcmVzc2VkIGluIHNlYSB1cmNoaW4gY29lbG9tb2N5dGVzLiAgSm91cm5hbCBvZiBJbW11bm9sb2d5IDE2MDoyOTgzLTI5OTcuIA0KOC4gU21pdGgsIEwuQy4sIEwuIENoYW5nLCBSLkouIEJyaXR0ZW4gJiBFLkguIERhdmlkc29uLiAgMTk5Ni4gIFNlYSB1cmNoaW4gZ2VuZXMgZXhwcmVzc2VkIGluIGFjdGl2YXRlZCBjb2Vsb21vY3l0ZXMgYXJlIGlkZW50aWZpZWQgYnkgZXhwcmVzc2VkIHNlcXVlbmNlIHRhZ3MgKEVTVHMpLiBDb21wbGVtZW50IGhvbW9sb2d1ZXMgYW5kIG90aGVyIHB1dGF0aXZlIGltbXVuZSByZXNwb25zZSBnZW5lcyBzdWdnZXN0IGltbXVuZSBzeXN0ZW0gaG9tb2xvZ3kgd2l0aGluIHRoZSBkZXV0ZXJvc3RvbWVzLiAgSm91cm5hbCBvZiBJbW11bm9sb2d5IDE1Njo1OTMtNjAyLg0KNy4gU21pdGgsIEwuQy4sIFIuSi4gQnJpdHRlbiAmIEUuSC4gRGF2aWRzb24uICAxOTk1LiAgTGlwb3BvbHlzYWNjaGFyaWRlIGFjdGl2YXRlcyB0aGUgc2VhIHVyY2hpbiBpbW11bmUgc3lzdGVtLiAgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neSAxOToyMTctMjI0Lg0KNi4gU21pdGgsIEwuQy4sIE0uRy4gSGFycmluZ3RvbiwgUi5KLiBCcml0dGVuICYgRS5ILiBEYXZpZHNvbi4gIDE5OTQuICBUaGUgc2VhIHVyY2hpbiBwcm9maWxpbiBnZW5lIGlzIGV4cHJlc3NlZCBpbiBtZXNlbmNoeW1lIGNlbGxzIGR1cmluZyBnYXN0cnVsYXRpb24uICBEZXZlbG9wbWVudGFsIEJpb2xvZ3kgMTY0OjQ2My00NzQuDQo1LiBDYW1lcm9uLCBSLkEuLCBMLkMuIFNtaXRoLCBSLkouIEJyaXR0ZW4gJiBFLkguIERhdmlkc29uLiAgMTk5NC4gIExpZ2FuZC1kZXBlbmRlbnQgc3RpbXVsYXRpb24gb2YgaW50cm9kdWNlZCBtYW1tYWxpYW4gYnJhaW4gcmVjZXB0b3JzIGFsdGVycyBzcGljdWxlIHN5bW1ldHJ5IGFuZCBvdGhlciBtb3JwaG9nZW5ldGljIGV2ZW50cyBpbiBzZWEgdXJjaGluIGVtYnJ5b3MuICBNZWNoYW5pc21zIG9mIERldmVsb3BtZW50IDQ1OjMxLTQ3Lg0KNC4gU21pdGgsIEwuQy4sIFIuSi4gQnJpdHRlbiAmIEUuSC4gRGF2aWRzb24uICAxOTkyLiAgU3BDb2VsMSwgYSBzZWEgdXJjaGluIHByb2ZpbGluIGdlbmUgZXhwcmVzc2VkIHNwZWNpZmljYWxseSBpbiBjb2Vsb21vY3l0ZXMgaW4gcmVzcG9uc2UgdG8gaW5qdXJ5LiAgTW9sZWN1bGFyIEJpb2xvZ3kgb2YgdGhlIENlbGwgMzo0MDMtNDE0Lg0KMy4gU21pdGgsIEwuQy4gJiBXLkguIEhpbGRlbWFubi4gIDE5ODYuICBBbGxvZ2VuZWljIGNlbGwgaW50ZXJhY3Rpb25zIGR1cmluZyBncmFmdCByZWplY3Rpb24gaW4gQ2FsbHlzcG9uZ2lhIGRpZmZ1c2EgKFBvcmlmZXJhLCBEZW1vc3BvbmdpYSk7IGEgc3R1ZHkgd2l0aCBtb25vY2xvbmFsIGFudGlib2RpZXMuICBQcm9jZWVkaW5ncyBvZiB0aGUgUm95YWwgU29jaWV0eSBvZiBMb25kb24gQiAyMjY6NDY1LTQ3Ny4NCjIuIFNtaXRoLCBMLkMuICYgVy5ILiBIaWxkZW1hbm4uICAxOTg2LiAgQWxsb2dyYWZ0IHJlamVjdGlvbiwgYXV0b2dyYWZ0IGZ1c2lvbiBhbmQgaW5mbGFtbWF0b3J5IHJlc3BvbnNlcyB0byBpbmp1cnkgaW4gQ2FsbHlzcG9uZ2lhIGRpZmZ1c2EgKFBvcmlmZXJhLCBEZW1vc3BvbmdpYSkuICBQcm9jZWVkaW5ncyBvZiB0aGUgUm95YWwgU29jaWV0eSBvZiBMb25kb24gQiAyMjY6NDQ1LTQ2NC4NCjEuIFNtaXRoLCBMLkMuICYgVy5ILiBIaWxkZW1hbm4uICAxOTg0LiAgQWxsb2ltbXVuZSBtZW1vcnkgaXMgYWJzZW50IGluIEh5bWVuaWFjaWRvbiBzaW5hcGl1bSwgYSBtYXJpbmUgc3BvbmdlLiAgSm91cm5hbCBvZiBJbW11bm9sb2d5IDEzNToyMzUxLTIzNTUuDQoNClJlZmVyZWVkIFJldmlld3MgYW5kIEJvb2sgQ2hhcHRlcnMNCjEwLiBHaG9zaCwgSi4sIEMuTS4gTHVuLCBBLkouIE1hamVza2UsIFMuIFNhY2NoaSwgQy5TLiBTY2hyYW5rZWwsIEwuQy4gU21pdGguICAyMDExLiAgSW52ZXJ0ZWJyYXRlIEltbXVuZSBEaXZlcnNpdHkuICBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5LCAzNCg5KTo5NTktOTc0IChlcHViIDEyLzIxLzEwKS4gIEludml0ZWQgZm9yIGEgc3BlY2lhbCBpc3N1ZSBpbiBob25vciBvZiBEci4gR3JlZyBXYXJyLCBmb3JtZXIgRENJIGVkaXRvci4gIA0KOS4gIFNtaXRoLCBMLkMuLCBKLiBHaG9zaCwgSy5NLiBCdWNrbGV5LCBMLkEuIENsb3csIE4uTS4gRGhlaWxseSwgVC4gSGF1ZywgSi5ILiBIZW5zb24sIEMuIExpLCBDLk0uIEx1biwgQS5KLiBNYWplc2tlLCBWLiBNYXRyYW5nYSwgUy5WLiBOYWlyIEouUC4gUmFzdCwgRC5BLiBSYWZ0b3MsIE0uIFJvdGgsIFMuIFNhY2NoaSwgQy5TLiBTY2hyYW5rZWwsIEsuIFN0ZW5zdsOlZy4gIDIwMTAuICBFY2hpbm9kZXJtIEltbXVuaXR5LiAgSW4gIkludmVydGVicmF0ZSBJbW11bml0eSIgSy4gU29kZXJoYWxsLCBlZC4gIE1hZGFtZSBDdXJpZSBCaW9zY2llbmNlIERhdGFiYXNlLCBMYW5kZXMgQmlvc2NpZW5jZXMsIEF1c3RpbiBUWC4gIHAuIDI2MC0zMDEuICBpbnZpdGVkLg0KOC4gU21pdGgsIEwuQy4gIDIwMTAuICBEaXZlcnNpZmljYXRpb24gb2YgaW5uYXRlIGltbXVuZSBnZW5lczogbGVzc29ucyBmcm9tIHRoZSBwdXJwbGUgc2VhIHVyY2hpbi4gIERpc2Vhc2UgTW9kZWxzIGFuZCBNZWNoYW5pc21zLCAzOjI3NC0yNzkuICBpbnZpdGVkDQo3LiBHaG9zaCBKRywgS00sIEJ1Y2tsZXksIFNWIE5haXIsIERBIFJhZnRvcywgQyBNaWxsZXIsIEFKIE1hamVza2UsIFQgSGliaW5vLCBKUCBSYXN0LCBNIFJvdGgsIEwuQy4gU21pdGguICAyMDEwLiAgU3AxODUvMzMzOiBBIG5vdmVsIGZhbWlseSBvZiBnZW5lcyBhbmQgcHJvdGVpbnMgaW52b2x2ZWQgaW4gdGhlIHB1cnBsZSBzZWEgdXJjaGluIGltbXVuZSByZXNwb25zZS4gIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIDM0OjIzNS0yNDUuIGludml0ZWQNCjYuIFNtaXRoLCBMLkMuLCBKLlAuIFJhc3QsIFYuIEJyb2NrdG9uLCBELlAuIFRlcndpbGxpZ2VyLCBTLlYuIE5haXIsIEsuTS4gQnVja2xleSAmIEEuSi4gTWFqZXNrZS4gIDIwMDYuICBUaGUgc2VhIHVyY2hpbiBpbW11bmUgc3lzdGVtLiAgSW52ZXJ0ZWJyYXRlIFN1cnZpdmFsIEpvdXJuYWwsIDM6MjUtMzkuICBpbnZpdGVkDQo1LiBTbWl0aCwgTC5DLiwgTC5BLiBDbG93ICYgRC5QLiBUZXJ3aWxsaWdlci4gIDIwMDEuICBUaGUgYW5jZXN0cmFsIGNvbXBsZW1lbnQgc3lzdGVtIGluIHNlYSB1cmNoaW5zLiAgSW1tdW5vbG9naWNhbCBSZXZpZXdzIDE4MDoxNi0zNC4gIGludml0ZWQNCjQuIFNtaXRoLCBMLkMuLCBLLiBBenVtaSAmIE0uIE5vbmFrYS4gIDE5OTkuICBDb21wbGVtZW50IHN5c3RlbXMgaW4gaW52ZXJ0ZWJyYXRlcy4gIFRoZSBhbmNpZW50IGFsdGVybmF0aXZlIGFuZCBsZWN0aW4gcGF0aHdheXMuICBJbW11bm9waGFybWFjb2xvZ3kgNDI6MTA3LTEyMC4gIGludml0ZWQNCjMuIEdyb3NzLCBQLlMuLCBXLlouIEFsLVNoYXJpZiwgTC5BLiBDbG93ICYgTC5DLiBTbWl0aC4gIDE5OTkuICBFY2hpbm9kZXJtIGltbXVuaXR5IGFuZCB0aGUgZXZvbHV0aW9uIG9mIHRoZSBjb21wbGVtZW50IHN5c3RlbS4gIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3kgMjM6NDM5LTQ1My4gIGludml0ZWQNCjIuIFNtaXRoLCBMLkMuICYgRS5ILiBEYXZpZHNvbi4gIDE5OTIuICBUaGUgZWNoaW5vaWQgaW1tdW5lIHN5c3RlbSByZXZpc2l0ZWQ6IHJlcGx5LiAgSW1tdW5vbG9neVRvZGF5IDE0OjkzLTk0Lg0KMS4gU21pdGgsIEwuQy4gJiBFLkguIERhdmlkc29uLiAgMTk5Mi4gIFRoZSBlY2hpbm9pZCBpbW11bmUgc3lzdGVtIGFuZCB0aGUgcGh5bG9nZW5ldGljIG9jY3VycmVuY2Ugb2YgaW1tdW5lIG1lY2hhbmlzbXMgaW4gZGV1dGVyb3N0b21lcy4gIEltbXVub2xvZ3lUb2RheSAxMzozNTYtMzYyLg0KDQpOb24tcmVmZXJlZWQgUmV2aWV3cyBhbmQgQm9vayBDaGFwdGVycyAoMTEgdG90YWwpDQo1LiBTbWl0aCwgTC5DLiAgMjAwNS4gIEhvc3QgcmVzcG9uc2VzIHRvIGJhY3RlcmlhOyBpbm5hdGUgaW1tdW5pdHkgaW4gaW52ZXJ0ZWJyYXRlcy4gIEluIFRoZSBJbmZsdWVuY2Ugb2YgQ29vcGVyYXRpdmUgQmFjdGVyaWEgb24gQW5pbWFsIEhvc3QgQmlvbG9neSAoTS4gTWNGYWxsLU5nYWksIE4uIFJ1YnksIEIuIEhlbmRlcnNvbiwgZWRzLikuICBBZHZhbmNlcyBpbiBNb2xlY3VsYXIgYW5kIENlbGx1bGFyIE1pY3JvYmlvbG9neSAxMDoyOTMtMzIwLiAgQ2FtYnJpZGdlIFVuaXZlcnNpdHkgUHJlc3MuICBpbnZpdGVkDQo0LiBTbWl0aCwgTC5DLiAgMjAwMS4gIFRoZSBjb21wbGVtZW50IHN5c3RlbSBpbiBzZWEgdXJjaGlucy4gIEluIFBoeWxvZ2VuZXRpYyBQZXJzcGVjdGl2ZXMgb24gdGhlIFZlcnRlYnJhdGUgSW1tdW5lIFN5c3RlbXMgKEcuIEJlY2ssIE0uIFN1Z3VtYXJhbiwgRS4gQ29vcGVyLCBlZHMuKS4gIEFkdmFuY2VzIGluIEV4cGVyaW1lbnRhbCBNZWRpY2luZSBhbmQgQmlvbG9neSwgNDg0OjM2My0zNzIuICBLbHV3ZXIgQWNhZGVtaWMvUGxlbnVtIFB1Ymxpc2hpbmcgQ28uIE5ldyBZb3JrLCBOWS4gIGludml0ZWQNCjMuIFNtaXRoLCBMLkMuICYgRS5ILiBEYXZpZHNvbi4gIDE5OTQuICBUaGUgZWNoaW5vZGVybSBpbW11bmUgc3lzdGVtOiBjaGFyYWN0ZXJzIHNoYXJlZCB3aXRoIHZlcnRlYnJhdGUgaW1tdW5lIHN5c3RlbXMsIGFuZCBjaGFyYWN0ZXJzIGFyaXNpbmcgbGF0ZXIgaW4gZGV1dGVyb3N0b21lIHBoeWxvZ2VueS4gIEluOiBQcmltb3JkaWFsIEltbXVuaXR5OiBGb3VuZGF0aW9ucyBmb3IgdGhlIFZlcnRlYnJhdGUgSW1tdW5lIFN5c3RlbS4gIChHLiBCZWNrLCBFLkwuIENvb3BlciwgRy5TLiBIYWJpY2h0IGFuZCBKLkouIE1hcmNoYWxvbmlzLCBlZHMuKSAgVGhlIE5ldyBZb3JrIEFjYWRlbXkgb2YgU2NpZW5jZXMgNzEyOjIxMy0yMjYuICANCjIuIFNtaXRoLCBMLkMuICYgVy5ILiBIaWxkZW1hbm4uICAxOTkwLiAgQ2VsbHVsYXIgbW9ycGhvbG9neSBvZiBDYWxseXNwb25naWEgZGlmZnVzYSAoUG9yaWZlcmE6IERlbW9zcG9uZ2lhKS4gIEluOiBOZXcgUGVyc3BlY3RpdmVzIGluIFNwb25nZSBCaW9sb2d5LiAoSy4gUnVldHpsZXIgJiBXLiBIYXJ0bWFuLCBlZHMuKSAgU21pdGhzb25pYW4gSW5zdGl0dXRpb24gUHJlc3MsIFdhc2hpbmd0b24sIEQuQy4sIHBwLiAxMzUtMTQzLiAgaW52aXRlZA0KMS4gU21pdGgsIEwuQy4gIDE5ODguICBUaGUgcm9sZSBvZiBtZXNvaHlsIGNlbGxzIGluIHNwb25nZSBhbGxvZ3JhZnQgcmVqZWN0aW9uLiAgSW46IEludmVydGVicmF0ZSBIaXN0b3JlY29nbml0aW9uIChSLksuIEdyb3NiZXJnLCBELiBIZWRnZWNvY2sgJiBLLiBOZWxzb24sIGVkcy4pLiAgUGxlbnVtIFB1Ymxpc2hpbmcgQ28uLCBwcC4gMTUtMzAuICBpbnZpdGVkDQoNCk90aGVyIFB1YmxpY2F0aW9ucw0KT3Bpbmlvbg0KNi4gV2FyciBHLlcuLCBSLkMuIENoYXBtYW4gJiBMLkMuIFNtaXRoLiAgMjAwMy4gIEV2b2x1dGlvbmFyeSBpbW11bm9iaW9sb2d5OiBuZXcgYXBwcm9hY2hlcywgbmV3IHBhcmFkaWdtcy4gIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3kgMjc6MjU3LTI2Mi4NCg0KTWVldGluZyBSZXBvcnRzDQo1LiBEdSBQYXNxdWllciwgTC4gJiBMLkMuIFNtaXRoLiAgMjAwMy4gIFdvcmtzaG9wIHJlcG9ydDogZXZvbHV0aW9uYXJ5IGltbXVub2Jpb2xvZ3k6IG5ldyBhcHByb2FjaGVzLCBuZXcgcGFyYWRpZ21zLiAgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neSAyNzoyNjMtMjcxLg0KNC4gU21pdGgsIEwuQy4sIEMuIEJhaWVyLUFuZGVyc29uLCBMLkEuIENsb3csIEQuUC4gVGVyd2lsbGlnZXIgJiBDLiBBZGVtYS4gIDIwMDAuICBNZWV0aW5nIHJldmlldzogbWlkIGF0bGFudGljIHNvY2lldHkgb2YgZGV2ZWxvcG1lbnRhbCBhbmQgY29tcGFyYXRpdmUgaW1tdW5vbG9neS4gIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3kgMjQ6NzEtNzcuDQoNClJldmlld3Mgb2YgT3RoZXIgV29yayBhbmQgb3RoZXIgUHVibGljYXRpb25zIA0KMy4gS25vd2x0b24sIFIuRSwgTC5DLiBTbWl0aCwgRy4gV2FyciwgSy4gU8O2ZGVyaGFsbC4gIDIwMDguICBJbiBtZW1vcml1bSwgUGF1bCBTLiBHcm9zcy4gIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3kgMzM6IDEtNC4NCjIuIFNtaXRoLCBMLkMuICYgRy4gV2Fyci4gIDIwMDguICBCcmllZiByZXZpZXcgb2YgTWNEb3dlbGwgYW5kIFNpbW9uLiAgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neSAzMjs3MzUuDQoxLiBTbWl0aCwgTC5DLiAgMjAwMS4gIFJldmlldyBvZiAiT3JpZ2luIGFuZCBldm9sdXRpb24gb2YgdGhlIHZlcnRlYnJhdGUgaW1tdW5lIHN5c3RlbSIuICAoTC4gRHUgUGFzcXVpZXIgJiBHLlcuIExpdG1hbiwgZWRzLikgIFF1YXJ0ZXJseSBSZXZpZXcgb2YgQmlvbG9neSA3Njo3OS4NCg0KSU5WSVRFRCBTRU1JTkFSUyANCkNvbmZlcmVuY2VzIGFuZCBTeW1wb3NpYQ0KQW1lcmljYW4gQXNzb2NpYXRpb24gb2YgSW1tdW5vbG9naXN0cywgQW5udWFsIG1lZXRpbmcsIEJhbHRpbW9yZSBNYXJ5bGFuZCwgTWF5IDctMTEsIDIwMTAuICBJbnRlcm5hdGlvbmFsIFNvY2lldHkgb2YgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neSwgR3Vlc3QgU29jaWV0eSBTeW1wb3NpdW0gb24gIk5vdmVsIFN0cmF0ZWdpZXMgb2YgTm9uLVNlbGYgUmVjb2duaXRpb24gYnkgSW52ZXJ0ZWJyYXRlIGFuZCBOb24tTWFtbWFsaWFuIFZlcnRlYnJhdGUgTW9kZWwgU3BlY2llcyIuICBUaXRsZSBvZiBUYWxrOiAiSGlnaGx5IFZhcmlhYmxlIEltbXVuZS1SZXNwb25zZSBHZW5lcyAoU3AxODUvMzMzKSBmcm9tIHRoZSBQdXJwbGUgU2VhIFVyY2hpbiINCldvcmtzaG9wOiAiUmVjb2duaXRpb24gYW5kIFNwZWNpZmljaXR5IGluIEludmVydGVicmF0ZSBJbW11bmUgU3lzdGVtcyIuICBXaXNzZW5zY2hhZnRza29sbGVnIHp1IEJlcmxpbiwgSW5zdGl0dXRlIGZvciBBZHZhbmNlZCBTdHVkeSwgQmVybGluIEdlcm1hbnkuICBGZWJydWFyeSAxLTIsIDIwMDcuICAiRGl2ZXJzaWZpY2F0aW9uIG9mIHRoZSBpbm5hdGUgaW1tdW5lIHN5c3RlbSBpbiB0aGUgc2VhIHVyY2hpbiIuICANCkludGVybmF0aW9uYWwgU29jaWV0eSBvZiBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5LCBUZW50aCBDb25ncmVzcy4gIENoYXJsZXN0b24gU0MuICBKdWx5IDEtNiwgMjAwNi4gICJEaXZlcnNpdHkgb2YgdGhlIDE4NS8zMzMgZ2VuZSBzeXN0ZW0gaW4gdGhlIHB1cnBsZSBzZWEgdXJjaGluIi4gIA0KRXhwZXJpbWVudGFsIEJpb2xvZ3kgMjAwNCwgU3BlY2lhbCBJU0RDSSBTeW1wb3NpdW0sICJSZW1hcmthYmxlIENvbXBsZXhpdHkgb2YgSW1tdW5lIFJlY29nbml0aW9uIGluIEludmVydGVicmF0ZXMiLiAgQXByaWwgMTksIDIwMDQuICBXYXNoaW5ndG9uIERDLiAgIlVuZXhwZWN0ZWQgZGl2ZXJzaXR5IGluIGEgcHV0YXRpdmUgYW50aS1taWNyb2JpYWwgcHJvdGVpbiBpbiBhIHNlYSB1cmNoaW4uIg0KUm9ja2VmZWxsZXIgQ29uZmVyZW5jZSBvbiAiVGhlIEluZmx1ZW5jZSBvZiBDb29wZXJhdGl2ZSBCYWN0ZXJpYSBvbiBBbmltYWwgSG9zdCBCaW9sb2d5Ii4gIEJlbGxhZ2lvIFN0dWR5IGFuZCBDb25mZXJlbmNlIENlbnRlciwgQmVsbGFnaW8gSXRhbHkuICBPY3QgMjggLSBOb3YgMSwgMjAwMy4gICJJbW11bmUgRGVmZW5zZXMgQWdhaW5zdCBNYXJpbmUgTWljcm9iZXMuIg0KSW50ZXJuYXRpb25hbCBTb2NpZXR5IG9mIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIE5pbnRoIENvbmdyZXNzLiAgU3QuIEFuZHJld3MgU2NvdGxhbmQuICBKdW5lIDI4IC0gSnVseSA1LCAyMDAzLiAgIkEgZGl2ZXJzZSBhcnJheSBvZiBnZW5lcyBhcmUgdXByZWd1bGF0ZWQgaW4gc2VhIHVyY2hpbiBjb2Vsb21vY3l0ZXMgaW4gcmVzcG9uc2UgdG8gbGlwb3BvbHlzYWNjaGFyaWRlLiINCkZpZnRoIENvbXBhcmF0aXZlIEltbXVub2xvZ3kgU3ltcG9zaXVtLiAgRmxvcmlkYSBJbnRlcm5hdGlvbmFsIFVuaXZlcnNpdHksIE1pYW1pIEZMLiAgTWFyY2ggNi03LCAyMDAzLiAgIlNlYSB1cmNoaW4gY29lbG9tb2N5dGVzIHJlc3BvbmQgdG8gbGlwb3BvbHlzYWNjaGFyaWRlIHdpdGggYSBkaXZlcnNlIGFycmF5IG9mIG1lc3NhZ2VzIGVuY29kaW5nIGEgcHV0YXRpdmUgYW50aW1pY3JvYmlhbCBwcm90ZWluLiINCk5TRiBXb3Jrc2hvcCBvbiAiRXZvbHV0aW9uYXJ5IEltbXVub2Jpb2xvZ3k6IE5ldyBBcHByb2FjaGVzLCBOZXcgUGFyYWRpZ21zIiwgTWVkaWNhbCBVbml2ZXJzaXR5IG9mIFNvdXRoIENhcm9saW5hLCBDaGFybGVzdG9uIFNDLiAgRmViLCAyMi0yNSwgMjAwMi4gICJBIEdlbm9taWNzIEFwcHJvYWNoIHRvIFVuZGVyc3RhbmRpbmcgdGhlIFNlYSBVcmNoaW4gSW1tdW5lIFN5c3RlbS4iDQpJbnRlcm5hdGlvbmFsIFNvY2lldHkgb2YgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neSwgRWlnaHRoIENvbmdyZXNzLCBDYWlybnMgQXVzdHJhbGlhLiAgSnVseSAyLTYsIDIwMDAuICAiU3BDMywgdGhlIFNlYSBVcmNoaW4gQ29tcGxlbWVudCBDb21wb25lbnQgSG9tb2xvZ291cyB0byBWZXJ0ZWJyYXRlIEMzLCBVbmRlcmdvZXMgQXV0b2x5c2lzIGFuZCBtYXkgYmUgUmVndWxhdGVkIHRocm91Z2ggQ29udHJvbGxlZCBEZWdyYWRhdGlvbi4iDQpDb21wYXJhdGl2ZSBJbW11bm9sb2d5IEdyb3VwIE1pbmktU3ltcG9zaXVtLCAiSW1tdW5vZGl2ZXJzaXR5IGluIERlZmVuc2UgTWVjaGFuaXNtcyIuICBGbG9yaWRhIEludGVybmF0aW9uYWwgVW5pdmVyc2l0eSwgTWlhbWksIEZMLiAgQXByaWwgNiwgMjAwMC4gICJQcm9kdWN0aW9uLCBGdW5jdGlvbiBhbmQgRGVncmFkYXRpb24gb2YgU3BDMywgdGhlIFNlYSBVcmNoaW4gSG9tb2xvZ3VlIG9mIHRoZSBWZXJ0ZWJyYXRlIENvbXBsZW1lbnQgQ29tcG9uZW50IEMzLiINCk5ldyBFbmdsYW5kIEltbXVub2xvZ3kgQ29uZmVyZW5jZS4gICJJbm5hdGUgSW1tdW5pdHkiLiAgV29vZHMgSG9sZSwgTUEuICBOb3YgNi03LCAxOTk5LiAgIlRoZSBBbmNpZW50IENvbXBsZW1lbnQgU3lzdGVtIGluIFNlYSBVcmNoaW5zLiINCkFtZXJpY2FuIFJlZCBDcm9zcyBIb2xsYW5kIFJlc2VhcmNoIExhYm9yYXRvcnksIFJvY2t2aWxsZSBNRC4gIFNlcHQgMTYsIDE5OTkuICAiT3JpZ2luIGFuZCBFdm9sdXRpb24gb2YgdGhlIENvbXBsZW1lbnQgU3lzdGVtLCBhIENlbnRyYWwgQ29tcG9uZW50IG9mIElubmF0ZSBJbW11bml0eS4iDQpGQVNFQiBTdW1tZXIgUmVzZWFyY2ggQ29uZmVyZW5jZSwgIlBoeWxvZ2VuZXRpYyBQZXJzcGVjdGl2ZXMgb24gdGhlIFZlcnRlYnJhdGUgSW1tdW5lIFN5c3RlbSIuICBDb3BwZXIgTW91bnRhaW4sIENPLiAgSnVseSAxMS0xNiwgMTk5OS4gICJUaGUgQ29tcGxlbWVudCBTeXN0ZW0gaW4gU2VhIFVyY2hpbnMuIg0KRXhwZXJpbWVudGFsIEJpb2xvZ3kgJzk5LCAiRWFybHkgT3JpZ2lucyBvZiB0aGUgVmVydGVicmF0ZSBJbW11bmUgU3lzdGVtIi4gIFdhc2hpbmd0b24gREMuICBKdW5lIDE5LTI0LCAxOTk5LiAgIlRoZSBDb21wbGVtZW50IFN5c3RlbTogQW4gRXZvbHV0aW9uYXJ5IExpbmsgQmV0d2VlbiBWZXJ0ZWJyYXRlIGFuZCBJbnZlcnRlYnJhdGUgSW1tdW5pdHkuIg0KRGV2ZWxvcG1lbnRhbCBCaW9sb2d5IG9mIFNlYSBVcmNoaW5zLCBYSSwgV29vZHMgSG9sZSwgTUEuICBTZXB0IDEwLTE0LCAxOTk3LiAgIlNlYSB1cmNoaW4gY29lbG9tb2N5dGVzIGV4cHJlc3MgdGhlIGZpcnN0IHR3byBjb21wb25lbnRzIG9mIHRoZSBhbHRlcm5hdGl2ZSBjb21wbGVtZW50IGNhc2NhZGUuIg0KSW50ZXJuYXRpb25hbCBTb2NpZXR5IG9mIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIFNldmVudGggQ29uZ3Jlc3MuICBDb2xsZWdlIG9mIFdpbGxpYW0gYW5kIE1hcnksIFdpbGxpYW1zYnVyZywgVkEuICBKdWx5IDIwLTI1LCAxOTk3LiAgIlNlYSB1cmNoaW4gY29lbG9tb2N5dGVzIHNwZWNpZmljYWxseSBleHByZXNzIGEgQzMgY29tcGxlbWVudCBjb21wb25lbnQgYW5kIGEgY29tcGxlbWVudCByZWNlcHRvciBvciByZWd1bGF0b3J5IHByb3RlaW4uIiANCkRldmVsb3BtZW50YWwgQmlvbG9neSBvZiBTZWEgVXJjaGlucyBYLCBXb29kcyBIb2xlLCBNQS4gIE1hcmNoLCAxOTk2LiAgIkEgY29tcGxlbWVudCBob21vbG9ndWUgaXMgZXhwcmVzc2VkIGluIGNvZWxvbW9jeXRlcy4iDQpUaGUgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCAiQ2VsbCBCaW9sb2d5IEZvcnVtLiAgUmVzZWFyY2ggb24gRGVmZW5zZSBNZWNoYW5pc21zIGluIGEgRGl2ZXJzaXR5IG9mIE9yZ2FuaXNtczogQXNzZXNzbWVudCBvZiBQcm9ncmVzcyBhbmQgU2V0dGluZyBHb2FscyIuICBXYXNoaW5ndG9uLCBEQy4gIE1hcmNoIDE0LTE1LCAxOTk0LiAgIlRoZSBlY2hpbm9kZXJtIGltbXVuZSBzeXN0ZW06IGZ1dHVyZSBkaXJlY3Rpb25zLiINCk5ldyBZb3JrIEFjYWRlbXkgb2YgU2NpZW5jZXMsICJQcmltb3JkaWFsIEltbXVuaXR5OiBGb3VuZGF0aW9ucyBmb3IgdGhlIFZlcnRlYnJhdGUgSW1tdW5lIFN5c3RlbSIuICBXb29kcyBIb2xlLCBNQS4gIE1heSAyLTUsIDE5OTMuICAiVGhlIGVjaGlub2lkIGltbXVuZSBzeXN0ZW0gdmlld2VkIGluIHRoZSBjb250ZXh0IG9mIGRldXRlcm9zdG9tZSBwaHlsb2dlbnkuIg0KRkFTRUIsIEFtZXJpY2FuIEFzc29jaWF0aW9uIG9mIFBhdGhvbG9naXN0cywgIlVzZSBvZiBBcXVhdGljIEFuaW1hbHMgaW4gQmlvbWVkaWNhbCBSZXNlYXJjaCIuICBBbmFoZWltLCBDQS4gIEFwcmlsIDUsIDE5OTIuICAiQSBzZWEgdXJjaGluIHByb2ZpbGluIGdlbmUgc2hvd3MgaW5jcmVhc2VzIGluIGV4cHJlc3Npb24gZHVyaW5nIGNvZWxvbW9jeXRlIHJlc3BvbnNlcyB0byBpbmp1cnkuIg0KVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhIE1hcmluZSBMYWJvcmF0b3J5LCAiTWVjaGFuaXNtcywgRWNvbG9neSAmIEV2b2x1dGlvbiBvZiBIaXN0b3JlY29nbml0aW9uIGluIE1hcmluZSBJbnZlcnRlYnJhdGVzIi4gIEJvZGVnYSBCYXksIENBLiAgU2VwdCAxMC0xMywgMTk4Ny4gICJDZWxsdWxhciBtb3JwaG9sb2d5IG9mIENhbGx5c3BvbmdpYSBkaWZmdXNhIChQb3JpZmVyYTogRGVtb3Nwb25naWEpLiINCg0KU2VtaW5hcnMgYXQgSW5zdGl0dXRpb25zIChpbnZpdGF0aW9ucyBzaW5jZSAxOTk1KQ0KRElNQUNTLCBHZW5vbWUgRXZvbHV0aW9uLCBSdXRnZXJzIFVuaXZlcnNpdHksIGNpdHksIE5ldyBKZXJzZXkuICBBdWd1c3QgZGF5cywgMjAxMS4gIHRpdGxlLiAgDQpHVyBHZW5vbWljcyBhbmQgUHJvdGVvbWljcyBGb2N1cyBHcm91cCwgR1cgU2Nob29sIG9mIE1lZGljaW5lLiAgRmVicnVhcnkgMjUsIDIwMTEuICAiSW1tdW5lIFJlc3BvbnNlIERpdmVyc2l0eSBpbiB0aGUgUHVycGxlIFNlYSBVcmNoaW4uIg0KTWF0aCBJbml0aWF0aXZlIFNwcmluZyBTeW1wb3NpdW0uICBHV1UsIEFwcmlsIDI3LCAyMDA3LiAgIkRpdmVyc2l0eSBpbiB0aGUgMTg1LzMzMyBnZW5lIGZhbWlseSBmcm9tIHRoZSBwdXJwbGUgc2VhIHVyY2hpbi4iICANCkdXIFJlc2VhcmNoIFNlbWluYXIgU2VyaWVzOyBzZWxlY3RlZCBwcmVzZW50YXRpb25zIGZyb20gdGhlIERlcGFydG1lbnQgb2YgQmlvbG9neS4gIEdXVSBTY2hvb2wgb2YgTWVkaWNpbmUsIEFwcmlsIDExLCAyMDA3LiAgIlVuZXhwZWN0ZWQgZGl2ZXJzaXR5IGluIHRoZSBpbm5hdGUgaW1tdW5lIHN5c3RlbSBvZiB0aGUgcHVycGxlIHNlYSB1cmNoaW4iICANCkRpY2tpbnNvbiBDb2xsZWdlLCBEZXBhcnRtZW50IG9mIEJpb2xvZ3kuICBDYXJsaXNsZSBQQS4gIFNlcHQgMTQsIDIwMDYuICAiRGl2ZXJzaXR5IGluIHRoZSBJbm5hdGUgSW1tdW5lIFN5c3RlbSBvZiB0aGUgUHVycGxlIFNlYSBVcmNoaW4uIg0KR2VvcmdlIFdhc2hpbmd0b24gVW5pdmVyc2l0eSBJbnN0aXR1dGUgb2YgQmlvbWVkaWNhbCBTY2llbmNlcywgRGVwdCBvZiBJbW11bm9sb2d5IGFuZCBUcm9waWNhbCBNZWRpY2luZSwgV2FzaGluZ3RvbiBEQy4gIFNlcHQgMTQsIDIwMDUuICAiSW5mZWN0aW9uIGFuZCBJbW11bml0eSBTZW1pbmFyIFNlcmllcy4gICJVbmV4cGVjdGVkIGRpdmVyc2l0eSBpbiBhIGdlbmUgZmFtaWx5IGV4cHJlc3NlZCBieSB0aGUgaW1tdW5lIGNlbGxzIGluIHRoZSBwdXJwbGUgc2VhIHVyY2hpbi4iDQpIYXJib3IgQnJhbmNoIE9jZWFub2dyYXBoaWMgSW5zdGl0dXRpb24uICBGb3J0IFBpZXJjZSBGTC4gIE1hcmNoIDExLCAyMDA1LiAgIlVuZXhwZWN0ZWQgZ2VuZXRpYyBkaXZlcnNpdHkgaW4gYSBzbWFsbCBnZW5lIGZhbWlseSBleHByZXNzZWQgYnkgdGhlIGltbXVuZSBjZWxscyBvZiB0aGUgcHVycGxlIHNlYSB1cmNoaW4uIg0KVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCwgRGVwYXJ0bWVudCBvZiBCaW9sb2d5LiAgQ29sbGVnZSBQYXJrIE1ELiAgRmVicnVhcnkgMiwgMjAwNS4gICJVbmV4cGVjdGVkIGdlbmV0aWMgZGl2ZXJzaXR5IGluIGEgc21hbGwgZ2VuZSBmYW1pbHkgZXhwcmVzc2VkIGJ5IHRoZSBpbW11bmUgY2VsbHMgb2YgdGhlIHB1cnBsZSBzZWEgdXJjaGluLiINCk1lZGljYWwgVW5pdmVyc2l0eSBvZiBTb3V0aCBDYXJvbGluYSwgRGVwYXJ0bWVudCBvZiBCaW9jaGVtaXN0cnkuICBDaGFybGVzdG9uIFNDLiAgTWF5IDI4LCAyMDA0LiAgIlVuZXhwZWN0ZWQgZ2VuZXRpYyBkaXZlcnNpdHkgaW4gdGhlIHB1cnBsZSBzZWEgdXJjaGluLiBBIHNtYWxsIGdlbmUgZmFtaWx5IGVuY29kaW5nIHB1dGF0aXZlIGFudGltaWNyb2JpYWwgcHJvdGVpbnMuIg0KVW5pdmVyc2l0eSBvZiBOZXcgTWV4aWNvLCBEZXBhcnRtZW50IG9mIEJpb2xvZ3kuICBBbGJ1cXVlcnF1ZSBOTS4gIE1hcmNoIDI2LCAyMDA0LiAgIlVuZXhwZWN0ZWQgR2VuZXRpYyBEaXZlcnNpdHkgaW4gYSBQdXRhdGl2ZSBBbnRpbWljcm9iaWFsIFBlcHRpZGUgRnJvbSB0aGUgU2VhIFVyY2hpbiwgU3Ryb25neWxvY2VudHJvdHVzIHB1cnB1cmF0dXMuIg0KT2hpbyBVbml2ZXJzaXR5LCBEZXBhcnRtZW50IG9mIEJpb2xvZ3kuICBBdGhlbnMgT0guICBBcHJpbCA5LCAyMDAxLiAgIlRoZSBhbmNlc3RyYWwgaW5uYXRlIGltbXVuZSBzeXN0ZW0gaW4gc2VhIHVyY2hpbnMiDQpNZWRpY2FsIFVuaXZlcnNpdHkgb2YgU291dGggQ2Fyb2xpbmEsIERlcGFydG1lbnQgb2YgTWljcm9iaW9sb2d5LiAgQ2hhcmxlc3RvbiBTQy4gIEZlYnJ1YXJ5IDgsIDIwMDEuICAiVGhlIGFuY2VzdHJhbCBpbm5hdGUgaW1tdW5lIHN5c3RlbSBpbiBzZWEgdXJjaGlucyINCkdlb3JnZSBXYXNoaW5ndG9uIFVuaXZlcnNpdHkgTWVkaWNhbCBTY2hvb2wsIERlcGFydG1lbnQgb2YgSW1tdW5vbG9neS4gIFdhc2hpbmd0b24gREMuICBOb3YgMjEsIDIwMDAuICAiVGhlIGFuY2VzdHJhbCBpbm5hdGUgaW1tdW5lIHN5c3RlbSBpbiBzZWEgdXJjaGlucyINCkFtZXJpY2FuIFJlZCBDcm9zcyBIb2xsYW5kIFJlc2VhcmNoIExhYm9yYXRvcnkuICBSb2NrdmlsbGUgTUQuICBTZXB0IDE2LCAxOTk5LiAgIk9yaWdpbiBhbmQgRXZvbHV0aW9uIG9mIHRoZSBDb21wbGVtZW50IFN5c3RlbSwgYSBDZW50cmFsIENvbXBvbmVudCBvZiBJbm5hdGUgSW1tdW5pdHkuIg0KU3QuIE1hcnkncyBDb2xsZWdlIG9mIE1hcnlsYW5kLCBEZXBhcnRtZW50IG9mIEJpb2xvZ3kuICBTdC4gTWFyeSdzIENpdHksIE1ELiAgTWFyY2ggNCwgMTk5OC4gICJUaGUgU2VhIFVyY2hpbiBJbW11bmUgU3lzdGVtLiINCkdlb3JnZXRvd24gVW5pdmVyc2l0eSwgRGVwYXJ0bWVudCBvZiBCaW9sb2d5LiAgV2FzaGluZ3RvbiBEQy4gIE9jdCAyNSwgMTk5Ni4gICJUaGUgc2VhIHVyY2hpbiBpbW11bmUgc3lzdGVtOiBjb2Vsb21vY3l0ZSBhY3RpdmF0aW9uLCBnZW5lIGV4cHJlc3Npb24gYW5kIHRoZSBldm9sdXRpb24gb2YgZGV1dGVyb3N0b21lIGltbXVuaXR5LiINClVuaXZlcnNpdHkgb2YgTWFyeWxhbmQsIENlbnRlciBvZiBNYXJpbmUgQmlvdGVjaG5vbG9neS4gIEJhbHRpbW9yZSBNRC4gIE1hcmNoIDI1LCAxOTk2LiAgIkNvZWxvbW9jeXRlIGFjdGl2YXRpb24gYW5kIGdlbmUgZXhwcmVzc2lvbiBpbiBzZWEgdXJjaGluIGltbXVuZSBjb2Vsb21vY3l0ZXMgYW5kIHRoZSBldm9sdXRpb24gb2YgZGV1dGVyb3N0b21lIGltbXVuaXR5LiINCg0KUHJlc2VudGF0aW9ucyBhdCBDb25mZXJlbmNlcyANCkNvbXBhcmF0aXZlIEltbXVub2xvZ3kgYW5kIFBhdGhvbG9neSBXb3Jrc2hvcCwgRWRtb250b24gQ2FuYWRhLiAgTWF5IDIwMTEuICAiSW1tdW5lIGRpdmVyc2l0eSBpbiB0aGUgcHVycGxlIHNlYSB1cmNoaW4sIFN0cm9uZ3lsb2NlbnRyb3R1cyBwdXJwdXJhdHVzLiINCkV4cGVyaW1lbnRhbCBCaW9sb2d5ICc5NSwgQXRsYW50YSwgR0EuICBBcHJpbCAxOTk1LiAgIlNlYSB1cmNoaW4gY29lbG9tb2N5dGVzIGV4cHJlc3MgYSBob21vbG9ndWUgb2YgY29tcGxlbWVudCBDMyBhbmQgYSBwdXRhdGl2ZSBjb21wbGVtZW50IHJlY2VwdG9yLiINCkludGVybmF0aW9uYWwgU29jaWV0eSBvZiBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5LCBGaWZ0aCBDb25ncmVzcy4gIFJlZWQgQ29sbGVnZSwgUG9ydGxhbmQsIE9SLiAgQXVnIDQtOSwgMTk5MS4gICJBIGdlbmUgKFNwQ29lbCkgZXhwcmVzc2VkIGluIHNlYSB1cmNoaW4gY29lbG9tb2N5dGVzIHNob3dzIGFuIGluY3JlYXNlIGluIHRyYW5zY3JpcHRzIGFmdGVyIGltbXVuZSBjaGFsbGVuZ2UuIg0KVGhpcmQgSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIHRoZSBCaW9sb2d5IG9mIFNwb25nZXMuICBXb29kcyBIb2xlLCBNQS4gIE5vdiAxNy0yMywgMTk4NS4gICJDZWxsdWxhciBtb3JwaG9sb2d5IG9mIENhbGx5c3BvbmdpYSBkaWZmdXNhLiINCkFtZXJpY2FuIFNvY2lldHkgb2YgWm9vbG9neSwgRGl2aXNpb24gb2YgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neS4gIFBoaWxhZGVscGhpYSwgUEEuICBEZWMgMjctMzAsIDE5ODMuICAiQ2VsbHVsYXIgcmVvcmdhbml6YXRpb24gZHVyaW5nIGFsbG9ncmFmdCByZWplY3Rpb24gaW4gdGhlIEhhd2FpaWFuIHNwb25nZSBDYWxseXNwb25naWEgZGlmZnVzYS4iDQpJbnRlcm5hdGlvbmFsIFNvY2lldHkgb2YgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neSwgVGhpcmQgQ29uZ3Jlc3MuICBVQ0xBLCBMb3MgQW5nZWxlcywgQ0EuICBBdWcgMTQtMTksIDE5ODMuICAiVHJhbnNwbGFudGF0aW9uIEltbXVuaXR5IGluIHRoZSBIYXdhaWlhbiBzcG9uZ2UgQ2FsbHlzcG9uZ2lhIGRpZmZ1c2EuIg0KDQpNRUVUSU5HIE9SR0FOSVpFUiwgU0VTU0lPTiBDSEFJUiANClNlc3Npb24gQ28tQ2hhaXI6ICJQYXR0ZXJuIFJlY29nbml0aW9uIE1vbGVjdWxlcyBhbmQgSW1tdW5lIFNlbnNvcnMgb2YgUGF0aG9nZW5zLiIgIEludGVybmF0aW9uYWwgU29jaWV0eSBvZiBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5LCAxMXRoIENvbmdyZXNzLiAgUHJhZ3VlLCBDemVjaCBSZXB1YmxpYy4gIEp1bmUgMjgtSnVseSA0LCAyMDA5LiAgDQpTeW1wb3NpdW0gb3JnYW5pemVyIGFuZCBjaGFpcjogIkRpdmVyc2l0eSBpbiBJbm5hdGUgSW1tdW5pdHkuIiAgSW50ZXJuYXRpb25hbCBTb2NpZXR5IG9mIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIDEwdGggQ29uZ3Jlc3MuICBDaGFybGVzdG9uIFNDLiAgSnVseSAxLTYsIDIwMDYuICANClNlc3Npb24gQ28tY2hhaXIsICJUaGUgQ29tcGxlbWVudCBTeXN0ZW0uIiAgSW50ZXJuYXRpb25hbCBTb2NpZXR5IG9mIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIDl0aCBDb25ncmVzcy4gIFN0LiBBbmRyZXdzIFNjb3RsYW5kLiAgSnVuZSAyOCAtIEp1bHkgNSwgMjAwMy4gIA0KU2Vzc2lvbiBDby1DaGFpcjogIkV2b2x1dGlvbiBvZiB0aGUgQ29tcGxlbWVudCBTeXN0ZW0uIiAgSW50ZXJuYXRpb25hbCBTb2NpZXR5IG9mIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIDh0aCBDb25ncmVzcywgQ2Fpcm5zIEF1c3RyYWxpYS4gIEp1bHkgMi02LCAyMDAwLiAgDQpNZWV0aW5nIENvLU9yZ2FuaXplci4gIE5TRiBXb3Jrc2hvcCBvbiAiRXZvbHV0aW9uYXJ5IEltbXVub2Jpb2xvZ3k6IE5ldyBBcHByb2FjaGVzLCBOZXcgUGFyYWRpZ21zLiIgIE1lZGljYWwgVW5pdmVyc2l0eSBvZiBTb3V0aCBDYXJvbGluYSwgQ2hhcmxlc3RvbiBTQy4gIEZlYiwgMjItMjUsIDIwMDIuICANCk1lZXRpbmcgT3JnYW5pemVyLiAgTWlkLUF0bGFudGljIFNvY2lldHkgb2YgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neS4gIFdhc2hpbmd0b24gREMuICBBdWd1c3QgNi03LCAxOTk5LiAgDQoNClBST0ZFU1NJT05BTCBNRU1CRVJTSElQUyBhbmQgT1RIRVIgQUZGSUxJQVRJT05TDQpJbnRlcm5hdGlvbmFsIFNvY2lldHkgb2YgRGV2ZWxvcG1lbnRhbCBhbmQgQ29tcGFyYXRpdmUgSW1tdW5vbG9neS4gIDE5ODMgdG8gcHJlc2VudA0KU2VjcmV0YXJ5IG9mIEVkdWNhdGlvbiBhbmQgTWVtYmVyIG9mIHRoZSBFeGVjdXRpdmUgQm9hcmQsIEludGVybmF0aW9uYWwgU29jaWV0eSBvZiBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5LiAgMjAwNi0yMDEyDQpFZGl0b3JpYWwgQm9hcmQsIERldmVsb3BtZW50YWwgYW5kIENvbXBhcmF0aXZlIEltbXVub2xvZ3ksIDIwMDMtcHJlc2VudA0KRWRpdG9yaWFsIEJvYXJkLCBJbnZlcnRlYnJhdGUgU3Vydml2YWwgSm91bmFsLCAyMDA2LXByZXNlbnQNCkFtZXJpY2FuIEFzc29jaWF0aW9uIGZvciB0aGUgQWR2YW5jZW1lbnQgb2YgU2NpZW5jZS4gIDE5OTIgdG8gcHJlc2VudA0KR29sZGVuIEtleSBOYXRpb25hbCBIb25vciBTb2NpZXR5LCBIb25vcmFyeSBNZW1iZXIuIDE5OTggdG8gcHJlc2VudCAoSW52aXRhdGlvbiBmb3IgbWVtYmVyc2hpcCB3YXMgZXh0ZW5kZWQgYnkgR1dVIHVuZGVyZ3JhZHVhdGVzIGFuZCB3YXMgYmFzZWQgb24gb3V0c3RhbmRpbmcgdGVhY2hpbmcuKQ0KRXh0ZXJuYWwgQWR2aXNvcnkgQ29tbWl0dGVlIGZvciBUaGUgQ2VudGVyIGZvciBFdm9sdXRpb25hcnkgYW5kIFRoZW9yZXRpY2FsIEltbXVub2xvZ3k7IGFuIE5JSCBmdW5kZWQgQ09CUkUgcHJvZ3JhbS4gIERlcGFydG1lbnQgb2YgQmlvbG9naWNhbCBTY2llbmNlcywgVW5pdmVyc2l0eSBvZiBOZXcgTWV4aWNvLiAgMjAwNS1wcmVzZW50DQpBc3NvY2lhdGlvbiBmb3IgV29tZW4gaW4gU2NpZW5jZS4gIDIwMDYtcHJlc2VudA0KDQpBZC1Ib2MgUmV2aWV3ZXINCkdyYW50IFByb3Bvc2FsczogIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiAoU2lnbmFsIFRyYW5zZHVjdGlvbiBQYW5lbDsgU2VsZiBSZWNvZ25pdGlvbiwgRGVmZW5zZSBhbmQgU3ltYmlvc2lzIFBhbmVsKSwgTklIIChWZWN0b3IgQmlvbG9neSBQYW5lbCksIE5JU1QsIEV1cm9wZWFuIFNjaWVuY2UgRm91bmRhdGlvbiwgV2VsY29tZSBUcnVzdCwgVVMtSXNyYWVsIEJpbmF0aW9uIFNjaWVuY2UgRm91bmRhdGlvbiwgQXVzdHJhbGlhbiBSZXNlYXJjaCBDb3VuY2lsLCBNYXJ5bGFuZCBTZWEgR3JhbnQsIENhbGlmb3JuaWEgU2VhIEdyYW50DQpKb3VybmFsIE1hbnVzY3JpcHRzOiBBcXVhY3VsdHVyZSwgQmlvbG9naWNhbCBCdWxsZXRpbiwgQmlvdGVjaG5pcXVlcywgQ2VsbCBNb3RpbGl0eSBhbmQgdGhlIEN5dG9za2VsZXRvbiwgQ29tcGFyYXRpdmUgQmlvY2hlbWlzdHJ5IGFuZCBQaHlzaW9sb2d5LCBEZXZlbG9wbWVudGFsIGFuZCBDb21wYXJhdGl2ZSBJbW11bm9sb2d5LCBFTUJPIEpvdXJuYWwsIEV1cm9wZWFuIEpvdXJuYWwgb2YgQmlvY2hlbWlzdHJ5LCBFdXJvcGVhbiBKb3VybmFsIG9mIENlbGwgQmlvbG9neSwgRmlzaCBhbmQgU2hlbGxmaXNoIEltbXVub2xvZ3ksIEdlbmUsIEdlbm9tZSBSZXNlYXJjaCwgR2x5Y29iaW9sb2d5LCBJbW11bm9nZW5ldGljcywgSW50ZWdyYXRpdmUgYW5kIENvbXBhcmF0aXZlIEJpb2xvZ3ksIEludmVydGVicmF0ZSBCaW9sb2d5LCBKb3VybmFsIG9mIEltbXVub2xvZ3ksIFBoeXNpb2xvZ2ljYWwgR2Vub21pY3MsIFBMb1MgT05FLCBQcm9jZWVkaW5ncyBvZiB0aGUgTmF0aW9uYWwgQWNhZGVteSBvZiBTY2llbmNlLCBKb3VybmFsIG9mIEludmVydGVicmF0ZSBQYXRob2xvZ3ksIE5hdHVyZSBSZXZpZXdzIEltbXVub2xvZ3ksIFF1YXJ0ZXJseSBSZXZpZXcgb2YgQmlvbG9neQ0KDQpTVFVERU5UUyBhbmQgUkVTRUFSQ0ggQVNTT0NJQVRFUw0KVmlzaXRpbmcgUmVzZWFyY2ggU2NpZW50aXN0cyANClBhdWwgUy4gR3Jvc3MsIFBoLkQuLCBNZWRpY2FsIFVuaXZlcnNpdHkgb2YgU291dGggQ2Fyb2xpbmEuICBBdWd1c3QgMjAwMA0KRWxlYW5vciBGLiBTaGVwYXJkLCBQaC5ELiwgRGVwdCBvZiBOYXQuIFJlcy4sIENoYXJsZXN0b24sIFNDLiAgQXVndXN0IDIwMDANCkRhdmlkIFJhZnRvcywgUGguRC4sIE1hY3F1YXJpZSBVbml2ZXJzaXR5LCBBdXN0cmFsaWEuICBKdW5lIDE5OTksIEp1bmUgMjAwMCwgU2VwdGVtYmVyIDIwMDAsIEp1bmUgMjAwMywgSnVuZSAyMDA0LCBTYWJiYXRpY2FsIGxlYXZlIEphbi1KdWx5IDIwMDU7IEp1bmUgMjAwNiwgTWF5IDIwMDgNCk1hcmdhcmV0IFN0ZXZlbnMsIFBoLkQuLCBSaXBvbiBDb2xsZWdlLCBXaXNjb25zaW4uICBTYWJiYXRpY2FsIGxlYXZlIEp1bmUgLSBEZWMsIDIwMDENCkphY3F1ZXMgUm9iZXJ0LCBQaC5ELiwgVW5pdmVyc2l0eSBvZiBSb2NoZXN0ZXIuICBGZWJydWFyeSwgMjAwMg0KVHJ1ZHkgR2lsbGV2ZXQsIE1TLiwgTm9ydGhlcm4gVmlyZ2luaWEgQ29tbXVuaXR5IENvbGxlZ2UuICBBcHJpbCAtIEp1bmUsIDIwMDUNClNoYW0gVi4gTmFpciwgUGguRC4sIE1hY3F1YXJpZSBVbml2ZXJzaXR5LiAgSmFudWFyeSAyMDA2LCBKdWx5IDIwMDYuDQpBdmlzIENvaGVuLCBQaC5ELiBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kLiAgU2FiYmF0aWNhbCBsZWF2ZSBKYW51YXJ5IC0gRGVjZW1iZXIsIDIwMDYNCkpvaG4gSGVuc29uLCBQaC5ELiBEaWNraW5zb24gQ29sbGVnZS4gIEphbnVhcnkgLSBKdWx5IDIwMDYNClBvc3QgRG9jdG9yYWwgUmVzZWFyY2ggQXNzb2NpYXRlcw0KUGF1bCBTLiBHcm9zcywgUGguRC4gICBzdW1tZXJzIG9mIDE5OTYtMTk5OQ0KU2hhbSBWLiBOYWlyLCBQaC5ELiAgIDIwMDAgdG8gMjAwMg0KVHVzaGluaSBWLiBkZSBTb3l6YSwgUGguRC4gIDIwMDMgdG8gMjAwNA0KVmlyZ2luaWEgQnJvY2t0b24sIFBoLkQuICAgMjAwNSB0byAyMDA2DQpZb3VuZy1PayBLaW0sIFBoLkQuICAyMDA2IHRvIDIwMDcNCkthdGhlcmluZSBNLiBCdWNrbGV5LCBQaEQgMjAwOA0KU2FuZHJvIFNhY2NoaSwgUGhEICAyMDA5IHRvIDIwMTENCkxpbWVpIFFpdSwgUGhEICAgMjAxMCB0byAyMDExDQp2aXNpdGluZyBmcm9tIHRoZSBDaGluZXNlIEFjYWRlbXkgb2YgU2NpZW5jZQ0KR3JhZHVhdGUgU3R1ZGVudHMgDQpEaXJlY3RvcjogRGlzc2VydGF0aW9ucw0KTG9yaSBDbG93ICAgR2VuZXRpY3MgMTk5Ny0yMDAwIFBoLkQuIDIwMDANCkRhdmlkIFRlcndpbGxpZ2VyICBCaW9sb2d5IDE5OTktMjAwNiAgUGguRC4gMjAwNg0KS2F0aGVyaW5lIEJ1Y2tsZXkgIEJpb2xvZ3kgMjAwMy0yMDA4IFBoLkQuIDIwMDgNCkF1ZHJleSBNYWplc2tlICBCaW9sb2d5IDIwMDUtcHJlc2VudCBEb2N0b3JhbCBDYW5kaWRhdGUNCkp1bGllIEdob3NoICBCaW9sb2d5IDIwMDgtcHJlc2VudCBEb2N0b3JhbCBDYW5kaWRhdGUNCkNoZW5nIE1hbiAoQm9ubmllKSBMdW4gQmlvbG9neSAyMDA5LXByZXNlbnQgRG9jdG9yYWwgU3R1ZGVudA0KQ28tRGlyZWN0b3I6IERpc3NlcnRhdGlvbnMNCkxhd3JlbmNlIExhbnR6ICBHZW5ldGljcyAxOTk3LTE5OTkgUGguRC4gMTk5OQ0KUGF1bCBLcmVpYmVsICBCaW9sb2d5IDIwMDAtMjAwOCBQaC5ELiAyMDA4DQpEaXJlY3RvcjogVGhlc2VzDQpXYWxpZCBBbC1TaGFyaWYgIEdlbmV0aWNzIDE5OTUtMTk5OSBNLlBoLiAxOTk3DQpNZWdoYSBTaGFoICBCaW9sb2d5IDE5OTktMjAwMSBNLlMuIDIwMDENCktlcmkgKEZpc2hlcikgTXVsdGVyZXIgR2VuZXRpY3MgMjAwMC0yMDAzIE0uUy4gMjAwMw0KUHJpeWEgTW9vcmphbmkgR2Vub21pY3MvQmlvaW5mIDIwMDMtMjAwNSBNLlMuIDIwMDUNCkNoYXNlIE1pbGxlciBHZW5vbWljcy9CaW9pbmYgMjAwOC0yMDA5IE0uUy4gMjAwOQ0KQ2F0aGVyaW5lIFNjaHJhbmtlbCBCaW9sb2d5IDIwMDktMjAxMCBNLlMuIDIwMTAgKEJTL01TIHByb2dyYW0pDQpWaXNpdGluZyBHcmFkdWF0ZSBTdHVkZW50cw0KQ2h1biBMaSAgVW5pdiBvZiBOb3J3YXkgMjAwNy0yMDA4DQpFdmVsaW5hIEJlcnRvbG90dGkgVW5pdiBvZiBNb2RlbmEgMS00LzIwMTENCiAgICYgUmVnZ2lvIEVtaWxpYSwgDQpNb2RlbmEgSXRhbHkNCkdyYWR1YXRlIENvbW1pdHRlZSBNZW1iZXJzaGlwDQpEb3JvdGh5IFBodW9uZy1NeSBUcmluaCAgR2VuZXRpY3MgIDE5OTYtMTk5NyBQaC5ELiBNYXkgMTk5Nw0KRGFvdWQgTWVlcnphbWVuICAgIEdlbmV0aWNzICAxOTk3ICBQaC5ELiBNYXkgMTk5Nw0KRGkgSmlhbmcgICAgICBHZW5ldGljcyAgMTk5OCAgUGguRC4gRGVjLiAxOTk4DQpNYXhpbmUgTGVzbmlhayAgICAgR2VuZXRpY3MgIDE5OTctMTk5OSBNLlMuIERlYy4gMTk5OQ0KQ2F0aGxlZW4gQ29zcyAgICAgQmlvbG9neSAgMTk5Ni0yMDAwIFBoLkQuIE1heSAyMDAwDQpSYWNoZWwgUG9sdGlsb3ZlICAgICBHZW5ldGljcyAgMjAwMC0yMDAxIFBoLkQuIE1heSAyMDAxDQpNYXNvdW1laCBBc3NhZGkgICAgIEJpb2xvZ3kgIDE5OTctMjAwMCBQaC5ELiBEZWMuIDIwMDANCkdpbm55IEVtbWVyc29uICAgICBCaW9sb2d5ICAxOTk2LTIwMDIgUGguRC4gTWF5IDIwMDINCk1pcmlhbSBEYXJuZWxsICAgICBHZW5ldGljcyAgMTk5Ny0yMDAyIFBoLkQuIE1heSAyMDAzDQpUdWxpbiBPbGNvbSAgICAgQmlvbG9neSAgMTk5OS0yMDAyIFBoLkQuIERlYy4gMjAwMg0KS2F0aGkgQmV1dGxlciAgICAgQmlvbG9neSAgMTk5OS0yMDA0IFBoLkQuIE1heSAyMDA0DQpOYXRoYW5pZWwgQnJpdHRhaW4gICAgIEdlbmV0aWNzL05JSCAyMDA0LTIwMDYgUGguRC4gQXVnLiAyMDA2DQpKZXNzaWNhIFNob2NrZXkgICAgIE1lZGljYWwgVW5pdiBTQyAyMDA0LTIwMDggUGguRC4gIERlYy4gMjAwOA0KRWxpemFiZXRoIE92ZXJsYW5kICAgIEJpb2xvZ3kgIDIwMDctMjAwOCBQaC5ELiBzdHVkZW50DQpSYWNoZWwgVHJ1aGFuICAgICBCaW9sb2d5ICAyMDA3LTIwMDggTS5TLiAgTWF5IDIwMDgNClRhcmEgU2N1bGx5ICAgICBCaW9sb2d5ICAyMDA4LXByZXNlbnQgUGguRC4gc3R1ZGVudA0KUGFhcXVhIEdyYW50ICAgICBCaW9sb2d5ICAyMDEwLXByZXNlbnQgUGguRC4gQ2FuZGlkYXRlDQpSb3RhdGlvbiBHcmFkdWF0ZSBTdHVkZW50cw0KSmVubmlmZXIgU29sb21vbiAgICAgICAgICBHV0lCUyBPbmNvbG9neSBzdW1tZXIgMTk5OA0KQ2hhc2UgTWlsbGVyICAgICAgICAgIEdlbm9taWNzL0Jpb2luZiBzcHJpbmcgMjAwOA0KQ2hyaXN0b3BoZXIgUmVlcyAgICAgICAgICBHZW5vbWljcy9CaW9pbmYgc3ByaW5nIDIwMDgNClJlc2VhcmNoIFRlY2huaWNpYW5zDQpDbGF1ZGlvIEd1dHRtYW4sIExhYm9yYXRvcnkgUmVzZWFyY2ggVGVjaG5pY2lhbiwgMjAwNC0yMDA1DQpHLiBQYXQgUmlvcmRhbiwgTWFuYWdlciwgU2VxdWVuY2luZyBGYWNpbGl0eSBmb3IgdGhlIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIDIwMDYtcHJlc2VudA0KUmViZWNjYSBFYXNsZXksIExhYm9yYXRvcnkgUmVzZWFyY2ggVGVjaG5pY2lhbiwgMjAwNi0yMDA3DQpVbmRlcmdyYWR1YXRlIFN0dWRlbnRzICAxUkVVOyBOU0YgUmVzZWFyY2ggRXhwZXJpZW5jZSBmb3IgVW5kZXJncmFkdWF0ZXMuICANCiAgICAgICAgIDJTVVJGOiBTdW1tZXIgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBGZWxsb3cgYXQgQ2FsdGVjaC4gIA0KICAgICAgICAgKkNvLWF1dGhvciBvbiBhIHB1YmxpY2F0aW9uKQ0KQ2FsdGVjaDoNCk1pa2UgR3JhaGFtICAxOTg1DQpBbGkgTGFzaGdhcmkgIDE5ODYNCkpvaG4gQm93ZXJzMiAgMTk4Ny0xOTg4ICAgICAyU1VSRjogMTk4OA0KQWFyb24gUGV0dHkgIDE5OTAtMTk5MyBTVVJGOiAxOTkyDQpMaWx5IENoYW5nKiAgMTk5My0xOTk0IFNVUkY6IDE5OTQNCkNoYXJsZXMgTGVlMSwyICAxOTk0LTE5OTUgU1VSRiAxOTk0LCAxUkVVIDE5OTUNCkdlb3JnZSBXYXNoaW5ndG9uIFVuaXZlcnNpdHk6DQpDaGllLVNjaGluIFNoaWgxKiAgMTk5NS0xOTk3IFJFVSAxOTk2LCBTcGVjaWFsIEhvbm9ycyBpbiBCaW9sLCBNYXkgMTk5Nw0KU2ViYXN0aWFuIERhY2hlbmhhdXNlbiogMTk5Ni0xOTk3IFNwZWNpYWwgSG9ub3JzIGluIEJpb2wsIE1heSAxOTk3DQpEYXZpZCBMaW1hICAxOTk2LTE5OTcNCkxlZSBIZWltYW4gIGZhbGwgMTk5Nw0KTWFyeSBBbm4gTWNZYXQxICAxOTk3LTE5OTkgUkVVIDE5OTgNClN1c2FuIFBlc2NpMSAgMTk5OC0yMDAwIFJFVSAxOTk5LCBTcGVjaWFsIEhvbm9ycyBpbiBCaW9sLCBNYXkgMjAwMA0KU2FiaW5hIFNpZGRpcXVpMSAgc3VtbWVyIDE5OTkgUkVVIDE5OTkNClNvaHVtIE1laHRhICAyMDAxLTIwMDINCkhlYXRoZXIgRGVsIFZhbGxlKiAyMDAyLTIwMDMNCk1lZ2FuIERpeG9uICAyMDAyLTIwMDQNCkpvbmF0aGFuIE1lbmRlbHNvbiAyMDA0LTIwMDUgSEhNSSBGZWxsb3dzaGlwLCBzdW1tZXIgMjAwNA0KICAgICAgR2VvcmdlIEdhbW93IEZlbGxvd3NoaXAsIHN1bW1lciAyMDA1IA0KTGluZHNheSBFZHdhcmRzICAyMDA1LTIwMDcNCkphc29uIFBvd2xvd3NraSAgc3VtbWVyIDIwMDYNCkNhcm9saW5lIFJvc2EgIGZhbGwgMjAwNg0KS2hpbiBTb25lICAgc3ByaW5nIDIwMDcNCkthdGllIFphbGVza2UgIHNwcmluZyAyMDA3DQpXZWktU2VybiBDaGVhaCAgc3ByaW5nIDIwMDcNCkNoYXJsZXMgWmlzY292aWNpICBzdW1tZXIgMjAwNw0KUHJhdmVlbiBTYXZhbGdpICAyMDA3LTIwMDggIEhITUkgRmVsbG93c2hpcCwgc3VtbWVyIDIwMDcNCkxhaWxhIEdoYXVyaSAgMjAwNy0yMDA4DQpFbGl6YWJldGggSG95ZSAgc3VtbWVyIDIwMDggIE5TRiBSRVUgc3R1ZGVudCBmcm9tIFUgV2lzYyBNYWRpc29uDQpDYXRoZXJpbmUgU2NocmFua2VsIDIwMDgtMjAwOSAgSEhNSSBGZWxsb3dzaGlwLCBzdW1tZXIgMjAwOA0KICAgICAgIEVub3NpbmlhbiBTY2hvbGFyIFByb2dyYW0gMjAwOC0yMDA5DQogICAgICAgRW5vc2luaWFuIEhvbm9ycywgTWF5IDIwMDkNClRheWxvciBHb3VsZCAgc3VtbWVyLCBmYWxsIDIwMDkNCkxhdXJlbiBDYW5hcnkgIDIwMTAtMjAxMSAgRW5vc2luaWFuIFNjaG9sYXIgUHJvZ3JhbSAyMDEwLTIwMTENCkVub3NpbmlhbiBIb25vcnMsIE1heSAyMDExDQpMYXVyZW4gU2hlcm1hbiAgZmFsbCAyMDEwLXByZXNlbnQgTHV0aGVyIFJpY2UgQXdhcmQsIDIwMTEtMjAxMg0KSGFybGFuIFVuZGVyZ3JhZHVhdGUgU3VtbWVyIFNjaG9sYXJzaGlwLCBzdW1tZXIgMjAxMQ0KSHVuZy1ZZW4gKFBldGVyKSBDaG91IGZhbGwgMjAxMC1wcmVzZW50DQpQcmVldGhpIEdvbGNvbmRhICBzdW1tZXIgMjAxMS1wcmVzZW50DQpNZWRpY2FsIFN0dWRlbnRzIA0KQ2hpZS1TY2hpbiBTaGloKiBzdW1tZXIgMTk5OCAgR1dVIE1lZCBTY2hvb2wsIEdpbGwgQXdhcmQgZm9yIHN1bW1lciByZXNlYXJjaA0KRGhydXRpIE1laHRhKiAgc3VtbWVyIDIwMDIgIEhvd2FyZCBVbml2ZXJzaXR5IE1lZGljYWwgU2Nob29sDQpIaWdoIFNjaG9vbCBTdHVkZW50cw0KTmljb2xlIFJpdHRlciogIHN1bW1lcnMgMjAwMywgMjAwNCAgIFBsYWluZmllbGQgSFMsIEluZGlhbmENCk1vbmljYSBTdG9uZSAgMjAwOC0yMDEwICBBY2FkZW15IG9mIHRoZSBTY2llbmNlcywgU3RlcmxpbmcgVkENCk1haGEgSGFzc2FuICAyMDExLXByZXNlbnQgIEdlb3JnZSBDLiBNYXJzaGFsbCBIUywgRmFsbHMgQ2h1cmNoIFZBDQoNCg0KDQoNCg0KDQoNCg0KUEFHRSAgDQoNCg0KUEFHRSAgNg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911053306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

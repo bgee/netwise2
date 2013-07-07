@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:30 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915520306521"  usageLimitType="allocation" usageLimit="200" currentUsage="51" remainingUsage="149" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Todd W. Anderson</FormattedName>
+<GivenName>Todd</GivenName>
+<MiddleName>W.</MiddleName>
+<FamilyName>Anderson</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>92182-4614</PostalCode>
+<Region>California</Region>
+<Municipality>San Diego</Municipality>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (619) 594-0995</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>619</AreaCityCode>
+<SubscriberNumber>594-0995</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (619) 594-5676</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>619</AreaCityCode>
+<SubscriberNumber>594-5676</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>todda@sunstroke.sdsu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>San Diego State University</EmployerOrgName>
+<PositionHistory>
+<Title>Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Biology
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Coastal &amp; Marine Institute</EmployerOrgName>
+<PositionHistory>
+<Title>Director</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>College of Sciences, San Diego State University
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>San Diego State University</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Biology
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Department of Biology
+</Description>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Oregon State University</EmployerOrgName>
+<PositionHistory>
+<Title>Research Associate</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Department of Zoology
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Huxley College of Environmental Studies</EmployerOrgName>
+<PositionHistory>
+<Title>Lecturer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Western Washington University</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Friday Harbor Laboratories, University of Washington
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of California</EmployerOrgName>
+<PositionHistory>
+<Title>Postgraduate Researcher</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Santa Barbara</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>California State University</EmployerOrgName>
+<PositionHistory>
+<Title>Lecturer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Department of Biology, Northridge
+</Description>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Santa Barbara</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.A</DegreeName>
+<DegreeDate>
+<AnyDate>1983-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Moss Landing Marine Laboratories</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>California State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Fresno</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1978-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Plant Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Top-down control of epifauna by fishes enhances seagrass production</Title>
+<Name role="author">
+<FormattedName>Lewis, L.S., and T.W. Anderson</FormattedName>
+</Name>
+<JournalOrSerialName>Ecology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Density dependence and population regulation in marine fish: a large-scale long-term field manipulation</Title>
+<Name role="author">
+<FormattedName>Hixon, M.A., T.W. Anderson, K.L. Buch, D. W. Johnson, J.B. McLeod, and C.D. Stallings</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecological Monographs</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Essington</Title>
+<Name role="author">
+<FormattedName>Hunsicker, M.E., L. Ciannelli, K.M. Bailey, J.A. Buckel, J.W. White, J.S. Link, T.E</FormattedName>
+</Name>
+<JournalOrSerialName>S.Gaichas T.W</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Predator biomass prey density and species composition effects on group size in recruit coral reef fishes</Title>
+<Name role="author">
+<FormattedName>DeMartini, E.E., T.W. Anderson, A.M. Friedlander, and J.P. Beets</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Management implications of juvenile reef fish habitat preferences and coral susceptibility to stressors</Title>
+<Name role="author">
+<FormattedName>DeMartini, E.E., T.W. Anderson, J.C. Kenyon, A.M. Friedlander, and J.P. Beets</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Habitat fragmentation patch size and the distribution and abundance of kelp forest fishes</Title>
+<Name role="author">
+<FormattedName>Deza, A.A., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Functional diversity in amphipods revealed by stable isotopes in an eelgrass ecosystem</Title>
+<Name role="author">
+<FormattedName>Farlin, J.P., L.S. Lewis, T.W. Anderson, and C.T. Lai</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Interactive effects of nutritional condition and refuge availability on survival of a temperate reef goby</Title>
+<Name role="author">
+<FormattedName>Floyd, E.Y., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Consequences of habitat disturbance and recovery to recruitment and the abundance of kelp forest fishes</Title>
+<Name role="author">
+<FormattedName>O&apos;Connor, K.C., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Experimental Marine Biology and Ecology 386:1-10</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Fish-habitat associations and the role of disturbance in surfgrass beds</Title>
+<Name role="author">
+<FormattedName>Galst, C.A., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Guide to identification and surveying of near shore fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In Sampling biodiversity in coastal communities - NaGISA protocols for seagrass and macroalgal habitats</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Patterns and mechanisms of variable settlement and recruitment of a coral reef damselfish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W., M.H. Carr, and M.A. Hixon</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chromis cyanea</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Positive indirect effects of reef fishes on kelp performance: the importance of mesograzers</Title>
+<Name role="author">
+<FormattedName>Davenport A.C., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecology 88:1548-1561</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Habitat associations and aggregation of recruit fishes on Hawai&apos;ian coral reefs</Title>
+<Name role="author">
+<FormattedName>DeMartini, E.E., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Bulletin of Marine Science 81:139-152</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Genetic structure of leopard shark</Title>
+<Name role="author">
+<FormattedName>Lewallen, E.A., T.W. Anderson, and A.J. Bohonak</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Triakis semifasciata)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Quantifying the performance of different artificial reef designs in mitigating losses to kelp bed fishes</Title>
+<Name role="author">
+<FormattedName>Reed, D.C., S.C. Schroeter, D. Huang, and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Bulletin of Marine Science 78:133-150</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Predation</Title>
+<Name role="author">
+<FormattedName>Steele, M.A. and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>In Ecology of marine fishes: California and adjacent waters</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Habitat-dependent recruitment of two temperate reef fishes at multiple spatial scales</Title>
+<Name role="author">
+<FormattedName>Andrews, K.S., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Biodiversity population regulation and the stability of coral-reef fish communities</Title>
+<Name role="author">
+<FormattedName>Carr, M.H., T.W. Anderson, and M.A. Hixon</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Proceedings of the National Academy of Sciences 99:11241-11245</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Predator responses prey refuges and density-dependent mortality of a marine fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecology 82:245-257</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Effects of kinship on growth of a live-bearing reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W. and B.M. Sabado</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>BINCKE: A highly efficient net for collecting reef fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W. and M.H. Carr</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1998</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Environmental Biology of Fishes 51:111-115</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Differential reproductive responses to fluctuating resources in two seaweeds with different reproductive strategies</Title>
+<Name role="author">
+<FormattedName>Reed, D.C., A.W. Ebeling, T.W. Anderson, and M. Anghera</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecology 77:300-316</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Correspondence between food availability and growth of a planktivorous temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W. and B.M. Sabado</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1995</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Experimental Marine Biology and Ecology 189:65-76</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Role of macroalgal structure in the distribution and abundance of a temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>The influence of an artificial reef on the surrounding infaunal community</Title>
+<Name role="author">
+<FormattedName>Ambrose, R.F. and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1990</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>The relationship between habitat structure body size and distribution of fishes at a temperate artificial reef</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W., E.E. DeMartini and D.A. Roberts</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1989</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Bulletin of Marine Science 44:681-697</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Population estimates of four kelp forest fishes and an evaluation of three in situ assessment techniques</Title>
+<Name role="author">
+<FormattedName>Davis, G.E. and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1989</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Bulletin of Marine Science 44:1138-1151</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Contrasting patterns of fish density and abundance at an artificial rock reef and a cobble-bottom kelp forest</Title>
+<Name role="author">
+<FormattedName>DeMartini, E.E., D.A. Roberts and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1989</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Bulletin of Marine Science 44:881-892</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Growth and sediment disturbances of Caulerpa spp</Title>
+<Name role="author">
+<FormattedName>Williams, S.L., V.A. Breda, T.W. Anderson and B.B. Nyden</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1985</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Chlorophyta)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Symposia Anderson T. L. Lewis and C. Jones</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>The role of fishes in ecosystem function and evaluating habitat quality in eelgrass beds</JournalOrSerialName>
+<Volume>1st</Volume>
+</Article>
+<Article>
+<Title>Habitats and social groupings of recruit reef fishes in Hawaii</Title>
+<Name role="author">
+<FormattedName>DeMartini, E., T. Anderson, A. Friedlander</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Quantifying the performance of different reef designs on kelp bed fish and benthic community development at the San Clemente experimental artificial reef</Title>
+<Name role="author">
+<FormattedName>Schroeter, S., D. Huang, T. Anderson, and R. Grove</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Southern California Academy of Sciences</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The role of predation in the ecology of California&apos;s marine fishes</Title>
+<Name role="author">
+<FormattedName>Steele, M.A., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Ecology of fishes in kelp canopies</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Delivery mechanisms limit larval supply in coral reef fishes</Title>
+<Name role="author">
+<FormattedName>Hixon, M.A., V. Dufour, T.W. Anderson, and P.J. Doherty</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Western Society Effective barriers to dispersal of the larvae of coral-reef fishes</Title>
+<Name role="author">
+<FormattedName>Hixon, M.A., V. Dufour, and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1998</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The golden years: the ecology of kelp colonization</Title>
+<Name role="author">
+<FormattedName>Reed, D.C., D.R. Laur, and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Invited Seminars Anderson T.W</Title>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Linking individual condition and performance to population processes in temperate reef fishes</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Population processes and individual performance in recruitment success of reef fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Population and community ecology of reef fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>University of Southern California Wrigley Marine Science Center</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Interactive effects of habitat structure and predation on recruitment success of reef fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>University of Southern California Wrigley Marine Science Center Santa Catalina Island California Anderson T.W</JournalOrSerialName>
+<Volume>2002.</Volume>
+</Article>
+<Article>
+<Title>Processes influencing recruitment success of reef fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>American Institute of Fisheries Research Biologists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Recruitment processes and population dynamics of reef fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>California State University</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Population dynamics and regulation in temperate and tropical reef fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Population ecology of reef fishes: examples from temperate and tropical systems</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>University of Southern California Wrigley Marine Science Center Santa Catalina Island California Anderson T.W</JournalOrSerialName>
+<Volume>1999.</Volume>
+</Article>
+<Article>
+<Title>Density-dependent processes and population consequences for a temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1997</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Department of Zoology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Population dynamics and recruitment success in reef fishes: looking for answers and finding more questions Department of Marine Science</Title>
+<Name role="author">
+<FormattedName>Anderson T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>University of Otago</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The role of macroalgal structure in recruitment success of a temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>School of Fisheries University of Washington</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Density-dependent processes and population consequences for a temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Density-dependent processes and their consequences for a marine temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1996</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Department of Biology University of Wisconsin</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Consequences of density-dependent processes in a marine reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1995</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Department of Zoology University of Washington</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Contributed Papers Wheeler S.G</Title>
+<Name role="author">
+<FormattedName>T.W. Anderson, and S.G. Morgan</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Biological and oceanographic drivers of variation in recent settlement of copper rockfish</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Evaluating eelgrass habitat quality by fish settlement performance and survival</Title>
+<Name role="author">
+<FormattedName>Jones, C.L., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Benthic Ecology Meetings</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Spatial patterns of invertebrate settlement in a giant kelp forest</Title>
+<Name role="author">
+<FormattedName>Morton, D.N., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Benthic Ecology Meetings</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Understanding the role of habitat in mediating predation risk of larval fish exposed to the pyrethroid insecticide esfenvalerate</Title>
+<Name role="author">
+<FormattedName>Compton, V.M., T.W. Anderson, S.G. Morgan, and G.N. Cherr</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Society of Environmental Toxicology and Chemistry North America</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Understanding the role of habitat in mediating predation risk of larval fish exposed to a pyrethroid insecticide</Title>
+<Name role="author">
+<FormattedName>Compton, V.M., T.W. Anderson, S.G. Morgan, and G.N. Cherr</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Evaluating eelgrass habitat quality by fish settlement performance and survival</Title>
+<Name role="author">
+<FormattedName>Jones, C.L., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Spatial patterns of invertebrate settlement in a giant kelp forest</Title>
+<Name role="author">
+<FormattedName>Morton, D.N., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Stable isotope analysis of amphipods in an eelgrass food web</Title>
+<Name role="author">
+<FormattedName>Farlin, J.P., L.S. Lewis, T.W. Anderson, and C.T. Lai</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Recruitment and population dynamics of a coral-reef fish: a large-scale long-term field experiment</Title>
+<Name role="author">
+<FormattedName>Hixon, M., T. Anderson, K. Buch, D. Johnson, and C. Stallings</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>11th International Coral Reef Symposium</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The nearshore rocky-reef fishes of the Southern California Islands</Title>
+<Name role="author">
+<FormattedName>Pondella, D.J. II, T. Anderson, M. Bergen, M. Carr, J. Carroll, J. Caselle, M. Edwards, and D. Schroeder</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>7th California Islands Symposium</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Deza and K.C</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W., A.A</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Effects of habitat fragmentation and patch size on recruitment and the abundance of kelp forest fishes</Title>
+<Name role="author">
+<FormattedName>Deza, A.A., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Consequences of habitat disturbance and recovery to recruitment and the abundance of kelp forest fishes</Title>
+<Name role="author">
+<FormattedName>O&apos;Connor, K.C., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Predation in eelgrass beds: do trophic manipulations result in cascading effects* Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Habitat loss and fish assemblages in surfgrass beds</Title>
+<Name role="author">
+<FormattedName>Galst, C.J., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2006</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Relative importance of nutritional condition and refuge availability for survival of the blackeye goby</Title>
+<Name role="author">
+<FormattedName>Floyd, E.Y., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Are there differential effects of reef fishes on giant kelp performance* Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Positive indirect effects of reef fishes on giant kelp performance</Title>
+<Name role="author">
+<FormattedName>Davenport, A.C., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Relative importance of habitat attributes to predation risk in a temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Gregor, C.A., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Structural complexity of seagrass influences patterns of recruitment of fishes in San Diego Bay</Title>
+<Name role="author">
+<FormattedName>Lipski, D.M., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Predator-mediated recruitment of kelp-associated fishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W., and A.C. Davenport</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Variation in settlement and post-settlement processes in patterns of recruitment of a coral reef damselfish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W., M.A. Hixon, and M.H. Carr</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Habitat structure and recruitment of two near-shore reef fishes at multiple scales</Title>
+<Name role="author">
+<FormattedName>Andrews, K.S., and T. W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Delivery mechanisms limit larval supply in coral reef fishes</Title>
+<Name role="author">
+<FormattedName>Hixon, M.A., V. Dufour, T.W. Anderson, and P.J. Doherty</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ninth International Coral Reef Symposium</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Relative importance of</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1999</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Both predators and competitors are required to cause density-dependent mortality of a coral-reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W., M.H. Carr, and M.A. Hixon</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1998</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Role of reproductive synchrony in the colonization potential of kelp</Title>
+<Name role="author">
+<FormattedName>Reed, D.C., T.W. Anderson, A.W. Ebeling, and M. Anghera</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1997</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>The role of macroalgal structure in the distribution and abundance of a temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1994</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Ecological and Evolutionary Ethology of Fishes</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Predatory effects on a temperate reef fish</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1991</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Density-dependent growth in a planktivorous temperate reef fish: a potential determinant of aggregation size</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1990</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The relationship between habitat structure body size and distribution of fishes at a temperate artificial reef</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W., E.E. DeMartini, and D.A. Roberts</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1987</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Identification and development of juvenile rockfishes</Title>
+<Name role="author">
+<FormattedName>Anderson, T.W</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1981</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(genus Sebastes)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Posters Wheeler S.G</Title>
+<Name role="author">
+<FormattedName>C.M. Muir, and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Evaluating patterns of larval growth and pelagic larval duration between winter and spring spawning rockfishes</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Nonlethal consequences of predator-induced stress in a macrophyte-associated fish</Title>
+<Name role="author">
+<FormattedName>Brower, J.P., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The influence of parturition</Title>
+<Name role="author">
+<FormattedName>Wheeler, S.G., T.W. Anderson, S.G. Morgan, and J.A. Hobbs</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>The influence of parturition</Title>
+<Name role="author">
+<FormattedName>Wheeler, S.G., T.W. Anderson, S.G. Morgan, and J.A. Hobbs</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Understanding the role of habitat in mediating predation risk of larval fish exposed to an insecticide</Title>
+<Name role="author">
+<FormattedName>Compton, V.M., T.W. Anderson, S.G. Morgan, and G.N. Cherr</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Density effects on grouping behavior and habitat associations of recruit reef fishes in Hawaii: contrasts between years and among species</Title>
+<Name role="author">
+<FormattedName>DeMartini, E.E., T.W. Anderson, A.M. Friedlander, and J.P. Beets</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>11th International Coral Reef Symposium</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Predation in eelgrass beds: do trophic manipulations result in cascading effects* Southern California Academy of Sciences</Title>
+<Name role="author">
+<FormattedName>Lewis, L.S., and T.W. Anderson</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Bohonak and T.W</Title>
+<Name role="author">
+<FormattedName>Lewallen, E., A</FormattedName>
+</Name>
+<JournalOrSerialName>Can growth history influence swimming performance in marine fishes* Western Society of Naturalists</JournalOrSerialName>
+</Article>
+<ConferencePaper>
+<Title>Habitat structure and fish production at an experimental artificial reef</Title>
+<Name role="author">
+<FormattedName>Sharfi, S., T.W. Anderson, D.C. Reed, and S.C. Schroeter</FormattedName>
+</Name>
+<EventName>8th Conference on Artificial Reefs and Artificial Habitats</EventName>
+<ConferenceDate>
+<StringDate>2005</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Biloxi Mississippi</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Management-conservation implications of species differences in juvenile reef fish habitat electivity and coral susceptibility to anthropogenic stressors</Title>
+<Name role="author">
+<FormattedName>DeMartini, E.E., J.C. Kenyon, T.W. Anderson, A.M. Friedlander, and J.P. Beets</FormattedName>
+</Name>
+<EventName>8th Indo-Pacific Fish Conference</EventName>
+<ConferenceDate>
+<StringDate>2009</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Monterey CA</ConferenceLocation>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Feeding ecology and trophic status of pelagic sharks from the eastern north Pacific inferred from d13C and d15N</Title>
+<Name role="author">
+<FormattedName>Suk, S.H., T.W. Anderson, and J.A. Seminoff</FormattedName>
+</Name>
+<EventName>Fifth International Conference on Applications of Stable Isotope Techniques to Ecological Studies</EventName>
+<ConferenceDate>
+<StringDate>2006</StringDate>
+</ConferenceDate>
+<ConferenceLocation>Belfast Northern Ireland</ConferenceLocation>
+</ConferencePaper>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "SAN (Storage Area Network)">
+<CompetencyEvidence name ="SAN (Storage Area Network)" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">5</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>American Association for the Advancement of Science</Name>
+</Association>
+<Association>
+<Name>Ecological Society of America</Name>
+</Association>
+<Association>
+<Name>Southern California Academy of Sciences</Name>
+</Association>
+<Association>
+<Name>Western Society of Naturalists</Name>
+</Association>
+<Association>
+<Name>Review Panels / Advisory Committees</Name>
+</Association>
+<Association>
+<Name>California Dept.</Name>
+</Association>
+<Association>
+<Name>Fish &amp; Game Nearshore Fishery Management Plan Advisory Committee</Name>
+</Association>
+<Association>
+<Name>California Dept.</Name>
+</Association>
+<Association>
+<Name>Fish &amp; Game Ocean Resources Enhancement and Hatchery Program Panel</Name>
+</Association>
+<Association>
+<Name>California Ocean Science Trust, Expert Advisory Committee, Oil Platform Decommissioning Study</Name>
+</Association>
+<Association>
+<Name>National Science Foundation, Biological Oceanography Panel</Name>
+</Association>
+<Association>
+<Name>National Science Foundation, International Research Fellowship Program Panel</Name>
+</Association>
+<Association>
+<Name>National Oceanic and Atmospheric Administration, National Undersea Research Center Panel, West Coast &amp; Polar Regions U.S.</Name>
+</Association>
+<Association>
+<Name>Fish and Wildlife, Advisory Committee, South San Diego Bay Restoration Project</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>VG9kZCBXLiBBbmRlcnNvbg0KDQpQcm9mZXNzb3Igb2YgQmlvbG9neSBhbmQgRGlyZWN0b3IsIENvYXN0YWwgJiBNYXJpbmUgSW5zdGl0dXRlDQoNCkRlcGFydG1lbnQgb2YgQmlvbG9neQ0KDQpTYW4gRGllZ28gU3RhdGUgVW5pdmVyc2l0eQ0KDQpTYW4gRGllZ28sIENhbGlmb3JuaWEgOTIxODItNDYxNCAgICANCg0KDQoNCkUtbWFpbDogICAgdG9kZGFAc3Vuc3Ryb2tlLnNkc3UuZWR1DQoNClBob25lOiAgIDYxOS01OTQtMDk5NQ0KDQpGQVg6ICAgICAgIDYxOS01OTQtNTY3NiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICANCg0KRWR1Y2F0aW9uDQoNClBoLkQuICAgQmlvbG9neSAgIDE5OTMgICBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEsIFNhbnRhIEJhcmJhcmENCg0KTS5BLiAgIEJpb2xvZ3kgICAxOTgzICAgTW9zcyBMYW5kaW5nIE1hcmluZSBMYWJvcmF0b3JpZXMNCg0KQi5TLiAgIFBsYW50IFNjaWVuY2UgICAxOTc4ICAgQ2FsaWZvcm5pYSBTdGF0ZSBVbml2ZXJzaXR5LCBGcmVzbm8NCg0KUHJvZmVzc2lvbmFsIEV4cGVyaWVuY2UgIA0KDQoyMDEwLXByZXNlbnQgICBQcm9mZXNzb3IgICBEZXBhcnRtZW50IG9mIEJpb2xvZ3ksIFNhbiBEaWVnbyBTdGF0ZSBVbml2ZXJzaXR5DQoNCjIwMDgtcHJlc2VudCAgIERpcmVjdG9yLCBDb2FzdGFsICYgTWFyaW5lIEluc3RpdHV0ZSAgIENvbGxlZ2Ugb2YgU2NpZW5jZXMsIFNhbiBEaWVnbyBTdGF0ZSBVbml2ZXJzaXR5DQoNCjIwMDUtMjAxMCAgIEFzc29jaWF0ZSBQcm9mZXNzb3IgICBEZXBhcnRtZW50IG9mIEJpb2xvZ3ksIFNhbiBEaWVnbyBTdGF0ZSBVbml2ZXJzaXR5DQoNCjE5OTktMjAwNSAgIEFzc2lzdGFudCBQcm9mZXNzb3IgICBEZXBhcnRtZW50IG9mIEJpb2xvZ3ksIFNhbiBEaWVnbyBTdGF0ZSBVbml2ZXJzaXR5DQoNCjE5OTctOTkgICBSZXNlYXJjaCBBc3NvY2lhdGUgICBEZXBhcnRtZW50IG9mIFpvb2xvZ3ksIE9yZWdvbiBTdGF0ZSBVbml2ZXJzaXR5DQoNCjE5OTYgICBMZWN0dXJlciAgIEh1eGxleSBDb2xsZWdlIG9mIEVudmlyb25tZW50YWwgU3R1ZGllcywgV2VzdGVybiBXYXNoaW5ndG9uIFVuaXZlcnNpdHkNCg0KMTk5NC05NiAgIFBvc3Rkb2N0b3JhbCBGZWxsb3cgICBGcmlkYXkgSGFyYm9yIExhYm9yYXRvcmllcywgVW5pdmVyc2l0eSBvZiBXYXNoaW5ndG9uDQoNCjE5OTQgICBQb3N0Z3JhZHVhdGUgUmVzZWFyY2hlciAgIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSwgU2FudGEgQmFyYmFyYQ0KDQoxOTkyLTk0ICAgTGVjdHVyZXIgICBEZXBhcnRtZW50IG9mIEJpb2xvZ3ksIENhbGlmb3JuaWEgU3RhdGUgVW5pdmVyc2l0eSwgTm9ydGhyaWRnZQ0KDQpQdWJsaWNhdGlvbnMNCg0KDQoNCkxld2lzLCBMLlMuLCBhbmQgVC5XLiBBbmRlcnNvbi4gVG9wLWRvd24gY29udHJvbCBvZiBlcGlmYXVuYSBieSBmaXNoZXMgZW5oYW5jZXMgc2VhZ3Jhc3MgcHJvZHVjdGlvbi4gRWNvbG9neSAoaW4gcHJlc3MpLg0KDQoNCg0KSGl4b24sIE0uQS4sIFQuVy4gQW5kZXJzb24sIEsuTC4gQnVjaCwgRC4gVy4gSm9obnNvbiwgSi5CLiBNY0xlb2QsIGFuZCBDLkQuIFN0YWxsaW5ncy4gMjAxMi4gRGVuc2l0eSBkZXBlbmRlbmNlIGFuZCBwb3B1bGF0aW9uIHJlZ3VsYXRpb24gaW4gbWFyaW5lIGZpc2g6IGEgbGFyZ2Utc2NhbGUsIGxvbmctdGVybSBmaWVsZCBtYW5pcHVsYXRpb24uIEVjb2xvZ2ljYWwgTW9ub2dyYXBocyAoaW4gcHJlc3MpLg0KDQoNCg0KSHVuc2lja2VyLCBNLkUuLCBMLiBDaWFubmVsbGksIEsuTS4gQmFpbGV5LCBKLkEuIEJ1Y2tlbCwgSi5XLiBXaGl0ZSwgSi5TLiBMaW5rLCBULkUuIEVzc2luZ3RvbiwgUy5HYWljaGFzLCBULlcuIEFuZGVyc29uLCBSLkQuIEJyb2RldXIsIEsuUyBDaGFuLCBLLiBDaGVuLCBHLiBFbmdsdW5kLCBLLlQuIEZyYW5rLCBWLiBGcmVpdGFzLCBNLkEuIEhpeG9uLCBULiBIdXJzdCwgRC5XLiBKb2huc29uLCBKLkYuIEtpdGNoZWxsLCBELiBSZWVzZSwgRy5BLiBSb3NlLCBILiBTam9kaW4sIFcuSi4gU3lkZW1hbiwgSC5XLiB2YW4gZGVyIFZlZXIsIEsuIFZvbGxzZXQsIGFuZCBTLiBaYWRvci4gMjAxMS4gRnVuY3Rpb25hbCByZXNwb25zZXMgYW5kIHNjYWxpbmcgaW4gcHJlZGF0b3ItcHJleSBpbnRlcmFjdGlvbnMgb2YgbWFyaW5lIGZpc2hlczogY29udGVtcG9yYXJ5IGlzc3VlcyBhbmQgZW1lcmdpbmcgY29uY2VwdHMuIEVjb2xvZ3kgTGV0dGVycyAxNDoxMjg4LTEyOTkuDQoNCg0KDQpEZU1hcnRpbmksIEUuRS4sIFQuVy4gQW5kZXJzb24sIEEuTS4gRnJpZWRsYW5kZXIsIGFuZCBKLlAuIEJlZXRzLiAyMDExLiBQcmVkYXRvciBiaW9tYXNzLCBwcmV5IGRlbnNpdHksIGFuZCBzcGVjaWVzIGNvbXBvc2l0aW9uIGVmZmVjdHMgb24gZ3JvdXAgc2l6ZSBpbiByZWNydWl0IGNvcmFsIHJlZWYgZmlzaGVzLiBNYXJpbmUgQmlvbG9neSAxNTg6MjQzNy0yNDQ3Lg0KDQoNCg0KRGVNYXJ0aW5pLCBFLkUuLCBULlcuIEFuZGVyc29uLCBKLkMuIEtlbnlvbiwgQS5NLiBGcmllZGxhbmRlciwgYW5kIEouUC4gQmVldHMuIDIwMTAuIE1hbmFnZW1lbnQgaW1wbGljYXRpb25zIG9mIGp1dmVuaWxlIHJlZWYgZmlzaCBoYWJpdGF0IHByZWZlcmVuY2VzIGFuZCBjb3JhbCBzdXNjZXB0aWJpbGl0eSB0byBzdHJlc3NvcnMuIE1hcmluZSBhbmQgRnJlc2h3YXRlciBSZXNlYXJjaCA2MToxLTkuDQoNCg0KDQpEZXphLCBBLkEuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAxMC4gSGFiaXRhdCBmcmFnbWVudGF0aW9uLCBwYXRjaCBzaXplLCBhbmQgdGhlIGRpc3RyaWJ1dGlvbiBhbmQgYWJ1bmRhbmNlIG9mIGtlbHAgZm9yZXN0IGZpc2hlcy4gTWFyaW5lIEVjb2xvZ3kgUHJvZ3Jlc3MgU2VyaWVzIDQxNjoyMjktMjQwLg0KDQoNCg0KRmFybGluLCBKLlAuLCBMLlMuIExld2lzLCBULlcuIEFuZGVyc29uLCBhbmQgQy5ULiBMYWkuIDIwMTAuIEZ1bmN0aW9uYWwgZGl2ZXJzaXR5IGluIGFtcGhpcG9kcyByZXZlYWxlZCBieSBzdGFibGUgaXNvdG9wZXMgaW4gYW4gZWVsZ3Jhc3MgZWNvc3lzdGVtLiBNYXJpbmUgRWNvbG9neSBQcm9ncmVzcyBTZXJpZXMgNDIwOjI3Ny0yODEuDQoNCg0KDQpGbG95ZCwgRS5ZLiwgYW5kIFQuVy4gQW5kZXJzb24uIDIwMTAuIEludGVyYWN0aXZlIGVmZmVjdHMgb2YgbnV0cml0aW9uYWwgY29uZGl0aW9uIGFuZCByZWZ1Z2UgYXZhaWxhYmlsaXR5IG9uIHN1cnZpdmFsIG9mIGEgdGVtcGVyYXRlIHJlZWYgZ29ieS4gTWFyaW5lIEVjb2xvZ3kgUHJvZ3Jlc3MgU2VyaWVzIDQwNzoyNTctMjY5Lg0KDQoNCg0KTydDb25ub3IsIEsuQy4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDEwLiBDb25zZXF1ZW5jZXMgb2YgaGFiaXRhdCBkaXN0dXJiYW5jZSBhbmQgcmVjb3ZlcnkgdG8gcmVjcnVpdG1lbnQgYW5kIHRoZSBhYnVuZGFuY2Ugb2Yga2VscCBmb3Jlc3QgZmlzaGVzLiBKb3VybmFsIG9mIEV4cGVyaW1lbnRhbCBNYXJpbmUgQmlvbG9neSBhbmQgRWNvbG9neSAzODY6MS0xMC4gDQoNCg0KDQpHYWxzdCwgQy5BLiwgYW5kIFQuVy4gQW5kZXJzb24uIDIwMDguIEZpc2gtaGFiaXRhdCBhc3NvY2lhdGlvbnMgYW5kIHRoZSByb2xlIG9mIGRpc3R1cmJhbmNlIGluIHN1cmZncmFzcyBiZWRzLiBNYXJpbmUgRWNvbG9neSBQcm9ncmVzcyBTZXJpZXMgMzY1OjE3Ny0xODYuDQoNCg0KDQpBbmRlcnNvbiwgVC5XLiAyMDA3LiBHdWlkZSB0byBpZGVudGlmaWNhdGlvbiBhbmQgc3VydmV5aW5nIG9mIG5lYXIgc2hvcmUgZmlzaGVzLiBJbiBTYW1wbGluZyBiaW9kaXZlcnNpdHkgaW4gY29hc3RhbCBjb21tdW5pdGllcyAtLSBOYUdJU0EgcHJvdG9jb2xzIGZvciBzZWFncmFzcyBhbmQgbWFjcm9hbGdhbCBoYWJpdGF0cyAoUC5SLiBSaWdieSwgSy4gSWtlbiwgYW5kIFkuIFNoaXJheWFtYSwgZWRzLikuIEt5b3RvIFVuaXZlcnNpdHkgUHJlc3MsIEt5b3RvIHAuIDkwLTkyLg0KDQoNCg0KQW5kZXJzb24sIFQuVy4sIE0uSC4gQ2FyciwgYW5kIE0uQS4gSGl4b24uIDIwMDcuIFBhdHRlcm5zIGFuZCBtZWNoYW5pc21zIG9mIHZhcmlhYmxlIHNldHRsZW1lbnQgYW5kIHJlY3J1aXRtZW50IG9mIGEgY29yYWwgcmVlZiBkYW1zZWxmaXNoLCBDaHJvbWlzIGN5YW5lYS4gTWFyaW5lIEVjb2xvZ3kgUHJvZ3Jlc3MgU2VyaWVzIDM1MDoxMDktMTE2Lg0KDQoNCg0KRGF2ZW5wb3J0ICwgQS5DLiwgYW5kIFQuVy4gQW5kZXJzb24uIDIwMDcuIFBvc2l0aXZlIGluZGlyZWN0IGVmZmVjdHMgb2YgcmVlZiBmaXNoZXMgb24ga2VscCBwZXJmb3JtYW5jZTogdGhlIGltcG9ydGFuY2Ugb2YgbWVzb2dyYXplcnMuIEVjb2xvZ3kgODg6MTU0OC0xNTYxLg0KDQoNCg0KRGVNYXJ0aW5pLCBFLkUuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNy4gSGFiaXRhdCBhc3NvY2lhdGlvbnMgYW5kIGFnZ3JlZ2F0aW9uIG9mIHJlY3J1aXQgZmlzaGVzIG9uIEhhd2FpJ2lhbiBjb3JhbCByZWVmcy4gQnVsbGV0aW4gb2YgTWFyaW5lIFNjaWVuY2UgODE6MTM5LTE1Mi4NCg0KDQoNCkxld2FsbGVuLCBFLkEuLCBULlcuIEFuZGVyc29uLCBhbmQgQS5KLiBCb2hvbmFrLiAyMDA3LiBHZW5ldGljIHN0cnVjdHVyZSBvZiBsZW9wYXJkIHNoYXJrIChUcmlha2lzIHNlbWlmYXNjaWF0YSkgcG9wdWxhdGlvbnMgaW4gQ2FsaWZvcm5pYSB3YXRlcnMuIE1hcmluZSBCaW9sb2d5IDE1Mjo1OTktNjA5Lg0KDQoNCg0KUmVlZCwgRC5DLiwgUy5DLiBTY2hyb2V0ZXIsIEQuIEh1YW5nLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNi4gUXVhbnRpZnlpbmcgdGhlIHBlcmZvcm1hbmNlIG9mIGRpZmZlcmVudCBhcnRpZmljaWFsIHJlZWYgZGVzaWducyBpbiBtaXRpZ2F0aW5nIGxvc3NlcyB0byBrZWxwIGJlZCBmaXNoZXMuIEJ1bGxldGluIG9mIE1hcmluZSBTY2llbmNlIDc4OjEzMy0xNTAuDQoNCg0KDQpTdGVlbGUsIE0uQS4gYW5kIFQuVy4gQW5kZXJzb24uIDIwMDYuIFByZWRhdGlvbi4gSW4gRWNvbG9neSBvZiBtYXJpbmUgZmlzaGVzOiBDYWxpZm9ybmlhIGFuZCBhZGphY2VudCB3YXRlcnMgKEwuRy4gQWxsZW4sIE0uSC4gSG9ybiwgYW5kIEQuSi4gUG9uZGVsbGEgSUksIGVkcy4pLiBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEgUHJlc3MsIEJlcmtlbGV5LCBwLiA0MjgtNDQ4LiAgDQoNCg0KDQpBbmRyZXdzLCBLLlMuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNC4gSGFiaXRhdC1kZXBlbmRlbnQgcmVjcnVpdG1lbnQgb2YgdHdvIHRlbXBlcmF0ZSByZWVmIGZpc2hlcyBhdCBtdWx0aXBsZSBzcGF0aWFsIHNjYWxlcy4gTWFyaW5lIEVjb2xvZ3kgUHJvZ3Jlc3MgU2VyaWVzIDI3NzoyMzEtMjQ0Lg0KDQoNCg0KQW5kZXJzb24sIFQuVy4sIEMuVC4gQmFydGVscywgTS5BLiBIaXhvbiwgRS4gQmFydGVscywgTS5ILiBDYXJyLCBhbmQgSi5NLiBTaGVua2VyLiAyMDAyLiBDdXJyZW50IHZlbG9jaXR5IGFuZCBjYXRjaCBlZmZpY2llbmN5IGluIHNhbXBsaW5nIHNldHRsZW1lbnQtc3RhZ2UgbGFydmFlIG9mIGNvcmFsLXJlZWYgZmlzaGVzLiBGaXNoZXJ5IEJ1bGxldGluIDEwMDo0MDQtNDEzIC4gIA0KDQoNCg0KQ2FyciwgTS5ILiwgVC5XLiBBbmRlcnNvbiwgYW5kIE0uQS4gSGl4b24uIDIwMDIuIEJpb2RpdmVyc2l0eSwgcG9wdWxhdGlvbiByZWd1bGF0aW9uLCBhbmQgdGhlIHN0YWJpbGl0eSBvZiBjb3JhbC1yZWVmIGZpc2ggY29tbXVuaXRpZXMuIFByb2NlZWRpbmdzIG9mIHRoZSBOYXRpb25hbCBBY2FkZW15IG9mIFNjaWVuY2VzIDk5OjExMjQxLTExMjQ1Lg0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMjAwMS4gUHJlZGF0b3IgcmVzcG9uc2VzLCBwcmV5IHJlZnVnZXMsIGFuZCBkZW5zaXR5LWRlcGVuZGVudCBtb3J0YWxpdHkgb2YgYSBtYXJpbmUgZmlzaC4gRWNvbG9neSA4MjoyNDUtMjU3LiAgICAgICAgICAgIA0KDQoNCg0KQW5kZXJzb24sIFQuVy4gYW5kIEIuTS4gU2FiYWRvLiAxOTk5LiBFZmZlY3RzIG9mIGtpbnNoaXAgb24gZ3Jvd3RoIG9mIGEgbGl2ZS1iZWFyaW5nIHJlZWYgZmlzaC4gTWFyaW5lIEJpb2xvZ3kgMTMzOjExNS0xMjEuICANCg0KDQoNCkFuZGVyc29uLCBULlcuIGFuZCBNLkguIENhcnIuICAxOTk4LiAgQklOQ0tFOiAgQSBoaWdobHkgZWZmaWNpZW50IG5ldCBmb3IgY29sbGVjdGluZyByZWVmIGZpc2hlcy4gRW52aXJvbm1lbnRhbCBCaW9sb2d5IG9mIEZpc2hlcyA1MToxMTEtMTE1LiAgDQoNCg0KDQpSZWVkLCBELkMuLCBULlcuIEFuZGVyc29uLCBBLlcuIEViZWxpbmcsIGFuZCBNLiBBbmdoZXJhLiAxOTk3LiBUaGUgcm9sZSBvZiByZXByb2R1Y3RpdmUgc3luY2hyb255IGluIHRoZSBjb2xvbml6YXRpb24gcG90ZW50aWFsIG9mIGtlbHAuIEVjb2xvZ3kgNzg6MjQ0My0yNDU3LiAgDQoNCg0KDQpSZWVkLCBELkMuLCBBLlcuIEViZWxpbmcsIFQuVy4gQW5kZXJzb24sIGFuZCBNLiBBbmdoZXJhLiAgMTk5Ni4gIERpZmZlcmVudGlhbCByZXByb2R1Y3RpdmUgcmVzcG9uc2VzIHRvIGZsdWN0dWF0aW5nIHJlc291cmNlcyBpbiB0d28gc2Vhd2VlZHMgd2l0aCBkaWZmZXJlbnQgcmVwcm9kdWN0aXZlIHN0cmF0ZWdpZXMuIEVjb2xvZ3kgNzc6MzAwLTMxNi4gIA0KDQoNCg0KQW5kZXJzb24sIFQuVy4gYW5kIEIuTS4gU2FiYWRvLiAxOTk1LiBDb3JyZXNwb25kZW5jZSBiZXR3ZWVuIGZvb2QgYXZhaWxhYmlsaXR5IGFuZCBncm93dGggb2YgYSBwbGFua3Rpdm9yb3VzIHRlbXBlcmF0ZSByZWVmIGZpc2guIEpvdXJuYWwgb2YgRXhwZXJpbWVudGFsIE1hcmluZSBCaW9sb2d5IGFuZCAgRWNvbG9neSAxODk6NjUtNzYuICANCg0KDQoNCkFuZGVyc29uLCBULlcuIDE5OTQuIFJvbGUgb2YgbWFjcm9hbGdhbCBzdHJ1Y3R1cmUgaW4gdGhlIGRpc3RyaWJ1dGlvbiBhbmQgYWJ1bmRhbmNlIG9mIGEgdGVtcGVyYXRlIHJlZWYgZmlzaC4gTWFyaW5lIEVjb2xvZ3kgUHJvZ3Jlc3MgU2VyaWVzIDExMzoyNzktMjkwLiAgDQoNCg0KDQpBbWJyb3NlLCBSLkYuIGFuZCBULlcuIEFuZGVyc29uLiAxOTkwLiBUaGUgaW5mbHVlbmNlIG9mIGFuIGFydGlmaWNpYWwgcmVlZiBvbiB0aGUgc3Vycm91bmRpbmcgaW5mYXVuYWwgY29tbXVuaXR5LiBNYXJpbmUgQmlvbG9neSAxMDc6NDEtNTIuICANCg0KDQoNCkFuZGVyc29uLCBULlcuLCBFLkUuIERlTWFydGluaSBhbmQgRC5BLiBSb2JlcnRzLiAxOTg5LiBUaGUgcmVsYXRpb25zaGlwIGJldHdlZW4gaGFiaXRhdCBzdHJ1Y3R1cmUsIGJvZHkgc2l6ZSwgYW5kIGRpc3RyaWJ1dGlvbiBvZiBmaXNoZXMgYXQgYSB0ZW1wZXJhdGUgYXJ0aWZpY2lhbCByZWVmLiBCdWxsZXRpbiBvZiBNYXJpbmUgU2NpZW5jZSA0NDo2ODEtNjk3LiAgDQoNCg0KDQpEYXZpcywgRy5FLiBhbmQgVC5XLiBBbmRlcnNvbi4gMTk4OS4gUG9wdWxhdGlvbiBlc3RpbWF0ZXMgb2YgZm91ciBrZWxwIGZvcmVzdCBmaXNoZXMgYW5kIGFuIGV2YWx1YXRpb24gb2YgdGhyZWUgaW4gc2l0dSBhc3Nlc3NtZW50ICB0ZWNobmlxdWVzLiBCdWxsZXRpbiBvZiBNYXJpbmUgU2NpZW5jZSA0NDoxMTM4LTExNTEuICANCg0KDQoNCkRlTWFydGluaSwgRS5FLiwgRC5BLiBSb2JlcnRzIGFuZCBULlcuIEFuZGVyc29uLiAxOTg5LiBDb250cmFzdGluZyBwYXR0ZXJucyBvZiBmaXNoIGRlbnNpdHkgYW5kIGFidW5kYW5jZSBhdCBhbiBhcnRpZmljaWFsIHJvY2sgcmVlZiBhbmQgYSBjb2JibGUtYm90dG9tIGtlbHAgZm9yZXN0LiAgQnVsbGV0aW4gb2YgTWFyaW5lIFNjaWVuY2UgNDQ6ODgxLTg5Mi4gICANCg0KDQoNCldpbGxpYW1zLCBTLkwuLCBWLkEuIEJyZWRhLCBULlcuIEFuZGVyc29uIGFuZCBCLkIuIE55ZGVuLiAxOTg1LiBHcm93dGggYW5kIHNlZGltZW50IGRpc3R1cmJhbmNlcyBvZiBDYXVsZXJwYSBzcHAuIChDaGxvcm9waHl0YSkgaW4gYSBzdWJtYXJpbmUgY2FueW9uLiBNYXJpbmUgRWNvbG9neSBQcm9ncmVzcyBTZXJpZXMgMjE6Mjc1LTgxLiAgDQoNCiANCg0KU3ltcG9zaWEgICANCg0KDQoNCkFuZGVyc29uLCBULiwgTC4gTGV3aXMsIGFuZCBDLiBKb25lcy4gMjAwOS4gVGhlIHJvbGUgb2YgZmlzaGVzIGluIGVjb3N5c3RlbSBmdW5jdGlvbiBhbmQgZXZhbHVhdGluZyBoYWJpdGF0IHF1YWxpdHkgaW4gZWVsZ3Jhc3MgYmVkcy4gMXN0IEFubnVhbCBTYW4gRGllZ28gQmF5IFN5bXBvc2l1bSwgU2FuIERpZWdvLCBDQQ0KDQoNCg0KRGVNYXJ0aW5pLCBFLiwgVC4gQW5kZXJzb24sIEEuIEZyaWVkbGFuZGVyLiAyMDA3LiBIYWJpdGF0cyBhbmQgc29jaWFsIGdyb3VwaW5ncyBvZiByZWNydWl0IHJlZWYgZmlzaGVzIGluIEhhd2FpaS4gSm9pbnQgSGF3YWlpIEluc3RpdHV0ZSBvZiBNYXJpbmUgQmlvbG9neSAtLSBQYWNpZmljIElzbGFuZHMgRmlzaGVyaWVzIFNjaWVuY2UgQ2VudGVyIE1pbmktU3ltcG9zaXVtLCBIb25vbHVsdSwgSEkNCg0KDQoNClNjaHJvZXRlciwgUy4sIEQuIEh1YW5nLCBULiBBbmRlcnNvbiwgYW5kIFIuIEdyb3ZlLiAyMDA1LiBRdWFudGlmeWluZyB0aGUgcGVyZm9ybWFuY2Ugb2YgZGlmZmVyZW50IHJlZWYgZGVzaWducyBvbiBrZWxwIGJlZCBmaXNoIGFuZCBiZW50aGljIGNvbW11bml0eSBkZXZlbG9wbWVudCBhdCB0aGUgU2FuIENsZW1lbnRlIGV4cGVyaW1lbnRhbCBhcnRpZmljaWFsIHJlZWYuIFNvdXRoZXJuIENhbGlmb3JuaWEgQWNhZGVteSBvZiBTY2llbmNlcywgTG9zIEFuZ2VsZXMsIENhbGlmb3JuaWENCg0KDQoNClN0ZWVsZSwgTS5BLiwgYW5kIFQuVy4gQW5kZXJzb24uIDIwMDMuIFRoZSByb2xlIG9mIHByZWRhdGlvbiBpbiB0aGUgZWNvbG9neSBvZiBDYWxpZm9ybmlhJ3MgbWFyaW5lIGZpc2hlcy4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBMb25nIEJlYWNoLCBDYWxpZm9ybmlhDQoNCg0KDQpBbmRlcnNvbiwgVC5XLiAyMDAwLiBFY29sb2d5IG9mIGZpc2hlcyBpbiBrZWxwIGNhbm9waWVzLiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIFBvcnRsYW5kICwgT3JlZ29uICANCg0KDQoNCkhpeG9uLCBNLkEuLCBWLiBEdWZvdXIsIFQuVy4gQW5kZXJzb24sIGFuZCBQLkouIERvaGVydHkuIDIwMDAuIERlbGl2ZXJ5IG1lY2hhbmlzbXMgbGltaXQgbGFydmFsIHN1cHBseSBpbiBjb3JhbCByZWVmIGZpc2hlcy4gRm91cnRoIEludGVybmF0aW9uYWwgTGFydmFsIEJpb2xvZ3kgQ29uZmVyZW5jZSwgVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhICwgU2FudGEgQ3J1eiAsIENhbGlmb3JuaWEgIA0KDQoNCg0KSGl4b24sIE0uQS4sIFYuIER1Zm91ciwgYW5kIFQuVy4gQW5kZXJzb24uIDE5OTguIFdlc3Rlcm4gU29jaWV0eSBFZmZlY3RpdmUgYmFycmllcnMgdG8gZGlzcGVyc2FsIG9mIHRoZSBsYXJ2YWUgb2YgY29yYWwtcmVlZiBmaXNoZXMuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgU2FuIERpZWdvICwgQ2FsaWZvcm5pYSAgDQoNCg0KDQpSZWVkLCBELkMuLCBELlIuIExhdXIsIGFuZCBULlcuIEFuZGVyc29uLiAxOTk2LiBUaGUgZ29sZGVuIHllYXJzOiB0aGUgZWNvbG9neSBvZiBrZWxwIGNvbG9uaXphdGlvbi4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBQb3J0IFRvd25zZW5kICwgV2FzaGluZ3RvbiAgDQoNCg0KDQpBbmRlcnNvbiAsIFQuVy4sIE0uQS4gSGl4b24sIEQuUi4gTGF1ciwgYW5kIEQuSi4gU3RvdWRlci4gMTk5Ni4gQWwgRWJlbGluZyBhbmQgc3VyZnBlcmNoZXM6IGV4Y2VwdGlvbnMgdG8gdGhlIHJ1bGUuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgUG9ydCBUb3duc2VuZCAsIFdhc2hpbmd0b24NCg0KIA0KDQoNCg0KSW52aXRlZCBTZW1pbmFycyAgIA0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMjAxMC4gTGlua2luZyBpbmRpdmlkdWFsIGNvbmRpdGlvbiBhbmQgcGVyZm9ybWFuY2UgdG8gcG9wdWxhdGlvbiBwcm9jZXNzZXMgaW4gdGVtcGVyYXRlIHJlZWYgZmlzaGVzLiBCb2RlZ2EgTWFyaW5lIExhYm9yYXRvcnksIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSwgRGF2aXMNCg0KDQoNCkFuZGVyc29uLCBULlcuIDIwMDcuIFBvcHVsYXRpb24gcHJvY2Vzc2VzIGFuZCBpbmRpdmlkdWFsIHBlcmZvcm1hbmNlIGluIHJlY3J1aXRtZW50IHN1Y2Nlc3Mgb2YgcmVlZiBmaXNoZXMuIFNjcmlwcHMgSW5zdGl0dXRpb24gb2YgT2NlYW5vZ3JhcGh5LCBVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEsIFNhbiBEaWVnbywgQ2FsaWZvcm5pYQ0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMjAwMy4gUG9wdWxhdGlvbiBhbmQgY29tbXVuaXR5IGVjb2xvZ3kgb2YgcmVlZiBmaXNoZXMuIFVuaXZlcnNpdHkgb2YgU291dGhlcm4gQ2FsaWZvcm5pYSBXcmlnbGV5IE1hcmluZSBTY2llbmNlIENlbnRlciwgU2FudGEgQ2F0YWxpbmEgSXNsYW5kLCBDYWxpZm9ybmlhDQoNCg0KDQpBbmRlcnNvbiwgVC5XLiAyMDAyLiBJbnRlcmFjdGl2ZSBlZmZlY3RzIG9mIGhhYml0YXQgc3RydWN0dXJlIGFuZCBwcmVkYXRpb24gb24gcmVjcnVpdG1lbnQgc3VjY2VzcyBvZiByZWVmIGZpc2hlcy4gVW5pdmVyc2l0eSBvZiBTb3V0aGVybiBDYWxpZm9ybmlhIFdyaWdsZXkgTWFyaW5lIFNjaWVuY2UgQ2VudGVyIFNhbnRhIENhdGFsaW5hIElzbGFuZCAsIENhbGlmb3JuaWENCg0KDQoNCkFuZGVyc29uLCBULlcuIDIwMDIuIFJlY3J1aXRtZW50IHN1Y2Nlc3MgYW5kIHBvcHVsYXRpb24gZHluYW1pY3Mgb2YgcmVlZiBmaXNoZXMuIE1vc3MgTGFuZGluZyBNYXJpbmUgTGFib3JhdG9yaWVzLCBNb3NzIExhbmRpbmcsIENhbGlmb3JuaWENCg0KDQoNCkFuZGVyc29uLCBULlcuIDIwMDIuIFByb2Nlc3NlcyBpbmZsdWVuY2luZyByZWNydWl0bWVudCBzdWNjZXNzIG9mIHJlZWYgZmlzaGVzLiBBbWVyaWNhbiBJbnN0aXR1dGUgb2YgRmlzaGVyaWVzIFJlc2VhcmNoIEJpb2xvZ2lzdHMsIFNhbiBKdWFuIENhcGlzdHJhbm8gLCBDYWxpZm9ybmlhDQoNCg0KDQpBbmRlcnNvbiwgVC5XLiAyMDAxLiBSZWNydWl0bWVudCBwcm9jZXNzZXMgYW5kIHBvcHVsYXRpb24gZHluYW1pY3Mgb2YgcmVlZiBmaXNoZXMuIENhbGlmb3JuaWEgU3RhdGUgVW5pdmVyc2l0eSwgTG9uZyBCZWFjaA0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMjAwMC4gUG9wdWxhdGlvbiBkeW5hbWljcyBhbmQgcmVndWxhdGlvbiBpbiB0ZW1wZXJhdGUgYW5kIHRyb3BpY2FsIHJlZWYgZmlzaGVzLiBTY3JpcHBzIEluc3RpdHV0aW9uIG9mIE9jZWFub2dyYXBoeSwgVW5pdmVyc2l0eSBvZiBDYWxpZm9ybmlhLCBTYW4gRGllZ28sIENhbGlmb3JuaWENCg0KDQoNCkFuZGVyc29uLCBULlcuIDIwMDAuIFBvcHVsYXRpb24gZWNvbG9neSBvZiByZWVmIGZpc2hlczogZXhhbXBsZXMgZnJvbSB0ZW1wZXJhdGUgYW5kIHRyb3BpY2FsIHN5c3RlbXMuIFVuaXZlcnNpdHkgb2YgU291dGhlcm4gQ2FsaWZvcm5pYSBXcmlnbGV5IE1hcmluZSBTY2llbmNlIENlbnRlciAsIFNhbnRhIENhdGFsaW5hIElzbGFuZCAsIENhbGlmb3JuaWENCg0KDQoNCkFuZGVyc29uLCBULlcuIDE5OTkuIEV4cGxvcmluZyBwb3B1bGF0aW9uIGR5bmFtaWNzIGluIHJlZWYgZmlzaGVzOiBQYXR0ZXJucywgcHJvY2Vzc2VzLCBhbmQgbWVjaGFuaXNtcy4gRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBTYW4gRGllZ28gU3RhdGUgVW5pdmVyc2l0eSAsIFNhbiBEaWVnbyAsIENhbGlmb3JuaWENCg0KDQoNCkFuZGVyc29uLCBULlcuIDE5OTcuIERlbnNpdHktZGVwZW5kZW50IHByb2Nlc3NlcyBhbmQgcG9wdWxhdGlvbiBjb25zZXF1ZW5jZXMgZm9yIGEgdGVtcGVyYXRlIHJlZWYgZmlzaC4gRGVwYXJ0bWVudCBvZiBab29sb2d5LCBPcmVnb24gU3RhdGUgVW5pdmVyc2l0eSAsIENvcnZhbGxpcyAsIE9yZWdvbg0KDQoNCg0KQW5kZXJzb24gLCBULlcuIDE5OTYuIFBvcHVsYXRpb24gZHluYW1pY3MgYW5kIHJlY3J1aXRtZW50IHN1Y2Nlc3MgaW4gcmVlZiBmaXNoZXM6IGxvb2tpbmcgZm9yIGFuc3dlcnMgYW5kIGZpbmRpbmcgbW9yZSBxdWVzdGlvbnMgRGVwYXJ0bWVudCBvZiBNYXJpbmUgU2NpZW5jZSwgVW5pdmVyc2l0eSBvZiBPdGFnbywgRHVuZWRpbiwgTmV3IFplYWxhbmQNCg0KDQoNCkFuZGVyc29uICwgVC5XLiAxOTk2LiBUaGUgcm9sZSBvZiBtYWNyb2FsZ2FsIHN0cnVjdHVyZSBpbiByZWNydWl0bWVudCBzdWNjZXNzIG9mIGEgdGVtcGVyYXRlIHJlZWYgZmlzaC4gU2Nob29sIG9mIEZpc2hlcmllcywgVW5pdmVyc2l0eSBvZiBXYXNoaW5ndG9uICwgU2VhdHRsZSwgV2FzaGluZ3Rvbg0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMTk5Ni4gRGVuc2l0eS1kZXBlbmRlbnQgcHJvY2Vzc2VzIGFuZCBwb3B1bGF0aW9uIGNvbnNlcXVlbmNlcyBmb3IgYSB0ZW1wZXJhdGUgcmVlZiBmaXNoLiBTaGFubm9uIFBvaW50IE1hcmluZSBDZW50ZXIsIFdlc3Rlcm4gV2FzaGluZ3RvbiBVbml2ZXJzaXR5LCBBbmFjb3J0ZXMsIFdhc2hpbmd0b24NCg0KDQoNCkFuZGVyc29uICwgVC5XLiAxOTk2LiBEZW5zaXR5LWRlcGVuZGVudCBwcm9jZXNzZXMgYW5kIHRoZWlyIGNvbnNlcXVlbmNlcyBmb3IgYSBtYXJpbmUgdGVtcGVyYXRlIHJlZWYgZmlzaC4gRGVwYXJ0bWVudCBvZiBCaW9sb2d5LCBVbml2ZXJzaXR5IG9mIFdpc2NvbnNpbiwgU3RldmVucyBQb2ludCAsIFdpc2NvbnNpbg0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMTk5NS4gQ29uc2VxdWVuY2VzIG9mIGRlbnNpdHktZGVwZW5kZW50IHByb2Nlc3NlcyBpbiBhIG1hcmluZSByZWVmIGZpc2guIERlcGFydG1lbnQgb2YgWm9vbG9neSwgVW5pdmVyc2l0eSBvZiBXYXNoaW5ndG9uICwgU2VhdHRsZSwgV2FzaGluZ3Rvbg0KDQogDQoNCg0KDQpDb250cmlidXRlZCBQYXBlcnMNCg0KDQoNCldoZWVsZXIsIFMuRy4sIFQuVy4gQW5kZXJzb24sIGFuZCBTLkcuIE1vcmdhbi4gMjAxMS4gQmlvbG9naWNhbCBhbmQgb2NlYW5vZ3JhcGhpYyBkcml2ZXJzIG9mIHZhcmlhdGlvbiBpbiByZWNlbnQgc2V0dGxlbWVudCBvZiBjb3BwZXIgcm9ja2Zpc2guIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgVmFuY291dmVyLCBXQQ0KDQoNCg0KSm9uZXMsIEMuTC4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDExLiBFdmFsdWF0aW5nIGVlbGdyYXNzIGhhYml0YXQgcXVhbGl0eSBieSBmaXNoIHNldHRsZW1lbnQsIHBlcmZvcm1hbmNlLCBhbmQgc3Vydml2YWwuIEJlbnRoaWMgRWNvbG9neSBNZWV0aW5ncywgTW9iaWxlLCBBTA0KDQoNCg0KTW9ydG9uLCBELk4uLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAxMS4gU3BhdGlhbCBwYXR0ZXJucyBvZiBpbnZlcnRlYnJhdGUgc2V0dGxlbWVudCBpbiBhIGdpYW50IGtlbHAgZm9yZXN0LiBCZW50aGljIEVjb2xvZ3kgTWVldGluZ3MsIE1vYmlsZSwgQUwNCg0KDQoNCkNvbXB0b24sIFYuTS4sIFQuVy4gQW5kZXJzb24sIFMuRy4gTW9yZ2FuLCBhbmQgRy5OLiBDaGVyci4gMjAxMC4gVW5kZXJzdGFuZGluZyB0aGUgcm9sZSBvZiBoYWJpdGF0IGluIG1lZGlhdGluZyBwcmVkYXRpb24gcmlzayBvZiBsYXJ2YWwgZmlzaCBleHBvc2VkIHRvIHRoZSBweXJldGhyb2lkIGluc2VjdGljaWRlIGVzZmVudmFsZXJhdGUuIFNvY2lldHkgb2YgRW52aXJvbm1lbnRhbCBUb3hpY29sb2d5IGFuZCBDaGVtaXN0cnkgTm9ydGggQW1lcmljYSwgUG9ydGxhbmQsIE9SDQoNCg0KDQpDb21wdG9uLCBWLk0uLCBULlcuIEFuZGVyc29uLCBTLkcuIE1vcmdhbiwgYW5kIEcuTi4gQ2hlcnIuIDIwMTAuIFVuZGVyc3RhbmRpbmcgdGhlIHJvbGUgb2YgaGFiaXRhdCBpbiBtZWRpYXRpbmcgcHJlZGF0aW9uIHJpc2sgb2YgbGFydmFsIGZpc2ggZXhwb3NlZCB0byBhIHB5cmV0aHJvaWQgaW5zZWN0aWNpZGUuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgU2FuIERpZWdvLCBDQQ0KDQoNCg0KSm9uZXMsIEMuTC4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDEwLiBFdmFsdWF0aW5nIGVlbGdyYXNzIGhhYml0YXQgcXVhbGl0eSBieSBmaXNoIHNldHRsZW1lbnQsIHBlcmZvcm1hbmNlLCBhbmQgc3Vydml2YWwuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgU2FuIERpZWdvLCBDQQ0KDQoNCg0KTW9ydG9uLCBELk4uLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAxMC4gU3BhdGlhbCBwYXR0ZXJucyBvZiBpbnZlcnRlYnJhdGUgc2V0dGxlbWVudCBpbiBhIGdpYW50IGtlbHAgZm9yZXN0LiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIFNhbiBEaWVnbywgQ0ENCg0KDQoNCkZhcmxpbiwgSi5QLiwgTC5TLiBMZXdpcywgVC5XLiBBbmRlcnNvbiwgYW5kIEMuVC4gTGFpLiAyMDA5LiBTdGFibGUgaXNvdG9wZSBhbmFseXNpcyBvZiBhbXBoaXBvZHMgaW4gYW4gZWVsZ3Jhc3MgZm9vZCB3ZWIuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgTW9udGVyZXksIENBDQoNCg0KDQpIaXhvbiwgTS4sIFQuIEFuZGVyc29uLCBLLiBCdWNoLCBELiBKb2huc29uLCBhbmQgQy4gU3RhbGxpbmdzLiAyMDA4LiBSZWNydWl0bWVudCBhbmQgcG9wdWxhdGlvbiBkeW5hbWljcyBvZiBhIGNvcmFsLXJlZWYgZmlzaDogYSBsYXJnZS1zY2FsZSBsb25nLXRlcm0gZmllbGQgZXhwZXJpbWVudC4gMTF0aCBJbnRlcm5hdGlvbmFsIENvcmFsIFJlZWYgU3ltcG9zaXVtLCBGb3J0IExhdWRlcmRhbGUsIEZMDQoNCg0KDQpQb25kZWxsYSwgRC5KLiBJSSwgVC4gQW5kZXJzb24sIE0uIEJlcmdlbiwgTS4gQ2FyciwgSi4gQ2Fycm9sbCwgSi4gQ2FzZWxsZSwgTS4gRWR3YXJkcywgYW5kIEQuIFNjaHJvZWRlci4gMjAwOC4gVGhlIG5lYXJzaG9yZSByb2NreS1yZWVmIGZpc2hlcyBvZiB0aGUgU291dGhlcm4gQ2FsaWZvcm5pYSBJc2xhbmRzLiA3dGggQ2FsaWZvcm5pYSBJc2xhbmRzIFN5bXBvc2l1bSwgT3huYXJkLCBDQQ0KDQoNCg0KQW5kZXJzb24sIFQuVy4sIEEuQS4gRGV6YSwgYW5kIEsuQy4gTydDb25ub3IuIDIwMDcuIFByZWRhdG9yIHNpemUgYW5kIHJlY3J1aXRtZW50IHN1Y2Nlc3MgaW4ga2VscC1hc3NvY2lhdGVkIGZpc2hlczogaW1wbGljYXRpb25zIGZvciBtYXJpbmUgcmVzZXJ2ZXM/IFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgVmVudHVyYSwgQ0ENCg0KDQoNCkRlemEsIEEuQS4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDA3LiBFZmZlY3RzIG9mIGhhYml0YXQgZnJhZ21lbnRhdGlvbiBhbmQgcGF0Y2ggc2l6ZSBvbiByZWNydWl0bWVudCBhbmQgdGhlIGFidW5kYW5jZSBvZiBrZWxwIGZvcmVzdCBmaXNoZXMuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgVmVudHVyYSwgQ0ENCg0KDQoNCkxld2lzLCBMLlMuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNy4gUHJlZGF0aW9uIGluIGVlbGdyYXNzIGJlZHM6IGRvIHRyb3BoaWMgbWFuaXB1bGF0aW9ucyByZXN1bHQgaW4gY2FzY2FkaW5nIGVmZmVjdHM/IFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgVmVudHVyYSwgQ0ENCg0KDQoNCk8nQ29ubm9yLCBLLkMuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNy4gQ29uc2VxdWVuY2VzIG9mIGhhYml0YXQgZGlzdHVyYmFuY2UgYW5kIHJlY292ZXJ5IHRvIHJlY3J1aXRtZW50IGFuZCB0aGUgYWJ1bmRhbmNlIG9mIGtlbHAgZm9yZXN0IGZpc2hlcy4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBWZW50dXJhLCBDQQ0KDQoNCg0KR2Fsc3QsIEMuSi4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDA2LiBIYWJpdGF0IGxvc3MgYW5kIGZpc2ggYXNzZW1ibGFnZXMgaW4gc3VyZmdyYXNzIGJlZHMuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgUmVkbW9uZCwgV0ENCg0KDQoNCkRhdmVucG9ydCwgQS5DLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNS4gQXJlIHRoZXJlIGRpZmZlcmVudGlhbCBlZmZlY3RzIG9mIHJlZWYgZmlzaGVzIG9uIGdpYW50IGtlbHAgcGVyZm9ybWFuY2U/IFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgU2Vhc2lkZSwgQ0ENCg0KDQoNCkZsb3lkLCBFLlkuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNS4gUmVsYXRpdmUgaW1wb3J0YW5jZSBvZiBudXRyaXRpb25hbCBjb25kaXRpb24gYW5kIHJlZnVnZSBhdmFpbGFiaWxpdHkgZm9yIHN1cnZpdmFsIG9mIHRoZSBibGFja2V5ZSBnb2J5LCBSaGlub2dvYmlvcHMgbmljaG9sc2lpLiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIFNlYXNpZGUsIENBDQoNCg0KDQpTaGFyZmksIFMuLCBULlcuIEFuZGVyc29uLCBELkMuIFJlZWQsIGFuZCBTLkMuIFNjaHJvZXRlci4gMjAwNS4gSGFiaXRhdCBzdHJ1Y3R1cmUgYW5kIGZpc2ggcHJvZHVjdGlvbiBhdCBhbiBleHBlcmltZW50YWwgYXJ0aWZpY2lhbCByZWVmLiA4dGggQ29uZmVyZW5jZSBvbiBBcnRpZmljaWFsIFJlZWZzIGFuZCBBcnRpZmljaWFsIEhhYml0YXRzLCBCaWxveGksIE1pc3Npc3NpcHBpDQoNCg0KDQpEYXZlbnBvcnQsIEEuQy4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDA0LiBQb3NpdGl2ZSBpbmRpcmVjdCBlZmZlY3RzIG9mIHJlZWYgZmlzaGVzIG9uIGdpYW50IGtlbHAgcGVyZm9ybWFuY2UuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgUm9obmVydCBQYXJrLCBDYWxpZm9ybmlhDQoNCg0KDQpHcmVnb3IsIEMuQS4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDA0LiBSZWxhdGl2ZSBpbXBvcnRhbmNlIG9mIGhhYml0YXQgYXR0cmlidXRlcyB0byBwcmVkYXRpb24gcmlzayBpbiBhIHRlbXBlcmF0ZSByZWVmIGZpc2guIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgUm9obmVydCBQYXJrLCBDYWxpZm9ybmlhDQoNCg0KDQpMaXBza2ksIEQuTS4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDA0LiBTdHJ1Y3R1cmFsIGNvbXBsZXhpdHkgb2Ygc2VhZ3Jhc3MgaW5mbHVlbmNlcyBwYXR0ZXJucyBvZiByZWNydWl0bWVudCBvZiBmaXNoZXMgaW4gU2FuIERpZWdvIEJheSAuIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgUm9obmVydCBQYXJrLCBDYWxpZm9ybmlhDQoNCg0KDQpBbmRlcnNvbiwgVC5XLiwgYW5kIEEuQy4gRGF2ZW5wb3J0LiAyMDAzLiBQcmVkYXRvci1tZWRpYXRlZCByZWNydWl0bWVudCBvZiBrZWxwLWFzc29jaWF0ZWQgZmlzaGVzLiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIExvbmcgQmVhY2gsIENhbGlmb3JuaWENCg0KDQoNCkFuZGVyc29uLCBULlcuLCBNLkEuIEhpeG9uLCBhbmQgTS5ILiBDYXJyLiAyMDAyLiBWYXJpYXRpb24gaW4gc2V0dGxlbWVudCBhbmQgcG9zdC1zZXR0bGVtZW50IHByb2Nlc3NlcyBpbiBwYXR0ZXJucyBvZiByZWNydWl0bWVudCBvZiBhIGNvcmFsIHJlZWYgZGFtc2VsZmlzaC4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBNb250ZXJleSAsIENhbGlmb3JuaWENCg0KDQoNCkFuZHJld3MsIEsuUy4sIGFuZCBULiBXLiBBbmRlcnNvbi4gMjAwMi4gSGFiaXRhdCBzdHJ1Y3R1cmUgYW5kIHJlY3J1aXRtZW50IG9mIHR3byBuZWFyLXNob3JlIHJlZWYgZmlzaGVzIGF0IG11bHRpcGxlIHNjYWxlcy4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBNb250ZXJleSwgQ2FsaWZvcm5pYQ0KDQoNCg0KSGl4b24sIE0uQS4sIFYuIER1Zm91ciwgVC5XLiBBbmRlcnNvbiwgYW5kIFAuSi4gRG9oZXJ0eS4gMjAwMC4gRGVsaXZlcnkgbWVjaGFuaXNtcyBsaW1pdCBsYXJ2YWwgc3VwcGx5IGluIGNvcmFsIHJlZWYgZmlzaGVzLiBOaW50aCBJbnRlcm5hdGlvbmFsIENvcmFsIFJlZWYgU3ltcG9zaXVtLCBCYWxpLCBJbmRvbmVzaWENCg0KDQoNCkFuZGVyc29uLCBULlcuIDE5OTkuIFJlbGF0aXZlIGltcG9ydGFuY2Ugb2YgY3VycmVudCBmbG93IGFuZCBoYWJpdGF0IHN0cnVjdHVyZSB0byByZWNydWl0bWVudCBzdWNjZXNzIG9mIGEgdGVtcGVyYXRlIHJlZWYgZmlzaC4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBNb250ZXJleSwgQ2FsaWZvcm5pYQ0KDQoNCg0KQW5kZXJzb24sIFQuVy4sIE0uSC4gQ2FyciwgYW5kIE0uQS4gSGl4b24uIDE5OTguIEJvdGggcHJlZGF0b3JzIGFuZCBjb21wZXRpdG9ycyBhcmUgcmVxdWlyZWQgdG8gY2F1c2UgZGVuc2l0eS1kZXBlbmRlbnQgbW9ydGFsaXR5IG9mIGEgY29yYWwtcmVlZiBmaXNoLiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIFNhbiBEaWVnbywgQ2FsaWZvcm5pYQ0KDQoNCg0KUmVlZCwgRC5DLiwgVC5XLiBBbmRlcnNvbiwgQS5XLiBFYmVsaW5nLCBhbmQgTS4gQW5naGVyYS4gMTk5Ny4gUm9sZSBvZiByZXByb2R1Y3RpdmUgc3luY2hyb255IGluIHRoZSBjb2xvbml6YXRpb24gcG90ZW50aWFsIG9mIGtlbHAuIEZvdXJ0aCBJbnRlcm5hdGlvbmFsIFRlbXBlcmF0ZSBSZWVmIFN5bXBvc2l1bSwgU2FudGlhZ28sIENoaWxlDQoNCg0KDQpBbmRlcnNvbiwgVC5XLiAxOTk0LiBUaGUgcm9sZSBvZiBtYWNyb2FsZ2FsIHN0cnVjdHVyZSBpbiB0aGUgZGlzdHJpYnV0aW9uIGFuZCBhYnVuZGFuY2Ugb2YgYSB0ZW1wZXJhdGUgcmVlZiBmaXNoLiBFY29sb2dpY2FsIGFuZCBFdm9sdXRpb25hcnkgRXRob2xvZ3kgb2YgRmlzaGVzLCBWaWN0b3JpYSwgQnJpdGlzaCBDb2x1bWJpYSAsIENhbmFkYQ0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMTk5MS4gUHJlZGF0b3J5IGVmZmVjdHMgb24gYSB0ZW1wZXJhdGUgcmVlZiBmaXNoLiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIFNhbnRhIEJhcmJhcmEgLCBDQQ0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMTk5MC4gRGVuc2l0eS1kZXBlbmRlbnQgZ3Jvd3RoIGluIGEgcGxhbmt0aXZvcm91cyB0ZW1wZXJhdGUgcmVlZiBmaXNoOiBhIHBvdGVudGlhbCBkZXRlcm1pbmFudCBvZiBhZ2dyZWdhdGlvbiBzaXplLiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIE1vbnRlcmV5LCBDYWxpZm9ybmlhDQoNCg0KDQpBbmRlcnNvbiwgVC5XLiwgRS5FLiBEZU1hcnRpbmksIGFuZCBELkEuIFJvYmVydHMuIDE5ODcuIFRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiBoYWJpdGF0IHN0cnVjdHVyZSwgYm9keSBzaXplLCBhbmQgZGlzdHJpYnV0aW9uIG9mIGZpc2hlcyBhdCBhIHRlbXBlcmF0ZSBhcnRpZmljaWFsIHJlZWYuIEZvdXJ0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gQXJ0aWZpY2lhbCBIYWJpdGF0cyBmb3IgRmlzaGVyaWVzLCBNaWFtaSwgRmxvcmlkYQ0KDQoNCg0KQW5kZXJzb24sIFQuVy4gMTk4MS4gSWRlbnRpZmljYXRpb24gYW5kIGRldmVsb3BtZW50IG9mIGp1dmVuaWxlIHJvY2tmaXNoZXMgKGdlbnVzIFNlYmFzdGVzKSBpbiBjZW50cmFsIENhbGlmb3JuaWEga2VscCBmb3Jlc3RzIFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgU2FudGEgQmFyYmFyYSwgQ2FsaWZvcm5pYQ0KDQoNCg0KUG9zdGVycw0KDQoNCg0KV2hlZWxlciwgUy5HLiwgQy5NLiBNdWlyLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAxMi4gRXZhbHVhdGluZyBwYXR0ZXJucyBvZiBsYXJ2YWwgZ3Jvd3RoIGFuZCBwZWxhZ2ljIGxhcnZhbCBkdXJhdGlvbiBiZXR3ZWVuIHdpbnRlciBhbmQgc3ByaW5nIHNwYXduaW5nIHJvY2tmaXNoZXMgKFNlYmFzdGVzIHNwcC4pLiA0NnRoIEFubnVhbCBNZWV0aW5nLCBDYWwtTmV2YSBDaGFwdGVyLCBBbWVyaWNhbiBGaXNoZXJpZXMgU29jaWV0eSwgU2FuIERpZWdvLCBDQQ0KDQoNCg0KQnJvd2VyLCBKLlAuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAxMS4gTm9ubGV0aGFsIGNvbnNlcXVlbmNlcyBvZiBwcmVkYXRvci1pbmR1Y2VkIHN0cmVzcyBpbiBhIG1hY3JvcGh5dGUtYXNzb2NpYXRlZCBmaXNoLiBXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMsIFZhbmNvdXZlciwgV0ENCg0KDQoNCldoZWVsZXIsIFMuRy4sIFQuVy4gQW5kZXJzb24sIFMuRy4gTW9yZ2FuLCBhbmQgSi5BLiBIb2Jicy4gMjAxMS4gVGhlIGluZmx1ZW5jZSBvZiBwYXJ0dXJpdGlvbiBkYXRlLCBsYXJ2YWwgY29uZGl0aW9uLCBhbmQgdXB3ZWxsaW5nIG9uIHJlY3J1aXRtZW50IHN1Y2Nlc3Mgb2YgY29wcGVyIHJvY2tmaXNoIChTZWJhc3RlcyBjYXVyaW51cykuIDQ1dGggQW5udWFsIENhbC1OZXZhIENvbmZlcmVuY2UsIEFtZXJpY2FuIEZpc2hlcmllcyBTb2NpZXR5LCBGb2xzb20sIENBDQoNCg0KDQpXaGVlbGVyLCBTLkcuLCBULlcuIEFuZGVyc29uLCBTLkcuIE1vcmdhbiwgYW5kIEouQS4gSG9iYnMuIDIwMTAuIFRoZSBpbmZsdWVuY2Ugb2YgcGFydHVyaXRpb24gZGF0ZSwgbGFydmFsIGNvbmRpdGlvbiwgYW5kIHVwd2VsbGluZyBvbiByZWNydWl0bWVudCBzdWNjZXNzIG9mIGNvcHBlciByb2NrZmlzaC4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBTYW4gRGllZ28sIENBDQoNCg0KDQpDb21wdG9uLCBWLk0uLCBULlcuIEFuZGVyc29uLCBTLkcuIE1vcmdhbiwgYW5kIEcuTi4gQ2hlcnIuIDIwMDkuIFVuZGVyc3RhbmRpbmcgdGhlIHJvbGUgb2YgaGFiaXRhdCBpbiBtZWRpYXRpbmcgcHJlZGF0aW9uIHJpc2sgb2YgbGFydmFsIGZpc2ggZXhwb3NlZCB0byBhbiBpbnNlY3RpY2lkZS4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBNb250ZXJleSwgQ0ENCg0KDQoNCkRlTWFydGluaSwgRS5FLiwgSi5DLiBLZW55b24sIFQuVy4gQW5kZXJzb24sIEEuTS4gRnJpZWRsYW5kZXIsIGFuZCBKLlAuIEJlZXRzLiAyMDA5LiBNYW5hZ2VtZW50LWNvbnNlcnZhdGlvbiBpbXBsaWNhdGlvbnMgb2Ygc3BlY2llcyBkaWZmZXJlbmNlcyBpbiBqdXZlbmlsZSByZWVmIGZpc2ggaGFiaXRhdCBlbGVjdGl2aXR5IGFuZCBjb3JhbCBzdXNjZXB0aWJpbGl0eSB0byBhbnRocm9wb2dlbmljIHN0cmVzc29ycy4gOHRoIEluZG8tUGFjaWZpYyBGaXNoIENvbmZlcmVuY2UsIEZyZW1hbnRsZSwgV2VzdGVybiBBdXN0cmFsaWENCg0KDQoNCkRlTWFydGluaSwgRS5FLiwgVC5XLiBBbmRlcnNvbiwgQS5NLiBGcmllZGxhbmRlciwgYW5kIEouUC4gQmVldHMuIDIwMDguIERlbnNpdHkgZWZmZWN0cyBvbiBncm91cGluZyBiZWhhdmlvciBhbmQgaGFiaXRhdCBhc3NvY2lhdGlvbnMgb2YgcmVjcnVpdCByZWVmIGZpc2hlcyBpbiBIYXdhaWk6IGNvbnRyYXN0cyBiZXR3ZWVuIHllYXJzIGFuZCBhbW9uZyBzcGVjaWVzLiAxMXRoIEludGVybmF0aW9uYWwgQ29yYWwgUmVlZiBTeW1wb3NpdW0sIEZvcnQgTGF1ZGVyZGFsZSwgRkwNCg0KDQoNCkxld2lzLCBMLlMuLCBhbmQgVC5XLiBBbmRlcnNvbi4gMjAwNy4gUHJlZGF0aW9uIGluIGVlbGdyYXNzIGJlZHM6IGRvIHRyb3BoaWMgbWFuaXB1bGF0aW9ucyByZXN1bHQgaW4gY2FzY2FkaW5nIGVmZmVjdHM/IFNvdXRoZXJuIENhbGlmb3JuaWEgQWNhZGVteSBvZiBTY2llbmNlcywgRnVsbGVydG9uLCBDQQ0KDQoNCg0KU3VrLCBTLkguLCBULlcuIEFuZGVyc29uLCBhbmQgSi5BLiBTZW1pbm9mZi4gMjAwNi4gRmVlZGluZyBlY29sb2d5IGFuZCB0cm9waGljIHN0YXR1cyBvZiBwZWxhZ2ljIHNoYXJrcyBmcm9tIHRoZSBlYXN0ZXJuIG5vcnRoIFBhY2lmaWMgaW5mZXJyZWQgZnJvbSBkMTNDIGFuZCBkMTVOLiBGaWZ0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gQXBwbGljYXRpb25zIG9mIFN0YWJsZSBJc290b3BlIFRlY2huaXF1ZXMgdG8gRWNvbG9naWNhbCBTdHVkaWVzLCBCZWxmYXN0LCBOb3J0aGVybiBJcmVsYW5kDQoNCg0KDQpXZWJiZXIsIEouRC4sIGFuZCBULlcuIEFuZGVyc29uLiAyMDA2LiBDYW4gZ3Jvd3RoIGhpc3RvcnkgaW5mbHVlbmNlIHN3aW1taW5nIHBlcmZvcm1hbmNlIGluIG1hcmluZSBmaXNoZXM/IFdlc3Rlcm4gU29jaWV0eSBvZiBOYXR1cmFsaXN0cywgUmVkbW9uZCwgV0ENCg0KDQoNCkxld2FsbGVuLCBFLiwgQS4gQm9ob25haywgYW5kIFQuVy4gQW5kZXJzb24uIDIwMDUuIFBvcHVsYXRpb24gZ2VuZXRpYyBzdHJ1Y3R1cmUgYW5kIGRpc3BlcnNhbCBvZiBsZW9wYXJkIHNoYXJrcyBpbmZlcnJlZCBmcm9tIGdlbmV0aWMgYW5kIGdlb3NwYXRpYWwgZGF0YS4gV2VzdGVybiBTb2NpZXR5IG9mIE5hdHVyYWxpc3RzLCBTZWFzaWRlLCBDQQ0KDQoNCg0KUHJvZmVzc2lvbmFsIEFzc29jaWF0aW9ucw0KDQoNCg0KQW1lcmljYW4gQXNzb2NpYXRpb24gZm9yIHRoZSBBZHZhbmNlbWVudCBvZiBTY2llbmNlDQoNCg0KDQpFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYQ0KDQoNCg0KU291dGhlcm4gQ2FsaWZvcm5pYSBBY2FkZW15IG9mIFNjaWVuY2VzDQoNCg0KDQpXZXN0ZXJuIFNvY2lldHkgb2YgTmF0dXJhbGlzdHMNCg0KDQoNCiANCg0KDQoNClJldmlldyBQYW5lbHMgLyBBZHZpc29yeSBDb21taXR0ZWVzDQoNCkNhbGlmb3JuaWEgRGVwdC4gRmlzaCAmIEdhbWUgTmVhcnNob3JlIEZpc2hlcnkgTWFuYWdlbWVudCBQbGFuIEFkdmlzb3J5IENvbW1pdHRlZQ0KDQpDYWxpZm9ybmlhIERlcHQuIEZpc2ggJiBHYW1lIE9jZWFuIFJlc291cmNlcyBFbmhhbmNlbWVudCBhbmQgSGF0Y2hlcnkgUHJvZ3JhbSBQYW5lbA0KDQpDYWxpZm9ybmlhIE9jZWFuIFNjaWVuY2UgVHJ1c3QsIEV4cGVydCBBZHZpc29yeSBDb21taXR0ZWUsIE9pbCBQbGF0Zm9ybSBEZWNvbW1pc3Npb25pbmcgIFN0dWR5DQoNCk5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiwgQmlvbG9naWNhbCBPY2Vhbm9ncmFwaHkgUGFuZWwNCg0KTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBJbnRlcm5hdGlvbmFsIFJlc2VhcmNoIEZlbGxvd3NoaXAgUHJvZ3JhbSBQYW5lbA0KDQpOYXRpb25hbCBPY2VhbmljIGFuZCBBdG1vc3BoZXJpYyBBZG1pbmlzdHJhdGlvbiwgTmF0aW9uYWwgVW5kZXJzZWEgUmVzZWFyY2ggQ2VudGVyIFBhbmVsLCBXZXN0IENvYXN0ICYgUG9sYXIgUmVnaW9ucw0KDQpVLlMuIEZpc2ggYW5kIFdpbGRsaWZlLCBBZHZpc29yeSBDb21taXR0ZWUsIFNvdXRoIFNhbiBEaWVnbyBCYXkgUmVzdG9yYXRpb24gUHJvamVjdA==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915520306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:10 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911410306521"  usageLimitType="allocation" usageLimit="200" currentUsage="36" remainingUsage="164" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr Prem S. Kahlon</FormattedName>
+<GivenName>Prem</GivenName>
+<MiddleName>S.</MiddleName>
+<FamilyName>Kahlon</FamilyName>
+<Affix type="formOfAddress">Dr</Affix>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (615) 963-5784</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>615</AreaCityCode>
+<SubscriberNumber>963-5784</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (615) 963-5785</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>615</AreaCityCode>
+<SubscriberNumber>963-5785</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>pkahlon@tnstate.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>BIOL</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>5300 Graduate Plant Physiology BIOL 5170 Graduate Genetics BIOL 4940/4950 MARC Seminar Series BIOL 4170/4180 Senior Seminar Series BIOL 4300/4301 Plant Physiology BIOL 3300/3301 Plant Morphology BIOL 4320/4321 Field Botany BIOL 3520/3521 General Botany BIOL 1110 Honors General Biology I BIOL 1120 Honors General Biology II
+</Description>
+<StartDate><AnyDate>notKnown</AnyDate></StartDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Punjab University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>IN</CountryCode>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Louisiana State University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>Plant Genetics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Louisiana State University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Plant Genetics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "MARC">
+<CompetencyEvidence name ="MARC">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>1987-01-01</StringDate></Date>
+<Description>Researcher of the Year Award</Description>
+<IssuingAuthority>Tennessee State University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1976-01-01</StringDate></Date>
+<Description>Faculty Award</Description>
+<IssuingAuthority>Tennessee State University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>Fellow Tennessee President Tennessee</Description>
+<IssuingAuthority>Academy of Science</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1989-01-01</StringDate></Date>
+<Description>Academy of Science</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1980-01-01 - 1988-01-01</StringDate></Date>
+<Description>Academic Scholarship during 4 years of undergraduate studies 1952 - 1956</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1962-01-01 - 1964-01-01</StringDate></Date>
+<Description>Rockefeller Foundation Research Fellowship</Description>
+<IssuingAuthority>Louisiana State University</IssuingAuthority>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Chair Research Committee Tennessee Academy of Science</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Chair Futures Fairs Committee of International Science Fair Committee 1990</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Member Gamma Sigma Delta Honors Society Member Phi Kappa Phi Honors Society (Chair Nomination Committee)</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member Beta Kappa Chi Honors Society (TSU Chapter Advisor</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIFByZW0gUy4gS2FobG9uDQoNClByb2Zlc3NvciBhbmQgTUFSQyBQcm9ncmFtIERpcmVjdG9yDQoNCkRyLiBQcmVtIEthaGxvbiBwaWN0dXJlDQoNCg0KDQogDQoNCiANCg0KDQoNCkRlcGFydG1lbnQgb2YgQmlvbG9naWNhbCBTY2llbmNlcw0KDQpDb2xsZWdlIG9mIEFncmljdWx0dXJlLCBIdW1hbiAmIE5hdHVyYWwgU2NpZW5jZXMNCg0KDQoNCiANCg0KDQoNCkNvbnRhY3QgSW5mb3JtYXRpb246DQoNCg0KDQogDQoNCg0KDQpPZmZpY2UgTG9jYXRpb246IDMxNCBIYXJuZWQgSGFsbA0KDQoNCg0KVGVsZXBob25lOiA2MTUtOTYzLTU3ODQNCg0KDQoNCkZBWDogNjE1LTk2My01Nzg1DQoNCg0KDQpFbWFpbDogcGthaGxvbkB0bnN0YXRlLmVkdQ0KDQoNCg0KIA0KDQoNCg0KUmVzZWFyY2ggQXJlYXM6DQoNCg0KDQpQbGFudCBUaXNzdWUgY3VsdHVyZSB3aXRoIFNveWJlYW47IERyb3VnaHQsIHNhbHQsIGRpc2Vhc2UgYW5kIGhlYXZ5IG1ldGFscyBhbW9uZyB2YXJpb3VzIGN1bHRpdmFycyBvZiBTb3liZWFuDQoNCg0KDQogDQoNCg0KDQpUZWFjaGluZzoNCg0KDQoNCkJJT0wgNTMwMCAgICAgICAgICAgICAgIEdyYWR1YXRlIFBsYW50IFBoeXNpb2xvZ3kNCg0KDQoNCkJJT0wgNTE3MCAgICAgICAgICAgICAgIEdyYWR1YXRlIEdlbmV0aWNzDQoNCg0KDQpCSU9MIDQ5NDAvNDk1MCAgICAgICBNQVJDIFNlbWluYXIgU2VyaWVzDQoNCg0KDQpCSU9MIDQxNzAvNDE4MCAgICAgICBTZW5pb3IgU2VtaW5hciBTZXJpZXMNCg0KDQoNCkJJT0wgNDMwMC80MzAxICAgICAgUGxhbnQgUGh5c2lvbG9neQ0KDQoNCg0KQklPTCAzMzAwLzMzMDEgICAgICAgUGxhbnQgTW9ycGhvbG9neQ0KDQoNCg0KQklPTCA0MzIwLzQzMjEgICAgICAgRmllbGQgQm90YW55DQoNCg0KDQpCSU9MIDM1MjAvMzUyMSAgICAgICBHZW5lcmFsIEJvdGFueQ0KDQoNCg0KQklPTCAxMTEwICAgICAgICAgICAgICAgSG9ub3JzIEdlbmVyYWwgQmlvbG9neSBJDQoNCg0KDQpCSU9MIDExMjAgICAgICAgICAgICAgICBIb25vcnMgR2VuZXJhbCBCaW9sb2d5IElJDQoNCg0KDQogDQoNCg0KDQpIb25vcnMgYW5kIEF3YXJkczoNCg0KDQoNClJlc2VhcmNoZXIgb2YgdGhlIFllYXIgQXdhcmQsIDE5ODcsIFRlbm5lc3NlZSBTdGF0ZSBVbml2ZXJzaXR5DQoNCg0KDQpIb25vcnMgRmFjdWx0eSBBd2FyZCwgMTk3NiwgVGVubmVzc2VlIFN0YXRlIFVuaXZlcnNpdHkNCg0KDQoNCkZlbGxvdywgVGVubmVzc2VlIEFjYWRlbXkgb2YgU2NpZW5jZQ0KDQoNCg0KUHJlc2lkZW50LCBUZW5uZXNzZWUgQWNhZGVteSBvZiBTY2llbmNlLCAxOTg5DQoNCg0KDQpDaGFpciwgUmVzZWFyY2ggQ29tbWl0dGVlLCBUZW5uZXNzZWUgQWNhZGVteSBvZiBTY2llbmNlLCAxOTgwLTE5ODgNCg0KDQoNCkNoYWlyLCBGdXR1cmVzIEZhaXJzIENvbW1pdHRlZSBvZiBJbnRlcm5hdGlvbmFsIFNjaWVuY2UgRmFpciBDb21taXR0ZWUsIDE5OTANCg0KDQoNCkFjYWRlbWljIFNjaG9sYXJzaGlwIGR1cmluZyA0IHllYXJzIG9mIHVuZGVyZ3JhZHVhdGUgc3R1ZGllcywgMTk1Mi0xOTU2DQoNCg0KDQpSb2NrZWZlbGxlciBGb3VuZGF0aW9uIFJlc2VhcmNoIEZlbGxvd3NoaXAsIExvdWlzaWFuYSBTdGF0ZSBVbml2ZXJzaXR5LCAxOTYyLTE5NjQNCg0KDQoNCk1lbWJlciwgR2FtbWEgU2lnbWEgRGVsdGEgSG9ub3JzIFNvY2lldHkNCg0KDQoNCk1lbWJlciwgUGhpIEthcHBhIFBoaSBIb25vcnMgU29jaWV0eSAoQ2hhaXIsIE5vbWluYXRpb24gQ29tbWl0dGVlKQ0KDQoNCg0KTWVtYmVyLCBCZXRhIEthcHBhIENoaSBIb25vcnMgU29jaWV0eSAoVFNVIENoYXB0ZXIgQWR2aXNvciBzaW5jZSAxOTkwKQ0KDQoNCg0KIA0KDQoNCg0KRWR1Y2F0aW9uOg0KDQoNCg0KQi5TLiAoQm90YW55KSAtIFB1bmphYiBVbml2ZXJzaXR5LCBJbmRpYQ0KDQoNCg0KTS5TLiAoUGxhbnQgR2VuZXRpY3MpIC0gTG91aXNpYW5hIFN0YXRlIFVuaXZlcnNpdHkNCg0KDQoNClBoLkQuIChQbGFudCBHZW5ldGljcykgLSBMb3Vpc2lhbmEgU3RhdGUgVW5pdmVyc2l0eQ0KDQoNCg0KIA0KDQoNCg0KRGF0ZSBqb2luZWQgc3RhZmY6ICAxOTY2</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911410306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

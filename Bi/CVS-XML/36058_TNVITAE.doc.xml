@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:24 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911311306521"  usageLimitType="allocation" usageLimit="200" currentUsage="107" remainingUsage="93" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Tsutomu Nakatsugawa</FormattedName>
+<GivenName>Tsutomu</GivenName>
+<FamilyName>Nakatsugawa</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>onPerson</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Mobile>
+<FormattedNumber>+1 (13) 47-55</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>13</AreaCityCode>
+<SubscriberNumber>47-55</SubscriberNumber>
+</Mobile>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>State University of New York College of Environmental Science and Forestry</EmployerOrgName>
+<PositionHistory>
+<Title>Professor, Department of Environmental and Forest Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<PostalCode>13210</PostalCode>
+<Region>NY</Region>
+<Municipality>Syracuse</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>SUNY College of Environmental Science and Forestry</EmployerOrgName>
+<PositionHistory>
+<Title>Professor - Department of Environmental and Forest Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Syracuse</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1976-07-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Associate Professor - Department of Forest Entomology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Syracuse</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1972-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1976-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Assistant Professor - As above</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1968-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1972-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Iowa State University</EmployerOrgName>
+<PositionHistory>
+<Title>Research Associate - Department of Zoology and Entomology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Iowa</Region>
+<Municipality>Ames</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1964-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1968-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Graduate Research Assistant - As above</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1960-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1964-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Institute of Agricultural Sciences</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Entomologist - Department of Pathology and Entomology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Japan</Region>
+<Municipality>Tokyo</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1957-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1960-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Toxic Health Hazards (EFB 400/600)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Topics
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Environmental Toxicology (EFB 611)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>- Health and Our Chemical Environment (EFB 510)
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Insecticide Toxicology (EFB 560)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1988-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Insecticide Toxicology Laboratory (EFB 660)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1970-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Graduate Seminars (EFB 797)</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>How Are We Eating* - a look at our food supply 2009 Concerns over Organic Produce and GMO - Prescience or Paranoia* 2004 Organic Produce 2000 Nature&apos;s Chemical Warfare 1997 Aquatic Toxicology 1992
+</Description>
+<StartDate>
+<AnyDate>1969-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Iowa State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Iowa</Region>
+<Municipality>Ames</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1965-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Postdoctoral research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Iowa State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Iowa</Region>
+<Municipality>Ames</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1961-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Insect Toxicology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tokyo University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Japan</Region>
+<Municipality>Tokyo</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Entomology</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>B.</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Pathology">
+<CompetencyEvidence name ="Pathology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Toxicology">
+<CompetencyEvidence name ="Toxicology" lastUsed="1988-01-01">
+<NumericValue description="Range in years of experience">19</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>American Chemical Society</Name>
+</Association>
+<Association>
+<Name>Society of Toxicology</Name>
+</Association>
+<Association>
+<Name>Pesticide Science Society of Japan</Name>
+</Association>
+<Association>
+<Name>Society of Environmental Toxicology and Chemistry</Name>
+</Association>
+<Association>
+<Name>MAJOR RESEARCH FINDINGS:</Name>
+</Association>
+<Association>
+<Name>Chromatographic translobular migration of xenobiotics and hepatic breakthrough thresholds</Name>
+</Association>
+<Association>
+<Name>&quot;Oxidative hydrolysis&quot; of parathion and related phosphorus triesters</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBRQ0KTkFNRTogVHN1dG9tdSBOYWthdHN1Z2F3YQ0KQ1VSUkVOVCBQT1NJVElPTjogUHJvZmVzc29yLCBEZXBhcnRtZW50IG9mIEVudmlyb25tZW50YWwgYW5kIEZvcmVzdCBCaW9sb2d5LCBTdGF0ZSBVbml2ZXJzaXR5IG9mIE5ldyBZb3JrIENvbGxlZ2Ugb2YgRW52aXJvbm1lbnRhbCBTY2llbmNlIGFuZCBGb3Jlc3RyeSwgU3lyYWN1c2UsIE5ZIDEzMjEwDQpFRFVDQVRJT046DQpJb3dhIFN0YXRlIFVuaXZlcnNpdHksIEFtZXMsIElvd2EsIFBvc3Rkb2N0b3JhbCByZXNlYXJjaCwgMTk2NC02NSwgSW5zZWN0IFRveGljb2xvZ3kNCklvd2EgU3RhdGUgVW5pdmVyc2l0eSwgQW1lcywgSW93YSwgUGguRC4sIDE5NjQsSW5zZWN0IFRveGljb2xvZ3kNCklvd2EgU3RhdGUgVW5pdmVyc2l0eSwgQW1lcywgSW93YSwgTS5TLiwgMTk2MSwgRW50b21vbG9neQ0KVG9reW8gVW5pdmVyc2l0eSwgVG9reW8sIEphcGFuLCBCLiBBZ3JpYy4sIDE5NTcsIEFwcGxpZWQgRW50b21vbG9neQ0KUFJPRkVTU0lPTkFMIEVYUEVSSUVOQ0U6DQpQcm9mZXNzb3IgLSBEZXBhcnRtZW50IG9mIEVudmlyb25tZW50YWwgYW5kIEZvcmVzdCBCaW9sb2d5LCBTVU5ZIENvbGxlZ2Ugb2YgRW52aXJvbm1lbnRhbCBTY2llbmNlIGFuZCBGb3Jlc3RyeSwgU3lyYWN1c2UsIE5ZIC0gSnVseSAxOTc2IHRvIHByZXNlbnQNCkFzc29jaWF0ZSBQcm9mZXNzb3IgLSBEZXBhcnRtZW50IG9mIEZvcmVzdCBFbnRvbW9sb2d5LCBTVU5ZIENvbGxlZ2Ugb2YgRW52aXJvbm1lbnRhbCBTY2llbmNlIGFuZCBGb3Jlc3RyeSwgU3lyYWN1c2UsIE5ZIC0gSnVseSAxOTcyIHRvIEp1bmUgMTk3Ng0KQXNzaXN0YW50IFByb2Zlc3NvciAtIEFzIGFib3ZlIC0gSnVseSAxOTY4IHRvIEp1bmUgMTk3Mg0KUmVzZWFyY2ggQXNzb2NpYXRlIC0gRGVwYXJ0bWVudCBvZiBab29sb2d5IGFuZCBFbnRvbW9sb2d5LCBJb3dhIFN0YXRlIFVuaXZlcnNpdHksIEFtZXMsIElvd2EgLSBKdWx5IDE5NjQgdG8gSnVuZSAxOTY4DQpHcmFkdWF0ZSBSZXNlYXJjaCBBc3Npc3RhbnQgLSBBcyBhYm92ZSAtIE1hcmNoIDE5NjAgdG8gTWF5IDE5NjQNCkFzc2lzdGFudCBFbnRvbW9sb2dpc3QgLSBEZXBhcnRtZW50IG9mIFBhdGhvbG9neSBhbmQgRW50b21vbG9neSwgTmF0aW9uYWwgSW5zdGl0dXRlIG9mIEFncmljdWx0dXJhbCBTY2llbmNlcywgVG9reW8sIEphcGFuIC0gMTk1NyB0byAxOTYwDQpUZWFjaGluZyBFeHBlcmllbmNlOiANCiBUb3hpYyBIZWFsdGggSGF6YXJkcyAoRUZCIDQwMC82MDApIDIwMDQtDQogVG9waWNzIGluIEVudmlyb25tZW50YWwgVG94aWNvbG9neSAoRUZCIDYxMSkgMTk5NC0NCkhlYWx0aCBhbmQgT3VyIENoZW1pY2FsIEVudmlyb25tZW50IChFRkIgNTEwKSAxOTg4LTIwMDMNCiBJbnNlY3RpY2lkZSBUb3hpY29sb2d5IChFRkIgNTYwKSAxOTcwLTE5ODgNCiBJbnNlY3RpY2lkZSBUb3hpY29sb2d5IExhYm9yYXRvcnkgKEVGQiA2NjApIDE5NjktMTk4OA0KIEdyYWR1YXRlIFNlbWluYXJzIChFRkIgNzk3KToNCiBIb3cgQXJlIFdlIEVhdGluZz8gLSBhIGxvb2sgYXQgb3VyIGZvb2Qgc3VwcGx5ICAyMDA5DQogQ29uY2VybnMgb3ZlciBPcmdhbmljIFByb2R1Y2UgYW5kIEdNTyAtIFByZXNjaWVuY2Ugb3IgUGFyYW5vaWE/IDIwMDQNCiBPcmdhbmljIFByb2R1Y2UgMjAwMA0KIE5hdHVyZSdzIENoZW1pY2FsIFdhcmZhcmUgMTk5Nw0KQXF1YXRpYyBUb3hpY29sb2d5IDE5OTINClBST0ZFU1NJT05BTCBTT0NJRVRZIE1FTUJFUlNISVA6DQpBbWVyaWNhbiBDaGVtaWNhbCBTb2NpZXR5DQpTb2NpZXR5IG9mIFRveGljb2xvZ3kNClBlc3RpY2lkZSBTY2llbmNlIFNvY2lldHkgb2YgSmFwYW4NClNvY2lldHkgb2YgRW52aXJvbm1lbnRhbCBUb3hpY29sb2d5IGFuZCBDaGVtaXN0cnkNCk1BSk9SIFJFU0VBUkNIIEZJTkRJTkdTOiANCkNocm9tYXRvZ3JhcGhpYyB0cmFuc2xvYnVsYXIgbWlncmF0aW9uIG9mIHhlbm9iaW90aWNzIGFuZCBoZXBhdGljIGJyZWFrdGhyb3VnaCB0aHJlc2hvbGRzDQogIk94aWRhdGl2ZSBoeWRyb2x5c2lzIiBvZiBwYXJhdGhpb24gYW5kIHJlbGF0ZWQgcGhvc3Bob3J1cyB0cmllc3RlcnMgICAgIA0KUFVCTElDQVRJT05TOiANCkJvb2sgY2hhcHRlcnMvcmV2aWV3czoNClQuIE5ha2F0c3VnYXdhLCBIZXBhdGljIGRpc3Bvc2l0aW9uIG9mIG9yZ2Fub3Bob3NwaG9ydXMgaW5zZWN0aWNpZGVzOiBhIHN5bnRoZXNpcyBvZiBpbiB2aXRybywgaW4gc2l0dSBhbmQgaW4gdml2byBkYXRhLCBJbiBPcmdhbm9waG9zcGhhdGVzOiBDaGVtaXN0cnksIEZhdGUsIGFuZCBFZmZlY3RzLCBKLkUuIENoYW1iZXJzIGFuZCBQLkUuIExldmksIEVkcy4sIEFjYWRlbWljIFByZXNzLCBJbmMuLCBOZXcgWW9yaywgcHAuIDIwMS0yMjcgKDE5OTIpLg0KVC4gTmFrYXRzdWdhd2EgYW5kIE0uQS4gTW9yZWxsaSwgTWljcm9zb21hbCBPeGlkYXRpb24gYW5kIEluc2VjdGljaWRlIE1ldGFib2xpc20sIEluIEluc2VjdGljaWRlIEJpb2NoZW1pc3RyeSBhbmQgUGh5c2lvbG9neSwgQy4gRi4gV2lsa2luc29uLCBFZC4sIFBsZW51bSBQcmVzcywgTmV3IFlvcmssIDYxLTExNCAoMTk3NikuDQpDaHJvbWF0b2dyYXBoaWMgdHJhbnNsb2J1bGFyIG1pZ3JhdGlvbiBvZiB4ZW5vYmlvdGljcyBhbmQgaGVwYXRpYyBicmVha3Rocm91Z2ggdGhyZXNob2xkczoNCkouTS4gQmVja2VyIGFuZCBULiBOYWthdHN1Z2F3YSwgSGVwYXRpYyBicmVha3Rocm91Z2ggdGhyZXNob2xkcyBmb3IgcGFyYXRoaW9uIGFuZCBwYXJhb3hvbiBhbmQgdGhlaXIgaW1wbGljYXRpb25zIHRvIHRveGljaXR5IGluIG5vcm1hbCBhbmQgRERFLXByZXRyZWF0ZWQgcmF0cywgUGVzdGljLiBCaW9jaGVtLiBQaHlzaW9sLiAzNiwgODMtOTggKDE5OTApLg0KSi5NLiBCZWNrZXIgYW5kIFQuIE5ha2F0c3VnYXdhLCBTaWduaWZpY2FuY2Ugb2YgaGVwYXRpYyBicmVha3Rocm91Z2ggdGhyZXNob2xkcyBpbiBmZW5pdHJvdGhpb24gdG94aWNpdHkgaW4gbWFsZSByYXRzIGFuZCBmZW1hbGUgbWljZSwgUGVzdGljLiBCaW9jaGVtLiBQaHlzaW9sLiAzOCwgMzQtNDAgKDE5OTApLg0KVC4gTmFrYXRzdWdhd2EsIEouIFRpbW9zenlrLCBhbmQgSi5NLiBCZWNrZXIsIFN1YnN0cmF0ZSBkZWxpdmVyeSBhcyBhIGNyaXRpY2FsIGVsZW1lbnQgaW4gdGhlIHN0dWR5IG9mIGludGVybWVkaWFyeSBtZXRhYm9saXRlcyBvZiBsaXBvcGhpbGljIHhlbm9iaW90aWNzIGluIHZpdHJvLCBJbiBJbnRlcm1lZGlhcnkgWGVub2Jpb3RpYyBNZXRhYm9saXNtOiBNZXRob2RvbG9neSwgVGlzc3VlIFNwZWNpZmljaXR5LCBNZWNoYW5pc20gYW5kIFNpZ25pZmljYW5jZSwgUHJvYy4gQUNTL0lTU1ggU3ltcG9zaXVtLCBUb3JvbnRvLCBDYW5hZGEsIEouIENhbGR3ZWxsLCBELkguIEh1dHNvbiBhbmQgRy5ELiBQYXVsc29uLCBFZHMuLCBUYXlsb3IgJiBGcmFuY2lzLCBMb25kb24sIHBwLiAzMzUtMzUzICgxOTg5KS4NClQuIE5ha2F0c3VnYXdhIGFuZCBKLk0uIEJlY2tlciwgQSBuZXcgbG9vayBhdCB4ZW5vYmlvdGljIG1ldGFib2xpc20gYXMgYSBkZXRlcm1pbmFudCBvZiB0b3hpY2l0eSB0aHJlc2hvbGQgaW4gYW5pbWFscywgSW4gWGVub2Jpb3RpYyBNZXRhYm9saXNtIGFuZCBEaXNwb3NpdGlvbiwgUHJvYy4gSUluZCBJbnRlcm5hdGlvbmFsIElTU1ggTWVldGluZywgS29iZSwgSmFwYW4sIFIuIEthdG8sIFIuVy4gRXN0YWJyb29rIGFuZCBNLk4uIENheWVuLCBFZHMuLCBUYXlsb3IgJiBGcmFuY2lzLCBMb25kb24sIHBwLiAyNzUtMjgyICgxOTg5KS4NClQuIE5ha2F0c3VnYXdhIGFuZCBKLiBUaW1vc3p5aywgRmx1b3Jlc2NlbmNlIGxhYmVsaW5nIGFuZCBzb3J0aW5nIG9mIGhlcGF0b2N5dGUgc3VicG9wdWxhdGlvbnMgdG8gZGV0ZXJtaW5lIHRoZSBpbnRyYWxvYnVsYXIgaGV0ZXJvZ2VuZWl0eSBvZiBwYXJhb3hvbi1tZXRhYm9saXppbmcgZW56eW1lcyBpbiBEREUtdHJlYXRlZCBhbmQgY29udHJvbCByYXRzLCBQZXN0aWMuIEJpb2NoZW0uIFBoeXNpb2wuIDMwLCAxMTMtMTI0ICgxOTg4KS4NClMuIFRzdWRhLCBBLiBSb3NlbmJlcmcsIGFuZCBULiBOYWthdHN1Z2F3YSwgVHJhbnNsb2J1bGFyIHVwdGFrZSBwYXR0ZXJucyBvZiBlbnZpcm9ubWVudGFsIHRveGljYW50cyBpbiB0aGUgcmF0IGxpdmVyLCBCdWxsLiBFbnZpci4gQ29udGFtLiBUb3hpY29sLiA0MCwgNDEwLTQxNyAoMTk4OCkuDQpTLiBUc3VkYSwgVy4gU2hlcm1hbiwgQS4gUm9zZW5iZXJnLCBKLiBUaW1vc3p5aywgSi5NLiBCZWNrZXIsIFMuIEtlYWR0aXN1a2UsIGFuZCBULiBOYWthdHN1Z2F3YSwgUmFwaWQgcGVyaXBvcnRhbCB1cHRha2UgYW5kIHRyYW5zbG9idWxhciBtaWdyYXRpb24gb2YgcGFyYXRoaW9uIHdpdGggY29uY3VycmVudCBtZXRhYm9saXNtIGluIHRoZSByYXQgbGl2ZXIgaW4gdml2bywgUGVzdGljLiBCaW9jaGVtLiBQaHlzaW9sLiAyOCwgMjAxLTIxNSAoMTk4NykuDQpULiBOYWthdHN1Z2F3YSBhbmQgSi5NLiBCZWNrZXIsIEluIHZpdHJvIHN5c3RlbXMgaW4gdGhlIHN0dWR5IG9mIG1lY2hhbmlzbXMgb2YgcGVzdGljaWRlIG1ldGFib2xpc20gaW4gYW5pbWFscywgSW4gUGVzdGljaWRlIFNjaWVuY2UgYW5kIEJpb3RlY2hub2xvZ3ksIFIuIEdyZWVuaGFsZ2ggYW5kIFQuIFIuIFJvYmVydHMsIEVkcy4sIEJsYWNrd2VsbCBTY2llbnRpZmljIFB1YmxpY2F0aW9ucywgQm9zdG9uLCA1MjMtNTI2ICgxOTg3KS4NCk4uIE11cmFrYW1pLCBNLiBVY2hpZGEsIFQuIFN1Z2ltb3RvLCBhbmQgVC4gTmFrYXRzdWdhd2EsIFJlbGF0aW9uc2hpcCBiZXR3ZWVuIHRyYW5zbG9idWxhciBtaWdyYXRpb24gaW4gcGVyZnVzZWQgcmF0IGxpdmVyIGFuZCBoeWRyb3Bob2JpY2l0eSBvZiBkaWFsa3lsIGRpdGhpb2xhbnlsaWRlbmVtYWxvbmF0ZXMgYW5kIHJlbGF0ZWQgY29tcG91bmRzLCBYZW5vYmlvdGljYSAxNywgMjQxLTI0OSAoMTk4NykuDQpULiBOYWthdHN1Z2F3YSBhbmQgVy5LLiBTaGVybWFuLCBEb3NlLWRlcGVuZGVudCBpbnZvbHZlbWVudCBvZiBpbnRyYWxvYnVsYXIgcmVnaW9ucyBvZiB0aGUgbGl2ZXIgaW4gdGhlIGJpb3RyYW5zZm9ybWF0aW9uIG9mIHhlbm9iaW90aWNzLCBEZXZlbG9wbWVudHMgaW4gdGhlIFNjaWVuY2UgYW5kIFByYWN0aWNlIG9mIFRveGljb2xvZ3ksIEEuIFcuIEhheWVzLCBSLiBDLiBTY2huZWxsIGFuZCBULiBTLiBNaXlhLCBFZHMuLCBFbHNldmllciBTY2llbmNlIFB1Ymxpc2hlcnMgQi5WLiwgNDU1LTQ1OCAoMTk4MykuDQpULiBOYWthdHN1Z2F3YSBhbmQgUy4gVHN1ZGEsIE1ldGFib2xpc20gc3R1ZGllcyB3aXRoIGxpdmVyIGhvbW9nZW5hdGUsIGhlcGF0b2N5dGUgc3VzcGVuc2lvbiBhbmQgcGVyZnVzZWQgbGl2ZXIsIGluIElVUEFDIFBlc3RpY2lkZSBDaGVtaXN0cnksIEh1bWFuIFdlbGZhcmUgYW5kIHRoZSBFbnZpcm9ubWVudCwgUGVyZ2Ftb24gUHJlc3MsIE5ldyBZb3JrLCBKLiBNaXlhbW90bywgRWQuIDMsIDM5NS00MDAgKDE5ODMpLg0KVC4gTmFrYXRzdWdhd2EsIFMuIFRzdWRhLCBhbmQgVy5LLiBTaGVybWFuLCBDaHJvbWF0b2dyYXBoaWMgdHJhbnNsb2J1bGFyIG1pZ3JhdGlvbiBvZiB4ZW5vYmlvdGljcywgSW4gSVVQQUMgUGVzdGljaWRlIENoZW1pc3RyeSwgSHVtYW4gV2VsZmFyZSBhbmQgdGhlIEVudmlyb25tZW50LCBQZXJnYW1vbiBQcmVzcywgTmV3IFlvcmssIEouIE1peWFtb3RvLCBFZC4gMywgNDY5LTQ3NCAoMTk4MykuDQpXLkwuIEJyYWRmb3JkIGFuZCBULiBOYWthdHN1Z2F3YSwgUGVyZnVzaW9uIGFuYWx5c2lzIG9mIHBlcmlwb3J0YWwgYW5kIGNlbnRyaWxvYnVsYXIgbWV0YWJvbGlzbSBvZiBwYXJhb3hvbiBpbiB0aGUgcmF0IGxpdmVyLCBQZXN0aWMuIEJpb2NoZW0uIFBoeXNpb2wuIDE4LCAyOTgtMzAzICgxOTgyKS4NClQuIE5ha2F0c3VnYXdhLCBXLkwuIEJyYWRmb3JkLCBhbmQgSy4gVXN1aSwgSGVwYXRpYyBkaXNwb3NpdGlvbiBvZiBwYXJhdGhpb246IFVwdGFrZSBieSBpc29sYXRlZCBoZXBhdG9jeXRlcyBhbmQgY2hyb21hdG9ncmFwaGljIHRyYW5zbG9idWxhciBtaWdyYXRpb24sIFBlc3RpYy4gQmlvY2hlbS4gUGh5c2lvbC4gMTQsIDEzLTI1ICgxOTgwKS4NCiJPeGlkYXRpdmUgaHlkcm9seXNpcyIgb2YgcGFyYXRoaW9uIGFuZCByZWxhdGVkIHBob3NwaG9ydXMgdHJpZXN0ZXJzOiAgICAgICAgDQpILlQuIEFwcGxldG9uIGFuZCBULiBOYWthdHN1Z2F3YSwgVGhlIHRveGljb2xvZ2ljYWwgc2lnbmlmaWNhbmNlIG9mIHBhcmFveG9uIGRlZXRoeWxhdGlvbiwgUGVzdGljLiBCaW9jaGVtLiBQaHlzaW9sLiA3LCA0NTEtNDY1ICgxOTc3KS4NCkguVC4gQXBwbGV0b24gYW5kIFQuIE5ha2F0c3VnYXdhLCBQYXJhb3hvbiBkZWV0aHlsYXRpb24gaW4gdGhlIG1ldGFib2xpc20gb2YgcGFyYXRoaW9uLCBQZXN0aWMuIEJpb2NoZW0uIFBoeXNpb2wuIDIsIDI4Ni0yOTQgKDE5NzIpLg0KVC4gTmFrYXRzdWdhd2EsIE4uTS4gVG9sbWFuLCBhbmQgUC5BLiBEYWhtLCBNZXRhYm9saXNtIG9mIFMzNS1wYXJhdGhpb24gaW4gdGhlIGhvdXNlIGZseSwgSi4gRWNvbi4gRW50b21vbC4gNjIsIDQwOC00MTEgKDE5NjkpLg0KVC4gTmFrYXRzdWdhd2EsIE4uTS4gVG9sbWFuLCBhbmQgUC5BLiBEYWhtLCBPeGlkYXRpdmUgZGVncmFkYXRpb24gb2YgZGlhemlub24gYnkgcmF0IGxpdmVyIG1pY3Jvc29tZXMsIEJpb2NoZW0uIFBoYXJtYWNvbC4gMTgsIDY4NS02ODggKDE5NjkpLg0KVC4gTmFrYXRzdWdhd2EsIE4uTS4gVG9sbWFuLCBhbmQgUC5BLiBEYWhtLCBEZWdyYWRhdGlvbiBvZiBwYXJhdGhpb24gaW4gdGhlIHJhdCwgQmlvY2hlbS4gUGhhcm1hY29sLiAxOCwgMTEwMy0xMTE0ICgxOTY5KS4NClAuQS4gRGFobSBhbmQgVC4gTmFrYXRzdWdhd2EsIEJpb2FjdGl2YXRpb24gb2YgaW5zZWN0aWNpZGVzLCBFbnp5bWF0aWMgT3hpZGF0aW9ucyBvZiBUb3hpY2FudHMsIDg5LTExMiAoMTk2OCkuDQpULiBOYWthdHN1Z2F3YSwgTi5NLiBUb2xtYW4sIGFuZCBQLkEuIERhaG0sIERlZ3JhZGF0aW9uIGFuZCBhY3RpdmF0aW9uIG9mIHBhcmF0aGlvbiBhbmFsb2dzIGJ5IG1pY3Jvc29tYWwgZW56eW1lcywgQmlvY2hlbS4gUGhhcm1hY29sLiAxNywgMTUxNy0xNTI4ICgxOTY4KS4NClQuIE5ha2F0c3VnYXdhIGFuZCBQLkEuIERhaG0sIE1pY3Jvc29tYWwgbWV0YWJvbGlzbSBvZiBwYXJhdGhpb24sIEJpb2NoZW0uIFBoYXJtYWNvbC4gMTYsIDI1LTM4ICgxOTY3KS4NClhlbm9iaW90aWMgYmlvdHJhbnNmb3JtYXRpb24gYW5kIHRveGljb2xvZ3k6DQpTLiBLZWFkdGlzdWtlLCBXLiBEaGVyYW5ldHJhLCBULiBOYWthdHN1Z2F3YSBhbmQgVC5SLiBGdWt1dG8sIExpdmVyIGRhbWFnZSBpbmR1Y2VkIGluIHJhdHMgYnkgbWFsYXRoaW9uIGltcHVyaXRpZXMsIFRveGljb2wuIExldHQuICA1MiwgMzUtNDYgKDE5OTApLg0KSi5FLiBNY0lsdmFpbiwgSi4gVGltb3N6eWssIGFuZCBULiBOYWthdHN1Z2F3YSwgUmF0IGxpdmVyIHBhcmFveG9uYXNlIChwYXJhb3hvbiBhcnlsZXN0ZXJhc2UpLCBQZXN0aWMuIEJpb2NoZW0uIFBoeXNpb2wuIDIxLCAxNjItMTY5ICgxOTg0KS4NClguRi4gTGVuZyBhbmQgVC4gTmFrYXRzdWdhd2EsIFBhcmFveG9uLWluZHVjZWQgcmVsZWFzZSBvZiDOsi1nbHVjdXJvbmlkYXNlIGZyb20gcmF0IGhlcGF0b2N5dGVzIGluIHZpdHJvLCBQZXN0aWMuIEJpb2NoZW0uIFBoeXNpb2wuIDIxLCAyMDctMjEyICgxOTg0KS4NCkEuIFJvc2VuYmVyZyBhbmQgVC4gTmFrYXRzdWdhd2EsIFNlcGFyYXRpb24gb2YgcGFyYXRoaW9uIGJ5IHJldmVyc2VkLXBoYXNlZCBpb24tcGFpciBoaWdoLXBlcmZvcm1hbmNlIGxpcXVpZCBjaHJvbWF0b2dyYXBoeSwgSi4gQ2hyb21hdG9nci4gMjk0LCA0MzYtNDQxICgxOTg0KS4NClguIExlbmcgYW5kIFQuIE5ha2F0c3VnYXdhLCBTdHJ1Y3R1cmUtYWN0aXZpdHkgcmVsYXRpb25zaGlwIGluIG9yZ2Fub3Bob3NwaGF0ZS1pbmR1Y2VkIM6yLWdsdWN1cm9uaWRhc2UgcmVsZWFzZSBmcm9tIHJhdCBoZXBhdG9jeXRlcyBpbiB2aXRybywgQnVsbC4gRW52aXJvbi4gQ29udGFtLiBUb3hpY29sLiAzMSwgNjE5LTYyNCAoMTk4MykuDQpTLiBLZWFkdGlzdWtlIGFuZCBULiBOYWthdHN1Z2F3YSwgU2lnbmlmaWNhbmNlIG9mIHBob3NwaG9yeWxhdGlvbiBpbiBvcmdhbm9waG9zcGhhdGUtbWVkaWF0ZWQgzrItZ2x1Y3Vyb25pZGFzZSByZWxlYXNlIGZyb20gdGhlIHJhdCBsaXZlciwgUGVzdGljLiBCaW9jaGVtLiBQaHlzaW9sLiAxMywgMjEzLTIxOSAoMTk4MCkuDQpNLkEuIE1vcmVsbGkgYW5kIFQuIE5ha2F0c3VnYXdhLCBTdWxmdXIgb3h5YWNpZCBwcm9kdWN0aW9uIGFzIGEgY29uc2VxdWVuY2Ugb2YgcGFyYXRoaW9uIGRlc3VsZnVyYXRpb24sIFBlc3RpYy4gQmlvY2hlbS4gUGh5c2lvbC4gMTAsIDI0My0yNTAgKDE5NzkpLg0KTS5BLiBNb3JlbGxpIGFuZCBULiBOYWthdHN1Z2F3YSwgSW5hY3RpdmF0aW9uIGluIHZpdHJvIG9mIG1pY3Jvc29tYWwgb3hpZGFzZXMgZHVyaW5nIHBhcmF0aGlvbiBtZXRhYm9saXNtLCBCaW9jaGVtLiBQaGFybWFjb2wuIDI3LCAyOTMtMjk5ICgxOTc4KS4NClQuIE5ha2F0c3VnYXdhIGFuZCBQLkEuIERhaG0sIFBhcmF0aGlvbiBhY3RpdmF0aW9uIGVuenltZXMgaW4gdGhlIGZhdCBib2R5IG1pY3Jvc29tZXMgb2YgdGhlIEFtZXJpY2FuIGNvY2tyb2FjaCwgSi4gRWNvbi4gRW50b21vbC4gNTgsIDUwMC01MDkgKDE5NjUpLg0KVC4gTmFrYXRzdWdhd2EsIE0uIElzaGlkYSwgYW5kIFAuQS4gRGFobSwgTWljcm9zb21hbCBlcG94aWRhdGlvbiBvZiBjeWNsb2RpZW5lIGluc2VjdGljaWRlcywgQmlvY2hlbS4gUGhhcm1hY29sLiAxNCwgMTg1My0xODY1ICgxOTY1KS4NClQuIE5ha2F0c3VnYXdhIGFuZCBQLkEuIERhaG0sIEFjdGl2YXRpb24gb2YgZ3V0aGlvbiBieSB0aXNzdWUgcHJlcGFyYXRpb25zIGZyb20gdGhlIEFtZXJpY2FuIGNvY2tyb2FjaCwgSi4gRWNvbi4gRW50b21vbC4gNTUsIDU5NC01OTkgKDE5NjIpLg0KSW5zZWN0IGFuZCBlbnZpcm9ubWVudGFsIHRveGljb2xvZ3kgYW5kIHBoeXNpb2xvZ3k6DQpCLkEuIFJhdHRuZXIsIEouTS4gQmVja2VyLCBhbmQgVC4gTmFrYXRzdWdhd2EsIEVuaGFuY2VtZW50IG9mIHBhcmF0aGlvbiB0b3hpY2l0eSB0byBxdWFpbCBieSBoZWF0IGFuZCBjb2xkIGV4cG9zdXJlLCBQZXN0aWMuIEJpb2NoZW0uIFBoeXNpb2wuIDI3LCAzMzAtMzM5ICgxOTg3KS4NClAuQS4gTmVsc29uLCBSLlIuIFN0ZXdhcnQsIE0uQS4gTW9yZWxsaSwgYW5kIFQuIE5ha2F0c3VnYXdhLCBBbGRyaW4gZXBveGlkYXRpb24gaW4gdGhlIGVhcnRod29ybSwgTHVtYnJpY3VzIHRlcnJlc3RyaXMgTC4sIFBlc3RpYy4gQmlvY2hlbS4gUGh5c2lvbC4gNiwgMjQzLTI1MyAoMTk3NikuDQpULiBOYWthdHN1Z2F3YSBhbmQgUi5SLiBTdGV3YXJ0LCBDb21wYXJhdGl2ZSBiaW90cmFuc2Zvcm1hdGlvbiBhcyBhIGZvcmVjYXN0ZXIgb2YgdGhlIGVjb2xvZ2ljYWwgY29uc2VxdWVuY2VzIG9mIHNlbGVjdGl2ZSBpbnNlY3RpY2lkZXMsIEluIFBlc3RpY2lkZSBTZWxlY3Rpdml0eSwgSi5DLiBTdHJlZXQsIEVkLiwgMTM1LTE1MyAoMTk3NSkuDQpULiBOYWthdHN1Z2F3YSBhbmQgUC5BLiBOZWxzb24sIFN0dWRpZXMgb2YgaW5zZWN0aWNpZGUgZGV0b3hpZmljYXRpb24gaW4gaW52ZXJ0ZWJyYXRlczsgQW4gZW56eW1vbG9naWNhbCBhcHByb2FjaCB0byB0aGUgcHJvYmxlbSBvZiBiaW9sb2dpY2FsIG1hZ25pZmljYXRpb24sIEVudmlyb24uIFRveGljb2wuIFBlc3RpYy4sIFByb2MuIFUuIFMuIEpwbi4gU2VtaW4uICAsIDUwMS01MjQgKDE5NzIpLg0KSi4gRnVrYW1pIGFuZCBULiBOYWthdHN1Z2F3YSwgU3R1ZGllcyBvbiByZWQgYW5kIHdoaXRlIG11c2NsZXMgb2YgaW5zZWN0cywgd2l0aCBzcGVjaWFsIHJlZmVyZW5jZSB0byBzcGVjdHJvcGhvdG9tZXRyaWMgb2JzZXJ2YXRpb25zIG9mIGN5dG9jaHJvbWVzIGluIG11c2NsZXMsIEJ1bGwuIE5hdC4gSW5zdC4gQWdyaWMuIFNjaS4gKEpwbikgQyAoMTMpLCA0Ny01NSAoMTk2MSkuDQpKLiBGdWthbWksIFQuIE5ha2F0c3VnYXdhLCBhbmQgUy4gSXNoaWksIFBlbmV0cmF0aW9uIG9mIEJIQyBpc29tZXJzIHRocm91Z2ggY3V0aWNsZSBvZiB0aGUgQW1lcmljYW4gY29ja3JvYWNoZXMsIEpwbiBKLiBBcHBsLiBFbnRvbW9sLiBab29sLiA1LCAyODEtMjgyICgxOTYxKS4NClQuIE5ha2F0c3VnYXdhLCBTcGVjdHJvcGhvdG9tZXRyaWMgbWVhc3VyZW1lbnQgb2YgY3l0b2Nocm9tZXMgaW4gdGhlIHJlZCBhbmQgd2hpdGUgbXVzY2xlcyBvZiB0aGUgQW1lcmljYW4gY29ja3JvYWNoLCBQZXJpcGxhbmV0YSBhbWVyaWNhbmEgTC4sIE5hdHVyZSAxODUsIDg1LTg2ICgxOTYwKS4NCkouIEZ1a2FtaSwgVC4gTmFrYXRzdWdhd2EsIGFuZCBULiBOYXJhaGFzaGksIFRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiBjaGVtaWNhbCBzdHJ1Y3R1cmUgYW5kIHRveGljaXR5IGluIHJvdGVub25lIGRlcml2YXRpdmVzLCBKcG4uIEouIEFwcGwuIEVudG9tb2wuIFpvb2wuIDMsIDI1OS0yNjUgKDE5NTkpLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911311306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

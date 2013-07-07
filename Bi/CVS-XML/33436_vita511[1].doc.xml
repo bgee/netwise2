@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:04:09 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913501306521"  usageLimitType="allocation" usageLimit="200" currentUsage="102" remainingUsage="98" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>ROBERT E. PAASWELL Ph.D.</FormattedName>
+<GivenName>ROBERT</GivenName>
+<MiddleName>E.</MiddleName>
+<FamilyName>PAASWELL</FamilyName>
+<Affix type="qualification">Ph.D.</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>The City</Municipality>
+<DeliveryAddress>
+<AddressLine>Dist. M. ASCE</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (212) 650-8072</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>212</AreaCityCode>
+<SubscriberNumber>650-8072</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (212) 650-8374</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>212</AreaCityCode>
+<SubscriberNumber>650-8374</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>paaswell@utrc2.org</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>The City College of New York</EmployerOrgName>
+<PositionHistory>
+<Title>Distinguished Professor of Civil Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>NY</Region>
+<Municipality>New York</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>on leave
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Interim President</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University Transportation Research Center</EmployerOrgName>
+<PositionHistory>
+<Title>Director</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Region 2</EmployerOrgName>
+<PositionHistory>
+<Title>Director, CUNY Institute for Urban Systems</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Distinguished Professor of Civil Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Dr. Paaswell&apos;s scholarly focus includes transit system budgeting and finance, including operating and capital budgets transit investment strategies and issues of transit system governance. Highlights of his activities and publications are listed further in this document. He remains active with the various Centers he has led.
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Interim President / Interim President of City College</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Dr. Paaswell was the chief executive of the flagship institution of CUNY. The College is a comprehensive teaching, research, and service institution akin to small university. The College is a comprehensive teaching, research, and service institution with 16,000 students, professional schools in architecture, biomedical education, education and engineering, a College of Liberal Arts and Science and an annual budget of over $230 million. During his tenure Dr. Paaswell raised the intellectual profile of the College in the eyes of other academicians and the press by engaging outstanding scholars, convening national symposia in physics and public transportation and through other activities that underscored the academic excellence of the institution. He re-invigorated a faculty which was ranked as having the lowest in morale in the CUNY network. He further re-focused the administration on its core mission of serving the students and faculty. Other initiatives included taking steps to restructure the collaboration between College&apos;s fund-raising offices and generally preparing the College for new leadership. In his related role as President of the City College 21st Century Foundation he worked closely with alumni leaders to raise $29.4 million in gifts for the College. His outreach to elected and local leaders helped pave the way for future partnerships between the College and its Upper Manhattan community. Director, The University Transportation Center The University Transportation Center (UTRC) is one of ten federally designated Regional Centers, and is funded annually at a multi-million dollar level by federal and regional sources. The Center provides and sponsors a series of programs in Research, Education and Training, and Technology Transfer. The 12 academic institutions in New York, New Jersey and Puerto Rico that comprise the Center are the City University of New York, Columbia University, Cornell University, New Jersey Institute of Technology, New York University, Polytechnic Institute of NYU, Rensselaer Polytechnic Institute, Rowan University, Rutgers University, State University of New York, Stevens Institute of Technology, and the University of Puerto Rico - MayagÃ¼ez. Under Dr. Paaswell, UTRC became a major resource on public transportation issues for the region and nation. He has improved management, budgeting and reporting, participation by regional organizations, and inter-university research and training efforts with the impact of gaining national and international recognition for the Center. He has served in a leadership capacity among national Center Directors, with responsibility for strategic planning of the national program. Director, The CUNY Institute for Urban Systems The CUNY Institute for Urban Systems is a multi-campus Institute addressing infrastructure issues that incorporate new technologies, institutional forms and change and issues of financing. It is supported by City University of New York and external grants. It houses a Building Performance Lab sponsored by the New York State Energy Research and Development Authority.
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Illinois</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Chicago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Transportation</EmployerOrgName>
+<PositionHistory>
+<Title>Professor of Civil Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Chicago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Professor of Civil Engineering
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Transit Management</EmployerOrgName>
+<PositionHistory>
+<Title>Consultant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Operation and Planning
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1989-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chicago Transit Authority</EmployerOrgName>
+<PositionHistory>
+<Title>Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Chicago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>developed program and courses transportation policy developed research program. As Consultant worked for a large number of clients on projects including employment access air terminal geometry light rail transit design transit mall design and planning.
+</Description>
+<StartDate>
+<AnyDate>1986-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1989-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Illinois</EmployerOrgName>
+<PositionHistory>
+<Title>Executive Director</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Chicago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>The Chicago Transit Authority (CTA) is North America&apos;s second largest transit system providing two million trips per day on both extensive bus and rail networks. With 13,000 employees and an approximately $1 billion annual operating and capital budget. CTA operates in a difficult political and urban environment. The Executive Director reports directly to the Chairman of a seven-member appointed Board is the Chief Executive Officer and responsible for the day to day operations of the Authority. The Executive Director is responsible for carrying out the policies of the Board. He was nominated by the Mayor of Chicago and appointed by the CTA Board. During his tenure Dr. Paaswell reformed and redirected a highly complex agency operating in a difficult and constraining external environment. Representative achievements include: Professionalization of management * Application of strategic approaches to problem solving * Development of mission and goal statement. * Structuring and defining a strategic plan Instituted program-based budgeting together with clarified program objectives and utilization of the budget a strategic planning process * Restructured the procurement and capital construction processes * Development of fleet management plans * Creation of an openness of the agency to the public with increased information provided public and business groups. * Modernization of computer system and initiation of a micro-computer working environment. Development of innovate and aggressive Affirmative Action and DBE/MBE programs.
+</Description>
+<StartDate>
+<AnyDate>1986-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1986-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Urban Transportation Center</EmployerOrgName>
+<PositionHistory>
+<Title>Professor of Civil Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>IL</Region>
+<Municipality>Chicago</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Professor of Civil Engineering
+</Description>
+<StartDate>
+<AnyDate>1982-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1986-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Illinois.</EmployerOrgName>
+<PositionHistory>
+<Title>Director / The Director of the Center</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>The Urban Transportation Center is a major research center at the, reported to the Vice Chancellor of the University and had the responsibility to develop the center into a major National Center from its inception. During the period of Paaswell leadership, he attracted more than twenty research grants, and formed a working group of twenty faculty and a research staff of more than forty graduate and undergraduate students to work on significant regional and national transportation programs. These were carried out for both public and private clients. Among the more significant studies were: privatization of handicapped transit for CTA, value study of Milwaukee Road to establish system value organization of a regional conference to provide input to Regional Transportation Authority Act, analysis of transportation to health care for teenage mothers, access to employment by urban residents, training and modeling behavior of freight locomotive engineers, and development of a cooperative program with China.. The Center brought a rigorous, approach of academic-based group talent to bear on difficult regional transportation problems.
+</Description>
+<StartDate>
+<AnyDate>1982-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>State University of New York at Buffalo</EmployerOrgName>
+<PositionHistory>
+<Title>Chairman, Department of Environmental Design and Planning</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>NY</Region>
+<Municipality>Buffalo</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Director, State University of New York Center for Transportation Studies and Research
+</Description>
+<StartDate>
+<AnyDate>1980-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Civil Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>founded)
+</Description>
+<StartDate>
+<AnyDate>1978-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1982-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Field Geotechnical Engineering - Ford Foundation Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Full time graduate PhD Student - Rutgers University Dep&apos;t Civil Engineering - PhD awarded 1965 &quot;The effects of temperature on a fine grained consolidating soil&quot; - Advisor, Dr. A Jumikis
+</Description>
+<StartDate>
+<AnyDate>1962-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1964-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Columbia University School of Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Research Assistant - Department of Civil Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>MS</Region>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1960-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1962-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>White and Prentis</EmployerOrgName>
+<PositionHistory>
+<Title>Engineer - Spencer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Foundation Engineers, New York City, NY
+</Description>
+<StartDate>
+<AnyDate>1962-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1957-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Rutgers University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>New Jersey</Region>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1965-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Columbia University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>New York</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1961-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Applied Mechanics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Columbia University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>New York</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1957-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Civil Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Columbia University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>New York</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>B.A</DegreeName>
+<DegreeDate>
+<AnyDate>1956-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Arts</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tel Aviv University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>INTERNATIONAL POSITIONS</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Advisor to School of Policy.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>a report to the Ministries of Finance and Transport.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Jilin University of Technology</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Professor</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "A SERIES">
+<CompetencyEvidence name ="A SERIES" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Accenture FOUNDATION">
+<CompetencyEvidence name ="Accenture FOUNDATION">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Biomedical Industry">
+<CompetencyEvidence name ="Biomedical Industry" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Budgeting">
+<CompetencyEvidence name ="Budgeting" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">14</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Civil Engineering">
+<CompetencyEvidence name ="Civil Engineering" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering" lastUsed="1990-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Infrastructure">
+<CompetencyEvidence name ="Infrastructure" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Management">
+<CompetencyEvidence name ="Management" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "MBE">
+<CompetencyEvidence name ="MBE">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Planning">
+<CompetencyEvidence name ="Planning" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Procurement">
+<CompetencyEvidence name ="Procurement">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">12</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research and Development">
+<CompetencyEvidence name ="Research and Development" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Strategic Planning">
+<CompetencyEvidence name ="Strategic Planning" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Training">
+<CompetencyEvidence name ="Training" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Transportation">
+<CompetencyEvidence name ="Transportation" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">7</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>University Transportation Centers: Award</Description>
+<IssuingAuthority>for Distinguished Contributions to University Education and Research</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-02-01</StringDate></Date>
+<Description>Council On Transportation NYU Rudin Center for Transportation Policy &quot;Lifetime Achievement Award&quot;</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-11-01</StringDate></Date>
+<Description>Rutgers University. Outstanding Civil Engineering Alumnus awarded</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>Sep t 2001</StringDate></Date>
+<Description>Subject of &quot;Profile&quot; in Transportation Research News ( a publication of NAS/TRB)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1976-01-01</StringDate></Date>
+<Description>Secretary&apos;s Medal for Distinguished Service USDOT</Description>
+</Achievement>
+<Achievement>
+<Description>Directors Board of Directors New York Transportation Council</Description>
+<IssuingAuthority>York College Aviation Institute</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>CUNY Board of Advisors</Description>
+<IssuingAuthority>School of Professional Studies</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>CUNY Board of Directors Newman Real</Description>
+<IssuingAuthority>Institute for Nature and the Regional Environment</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>Estate Co-Chair CUNY Sustainability Task Force</Description>
+<IssuingAuthority>Institute at Baruch College</IssuingAuthority>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>NY State High Speed Rail Planning Board - Appointed by the Governor 2010</Name>
+</Association>
+<Association>
+<Name>Governor&apos;s Task Force on Higher Education, appointed by Gov.</Name>
+</Association>
+<Association>
+<Name>of NYS, 2007</Name>
+</Association>
+<Association>
+<Name>Metropolitan Transit Authority:</Name>
+</Association>
+<Association>
+<Name>Blue Ribbon Commission on Workforce Development 2007</Name>
+</Association>
+<Association>
+<Name>Metropolitan Transit Authority:</Name>
+</Association>
+<Association>
+<Name>Blue Ribbon Commission on Construction Excellence 2007</Name>
+</Association>
+<Association>
+<Name>Metropolitan Waterway Alliance, Co Chair - Transit Committee/Ferries</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Transportation Research Board - National Academy of Sciences, National Research Council) - Executive Committee Member</Name>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>The ruling body of the most significant transportation professional association in the U.S.</Name>
+</Association>
+<Association>
+<Name>Paaswell served on the TRB/USDOT Task Force that defined the University Transportation Centers Program and was responsible for the oversight of the first competition.</Name>
+</Association>
+<Association>
+<Name>Transit Cooperative Research Program, Member - Board of Directors (1991-1998).</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>TCRP is a multi-million dollar federally funded program administered by TRB and APTA, developed to conduct research for the Transit Industry.</Name>
+</Association>
+<Association>
+<Name>Paaswell was a charter member.</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>He served as Chair of the Research Panel, &quot;New Paradigms in Transit.&quot;</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>American Society of Civil Engineers - Elected to Distinguished Member</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Many positions including Past President of Buffalo, New York section.</Name>
+<Role><Name>President</Name></Role>
+</Association>
+<Association>
+<Name>Chairman of a major national conference, &quot;Site Traffic Impact Analysis&quot; (1992).</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Served as Chair of the Committee on Peer Review of Public Agencies.</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Institute of Transportation Engineers, Fellow and Charter member of Transit Council Transit Standards Consortium:</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Chairman of Board and Member and former Chair of the Education and Training Council</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Licensed Professional Engineer in New York State</Name>
+</Association>
+<Association>
+<Name>Author of two books, eleven book chapters, and over 150 technical publications and reports</Name>
+</Association>
+<Association>
+<Name>over 200 invited technical presentations</Name>
+</Association>
+<Association>
+<Name>contributor of articles to World Book Encyclopedia.</Name>
+</Association>
+<Association>
+<Name>Listed in &quot;Who&apos;s Who in the World, &quot;Who&apos;s Who in America&quot;, &quot;Who&apos;s Who in Engineering&quot;, &quot;Who&apos;s Who in Finance and Industry.&quot;</Name>
+</Association>
+<Association>
+<Name>Principal Investigator or co-investigator for over 80 sponsored research grants with a total value of over $60M.</Name>
+</Association>
+<Association>
+<Name>Representative Recent Sponsored Projects:</Name>
+</Association>
+<Association>
+<Name>Urban Growth Limits (Revson Foundation):</Name>
+</Association>
+<Association>
+<Name>This project examines application of evolving concepts of growth limits, sustainability to NYC.  ($25k)</Name>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Long Island Transportation Intermodal Transfer Facility - A major study in response to a gubernatorial request to solve a problem of locating a rail-truck freight transfer facility on Long Island.</Name>
+</Association>
+<Association>
+<Name>The study has made recommendations that will change the position of rail freight in NY State.</Name>
+</Association>
+<Association>
+<Name>For NYSDOT -  (500k)</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>I278 Freight Corridor Study - for NYSDOT, an assessment of necessary investments to maximize the impact of the proposed NY-NJ rail freight tunnel.  (1.5 m)</Name>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Impacts of Rail Transit Investments - pioneering study for the Partnership of the City of NY to evaluate the transportation and economic development impacts of 12 propsed infrastructure investments post Sept.</Name>
+</Association>
+<Association>
+<Name>11.  (50k)</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>New Jersey in 21st century.</Name>
+</Association>
+<Association>
+<Name>This project, an analysis of the impacts of transportation investments in Northern New Jersey on economic development was in response to the governor&apos;s challenge for innovative research to guide investment policy.</Name>
+</Association>
+<Association>
+<Name>It is a three year project by New Jersey Department of Transportation.  ($250, k)</Name>
+<StartDate>
+<AnyDate>1999-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Analysis of Capital Cost Elements for Light Rail Transit - Federal Transit Administration - 2005 Detailed analysis of factors driving capital project cost escalation</Name>
+</Association>
+<Association>
+<Name>Impacts of Deferred Investments on Capital and Operating budgets, report for the NY MTA, 2004</Name>
+</Association>
+<Association>
+<Name>Workforce development:</Name>
+</Association>
+<Association>
+<Name>New Technologies</Name>
+</Association>
+<Association>
+<Name>(USDOT/TWU)</Name>
+</Association>
+<Association>
+<Name>Development of major training initiative concerning integration of new technologies into transit systems.  ($75k)</Name>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+</Association>
+<Association>
+<Name>Bus maintenance workforce initiative.</Name>
+</Association>
+<Association>
+<Name>Dr.</Name>
+</Association>
+<Association>
+<Name>Paaswell was asked by New York City Transit to oversee and develop a process to have labor and management agree on work hours for major bus maintenance tasks (a first in the transit industry).</Name>
+</Association>
+<Association>
+<Name>He formed a team with Industrial Engineers to establish a protocol for measurement and time determination that was accepted by both labor and management.</Name>
+</Association>
+<Association>
+<Name>Over 70 items have been codified to date in this historic initiative.</Name>
+</Association>
+<Association>
+<Name>The estimated savings form the first set of tasks was $11 million per year.</Name>
+</Association>
+<Association>
+<Name>The project has been funded at $125 thousand.</Name>
+</Association>
+<Association>
+<Name>and continuing</Name>
+</Association>
+<Association>
+<Name>Queens Bus Analysis.</Name>
+</Association>
+<Association>
+<Name>Dr.</Name>
+</Association>
+<Association>
+<Name>Paaswell was asked by NYCDOT to Direct a study examining Routes and Ridership of the Franchise Bus Services:</Name>
+</Association>
+<Association>
+<Name>Green Bus Lines.</Name>
+</Association>
+<Association>
+<Name>The Study examined methods of verifying ridership and approaches to Route Rationalization.</Name>
+</Association>
+<Association>
+<Name>The Study was completed Oct.</Name>
+</Association>
+<Association>
+<Name>Transit Standards Consortium - elected Chairman, Board of Directors</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Transportation Research Board - Chair:</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Transit Cooperative Research Program Project:</Name>
+</Association>
+<Association>
+<Name>New Paradigms for Public Transportation</Name>
+</Association>
+<Association>
+<Name>Chair NCHRP Panel on Risk Analysis Tools</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Distinguished member (elected by the ASCE Board) :</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>American Society of Civil Engineers</Name>
+</Association>
+<Association>
+<Name>Chair Committee on Peer Review of Public Agencies</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>RECENT PUBLICATIONS:</Name>
+</Association>
+<Association>
+<Name>Paaswell, R, A New Paradigm for Transportation Planning, Transportation Infrastructure:</Name>
+</Association>
+<Association>
+<Name>The Next Hundred Years, APA Planning Service Report, April 2009</Name>
+</Association>
+<Association>
+<Name>Review of, Railway Development:</Name>
+</Association>
+<Association>
+<Name>Impacts on Urban Development, Transportation Research Summer 2009</Name>
+</Association>
+<Association>
+<Name>Holguin-Veras J.</Name>
+</Association>
+<Association>
+<Name>R.</Name>
+</Association>
+<Association>
+<Name>Paaswell and A.</Name>
+</Association>
+<Association>
+<Name>Perl, &quot;The Role of Government in Fostering Intermodal Transport Innovation and Research &quot; in Konings R.</Name>
+</Association>
+<Association>
+<Name>H.</Name>
+</Association>
+<Association>
+<Name>Priemus &amp; P.</Name>
+</Association>
+<Association>
+<Name>Nijkamp (eds), 2008, The Future of Intermodal Freight Transport</Name>
+</Association>
+<Association>
+<Name>Operations, Design and Policy, Edward Elgar Publishing Limited, Cheltenham UK.</Name>
+</Association>
+<Association>
+<Name>ISBN 978 1 84542 238 7</Name>
+</Association>
+<Association>
+<Name>Chen C.</Name>
+</Association>
+<Association>
+<Name>Gong H.</Name>
+</Association>
+<Association>
+<Name>and Paaswell R.</Name>
+</Association>
+<Association>
+<Name>Role of the Built Environment on Mode Choice Decisions:</Name>
+</Association>
+<Association>
+<Name>Additional Evidence on the Impact of Density.</Name>
+</Association>
+<Association>
+<Name>Transportation v35, n3, May 2008</Name>
+</Association>
+<Association>
+<Name>Paaswell, R and J Berechman, &quot;Models and Realities:</Name>
+</Association>
+<Association>
+<Name>Choosing Transit Projects for New York City&quot;, in Policy Analysis of Transport Networks, Geehuizen M.</Name>
+</Association>
+<Association>
+<Name>A.</Name>
+</Association>
+<Association>
+<Name>Reggiani, and P.</Name>
+</Association>
+<Association>
+<Name>Rietveld (editors) Ashgate Pub, Brookfield, VT, 2006</Name>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>Berechman J.</Name>
+</Association>
+<Association>
+<Name>and R.</Name>
+</Association>
+<Association>
+<Name>Paaswell, &quot;Evaluation, prioritization and selection of transportation investment projects in New York City&quot;, Transportation Vol.</Name>
+</Association>
+<Association>
+<Name>32 (3), pp 223-249, 2005</Name>
+</Association>
+<Association>
+<Name>Holguin-Veras J.</Name>
+</Association>
+<Association>
+<Name>N.</Name>
+</Association>
+<Association>
+<Name>Xu H.</Name>
+</Association>
+<Association>
+<Name>Levinson C.</Name>
+</Association>
+<Association>
+<Name>McKnight R.</Name>
+</Association>
+<Association>
+<Name>Weiner R.</Name>
+</Association>
+<Association>
+<Name>Paaswell K.</Name>
+</Association>
+<Association>
+<Name>Ozbay, and D.</Name>
+</Association>
+<Association>
+<Name>Ozmen-Ertekin, &quot;An Investigation on the Aggregate Behavior of Firm Relocations to New Jersey  and the Underlying Market Elasticities&quot;, Journal of Networks and Spatial Economics Vol.</Name>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>5 (3), pp293-331, Sept 2005</Name>
+</Association>
+<Association>
+<Name>McKnight C.</Name>
+</Association>
+<Association>
+<Name>H.</Name>
+</Association>
+<Association>
+<Name>Levinson K.</Name>
+</Association>
+<Association>
+<Name>Ozbay C.</Name>
+</Association>
+<Association>
+<Name>Kamga, and R.</Name>
+</Association>
+<Association>
+<Name>Paaswell, &quot;Impact of Traffic Congestion on Bus Travel Time in Northern New Jersey.&quot;, Transportation Research Record #1884, pp 27-35, 2004</Name>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>&quot;Approaches to Infrastructure Redevelopment, WTC, Lower NYC and the Region&quot;, Proceedings, ASCE 2nd International Conference on International Infrastructure, 2004</Name>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>&quot;Intelligent Transportation Systems&quot; in Moving People, Goods and Information R.</Name>
+</Association>
+<Association>
+<Name>Hanley (editor).</Name>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>Routledge, NYC, pp 21-31, 2004</Name>
+</Association>
+<Association>
+<Name>Berechman J.</Name>
+</Association>
+<Association>
+<Name>and R.</Name>
+</Association>
+<Association>
+<Name>Paaswell, &quot;Accessibility Improvements and Local Employment:</Name>
+</Association>
+<Association>
+<Name>an Empirical Analysis&quot;, Journal of Transportation and Statistics Vol.</Name>
+</Association>
+<Association>
+<Name>4 (2/3), pp</Name>
+<StartDate>
+<AnyDate>49-66-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>HolguÃ­n-Veras J.</Name>
+</Association>
+<Association>
+<Name>R.</Name>
+</Association>
+<Association>
+<Name>Paaswell and A.</Name>
+</Association>
+<Association>
+<Name>Yali, &quot;Impacts of Extreme Events on Intercity Passenger Travel Behavior:</Name>
+</Association>
+<Association>
+<Name>The September 11th Experience&quot; in Beyond September 11th:</Name>
+</Association>
+<Association>
+<Name>Account of Post-Disaster Research, Special Publication #39 pp.</Name>
+</Association>
+<Association>
+<Name>373-404, Natural Hazards Research and Applications Information Center, University of Colorado, Boulder, CO, 2003</Name>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>&quot;A Time for Transportation Strategy&quot;, in After the World Trade Center:</Name>
+</Association>
+<Association>
+<Name>Rethinking New York City, Sorkin M.</Name>
+</Association>
+<Association>
+<Name>and S.</Name>
+</Association>
+<Association>
+<Name>Zukin (editors), Routledge, NYC pp.</Name>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>173-188, Spring 2002</Name>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>and R.</Name>
+</Association>
+<Association>
+<Name>Hanley, &quot;Urban Infrastructures of Movement&quot;, Proceedings of the Conference on Cities as Strategic Sites, Center for Sustainable Urban and Regional Futures, Manchester, UK, 2002</Name>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>and R.</Name>
+</Association>
+<Association>
+<Name>Hanley, Moving in Cities:</Name>
+</Association>
+<Association>
+<Name>A Strategic Approach, Perspectives Vol.</Name>
+</Association>
+<Association>
+<Name>25, 2002</Name>
+</Association>
+<Association>
+<Name>SEQ CHAPTER \h \r 1Paaswell R.</Name>
+</Association>
+<Association>
+<Name>J.</Name>
+</Association>
+<Association>
+<Name>Berechman J.</Name>
+</Association>
+<Association>
+<Name>Holguin-Veras R.</Name>
+</Association>
+<Association>
+<Name>Srinivasan and C.</Name>
+</Association>
+<Association>
+<Name>Link to the 21st Century:</Name>
+</Association>
+<Association>
+<Name>Maximizing the Impact of Infrastructure Investment&quot;, New York Transportation Journal Vol.</Name>
+</Association>
+<Association>
+<Name>p.</Name>
+</Association>
+<Association>
+<Name>20, Winter/Spring 2001</Name>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>&quot;Intelligent Transportation Systems:</Name>
+</Association>
+<Association>
+<Name>Creating Operational, Institutional and Labor Force Changes&quot; Journal of Urban Technology Vol.</Name>
+</Association>
+<Association>
+<Name>8 (2), pp</Name>
+<StartDate>
+<AnyDate>61-73-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>and J.</Name>
+</Association>
+<Association>
+<Name>Berechman, &quot;Public Transportation Policy in Israel:</Name>
+</Association>
+<Association>
+<Name>Challenges for the Decade Ahead&quot;, Israel Affairs Vol.</Name>
+</Association>
+<Association>
+<Name>7 (4) pp.</Name>
+</Association>
+<Association>
+<Name>254-269, Summer 2001</Name>
+</Association>
+<Association>
+<Name>Paaswell R.</Name>
+</Association>
+<Association>
+<Name>and R.</Name>
+</Association>
+<Association>
+<Name>Stanely, &quot;Shifting the Public-Transportation Paradigm for the 21st Century&quot;, ITE Journal Vol.</Name>
+</Association>
+<Association>
+<Name>70 (7), July, 2000</Name>
+</Association>
+<Association>
+<Name>Holguin-Veras J.</Name>
+</Association>
+<Association>
+<Name>and R.</Name>
+</Association>
+<Association>
+<Name>Paaswell, &quot;New York Regional Intermodal Freight Transportation Planning&quot;, Transportation Law Journal Vol.</Name>
+</Association>
+<Association>
+<Name>27 (3) pp.</Name>
+</Association>
+<Association>
+<Name>American Society of Civil Engineers: Elected to Distinguished Member ASCE Council of</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Executive Board Member Board of NYU Institute for Civil Infrastructure Systems</Name>
+<Role><Name>Board Member</Name></Role>
+</Association>
+<Association>
+<Name>Special Advisor on Strategic Plan to Port Authority of NY&amp;NJ Governing Council Board</Name>
+<Role><Name>Advisor</Name></Role>
+</Association>
+<Association>
+<Name>Appointed Member Executive Committee Council on University Transportation Centers</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Uk9CRVJUIEUuIFBBQVNXRUxMLCBQaC5ELiwgUC5FLiwgRGlzdC4gTS4gQVNDRQ0KVGVsOiAyMTItNjUwLTgwNzIuIEZheDogMjEyLTY1MC04Mzc0LiBwYWFzd2VsbEB1dHJjMi5vcmcNClRoZSBDaXR5IENvbGxlZ2Ugb2YgTmV3IFlvcmssIE1hcnNoYWsgSGFsbCwgU3VpdGUgOTEwLCBOZXcgWW9yaywgTlkgMTAwMzENCg0KRHIuIFJvYmVydCBQYWFzd2VsbCBpcyBhIERpc3Rpbmd1aXNoZWQgUHJvZmVzc29yIG9mIENpdmlsIEVuZ2luZWVyaW5nIGF0IHRoZSBDaXR5IENvbGxlZ2Ugb2YgTmV3IFlvcmssIHRoZSBmbGFnc2hpcCBpbnN0aXR1dGlvbiBvZiBUaGUgQ2l0eSBVbml2ZXJzaXR5IG9mIE5ldyBZb3JrIChDVU5ZKS4gSGUgc2VydmVkIGFzIGl0cyBJbnRlcmltIFByZXNpZGVudCBmcm9tIDIwMDktMjAxMC4gSGUgaXMgdGhlIGVtZXJpdHVzIERpcmVjdG9yIG9mIHRoZSBDb2xsZWdlJ3MgVW5pdmVyc2l0eSBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBDZW50ZXIsIFJlZ2lvbiBJSSwgd2hpY2ggaGUgbGVkIGZvciAxOSB5ZWFycyBhbmQgdGhlIGZvdW5kaW5nIERpcmVjdG9yIG9mIHRoZSBDVU5ZIEluc3RpdHV0ZSBmb3IgVXJiYW4gU3lzdGVtcyAoQ0lVUykuDQoNCkEgY2l2aWwgZW5naW5lZXIgYW5kIGZvcm1lciBoZWFkIG9mIHRoZSBDaGljYWdvIFRyYW5zaXQgQXV0aG9yaXR5LCBEci4gUGFhc3dlbGwgaXMgYW4gaW50ZXJuYXRpb25hbGx5IHJlY29nbml6ZWQgZXhwZXJ0IGluIHB1YmxpYyB0cmFuc3BvcnRhdGlvbiBpc3N1ZXMgYW5kIGNvbnN1bHRpbmcuIEhlIGhhcyByZXBvcnRlZCBvbiBnb3Zlcm5hbmNlIHN0cnVjdHVyZXMgZm9yIFUuUy4gdHJhbnNpdCBvcmdhbml6YXRpb25zLCBwdWJsaWMtcHJpdmF0ZSBpc3N1ZXMgaW4gTmV3IFlvcmsgYW5kIENoaWNhZ28sIGFuZCBsYWJvciB1bmlvbi9tYW5hZ2VtZW50IGlzc3Vlcy4gSGUgc2VydmVkIGFzIGFuIGFkdmlzb3IgdG8gdGhlIElzcmFlbGkgZ292ZXJubWVudCBjb25jZXJuaW5nIHJlc3RydWN0dXJpbmcgb2YgdGhlaXIgYnVzIGNvbXBhbmllcywgYW5kIGlzc3VlcyBvZiBjb21wZXRpdGlvbi4gSGUgcmVjZW50bHkgc2VydmVkIGFzIENoYWlybWFuIG9mIHRoZSBCb2FyZCBvZiB0aGUgVHJhbnNpdCBTdGFuZGFyZHMgQ29uc29ydGl1bSAtIGEgbmV3IHByb2Zlc3Npb25hbCBncm91cCBhZGRyZXNzaW5nIHRoZSBwcm9ibGVtcyBvZiBpbnRlZ3JhdGlvbiBvZiBoaWdoIHRlY2hub2xvZ3kgaW50byBwdWJsaWMgdHJhbnNpdCBzeXN0ZW1zLiBIZSBpcyBhIERpc3Rpbmd1aXNoZWQgTWVtYmVyIG9mIHRoZSBBbWVyaWNhbiBTb2NpZXR5IG9mIENpdmlsIEVuZ2luZWVycyBhbmQgZm9ybWVyIENoYWlyIG9mIHRoZWlyIENvbW1pdHRlZSBvbiBQZWVyIFJldmlldyBvZiBQdWJsaWMgQWdlbmNpZXMuIEhlIGlzIGFuIGFwcG9pbnRlZCBtZW1iZXIgb2YgdGhlIE5ZIFN0YXRlIEdvdmVybm9yJ3MgSGlnaCBTcGVlZCBSYWlsIFRhc2sgRm9yY2UgYW5kIHdhcyBhbiBhcHBvaW50ZWQgTWVtYmVyIHRvIHRoZSBHb3Zlcm5vcidzIENvbW1pc3Npb24gb24gSGlnaGVyIEVkdWNhdGlvbiBhbmQgYW4gYXBwb2ludGVkIG1lbWJlciBvZiB0aGUgTlkgTVRBIEJsdWUgUmliYm9uIFBhbmVsIG9uIFdvcmtmb3JjZSBEZXZlbG9wbWVudCBhbmQgQ29uc3RydWN0aW9uIEV4Y2VsbGVuY2UuIEhlIHNlcnZlcyBvbiB0aGUgYm9hcmQgb2YgZGlyZWN0b3JzIG9mIHNldmVyYWwgQ1VOWSBzY2hvb2xzIGFuZCBpbnN0aXR1dGVzIGFuZCBhdCB2YXJpb3VzIHBlcmlvZHMgc2VydmVkIG9uIFN0YXRlIHRhc2sgZm9yY2VzLg0KDQpBcyB0aGUgSW50ZXJpbSBQcmVzaWRlbnQgb2YgQ2l0eSBDb2xsZWdlIGZyb20gMjAwOS0yMDEwLCBEci4gUGFhc3dlbGwgd2FzIHRoZSBjaGllZiBleGVjdXRpdmUgb2YgdGhlIGZsYWdzaGlwIGluc3RpdHV0aW9uIG9mIENVTlksIGEgY29tcHJlaGVuc2l2ZSB0ZWFjaGluZywgcmVzZWFyY2gsIGFuZCBzZXJ2aWNlIGluc3RpdHV0aW9uIHdpdGggMTYsMDAwIHN0dWRlbnRzLCBwcm9mZXNzaW9uYWwgc2Nob29scyBpbiBhcmNoaXRlY3R1cmUsIGJpb21lZGljYWwgZWR1Y2F0aW9uLCBlZHVjYXRpb24gYW5kIGVuZ2luZWVyaW5nLCBhIENvbGxlZ2Ugb2YgTGliZXJhbCBBcnRzIGFuZCBTY2llbmNlIGFuZCBhbiBhbm51YWwgYnVkZ2V0IG9mIG92ZXIgJDIzMCBtaWxsaW9uLiBEdXJpbmcgaGlzIHRlbnVyZSBEci4gUGFhc3dlbGwgcmFpc2VkIHRoZSBpbnRlbGxlY3R1YWwgcHJvZmlsZSBvZiB0aGUgQ29sbGVnZSwgZW5lcmdpemVkIGl0cyBmYWN1bHR5LCBmb2N1c2VkIHRoZSBhZG1pbmlzdHJhdGlvbiBvbiB0byBpdHMgY29yZSBtaXNzaW9uIG9mIHNlcnZpbmcgc3R1ZGVudHMgYW5kIGZhY3VsdHksIGFuZCBlbmdhZ2VkIHRoZSBVcHBlciBNYW5oYXR0YW4gY29tbXVuaXR5LiBIZSByYWlzZWQgJDI5LjQgbWlsbGlvbiBpbiBnaWZ0cyBpbiBoaXMgYWZmaWxpYXRlZCByb2xlIGFzIFByZXNpZGVudCBvZiB0aGUgQ2l0eSBDb2xsZWdlIDIxc3QgQ2VudHVyeSBGb3VuZGF0aW9uLCBhbmQgZ2VuZXJhbGx5IHByZXBhcmVkIHRoZSBjb2xsZWdlIGZvciBhIHRyYW5zaXRpb24gdG8gbmV3IGxlYWRlcnNoaXAuIA0KDQpEci4gUGFhc3dlbGwgaGFzIGF1dGhvcmVkIHR3byBib29rcywgZWxldmVuIGJvb2sgY2hhcHRlcnMsIGFuZCBvdmVyIDE1MCB0ZWNobmljYWwgcHVibGljYXRpb25zIGFuZCByZXBvcnRzLiBIZSBpcyBhIHNvdWdodC1hZnRlciBzcGVha2VyIGluIGhpcyBmaWVsZCB3aXRoIG92ZXIgMjAwIGludml0ZWQgdGVjaG5pY2FsIHByZXNlbnRhdGlvbnMsIGFuZCBhIGNvbnRyaWJ1dG9yIG9mIGFydGljbGVzIHRvIHRoZSBXb3JsZCBCb29rIEVuY3ljbG9wZWRpYSwgaXMgbGlzdGVkIGluICJXaG8ncyBXaG8gaW4gdGhlIFdvcmxkLCAiV2hvJ3MgV2hvIGluIEFtZXJpY2EiLCAiV2hvJ3MgV2hvIGluIEVuZ2luZWVyaW5nIiwgYW5kICJXaG8ncyBXaG8gaW4gRmluYW5jZSBhbmQgSW5kdXN0cnkiLiBIZSBoYXMgc2VydmVkIGFzIHRoZSBwcmluY2lwYWwgaW52ZXN0aWdhdG9yIGZvciBvdmVyIDEwMCBzcG9uc29yZWQgcmVzZWFyY2ggZ3JhbnRzIG9mIGFwcHJveGltYXRlbHkgJDYwIG1pbGxpb24uIEhpcyBjdXJyZW50IHJlc2VhcmNoIGNvbmNlcm5zIHRyYW5zaXQgc3lzdGVtIGJ1ZGdldGluZyBhbmQgZmluYW5jZSwgaW5jbHVkaW5nIGJvdGggb3BlcmF0aW5nIGFuZCBjYXBpdGFsIGJ1ZGdldHM7IHRyYW5zaXQgaW52ZXN0bWVudCBzdHJhdGVnaWVzIGFuZCBpc3N1ZXMgb2YgdHJhbnNpdCBzeXN0ZW0gZ292ZXJuYW5jZS4gSGUgaXMgbGVhZGluZyBDSVVTIGluIGlubm92YXRpdmUgcmVzZWFyY2ggYW5kIHByb2dyYW1zIGFkZHJlc3NpbmcgaXNzdWVzIG9mIHVyYmFuIHN1c3RhaW5hYmlsaXR5Lg0KDQoNClBST0ZFU1NJT05BTCBFWFBFUklFTkNFDQogICAgICAgICAgDQpUaGUgQ2l0eSBDb2xsZWdlIG9mIE5ldyBZb3JrLCBOZXcgWW9yaywgTlkgKDE5OTAtUHJlc2VudCkgDQpEaXN0aW5ndWlzaGVkIFByb2Zlc3NvciBvZiBDaXZpbCBFbmdpbmVlcmluZyAoMTk5MC1QcmVzZW50LCBvbiBsZWF2ZSAyMDA5LTIwMTApDQpJbnRlcmltIFByZXNpZGVudCAoMjAwOS0yMDEwKQ0KRGlyZWN0b3IsIFVuaXZlcnNpdHkgVHJhbnNwb3J0YXRpb24gUmVzZWFyY2ggQ2VudGVyLCBSZWdpb24gMiAoMTk5MC0yMDA5KQ0KRGlyZWN0b3IsIENVTlkgSW5zdGl0dXRlIGZvciBVcmJhbiBTeXN0ZW1zICgyMDAxLXByZXNlbnQpDQpEaXN0aW5ndWlzaGVkIFByb2Zlc3NvciBvZiBDaXZpbCBFbmdpbmVlcmluZw0KDQpEci4gUGFhc3dlbGwncyBzY2hvbGFybHkgZm9jdXMgaW5jbHVkZXMgdHJhbnNpdCBzeXN0ZW0gYnVkZ2V0aW5nIGFuZCBmaW5hbmNlLCBpbmNsdWRpbmcgb3BlcmF0aW5nIGFuZCBjYXBpdGFsIGJ1ZGdldHM7IHRyYW5zaXQgaW52ZXN0bWVudCBzdHJhdGVnaWVzIGFuZCBpc3N1ZXMgb2YgdHJhbnNpdCBzeXN0ZW0gZ292ZXJuYW5jZS4gSGlnaGxpZ2h0cyBvZiBoaXMgYWN0aXZpdGllcyBhbmQgcHVibGljYXRpb25zIGFyZSBsaXN0ZWQgZnVydGhlciBpbiB0aGlzIGRvY3VtZW50LiBIZSByZW1haW5zIGFjdGl2ZSB3aXRoIHRoZSB2YXJpb3VzIENlbnRlcnMgaGUgaGFzIGxlZC4NCg0KSW50ZXJpbSBQcmVzaWRlbnQgDQoNCkFzIHRoZSBJbnRlcmltIFByZXNpZGVudCBvZiBDaXR5IENvbGxlZ2UgZnJvbSAyMDA5LTIwMTAsIERyLiBQYWFzd2VsbCB3YXMgdGhlIGNoaWVmIGV4ZWN1dGl2ZSBvZiB0aGUgZmxhZ3NoaXAgaW5zdGl0dXRpb24gb2YgQ1VOWS4gVGhlIENvbGxlZ2UgaXMgYSBjb21wcmVoZW5zaXZlIHRlYWNoaW5nLCByZXNlYXJjaCwgYW5kIHNlcnZpY2UgaW5zdGl0dXRpb24gYWtpbiB0byBzbWFsbCB1bml2ZXJzaXR5LiBUaGUgQ29sbGVnZSBpcyBhIGNvbXByZWhlbnNpdmUgdGVhY2hpbmcsIHJlc2VhcmNoLCBhbmQgc2VydmljZSBpbnN0aXR1dGlvbiB3aXRoIDE2LDAwMCBzdHVkZW50cywgcHJvZmVzc2lvbmFsIHNjaG9vbHMgaW4gYXJjaGl0ZWN0dXJlLCBiaW9tZWRpY2FsIGVkdWNhdGlvbiwgZWR1Y2F0aW9uIGFuZCBlbmdpbmVlcmluZywgYSBDb2xsZWdlIG9mIExpYmVyYWwgQXJ0cyBhbmQgU2NpZW5jZSBhbmQgYW4gYW5udWFsIGJ1ZGdldCBvZiBvdmVyICQyMzAgbWlsbGlvbi4gDQoNCkR1cmluZyBoaXMgdGVudXJlIERyLiBQYWFzd2VsbCByYWlzZWQgdGhlIGludGVsbGVjdHVhbCBwcm9maWxlIG9mIHRoZSBDb2xsZWdlIGluIHRoZSBleWVzIG9mIG90aGVyIGFjYWRlbWljaWFucyBhbmQgdGhlIHByZXNzIGJ5IGVuZ2FnaW5nIG91dHN0YW5kaW5nIHNjaG9sYXJzLCBjb252ZW5pbmcgbmF0aW9uYWwgc3ltcG9zaWEgaW4gcGh5c2ljcyBhbmQgcHVibGljIHRyYW5zcG9ydGF0aW9uIGFuZCB0aHJvdWdoIG90aGVyIGFjdGl2aXRpZXMgdGhhdCB1bmRlcnNjb3JlZCB0aGUgYWNhZGVtaWMgZXhjZWxsZW5jZSBvZiB0aGUgaW5zdGl0dXRpb24uIEhlIHJlLWludmlnb3JhdGVkIGEgZmFjdWx0eSB3aGljaCB3YXMgcmFua2VkIGFzIGhhdmluZyB0aGUgbG93ZXN0IGluIG1vcmFsZSBpbiB0aGUgQ1VOWSBuZXR3b3JrLiBIZSBmdXJ0aGVyIHJlLWZvY3VzZWQgdGhlIGFkbWluaXN0cmF0aW9uIG9uIGl0cyBjb3JlIG1pc3Npb24gb2Ygc2VydmluZyB0aGUgc3R1ZGVudHMgYW5kIGZhY3VsdHkuIE90aGVyIGluaXRpYXRpdmVzIGluY2x1ZGVkIHRha2luZyBzdGVwcyB0byByZXN0cnVjdHVyZSB0aGUgY29sbGFib3JhdGlvbiBiZXR3ZWVuIENvbGxlZ2UncyBmdW5kLXJhaXNpbmcgb2ZmaWNlcyBhbmQgZ2VuZXJhbGx5IHByZXBhcmluZyB0aGUgQ29sbGVnZSBmb3IgbmV3IGxlYWRlcnNoaXAuIEluIGhpcyByZWxhdGVkIHJvbGUgYXMgUHJlc2lkZW50IG9mIHRoZSBDaXR5IENvbGxlZ2UgMjFzdCBDZW50dXJ5IEZvdW5kYXRpb24gaGUgd29ya2VkIGNsb3NlbHkgd2l0aCBhbHVtbmkgbGVhZGVycyB0byByYWlzZSAkMjkuNCBtaWxsaW9uIGluIGdpZnRzIGZvciB0aGUgQ29sbGVnZS4gSGlzIG91dHJlYWNoIHRvIGVsZWN0ZWQgYW5kIGxvY2FsIGxlYWRlcnMgaGVscGVkIHBhdmUgdGhlIHdheSBmb3IgZnV0dXJlIHBhcnRuZXJzaGlwcyBiZXR3ZWVuIHRoZSBDb2xsZWdlIGFuZCBpdHMgVXBwZXIgTWFuaGF0dGFuIGNvbW11bml0eS4NCg0KRGlyZWN0b3IsIFRoZSBVbml2ZXJzaXR5IFRyYW5zcG9ydGF0aW9uIENlbnRlciANCg0KVGhlIFVuaXZlcnNpdHkgVHJhbnNwb3J0YXRpb24gQ2VudGVyIChVVFJDKSBpcyBvbmUgb2YgdGVuIGZlZGVyYWxseSBkZXNpZ25hdGVkIFJlZ2lvbmFsIENlbnRlcnMsIGFuZCBpcyBmdW5kZWQgYW5udWFsbHkgYXQgYSBtdWx0aS1taWxsaW9uIGRvbGxhciBsZXZlbCBieSBmZWRlcmFsIGFuZCByZWdpb25hbCBzb3VyY2VzLiAgVGhlIENlbnRlciBwcm92aWRlcyBhbmQgc3BvbnNvcnMgYSBzZXJpZXMgb2YgcHJvZ3JhbXMgaW4gUmVzZWFyY2gsIEVkdWNhdGlvbiBhbmQgVHJhaW5pbmcsIGFuZCBUZWNobm9sb2d5IFRyYW5zZmVyLiBUaGUgMTIgYWNhZGVtaWMgaW5zdGl0dXRpb25zIGluIE5ldyBZb3JrLCBOZXcgSmVyc2V5IGFuZCBQdWVydG8gUmljbyB0aGF0IGNvbXByaXNlIHRoZSBDZW50ZXIgYXJlIHRoZSBDaXR5IFVuaXZlcnNpdHkgb2YgTmV3IFlvcmssIENvbHVtYmlhIFVuaXZlcnNpdHksIENvcm5lbGwgVW5pdmVyc2l0eSwgTmV3IEplcnNleSBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgTmV3IFlvcmsgVW5pdmVyc2l0eSwgUG9seXRlY2huaWMgSW5zdGl0dXRlIG9mIE5ZVSwgUmVuc3NlbGFlciBQb2x5dGVjaG5pYyBJbnN0aXR1dGUsIFJvd2FuIFVuaXZlcnNpdHksIFJ1dGdlcnMgVW5pdmVyc2l0eSwgU3RhdGUgVW5pdmVyc2l0eSBvZiBOZXcgWW9yaywgU3RldmVucyBJbnN0aXR1dGUgb2YgVGVjaG5vbG9neSwgYW5kIHRoZSBVbml2ZXJzaXR5IG9mIFB1ZXJ0byBSaWNvIC0gTWF5YWfDvGV6LiAgIA0KDQpVbmRlciBEci4gUGFhc3dlbGwsIFVUUkMgYmVjYW1lIGEgbWFqb3IgcmVzb3VyY2Ugb24gcHVibGljIHRyYW5zcG9ydGF0aW9uIGlzc3VlcyBmb3IgdGhlIHJlZ2lvbiBhbmQgbmF0aW9uLiBIZSBoYXMgaW1wcm92ZWQgbWFuYWdlbWVudCwgYnVkZ2V0aW5nIGFuZCByZXBvcnRpbmcsIHBhcnRpY2lwYXRpb24gYnkgcmVnaW9uYWwgb3JnYW5pemF0aW9ucywgYW5kIGludGVyLXVuaXZlcnNpdHkgcmVzZWFyY2ggYW5kIHRyYWluaW5nIGVmZm9ydHMgd2l0aCB0aGUgaW1wYWN0IG9mIGdhaW5pbmcgbmF0aW9uYWwgYW5kIGludGVybmF0aW9uYWwgcmVjb2duaXRpb24gZm9yIHRoZSBDZW50ZXIuIEhlIGhhcyBzZXJ2ZWQgaW4gYSBsZWFkZXJzaGlwIGNhcGFjaXR5IGFtb25nIG5hdGlvbmFsIENlbnRlciBEaXJlY3RvcnMsIHdpdGggcmVzcG9uc2liaWxpdHkgZm9yIHN0cmF0ZWdpYyBwbGFubmluZyBvZiB0aGUgbmF0aW9uYWwgcHJvZ3JhbS4NCg0KRGlyZWN0b3IsIFRoZSBDVU5ZIEluc3RpdHV0ZSBmb3IgVXJiYW4gU3lzdGVtcyANCg0KVGhlIENVTlkgSW5zdGl0dXRlIGZvciBVcmJhbiBTeXN0ZW1zIGlzIGEgbXVsdGktY2FtcHVzIEluc3RpdHV0ZSBhZGRyZXNzaW5nIGluZnJhc3RydWN0dXJlIGlzc3VlcyB0aGF0IGluY29ycG9yYXRlIG5ldyB0ZWNobm9sb2dpZXMsIGluc3RpdHV0aW9uYWwgZm9ybXMgYW5kIGNoYW5nZSBhbmQgaXNzdWVzIG9mIGZpbmFuY2luZy4gSXQgaXMgc3VwcG9ydGVkIGJ5IENpdHkgVW5pdmVyc2l0eSBvZiBOZXcgWW9yayBhbmQgZXh0ZXJuYWwgZ3JhbnRzLiBJdCBob3VzZXMgYSBCdWlsZGluZyBQZXJmb3JtYW5jZSBMYWIgc3BvbnNvcmVkIGJ5IHRoZSBOZXcgWW9yayBTdGF0ZSBFbmVyZ3kgUmVzZWFyY2ggYW5kIERldmVsb3BtZW50IEF1dGhvcml0eS4gDQoNClVuaXZlcnNpdHkgb2YgSWxsaW5vaXMgYXQgQ2hpY2FnbywgQ2hpY2FnbywgSUwgKDE5ODkgLSAxOTkwKQ0KUHJvZmVzc29yIG9mIENpdmlsIEVuZ2luZWVyaW5nDQpDb25zdWx0YW50IGluIFRyYW5zcG9ydGF0aW9uLCBUcmFuc2l0IE1hbmFnZW1lbnQsIE9wZXJhdGlvbiBhbmQgUGxhbm5pbmcNCg0KQXMgUHJvZmVzc29yLCBkZXZlbG9wZWQgcHJvZ3JhbSBhbmQgY291cnNlcyBpbiB0cmFuc3BvcnRhdGlvbiBwb2xpY3ksIGRldmVsb3BlZCByZXNlYXJjaCBwcm9ncmFtLiBBcyBDb25zdWx0YW50LCB3b3JrZWQgZm9yIGEgbGFyZ2UgbnVtYmVyIG9mIGNsaWVudHMgb24gcHJvamVjdHMgaW5jbHVkaW5nIGVtcGxveW1lbnQgYWNjZXNzLCBhaXIgdGVybWluYWwgZ2VvbWV0cnksIGxpZ2h0IHJhaWwgdHJhbnNpdCBkZXNpZ24sIHRyYW5zaXQgbWFsbCBkZXNpZ24sIGFuZCBwbGFubmluZy4gDQoNCkNoaWNhZ28gVHJhbnNpdCBBdXRob3JpdHksIENoaWNhZ28sIElMICgxOTg2IC0gMTk4OSkgDQpFeGVjdXRpdmUgRGlyZWN0b3INCg0KVGhlIENoaWNhZ28gVHJhbnNpdCBBdXRob3JpdHkgKENUQSkgaXMgTm9ydGggQW1lcmljYSdzIHNlY29uZCBsYXJnZXN0IHRyYW5zaXQgc3lzdGVtLCBwcm92aWRpbmcgdHdvIG1pbGxpb24gdHJpcHMgcGVyIGRheSBvbiBib3RoIGV4dGVuc2l2ZSBidXMgYW5kIHJhaWwgbmV0d29ya3MuIFdpdGggMTMsMDAwIGVtcGxveWVlcyBhbmQgYW4gYXBwcm94aW1hdGVseSAkMSBiaWxsaW9uIGFubnVhbCBvcGVyYXRpbmcgYW5kIGNhcGl0YWwgYnVkZ2V0LiBDVEEgb3BlcmF0ZXMgaW4gYSBkaWZmaWN1bHQgcG9saXRpY2FsIGFuZCB1cmJhbiBlbnZpcm9ubWVudC4gIFRoZSBFeGVjdXRpdmUgRGlyZWN0b3IgcmVwb3J0cyBkaXJlY3RseSB0byB0aGUgQ2hhaXJtYW4gb2YgYSBzZXZlbi1tZW1iZXIgYXBwb2ludGVkIEJvYXJkLCBpcyB0aGUgQ2hpZWYgRXhlY3V0aXZlIE9mZmljZXIgYW5kIHJlc3BvbnNpYmxlIGZvciB0aGUgZGF5IHRvIGRheSBvcGVyYXRpb25zIG9mIHRoZSBBdXRob3JpdHkuICBUaGUgRXhlY3V0aXZlIERpcmVjdG9yIGlzIHJlc3BvbnNpYmxlIGZvciBjYXJyeWluZyBvdXQgdGhlIHBvbGljaWVzIG9mIHRoZSBCb2FyZC4gSGUgd2FzIG5vbWluYXRlZCBieSB0aGUgTWF5b3Igb2YgQ2hpY2FnbyBhbmQgYXBwb2ludGVkIGJ5IHRoZSBDVEEgQm9hcmQuIER1cmluZyBoaXMgdGVudXJlLCBEci4gUGFhc3dlbGwgcmVmb3JtZWQgYW5kIHJlZGlyZWN0ZWQgYSBoaWdobHkgY29tcGxleCBhZ2VuY3kgb3BlcmF0aW5nIGluIGEgZGlmZmljdWx0IGFuZCBjb25zdHJhaW5pbmcgZXh0ZXJuYWwgZW52aXJvbm1lbnQuIFJlcHJlc2VudGF0aXZlIGFjaGlldmVtZW50cyBpbmNsdWRlOg0KKiBQcm9mZXNzaW9uYWxpemF0aW9uIG9mIG1hbmFnZW1lbnQNCiogQXBwbGljYXRpb24gb2Ygc3RyYXRlZ2ljIGFwcHJvYWNoZXMgdG8gcHJvYmxlbSBzb2x2aW5nDQoqIERldmVsb3BtZW50IG9mIG1pc3Npb24gYW5kIGdvYWwgc3RhdGVtZW50Lg0KKiBTdHJ1Y3R1cmluZyBhbmQgZGVmaW5pbmcgYSBzdHJhdGVnaWMgcGxhbg0KKiBJbnN0aXR1dGVkIHByb2dyYW0tYmFzZWQgYnVkZ2V0aW5nLCB0b2dldGhlciB3aXRoIGNsYXJpZmllZCBwcm9ncmFtIG9iamVjdGl2ZXMsIGFuZCB1dGlsaXphdGlvbiBvZiB0aGUgYnVkZ2V0IGFzIGEgc3RyYXRlZ2ljIHBsYW5uaW5nIHByb2Nlc3MNCiogUmVzdHJ1Y3R1cmVkIHRoZSBwcm9jdXJlbWVudCBhbmQgY2FwaXRhbCBjb25zdHJ1Y3Rpb24gcHJvY2Vzc2VzDQoqIERldmVsb3BtZW50IG9mIGZsZWV0IG1hbmFnZW1lbnQgcGxhbnMNCiogQ3JlYXRpb24gb2YgYW4gb3Blbm5lc3Mgb2YgdGhlIGFnZW5jeSB0byB0aGUgcHVibGljIHdpdGggaW5jcmVhc2VkIGluZm9ybWF0aW9uIHByb3ZpZGVkIHRvIHB1YmxpYyBhbmQgYnVzaW5lc3MgZ3JvdXBzLg0KKiBNb2Rlcm5pemF0aW9uIG9mIGNvbXB1dGVyIHN5c3RlbSBhbmQgaW5pdGlhdGlvbiBvZiBhIG1pY3JvLWNvbXB1dGVyIHdvcmtpbmcgZW52aXJvbm1lbnQuDQoqIERldmVsb3BtZW50IG9mIGlubm92YXRlIGFuZCBhZ2dyZXNzaXZlIEFmZmlybWF0aXZlIEFjdGlvbiBhbmQgREJFL01CRSBwcm9ncmFtcy4NCg0KVW5pdmVyc2l0eSBvZiBJbGxpbm9pcyBhdCBDaGljYWdvLCBDaGljYWdvLCBJTCAoMTk4MiAtIDE5ODYpDQpQcm9mZXNzb3Igb2YgQ2l2aWwgRW5naW5lZXJpbmcNCkRpcmVjdG9yLCBVcmJhbiBUcmFuc3BvcnRhdGlvbiBDZW50ZXIgDQoNClRoZSBVcmJhbiBUcmFuc3BvcnRhdGlvbiBDZW50ZXIgaXMgYSBtYWpvciByZXNlYXJjaCBjZW50ZXIgYXQgdGhlIFVuaXZlcnNpdHkgb2YgSWxsaW5vaXMuICBUaGUgRGlyZWN0b3Igb2YgdGhlIENlbnRlciwgcmVwb3J0ZWQgdG8gdGhlIFZpY2UgQ2hhbmNlbGxvciBvZiB0aGUgVW5pdmVyc2l0eSBhbmQgaGFkIHRoZSByZXNwb25zaWJpbGl0eSB0byBkZXZlbG9wIHRoZSBjZW50ZXIgaW50byBhIG1ham9yIE5hdGlvbmFsIENlbnRlciBmcm9tIGl0cyBpbmNlcHRpb24uICBEdXJpbmcgdGhlIHBlcmlvZCBvZiBQYWFzd2VsbCBsZWFkZXJzaGlwLCBoZSBhdHRyYWN0ZWQgbW9yZSB0aGFuIHR3ZW50eSByZXNlYXJjaCBncmFudHMsIGFuZCBmb3JtZWQgYSB3b3JraW5nIGdyb3VwIG9mIHR3ZW50eSBmYWN1bHR5IGFuZCBhIHJlc2VhcmNoIHN0YWZmIG9mIG1vcmUgdGhhbiBmb3J0eSBncmFkdWF0ZSBhbmQgdW5kZXJncmFkdWF0ZSBzdHVkZW50cyB0byB3b3JrIG9uIHNpZ25pZmljYW50IHJlZ2lvbmFsIGFuZCBuYXRpb25hbCB0cmFuc3BvcnRhdGlvbiBwcm9ncmFtcy4gIFRoZXNlIHdlcmUgY2FycmllZCBvdXQgZm9yIGJvdGggcHVibGljIGFuZCBwcml2YXRlIGNsaWVudHMuICBBbW9uZyB0aGUgbW9yZSBzaWduaWZpY2FudCBzdHVkaWVzIHdlcmU6ICBwcml2YXRpemF0aW9uIG9mIGhhbmRpY2FwcGVkIHRyYW5zaXQgZm9yIENUQSwgdmFsdWUgc3R1ZHkgb2YgTWlsd2F1a2VlIFJvYWQgdG8gZXN0YWJsaXNoIHN5c3RlbSB2YWx1ZSBvcmdhbml6YXRpb24gb2YgYSByZWdpb25hbCBjb25mZXJlbmNlIHRvIHByb3ZpZGUgaW5wdXQgdG8gUmVnaW9uYWwgVHJhbnNwb3J0YXRpb24gQXV0aG9yaXR5IEFjdCwgYW5hbHlzaXMgb2YgdHJhbnNwb3J0YXRpb24gdG8gaGVhbHRoIGNhcmUgZm9yIHRlZW5hZ2UgbW90aGVycywgYWNjZXNzIHRvIGVtcGxveW1lbnQgYnkgdXJiYW4gcmVzaWRlbnRzLCB0cmFpbmluZyBhbmQgbW9kZWxpbmcgYmVoYXZpb3Igb2YgZnJlaWdodCBsb2NvbW90aXZlIGVuZ2luZWVycywgYW5kIGRldmVsb3BtZW50IG9mIGEgY29vcGVyYXRpdmUgcHJvZ3JhbSB3aXRoIENoaW5hLi4gIFRoZSBDZW50ZXIgYnJvdWdodCBhIHJpZ29yb3VzLCBhcHByb2FjaCBvZiBhY2FkZW1pYy1iYXNlZCBncm91cCB0YWxlbnQgdG8gYmVhciBvbiBkaWZmaWN1bHQgcmVnaW9uYWwgdHJhbnNwb3J0YXRpb24gcHJvYmxlbXMuDQoNClN0YXRlIFVuaXZlcnNpdHkgb2YgTmV3IFlvcmsgYXQgQnVmZmFsbywgQnVmZmFsbywgTlkgKDE5NjQgLSAxOTgyKSANCkNoYWlybWFuLCBEZXBhcnRtZW50IG9mIEVudmlyb25tZW50YWwgRGVzaWduIGFuZCBQbGFubmluZyAoMTk4MC0xOTgyKQ0KRGlyZWN0b3IsIFN0YXRlIFVuaXZlcnNpdHkgb2YgTmV3IFlvcmsgQ2VudGVyIGZvciBUcmFuc3BvcnRhdGlvbiBTdHVkaWVzIGFuZCBSZXNlYXJjaCAoMTk3OC0xOTgyLCBmb3VuZGVkKSANClByb2Zlc3NvciwgQ2l2aWwgRW5naW5lZXJpbmcNCg0KMTk2Mi0xOTY0ICANCkZ1bGwgdGltZSBncmFkdWF0ZSBQaEQgU3R1ZGVudCAtIFJ1dGdlcnMgVW5pdmVyc2l0eSBEZXAndCBDaXZpbCBFbmdpbmVlcmluZywgRmllbGQgR2VvdGVjaG5pY2FsIEVuZ2luZWVyaW5nIC0gRm9yZCBGb3VuZGF0aW9uIEZlbGxvdyAtIFBoRCBhd2FyZGVkIDE5NjUgIlRoZSBlZmZlY3RzIG9mIHRlbXBlcmF0dXJlIG9uIGEgZmluZSBncmFpbmVkIGNvbnNvbGlkYXRpbmcgc29pbCIgLSBBZHZpc29yLCBEci4gQSBKdW1pa2lzDQoNCjE5NjAtMTk2Mg0KUmVzZWFyY2ggQXNzaXN0YW50IC0gRGVwYXJ0bWVudCBvZiBDaXZpbCBFbmdpbmVlcmluZywgQ29sdW1iaWEgVW5pdmVyc2l0eSBTY2hvb2wgb2YgRW5naW5lZXJpbmcsIE1TIDE5NjINCg0KMTk1Ny0xOTU5DQpFbmdpbmVlciAtIFNwZW5jZXIsIFdoaXRlIGFuZCBQcmVudGlzLCBGb3VuZGF0aW9uIEVuZ2luZWVycywgTmV3IFlvcmsgQ2l0eSwgTlkNCg0KRURVQ0FUSU9OOg0KDQpQaC5ELiBDaXZpbCBFbmdpbmVlcmluZywgUnV0Z2VycyBVbml2ZXJzaXR5LCBOZXcgSmVyc2V5IDE5NjUNCk0uUy4gQXBwbGllZCBNZWNoYW5pY3MsIENvbHVtYmlhIFVuaXZlcnNpdHksIE5ldyBZb3JrICAgMTk2MQ0KQi5TLiBDaXZpbCBFbmdpbmVlcmluZywgQ29sdW1iaWEgVW5pdmVyc2l0eSwgTmV3IFlvcmsgICAxOTU3DQpCLkEuIExpYmVyYWwgQXJ0cywgQ29sdW1iaWEgVW5pdmVyc2l0eSwgTmV3IFlvcmsgICAgICAxOTU2DQoNCklOVEVSTkFUSU9OQUwgUE9TSVRJT05TOg0KDQpJc3JhZWwsIDE5OTQgLSAucHJlc2VudA0KVGVsIEF2aXYgVW5pdmVyc2l0eSAtIFZpc2l0aW5nIFNjaG9sYXINClByb2plY3QgRGlyZWN0b3I6IERlc2lnbiBvZiBUcmFuc2l0IEF1dGhvcml0eSBmb3IgVGVsIEF2aXYsIGEgcmVwb3J0IHRvIHRoZSBNaW5pc3RyaWVzIG9mIEZpbmFuY2UgYW5kIFRyYW5zcG9ydC4gQWR2aXNvciB0byBTY2hvb2wgb2YgUG9saWN5Lg0KDQpQZW9wbGUncyBSZXB1YmxpYyBvZiBDaGluYSwgMTk4NSAtIDE5ODcNCkhvbm9yZWQgUHJvZmVzc29yLCBKaWxpbiBVbml2ZXJzaXR5IG9mIFRlY2hub2xvZ3ksIENoYW5nY2h1biwgUGVvcGxlJ3MgUmVwdWJsaWMgb2YgQ2hpbmEuICBTZXJ2ZSBvbiBmYWN1bHR5IGFzIHRvIGRldmVsb3AgbWFqb3IgdHJhbnNwb3J0YXRpb24gcHJvZ3JhbSBpbiBNYWlubGFuZCBDaGluYS4NCkFsc28gY29uZHVjdGVkIHNwZWNpYWwgc2VtaW5hcnMgYW5kIHJlc2VhcmNoIGZvciB0aGUgTWluaXN0cnkgb2YgUHVibGljIFNlY3VyaXR5IGFuZCBmb3IgdGhlIENoaW5hIEFzc29jaWF0aW9uIG9mIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kgZHVyaW5nIDIteWVhciBwZXJpb2QuICBQZXJmb3JtZWQgdHJhZmZpYyBhbmQgdHJhbnNpdCBhbmFseXNpcyBpbiBCZWlqaW5nLCBTaGFuZ2hhaSwgU2hlbnlhbmcgYW5kIENoYW5nY2h1bi4NCg0KR3JlYXQgQnJpdGFpbiwgMTk3MSAtIDE5NzINCkdyZWF0ZXIgTG9uZG9uIENvdW5jaWw6ICBQb2xpdGljYWwgYW5kIEVjb25vbWljIFBsYW5uaW5nLiAgUmVzZWFyY2ggU2NpZW50aXN0LiAgVmFyaW91cyB0cmFuc3BvcnRhdGlvbiBwbGFubmluZyBtZXRob2RvbG9naWVzLg0KDQpTUEVDSUFMIFBST0pFQ1RTOg0KDQoxOTgzIC0gMTk4NiAgIFByZXNpZGVudCBNaWR3ZXN0IFN5c3RlbXMgU2NpZW5jZXMgLSBUcmFuc3BvcnRhdGlvbiBDb25zdWx0aW5nIEZpcm0uDQoNCjE5OTEgLSAxOTkzICAgQm9hcmQgb2YgRGlyZWN0b3JzLCBIaWNrbGluZyBDb3JwLiAtIEVjb25vbWljIENvbnN1bHRhbnQNCg0KMTk3NiAtIDE5NzcgICBGYWN1bHR5IG9uIGxlYXZlIC0gVW5pdGVkIFN0YXRlcyBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCBPZmZpY2Ugb2YgdGhlIFNlY3JldGFyeSwgV2FzaGluZ3RvbiwgRC5DLiAgIFZhcmlvdXMgd29yayBhcyBwb2xpY3kgYW5hbHlzaXMgYW5kIHVuaXZlcnNpdHkgcmVzZWFyY2ggcHJvZ3JhbXMsIGZvciB3aGljaCBoZSByZWNlaXZlZCB0aGUgU2VjcmV0YXJ5J3MgTWVkYWwgZm9yIFN1cGVyaW9yIEFjaGlldmVtZW50Lg0KDQoxOTY0IC0gcHJlc2VudCBOdW1lcm91cyBjb25zdWx0aW5nIGFzc2lnbm1lbnRzOiByZWNlbnQgOiBzdHJ1Y3R1cmUgb2YgVHJhbnNwb3J0YXRpb24gR292ZXJuYW5jZSwgU3QuIExvdWlzOyBwZWVyIHJldmlldyBWYW5jb3V2ZXIgVHJhbnNpdCBBdXRob3JpdHk7IFRyYW5zaXQgRnV0dXJlcyBmb3IgTVRBIFVuaW9uczogc3R1ZHkgb2YgZmluYW5jZSBhbmQgYnVkZ2V0aW5nDQoNClBST0ZFU1NJT05BTCBBRkZJTElBVElPTlM6DQoNCk5ZIFN0YXRlIEhpZ2ggU3BlZWQgUmFpbCBQbGFubmluZyBCb2FyZCAtIEFwcG9pbnRlZCBieSB0aGUgR292ZXJub3IgMjAxMA0KDQpHb3Zlcm5vcidzIFRhc2sgRm9yY2Ugb24gSGlnaGVyIEVkdWNhdGlvbiwgYXBwb2ludGVkIGJ5IEdvdi4gb2YgTllTLCAyMDA3IA0KDQpNZXRyb3BvbGl0YW4gVHJhbnNpdCBBdXRob3JpdHk6IEJsdWUgUmliYm9uIENvbW1pc3Npb24gb24gV29ya2ZvcmNlIERldmVsb3BtZW50IDIwMDcgDQoNCk1ldHJvcG9saXRhbiBUcmFuc2l0IEF1dGhvcml0eTogQmx1ZSBSaWJib24gQ29tbWlzc2lvbiBvbiBDb25zdHJ1Y3Rpb24gRXhjZWxsZW5jZSAyMDA3IA0KDQpNZXRyb3BvbGl0YW4gV2F0ZXJ3YXkgQWxsaWFuY2UsIENvIENoYWlyIC0gVHJhbnNpdCBDb21taXR0ZWUvRmVycmllcyAyMDA2LTIwMDkNCiANClRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIEJvYXJkIC0gTmF0aW9uYWwgQWNhZGVteSBvZiBTY2llbmNlcywgTmF0aW9uYWwgUmVzZWFyY2ggQ291bmNpbCkgLSBFeGVjdXRpdmUgQ29tbWl0dGVlIE1lbWJlciAxOTg3LTE5OTANCiogVGhlIHJ1bGluZyBib2R5IG9mIHRoZSBtb3N0IHNpZ25pZmljYW50IHRyYW5zcG9ydGF0aW9uIHByb2Zlc3Npb25hbCBhc3NvY2lhdGlvbiBpbiB0aGUgVS5TLiAgUGFhc3dlbGwgc2VydmVkIG9uIHRoZSBUUkIvVVNET1QgVGFzayBGb3JjZSB0aGF0IGRlZmluZWQgdGhlIFVuaXZlcnNpdHkgVHJhbnNwb3J0YXRpb24gQ2VudGVycyBQcm9ncmFtIGFuZCB3YXMgcmVzcG9uc2libGUgZm9yIHRoZSBvdmVyc2lnaHQgb2YgdGhlIGZpcnN0IGNvbXBldGl0aW9uLg0KDQpUcmFuc2l0IENvb3BlcmF0aXZlIFJlc2VhcmNoIFByb2dyYW0sIE1lbWJlciAtIEJvYXJkIG9mIERpcmVjdG9ycywgKDE5OTEtMTk5OCkuIA0KKiBUQ1JQIGlzIGEgbXVsdGktbWlsbGlvbiBkb2xsYXIgZmVkZXJhbGx5IGZ1bmRlZCBwcm9ncmFtIGFkbWluaXN0ZXJlZCBieSBUUkIgYW5kIEFQVEEsIGRldmVsb3BlZCB0byBjb25kdWN0IHJlc2VhcmNoIGZvciB0aGUgVHJhbnNpdCBJbmR1c3RyeS4gIFBhYXN3ZWxsIHdhcyBhIGNoYXJ0ZXIgbWVtYmVyLiBIZSBzZXJ2ZWQgYXMgQ2hhaXIgb2YgdGhlIFJlc2VhcmNoIFBhbmVsLCAiTmV3IFBhcmFkaWdtcyBpbiBUcmFuc2l0LiINCg0KQW1lcmljYW4gU29jaWV0eSBvZiBDaXZpbCBFbmdpbmVlcnMgLSBFbGVjdGVkIHRvIERpc3Rpbmd1aXNoZWQgTWVtYmVyIA0KTWFueSBwb3NpdGlvbnMgaW5jbHVkaW5nIFBhc3QgUHJlc2lkZW50IG9mIEJ1ZmZhbG8sIE5ldyBZb3JrIHNlY3Rpb24uICBDaGFpcm1hbiBvZiBhIG1ham9yIG5hdGlvbmFsIGNvbmZlcmVuY2UsICJTaXRlIFRyYWZmaWMgSW1wYWN0IEFuYWx5c2lzIiAoMTk5MikuIA0KKiBTZXJ2ZWQgYXMgQ2hhaXIgb2YgdGhlIENvbW1pdHRlZSBvbiBQZWVyIFJldmlldyBvZiBQdWJsaWMgQWdlbmNpZXMuDQoNCkluc3RpdHV0ZSBvZiBUcmFuc3BvcnRhdGlvbiBFbmdpbmVlcnMsIEZlbGxvdyBhbmQgQ2hhcnRlciBtZW1iZXIgb2YgVHJhbnNpdCBDb3VuY2lsIFRyYW5zaXQgU3RhbmRhcmRzIENvbnNvcnRpdW06IENoYWlybWFuIG9mIEJvYXJkIGFuZCBNZW1iZXIgYW5kIGZvcm1lciBDaGFpciBvZiB0aGUgIEVkdWNhdGlvbiBhbmQgVHJhaW5pbmcgQ291bmNpbCAxOTk3LTIwMDUNCg0KTGljZW5zZWQgUHJvZmVzc2lvbmFsIEVuZ2luZWVyIGluIE5ldyBZb3JrIFN0YXRlDQogDQpBdXRob3Igb2YgdHdvIGJvb2tzLCBlbGV2ZW4gYm9vayBjaGFwdGVycywgYW5kIG92ZXIgMTUwIHRlY2huaWNhbCBwdWJsaWNhdGlvbnMgYW5kICByZXBvcnRzOyBvdmVyIDIwMCBpbnZpdGVkIHRlY2huaWNhbCBwcmVzZW50YXRpb25zOyBjb250cmlidXRvciBvZiBhcnRpY2xlcyB0byBXb3JsZCBCb29rIEVuY3ljbG9wZWRpYS4NCg0KTGlzdGVkIGluICJXaG8ncyBXaG8gaW4gdGhlIFdvcmxkLCAiV2hvJ3MgV2hvIGluIEFtZXJpY2EiLCAiV2hvJ3MgV2hvIGluIEVuZ2luZWVyaW5nIiwgIldobydzIFdobyBpbiBGaW5hbmNlIGFuZCBJbmR1c3RyeS4iDQoNClByaW5jaXBhbCBJbnZlc3RpZ2F0b3Igb3IgY28taW52ZXN0aWdhdG9yIGZvciBvdmVyIDgwIHNwb25zb3JlZCByZXNlYXJjaCBncmFudHMgd2l0aCBhIHRvdGFsIHZhbHVlIG9mIG92ZXIgJDYwTS4NCg0KDQoNClJlcHJlc2VudGF0aXZlIFJlY2VudCBTcG9uc29yZWQgUHJvamVjdHM6DQoNCiogVXJiYW4gR3Jvd3RoIExpbWl0cyAoUmV2c29uIEZvdW5kYXRpb24pOiBUaGlzIHByb2plY3QgZXhhbWluZXMgYXBwbGljYXRpb24gb2YgZXZvbHZpbmcgY29uY2VwdHMgb2YgZ3Jvd3RoIGxpbWl0cywgc3VzdGFpbmFiaWxpdHkgdG8gTllDLiAoMjAwMS1wcmVzZW50KSAoJDI1aykNCiogTG9uZyBJc2xhbmQgVHJhbnNwb3J0YXRpb24gSW50ZXJtb2RhbCBUcmFuc2ZlciBGYWNpbGl0eSAtIEEgbWFqb3Igc3R1ZHkgaW4gcmVzcG9uc2UgdG8gYSBndWJlcm5hdG9yaWFsIHJlcXVlc3QgdG8gc29sdmUgYSBwcm9ibGVtIG9mIGxvY2F0aW5nIGEgcmFpbC10cnVjayBmcmVpZ2h0IHRyYW5zZmVyIGZhY2lsaXR5IG9uIExvbmcgSXNsYW5kLiBUaGUgc3R1ZHkgaGFzIG1hZGUgcmVjb21tZW5kYXRpb25zIHRoYXQgd2lsbCBjaGFuZ2UgdGhlIHBvc2l0aW9uIG9mIHJhaWwgZnJlaWdodCBpbiBOWSBTdGF0ZS4gRm9yIE5ZU0RPVCAtIDIwMDgtcHJlc2VudCAoNTAwaykNCiogSTI3OCBGcmVpZ2h0IENvcnJpZG9yIFN0dWR5IC0gIGZvciBOWVNET1QsIGFuIGFzc2Vzc21lbnQgb2YgbmVjZXNzYXJ5IGludmVzdG1lbnRzIHRvIG1heGltaXplIHRoZSBpbXBhY3Qgb2YgdGhlIHByb3Bvc2VkIE5ZLU5KIHJhaWwgZnJlaWdodCB0dW5uZWwuICgyMDA4LXByZXNlbnQpICgxLjUgbSkgDQoqIEltcGFjdHMgb2YgUmFpbCBUcmFuc2l0IEludmVzdG1lbnRzIC0gIHBpb25lZXJpbmcgc3R1ZHkgZm9yIHRoZSBQYXJ0bmVyc2hpcCBvZiB0aGUgQ2l0eSBvZiBOWSB0byBldmFsdWF0ZSB0aGUgdHJhbnNwb3J0YXRpb24gYW5kIGVjb25vbWljIGRldmVsb3BtZW50IGltcGFjdHMgb2YgMTIgcHJvcHNlZCBpbmZyYXN0cnVjdHVyZSBpbnZlc3RtZW50cyBwb3N0IFNlcHQuIDExLiAyMDAzLTIwMDQgKDUwaykgDQoqIE5ldyBKZXJzZXkgaW4gMjFzdCBjZW50dXJ5LiBUaGlzIHByb2plY3QsIGFuIGFuYWx5c2lzIG9mIHRoZSBpbXBhY3RzIG9mIHRyYW5zcG9ydGF0aW9uIGludmVzdG1lbnRzIGluIE5vcnRoZXJuIE5ldyBKZXJzZXkgb24gZWNvbm9taWMgZGV2ZWxvcG1lbnQgd2FzIGluIHJlc3BvbnNlIHRvIHRoZSBnb3Zlcm5vcidzIGNoYWxsZW5nZSBmb3IgaW5ub3ZhdGl2ZSByZXNlYXJjaCB0byBndWlkZSBpbnZlc3RtZW50IHBvbGljeS4gSXQgaXMgYSB0aHJlZSB5ZWFyIHByb2plY3QgYnkgTmV3IEplcnNleSBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLiAoMTk5OS1wcmVzZW50KSAoJDI1MCxrKQ0KKiBBbmFseXNpcyBvZiBDYXBpdGFsIENvc3QgRWxlbWVudHMgZm9yIExpZ2h0IFJhaWwgVHJhbnNpdCAtIEZlZGVyYWwgVHJhbnNpdCBBZG1pbmlzdHJhdGlvbiAtICAyMDA1IERldGFpbGVkIGFuYWx5c2lzIG9mIGZhY3RvcnMgZHJpdmluZyBjYXBpdGFsIHByb2plY3QgY29zdCBlc2NhbGF0aW9uDQoqIEltcGFjdHMgb2YgRGVmZXJyZWQgSW52ZXN0bWVudHMgb24gQ2FwaXRhbCBhbmQgT3BlcmF0aW5nIGJ1ZGdldHMsIHJlcG9ydCBmb3IgdGhlIE5ZIE1UQSwgMjAwNA0KKiBXb3JrZm9yY2UgZGV2ZWxvcG1lbnQ6IE5ldyBUZWNobm9sb2dpZXM7IChVU0RPVC9UV1UpOyBEZXZlbG9wbWVudCBvZiBtYWpvciB0cmFpbmluZyBpbml0aWF0aXZlIGNvbmNlcm5pbmcgaW50ZWdyYXRpb24gb2YgbmV3IHRlY2hub2xvZ2llcyBpbnRvIHRyYW5zaXQgc3lzdGVtcy4gMjAwMCAtIHByZXNlbnQgKCQ3NWspDQoqIEJ1cyBtYWludGVuYW5jZSB3b3JrZm9yY2UgaW5pdGlhdGl2ZS4gRHIuIFBhYXN3ZWxsIHdhcyBhc2tlZCBieSBOZXcgWW9yayBDaXR5IFRyYW5zaXQgdG8gb3ZlcnNlZSBhbmQgZGV2ZWxvcCBhIHByb2Nlc3MgdG8gaGF2ZSBsYWJvciBhbmQgbWFuYWdlbWVudCBhZ3JlZSBvbiB3b3JrIGhvdXJzIGZvciBtYWpvciBidXMgbWFpbnRlbmFuY2UgdGFza3MgKGEgZmlyc3QgaW4gdGhlIHRyYW5zaXQgaW5kdXN0cnkpLiBIZSBmb3JtZWQgYSB0ZWFtIHdpdGggSW5kdXN0cmlhbCBFbmdpbmVlcnMgdG8gZXN0YWJsaXNoIGEgcHJvdG9jb2wgZm9yIG1lYXN1cmVtZW50IGFuZCB0aW1lIGRldGVybWluYXRpb24gdGhhdCB3YXMgYWNjZXB0ZWQgYnkgYm90aCBsYWJvciBhbmQgbWFuYWdlbWVudC4gT3ZlciA3MCBpdGVtcyBoYXZlIGJlZW4gY29kaWZpZWQgdG8gZGF0ZSBpbiB0aGlzIGhpc3RvcmljIGluaXRpYXRpdmUuIFRoZSBlc3RpbWF0ZWQgc2F2aW5ncyBmb3JtIHRoZSBmaXJzdCBzZXQgb2YgdGFza3Mgd2FzICQxMSBtaWxsaW9uIHBlciB5ZWFyLiBUaGUgcHJvamVjdCBoYXMgYmVlbiBmdW5kZWQgYXQgJDEyNSB0aG91c2FuZC4gQ3VycmVudCBhbmQgY29udGludWluZw0KKiBRdWVlbnMgQnVzIEFuYWx5c2lzLiBEci4gUGFhc3dlbGwgd2FzIGFza2VkIGJ5IE5ZQ0RPVCB0byBEaXJlY3QgYSBzdHVkeSBleGFtaW5pbmcgUm91dGVzIGFuZCBSaWRlcnNoaXAgb2YgdGhlIEZyYW5jaGlzZSBCdXMgU2VydmljZXM6IEdyZWVuIEJ1cyBMaW5lcy4gVGhlIFN0dWR5IGV4YW1pbmVkIG1ldGhvZHMgb2YgdmVyaWZ5aW5nIHJpZGVyc2hpcCBhbmQgYXBwcm9hY2hlcyB0byBSb3V0ZSBSYXRpb25hbGl6YXRpb24uIFRoZSBTdHVkeSB3YXMgY29tcGxldGVkIE9jdC4gMjAwMC4gDQoqIFN0dWR5IG9mIFRyYW5zaXQgR292ZXJuYW5jZTogUGFhc3dlbGwgd2FzIFBJIG9uIEZUQSAoVVNET1QpIGZ1bmRlZCBzdHVkeSB0byBlc3RhYmxpc2ggcmVsYXRpb25zaGlwcyBiZXR3ZWVuIHRyYW5zaXQgcGVyZm9ybWFuY2UgYW5kIHRyYW5zcG9ydGF0aW9uIGdvdmVybmFuY2Ugc3RydWN0dXJlcy4gVGhlIHN0dWR5IHJldmlld2VkIG92ZXIgNTAgcHJvcGVydGllcywgdGhlaXIgZW5hYmxpbmcgbGVnaXNsYXRpb24sIGN1cnJlbnQgZ292ZXJuYW5jZSBhbmQgb3BlcmF0aW5nIHBlcmZvcm1hbmNlIGluZGljYXRvcnMuICgxOTk3LXByZXNlbnQsIGZpbmFsIHJlcG9ydCApDQoqIFlvcmsgQ29sbGVnZSBBdmlhdGlvbiBJbnN0aXR1dGU6ICAoUG9ydCBBdXRob3JpdHkgb2YgTmV3IFlvcmsvTmV3IEplcnNleSkgQ0lVUyBoYXMgYXNzaXN0ZWQgWW9yayBDb2xsZWdlIGluIGRldmVsb3BpbmcgdGhlIHN0cnVjdHVyZSBhbmQgcHJvZ3JhbXMgZm9yIGEgbmV3bHkgZXN0YWJsaXNoZWQgYXZpYXRpb24gaW5zdGl0dXRlLiBDdXJyZW50DQoqIFRyYXZlbCBCZWhhdmlvci0gUG9zdCBTZXB0IDExLiBUbyBhc3Nlc3MgY2hhbmdlcyBpbiB0cmF2ZWwgYmVoYXZpb3IgYW1vbmcgY29tbXV0ZXJzIGluIE5ZIGFzIGEgcmVzdWx0IG9mIGFjdGlvbnMgYW5kIGNvbnNlcXVlbmNlcyBvZiBTZXB0LiAxMSAoTlNGLikgKDIwMDEpDQoqIE5ldyBZb3JrIFN0YXRlIGluIDIxc3QgQy4gQSBzdHVkeSBvZiBJbmZyYXN0cnVjdHVyZSBuZWVkcy4gKE5ZU0RPVCkgQSBzdHVkeSBmb3IgdGhlIENvbW1pc3Npb25lciBvZiBOWVNET1QgdG8gcHJvdmlkZSBndWlkZWxpbmVzIGZvciBhc3Nlc3NpbmcgaW5mcmFzdHJ1Y3R1cmUgaW52ZXN0bWVudHMgLSBwYXJ0aWN1bGFybHkgd2l0aCByZXNwZWN0IHRvIGZyZWlnaHQuICgyMDAyKSAoJDI1MGspDQoqIENvbmdlc3RlZCBjb3JyaWRvcnMuIEEgc3R1ZHkgdG8gZGV0ZXJtaW5lIGhvdyBjb25nZXN0aW9uIGltcGFjdHMgdHJhbnNpdCBjb3JyaWRvcnMgYW5kIHRvIHByb3ZpZGUgbWl0aWdhdGluZyBtZWFzdXJlcy4gKE5KRE9UKSAoMjAwMikNCiogSW1wYWN0IG9mIENhcGl0YWwgQnVkZ2V0czogQW4gZWNvbm9taWMgYW5hbHlzaXMgb2YgdGhlIGltcGFjdHMgb2YgZGVmZXJyaW5nIG9yIGRlbGF5aW5nIGNhcGl0YWwgaW52ZXN0bWVudHMgZm9yIHRoZSBNVEEgcHJvcGVydGllcywgTVRBLCAyMDA0LCAkNjNrIChmaXJzdCBwaGFzZSkNCiogQmVzdCBQcmFjdGljZXMgTW9kZWwsIEEgc3R1ZHkgZm9yIHRoZSBNZXRyb3BvbGl0YW4gUGxhbm5pbmcgT3JnYW5pemF0aW9uIHRvIGFkZHJlc3MgdGhlIGNvbXBsZXhpdGllcyBvZiB0aGUgbW9kZWwgdXNlZCB0byBjZXJ0aWZ5IHRoZSBOWUMgUmVnaW9uIHRvIG1lZXQgYWlyIHF1YWxpdHkgc3RhbmRhcmRzLCAkMjUwaw0KKiBBc3Nlc3NtZW50IG9mIE5vbi1UcmFuc3BvcnRhdGlvbiBiZW5lZml0cyBmb3IgbGFyZ2UgY2FwaXRhbCBwcm9qZWN0cyAtICAgQSBzdHVkeSBmb3IgdGhlIFBBTlkmTkogMjAwOQ0KDQpTcGVjaWFsIFByb2plY3RzOg0KDQoqIFN0YXRlIG9mIE1pbm5lc290YSBET1QgUGVlciBSZXZpZXcgTWF5IDIwMTAuDQoqIFdoaXRlIHBhcGVycyBmb3IgdGhlIFJhdml0Y2ggQ29tbWlzc2lvbiBvbiBGdW5kaW5nIGZvciB0aGUgTVRBIC0yMDA4LTIwMDkNCiogVmFuY291dmVyIFRyYW5zaXQgU3RydWN0dXJlOiBQZWVyIHJldmlldyBmb3IgVmFuY291dmVyLCBCLkMuIFJlZ2lvbmFsIERpc3RyaWN0IG9mIG5ldyBzdHJ1Y3R1cmUgZm9yIEIuQy4gVHJhbnNpdCBTeXN0ZW0gYXMgcGFydCBvZiBvdmVyYWxsIHJlZ2lvbmFsIHRyYW5zcG9ydGF0aW9uIGF1dGhvcml0eS4sIEF1ZyAxOTk4DQoqIFN0LiBMb3VpcyBUcmFuc2l0IEdvdmVybmFuY2UgUHJvamVjdDogQSBzdHVkeSBmb3IgdGhlIFJlZ2lvbmFsIENvbW1lcmNlIGFuZCBHcm93dGggQXNzb2NpYXRpb24gKFN0LiBMb3VpcywgTW8uKSB0byByZXZpZXcgdHJhbnNwb3J0YXRpb24gaW52ZXN0bWVudCBkZWNpc2lvbnMgYXMgYSBmdW5jdGlvbiBvZiBpbnN0aXR1dGlvbnMgYW5kIGdvdmVybm1lbnRzIGluIHJlZ2lvbjsgdG8gcHJlc2VudCBzdGF0ZSBvZiBwcmFjdGljZSBpbiBwbGFubmluZywgZmluYW5jZSwgb3BlcmF0aW9ucywgYW5kIHRvIGRldmVsb3Agc2NlbmFyaW9zIGZvciBjaGFuZ2UuIFRoaXMgcmVwb3J0IHdhcyB0aGUgYmFzaXMgb2YgYW4gYWN0aW9uIHBsYW4gZm9yIGNoYW5nZSBpbiB0aGUgU3QuIExvdWlzIE1ldHJvIGFyZWEuIENvbXBsZXRlZCwgSnVuZSAxOTk4DQoqIFJldmlldyBvZiBOWU1UQy4gU2VydmVkIG9uIGxvY2FsIGNvbW1pdHRlZSBwcm9wb3Npbmcgc3RydWN0dXJhbCBhbmQgb3BlcmF0aW9uYWwgY2hhbmdlcyB0byBOWUMgcmVnaW9uIE1QTy4gVGhpcyBpcyBhIHBybyBib25vIHN0dWR5IGxlZCBieSB0aGUgQ291bmNpbCBvbiBUcmFuc3BvcnRhdGlvbi4gVGhlIENvdW5jaWwgaXMgcmVzcG9uZGluZyB0byBzdGF0ZWQgbmVlZHMgZm9yIGNoYW5nZSBpbiB0aGUgU3RhdGUncyBsYXJnZXN0IE1QTyBhbmQgaGFzIHByb2R1Y2VkIHdoaXRlIHBhcGVycyBub3Rpbmcgc3BlY2lmaWMgcG9pbnRzIGZvciBhIHJlc3RydWN0dXJlZCBNUE8gdG8gZm9sbG93LiBUaGUgc3R1ZHkgaXMgYmVpbmcgY2FycmllZCBvdXQgd2l0aCB0aGUga25vd2xlZGdlIGFuZCBjb29wZXJhdGlvbiBvZiBOWVNET1QgZXhlY3V0aXZlIG1hbmFnZW1lbnQuIEluIHByb2dyZXNzLCAxOTk4DQoqIEJyb254IENlbnRlciBUcmFuc3BvcnRhdGlvbiBTdHVkeS4gQSBzdHVkeSBvZiB0cmFuc3BvcnRhdGlvbiBhbHRlcm5hdGl2ZXMgZm9yIHRoZSBTb3V0aCBCcm9ueCByZWRldmVsb3BtZW50IHByb3Bvc2FscyBkZXZlbG9wZWQgYnkgdGhlIFJlZ2lvbmFsIEFzc2VtYmx5IHVuZGVyIHRoZSBzcG9uc29yc2hpcCBvZiBCcm9ueCBCb3JvdWdoIFByZXNpZGVudC4gDQoqIFRlbCBBdml2IFRyYW5zaXQgQXV0aG9yaXR5OiBBIHN0dWR5IGZvciB0aGUgTWluaXN0cnkgb2YgVHJhbnNwb3J0YXRpb24sIElzcmFlbCB0byBldmFsdWF0ZSBjdXJyZW50IHB1YmxpYyB0cmFuc2l0IGluIFRlbCBBdml2IGFuZCBzdWdnZXN0IG5ldyBnb3Zlcm5hbmNlIHN0cnVjdHVyZXMuIDE5OTYgLSBwcmVzZW50Lg0KKiBDaGFpciAtIFRDUlAgUGFuZWwgLSBOZXcgUGFyYWRpZ21zLiBUaGlzIGlzIHRoZSBkZWZpbmluZyBzdHVkeSBvZiB0aGUgbmV3IHBhcmFkaWdtcyB3b3JrLCBub3RpbmcgdGhlIGltcG9ydGFuY2Ugb2YgZGlyZWN0aW5nIGluc3RpdHV0aW9uYWwgY2hhbmdlDQoqIFNlcnZlIG9uIG51bWVyb3VzIHJlZ2lvbmFsIGNvbW1pdHRlZXMgYWRkcmVzc2luZyBTZXAndC4gMTEsIDIwMDEuIA0KKiBQdWJsaWMgQXV0aG9yaXR5IEJvYXJkIE1lbWJlciBUcmFpbmluZyAtIEFzc2lzdGVkIHRoZSBDVU5ZIFNjaG9vbCBvZiBQcm9mZXNzaW9uYWwgU3R1ZGllcyB0byB3b3JrIHdpdGggZmFtZWQgZ292ZXJuYW5jZSBhdHRvcm5leSBJcmEgTWlsbHN0ZWluLCBFc3EuIHRvIGRldmVsb3AgY3VycmljdWx1bSBhbmQgcHJvdmlkZSBsZWFkIGluc3RydWN0aW9uIGZvciBhIGN1c3RvbWl6ZWQsIGV4ZWN1dGl2ZSB0cmFpbmluZyBmb3IgYm9hcmQgbWVtYmVycyBvZiBwdWJsaWMgYXV0aG9yaXRpZXMgb24gdGhlaXIgZ292ZXJuYW5jZSByZXNwb25zaWJpbGl0aWVzIGFuZCBkdXRpZXMuIENvbmR1Y3RlZCBleGVjdXRpdmUgc2Vzc2lvbnMgd2l0aCBkb3plbnMgb2YgTllTIGluc3RpdHV0aW9ucywgaW5jbHVkaW5nIERBU05ZLCBNVEEgYW5kIEJyaWRnZSBBdXRob3JpdHkuIDIwMDUgLSAyMDA5Lg0KDQoNClByb2Zlc3Npb25hbCBTb2NpZXRpZXM6DQoNClRyYW5zaXQgU3RhbmRhcmRzIENvbnNvcnRpdW0gLSBlbGVjdGVkIENoYWlybWFuLCBCb2FyZCBvZiBEaXJlY3RvcnMNClRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIEJvYXJkIC0gQ2hhaXI6IFRyYW5zaXQgQ29vcGVyYXRpdmUgUmVzZWFyY2ggUHJvZ3JhbSBQcm9qZWN0OiBOZXcgUGFyYWRpZ21zIGZvciBQdWJsaWMgVHJhbnNwb3J0YXRpb247IENoYWlyIE5DSFJQIFBhbmVsIG9uIFJpc2sgQW5hbHlzaXMgVG9vbHMNCg0KRGlzdGluZ3Vpc2hlZCBtZW1iZXIgKGVsZWN0ZWQgYnkgdGhlIEFTQ0UgQm9hcmQpIDogQW1lcmljYW4gU29jaWV0eSBvZiBDaXZpbCBFbmdpbmVlcnM7IENoYWlyIENvbW1pdHRlZSBvbiBQZWVyIFJldmlldyBvZiBQdWJsaWMgQWdlbmNpZXMNCg0KDQpSRUNFTlQgUFVCTElDQVRJT05TOiAgDQoNClBhYXN3ZWxsLCBSLCBBIE5ldyBQYXJhZGlnbSBmb3IgVHJhbnNwb3J0YXRpb24gUGxhbm5pbmcsIFRyYW5zcG9ydGF0aW9uIEluZnJhc3RydWN0dXJlOiBUaGUgTmV4dCBIdW5kcmVkIFllYXJzLCBBUEEgUGxhbm5pbmcgU2VydmljZSBSZXBvcnQsIEFwcmlsIDIwMDkNCg0KUmV2aWV3IG9mLCBSYWlsd2F5IERldmVsb3BtZW50OiBJbXBhY3RzIG9uIFVyYmFuIERldmVsb3BtZW50LCBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBTdW1tZXIgMjAwOQ0KDQpIb2xndWluLVZlcmFzIEouLCBSLiBQYWFzd2VsbCBhbmQgQS4gUGVybCwgIlRoZSBSb2xlIG9mIEdvdmVybm1lbnQgaW4gRm9zdGVyaW5nIEludGVybW9kYWwgVHJhbnNwb3J0IElubm92YXRpb24gYW5kIFJlc2VhcmNoICIgIGluIEtvbmluZ3MsIFIuLCBILiBQcmllbXVzICYgUC4gTmlqa2FtcCAoZWRzKSwgMjAwOCwgVGhlIEZ1dHVyZSBvZiBJbnRlcm1vZGFsIEZyZWlnaHQgVHJhbnNwb3J0OyBPcGVyYXRpb25zLCBEZXNpZ24gYW5kIFBvbGljeSwgRWR3YXJkIEVsZ2FyIFB1Ymxpc2hpbmcgTGltaXRlZCwgQ2hlbHRlbmhhbSwgVUsuIElTQk4gOTc4IDEgODQ1NDIgMjM4IDcNCg0KQ2hlbiwgQy47IEdvbmcsIEguOyBhbmQgUGFhc3dlbGwsIFIuIFJvbGUgb2YgdGhlIEJ1aWx0IEVudmlyb25tZW50IG9uIE1vZGUgQ2hvaWNlIERlY2lzaW9uczogQWRkaXRpb25hbCBFdmlkZW5jZSBvbiB0aGUgSW1wYWN0IG9mIERlbnNpdHkuICBUcmFuc3BvcnRhdGlvbiB2MzUsIG4zLCBNYXkgMjAwOA0KDQpQYWFzd2VsbCwgUiBhbmQgSiBCZXJlY2htYW4sICJNb2RlbHMgYW5kIFJlYWxpdGllczogQ2hvb3NpbmcgVHJhbnNpdCBQcm9qZWN0cyBmb3IgTmV3IFlvcmsgQ2l0eSIsIGluIFBvbGljeSBBbmFseXNpcyBvZiBUcmFuc3BvcnQgTmV0d29ya3MsIEdlZWh1aXplbiwgTS4sIEEuIFJlZ2dpYW5pLCBhbmQgUC4gUmlldHZlbGQgKGVkaXRvcnMpIEFzaGdhdGUgUHViLCBCcm9va2ZpZWxkLCBWVCwyMDA2DQoNCkJlcmVjaG1hbiBKLiwgYW5kIFIuIFBhYXN3ZWxsLCAiRXZhbHVhdGlvbiwgcHJpb3JpdGl6YXRpb24gYW5kIHNlbGVjdGlvbiBvZiB0cmFuc3BvcnRhdGlvbiBpbnZlc3RtZW50IHByb2plY3RzIGluIE5ldyBZb3JrIENpdHkiLCBUcmFuc3BvcnRhdGlvbiwgVm9sLiAzMigzKSwgcHAgMjIzLTI0OSwgMjAwNQ0KDQpIb2xndWluLVZlcmFzLCBKLixOLiBYdSwgSC4gTGV2aW5zb24sIEMuIE1jS25pZ2h0LCBSLiBXZWluZXIsIFIuIFBhYXN3ZWxsLCBLLiBPemJheSwgYW5kIEQuIE96bWVuLUVydGVraW4sICJBbiBJbnZlc3RpZ2F0aW9uIG9uIHRoZSBBZ2dyZWdhdGUgQmVoYXZpb3Igb2YgRmlybSBSZWxvY2F0aW9ucyB0byBOZXcgSmVyc2V5ICgxOTkwLTE5OTkpIGFuZCB0aGUgVW5kZXJseWluZyBNYXJrZXQgRWxhc3RpY2l0aWVzIiwgSm91cm5hbCBvZiBOZXR3b3JrcyBhbmQgU3BhdGlhbCBFY29ub21pY3MsIFZvbC4gNSAoMyksIHBwMjkzLTMzMSwgU2VwdCAyMDA1DQoNCk1jS25pZ2h0LCBDLiwgSC4gTGV2aW5zb24sIEsuIE96YmF5LCBDLiBLYW1nYSwgYW5kIFIuIFBhYXN3ZWxsLCAiSW1wYWN0IG9mIFRyYWZmaWMgQ29uZ2VzdGlvbiBvbiBCdXMgVHJhdmVsIFRpbWUgaW4gTm9ydGhlcm4gTmV3IEplcnNleS4iLCBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBSZWNvcmQgICMxODg0LCBwcCAyNy0zNSwgMjAwNA0KDQpQYWFzd2VsbCwgUi4sICJBcHByb2FjaGVzIHRvIEluZnJhc3RydWN0dXJlIFJlZGV2ZWxvcG1lbnQsIFdUQywgTG93ZXIgTllDIGFuZCB0aGUgUmVnaW9uIiwgUHJvY2VlZGluZ3MsIEFTQ0UgMm5kIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBJbnRlcm5hdGlvbmFsIEluZnJhc3RydWN0dXJlLCAyMDA0DQoNClBhYXN3ZWxsLCBSLiwgIkludGVsbGlnZW50IFRyYW5zcG9ydGF0aW9uIFN5c3RlbXMiIGluIE1vdmluZyBQZW9wbGUsIEdvb2RzIGFuZCBJbmZvcm1hdGlvbiwgUi4gSGFubGV5IChlZGl0b3IpLiBSb3V0bGVkZ2UsIE5ZQywgcHAgMjEtMzEsIDIwMDQNCg0KDQpCZXJlY2htYW4sIEouIGFuZCBSLiBQYWFzd2VsbCwgIkFjY2Vzc2liaWxpdHkgSW1wcm92ZW1lbnRzIGFuZCBMb2NhbCBFbXBsb3ltZW50OiBhbiBFbXBpcmljYWwgQW5hbHlzaXMiLCBKb3VybmFsIG9mIFRyYW5zcG9ydGF0aW9uIGFuZCBTdGF0aXN0aWNzLCBWb2wuIDQgKDIvMyksIHBwIDQ5LTY2LCAyMDAzDQoNCkhvbGd1w61uLVZlcmFzLCBKLiwgUi4gUGFhc3dlbGwgYW5kIEEuIFlhbGksICJJbXBhY3RzIG9mIEV4dHJlbWUgRXZlbnRzIG9uIEludGVyY2l0eSBQYXNzZW5nZXIgVHJhdmVsIEJlaGF2aW9yOiBUaGUgU2VwdGVtYmVyIDExdGggRXhwZXJpZW5jZSIgaW4gQmV5b25kIFNlcHRlbWJlciAxMXRoOiBBY2NvdW50IG9mIFBvc3QtRGlzYXN0ZXIgUmVzZWFyY2gsIFNwZWNpYWwgUHVibGljYXRpb24gIzM5LCBwcC4gMzczLTQwNCwgTmF0dXJhbCBIYXphcmRzIFJlc2VhcmNoIGFuZCBBcHBsaWNhdGlvbnMgSW5mb3JtYXRpb24gQ2VudGVyLCBVbml2ZXJzaXR5IG9mIENvbG9yYWRvLCBCb3VsZGVyLCBDTywgMjAwMw0KDQpQYWFzd2VsbCwgUi4sICJBIFRpbWUgZm9yIFRyYW5zcG9ydGF0aW9uIFN0cmF0ZWd5IiwgaW4gIEFmdGVyIHRoZSBXb3JsZCBUcmFkZSBDZW50ZXI6IFJldGhpbmtpbmcgTmV3IFlvcmsgQ2l0eSwgU29ya2luLCBNLiBhbmQgUy4gWnVraW4gKGVkaXRvcnMpLCBSb3V0bGVkZ2UsIE5ZQywgcHAuIDE3My0xODgsIFNwcmluZyAyMDAyDQoNClBhYXN3ZWxsIFIuIGFuZCBSLiBIYW5sZXksICJVcmJhbiBJbmZyYXN0cnVjdHVyZXMgb2YgTW92ZW1lbnQiLCBQcm9jZWVkaW5ncyBvZiB0aGUgQ29uZmVyZW5jZSBvbiBDaXRpZXMgYXMgU3RyYXRlZ2ljIFNpdGVzLCBDZW50ZXIgZm9yIFN1c3RhaW5hYmxlIFVyYmFuIGFuZCBSZWdpb25hbCBGdXR1cmVzLCBNYW5jaGVzdGVyLCBVSywgMjAwMg0KDQpQYWFzd2VsbCBSLiBhbmQgUi4gSGFubGV5LCBNb3ZpbmcgaW4gQ2l0aWVzOiBBIFN0cmF0ZWdpYyBBcHByb2FjaCwgUGVyc3BlY3RpdmVzLCBWb2wuIDI1LCAyMDAyDQoNCiBTRVEgQ0hBUFRFUiBcaCBcciAxUGFhc3dlbGwsIFIuICBKLiBCZXJlY2htYW4sIEouIEhvbGd1aW4tVmVyYXMsIFIuIFNyaW5pdmFzYW4gYW5kIEMuIE1jS25pZ2h0LCAiTmV3IEplcnNleSBMaW5rIHRvIHRoZSAyMXN0IENlbnR1cnk6IE1heGltaXppbmcgdGhlIEltcGFjdCBvZiBJbmZyYXN0cnVjdHVyZSBJbnZlc3RtZW50IiwgTmV3IFlvcmsgVHJhbnNwb3J0YXRpb24gSm91cm5hbCwgVm9sLiA1LCBwLiAyMCwgIFdpbnRlci9TcHJpbmcgMjAwMQ0KDQpQYWFzd2VsbCBSLiwgIkludGVsbGlnZW50IFRyYW5zcG9ydGF0aW9uIFN5c3RlbXM6IENyZWF0aW5nIE9wZXJhdGlvbmFsLCBJbnN0aXR1dGlvbmFsIGFuZCBMYWJvciBGb3JjZSBDaGFuZ2VzIiAsIEpvdXJuYWwgb2YgVXJiYW4gVGVjaG5vbG9neSwgVm9sLiA4KDIpLCBwcCA2MS03MywgMjAwMQ0KDQpQYWFzd2VsbCwgUi4gYW5kIEouIEJlcmVjaG1hbiwgIlB1YmxpYyBUcmFuc3BvcnRhdGlvbiBQb2xpY3kgaW4gSXNyYWVsOiBDaGFsbGVuZ2VzIGZvciB0aGUgRGVjYWRlIEFoZWFkIiwgSXNyYWVsIEFmZmFpcnMsIFZvbC4gNyg0KSwgcHAuIDI1NC0yNjksIFN1bW1lciAyMDAxDQoNClBhYXN3ZWxsIFIuIGFuZCBSLiBTdGFuZWx5LCAiU2hpZnRpbmcgdGhlIFB1YmxpYy1UcmFuc3BvcnRhdGlvbiBQYXJhZGlnbSBmb3IgdGhlIDIxc3QgQ2VudHVyeSIsIElURSBKb3VybmFsLCBWb2wuIDcwKDcpLCBKdWx5LCAyMDAwDQoNCkhvbGd1aW4tVmVyYXMsIEouIGFuZCBSLiBQYWFzd2VsbCwgIk5ldyBZb3JrIFJlZ2lvbmFsIEludGVybW9kYWwgRnJlaWdodCBUcmFuc3BvcnRhdGlvbiBQbGFubmluZyIsIFRyYW5zcG9ydGF0aW9uIExhdyBKb3VybmFsLCBWb2wuIDI3KDMpLCBwcC4gNDUzLTQ3MywgMjAwMA0KDQpQYWFzd2VsbCwgUi4sICJSZWdpb25hbGlzbSwgUGxhbm5pbmcgYW5kIFN0cmF0ZWdpYyBJbnZlc3RtZW50IGluIHRoZSBUcmFuc3BvcnRhdGlvbiBTZWN0b3IiIGluIE5ldyBDb250cmlidXRpb25zIHRvIFRyYW5zcG9ydGF0aW9uIEFuYWx5c2lzIGluIEV1cm9wZSwgQnVldGhlLCBNLiBhbmQgUC4gTmlqa2FtcCAoZWRzKSwgQXNoZ2F0ZSBQdWIuLCBCcm9va2ZpZWxkLCBWVCwgMTk5OQ0KDQpQYWFzd2VsbCwgUi4sICJUcmFuc3BvcnRhdGlvbiBJbmZyYXN0cnVjdHVyZSBhbmQgTGFuZCBVc2UgaW4gQ2hpbmEiIGluIENoaW5hIEVudmlyb25tZW50IFNlcmllcyBJc3N1ZSAzLCBwcC4gMTItMjEsIFdvb2Ryb3cgV2lsc29uIENlbnRlciwgV2FzaGluZ3RvbiwgRC5DLiwgMTk5OQ0KDQpQYWFzd2VsbCwgUi4gYW5kIEouIEJlcmVjaG1hbiwgIlB1YmxpYyBUcmFuc3BvcnRhdGlvbiBQb2xpY3kgaW4gSXNyYWVsIiBpbiBJc3JhZWwgUGxhbm5pbmcgU3R1ZGllcywgZWQsIFRlbCBBdml2IFVuaXYuIFByZXNzLCAxOTk3DQoNCkJlcmVjaG1hbiwgSi4gYW5kIFIuIFBhYXN3ZWxsLCAiSW1wbGljYXRpb25zIG9mIFRyYXZlbCBQcm9maWxlcyBmb3IgVHJhbnNwb3J0YXRpb24gSW52ZXN0bWVudDogVGhlIEJyb254IENlbnRlciBQcm9qZWN0IiwgVHJhbnNwb3J0YXRpb24sIFZvbC4gMjQsIHBwLiA1MS03NywgMTk5Nw0KDQpQYWFzd2VsbCwgUi4sICJJc3N1ZXMgaW4gUGFzc2VuZ2VyIFJhaWw6IEEgU3VtbWFyeSwiIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIENpcmN1bGFyLCAxOTk3DQoNClBhYXN3ZWxsLCBSLiwgTC4gQXVkZW5hZXJkLCBhbmQgTS4gSmFmYXJpLCAiQXBwbGljYXRpb24gb2YgSW5kdXN0cmlhbCBTdGFuZGFyZHMgdG8gQnVzIE1haW50ZW5hbmNlIFByb2NlZHVyZXMiLCBUcmFuc3BvcnRhdGlvbiBSZXNlYXJjaCBSZWNvcmQsICMxNTcxLCBwcC4gNTAtNTksIDE5OTcNCg0KUGFhc3dlbGwsIFIuLCAiVGVsIEF2aXYgVHJhbnNpdCBBdXRob3JpdHk6IEEgUHJvcG9zZWQgU3RydWN0dXJlIiwgVHJhbnNwb3J0YXRpb24gUXVhcnRlcmx5LCBWb2wuNTEsIFNwcmluZyAxOTk3LiBBbHNvIGluIElzcmFlbCBQbGFubmluZyBTdHVkaWVzLCBlZC4sIFRlbCBBdml2IFVuaXYuIFByZXNzLCAxOTk2DQoNClBhYXN3ZWxsLCBSLiwgIlUuUy4gSVNURUEgbGVnaXNsYXRpb24gYXMgaXQgcmVsYXRlcyB0byBlY29ub21pYyBhbmFseXNpcyBvZiBpbmZyYXN0cnVjdHVyZSIgaW4gVHJhbnNwb3J0IGFuZCBVcmJhbiBEZXZlbG9wbWVudCwgRC4gQmFuaXN0ZXIgKGVkKSwgQ2hhcG1hbiBhbmQgSGFsbCwgTG9uZG9uLCAxOTk1DQoNClNwZWNpYWwgUmVwb3J0czoNCg0KQW5hbHlzaXMgb2YgQ2FwaXRhbCBDb3N0IEVsZW1lbnRzIGFuZCB0aGVpciBFZmZlY3RzIG9uIE9wZXJhdGluZyBDb3N0cywgQSByZXBvcnQgdG8gRlRBL1VTRE9ULCBVVFJDLCBTZXB0ZW1iZXIgMjAwNQ0KDQpJbXBhY3Qgb2YgRGVmZXJyZWQgSW52ZXN0bWVudHMgb24gQ2FwaXRhbCBhbmQgT3BlcmF0aW5nIEJ1ZGdldHM6IEEgcmVwb3J0IHRvIHRoZSBNVEEsIFVUUkMsIE5vdiwgMjAwNA0KDQpCdXMgUmFwaWQgVHJhbnNpdCwgUi4gUGFhc3dlbGwgZXQgYWwsIENJVVMgMjAwNCwgQSBSZXBvcnQgc3BvbnNvcmVkIGJ5IHRoZSBLYXBsYW4gRnVuZA0KDQpOZXcgWW9yayBTdGF0ZSBpbiB0aGUgTmV3IFdvcmxkIEVjb25vbXk7IEEgcmVwb3J0IGZvciBOWVMgRGVwdC4gb2YgVHJhbnNwb3J0YXRpb24sIDIwMDMNCg0KTmV3IEplcnNleSBMaW5rIHRvIHRoZSAyMXN0IENlbnR1cnk7IEEgcmVwb3J0IGZvciBOSiBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uLCAyMDAyDQoNCkEgU3R1ZHkgb2YgU21hcnQgR3Jvd3RoIGluIHRoZSBOZXcgWW9yayBDaXR5IFJlZ2lvbjogQSByZXBvcnQgZm9yIHRoZSBSZXZzb24gRm91bmRhdGlvbiwgMjAwMw0KDQpQcm9qZWN0IFByaW9yaXRpemF0aW9uIG9mIFRyYW5zcG9ydGF0aW9uIEludmVzdG1lbnQgUHJvamVjdHMgaW4gTmV3IFlvcmssIEEgcmVwb3J0IGZvciB0aGUgTllDIFBhcnRuZXJzaGlwLCBOb3YuIDIwMDMNCg0KQW5hbHlzaXMgb2YgTWFya2V0cyBmb3IgTmV3IFlvcmsgV2F0ZXJ3YXkgMTk5NQ0KDQpTcGVjaWFsIFByZXNlbnRhdGlvbnM6DQoNCkZ1dHVyZSBvZiBUcmFuc3BvcnRhdGlvbiBpbiBOZXcgWW9yayBTdGF0ZTogS2V5bm90ZSBTcGVlY2gsIE5ZUyBET1QvTWNHcmF3IEhpbGwgc3ltcG9zaXVtLCBUcmFuc3BvcnQgMjAxMCwgTllDLCAyMDEwDQpTdGF0ZSBSb2xlIGluIFRyYW5zcG9ydGF0aW9uIFBsYW5uaW5nLCBUZWNobmljYWwgVW5pdmVyc2l0eSBvZiBGaW5sYW5kLCBIZWxzaW5raSwgSnVuZSAyMDA4DQoNCkludml0ZWQgVGVzdGltb255IGFuZCBXaGl0ZSBQYXBlcnMgZm9yIFJhdml0Y2ggQ29tbWlzc2lvbiBvbiBDb25nZXN0aW9uIFByaWNpbmcgYW5kIE1UQSBGaW5hbmNlIDIwMDgNCg0KQ29uZ2VzdGlvbiBQcmljaW5nIGZvciBOWUMsIE5ldyBZb3JrIEFjYWRlbXkgb2YgU2NpZW5jZXMsIEZlYi4gMjAwOA0KDQpJbnZpdGVkIFRlc3RpbW9ueSBhbmQgV2hpdGUgUGFwZXJzIGZvciBOWVMgQXNzZXQgTWFuYWdlbWVudCBDb21taXNzaW9uLCAyMDA4DQoNCkZ1dHVyZSBvZiBOZXcgWW9yazogSW5mcmFzdHJ1Y3R1cmU6IERlYyAyMDAzOiBDb25mIG9uIEdsb2JhbCBDaXRpZXMNCg0KSkVSU0VZIENJVFk6IE5ldyBZb3JrJ3MgNnRoIEJvcm91Z2gsIEFjY2VzcywgR2xvYmFsIGFuZCBMb2NhbDogQ29uZiBvbiBKZXJzZXkgQ2l0eSBhbmQgTmV3IFlvcmsgRWNvbm9teSwgT2N0IDIwMDMNCg0KU21hcnQgR3Jvd3RoOiBQcmVzZW50ZWQgdG8gTllTRE9ULCBBbGJhbnksIE1heSAyMDAzOyBwcmVzZW50ZWQgdG8gTkpET1QsIFRyZW50b24sIEp1bmUgMjAwMywgIGFsc28gZGlzY3Vzc2VkIGluIGxlYWQgYXJ0aWNsZSBpbiBOWSBUaW1lcyBGZWIgMjAwNC4NCg0KSW52ZXN0aW5nIGluIFRyYW5zcG9ydGF0aW9uOiBEZWZpbmluZyB0aGUgSXNzdWVzICwgcHJlc2VudGVkIHRvIEFQQSwgTWF5IDIwMDMNCg0KUlBBIFJlZ2lvbmFsIEFzc2VtYmx5OiBUaGUgRnV0dXJlIG9mIFRyYW5zcG9ydGF0aW9uOiBBIHByZXNlbnRhdGlvbiB0byBSUEEgcmVnaW9uYWwgYXNzZW1ibHkgTWF5IDIwMDMNCg0KVHJhbnNwb3J0YXRpb24sIE92ZXJ2aWV3IGFuZCBJc3N1ZXMgZm9yIFBsYW5uaW5nOiBDb25mIG9uIE5ldyBZb3JrJ3MgV2VzdCBTaWRlLCBGZWIgMjAwMw0KDQpUcmFuc3BvcnRhdGlvbiBhbmQgRW5lcmd5LCBQcmVzZW50YXRpb24gYXQgRW5lcmd5IFNhbG9uLCBOWUMsIEFwcmlsIDIwMDQNCg0KQ29zdHMgYW5kIENhdXNlcyBvZiBDb25nZXN0aW9uLCBDb25mZXJlbmNlIG9uIENvbmdlc3Rpb24sIFJ1ZGluIEluc3QsIE5ZQywgTm92IDIwMDQNCg0KVHJhbnNwb3J0YXRpb24gaW4gTllDIEFmdGVyIDkuMTEsIFByZXNlbnRhdGlvbiB0byBWaXNpdGluZyBTY2hvbGFyIExlY3R1cmUsIE5vcnRoIENhcm9saW5hIFN0YXRlIENvbGwuIFJhbGVpZ2gsIE5DLCBOb3YgMjAwNA0KDQpVbml2IG9mIERlbGF3YXJlIC0gRGlzdGluZ3Vpc2hlZCBTY2hvbGFycyBMZWN0dXJlLCBUcmFuc3BvcnRhdGlvbiBJbmZyYXN0cnVjdHVyZSBpbiBOWUMsIERlYyAyMDA4DQoNCg0KQ29uZmVyZW5jZSBPcmdhbml6ZXIgYW5kIENoYWlyOiANCg0KU3ltcG9zaXVtIG9uIFN1c3RhaW5hYmxlIFRyYW5zaXQ6IERldmVsb3BpbmcgYW4gQWN0aW9uIEFnZW5kYSwgTWF5IDIwMTAsIHNwb25zb3JlZCBieSBDaXR5IENvbGxlZ2UgVVRSQywgUmVnaW9uIDINCg0KTllTRE9UIC0gQWZ0ZXIgdGhlIEdhcyBUYXgsQ29uZmVyZW5jZSBPcmdhbml6ZXIsIEhvc3QgYW5kIExlYWQgU3BlYWtlciwgU3lyYWN1c2UsIE5ZIE9jdCAyMDA4DQoNCkZ1dHVyZSBvZiBTdXN0YWluYWJsZSBDb25zdHJ1Y3Rpb24gSW5kdXN0cnkgaW4gTllDLCBNYXkgMjAwNCwgc3BvbnNvcnM6IE5ZQyBERVAsIE5ZIEJ1aWxkaW5nIENvbmdyZXNzLCBOZXdtYW4gSW5zdCwgQ1VOWSBDb25zb3J0aXVtDQpQYXJ0bmVyc2hpcHMgZm9yIE5ldyBZb3JrLCBJbm5vdmF0aXZlIFRyYW5zcG9ydGF0aW9uIEZpbmFuY2luZyBhbmQgQ29udHJhY3RpbmcgU3RyYXRlZ2llczogT3Bwb3J0dW5pdGllcyBmb3IgTmV3IFlvcmsgU3RhdGUsIE1hcmNoIDIwMDYsIHNwb25zb3JlZCBieSBOWVNET1QNCg0KQWZ0ZXIgdGhlIEdhcyBUYXg6IEZ1bmRpbmcgTllTIEluZnJhc3RydWN0dXJlLCBzcG9uc29yZWQgYnkgTllTRE9ULCBPY3QuIDIwMDgNCg0KSG9ub3JzOiANCg0KQW1lcmljYW4gU29jaWV0eSBvZiBDaXZpbCBFbmdpbmVlcnM6IEVsZWN0ZWQgdG8gRGlzdGluZ3Vpc2hlZCBNZW1iZXIsIEFTQ0UNCg0KQ291bmNpbCBvZiBVbml2ZXJzaXR5IFRyYW5zcG9ydGF0aW9uIENlbnRlcnM6IEF3YXJkIGZvciBEaXN0aW5ndWlzaGVkIENvbnRyaWJ1dGlvbnMgdG8gVW5pdmVyc2l0eSBFZHVjYXRpb24gYW5kIFJlc2VhcmNoIC0yMDExDQoNCkNvdW5jaWwgT24gVHJhbnNwb3J0YXRpb24sIE5ZVSBSdWRpbiBDZW50ZXIgZm9yIFRyYW5zcG9ydGF0aW9uIFBvbGljeSwgIkxpZmV0aW1lIEFjaGlldmVtZW50IEF3YXJkIiwgRmViIDIwMDkNCg0KUnV0Z2VycyBVbml2ZXJzaXR5LiBPdXRzdGFuZGluZyBDaXZpbCBFbmdpbmVlcmluZyBBbHVtbnVzLCBhd2FyZGVkIE5vdiAyMDAzDQoNClN1YmplY3Qgb2YgIlByb2ZpbGUiIGluIFRyYW5zcG9ydGF0aW9uIFJlc2VhcmNoIE5ld3MgKCBhIHB1YmxpY2F0aW9uIG9mIE5BUy9UUkIpICBTZXAndCwgMjAwMQ0KDQpTZWNyZXRhcnkncyBNZWRhbCBmb3IgRGlzdGluZ3Vpc2hlZCBTZXJ2aWNlLCBVU0RPVCwgMTk3Ng0KDQoNCkxlYWRlcnNoaXA6DQoNCkV4ZWN1dGl2ZSBCb2FyZCBNZW1iZXIsIE5ZVSBJbnN0aXR1dGUgZm9yIENpdmlsIEluZnJhc3RydWN0dXJlIFN5c3RlbXMNCkJvYXJkIG9mIERpcmVjdG9yczogWW9yayBDb2xsZWdlIEF2aWF0aW9uIEluc3RpdHV0ZQ0KQm9hcmQgb2YgRGlyZWN0b3JzLCBOZXcgWW9yayBUcmFuc3BvcnRhdGlvbiBDb3VuY2lsDQpTcGVjaWFsIEFkdmlzb3Igb24gU3RyYXRlZ2ljIFBsYW4gdG8gUG9ydCBBdXRob3JpdHkgb2YgTlkmTkoNCkdvdmVybmluZyBDb3VuY2lsIEJvYXJkLCBDVU5ZIFNjaG9vbCBvZiBQcm9mZXNzaW9uYWwgU3R1ZGllcw0KQm9hcmQgb2YgQWR2aXNvcnMsIENVTlkgSW5zdGl0dXRlIGZvciBOYXR1cmUgYW5kIHRoZSBSZWdpb25hbCBFbnZpcm9ubWVudA0KQm9hcmQgb2YgRGlyZWN0b3JzLCBOZXdtYW4gUmVhbCBFc3RhdGUgSW5zdGl0dXRlIGF0IEJhcnVjaCBDb2xsZWdlIA0KQ28tQ2hhaXIsIENVTlkgU3VzdGFpbmFiaWxpdHkgVGFzayBGb3JjZQ0KQXBwb2ludGVkIE1lbWJlciBFeGVjdXRpdmUgQ29tbWl0dGVlLCBDb3VuY2lsIG9uIFVuaXZlcnNpdHkgVHJhbnNwb3J0YXRpb24gQ2VudGVycw0KDQpFZGl0b3JpYWwgQm9hcmRzOg0KDQpKb3VybmFsIG9mIFRyYW5zcG9ydGF0aW9uDQpKb3VybmFsIG9mIFVyYmFuIFRlY2hub2xvZ3kNCkpvdXJuYWwgb2YgUHVibGljIFRyYW5zcG9ydA0KDQoNCg0KDQoNClBBR0UgIA0KDQoNClBBR0UgIDExDQpNYXksIDIwMTE=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913501306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

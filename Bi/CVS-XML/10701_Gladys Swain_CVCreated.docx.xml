@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:13 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2913510306521"  usageLimitType="allocation" usageLimit="200" currentUsage="39" remainingUsage="161" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Swain Gladys M</FormattedName>
+<GivenName>Swain</GivenName>
+<MiddleName>Gladys</MiddleName>
+<FamilyName>M</FamilyName>
+</PersonName>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Professor of Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Tennessee State University.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeMajor>
+<Name>and</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>U3dhaW4sIEdsYWR5cyBNLiAoMTk3OCkgDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3Igb2YgQmlvbG9neSANCg0KQi5TLiBhbmQgTS5TLiwgVGVubmVzc2VlIFN0YXRlIFVuaXZlcnNpdHku</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2913510306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

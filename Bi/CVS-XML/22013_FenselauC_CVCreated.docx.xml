@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:02 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912340306521"  usageLimitType="allocation" usageLimit="200" currentUsage="70" remainingUsage="130" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Catherine Fenselau Professor</FormattedName>
+<GivenName>Catherine</GivenName>
+<MiddleName>Fenselau</MiddleName>
+<FamilyName>Professor</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>business</Use>
+<Location>office</Location>
+<WhenAvailable>daytime</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (301) 405-8616</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>301</AreaCityCode>
+<SubscriberNumber>405-8616</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>fenselau@umd.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>University of Maryland</EmployerOrgName>
+<PositionHistory>
+<Title>Professor, Dept. of Chemistry &amp; Biochemistry</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Member
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Univ. Maryland Med.</EmployerOrgName>
+<PositionHistory>
+<Title>Greenebaum Cancer Center</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>School</EmployerOrgName>
+<PositionHistory>
+<Title>Affiliate faculty</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Univ. of Maryland</EmployerOrgName>
+<PositionHistory>
+<Title>Chair, Dept. of Chemistry &amp; Biochemistry, University of Maryland</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Fischell Dept of Bioengineering * Chair, Dept. of Chemistry &amp; Biochemistry, University of Maryland
+</Description>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Professor and Chair</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Dept. of Chemistry &amp; Biochemistry, Univ. Maryland Baltimore County
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research, UMBC</EmployerOrgName>
+<PositionHistory>
+<Title>Interim Dean of the Graduate School &amp; Assoc. Vice President</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Science</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor to Professor, Dept. of Pharmacology and Molec</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Johns Hopkins Univ. Sch. of Med.</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1967-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1987-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Kansai Univ.</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor, Univ</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>UK</Region>
+<Municipality>Warwick</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1986-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1986-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Exchange Lecturer Moscow Institute of Physics &amp; Technology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>UK</Region>
+<Municipality>Warwick</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1980-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1980-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research Interests</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Mechanisms of acquired and innate drug resistance in tumors new methods for proteomics rapid identification of environmental microorganisms.
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Bryn Mawr College</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>PA</Region>
+<Municipality>Bryn Mawr</Municipality>
+</PostalAddress>
+<Degree>
+<DegreeName>A.B</DegreeName>
+<DegreeDate>
+<AnyDate>1961-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Stanford University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1965-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Organic Chemistry</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ. Calif. Berkeley</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1966-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Postdoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ. Calif. Berkeley</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>Melvin Calvin AAUW</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ. Calif. Berkeley</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>1967-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Postdoctoral</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Enrichment of plasma membrane proteins using nanoparticle pellicles: comparison between silica and higher density nanoparticles</Title>
+<Name role="author">
+<FormattedName>Choksawangkarn, W., Kim, S., Cannon, J., Edwards, N., Lee, S.B. and Fenselau, C</FormattedName>
+</Name>
+<JournalOrSerialName>J. Proteome Res</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Proteomic Identification and Analysis of K63-linked Ubiquitin Conjugates</Title>
+<Name role="author">
+<FormattedName>Cannon, J., Nakasone, M., Fushman, D. and Fenselau, C</FormattedName>
+</Name>
+<JournalOrSerialName>Anal</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Comparative Study of Workflows Optimized for In-gel</Title>
+<Name role="author">
+<FormattedName>Choksawangkarn, W., Edwards, N., Wang, Y., Gutierrez, P. and Fenselau, C</FormattedName>
+</Name>
+<JournalOrSerialName>In-solution and On-filter Proteolysis in the Analysis of Plasma Membrane Proteins</JournalOrSerialName>
+</Article>
+<Article>
+<Title>C. Fenselau and P. Demirev</Title>
+<Name role="author">
+<FormattedName>Fenselau, C. and Demirev, P</FormattedName>
+</Name>
+<JournalOrSerialName>Rapid Characterization of Microorganisms by Mass Spectrometry: An Overview in &quot;Rapid Characterization of Microorganisms by Mass Spectrometry&quot; eds</JournalOrSerialName>
+</Article>
+<Article>
+<Title>High-throughput Middle-Down Analysis Using an Orbitrap</Title>
+<Name role="author">
+<FormattedName>Cannon, J., Lohnes, K., Wynne, C., Wang, Y. Edwards, N. and Fenselau, C</FormattedName>
+</Name>
+<JournalOrSerialName>Microwave Assisted Acid Cleavage for Denaturation and Proteolysis of Intact Human Adenovirus.International Journal of Mass Spectrometry</JournalOrSerialName>
+<Volume>2011).</Volume>
+<PageNumber>7-11</PageNumber>
+</Article>
+<Article>
+<Title>Phyloproteomic Classification of Unsequenced Organisms by Top-Down Identification of Bacterial Proteins using capLC-MS/MS on an Orbitrap</Title>
+<Name role="author">
+<FormattedName>Wynne, C., Edwards, N. and Fenselau, C</FormattedName>
+</Name>
+<JournalOrSerialName>Proteomics</JournalOrSerialName>
+<Volume>2010).</Volume>
+<PageNumber>3631-3643</PageNumber>
+</Article>
+<Article>
+<Title>Primary Sequence and Site-selective Hydroxylation of Prolines in Isoforms of a Major Peanut Allergen Protein Ara h 2</Title>
+<Name role="author">
+<FormattedName>Li, J., Shefcheck, K., Callahan, J. and Fenselau, C</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Protein Science 19: 174-182</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Cancer">
+<CompetencyEvidence name ="Cancer">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">8</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Microsoft Exchange">
+<CompetencyEvidence name ="Microsoft Exchange">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pharmacology">
+<CompetencyEvidence name ="Pharmacology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Associations>
+<Association>
+<Name>ASMS, ACS, ASPET, AACR, HUPO, USHUPO</Name>
+</Association>
+<Association>
+<Name>Major Recognitions and Honors</Name>
+</Association>
+<Association>
+<Name>Distinguished Contribution Award, American Society for Mass Spectrometry 2012</Name>
+</Association>
+<Association>
+<Name>Board of Trustees, Maryland Science Center</Name>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Internat.Mass Spectrom.Foundation Thomson Medal 2009</Name>
+</Association>
+<Association>
+<Name>ACS Field &amp; Franklin Award for Contributions in Mass spectrom.</Name>
+</Association>
+<Association>
+<Name>Braude Award, ACS Chesapeake Section, 2006</Name>
+</Association>
+<Association>
+<Name>Honorary Foreign Member of the Japanese Society for Mass Spectrometry</Name>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Hillebrand Prize, ACS Capitol Section</Name>
+</Association>
+<Association>
+<Name>AnaChem Award 2003</Name>
+</Association>
+<Association>
+<Name>Elected Fellow of the American Association for the Advancement of Science 2001</Name>
+</Association>
+<Association>
+<Name>Eastern Analytical Symposium Award for Achievements in Analytical Chemistry 1999</Name>
+</Association>
+<Association>
+<Name>Robert and Jane Meyerhof Chair in Biochemistry</Name>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-01-01</AnyDate>
+</EndDate>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Medal of the Spectroscopy Society of Pittsburgh 1993</Name>
+</Association>
+<Association>
+<Name>NIH Merit award</Name>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Maryland Chemist Award, ACS Chesapeake Section1989</Name>
+</Association>
+<Association>
+<Name>ACS Garvan Medal, 1985</Name>
+</Association>
+<Association>
+<Name>Best Paper of the Year in Drug Metabolism Disposition 1982</Name>
+</Association>
+<Association>
+<Name>NIH Research Career Development Award</Name>
+<StartDate>
+<AnyDate>1970-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1974-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Fellow, American Association of University Women 1965-1966.</Name>
+</Association>
+<Association>
+<Name>Significant Professional Service and Activities</Name>
+</Association>
+<Association>
+<Name>National Research Council Board on Chemical Sciences and Technology NIH: study section Medicinal Chemistry B</Name>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>study section Pharmacological Sciences</Name>
+<StartDate>
+<AnyDate>1975-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1979-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Council member, Institute for Research Resources</Name>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>NSF: Director&apos;s Advisory Council</Name>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>ACS: Associate Editor Analytical Chemistry</Name>
+<StartDate>
+<AnyDate>1979-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1983-01-01</AnyDate>
+</EndDate>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>Chair Analytical Chemistry Division</Name>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Division Councilor</Name>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>International Human Proteome Organization (HUPO):</Name>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2013-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Vice President Service Award 2006 U.S.HUPO:</Name>
+<StartDate>
+<AnyDate>2007-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>founding president American Society for Mass Spectrometry:</Name>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+<Role><Name>President</Name></Role>
+</Association>
+<Association>
+<Name>President Founding Editor Biological Mass Spectrometry (now Journal of Mass Spectrometry)</Name>
+<StartDate>
+<AnyDate>1982-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1984-01-01</AnyDate>
+</EndDate>
+<Role><Name>President</Name></Role>
+</Association>
+<Association>
+<Name>Editorial Advisory Boards (current &amp; past):</Name>
+<StartDate>
+<AnyDate>1973-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1989-01-01</AnyDate>
+</EndDate>
+<Role><Name>Editor</Name></Role>
+</Association>
+<Association>
+<Name>J.</Name>
+</Association>
+<Association>
+<Name>Proteome Research</Name>
+</Association>
+<Association>
+<Name>Clinical Proteomics</Name>
+</Association>
+<Association>
+<Name>Protein Structure, Function and Genetics</Name>
+</Association>
+<Association>
+<Name>Mass Spectrometry Reviews</Name>
+</Association>
+<Association>
+<Name>Drug Discovery</Name>
+</Association>
+<Association>
+<Name>Drug Metabolism and Disposition</Name>
+</Association>
+<Association>
+<Name>Journal of Mass Spectrometry</Name>
+</Association>
+<Association>
+<Name>Biological Mass Spectrometry</Name>
+</Association>
+<Association>
+<Name>Pharmaceutical and Biomedical Analysis</Name>
+</Association>
+<Association>
+<Name>Chemical Research in Toxicology</Name>
+</Association>
+<Association>
+<Name>Journal of the Amer.</Name>
+</Association>
+<Association>
+<Name>Soc.</Name>
+</Association>
+<Association>
+<Name>Mass Spectrometry</Name>
+</Association>
+<Association>
+<Name>Chemical &amp; Engineering News.</Name>
+</Association>
+<Association>
+<Name>Students Mentored</Name>
+</Association>
+<Association>
+<Name>More than 150 post-doctoral fellows, graduate students and undergraduate students have received training in Dr.</Name>
+</Association>
+<Association>
+<Name>Fenselau&apos;s laboratories at Johns Hopkins Med School, UMBC and the University of Maryland.</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2F0aGVyaW5lIEZlbnNlbGF1DQoNClByb2Zlc3Nvcg0KDQpQZXJzb25hbCBEYXRhDQoNCiogT2ZmaWNlIFBob25lOsKgMzAxLTQwNS04NjE2DQoNCiogT2ZmaWNlIEFkZHJlc3M6wqAxNTA0QQ0KDQoqIEVtYWlsOsKgZmVuc2VsYXVAdW1kLmVkdQ0KDQoqIFVSTDrCoGh0dHA6Ly93d3cyLmNoZW0udW1kLmVkdS9ncm91cHMvZmVuc2VsYXUvaW5kZXguaHRtbA0KDQpFZHVjYXRpb24NCg0KKiBBLkIuIENoZW1pc3RyeSAxOTYxLCBCcnluIE1hd3IgQ29sbGVnZSwgQnJ5biBNYXdyLCBQQQ0KDQoqIFBoLkQuwqBPcmdhbmljIENoZW1pc3RyecKgMTk2NSwgU3RhbmZvcmQgVW5pdmVyc2l0eSAod2l0aCBDYXJsIERqZXJhc3NpKQ0KDQoqIFBvc3Rkb2N0b3JhbCBGZWxsb3cgMTk2NiwgVW5pdi4gQ2FsaWYuIEJlcmtlbGV5LCAod2l0aCBNZWx2aW4gQ2FsdmluKSAoQUFVVyBGZWxsb3dzaGlwKQ0KDQoqIFBvc3Rkb2N0b3JhbCBGZWxsb3cgMTk2NywgTkFTQSBTcGFjZSBTY2llbmNlcyBMYWJvcmF0b3J5ICh3aXRoIE1lbHZpbiBDYWx2aW4gYW5kIEEuTC4gQnVybGluZ2FtZSkNCg0KUHJvZmVzc2lvbmFsIEV4cGVyaWVuY2UNCg0KKiBQcm9mZXNzb3IsIERlcHQuIG9mIENoZW1pc3RyeSAmIEJpb2NoZW1pc3RyeSwgVW5pdmVyc2l0eSBvZiBNYXJ5bGFuZCwgMTk5OC1wcmVzZW50Ow0KDQoqIE1lbWJlciwgR3JlZW5lYmF1bSBDYW5jZXIgQ2VudGVyLCBVbml2LiBNYXJ5bGFuZCBNZWQuIFNjaG9vbCwgMjAwMS1wcmVzZW50Ow0KDQoqIEFmZmlsaWF0ZSBmYWN1bHR5LCBGaXNjaGVsbCBEZXB0IG9mIEJpb2VuZ2luZWVyaW5nLCBVbml2LiBvZiBNYXJ5bGFuZCwgMjAwNy1wcmVzZW50Ow0KDQoqIENoYWlyLCBEZXB0LiBvZiBDaGVtaXN0cnkgJiBCaW9jaGVtaXN0cnksIFVuaXZlcnNpdHkgb2YgTWFyeWxhbmQsIDE5OTgtMjAwMC4NCg0KKiBQcm9mZXNzb3IgYW5kIENoYWlyLCBEZXB0LiBvZiBDaGVtaXN0cnkgJiBCaW9jaGVtaXN0cnksIFVuaXYuIE1hcnlsYW5kIEJhbHRpbW9yZSBDb3VudHksIDE5ODctMTk5OA0KDQoqIEludGVyaW0gRGVhbiBvZiB0aGUgR3JhZHVhdGUgU2Nob29sICYgQXNzb2MuIFZpY2UgUHJlc2lkZW50IGZvciBSZXNlYXJjaCwgVU1CQyAxOTk1LTE5OTYNCg0KKiBJbnN0cnVjdG9yIHRvIFByb2Zlc3NvciwgRGVwdC4gb2YgUGhhcm1hY29sb2d5IGFuZCBNb2xlYy4gU2NpZW5jZSwgSm9obnMgSG9wa2lucyBVbml2LiBTY2guIG9mIE1lZC4sIDE5NjctMTk4Nw0KDQoqIFZpc2l0aW5nIFByb2Zlc3NvciwgS2Fuc2FpIFVuaXYuIChKYXBhbikgMTk4NjsNCg0KKiBWaXNpdGluZyBQcm9mZXNzb3IsIFVuaXYuIFdhcndpY2sgKFVLKSAxOTgwOw0KDQoqIEV4Y2hhbmdlIExlY3R1cmVyIE1vc2NvdyBJbnN0aXR1dGUgb2YgUGh5c2ljcyAmIFRlY2hub2xvZ3kgMTk5MS4NCg0KUmVzZWFyY2ggSW50ZXJlc3RzDQoNCk1lY2hhbmlzbXMgb2YgYWNxdWlyZWQgYW5kIGlubmF0ZSBkcnVnIHJlc2lzdGFuY2UgaW4gdHVtb3JzOyBuZXcgbWV0aG9kcyBmb3IgcHJvdGVvbWljczsgcmFwaWQgaWRlbnRpZmljYXRpb24gb2YgZW52aXJvbm1lbnRhbCBtaWNyb29yZ2FuaXNtcy4NCg0KDQoNClByb2Zlc3Npb25hbCBTb2NpZXRpZXMNCg0KQVNNUywgQUNTLCBBU1BFVCwgQUFDUiwgSFVQTywgVVNIVVBPDQoNCk1ham9yIFJlY29nbml0aW9ucyBhbmQgSG9ub3JzDQoNCiogRGlzdGluZ3Vpc2hlZCBDb250cmlidXRpb24gQXdhcmQsIEFtZXJpY2FuIFNvY2lldHkgZm9yIE1hc3MgU3BlY3Ryb21ldHJ5IDIwMTINCg0KKiBCb2FyZCBvZiBUcnVzdGVlcywgTWFyeWxhbmQgU2NpZW5jZSBDZW50ZXIgMTk5OC0yMDEwOw0KDQoqIEludGVybmF0Lk1hc3MgU3BlY3Ryb20uRm91bmRhdGlvbiBUaG9tc29uIE1lZGFsIDIwMDk7DQoNCiogQUNTIEZpZWxkICYgRnJhbmtsaW4gQXdhcmQgZm9yIENvbnRyaWJ1dGlvbnMgaW4gTWFzcyBzcGVjdHJvbS4gMjAwODsNCg0KKiBCcmF1ZGUgQXdhcmQsIEFDUyBDaGVzYXBlYWtlIFNlY3Rpb24sIDIwMDY7DQoNCiogSG9ub3JhcnkgRm9yZWlnbiBNZW1iZXIgb2YgdGhlIEphcGFuZXNlIFNvY2lldHkgZm9yIE1hc3MgU3BlY3Ryb21ldHJ5IDIwMDYtcHJlc2VudDsNCg0KKiBIaWxsZWJyYW5kIFByaXplLCBBQ1MgQ2FwaXRvbCBTZWN0aW9uOyBBbmFDaGVtIEF3YXJkIDIwMDM7DQoNCiogRWxlY3RlZCBGZWxsb3cgb2YgdGhlIEFtZXJpY2FuIEFzc29jaWF0aW9uIGZvciB0aGUgQWR2YW5jZW1lbnQgb2YgU2NpZW5jZSAyMDAxOw0KDQoqIEVhc3Rlcm4gQW5hbHl0aWNhbCBTeW1wb3NpdW0gQXdhcmQgZm9yIEFjaGlldmVtZW50cyBpbsKgQW5hbHl0aWNhbCBDaGVtaXN0cnnCoDE5OTk7DQoNCiogUm9iZXJ0IGFuZCBKYW5lIE1leWVyaG9mIENoYWlyIGluIEJpb2NoZW1pc3RyeSAxOTk3LTE5OTg7DQoNCiogTWVkYWwgb2YgdGhlIFNwZWN0cm9zY29weSBTb2NpZXR5IG9mIFBpdHRzYnVyZ2ggMTk5MzsNCg0KKiBOSUggTWVyaXQgYXdhcmQgMTk5MS0yMDAxOw0KDQoqIE1hcnlsYW5kIENoZW1pc3QgQXdhcmQsIEFDUyBDaGVzYXBlYWtlIFNlY3Rpb24xOTg5Ow0KDQoqIEFDUyBHYXJ2YW4gTWVkYWwsMTk4NTsgQmVzdCBQYXBlciBvZiB0aGUgWWVhciBpbiBEcnVnIE1ldGFib2xpc20gRGlzcG9zaXRpb24gMTk4MjsNCg0KKiBOSUggUmVzZWFyY2ggQ2FyZWVyIERldmVsb3BtZW50IEF3YXJkIDE5NzAtMTk3NDsNCg0KKiBGZWxsb3csIEFtZXJpY2FuIEFzc29jaWF0aW9uIG9mIFVuaXZlcnNpdHkgV29tZW4gMTk2NS0xOTY2Lg0KDQpTaWduaWZpY2FudCBQcm9mZXNzaW9uYWwgU2VydmljZSBhbmQgQWN0aXZpdGllcw0KDQoNCg0KTmF0aW9uYWwgUmVzZWFyY2ggQ291bmNpbCBCb2FyZCBvbiBDaGVtaWNhbCBTY2llbmNlcyBhbmQgVGVjaG5vbG9neSAyMDAwLTIwMDY7IE5JSDogc3R1ZHkgc2VjdGlvbiBNZWRpY2luYWwgQ2hlbWlzdHJ5IEIgMTk3NS0xOTc5OyBzdHVkeSBzZWN0aW9uIFBoYXJtYWNvbG9naWNhbCBTY2llbmNlcyAxOTg5LTE5OTM7IENvdW5jaWwgbWVtYmVyLCBJbnN0aXR1dGUgZm9yIFJlc2VhcmNoIFJlc291cmNlcyAyMDAzLTIwMDc7IE5TRjogRGlyZWN0b3IncyBBZHZpc29yeSBDb3VuY2lsIDE5NzktMTk4MzsgQUNTOiBBc3NvY2lhdGUgRWRpdG9ywqBBbmFseXRpY2FsIENoZW1pc3RyecKgMTk5MC1wcmVzZW50OyBDaGFpcsKgQW5hbHl0aWNhbCBDaGVtaXN0cnnCoERpdmlzaW9uIDIwMDEtMjAwMjsgRGl2aXNpb24gQ291bmNpbG9yIDIwMDUtMjAxMzsgSW50ZXJuYXRpb25hbCBIdW1hbiBQcm90ZW9tZSBPcmdhbml6YXRpb24gKEhVUE8pOiBWaWNlIFByZXNpZGVudCwgMjAwNy0yMDA4OyBTZXJ2aWNlIEF3YXJkIDIwMDY7IFUuUy5IVVBPOiBmb3VuZGluZyBwcmVzaWRlbnQgMjAwNC0yMDA2OyBBbWVyaWNhbiBTb2NpZXR5IGZvciBNYXNzIFNwZWN0cm9tZXRyeTogUHJlc2lkZW50IDE5ODItMTk4NDsgRm91bmRpbmcgRWRpdG9yIEJpb2xvZ2ljYWwgTWFzcyBTcGVjdHJvbWV0cnkgKG5vdyBKb3VybmFsIG9mIE1hc3MgU3BlY3Ryb21ldHJ5KSAxOTczLTE5ODk7IEVkaXRvcmlhbCBBZHZpc29yeSBCb2FyZHMgKGN1cnJlbnQgJiBwYXN0KTogSi4gUHJvdGVvbWUgUmVzZWFyY2g7IENsaW5pY2FsIFByb3Rlb21pY3M7IFByb3RlaW4gU3RydWN0dXJlLCBGdW5jdGlvbiBhbmQgR2VuZXRpY3M7IE1hc3MgU3BlY3Ryb21ldHJ5IFJldmlld3M7IERydWcgRGlzY292ZXJ5OyBEcnVnIE1ldGFib2xpc20gYW5kIERpc3Bvc2l0aW9uOyBKb3VybmFsIG9mIE1hc3MgU3BlY3Ryb21ldHJ5OyBCaW9sb2dpY2FsIE1hc3MgU3BlY3Ryb21ldHJ5OyBQaGFybWFjZXV0aWNhbCBhbmQgQmlvbWVkaWNhbCBBbmFseXNpczsgQ2hlbWljYWwgUmVzZWFyY2ggaW4gVG94aWNvbG9neTsgSm91cm5hbCBvZiB0aGUgQW1lci4gU29jLiBNYXNzIFNwZWN0cm9tZXRyeTsgQ2hlbWljYWwgJiBFbmdpbmVlcmluZyBOZXdzLg0KDQoNCg0KU3R1ZGVudHMgTWVudG9yZWQNCg0KDQoNCk1vcmUgdGhhbiAxNTAgcG9zdC1kb2N0b3JhbCBmZWxsb3dzLCBncmFkdWF0ZSBzdHVkZW50cyBhbmQgdW5kZXJncmFkdWF0ZSBzdHVkZW50cyBoYXZlIHJlY2VpdmVkIHRyYWluaW5nIGluIERyLiBGZW5zZWxhdSdzIGxhYm9yYXRvcmllcyBhdCBKb2hucyBIb3BraW5zIE1lZCBTY2hvb2wsIFVNQkMgYW5kIHRoZSBVbml2ZXJzaXR5IG9mIE1hcnlsYW5kLg0KDQoNCg0KDQoNClB1YmxpY2F0aW9ucw0KDQpDaG9rc2F3YW5na2FybiwgVy4sIEtpbSwgUy4sIENhbm5vbiwgSi4sIEVkd2FyZHMsIE4uLCBMZWUsIFMuQi4gYW5kwqBGZW5zZWxhdSwgQy7CoEVucmljaG1lbnQgb2YgcGxhc21hIG1lbWJyYW5lIHByb3RlaW5zIHVzaW5nIG5hbm9wYXJ0aWNsZSBwZWxsaWNsZXM6IGNvbXBhcmlzb24gYmV0d2VlbiBzaWxpY2EgYW5kIGhpZ2hlciBkZW5zaXR5IG5hbm9wYXJ0aWNsZXMuwqBKLiBQcm90ZW9tZSBSZXMuwqBET0k6IDEwLjEwMjEvcHIzMDExMDd4ICgyMDEzKS4NCg0KQ2Fubm9uLCBKLiwgTmFrYXNvbmUsIE0uLCBGdXNobWFuLCBELiBhbmTCoEZlbnNlbGF1LCBDLsKgUHJvdGVvbWljIElkZW50aWZpY2F0aW9uIGFuZCBBbmFseXNpcyBvZiBLNjMtbGlua2VkIFViaXF1aXRpbiBDb25qdWdhdGVzLsKgQW5hbC4gQ2hlbS7CoDg0OiAxMDEyMS0xMDEyOCAoMjAxMikuDQoNCkNob2tzYXdhbmdrYXJuLCBXLiwgRWR3YXJkcywgTi4sIFdhbmcsIFkuLCBHdXRpZXJyZXosIFAuIGFuZMKgRmVuc2VsYXUsIEMuIENvbXBhcmF0aXZlIFN0dWR5IG9mIFdvcmtmbG93cyBPcHRpbWl6ZWQgZm9yIEluLWdlbCwgSW4tc29sdXRpb24gYW5kIE9uLWZpbHRlciBQcm90ZW9seXNpcyBpbiB0aGUgQW5hbHlzaXMgb2YgUGxhc21hIE1lbWJyYW5lIFByb3RlaW5zLsKgSi4gUHJvdGVvbWUgUmVzZWFyY2jCoDExOiAzMDMwLTMwMzQgKDIwMTIpLg0KDQpGZW5zZWxhdSwgQy7CoGFuZCBEZW1pcmV2LCBQLiBSYXBpZCBDaGFyYWN0ZXJpemF0aW9uIG9mIE1pY3Jvb3JnYW5pc21zIGJ5IE1hc3MgU3BlY3Ryb21ldHJ5OiBBbiBPdmVydmlldywgaW4gIlJhcGlkIENoYXJhY3Rlcml6YXRpb24gb2YgTWljcm9vcmdhbmlzbXMgYnkgTWFzcyBTcGVjdHJvbWV0cnkiIGVkcy4gQy4gRmVuc2VsYXUgYW5kIFAuIERlbWlyZXYsIEFtZXJpY2FuIENoZW1pY2FsIFNvY2lldHksIFdhc2hpbmd0b24sIERDLCBwcC4gMS00ICgyMDExKS4NCg0KRmVuc2VsYXUsIEMuLCBMYWluZSwgTy4sIGFuZCBTd2F0a29za2ksIFMuIE1pY3Jvd2F2ZSBBc3Npc3RlZCBBY2lkIENsZWF2YWdlIGZvciBEZW5hdHVyYXRpb24gYW5kIFByb3Rlb2x5c2lzIG9mIEludGFjdCBIdW1hbiBBZGVub3ZpcnVzLkludGVybmF0aW9uYWwgSm91cm5hbCBvZiBNYXNzIFNwZWN0cm9tZXRyecKgMzAxLCA3LTExICgyMDExKS4gUE1JRDogMjE0OTk1MTggUE1DSUQ6IFBNQzMwNzY2ODcuDQoNCkNhbm5vbiwgSi4sIExvaG5lcywgSy4sIFd5bm5lLCBDLiwgV2FuZywgWS4gRWR3YXJkcywgTi4gYW5kwqBGZW5zZWxhdSwgQy4gSGlnaC10aHJvdWdocHV0wqBNaWRkbGUtRG93biBBbmFseXNpcyBVc2luZyBhbiBPcmJpdHJhcC7CoEouIFByb3QuIFJlcy7CoDksIDM4ODYtMzg5MCAoMjAxMCkuDQoNCld5bm5lLCBDLiwgRWR3YXJkcywgTi4gYW5kwqBGZW5zZWxhdSwgQy4gUGh5bG9wcm90ZW9taWMgQ2xhc3NpZmljYXRpb24gb2YgVW5zZXF1ZW5jZWQgT3JnYW5pc21zIGJ5IFRvcC1Eb3duIElkZW50aWZpY2F0aW9uIG9mIEJhY3RlcmlhbCBQcm90ZWlucyB1c2luZyBjYXBMQy1NUy9NUyBvbiBhbiBPcmJpdHJhcC4gUHJvdGVvbWljc8KgMTAsIDM2MzEtMzY0MyAoMjAxMCkuDQoNCkxpLCBKLiwgU2hlZmNoZWNrLCBLLiwgQ2FsbGFoYW4sIEouIGFuZMKgRmVuc2VsYXUsIEMuwqBQcmltYXJ5IFNlcXVlbmNlIGFuZCBTaXRlLXNlbGVjdGl2ZSBIeWRyb3h5bGF0aW9uIG9mIFByb2xpbmVzIGluIElzb2Zvcm1zIG9mIGEgTWFqb3IgUGVhbnV0IEFsbGVyZ2VuIFByb3RlaW4gQXJhIGggMi7CoFByb3RlaW4gU2NpZW5jZcKgMTk6IDE3NC0xODIgKDIwMTApLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912340306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

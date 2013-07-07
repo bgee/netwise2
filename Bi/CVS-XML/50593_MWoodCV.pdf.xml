@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:14:54 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910243306521"  usageLimitType="allocation" usageLimit="200" currentUsage="122" remainingUsage="78" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>California Stanford</FormattedName>
+<GivenName>California</GivenName>
+<FamilyName>Stanford</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (2011) 1756-1771</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>2011</AreaCityCode>
+<SubscriberNumber>1756-1771</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>mwood@math.stanford.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Stanford University</EmployerOrgName>
+<PositionHistory>
+<Title>American Institute of Mathematics Five-Year Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<PostalCode>94305</PostalCode>
+<Region>California</Region>
+<Municipality>Stanford</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Department of Mathematics Building 380 mwood@math.stanford.edu Research interests: number theory and algebraic geometry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Szeg ï¿½ Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Princeton University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics .</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Cambridge Trinity College . .</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>with Distinction.</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+<Comments>Certiï¬cate of Advanced Study in Mathematics Part III of the Mathematics Tripos</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Duke University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics .</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Highest Honors</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Clay Mathematics Institute Liftoï¬</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Science Foundation Grant DMS-1001083 .</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University Women</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<Comments>Dissertation Fellowship . . . . . . . . . . . . . . . . . . . . . . . .</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>National Defense Science and Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>AMS-MAA-SIAM Morgan Prize</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>for Outstanding Research in Mathematics by an</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>the U.S. or Canada .</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Student</Name>
+</DegreeMajor>
+<Comments>top results of Part III Mathematics examinations, Trinity College, University of Cambridge . . . . . .</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>the U.S. or Canada .</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>National Science Foundation</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>the U.S. or Canada .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2003-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Alice T. Schafer Prize for</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Putnam</Municipality>
+</PostalAddress>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeMajor>
+<Name>William Lowell Putnam Mathematical Competition</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Northwestern Number Theory Seminar . .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Elliptic Curves and Computation . .</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California Berkeley Commutative Algebra and Algebraic Geometry Seminar . .</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Vermont Number Theory Seminar at McGill .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Qu&apos;bec</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Florida . . .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeMajor>
+<Name>Forms Conference</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Rutgers University Colloquium . .</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Rutgers University Number Theory Seminar . .</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Texas at Austin Algebra</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Number Theory and Combinatorics Seminar .</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Texas A&amp;M Number Theory Seminar . .</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wisconsin Madison Number Theory Seminar . .</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Arizona Number Theory Seminar . .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeMajor>
+<Name>of Low Rank Workshop</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Leiden</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>NL</CountryCode>
+</PostalAddress>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Center</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Pennsylvania Galois Seminar . .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>General Audience Talks</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Humboldt State University . .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Kieval Lecture</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Minnesota Duluth Colloquium and Public Talk. .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Area Mathematical Olympiad Awards Ceremony Keynote Speaker .</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>American University Colloquium and Public Talk . .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Session Speaker .</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>McGraw Teaching and Learning Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Princeton University . .</SchoolName>
+</School>
+<Degree degreeType="fellowship">
+<DegreeName>Fellowship</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>and taught training for</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Princeton University . .</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>graduate</DegreeName>
+<DegreeMajor>
+<Name>teaching assistants, observed and gave feedback to graduate student</Name>
+</DegreeMajor>
+<Comments>trainer, National Science Foundation funded instructional video Technically Speaking aimed</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>First USA Girls Math Olympiad Team . .</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2008-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>students learning to give mathematics talks</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>US teams of high school girls to compete</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>successful grant proposal for $87,000 budget to train two</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TWVsYW5pZSBNYXRjaGV0dCBXb29kDQoNCiAgICAgICAgICAgICBTdGFuZm9yZCBVbml2ZXJzaXR5LCBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzLCBCdWlsZGluZyAzODAsIFN0YW5mb3JkLCBDYWxpZm9ybmlhIDk0MzA1DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtd29vZEBtYXRoLnN0YW5mb3JkLmVkdQ0KDQpSZXNlYXJjaCBpbnRlcmVzdHM6IG51bWJlciB0aGVvcnkgYW5kIGFsZ2VicmFpYyBnZW9tZXRyeQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBvc2l0aW9ucw0KDQpBbWVyaWNhbiBJbnN0aXR1dGUgb2YgTWF0aGVtYXRpY3MgRml2ZS1ZZWFyIEZlbGxvdyAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDktcHJlc2VudA0KDQogICAgICAgICAgICAgICAgICAgICAgICBvDQoNClN0YW5mb3JkIFVuaXZlcnNpdHkgU3plZ8KoIEFzc2lzdGFudCBQcm9mZXNzb3IgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDktcHJlc2VudA0KDQoNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBFZHVjYXRpb24NCg0KUHJpbmNldG9uIFVuaXZlcnNpdHkgUGguRC4gaW4gTWF0aGVtYXRpY3MgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA0LTIwMDkNCg0KVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UsIFRyaW5pdHkgQ29sbGVnZSAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDMtMjAwNA0KDQpDZXJ0ae+sgWNhdGUgb2YgQWR2YW5jZWQgU3R1ZHkgaW4gTWF0aGVtYXRpY3MgKFBhcnQgSUlJIG9mIHRoZSBNYXRoZW1hdGljcyBUcmlwb3MpLCB3aXRoIERpc3RpbmN0aW9uLg0KDQpEdWtlIFVuaXZlcnNpdHkgQi5TLiB3aXRoIEhpZ2hlc3QgSG9ub3JzIGluIE1hdGhlbWF0aWNzIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLjE5OTktMjAwMw0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBhcGVycw0KDQoiR2F1c3MgY29tcG9zaXRpb24gb3ZlciBhbiBhcmJpdHJhcnkgYmFzZSwiIEFkdmFuY2VzIGluIE1hdGhlbWF0aWNzIDIyNiAoMjAxMSkgMTc1Ni0xNzcxLg0KDQoiUmluZ3MgYW5kIGlkZWFscyBwYXJhbWV0cml6ZWQgYnkgYmluYXJ5IG4taWMgZm9ybXMsIiBKb3VybmFsIG9mIHRoZSBMb25kb24gTWF0aGVtYXRpY2FsIFNvY2lldHkNCg0KKDIpIDgzICgyMDExKSAyMDgtMjMxLg0KDQoiUGFyYW1ldHJpemluZyBxdWFydGljIHJpbmdzIG92ZXIgYW4gYXJiaXRyYXJ5IGJhc2UsIiB0byBhcHBlYXIgaW4gQWxnZWJyYSBhbmQgTnVtYmVyIFRoZW9yeS4NCg0KIlF1YXJ0aWMgcmluZ3MgYXNzb2NpYXRlZCB0byBiaW5hcnkgcXVhcnRpYyBmb3JtcywiIEludGVybmF0aW9uYWwgTWF0aGVtYXRpY3MgUmVzZWFyY2ggTm90aWNlcyAyMDExLg0KDQoiUGFyYW1ldHJpemF0aW9uIG9mIGlkZWFsIGNsYXNzZXMgaW4gcmluZ3MgYXNzb2NpYXRlZCB0byBiaW5hcnkgZm9ybXMsIiBwcmVwcmludC4NCg0KIlF1YXJ0aWMgcmluZ3Mgd2l0aCBxdWFkcmF0aWMgc3VicmluZ3Mgb3IgY3ViaWMgcXVvdGllbnRzLCIgcHJlcHJpbnQuDQoNCiJNYXBwaW5nIEluY2lkZW5jZXMsIiB3aXRoIFZhbiBILiBWdSBhbmQgUGhpbGlwIE1hdGNoZXR0IFdvb2QsIHRvIGFwcGVhciBpbiBKb3VybmFsIG9mIHRoZSBMb25kb24NCg0KTWF0aGVtYXRpY2FsIFNvY2lldHkuDQoNCiJPbiB0aGUgcHJvYmFiaWxpdGllcyBvZiBsb2NhbCBiZWhhdmlvcnMgaW4gYWJlbGlhbiDvrIFlbGQgZXh0ZW5zaW9ucywiIENvbXBvc2l0aW8gTWF0aGFtYXRpY2EgMTQ2DQoNCigyMDEwKSwgbm8uIDEsIDEwMi0xMjguDQoNCiJNYXNzIGZvcm11bGFzIGZvciBsb2NhbCBHYWxvaXMgcmVwcmVzZW50YXRpb25zIHRvIHdyZWF0aCBwcm9kdWN0cyBhbmQgY3Jvc3MgcHJvZHVjdHMsIiBBbGdlYnJhDQoNCmFuZCBOdW1iZXIgVGhlb3J5LCBWb2wuIDIgKDIwMDgpLCBOby4gNCwgMzkxLTQwNS4NCg0KIlRoZSBkZW5zaXR5IG9mIGRpc2NyaW1pbmFudHMgb2YgUzMgLXNleHRpYyBudW1iZXIg76yBZWxkcywiIHdpdGggTWFuanVsIEJoYXJnYXZhLCBQcm9jZWVkaW5ncyBvZiB0aGUNCg0KQW1lcmljYW4gTWF0aGVtYXRpY2FsIFNvY2lldHksIDEzNiAoMjAwOCksIDE1ODEtMTU4Ny4NCg0KIkJlbHlpLWV4dGVuZGluZyBtYXBzIGFuZCB0aGUgR2Fsb2lzIGFjdGlvbiBvbiBkZXNzaW5zIGQnZW5mYW50cywiIFB1YmxpY2F0aW9ucyBvZiB0aGUgUmVzZWFyY2gNCg0KSW5zdGl0dXRlIGZvciBNYXRoZW1hdGljYWwgU2NpZW5jZXMgNDIgKDIwMDYpLCBuby4gMywgNzIxLTczNy4NCg0KIlAtb3JkZXJpbmdzOiBhIG1ldHJpYyB2aWV3cG9pbnQgYW5kIHRoZSBub24tZXhpc3RlbmNlIG9mIHNpbXVsdGFuZW91cyBvcmRlcmluZ3MsIiBKb3VybmFsIG9mDQoNCk51bWJlciBUaGVvcnkgOTkgKDIwMDMpIDM2LTU2Lg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTZWxlY3RlZCBBd2FyZHMNCg0KTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIEdyYW50IERNUy0xMDAxMDgzIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDEwDQoNCkNsYXkgTWF0aGVtYXRpY3MgSW5zdGl0dXRlIExpZnRv76yAIEZlbGxvdyAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA5DQoNCkFtZXJpY2FuIEFzc29jaWF0aW9uIG9mIFVuaXZlcnNpdHkgV29tZW4gRGlzc2VydGF0aW9uIEZlbGxvd3NoaXAgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwOA0KDQogICAgICAgICAgICAgIGEgYQ0KDQpKb3NlcGhpbmUgRGUgSydybSduIERpc3NlcnRhdGlvbiBGZWxsb3dzaGlwIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDgNCg0KTmF0aW9uYWwgRGVmZW5zZSBTY2llbmNlIGFuZCBFbmdpbmVlcmluZyBHcmFkdWF0ZSBGZWxsb3dzaGlwIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA1DQoNCkFNUy1NQUEtU0lBTSBNb3JnYW4gUHJpemUNCg0KKGZvciBPdXRzdGFuZGluZyBSZXNlYXJjaCBpbiBNYXRoZW1hdGljcyBieSBhbiBVbmRlcmdyYWR1YXRlIFN0dWRlbnQgaW4gdGhlIFUuUy4gb3IgQ2FuYWRhKSAuIC4gLiAuIC4gMjAwMw0KDQpMZXNsaWUgV2Fsc2hhdyBQcml6ZSwgRXhhbWluYXRpb24gUHJpemUsIFJlc2VhcmNoIFNjaG9sYXJzaGlwLCBhbmQgU2VuaW9yIFNjaG9sYXJzaGlwDQoNCihmb3IgdG9wIHJlc3VsdHMgb2YgUGFydCBJSUkgTWF0aGVtYXRpY3MgZXhhbWluYXRpb25zKSwgVHJpbml0eSBDb2xsZWdlLCBVbml2ZXJzaXR5IG9mIENhbWJyaWRnZSAuIC4gLiAuIC4gLiAyMDA0DQoNCk5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiBHcmFkdWF0ZSBSZXNlYXJjaCBGZWxsb3dzaGlwIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwMw0KDQpHYXRlcyBDYW1icmlkZ2UgU2Nob2xhcnNoaXAgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDMNCg0KRnVsYnJpZ2h0IEF3YXJkIHRvIHRoZSBVbml0ZWQgS2luZ2RvbSAoZGVjbGluZWQgdG8gYWNjZXB0IEdhdGVzKSAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDMNCg0KQWxpY2UgVC4gU2NoYWZlciBQcml6ZSBmb3IgdG9wIFUuUy4gdW5kZXJncmFkdWF0ZSB3b21hbiBpbiBtYXRoZW1hdGljcy4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4yMDAyDQoNCldpbGxpYW0gTG93ZWxsIFB1dG5hbSBNYXRoZW1hdGljYWwgQ29tcGV0aXRpb24NCg0KUHV0bmFtIEZlbGxvdyBhbmQgRWxpemFiZXRoIExvd2VsbCBQdXRuYW0gUHJpemUgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDINCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNlbGVjdGVkIEludml0ZWQgUmVzZWFyY2ggVGFsa3MNCg0KTVNSSS1FdmFucyBMZWN0dXJlIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMTENCg0KQmF5IEFyZWEgQWxnZWJyYWljIE51bWJlciBUaGVvcnkgYW5kIEFyaXRobWV0aWMgR2VvbWV0cnkgRGF5IC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAxMQ0KDQpNQUEgSW52aXRlZCBBZGRyZXNzIGF0IHRoZSBKb2ludCBNYXRoZW1hdGljcyBNZWV0aW5ncyAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAxMQ0KDQpJbnZpdGVkIEFkZHJlc3MsIEFNUyBXZXN0ZXJuIFNlY3Rpb25hbCBNZWV0aW5nIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAxMA0KDQpXb3Jrc2hvcCBvbiBFbGxpcHRpYyBDdXJ2ZXMgYW5kIENvbXB1dGF0aW9uIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMTANCg0KTm9ydGh3ZXN0ZXJuIE51bWJlciBUaGVvcnkgU2VtaW5hciAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAxMA0KDQpVbml2ZXJzaXR5IG9mIENhbGlmb3JuaWEgQmVya2VsZXkgQ29tbXV0YXRpdmUgQWxnZWJyYSBhbmQgQWxnZWJyYWljIEdlb21ldHJ5IFNlbWluYXIgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwOQ0KDQogICBlDQoNClF1J2JlYy1WZXJtb250IE51bWJlciBUaGVvcnkgU2VtaW5hciBhdCBNY0dpbGwgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA5DQoNCk9iZXJ3b2xmYWNoIHdvcmtzaG9wOiBFeHBsaWNpdCBNZXRob2RzIGluIE51bWJlciBUaGVvcnkgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDkNCg0KSGlnaGVyIERlZ3JlZSBGb3JtcyBDb25mZXJlbmNlLCBVbml2ZXJzaXR5IG9mIEZsb3JpZGEgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuMjAwOQ0KDQpSdXRnZXJzIFVuaXZlcnNpdHkgQ29sbG9xdWl1bSAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDkNCg0KUnV0Z2VycyBVbml2ZXJzaXR5IE51bWJlciBUaGVvcnkgU2VtaW5hciAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA5DQoNClVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgQXVzdGluIEFsZ2VicmEsIE51bWJlciBUaGVvcnksIGFuZCBDb21iaW5hdG9yaWNzIFNlbWluYXIgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDkNCg0KVGV4YXMgQSZNIE51bWJlciBUaGVvcnkgU2VtaW5hciAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDkNCg0KVW5pdmVyc2l0eSBvZiBXaXNjb25zaW4gTWFkaXNvbiBOdW1iZXIgVGhlb3J5IFNlbWluYXIgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA4DQoNClVuaXZlcnNpdHkgb2YgQXJpem9uYSBOdW1iZXIgVGhlb3J5IFNlbWluYXIgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLjIwMDcNCg0KUmluZ3Mgb2YgTG93IFJhbmsgV29ya3Nob3AsIExvcmVudHogQ2VudGVyLCBVbml2ZXJzaXR5IG9mIExlaWRlbiwgTmV0aGVybGFuZHMgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDYNCg0KVW5pdmVyc2l0eSBvZiBQZW5uc3lsdmFuaWEgR2Fsb2lzIFNlbWluYXIgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA1DQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTZWxlY3RlZCBHZW5lcmFsIEF1ZGllbmNlIFRhbGtzDQoNCkJheSBBcmVhIE1hdGhlbWF0aWNhbCBBZHZlbnR1cmVzIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA5DQoNCktleW5vdGUgQWRkcmVzcywgMzd0aCBCaWVubmlhbCBDb252ZW50aW9uLCBLYXBwYSBNdSBFcHNpbG9uIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwOQ0KDQpQcmluY2V0b24gU2lnbWEgWGkgUHVibGljIFNjaWVuY2UgTGVjdHVyZSAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4yMDA5DQoNClVTQSBNYXRoZW1hdGljYWwgT2x5bXBpYWQgQXdhcmRzIENlcmVtb255IEtleW5vdGUgU3BlYWtlciAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwOA0KDQpPcGVuaW5nIG9mIE1BQSBDYXJyaWFnZSBIb3VzZSBDb25mZXJlbmNlIENlbnRlciAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDcNCg0KQ29sbG9xdWl1bSBhbmQgSGFycnkgUy4gS2lldmFsIExlY3R1cmUsIEh1bWJvbGR0IFN0YXRlIFVuaXZlcnNpdHkgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwNw0KDQpVbml2ZXJzaXR5IG9mIE1pbm5lc290YSBEdWx1dGggQ29sbG9xdWl1bSBhbmQgUHVibGljIFRhbGsuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLjIwMDYNCg0KQmF5IEFyZWEgTWF0aGVtYXRpY2FsIE9seW1waWFkIEF3YXJkcyBDZXJlbW9ueSBLZXlub3RlIFNwZWFrZXIgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwNQ0KDQpOZXcgWW9yayBNZXRyb3BvbGl0YW4gTUFBIFNlY3Rpb24gTWVldGluZyBJbnZpdGVkIE1ham9yIFNlc3Npb24gU3BlYWtlciAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA1DQoNCkFtZXJpY2FuIFVuaXZlcnNpdHkgQ29sbG9xdWl1bSBhbmQgUHVibGljIFRhbGsgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDA0DQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZWFjaGluZyBSZWxhdGVkDQoNClRhdWdodCBNYXRoIDUxLCBMaW5lYXIgQWxnZWJyYSBhbmQgRGnvrIBlcmVudGlhbCBDYWxjdWx1cyBvZiBTZXZlcmFsIFZhcmlhYmxlcywgU3RhbmZvcmQgLiAyMDEwDQoNCk1jR3JhdyBUZWFjaGluZyBhbmQgTGVhcm5pbmcgQ2VudGVyIEdyYWR1YXRlIEZlbGxvdywgUHJpbmNldG9uIFVuaXZlcnNpdHkgLiAuIC4gLiAuIC4gLiAuIC4gMjAwOC0yMDA5DQoNCmRlc2lnbmVkIGFuZCB0YXVnaHQgdHJhaW5pbmcgZm9yIGdyYWR1YXRlIHRlYWNoaW5nIGFzc2lzdGFudHMsIG9ic2VydmVkIGFuZCBnYXZlIGZlZWRiYWNrIHRvIGdyYWR1YXRlIHN0dWRlbnQNCg0KdGVhY2hlcnMNCg0KU3BlYWtpbmcgdHJhaW5lciwgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIGZ1bmRlZCBpbnN0cnVjdGlvbmFsIHZpZGVvIFRlY2huaWNhbGx5IFNwZWFraW5nIGFpbWVkIGF0DQoNCmdyYWR1YXRlIHN0dWRlbnRzIGxlYXJuaW5nIHRvIGdpdmUgbWF0aGVtYXRpY3MgdGFsa3MsIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDgNCg0KQ29hY2gsIEZpcnN0IFVTQSBHaXJscyBNYXRoIE9seW1waWFkIFRlYW0gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwNw0KDQpXcm90ZSBzdWNjZXNzZnVsIGdyYW50IHByb3Bvc2FsIGZvciAkODcsMDAwIGJ1ZGdldCB0byB0cmFpbiB0d28gVVMgdGVhbXMgb2YgaGlnaCBzY2hvb2wgZ2lybHMgdG8gY29tcGV0ZSBpbg0KDQp0aGUgR2lybHMgTWF0aCBPbHltcGlhZCBpbiBDaGluYQ0KDQpJbnN0cnVjdG9yLCBOdW1iZXIgVGhlb3J5LCBBcnQgb2YgUHJvYmxlbSBTb2x2aW5nIG9ubGluZSBpbnRlcmFjdGl2ZSBjbGFzcyAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDYNCg0KUmVzZWFyY2ggQWR2aXNvciwgVW5pdmVyc2l0eSBvZiBNaW5uZXNvdGEgRHVsdXRoIFJlc2VhcmNoIEV4cGVyaWVuY2UgZm9yIFVuZGVyZ3JhZHVhdGVzIC4gLiAuIC4gLiAuIC4gLiAyMDA0DQoNClN1cGVydmlzZWQgdW5kZXJncmFkdWF0ZSByZXNlYXJjaCwgdGhlIHJlc3VsdHMgb2Ygd2hpY2ggYXJlIHB1Ymxpc2hlZCBpbiwgZm9yIGV4YW1wbGUsIHRoZSBFbGVjdHJvbmljIEpvdXItDQoNCm5hbCBvZiBDb21iaW5hdG9yaWNzLCBEaXNjcmV0ZSBNYXRoZW1hdGljcywgRGlzY3JldGUgQXBwbGllZCBNYXRoZW1hdGljcywgYW5kIHRoZSBKb3VybmFsIG9mIEFsZ2VicmFpYw0KDQpDb21iaW5hdG9yaWNzLiwgSm91cm5hbCBvZiBDb21iaW5hdG9yaWFsIFRoZW9yeSwgU2VyaWVzIEENCg0KSW5zdHJ1Y3RvciwgUHJvYmxlbSBzb2x2aW5nIHNlbWluYXIgKGZvciBQdXRuYW0gZXhhbSksIFByaW5jZXRvbiBVbml2ZXJzaXR5IC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwNA0KDQpEZXB1dHkgTGVhZGVyLCBVU0EgSW50ZXJuYXRpb25hbCBNYXRoZW1hdGljYWwgT2x5bXBpYWQgVGVhbSAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDUNCg0KSW5zdHJ1Y3RvciwgTWF0aGVtYXRpY2FsIE9seW1waWFkIFN1bW1lciBQcm9ncmFtIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAyMDAzLCAyMDA1DQoNCg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgT3RoZXIgUHJvZmVzc2lvbmFsIEFjdGl2aXRpZXMNCg0KTWF0aGNvdW50cyBCb2FyZCBvZiBEaXJlY3RvcnMgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwNy0yMDA5DQoNCk5vZXRoZXJpYW4gUmluZyBDby1jaGFpciwgUHJpbmNldG9uIFVuaXZlcnNpdHkgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDYtMjAwOQ0KDQpJbnN0aXR1dGUgZm9yIEFkdmFuY2VkIFN0dWR5IFdvbWVuIGluIFNjaWVuY2UgU2VtaW5hciBDby1vcmdhbml6ZXIgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIDIwMDcNCg0KR3JhZHVhdGUgU3R1ZGVudCBTZW1pbmFyIENvLW9yZ2FuaXplciwgUHJpbmNldG9uIFVuaXZlcnNpdHkgLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gLiAuIC4gMjAwNS0yMDA2</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910243306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

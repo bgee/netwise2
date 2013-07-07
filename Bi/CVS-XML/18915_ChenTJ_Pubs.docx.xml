@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:56 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2911140306521"  usageLimitType="allocation" usageLimit="200" currentUsage="66" remainingUsage="134" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>John Chen</FormattedName>
+<GivenName>John</GivenName>
+<FamilyName>Chen</FamilyName>
+</PersonName>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Sydney</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>AU</CountryCode>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Professor Statistical inference</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>biostatistics</Name>
+</DegreeMinor>
+<Comments>step-wise multiple comparisons, probability inequalities, multivariate analysis, statistical consulting.   A connection between self-normalized products and stable laws</Comments>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Consulting">
+<CompetencyEvidence name ="Consulting">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2hlbiwgSm9obiBULg0KDQpQaC5ELiwgVW5pdmVyc2l0eSBvZiBTeWRuZXksIEF1c3RyYWxpYS4gUHJvZmVzc29yOyBTdGF0aXN0aWNhbCBpbmZlcmVuY2UgaW4gYmlvc3RhdGlzdGljcywgc3RlcC13aXNlIG11bHRpcGxlIGNvbXBhcmlzb25zLCBwcm9iYWJpbGl0eSBpbmVxdWFsaXRpZXMsIG11bHRpdmFyaWF0ZSBhbmFseXNpcywgc3RhdGlzdGljYWwgY29uc3VsdGluZy4NCg0KKiBBIGNvbm5lY3Rpb24gYmV0d2VlbiBzZWxmLW5vcm1hbGl6ZWQgcHJvZHVjdHMgYW5kIHN0YWJsZSBsYXdzICh3aXRoIElnb3IgTWVsbnlrb3YpLiBTdGF0aXN0aWNzIGFuZCBQcm9iYWJpbGl0eSBMZXR0ZXJzLCA3NyAoMjAwNyksIDE2NjItMTY2NS4NCg0KKiBBIHR3by1zdGFnZSBlc3RpbWF0aW9uIHByb2NlZHVyZS4gQmlvbWV0cmljcywgNjQgKDIwMDgpLCA0MDYtNDEyLg0KDQoqIEluZmVyZW5jZSBvbiB0aGUgTWluaW11bSBFZmZlY3RpdmUgRG9zZSBVc2luZyBCaW5hcnkgRGF0YS4gQ29tbXVuaWNhdGlvbiBpbiBTdGF0aXN0aWNzIC0tLSBUaGVvcnkgYW5kIE1ldGhvZHMsIDM3KDIwMDgpLCAyMTI0LTIxMzUuDQoNCiogRGlzcHJvdmluZyB0aGUgdW4taW1wcm92YWJpbGl0eSBvZiB0aGUgQm9uZmVycm9uaSBQcm9jZWR1cmUuIEpvdXJuYWwgb2YgQXBwbGllZCBQcm9iYWJpbGl0eSBhbmQgU3RhdGlzdGljcy4gMyAoMjAwOCksIDI5OS0zMDQuDQoNCiogRXhhY3QgU2ltdWx0YW5lb3VzIENvbmZpZGVuY2UgU2VnbWVudHMgZm9yIEFsbCBDb250cmFzdCBDb21wYXJpc29ucyAod2l0aCBYaWFvamluZyBMdSkuIEpvdXJuYWwgb2YgU3RhdGlzdGljYWwgUGxhbm5pbmcgYW5kIEluZmVyZW5jZS4gKDIwMDkpIERPSSBpbmZvcm1hdGlvbjogMTAuMTAxNi9qLmpzcGkuMjAwOS4wMS4wMDU=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2911140306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

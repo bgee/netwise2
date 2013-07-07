@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:35 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910030306521"  usageLimitType="allocation" usageLimit="200" currentUsage="53" remainingUsage="147" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Life Sciences Building</FormattedName>
+<GivenName>Life</GivenName>
+<MiddleName>Sciences</MiddleName>
+<FamilyName>Building</FamilyName>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (312) 567-3575</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>312</AreaCityCode>
+<SubscriberNumber>567-3575</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (312) 567-3494</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>312</AreaCityCode>
+<SubscriberNumber>567-3494</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>zhangc@iit.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Ningbo University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Manitoba</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeMajor>
+<Name>Research &amp; Major</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Analysis of training-induced changes in ethyl acetate odor maps using a new computational tool to map the glomerular layer of the olfactory bulb</Title>
+<Name role="author">
+<FormattedName>Salcedo E, Zhang C, Kronberg E and Restrepo D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Chem</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Heterogeneous expression of connexin</Title>
+<Name role="author">
+<FormattedName>Zhang C and Restrepo D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<Volume>36</Volume>
+</Article>
+<Article>
+<Title>Expression of connexin</Title>
+<Name role="author">
+<FormattedName>Zhang C and Restrepo D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<Volume>45</Volume>
+</Article>
+<Article>
+<Title>Biochemical and physiological evidence that bile acids produced and released by lake char</Title>
+<Name role="author">
+<FormattedName>Zhang C, Brown SB and Hara TJ</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2001</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Salvelinus namaycush)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Mature olfactory receptor neurons express connexin 43</Title>
+<Name role="author">
+<FormattedName>Zhang C, Finger TE and Restrepo D</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2000</StringDate>
+</PublicationDate>
+<JournalOrSerialName>J. Comp</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q2h1bmJvIFpoYW5nICwgUGguRC4gDQoNCkFzc2lzdGFudCBQcm9mZXNzb3Igb2YgQmlvbG9neQ0KDQpPZmZpY2U6IDM5MiBMaWZlIFNjaWVuY2VzIEJ1aWxkaW5nDQoNClBob25lOiAzMTIuNTY3LjM1NzUNCg0KRmF4OiAzMTIuNTY3LjM0OTQNCg0KRW1haWw6IHpoYW5nY0BpaXQuZWR1DQoNCkVkdWNhdGlvbg0KDQoqIEIuUy4gTmluZ2JvIFVuaXZlcnNpdHkNCg0KKiBQaC5ELiBVbml2ZXJzaXR5IG9mIE1hbml0b2JhDQoNCiogDQoNClJlc2VhcmNoICYgTWFqb3IgQWNjb21wbGlzaG1lbnRzDQoNCldlIGFyZSBhIG5ldXJvYmlvbG9neSByZXNlYXJjaCBsYWIuIEluIG91ciBsYWIsIHdlIHVzZSBhbmltYWwgbW9kZWxzICh0cmFuc2dlbmljIG1pY2UgYW5kIHplYnJhZmlzaCkgdG8gc3R1ZHkgdGhlIGRldmVsb3BtZW50IG9mIHRoZSBvbGZhY3Rvcnkgc3lzdGVtIGFuZCB0aGUgc3RydWN0dXJhbCBhbmQgbW9sZWN1bGFyIG1lY2hhbmlzbXMgb2Ygb2xmYWN0b3J5IHNlbnNhdGlvbi4gUmVjZW50IGRpc2NvdmVyaWVzIGluIHRoZSBnZW5ldGljcyBhbmQgZnVuY3Rpb25zIG9mIHRoZSBvbGZhY3Rvcnkgc3lzdGVtIHNob3cgdGhhdCBzZW5zZSBvZiBzbWVsbCBpcyBleHRyZW1lbHkgaW1wb3J0YW50IGZvciBzdXJ2aXZhbCBvZiBhIHNwZWNpZXMuIFRoZSBvbGZhY3Rvcnkgc3lzdGVtIGlzIGFsc28gYSBnb29kIG1vZGVsIHN5c3RlbSB0byBzdHVkeSBuZXVyYWwgc3BlY2lmaWNhdGlvbiwgcGF0dGVybmluZyBhbmQgcmVnZW5lcmF0aW9uLiBPdXIgY3VycmVudCByZXNlYXJjaCBmb2N1cyBpcyB0byB1bmRlcnN0YW5kIGhvdyBnYXAganVuY3Rpb25zIGFyZSBpbnZvbHZlZCBpbiBuZXVyYWwgc3BlY2lmaWNhdGlvbiBhbmQgb3JnYW5pemF0aW9uIHRocm91Z2hvdXQgZGV2ZWxvcG1lbnQgYW5kIHdoYXQgYXJlIHRoZSBtb2xlY3VsYXIgbWVjaGFuaXNtcyBvZiBnYXAganVuY3Rpb25zIGluIG1vZHVsYXRpbmcgb2xmYWN0b3J5IHNlbnNpdGl2aXR5LiBBIHNpZGUgcHJvamVjdCB3ZSBhcmUgZGV2ZWxvcGluZyBpcyB0byBzdHVkeSB0aGUgY29ubmVjdGlvbiBiZXR3ZWVuIGdhcCBqdW5jdGlvbiBleHByZXNzaW9uIGFuZCBjYW5jZXIgY2F1c2F0aW9uIHRvIGV4cGxvcmUgcG9zc2libGUgY2FuY2VyIHByZXZlbnRpb24gcGF0aHdheXMuIFdlIHV0aWxpemUgYSB2YXJpZXR5IG9mIHJlc2VhcmNoIGFwcHJvYWNoZXMgaW5jbHVkaW5nIG1vbGVjdWxhciBiaW9sb2d5LCBlbGVjdHJvcGh5c2lvbG9neSwgb3B0aWNhbCBpbWFnaW5nLCBpbW11bm9oaXN0b2NoZW1pc3RyeSBhbmQgYmlvY2hlbWlzdHJ5IHRvIGFkZHJlc3MgdGhlc2UgcXVlc3Rpb25zLiANCg0KUmVjZW50bHksIHdlIHV0aWxpemVkIG91ciBleHBlcnRpc2UgaW4gbmV1cm9iaW9sb2d5IGFuZCBkZXZlbG9wbWVudGFsIGJpb2xvZ3kgdG8gc3R1ZHkgdGhlIGRldmVsb3BtZW50IG9mIHRoZSBvbGZhY3Rvcnkgc3lzdGVtIGluIGxha2Ugc3R1cmdlb24uIE91ciB3b3JrIHJlY2VpdmVkIHZhcmlvdXMgc3VwcG9ydCBmcm9tIG11bHRpcGxlIHBhcnRpZXMgaW4gdGhlIEdyZWF0IExha2VzLiBUaGUgR3JlYXQgTGFrZXMgRmlzaGVyeSBUcnVzdCBwcm92aWRlZCBmaW5hbmNpYWwgc3VwcG9ydC4gV2UgYXJlIGFsc28gaW50ZXJlc3RlZCBpbiBleHRlbmRpbmcgb3VyIHByZXZpb3VzIHdvcmsgd2l0aCBsYWtlIHRyb3V0IHRvIHByb3ZpZGUgc2NpZW50aWZpYyBkYXRhIGZvciB0aGUgbGFrZSB0cm91dCByZWhhYmlsaXRhdGlvbiBwcm9ncmFtIGluIHRoZSBHcmVhdCBMYWtlcy7CoA0KDQpTZWxlY3RlZCBQdWJsaWNhdGlvbnMNCg0KWmhhbmcgQyBhbmQgSGFyYSBUSi4gMjAwOS4gTGFrZSBjaGFyIChTYWx2ZWxpbnVzIG5hbWF5Y3VzaCkgb2xmYWN0b3J5IG5ldXJvbnMgYXJlIGhpZ2hseSBzZW5zaXRpdmUgYW5kIHNwZWNpZmljIHRvIGJpbGUgYWNpZHMuIEouIENvbXAuIFBoeXNpb2wuIEEgMTk1OjIwMy0yMTUuDQoNClNhbGNlZG8gRSwgWmhhbmcgQywgS3JvbmJlcmcgRSBhbmQgUmVzdHJlcG8gRC4gMjAwNS4gQW5hbHlzaXMgb2YgdHJhaW5pbmctaW5kdWNlZCBjaGFuZ2VzIGluIGV0aHlsIGFjZXRhdGUgb2RvciBtYXBzIHVzaW5nIGEgbmV3IGNvbXB1dGF0aW9uYWwgdG9vbCB0byBtYXAgdGhlIGdsb21lcnVsYXIgbGF5ZXIgb2YgdGhlIG9sZmFjdG9yeSBidWxiLiBDaGVtLiBTZW5zZXMgMzA6IDYxNS02MjYuDQoNClpoYW5nIEMgYW5kIFJlc3RyZXBvIEQuIDIwMDMuIEhldGVyb2dlbmVvdXMgZXhwcmVzc2lvbiBvZiBjb25uZXhpbiAzNiBpbiB0aGUgb2xmYWN0b3J5IGVwaXRoZWxpdW0gYW5kIGdsb21lcnVsYXIgbGF5ZXIgb2YgdGhlIG9sZmFjdG9yeSBidWxiLiBKLiBDb21wLiBOZXVyb2wuIDQ1OTo0MjYtNDM5Lg0KDQoNCg0KWmhhbmcgQyBhbmQgUmVzdHJlcG8gRC4gMjAwMi4gRXhwcmVzc2lvbiBvZiBjb25uZXhpbiA0NSBpbiB0aGUgb2xmYWN0b3J5IHN5c3RlbS4gQnJhaW4gUmVzLiA5Mjk6MzctNDcuDQoNCg0KDQpaaGFuZyBDLCBCcm93biBTQiBhbmQgSGFyYSBUSi4gMjAwMS4gQmlvY2hlbWljYWwgYW5kIHBoeXNpb2xvZ2ljYWwgZXZpZGVuY2UgdGhhdCBiaWxlIGFjaWRzIHByb2R1Y2VkIGFuZCByZWxlYXNlZCBieSBsYWtlIGNoYXIgKFNhbHZlbGludXMgbmFtYXljdXNoKSBmdW5jdGlvbiBhcyBjaGVtaWNhbCBzaWduYWxzLiBKLiBDb21wLiBQaHlzaW9sLiBCIDE3MToxNjEtMTcxDQoNClpoYW5nIEMsIEZpbmdlciBURSBhbmQgUmVzdHJlcG8gRC4gMjAwMC4gTWF0dXJlIG9sZmFjdG9yeSByZWNlcHRvciBuZXVyb25zIGV4cHJlc3MgY29ubmV4aW4gNDMuIEouIENvbXAuIE5ldXJvbC4gNDI2OjEtMTIu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910030306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

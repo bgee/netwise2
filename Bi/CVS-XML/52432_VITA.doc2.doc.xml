@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:15:07 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912343306521"  usageLimitType="allocation" usageLimit="200" currentUsage="123" remainingUsage="77" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>PAGE PAGE</FormattedName>
+<GivenName>PAGE</GivenName>
+<FamilyName>PAGE</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>79930</PostalCode>
+<Region>Texas</Region>
+<Municipality>El Paso</Municipality>
+<DeliveryAddress>
+<AddressLine>3147 Wheeling</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (915) 565-2245</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>915</AreaCityCode>
+<SubscriberNumber>565-2245</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>jjohnson@utep.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<PersonDescriptors>
+<BiologicalDescriptors>
+<DateOfBirth>Salina Kansas 1 September 1947.</DateOfBirth>
+</BiologicalDescriptors>
+</PersonDescriptors>
+<ExecutiveSummary>for Teachers award (RET). PI ($13,882).</ExecutiveSummary>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>The University of Texas</EmployerOrgName>
+<PositionHistory>
+<Title>Professor of Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>at El Paso (UTEP). (Tenured, 2000). 2000 - Present: Faculty member, Environmental Sciences and Engineering Ph.D. Program, UTEP.
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP.</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Faculty, Department of Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2000-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>El Paso Community College (EPCC). (Tenured 1980).</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor of Biology</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1984-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP.</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Faculty, Department of Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Lecturer, Department of Biological Sciences, UTEP.
+</Description>
+<StartDate>
+<AnyDate>1975-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1974-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Lab Assistant (Biochemistry)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1973-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1975-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Teaching Assistant (Biology)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Teaching Assistant (Herpetology), Fort Hays State University. COLLEGE COURSES TAUGHT GRADUATE Biogeography (UTEP) Environmental Biology (UTEP) Ecology of Desert Organisms (UTEP) Genetics and Evolution (UTEP) Research in Biological Science (UTEP) Independent Research (UTEP) Advanced Research Techniques (UTEP) Seminar: Species Concepts (UTEP) Thesis (UTEP) Dissertation (UTEP). UNDERGRADUATE General Biology for Science Majors I (EPCC and UTEP) General Biology for Science Majors II (EPCC and UTEP) Biology for Liberal Arts Majors (EPCC) Desert Ecology (UTEP) Invertebrate Zoology (EPCC) Vertebrate Zoology (UTEP and EPCC) General Zoology (EPCC) General Botany (EPCC) Field Biology (UTEP) Human Ecology (EPCC). Anatomy and Physiology (EPCC) Interdisciplinary Science I and II (EPCC) Special Problems (UTEP) Topics in Biology (UTEP). GRADUATE STUDENTS (UTEP)
+</Description>
+<StartDate>
+<AnyDate>1973-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1973-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>David A. Kizirian</EmployerOrgName>
+<PositionHistory>
+<Title>Major Advisor (Director)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MS</Region>
+<Municipality>Tatum</Municipality>
+<DeliveryAddress>
+<AddressLine>13. David</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Biological Sciences, UTEP (1987). Thesis: Geographic Variation in the Zone of Contact between Two Subspecies of Gopher Snakes (Pituophis melanoleucus). PhD, University of Kansas, 1996. Presently, herpetology curator, American Museum of Natural History. Co-Director with R. G. Webb. 2. Christopher R. Harrison: MS Biological Sciences, UTEP (1992). Thesis: A Taxonomic Revision of the Snakes in the Coniophanes piceivvittis species group. Presently, Instructor, San Antonio Community College. Co-Director with R. G. Webb. 3. Travis J. LaDuc: MS Biological Sciences, UTEP (1996). Thesis: A Taxonomic Revision of the Adelphicos quadravirgatum species group (Serpentes: Colubridae). PhD, University of Texas at Austin, 2003. Presently, Assistant Curator of Herpetology, Texas Memorial Museum, University of Texas at Austin. Co-Director with R. G. Webb. 4. Curtis M. Eckerman: MS Biological Sciences, UTEP (1996). Thesis: Variation, Systematics, and Interspecific Position of Heterodon nasicus (Serpentes: Colubridae). Presently, Science Group Chair/Arts and Sciences, Biology, Des Moines Area Community College. Co-Director with E. Walsh. 5. Alvaro Dominguez: MS Biological Sciences, UTEP (2000). Thesis: An Analysis of Rock Rattlesnakes (Crotalus Lepidus) from the Northern Portion of its Range. Presently, DOA agent in El Paso, Texas. Co-Director with R. G. Webb. 6. Paul E. Hotchkin: MS Biological Sciences, UTEP (2002). Thesis: Comparative Escape Behavior of Parthenogenetic and Gonochoristic Lizards of the Genus Cnemidophorus. Rated Top Graduating MS student in Biology Department, spring 2002. Presently, PhD program, UTEP. 7. Allison Davis: MS Biological Sciences, UTEP (2003). Thesis: The Limnology and Macroinvertebrates of Squaw Spring, Indio Mountain Research Station. Rated Top Graduating MS Student in Biology Department, spring 2003. Presently, Ph.D. Candidate, University of North Texas. 8. Vicente Mata-Silva: MS Biological Sciences, UTEP (2005). Thesis: Diet Comparison Between Sympatric Lizards of the Genus Aspidoscelis on Indio Mountains Research Station, Texas. Rated best MS thesis in Biology for 2005. Presently, PhD program, UTEP. 9. Luis Miranda: MS Biological Sciences (2009). Thesis: Ecological Analysis of Oxygen Consumption in Three Species of Rattlesnakes (Crotalus lepidus, C. molossus, and C. atrox) from the Northern Chihuahuan Desert of Trans-Pecos, Texas. Presently, PhD program, New Mexico State University (fall, 2009). 10. Hector Riveroll, Jr.: PhD Candidate, UTEP Biological Sciences (2002, In Progress). Dissertation: Phylogeography of the Rock Rattlesnake, Crotalus lepidus. Co-Director with Elizabeth Walsh. 11. Paul Hotchkin: PhD Candidate, Biological Sciences (2005, In Progress). Dissertation: Vegetation Change in the Franklin Mountains of El Paso, Texas. Co-Director with Craig Tweedie. 12. Vicente Mata-Silva: PhD Candidate, Biological Sciences (2005, In Progress). Dissertation: Spatial Ecology of Crotalus lepidus in the Northern Chihuahuan Desert. 13. Arturo Rocha: MS Biological Sciences (2009, In Progress). Spatial Ecology of the Trans-Pecos Rat Snake, Bogertophis subocularis, in the Chihuahuan Desert of Trans-Pecos, Texas. 14. Michael Lukefahr: MS Biological Sciences (2010, In Progress). Ectoparasite Comparison Between syntopic Unisexual and Bisexual whiptail lizards in the Northern Chihuahuan Desert of Trans-Pecos, Texas. 15. Ross Couvillon: MS Biological Sciences (2010, In Progress). Ecogeographic Analysis of the Herpetofauna of Indio Mountains Research Station, Hudspeth County, Texas. Committee Member 1. Christine Carranza: MS Biological Sciences, UTEP (1997). Thesis: Parasites of the Lizards in the Genus Cnemidophorus Collected in West Texas and Southern New Mexico. 2. Deborah J. Gordon: MS Biological Sciences, UTEP (1997). Thesis: Incremental Tail Loss and Running Speed of Cnemidophorus inornatus (Reptilia: Teiidae). 3. Brian J. Wooldridge: MS Biological Sciences, UTEP (1999). Thesis: DNA Analysis for Metalloproteninase and Mojave Toxin Genes in Chromosomal DNA of the Mojave Rattlesnake Crotalus scutulatus. 4. Dominic I. Lannutti: MS Biological Sciences, UTEP (2000). Thesis: Morphological Variation in Salvadora grahamiae and Related Taxa (Serpentes: Colubridae). Instructor, El Paso Community College. Presently, PhD Program, UTEP. 5. Matthew McMillan: MS Biological Sciences, UTEP (2002). Thesis: Variation in Crotalus basiliscus and Crotalus molossus with an Evaluation of Hybridization. Presently, Ecologist SWCA Environmental Consultants, Albuquerque, New Mexico. 6. Raul Gutierrez: MS Biological Sciences, UTEP (2002). Thesis: Molecular Systematics of Proboscidae (Martyniaceae) and Allied Genera Using the ITS Region of Nuclear Ribosomal DNA. Presently, PhD Program, Arizona State University. 7. Francisco Martinez-Gonzales: PhD Environmental Sciences and Engineering, UTEP (2002). Dissertation: How Slope, Aspect, and Shading Angles Determine the Distribution of Some Plants in the Chihuahuan Desert. 8. Saul Nava: MS Biological Sciences, UTEP (2004). Thesis: Comparative Ecology Between Three Species of Geckos on Puerto Rico. PhD, Indiana Univ., 2009. Presently, Post-Doc at Harvard. 9. Helen Brewer: MS Biological Sciences, UTEP (2004). Thesis: A Survey of the Mammals of Indio Mountains Research Station. Presently, High School Teacher, Socorro ISD, El Paso, Texas. 10. Bonnie Payan: MS Secondary Education, UTEP (2005). Thesis: Affects of Inquiry Based Instruction. 11. Dana Carciumaru: PhD Geological Sciences, UTEP (2005). Dissertation: Structural Geology, Tectonics, and Fluid Flow in the Northern Bend of the Chihuahuan Trough. 12. Angela Chavez: MS Biological Sciences, UTEP (2006). Thesis: Comparative Vertebral Morphology in Medium-sized North American Artiodactyla. Presently, PhD program, UTEP (on leave of absence).
+</Description>
+<StartDate>
+<AnyDate>1973-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1973-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP (2006).</EmployerOrgName>
+<PositionHistory>
+<Title>Geological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MS</Region>
+<Municipality>Woody</Municipality>
+<DeliveryAddress>
+<AddressLine>15. Abby</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<Description>Thesis: Stratigraphic heterogeneities on dune Architecture and Fluid Migration, Permian Cedar Mesa Sandstone, SE Utah. 14. Joseph D. DiBenedetto: PhD Geological Sciences, UTEP (2008). Dissertation: Comparison of Oxygen 18/16 Ratio in Fossil Turtle Shells from the &quot;Turtle-Oreodon Zone&quot; (Badlands National Park, South Dakota) and Marfa, Texas (Little Egypt Local Fauna): Paleoclimatological Implications for the Mid Oligocene Temperature Fluctuations.
+</Description>
+<StartDate>
+<AnyDate>1973-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1973-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP (2010).</EmployerOrgName>
+<PositionHistory>
+<Title>Geological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>MS</Region>
+<Municipality>Woody</Municipality>
+<DeliveryAddress>
+<AddressLine>15. Abby</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Thesis: Tectonic Geomorphology of Puna-Tsang Chhu Watershed, Bhutan. 16. John Enriquez: MS Chemistry, UTEP (2010): Thesis: Enthalpies of Mixing Water and Alkoxythanois. 17. Dominic Lannutti: PhD Candidate, Biological Sciences, UTEP (2004, In Progress). Phylogeography of the Mojave Rattlesnake, Crotalus scutulatus. 18. David Linn: PhD Candidate, Biological Sciences, UTEP (2005, In Progress). Quantification of Dacade-Time Scale Change in Land Cover and Radiative Forcing Potential in Beringia. 19. Rebeca Marin: PhD Candidate, Biological Sciences, UTEP (2005, In Progress). Dissertation: Assessing Land Cover Change at the Indio Mountains Research Station. 20. Angela Chavez: PhD Biological Sciences, UTEP (2008, Leave of Absence 2010). 21. Seth Page: PhD Geological Sciences, UTEP (2009, In Progress). Dissertation: Understanding and Reconstruction of Duplex Faulting of the Indio Mountains Using Balanced Cross Sections. 22. Pawan Budhathoki: PhD Geological Sciences, UTEP (2009, In Progress). Dissertation: Syntectonic Sedimentation in an Extended Basin, Cretaceous of Southern North America. 23. Fernanda De La Cerda: MS Environmental Sciences, UTEP (2009, In Progress). Thesis: Effect of Rain Events on the Seasonal and Permanent Water Bodies of Indio Mountains Research Station.
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1973-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>David W. Sweetay.</EmployerOrgName>
+<PositionHistory>
+<Title>SENIOR HONORS THESES CHAIRED, COMMITTEE MEMBER</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Survey of the Rodents of the Indio Mountains Research Station, Hudspeth County, Texas. Biological Sciences, UTEP (Chairman). Winner of the UTEP best honors thesis competition for 2002. Natalie Whitfield. 2002. Sporozoite Penetration in Mus mucsculus: Eimeria papillata and Eimeria falciformis. Biological Sciences, UTEP (Committee Member). Jennifer Ramos-Chavez. 2010. Genetic Variation Within Populations of the Bdelloid Rotifer Philodina megalotrocha. Biological Sciences, UTEP (Committee Member). COLLEGE COURSES AND ACTIVITIES DEVELOPED GENETICS AND EVOLUTION: Developed one semester graduate course for Masters of Art in Teaching program, UTEP (2009). ECOLOGY OF DESERT ORGANISMS: Developed a one semester graduate course, with lab section, UTEP (2005). DESERT ECOLOGY: Developed one semester upper division undergraduate course with a laboratory section, UTEP (2005). ENVIRONMENTAL BIOLOGY: Developed a one semester PhD level course for Environmental Science and Engineering Ph.D. program. UTEP (2004) FIELD BIOLOGY: Developed a one semester upper division undergraduate course that includes a weeklong field trip to Indio Mountains Research Station, UTEP (2000). INTERDISCIPLINARY SCIENCE: Co-developed a two semester, team-taught undergraduate course covering the history, major revolutions, and cultural implications of science, UTEP/EPCC (NSF funded). ZOOLOGY: Developed lecture courses in invertebrate (EPCC) and vertebrate zoology (UTEP and EPCC), plus respective labs. BOTANY: Developed a course in General Botany with respective lab (EPCC).
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>ORSP, Research Incentive Award ($550).
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2011-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>FSML. Supplement to NSF grant, Development of Indio Mountains Research Station, Phase III for Teachers award (RET). PI UTEP ($23,282).
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>FSML, Development of Indio Mountains Research Station, Phase III. PI, UTEP ($106,651).
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>ORSP, Research Incentive Award ($1,200).
+</Description>
+<StartDate>
+<AnyDate>2009-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Texas State University. Assessing Texas&apos; Freshwater Turtles. PI</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Texas Parks &amp; Wildlife (subcontract from
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2012-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP ($102,500).</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>NSF, Track 1, GK-12 Partnership for Exploring the Environment on the U.S. Mexico Border. Co-PI, UTEP ($1,780,000).
+</Description>
+<StartDate>
+<AnyDate>2005-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>T&amp;E Inc.</EmployerOrgName>
+<PositionHistory>
+<Title>Ecology of the Rock Rattlesnake</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Crotalus Lepidus, in the Northern Chihuahuan Desert. PI, UTEP ($2,452). NSF. Supplement to NSF grant, Development of Indio Mountains Research Station Headquarters, Phase II, Research Opportunity Award (ROA). PI, UTEP ($15,967).
+</Description>
+<StartDate>
+<AnyDate>2008-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>FSML, Development of Indio Mountains Research Station Headquarters, Phase II. PI, UTEP ($127,400).
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>ORSP, PI Research Incentive Award ($1,000).
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UMEB</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>NSF, Integrating Environmental Biology and Molecular Approaches. Co-PI, UTEP ($499,948).
+</Description>
+<StartDate>
+<AnyDate>2004-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>T&amp;E Inc.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Grant</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Comparative and Spatial Ecology of Three Sympatric Species of Rattlesnakes. PI, UTEP ($2,460).
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Supplement to NSF grant, Development of Indio Mountains Research Station Headquarters, Research Experience for Teachers (RET). PI, UTEP ($23,363).
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Supplement to NSF grant, Development of Indio Mountains Research Station Headquarters, Research Experience for Teachers (RET). PI, UTEP ($23,498). 2002: National Park Service, Chihuahuan Desert Parks. Review of species list for the Herpetofauna of White Sands National Monument ($200).
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>FSML, Development of Indio Mountains Research Station Headquarters (FSML). PI, UTEP ($99,875).
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>T&amp;E Inc.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Grant</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Comparative Escape Behavior of Syntopic Parthenogenetic and Gonochoristic Cnemidophorus Lizards. PI, UTEP ($2,480).
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Department. A Comprehensive Survey and Report of the Amphibians</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Texas Parks and Wildlife Reptiles, and Mammals of Hueco Tanks State Historical Park and Franklin Mountains State Park, and Recommendations for Further Research. PI, EPCC ($13,200).
+</Description>
+<StartDate>
+<AnyDate>1998-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NIH</EmployerOrgName>
+<PositionHistory>
+<Title>National Institute of General Medical Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Three-year extension of Bridges to Future Grant. Co-PI, EPCC ($484,333).
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF</EmployerOrgName>
+<PositionHistory>
+<Title>Biological Equipment to Improve Undergraduate Research</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>EPCC. Co-PI</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>EPCC ($242,400). NIH, National Institute of General Medical Sciences. Three-year extension of Bridges to Future Grant. Co-PI, EPCC ($466,441).
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NIH</EmployerOrgName>
+<PositionHistory>
+<Title>National Institute of General Medical Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>&quot;Bridges to the Future, &quot; A joint project to help students successfully transfer between schools in chemistry and biology, Co-PI, EPCC/UTEP ($288,889).
+</Description>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NSF</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Projects in Sciences and Humanities. Development of Freshman Level, Interdisciplinary Science Course. Co-PI, EPCC/UTEP ($205,000). 1992: National Center for Academic Achievement. Supplemental partnership between EPCC and UTEP to develop non-majors biology labs. CO-PI, UTEP/EPCC ($4,500). 1989: Six-month sabbatical to research the herpetofauna of southern Mexico and support the Instituto Nacional de Investigaciones Sobre Recursos Bioticos - Chiapas, Mexico. EPCC (Full Pay) 1980: Exline Biology Grant. Study of the herpetofauna of southern Mexico. PI, EPCC ($1000). 1979: Theodore Roosevelt Fund, American Museum of Natural History, Effects of Habitat Destruction on the Herpetofauna of a Mexican rainforest. PI, EPCC ($250). 1977: NSF, Computer Applications in Education. A one-week workshop in New Orleans Louisiana (Xavier University of Louisiana). 1974: Grant-In-Aid, Society of Sigma Xi, Study of the Herpetofauna of Chiapas, Mexico. PI, UTEP ($150). PROFESSIONAL ORGANIZATION PROSITIONS/ACTIVITIES
+</Description>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Southwestern Association of Naturalists.</EmployerOrgName>
+<PositionHistory>
+<Title>Section Editor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Development Committee Section Editor for Mesoamerica and Caribbean, Herpetological Review (Geographic Distribution), Society for the Study of Amphibians and Reptiles.
+</Description>
+<StartDate>
+<AnyDate>2010-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Board of Scientists</EmployerOrgName>
+<PositionHistory>
+<Title>Vice-Chairman</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2003-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2005-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chihuahuan Desert Research Institute.</EmployerOrgName>
+<PositionHistory>
+<Title>Board of Scientists</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>Chihuahuan Desert Research Institute, Alpine, Texas. 2007: Session Moderator, Annual Meeting of the Southwestern Association of Naturalists, Tarleton Statue University, Stephenville, Texas, 20 April. 2005: Session Moderator, Annual Meeting of the Southwestern Association of Naturalists, Sam Houston State University, Huntsville, Texas, 16 April. 2004: Session Moderator, 6th Symposium on the Natural Resources of the Chihuahuan Desert Region, Chihuahuan Desert Research Institute, Sul Ross State University, Alpine Texas 16 October. 2004: Session Moderator, Annual Meeting of Southwestern Association of Naturalists, San Antonio, Texas, 16 April. 2003: Judge, Howard McCarley Student Research Award, Southwestern Association of Naturalists, Univ. Oklahoma, 16 April. 2003: Session Moderator, Annual Meeting of the Southwestern Association of Naturalists, Univ. Oklahoma, Normal Oklahoma, 16 April. 2002: Session Moderator, Annual Meeting of the Southwestern Association of Naturalists, Cuernavaca, Morelos, Mexico.
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP Chapter, Society</EmployerOrgName>
+<PositionHistory>
+<Title>President</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Vice President, UTEP Chapter, Society of Sigma Xi.</EmployerOrgName>
+<PositionHistory>
+<Title>of Sigma Xi</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Re-elected Councilor</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chihuahuan Desert Research Institute.</EmployerOrgName>
+<PositionHistory>
+<Title>Committee Chair, Development Committee</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Committee Chair, Development Committee, The Southwest Association of Naturalists.
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Texas Herpetological Society.</EmployerOrgName>
+<PositionHistory>
+<Title>President</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Annual Meeting of the Texas Herpetological Society</EmployerOrgName>
+<PositionHistory>
+<Title>Local Committee Chair</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>with Symposium, The University of Texas at El Paso, 16-18 November.
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Texas Herpetological Society.</EmployerOrgName>
+<PositionHistory>
+<Title>President Elect</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Re-elected Councilor of Board of Scientists</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1996-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chihuahuan Desert Research Institute.</EmployerOrgName>
+<PositionHistory>
+<Title>Vice President</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>Vice President
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Texas Herpetological Society.</EmployerOrgName>
+<PositionHistory>
+<Title>Committee Member</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Development Committee, Southwestern Association of Naturalists.
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Elected Councilor of Board of Scientists</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chihuahuan Desert Research Institute.</EmployerOrgName>
+<PositionHistory>
+<Title>President</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>President, El Paso Herpetological Society. 1992: Local Committee Co-Chair, Annual Meeting of the Society for the Study of Amphibians and Reptiles, UTEP/EPCC. 1991: Local Committee Co-Chair, Annual Meeting of the Southwestern Association of Naturalists, UTEP and EPCC.
+</Description>
+<StartDate>
+<AnyDate>1992-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Member of Grants in Aid Committee Society for the Study of Amphibians and Reptiles.</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>UTEP chapter of the Society of Sigma Xi.</EmployerOrgName>
+<PositionHistory>
+<Title>Member of Nominations Committee</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1988-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1989-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Southwestern Association of Naturalists.</EmployerOrgName>
+<PositionHistory>
+<Title>Board of Governors</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1985-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1989-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Board of Directors</EmployerOrgName>
+<PositionHistory>
+<Title>Terlingua Zoological Park and Research Center</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>Terlingua</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1985-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1985-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Southwestern Naturalist.</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Editor (herpetology)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Terlingua Zoological Park and Research Center Associate Editor (herpetology)
+</Description>
+<StartDate>
+<AnyDate>1981-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1985-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chairman of Nominations Committee Society</EmployerOrgName>
+<PositionHistory>
+<Title>the Study of Amphibians</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>and Reptiles. Elector, Society for the Study of Amphibians and Reptiles. 1978: Member of Nominations Committee, The Society for the Study of Amphibians and Reptiles.
+</Description>
+<StartDate>
+<AnyDate>1981-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1980-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Southwestern Naturalist.</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Editor (Lower vertebrates)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1977-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1980-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Texas Systems of Natural Laboratories.</EmployerOrgName>
+<PositionHistory>
+<Title>Member Representative (EPCC)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>PROFESSIONAL MEETINGS ATTENDED American Society of Ichthyologists and Herpetologists: 1977, 1984, 1989, 1993, 1997, 2002. Chihuahuan Desert Research Institute: 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2003, 2004. Herpetologists&apos; League: 1976, 1977, 1979, 1980, 1981, 1982, 1983, 1984, 1986, 1987, 1990, 1993, 1997, 2002.
+</Description>
+<StartDate>
+<AnyDate>1976-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>International Herpetological Symposium</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Kansas Herpetological Society -
+</Description>
+<StartDate>
+<AnyDate>1995-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mesoamerican Society for Biology and Conservation</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Organization of Biological Field Stations</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1997-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>the Advancement of Chicanos and Native Americans in Science</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>2007. Society
+</Description>
+<StartDate>
+<AnyDate>2001-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Sociedad Herpetologica Mexicana</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Society of Sigma Xi</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>2008.
+</Description>
+<StartDate>
+<AnyDate>1994-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>the Study of Amphibians and Reptiles</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Society
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The Southwestern Association</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>of Naturalists: 1974, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1994, 1995, 1996, 1998, 2000, 2001, 2002, 2003, 2004, 2005, 2007, 2009, 2010, 2011. Texas Herpetological Society: 1981, 1983, 1984, 1985, 1986, 1989, 1993, 1994, 1995, 1996. SCIENTIFIC JOURNALS/PUBLICATIONS REVIEWED FOR Bibliomania Biological Conservation Boletin, Sociedad Herpetologica Mexicana Caribbean Journal of Science Chihuahuan Desert Research Institute Publications Copeia Eagle Mountain Press, LLC Evolution Journal of Arid Land Biology Journal of Herpetology Journal of Mexican Herpetological Society Herpetologica The Southwestern Naturalist Texas Journal of Science HONORS, RECOGNITION, AND CERTIFICATES/LETTERS OF APPRECIATION Who&apos;s Who in American Education. Who&apos;s Who Among America&apos;s Teachers. Who&apos;s Who in America Who&apos;s Who in Science and Engineering. Who&apos;s Who in the South and Southwest. Who&apos;s Who in the World. Who&apos;s Who in Medicine and Healthcare. 2008: Letter of Commendation, UTEP Student Support Services TRIO program. 2004: El Paso Public Library, Certificate of Appreciation for Herpetology program. 2001: El Paso Partnership for Excellence in Teacher Education (PETE), Letter of Appreciation for program support. 2001: Insights El Paso Science Museum. Letter of Appreciation for presenting at Scientific Career Expo. 1999: EPCC Honors Program Outstanding Honors Faculty Award. Recipients selected from peer nomination. 1999: Honors Program Recognition (EPCC). 1999: EPCC Recognition for 23 years of faithful service. 1997: Honors Program Recognition (EPCC). 1997: Certificate of Recognition for Leadership in Faculty Development. 1995: National Institute for Staff and Organizational Development (NISOD) Teaching Excellence Award. 1995: El Paso Natural Gas Foundation EPCC Faculty Achievement Award ($1500 for teaching excellence). 1995: Honors Program Recognition (EPCC). 1994: El Paso High School PTA Certificate of Appreciation for Participation in Career Day. 1993: Honors Program Recognition (EPCC). 1992: Retention Action Program Recognition (EPCC). 1992: &quot;Ari Award&quot; - Colleague recognition, presented by EPCC for honors quality work directing student research (May 1992). Award recipients were selected from peer nominations. 1990: Nominated by EPCC for The Community, Technical, and Junior College Times Teaching Excellence Award. 1990: Certificate of Recognition, EPCC Board of Trustees, for outstanding service to the College for 15 years. 1990: Certificate of Appreciation, Young Scholars Bowl (EPCC), for writing biology questions, 21 April 1990.
+</Description>
+<StartDate>
+<AnyDate>2002-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Nominated for Minnie Piper Stephens Outstanding Professor (EPCC)</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Texas award.
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Office of Dean of Student Development (EPCC)</EmployerOrgName>
+<PositionHistory>
+<Title>of Appreciation</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Certificate, for outstanding service to school and students. PUBLICATION LIST * = UTEP Undergraduate Students ** = UTEP Graduate Students 1. Knight, J. L., E. D. Fleharty, and J. D. Johnson. 1973. Noteworthy records of distribution and habitats of some Kansas herptiles. Trans. Kansas Acad. Sci. 75:273-275. 2. Johnson, J. D. 1973. Geographic distribution: Symphimus leucostomus. HISS News-J. 1:99. 3. Johnson, J. D. 1974. New records of reptiles and amphibians from Chiapas, Mexico. Trans. Kansas Acad. Sci. 76:223-225. 4. Fleharty, E. D. and J. D. Johnson. 1975. Distributional records of herptiles from the Chautauqua Hills of southeastern Kansas. Trans. Kansas Acad. Sci. 77:65-67. 5. Johnson, J. D., C. A. Ely, and R.G. Webb. 1977. Biogeographical and taxonomic notes on some herpetofauna from the Northern Highlands of Chiapas, Mexico. Trans. Kansas Acad. Sci. 79:131-139. 6. Johnson, J. D. 1977. Taxonomy and distribution of the Neotropical whipsnake Masticophis mentovarius (Reptilia, Serpentes, Colubridae). J. Herpetol. 11:287-309. 7. Johnson, J. D. and J. L. Knight. 1978. Geographic Distribution: Symphimus leucostomus. HISS New-J. 9:62. 8. Johnson, J. D. 1978. First record of Manolepis putnami (Serpentes: Colubridae) from Chiapas, Mexico. Southwest. Nat. 23:538. 9. Johnson, J. D. 1979. Taxonomic status and distribution of Geophis laticinctus (Colubridae) in southern Mexico. Southwest. Nat. 24:698-701. 10. Baker, R. L., M. K. Baker, J. D. Johnson, and R.G. Webb. 1980. New and noteworthy records of mammals and reptiles from Zacatecas, Mexico. Southwest. Nat. 25:568-569. 11. Johnson, J. D. 1982. Masticophis mentovarius. Cat. Amer. Amphib. Rept.
+</Description>
+<StartDate>
+<AnyDate>1983-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1983-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>12. Thomas</EmployerOrgName>
+<PositionHistory>
+<Title>R. A. and J. D. Johnson</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>295.1-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>295.4.-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Herpetol.</EmployerOrgName>
+<PositionHistory>
+<Title>senior synonym of Philodryas borellii Peracca (Serpentes: Colubridae). J</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>In</Region>
+<Municipality>Johnson</Municipality>
+<DeliveryAddress>
+<AddressLine>69. * Mata-Silva V. and J. D.</AddressLine>
+</DeliveryAddress>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Philodryas varius (Jan 1863) 18:80. 13. Johnson, J. D. and J. R. Dixon. 1984. Taxonomic status of the Venezuelan macaqua, Bothrops colombiensis. J. Herpetol. 18:229-232. 14. Rael, E. D., J. D. Johnson, and H. K. McCrystal. 1986. Proteins in Crotalus lepidus venom reactive with monoclonal antibodies against mojave toxin and L-amino acid oxidase. ABSTRACT. Second American symposium on animal, plant, and microbial toxins. Inter. Soc. Toxin., Tempe, Arizona. p. 38. 15. Johnson, J. D. 1987. Systematic analysis of the herpetofauna of southern Mexico. ABSTRACT. International Guide to Research on Mexico. Center U.S. Mexico Stud. UC-San Diego. p. 559. 16. Johnson, J. D. 1988. Comments on the report of envenomation by the colubrid snake, Stenorrhina freminvillei. Toxicon 26:519-521. 17. Johnson, J. D., C. S. Lieb, and R.G. Webb. 1988. Herpetology at the University of Texas at El Paso. Kansas Herp. Soc. Newsl. 71:2, and Texas Herp. Soc. Newsl. 1988:2. 18. Villa, J., L. D. Wilson, and J. D. Johnson. 1988. Middle American Herpetology: A Bibliographic Checklist. Univ. Missouri Press. 132 pp. 19. Johnson, J. D. 1989. A biogeographic analysis of the herpetofauna of northwestern Nuclear Central America. Cont. Geol. Biol. Milwaukee Publ. Mus. 76:1-66. 20. Wake, D. B. and J. D. Johnson. 1989. A new genus and species of plethodontid salamander from Chiapas, Mexico. Cont. Sci. Nat. Hist. Mus. Los Angeles Co. 411:1-10. 21. Johnson, J. D. 1990. Biogeographical aspects of the herpetofauna of the Central Depression of Chiapas, Mexico, with comments on surrounding areas. Southwest. Nat. 35:268-278. 22. Rael, E., J. D. Johnson, O. Molina, and H. K. McCrystal. 1992. Distribution of mojave toxin-like protein in rock rattlesnake (Crotalus lepidus). Pp. 163-168, in J.A. Campbell and R.A. Brodie (eds.), Biology of the Pitvipers. Selva Press, Tyler, Texas. 23. Johnson, J. D. 1993. Herpetofauna Mexicana. Lista anotada de las especies de anfibios y reptiles de Mexico, cambios taxonomicos recientes, y nueva especies, por O. Flores Villela (book review). Boletin Soc. Herpetol. Mexicana 5:12-15. 24. Johnson, J. D. and T. J. LaDuc. * 1994. Geographic Distribution. Ophisaurus attenuatus. Herpetol. Rev. 25:33. 25. Johnson, J. D. and T. J. LaDuc. * 1994. Geographic Distribution. Bufo woodhouseii. Herpetol. Rev. 25:159. 26. Johnson, J. D. and T. J. LaDuc. * 1994. Geographic Distribution. Diadophis punctatus arnyi. Herpetol. Rev. 25:166. 27. * LaDuc, T. J. and J. D. Johnson. 1994. Geographic Distribution. Sonora semiannulata. Herpetol. Rev. 25:168. 28. * LaDuc, T. J. and J. D. Johnson. 1994. Geographical Distribution. Tantilla nigriceps. Herpetol. Rev. 25:168. 29. Johnson, J. D. 1995. Clave para las especies de Masticophis. Pp. 217, en O. Flores V, F. Mendoza Q. y G. Gonzales P. (comps.). Recopilacion de claves para la determinacion de anfibios y reptiles de Mexico. Publ. Espec. Mus. Zool. 10, Facultad de Ciencias, UNAM. 284 pp. 30. Johnson, J. D. and J. M. Savage. 1995. A new species of the Eleutherodactylus rugulosus group (Leptodactylidae) from Chiapas, Mexico. J. Herpetol. 29:501-506. 31. Delvinquier, B. L. J., S. S. Dresser, and J. D. Johnson. 1995. Opalinidae (Sacromastigophora) in North American Amphibia. Genus Protoopalina Metcalf, 1918. Systematic Parasitology 32:141-147. 32. Lieb, C. S., R. Lazarowitz, J. D. Johnson, and L. E. Mayberry. 1996. Laboratory Manual for Introductory Biology. Kendall Hunt Publ. Co., Dubuque. 142 pp. 33. *Lannutti, D. I., T. J. LaDuc, * and J. D. Johnson. 1996. Geographic Distribution. Elaphe guttata emoryi. Herpetol. Rev. 27:212. 34. *Lannutti, D. I., T. J. LaDuc, * and J. D. Johnson. 1996. Geographic Distribution. Hypsiglena torquata jani. Herpetol. Rev. 27:213. 35. *Lannutti, D. I., T. J. LaDuc, * and J. D. Johnson. 1996. Geographic Distribution. Masticophis flagellum testaceus. Herpetol. Rev. 27:214. 36. *Lannutti, D. I., T. J. LaDuc, * and J. D. Johnson. 1996. Geographic Distribution. Rhinoceilus lecontei tesselatus. Herpetol. Rev. 27:214-215. 37. *Lannutti, D.I., T. J. LaDuc, * and J. D. Johnson. 1996. Geographic Distribution. Tantilla nigriceps. Herpetol. Rev. 27:215. 38. *Lannutti, D. I., T.J. LaDuc, * and J.D. Johnson. 1996. Geographic Distribution. Thamnophis cyrtopsis cyrtopsis. Herpetol. Rev. 27:215. 39.* Lannutti, D. I., T. J. LaDuc, * and J. D. Johnson. 1996. Geographic Distribution. Thamnophis marcianus marcianus. Herpetol. Rev. 27:215. 40. *Johnson, G.W. and J. D. Johnson. 1999. Geographic Distribution. Eumeces tetragrammus brevilineatus. Herpetol. Rev. 30:110. 41. Johnson, J. D. 2000. Indio Mountains Research Station: A Place of Learning in the Desert. Chihuahuan Desert Discovery (45):4-5, 11. 42. Johnson, J. D., R.G. Webb, and O. Flores-Villela (Eds.). 2001. Mesoamerican Herpetology, Systematics, Zoogeography, and Conservation. Spec. Publ. No. 1, Centennial Museum, University of Texas at El Paso. i-iv+200 pp. 43. Johnson, J. D. 2001. A brief history of Mesoamerican herpetology. Pp. 1-9, in Johnson, Webb, and Flores-Villela (Eds.), Mesoamerican Herpetology, Systematics, Zoogeography, and Conservation. Spec. Publ. No. 1, Centennial Museum, University of Texas at El Paso. i-iv+200 pp. 44. Johnson, J. D. and R.G. Webb. 2001. Geographic Distribution. Stenorrhina freminvillii. Herpetol. Rev. 32:280. 45. Lieb, S. F., J. D. Johnson, L. F. Mayberry, and R. Lazarowitz. 2002. Introductory Manual for Introductory Biology, 2nd Ed. Kendall/Hunt Publ. Co., Dubuque. 142 pp. 46. * LaDuc, T. J. and J. D. Johnson. 2003. A taxonomic revision of Trimorphodon biscutatus vilkinsonii (Serpentes: Colubridae). Herpetologica 59:364-374. 47. Johnson, J. D., G. W. Johnson, * and H. Riveroll, Jr. * 2004. Natural History. Coleonyx brevis. Tail regeneration. Rev. 35:388. 48. * Mata-Silva, V., J. D. Johnson, and A. Juarez-Reina.* 2006. Natural History. Cophosaurus texanus. Fatality due to Honeybee Ingestion. Herpetol. Rev. 37:464. 49. Johnson, J. D., G. W. Johnson, * and H. Riveroll, Jr. * 2007. Natural History. Sonora semiannulata. Predation by Scolopendra heros. Herpetol. Rev. 38:93-94. 50. * Mata-Silva, V., A. Ramirez-Bautista, and J. D. Johnson. 2007. Geographic Distribution. Ramphotyphlops braminus. Herpetol. Rev. 38:356. 51. * Miranda, L., V. Mata-Silva, * S. Dilks, * H. Riveroll, Jr., * and J. D. Johnson. 2008. Natural History. Crotalus molossus. Morphology: Rattleless Condition. Herpetol. Rev. 39:97. 52. * Mata-Silva, V., C. R. Bursey, and J. D. Johnson. 2008. Stomach parasites of two syntopic species of whiptail lizards (Aspidoscelis marmorata and Aspidoscelis tesselata) from the northern Chihuahuan Desert. Biol. Soc. Herpetol. Mexicana 16:1-4. 53. *Lenhart, P. A., V. Mata-Silva, * and J. D. Johnson. 2010. Diet of the Pallid Bat, Antrozous pallidus (Vespertilionidae), in the Chihuahuan Desert of Trans-Pecos, Texas. Southwest. Nat. 55:110-115. 54. * Mata-Silva, V., A. Ramirez-Bautista, and J. D. Johnson. 2010. Reproductive characteristics of two syntopic whiptail lizards, Aspidoscelis marmorata and Aspidoscelis tesselata, from the Northern Chihuahuan Desert. Southwest. Nat. 55:125-129. 55. * Mata-Silva, V., A. Ramirez-Bautista, and J. D. Johnson. 2010. Geographic Distribution: Leptodactylus fragilis. Herpetol. Rev. 41:104. 56. * Mata-Silva, V., S. Dilks, * and J. D. Johnson. 2010. Natural History. Prey. Crotalus lepidus (Rock Rattlesnake). Predation on Hypsiglena jani. Hereptol. Rev. 41:235-236. 57. Wilson, L. D., J. H. Townsend, and J. D. Johnson (Eds). 2010. Conservation of Mesoamerican Amphibians and Reptiles. Eagle Mountain Publ., L. C., Eagle Mountain, Utah. i-xviii+812 pp. 58. Wilson, L. D., J. H. Townsend, and J. D. Johnson. 2010. Preface. Pp. xiv-xvii, in Wilson, L. D., J. H. Townsend, and J. D. Johnson (Eds.), Conservation of Mesoamerican Amphibians and Reptiles. Eagle Mountain Publ., L. C., Eagle Mountain, Utah. i-xviii+812 pp. 59. Johnson, J. D., V. Mata-Silva, * and A. Ramirez-Bautista. 2010. The herpetofauna of southeastern Mexico: biogeography and conservation. Pp. 323-369, in Wilson, L.D., J. H. Townsend, and J. D. Johnson (Eds.), Conservation of Mesoamerican Amphibians and Reptiles. Eagle Mountain Publ., L.C., Eagle Mountain Utah. i-xviii+812 pp. 60. Johnson, J. D., L. D. Wilson, and J. H. Townsend. 2010. Summary of recent major changes in higher taxonomic categories of Mesoamerican amphibians and reptiles. Pp. 373-381, in Wilson, L. D., J. H. Townsend, and J. D. Johnson (Eds.). Conservation of Mesoamerican Amphibians and Reptiles. Eagle Mountain Publ., L. C., Eagle Mountain, Utah. i-xviii+812 pp. 61. Wilson, L. D, and J. D. Johnson. 2010. Distributional patterns of the amphibians and reptiles of Mesoamerica: a biodiversity hotspot. Pp. 30-235, in Wilson, L. D., J. H. Townsend, and J. D. Johnson (Eds.). Conservation of Mesoamerican Amphibians and Reptiles. Eagle Mountain Publ., L. C., Eagle Mountain, Utah. i-xviii+812 pp. 62. * Mata-Silva, V., A. Rocha, * A. Gandara, * and J. D. Johnson. 2010. Natural History. Cophosaurus texanus (Greater Earless Lizard). Multiple tails. Herpetol. Rev. 41:352-353. 63. * Mata-Silva, V., A. Ramirez-Bautista, and J. D. Johnson. 2010. Geographic Distribution. Scinax staufferi (Stauffer&apos;s Tree Frog). Herpetol. Rev. 41:508. 64. * Mata-Silva, V., A. Ramirez-Bautista, and J. D. Johnson. 2010. Geographic Distribution. Ameiva undulata (Rainbow Ameiva). Herpetol. Rev. 41:511. 65. * Mata-Silva, V., A. Ramirez-Bautista, and J. D. Johnson. 2010. Geographic Distribution. Sceloporus melanorhinus (Black-nosed Lizard). Herpetol. Rev. 41:514-515. 66. * Mata-Silva, V., A. Ramirez-Bautista, and J. D. Johnson. 2010. Geographic Distribution. Sceloporus siniferus (Long-tailed Spiny Lizard). Herpetol. Rev. 41:515. 67. * Mata-Silva, V., and J. D. Johnson. 2011. Natural History. Phrynosoma modestum (Round-tailed Horned Lizard). Predation by Antrozous pallidus. Herpetol. Rev. 42:95. 68. * Mata-Silva, V., J. D. Johnson, and A. Rocha *. In Press. Natural History. Crotalus lepidus (Rock Rattlesnake). Predation on Cophosaurs texanus. Herpetol. Rev. Press. Natural History. Rena humilis (Western Blind Snake). Predation by Antrozous pallidus. Herpetol. Rev. RESEARCH IN PROGRESS Systematic Studies: Systematics of Trimorphodon vilkinsonii (protected Chihuahuan Desert colubrid snake) systematics of Crotalus lepidus (Chihuahuan/Sonoran Desert rattlesnake) systematics of Stenorrhina freminvillii and S. degenhardtii (Mesoamerican colubrid snakes). Ecological Studies: Population structure and dynamics of five species of teiid lizards, three species of iquanid lizards, two species of skinks, one gecko species, and three species of rattlesnakes. This research is primarily being done at Indio Mountains Research Center. Biogeography and conservation of Mesoamerican ecosystems, especially tropical vegetation formations and inclusive herpetofaunas. Biochemical Studies: Immunological analysis of the venoms and DNA analysis of red blood cells of three species of rattlesnakes. The majority of this research is being conducted at Indio Mountains Research Station and labs at UTEP. Biogeographic Studies: Biogeographic analysis of the herpetofauna of the Chihuahuan Desert and adjacent areas. Biogeographic analysis of the Mesoamerican herpetofauna. A book on the herpetofauna of Tabasco, Mexico, with Rosario Barragan, Univ. Autonomous de Tabasco. NON-PROFESSIONAL AND CIVIC ACTIVITIES
+</Description>
+<StartDate>
+<AnyDate>1984-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1984-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>El Paso Council For International Visitors</EmployerOrgName>
+<PositionHistory>
+<Title>Vice President</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1996-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Memorial Park Improvement Association</EmployerOrgName>
+<PositionHistory>
+<Title>Director of the Board</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>El Paso</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>management</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Board of Directors - El Paso Parks and Recreation Department.</EmployerOrgName>
+<PositionHistory>
+<Title>A judge</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>on &quot;High Q&quot;, an educational game show on El Paso, Texas&apos; public television station (KCOS). I routinely serve as a judge for El Paso area public and private schools science fairs. Board member
+</Description>
+<StartDate>
+<AnyDate>1991-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>of the El Paso Council for International Visitors</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Member El Paso Council for International Visitors</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Board of Directors for the Memorial Park Improvement Association</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>El Paso</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>Committee member for the International Fair at the 1989 El Paso Amigo Airsho. I enjoy listening to music, especially jazz and New Age. I enjoy college athletics. I belong to the Miner Foundation, which helps support UTEP athletics. I enjoy collecting antiques and modern collectables, especially items with historical interest. GRADUATE COURSES TAKEN
+</Description>
+<StartDate>
+<AnyDate>1988-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>FORT HAYS STATE UNIVERSITY (KANSAS)</EmployerOrgName>
+<PositionHistory>
+<Title>GPA = 4.00</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Paleobiology, Evolution, Ichthyology, Readings in Zoology (Neotropical herpetology), Readings in Geography (Mexican geography).
+</Description>
+<StartDate>
+<AnyDate>1988-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>THE UNIVERSITY OF TEXAS AT EL PASO</EmployerOrgName>
+<PositionHistory>
+<Title>GPA = 3.81</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Animal Behavior, Mathematical Modeling of Biological Systems, Plant Ecology, Biology of the Pleistocene, Mammalogy, Numerical Taxonomy, Paleozoic and Mesozoic Paleontology. TEXAS A&amp;M UNIVERSITY: GPA = 3.80 Aquatic Entomology, Electron Microscopy, The College Student (Educational Psychology), Field and Lab Methods in Wildlife Sciences, Evolutionary Anthropology, Zoogeography, Vertebrate Systematics, Systematic Herpetology, Terrestrial Ecosystems, Statistics in Research, Computer Applications in Science.
+</Description>
+<StartDate>
+<AnyDate>1988-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>High School: Assaria High School</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Kansas</Region>
+<Municipality>Assaria</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>1965-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Zoology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Fort Hays State University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Kansas</Region>
+<Municipality>Hays</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>MS</DegreeName>
+<DegreeDate>
+<AnyDate>1972-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>The University of Texas at El Paso</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>El Paso</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>PhD</DegreeName>
+<DegreeDate>
+<AnyDate>1975-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Dr. Robert G. Webb</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>advisor.</Name>
+</DegreeMinor>
+<Comments>Thesis: The Taxonomy and Distribution of the Neotropical Whipsnake, Masticophis mentovarius.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Texas A&amp;M University</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>College Station</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>1984-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Wildlife &amp; Fisheries Sci.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Masters</DegreeName>
+<DegreeMajor>
+<Name>Program Advisor, Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Mountains Research Station Advisory Committee, COS</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Master</DegreeName>
+<DegreeMajor>
+<Name>Graduate Student Admissions Committee, Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Museum</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Search Committee, Neurobiology position, Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Search Committee, Evolutionary Geneticist, Biology</Name>
+</DegreeMajor>
+<Comments>Hoc Reviewer, NSF grant proposal, Biological Sciences Directorate, Biodiversity and Inventory panel.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Alamo Elementary School Career and Job Expo.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>May</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>Master</DegreeName>
+<DegreeDate>
+<AnyDate>2005-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Participant</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>College of Science UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2006-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Promotion and Tenure Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Master</DegreeName>
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Chairman, Search Committee for Evolutionary Geneticist</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Science Teacher Advisory Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>requirements</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>Fort Davis</Municipality>
+<DeliveryAddress>
+<AddressLine>16 July</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>MPS Frameworks Workshop</Name>
+</DegreeMajor>
+<Comments>Invited Participant, Bioblitz Herpetology Survey, Chihuahuan Desert Research Institute, 15</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>Texas</Region>
+<Municipality>Odessa</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2001-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Pre-requisite Course Committee, Biology</Name>
+</DegreeMajor>
+<Comments>Chihuahuan Desert Parks Inventory and Monitoring Network Scoping Meeting</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UTEP.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2000-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Department Advisory Committee, Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Institutional Effectiveness Committee</Name>
+</DegreeMajor>
+<Comments>Candidate Evaluation Committee, Biology, EPCC.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Marine Science Univ.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>to make</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ. Texas Pan American Coastal Studies Lab</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>of Marine laboratories</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC Marine Laboratories Hispanic Initiative Workshop</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2025-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>how to get Hispanics interested</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>marine biology</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Texas Marine Sciences Institute.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Nine students and I participated.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Coalition Participant</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Arizona State Univ., NSF supported.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1992-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Coalition to Increase</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Entry-Level Course initiatives</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeDate>
+<AnyDate>2024-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Selected Participant, Workshop on</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>science</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>supported by U.S. Dept. Education.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Participant, Title III, Resource Development Mentoring Project</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1990-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>The program teaches grant writing, mentoring colleagues</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Criteria IV, Administrative Process Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1989-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Academic Affairs Committee</Name>
+</DegreeMajor>
+<Comments>Reviewer and Panelist for National Science Foundation, Directorate for Science and Engineering Education, Division of Teacher Preparation and Enhancement.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Research Committee, Biology</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1993-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Committee, Biology</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Honors Program</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1987-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Participant, Instructional Computing Charrette</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1987-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Tenure Review Committee, Sciences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>MISIP Grant Proposal Team</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>ESOP Grant Proposal Team</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Guest Lecturer, English as a second language reading classes</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Tenure Review Committee, Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>EPCC.</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1983-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Tenure Review Committee, Science</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Qualifications>
+<Competency name = "Bridges">
+<CompetencyEvidence name ="Bridges" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">8</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "CAT">
+<CompetencyEvidence name ="CAT" lastUsed="1983-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Chemistry">
+<CompetencyEvidence name ="Chemistry" lastUsed="1994-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Distribution">
+<CompetencyEvidence name ="Distribution" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">6</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Integrate">
+<CompetencyEvidence name ="Integrate" lastUsed="2008-01-01">
+<NumericValue description="Range in years of experience">4</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Medical">
+<CompetencyEvidence name ="Medical" lastUsed="1997-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications" lastUsed="2002-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="1973-01-01">
+<NumericValue description="Range in years of experience">24</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "SAN (Storage Area Network)">
+<CompetencyEvidence name ="SAN (Storage Area Network)" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">23</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "SOC">
+<CompetencyEvidence name ="SOC" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Spring">
+<CompetencyEvidence name ="Spring">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Statistics">
+<CompetencyEvidence name ="Statistics">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Systematics (Finance Sw)">
+<CompetencyEvidence name ="Systematics (Finance Sw)" lastUsed="1984-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "XI">
+<CompetencyEvidence name ="XI" lastUsed="1994-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Description>BIOLOGY: Developed a scientific research honors component for General Biology Human Ecology and Invertebrate and Vertebrate Zoology courses (EPCC). The honors components were field oriented research projects STUDENT RESEARCH: Developed and initiated extensive field research components into General Biology Zoology and Human Ecology courses at EPCC and Field Biology at UTEP. Students participated on one-week field trips to either The Center for the Study of Deserts and Oceans Puerto Penasco Mexico (fall) or to the Indio Mountains Research Station Hudspeth County Texas (fall spring summer)</Description>
+</Achievement>
+<Achievement>
+<Description>ENVIRONMENT AND MAN: Developed a course in human ecology GENERAL BIOLOGY LABS: Developed auto-tutorial and open labs</Description>
+<IssuingAuthority>EPCC.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>(EPCC) GENERAL BIOLOGY LABS: Assisted in preparing auto-tutorial and open labs (UTEP)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2000-01-01</StringDate></Date>
+<Description>ADMINISTRATIVE EXPERIENCE</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2000-01-01 - PRESENT</StringDate></Date>
+<Description> 1992: Coordinator of Biology Department (EPCC).</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1977-01-01 - 1979-01-01</StringDate></Date>
+<Description>Coordinator of Biology Department</Description>
+<IssuingAuthority>EPCC.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1974-01-01 - 1975-01-01</StringDate></Date>
+<Description>Coordinator for all biology labs (UTEP)</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>PRESENT</StringDate></Date>
+<Description>NON-TEACHING BIOLOGICAL EXPERIENCE/ACTIVITIES</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>PRESENT</StringDate></Date>
+<Description>Collecting Permits in Force: New Mexico Parks Dept. Fish and Game. Texas Parks and Wildlife Depart</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1970-01-01</StringDate></Date>
+<Description>Field Research biochemical analysis of rattlesnake venoms using immunological techniques snake and lizard ecology and Biogeography of Chihuahuan Desert Herpetofauna. All research projects include EPCC or UTEP undergraduate and graduate students.</Description>
+<IssuingAuthority>UTEP/EPCC</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1970-01-01 - PRESENT</StringDate></Date>
+<Description>Field Research in Mexico. A total of more than 20 man-months have been spent collecting and studying amphibians and reptiles in Mexico which supported two graduate degrees and ongoing professional research. Mexican states where fieldwork took place included: Chiapas Quintana Roo Yucatan Campeche</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1981-01-01</StringDate></Date>
+<Description>Veracruz Oaxaca Michoacan Puebla Guanajuato San Luis Potosi Jalisco Nayarit Sinaloa Durango Zacatecas Sonora and Chihuahua</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1981-01-01</StringDate></Date>
+<Description>Curatorial Assistant Texas Cooperative Wildlife Collection</Description>
+<IssuingAuthority>Texas A&amp;M University herpetology collection.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1976-01-01</StringDate></Date>
+<Description>1973: Curatorial Assistant Fort Hays State University (herpetology collection).</Description>
+<IssuingAuthority>Museum of the High Plains</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1972-01-01</StringDate></Date>
+<Description>Research Assistant Fort Hays State University (summer herpetology field surveys).</Description>
+<IssuingAuthority>Museum of the High Plains</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1970-01-01</StringDate></Date>
+<Description>Herbarium Assistant Fort Hays State University (collected &amp; prepared plant specimens).</Description>
+<IssuingAuthority>Museum of the High Plains</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1970-01-01 - 1972-01-01</StringDate></Date>
+<Description>Research Assistant Department of Biology Fort Hays State University (collected and prepared mammal and bird specimens in Mexico)</Description>
+</Achievement>
+<Achievement>
+<Description>REPORTS PRESENTATIONS AND POSTERS (Presenter in Bold) = UTEP Undergraduate Students</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>AND SUPPORTED RESEARCH</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2011-01-01</StringDate></Date>
+<Description>NSF FSML. Supplement to NSF grant Development of Indio Mountains Research Station Phase III</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Director Indio Mountains Research Station a 40,000 acre facility located in Hudspeth County Texas. (UTEP)</Name>
+<Role><Name>Director</Name></Role>
+</Association>
+<Association>
+<Name>Technical Advisor UTEP field studies in Mexico</Name>
+<Role><Name>Advisor</Name></Role>
+</Association>
+<Association>
+<Name>1984-1993.</Name>
+</Association>
+<Association>
+<Name>Society).</Name>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-01-01</AnyDate>
+</EndDate>
+</Association>
+<Association>
+<Name>Society).</Name>
+</Association>
+<Association>
+<Name>1979.</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>Q1VSUklDVUxVTSBWSVRBIC0gRHIuIEplcnJ5IEQuIEpvaG5zb24gDQooMzAgSnVseSAyMDExKQ0KICANCiAgICANCiAgUFJPRkVTU0lPTkFMIEFERFJFU1MgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhPTUUgQUREUkVTUw0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICANCkRlcGFydG1lbnQgb2YgQmlvbG9naWNhbCBTY2llbmNlcyAgICAgICAgICAgICAgMzE0NyBXaGVlbGluZywgRWwgUGFzbywgVGV4YXMgNzk5MzANClRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEVsIFBhc28gICAgICAgICAgICBQaG9uZTogKDkxNSkgNTY1LTIyNDUNCkVsIFBhc28sIFRleGFzIDc5OTY4ICAgICAgICAgICAgICAgICAgICAgICAgICAgDQpQaG9uZTogKDkxNSkgNzQ3LTY5ODQgICAgICAgICAgICAgICAgDQpFLW1haWw6IGpqb2huc29uQHV0ZXAuZWR1DQoNClBFUlNPTkFMIERBVEENCiAgDQoNCkJvcm46ICAgICAgICBTYWxpbmEsIEthbnNhcywgMSBTZXB0ZW1iZXIgMTk0Ny4NCiAgDQpNYXJyaWVkOiAgIFdpZmUsIEthdGhyeW4sIHR3byBib3kgY2hpbGRyZW4gKFdhbGtlciBhbmQgQnJldHQpLg0KICANCk1pbGl0YXJ5OiAgICBVbml0ZWQgU3RhdGVzIE1hcmluZSBDb3JwcywgMTk2Ni0xOTY5LiBIb25vcmFibGUgRGlzY2hhcmdlIChTZXJnZWFudCBFLTUpLiBWaWV0bmFtIFZldGVyYW4uDQogIA0KRURVQ0FUSU9ODQogIA0KSGlnaCBTY2hvb2w6ICAgICAgICAgQXNzYXJpYSBIaWdoIFNjaG9vbCwgQXNzYXJpYSwgS2Fuc2FzICgxOTY1KS4NCiAgDQpCUyAoWm9vbG9neSk6ICAgICAgIEZvcnQgSGF5cyBTdGF0ZSBVbml2ZXJzaXR5LCBIYXlzLCBLYW5zYXMgKDE5NzIpLg0KICANCk1TIChCaW9sb2d5KTogICAgICAgVGhlIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgRWwgUGFzbywgRWwgUGFzbywgVGV4YXMgKDE5NzUpLiANCiAgICAgICAgICAgICAgICAgICAgICAgICAgRHIuIFJvYmVydCBHLiBXZWJiLCBhZHZpc29yLg0KICAgICAgICANCiAgICAgICAgICAgICAgICAgICAgIFRoZXNpczogVGhlIFRheG9ub215IGFuZCBEaXN0cmlidXRpb24gb2YgdGhlIE5lb3Ryb3BpY2FsIFdoaXBzbmFrZSwgTWFzdGljb3BoaXMgbWVudG92YXJpdXMuDQogIA0KIFBoRCAoV2lsZGxpZmUgJiBGaXNoZXJpZXMgU2NpLik6ICAgIFRleGFzIEEmTSBVbml2ZXJzaXR5LCBDb2xsZWdlIFN0YXRpb24sIFRleGFzICgxOTg0KS4NCiAgICAgRHIuIEphbWVzIFIuIERpeG9uLCBhZHZpc29yLg0KICANCiAgICAgICAgICAgICAgICAgICAgIERpc3NlcnRhdGlvbjogIEEgQmlvZ2VvZ3JhcGhpYyBBbmFseXNpcyBvZiB0aGUgSGVycGV0b2ZhdW5hIG9mIE5vcnRod2VzdGVybiBOdWNsZWFyIENlbnRyYWwgQW1lcmljYS4NCiAgDQpBQ0FERU1JQyBQT1NJVElPTlMNCiAgDQoyMDAwIC0gUHJlc2VudDogUHJvZmVzc29yIG9mIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEVsIFBhc28gKFVURVApLiAoVGVudXJlZCwgMjAwMCkuDQogIA0KMjAwMCAtIFByZXNlbnQ6IEZhY3VsdHkgbWVtYmVyLCBFbnZpcm9ubWVudGFsIFNjaWVuY2VzIGFuZCBFbmdpbmVlcmluZyBQaC5ELiBQcm9ncmFtLCBVVEVQLg0KDQoyMDAwIC0gUHJlc2VudDogR3JhZHVhdGUgRmFjdWx0eSwgRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQLg0KICANCjE5NzUgLSAyMDAwOiBJbnN0cnVjdG9yIG9mIEJpb2xvZ3ksIEVsIFBhc28gQ29tbXVuaXR5IENvbGxlZ2UgKEVQQ0MpLiAgKFRlbnVyZWQsIDE5ODApLiANCiAgDQoxOTg0IC0gMjAwMDogVmlzaXRpbmcgRmFjdWx0eSwgRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQLg0KIA0KMTk3NTogTGVjdHVyZXIsIERlcGFydG1lbnQgb2YgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUC4NCiAgDQoxOTc0OiBMYWIgQXNzaXN0YW50IChCaW9jaGVtaXN0cnkpLCBVVEVQLg0KICANCjE5NzMgLSAxOTc1OiBUZWFjaGluZyBBc3Npc3RhbnQgKEJpb2xvZ3kpLCBVVEVQLg0KICANCjE5NzM6ICBUZWFjaGluZyBBc3Npc3RhbnQgKEhlcnBldG9sb2d5KSwgRm9ydCBIYXlzIFN0YXRlIFVuaXZlcnNpdHkuDQpDT0xMRUdFIENPVVJTRVMgVEFVR0hUDQogICAgDQpHUkFEVUFURQ0KICANCkJpb2dlb2dyYXBoeSAoVVRFUCk7IEVudmlyb25tZW50YWwgQmlvbG9neSAoVVRFUCk7IEVjb2xvZ3kgb2YgRGVzZXJ0IE9yZ2FuaXNtcyAoVVRFUCk7IEdlbmV0aWNzIGFuZCBFdm9sdXRpb24gKFVURVApOyBSZXNlYXJjaCBpbiBCaW9sb2dpY2FsIFNjaWVuY2UgKFVURVApOyBJbmRlcGVuZGVudCBSZXNlYXJjaCAoVVRFUCk7IEFkdmFuY2VkIFJlc2VhcmNoIFRlY2huaXF1ZXMgKFVURVApOyBTZW1pbmFyOiBTcGVjaWVzIENvbmNlcHRzOyAoVVRFUCk7IFRoZXNpcyAoVVRFUCk7IERpc3NlcnRhdGlvbiAoVVRFUCkuDQogIA0KVU5ERVJHUkFEVUFURQ0KICANCkdlbmVyYWwgQmlvbG9neSBmb3IgU2NpZW5jZSBNYWpvcnMgSSAoRVBDQyBhbmQgVVRFUCk7IEdlbmVyYWwgQmlvbG9neSBmb3IgU2NpZW5jZSBNYWpvcnMgSUkgKEVQQ0MgYW5kIFVURVApOyBCaW9sb2d5IGZvciBMaWJlcmFsIEFydHMgTWFqb3JzIChFUENDKTsgRGVzZXJ0IEVjb2xvZ3kgKFVURVApOyBJbnZlcnRlYnJhdGUgWm9vbG9neSAoRVBDQyk7IFZlcnRlYnJhdGUgWm9vbG9neSAoVVRFUCBhbmQgRVBDQyk7IEdlbmVyYWwgWm9vbG9neSAoRVBDQyk7IEdlbmVyYWwgQm90YW55IChFUENDKTsgRmllbGQgQmlvbG9neSAoVVRFUCk7IEh1bWFuIEVjb2xvZ3kgKEVQQ0MpLiBBbmF0b215IGFuZCBQaHlzaW9sb2d5IChFUENDKTsgSW50ZXJkaXNjaXBsaW5hcnkgU2NpZW5jZSBJIGFuZCBJSSAoRVBDQyk7IFNwZWNpYWwgUHJvYmxlbXMgKFVURVApOyBUb3BpY3MgaW4gQmlvbG9neSAoVVRFUCkuDQpHUkFEVUFURSBTVFVERU5UUyAoVVRFUCkNCg0KTWFqb3IgQWR2aXNvciAoRGlyZWN0b3IpDQoNCjEuIERhdmlkIEEuIEtpemlyaWFuOiBNUyBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgxOTg3KS4gVGhlc2lzOiBHZW9ncmFwaGljIFZhcmlhdGlvbiBpbiB0aGUgWm9uZSBvZiBDb250YWN0IGJldHdlZW4gVHdvIFN1YnNwZWNpZXMgb2YgR29waGVyIFNuYWtlcyAoUGl0dW9waGlzIG1lbGFub2xldWN1cykuICBQaEQsIFVuaXZlcnNpdHkgb2YgS2Fuc2FzLCAxOTk2LiAgUHJlc2VudGx5LCBoZXJwZXRvbG9neSBjdXJhdG9yLCBBbWVyaWNhbiBNdXNldW0gb2YgTmF0dXJhbCBIaXN0b3J5LiBDby1EaXJlY3RvciB3aXRoIFIuIEcuIFdlYmIuDQoNCjIuIENocmlzdG9waGVyIFIuIEhhcnJpc29uOiAgTVMgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMTk5MikuICBUaGVzaXM6IEEgVGF4b25vbWljIFJldmlzaW9uIG9mIHRoZSBTbmFrZXMgaW4gdGhlIENvbmlvcGhhbmVzIHBpY2VpdnZpdHRpcyBzcGVjaWVzIGdyb3VwLiAgUHJlc2VudGx5LCBJbnN0cnVjdG9yLCBTYW4gQW50b25pbyBDb21tdW5pdHkgQ29sbGVnZS4gIENvLURpcmVjdG9yIHdpdGggUi4gRy4gV2ViYi4NCg0KMy4gVHJhdmlzIEouIExhRHVjOiBNUyBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgxOTk2KS4gIFRoZXNpczogQSBUYXhvbm9taWMgUmV2aXNpb24gb2YgdGhlIEFkZWxwaGljb3MgcXVhZHJhdmlyZ2F0dW0gc3BlY2llcyBncm91cCAoU2VycGVudGVzOiBDb2x1YnJpZGFlKS4gIFBoRCwgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBdXN0aW4sIDIwMDMuICBQcmVzZW50bHksIEFzc2lzdGFudCBDdXJhdG9yIG9mIEhlcnBldG9sb2d5LCBUZXhhcyBNZW1vcmlhbCBNdXNldW0sIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgQXVzdGluLiBDby1EaXJlY3RvciB3aXRoIFIuIEcuIFdlYmIuDQoNCjQuIEN1cnRpcyBNLiBFY2tlcm1hbjogIE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDE5OTYpLiAgVGhlc2lzOiBWYXJpYXRpb24sIFN5c3RlbWF0aWNzLCBhbmQgSW50ZXJzcGVjaWZpYyBQb3NpdGlvbiBvZiBIZXRlcm9kb24gbmFzaWN1cyAoU2VycGVudGVzOiBDb2x1YnJpZGFlKS4gUHJlc2VudGx5LCBTY2llbmNlIEdyb3VwIENoYWlyL0FydHMgYW5kIFNjaWVuY2VzLCBCaW9sb2d5LCBEZXMgTW9pbmVzIEFyZWEgQ29tbXVuaXR5IENvbGxlZ2UuIENvLURpcmVjdG9yIHdpdGggRS4gV2Fsc2guDQoNCjUuIEFsdmFybyBEb21pbmd1ZXo6ICBNUyBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgyMDAwKS4gVGhlc2lzOiBBbiBBbmFseXNpcyBvZiBSb2NrIFJhdHRsZXNuYWtlcyAoQ3JvdGFsdXMgTGVwaWR1cykgZnJvbSB0aGUgTm9ydGhlcm4gUG9ydGlvbiBvZiBpdHMgUmFuZ2UuICBQcmVzZW50bHksIERPQSBhZ2VudCBpbiBFbCBQYXNvLCBUZXhhcy4gQ28tRGlyZWN0b3Igd2l0aCBSLiBHLiBXZWJiLg0KDQo2LiBQYXVsIEUuIEhvdGNoa2luOiAgTVMgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMjAwMikuICBUaGVzaXM6IENvbXBhcmF0aXZlIEVzY2FwZSBCZWhhdmlvciBvZiBQYXJ0aGVub2dlbmV0aWMgYW5kIEdvbm9jaG9yaXN0aWMgTGl6YXJkcyBvZiB0aGUgR2VudXMgQ25lbWlkb3Bob3J1cy4gUmF0ZWQgVG9wIEdyYWR1YXRpbmcgTVMgc3R1ZGVudCBpbiBCaW9sb2d5IERlcGFydG1lbnQsIHNwcmluZyAyMDAyLiAgUHJlc2VudGx5LCBQaEQgcHJvZ3JhbSwgVVRFUC4NCg0KNy4gQWxsaXNvbiBEYXZpczogIE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDIwMDMpLiAgVGhlc2lzOiBUaGUgTGltbm9sb2d5IGFuZCBNYWNyb2ludmVydGVicmF0ZXMgb2YgU3F1YXcgU3ByaW5nLCBJbmRpbyBNb3VudGFpbiBSZXNlYXJjaCBTdGF0aW9uLiAgUmF0ZWQgVG9wIEdyYWR1YXRpbmcgTVMgU3R1ZGVudCBpbiBCaW9sb2d5IERlcGFydG1lbnQsIHNwcmluZyAyMDAzLiAgUHJlc2VudGx5LCBQaC5ELiBDYW5kaWRhdGUsIFVuaXZlcnNpdHkgb2YgTm9ydGggVGV4YXMuDQoNCjguIFZpY2VudGUgTWF0YS1TaWx2YTogIE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDIwMDUpLiBUaGVzaXM6IERpZXQgQ29tcGFyaXNvbiBCZXR3ZWVuIFN5bXBhdHJpYyBMaXphcmRzIG9mIHRoZSBHZW51cyBBc3BpZG9zY2VsaXMgb24gSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24sIFRleGFzLiAgUmF0ZWQgYmVzdCBNUyB0aGVzaXMgaW4gQmlvbG9neSBmb3IgMjAwNS4gIFByZXNlbnRseSwgUGhEIHByb2dyYW0sIFVURVAuDQoNCjkuIEx1aXMgTWlyYW5kYTogIE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMgKDIwMDkpLiBUaGVzaXM6IEVjb2xvZ2ljYWwgQW5hbHlzaXMgb2YgT3h5Z2VuIENvbnN1bXB0aW9uIGluIFRocmVlIFNwZWNpZXMgb2YgUmF0dGxlc25ha2VzIChDcm90YWx1cyBsZXBpZHVzLCBDLiBtb2xvc3N1cywgYW5kIEMuIGF0cm94KSBmcm9tIHRoZSBOb3J0aGVybiBDaGlodWFodWFuIERlc2VydA0Kb2YgVHJhbnMtUGVjb3MsIFRleGFzLiBQcmVzZW50bHksIFBoRCBwcm9ncmFtLCBOZXcgTWV4aWNvIFN0YXRlIFVuaXZlcnNpdHkgKGZhbGwsIDIwMDkpLg0KDQoxMC4gSGVjdG9yIFJpdmVyb2xsLCBKci46IFBoRCBDYW5kaWRhdGUsIFVURVAgQmlvbG9naWNhbCBTY2llbmNlcyAoMjAwMiwgSW4gUHJvZ3Jlc3MpLiBEaXNzZXJ0YXRpb246IFBoeWxvZ2VvZ3JhcGh5IG9mIHRoZSBSb2NrIFJhdHRsZXNuYWtlLCBDcm90YWx1cyBsZXBpZHVzLiBDby1EaXJlY3RvciB3aXRoIEVsaXphYmV0aCBXYWxzaC4NCg0KMTEuIFBhdWwgSG90Y2hraW46ICBQaEQgQ2FuZGlkYXRlLCBCaW9sb2dpY2FsIFNjaWVuY2VzICgyMDA1LCBJbiBQcm9ncmVzcykuIERpc3NlcnRhdGlvbjogVmVnZXRhdGlvbiBDaGFuZ2UgaW4gdGhlIEZyYW5rbGluIE1vdW50YWlucyBvZiBFbCBQYXNvLCBUZXhhcy4gQ28tRGlyZWN0b3Igd2l0aCBDcmFpZyBUd2VlZGllLg0KDQoxMi4gVmljZW50ZSBNYXRhLVNpbHZhOiAgUGhEIENhbmRpZGF0ZSwgQmlvbG9naWNhbCBTY2llbmNlcyAoMjAwNSwgSW4gUHJvZ3Jlc3MpLiBEaXNzZXJ0YXRpb246IFNwYXRpYWwgRWNvbG9neSBvZiBDcm90YWx1cyBsZXBpZHVzIGluIHRoZSBOb3J0aGVybiBDaGlodWFodWFuIERlc2VydC4NCg0KMTMuIEFydHVybyBSb2NoYTogTVMgQmlvbG9naWNhbCBTY2llbmNlcyAoMjAwOSwgSW4gUHJvZ3Jlc3MpLiBTcGF0aWFsIEVjb2xvZ3kgb2YgdGhlIFRyYW5zLVBlY29zIFJhdCBTbmFrZSwgQm9nZXJ0b3BoaXMgc3Vib2N1bGFyaXMsICBpbiB0aGUgQ2hpaHVhaHVhbiBEZXNlcnQgb2YgVHJhbnMtUGVjb3MsIFRleGFzLg0KDQoxNC4gTWljaGFlbCBMdWtlZmFocjogTVMgQmlvbG9naWNhbCBTY2llbmNlcyAoMjAxMCwgSW4gUHJvZ3Jlc3MpLiBFY3RvcGFyYXNpdGUgQ29tcGFyaXNvbiBCZXR3ZWVuIHN5bnRvcGljIFVuaXNleHVhbCBhbmQgQmlzZXh1YWwgd2hpcHRhaWwgbGl6YXJkcyBpbiB0aGUgTm9ydGhlcm4gQ2hpaHVhaHVhbiBEZXNlcnQgb2YgVHJhbnMtUGVjb3MsIFRleGFzLg0KDQoxNS4gUm9zcyBDb3V2aWxsb246IE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMgKDIwMTAsIEluIFByb2dyZXNzKS4gRWNvZ2VvZ3JhcGhpYyBBbmFseXNpcyBvZiB0aGUgSGVycGV0b2ZhdW5hIG9mIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLCBIdWRzcGV0aCBDb3VudHksIFRleGFzLg0KDQpDb21taXR0ZWUgTWVtYmVyDQoNCjEuIENocmlzdGluZSBDYXJyYW56YTogIE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDE5OTcpLiAgVGhlc2lzOiBQYXJhc2l0ZXMgb2YgdGhlIExpemFyZHMgaW4gdGhlIEdlbnVzIENuZW1pZG9waG9ydXMgQ29sbGVjdGVkIGluIFdlc3QgVGV4YXMgYW5kIFNvdXRoZXJuIE5ldyBNZXhpY28uDQoNCjIuIERlYm9yYWggSi4gR29yZG9uOiAgTVMgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMTk5NykuIFRoZXNpczogSW5jcmVtZW50YWwgVGFpbCBMb3NzIGFuZCBSdW5uaW5nIFNwZWVkIG9mIENuZW1pZG9waG9ydXMgaW5vcm5hdHVzIChSZXB0aWxpYTogVGVpaWRhZSkuDQoNCjMuIEJyaWFuIEouIFdvb2xkcmlkZ2U6ICBNUyBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgxOTk5KS4gIFRoZXNpczogRE5BIEFuYWx5c2lzIGZvciBNZXRhbGxvcHJvdGVuaW5hc2UgYW5kIE1vamF2ZSBUb3hpbiBHZW5lcyBpbiBDaHJvbW9zb21hbCBETkEgb2YgdGhlIE1vamF2ZSBSYXR0bGVzbmFrZSBDcm90YWx1cyBzY3V0dWxhdHVzLg0KDQo0LiBEb21pbmljIEkuIExhbm51dHRpOiBNUyBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgyMDAwKS4gIFRoZXNpczogTW9ycGhvbG9naWNhbCBWYXJpYXRpb24gaW4gU2FsdmFkb3JhIGdyYWhhbWlhZSBhbmQgUmVsYXRlZCBUYXhhIChTZXJwZW50ZXM6IENvbHVicmlkYWUpLiBJbnN0cnVjdG9yLCBFbCBQYXNvIENvbW11bml0eSBDb2xsZWdlLiBQcmVzZW50bHksIFBoRCBQcm9ncmFtLCBVVEVQLg0KDQo1LiBNYXR0aGV3IE1jTWlsbGFuOiBNUyBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgyMDAyKS4gVGhlc2lzOiBWYXJpYXRpb24gaW4gQ3JvdGFsdXMgYmFzaWxpc2N1cyBhbmQgQ3JvdGFsdXMgbW9sb3NzdXMgd2l0aCBhbiBFdmFsdWF0aW9uIG9mIEh5YnJpZGl6YXRpb24uIFByZXNlbnRseSwgRWNvbG9naXN0IFNXQ0EgRW52aXJvbm1lbnRhbCBDb25zdWx0YW50cywgQWxidXF1ZXJxdWUsIE5ldyBNZXhpY28uDQoNCjYuIFJhdWwgR3V0aWVycmV6OiBNUyBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgyMDAyKS4gVGhlc2lzOiBNb2xlY3VsYXIgU3lzdGVtYXRpY3Mgb2YgUHJvYm9zY2lkYWUgKE1hcnR5bmlhY2VhZSkgYW5kIEFsbGllZCBHZW5lcmEgVXNpbmcgdGhlIElUUyBSZWdpb24gb2YgTnVjbGVhciBSaWJvc29tYWwgRE5BLiBQcmVzZW50bHksIFBoRCBQcm9ncmFtLCBBcml6b25hIFN0YXRlIFVuaXZlcnNpdHkuDQoNCjcuIEZyYW5jaXNjbyBNYXJ0aW5lei1Hb256YWxlczogUGhEIEVudmlyb25tZW50YWwgU2NpZW5jZXMgYW5kIEVuZ2luZWVyaW5nLCBVVEVQICgyMDAyKS4gRGlzc2VydGF0aW9uOiBIb3cgU2xvcGUsIEFzcGVjdCwgYW5kIFNoYWRpbmcgQW5nbGVzIERldGVybWluZSB0aGUgRGlzdHJpYnV0aW9uIG9mIFNvbWUgUGxhbnRzIGluIHRoZSBDaGlodWFodWFuIERlc2VydC4NCg0KOC4gU2F1bCBOYXZhOiAgTVMgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMjAwNCkuICBUaGVzaXM6ICBDb21wYXJhdGl2ZSBFY29sb2d5IEJldHdlZW4gVGhyZWUgU3BlY2llcyBvZiBHZWNrb3Mgb24gUHVlcnRvIFJpY28uIFBoRCwgSW5kaWFuYSBVbml2LiwgMjAwOS4gUHJlc2VudGx5LCBQb3N0LURvYyBhdCBIYXJ2YXJkLg0KDQo5LiBIZWxlbiBCcmV3ZXI6IE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDIwMDQpLiBUaGVzaXM6ICBBIFN1cnZleSBvZiB0aGUgTWFtbWFscyBvZiBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4gUHJlc2VudGx5LCBIaWdoIFNjaG9vbCBUZWFjaGVyLCBTb2NvcnJvIElTRCwgRWwgUGFzbywgVGV4YXMuDQoNCjEwLiBCb25uaWUgUGF5YW46ICBNUyBTZWNvbmRhcnkgRWR1Y2F0aW9uLCBVVEVQICgyMDA1KS4gIFRoZXNpczogQWZmZWN0cyBvZiBJbnF1aXJ5IEJhc2VkIEluc3RydWN0aW9uLg0KDQoxMS4gRGFuYSBDYXJjaXVtYXJ1OiAgUGhEIEdlb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDIwMDUpLiAgRGlzc2VydGF0aW9uOiBTdHJ1Y3R1cmFsIEdlb2xvZ3ksIFRlY3RvbmljcywgYW5kIEZsdWlkIEZsb3cgaW4gdGhlIE5vcnRoZXJuIEJlbmQgb2YgdGhlIENoaWh1YWh1YW4gVHJvdWdoLg0KDQoxMi4gQW5nZWxhIENoYXZlejogIE1TIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDIwMDYpLiAgVGhlc2lzOiBDb21wYXJhdGl2ZSBWZXJ0ZWJyYWwgTW9ycGhvbG9neSBpbiBNZWRpdW0tc2l6ZWQgTm9ydGggQW1lcmljYW4gQXJ0aW9kYWN0eWxhLiBQcmVzZW50bHksIFBoRCBwcm9ncmFtLCBVVEVQIChvbiBsZWF2ZSBvZiBhYnNlbmNlKS4gDQoNCjEzLiBEYXZpZCBUYXR1bTogIE1TIEdlb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDIwMDYpLiBUaGVzaXM6IFN0cmF0aWdyYXBoaWMgaGV0ZXJvZ2VuZWl0aWVzIG9uIGR1bmUgQXJjaGl0ZWN0dXJlIGFuZCBGbHVpZCBNaWdyYXRpb24sIFBlcm1pYW4gQ2VkYXIgTWVzYSBTYW5kc3RvbmUsIFNFIFV0YWguDQoNCjE0LiBKb3NlcGggRC4gRGlCZW5lZGV0dG86IFBoRCBHZW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgyMDA4KS4gIERpc3NlcnRhdGlvbjogQ29tcGFyaXNvbiBvZiBPeHlnZW4gMTgvMTYgUmF0aW8gaW4gRm9zc2lsIFR1cnRsZSBTaGVsbHMgZnJvbSB0aGUgIlR1cnRsZS1PcmVvZG9uIFpvbmUiIChCYWRsYW5kcyBOYXRpb25hbCBQYXJrLCBTb3V0aCBEYWtvdGEpIGFuZCBNYXJmYSwgVGV4YXMgKExpdHRsZSBFZ3lwdCBMb2NhbCBGYXVuYSk6IFBhbGVvY2xpbWF0b2xvZ2ljYWwgSW1wbGljYXRpb25zIGZvciB0aGUgTWlkIE9saWdvY2VuZSBUZW1wZXJhdHVyZSBGbHVjdHVhdGlvbnMuDQoNCjE1LiBBYmJ5IFdvb2R5OiAgTVMgR2VvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMjAxMCkuIFRoZXNpczogVGVjdG9uaWMgR2VvbW9ycGhvbG9neSBvZiBQdW5hLVRzYW5nIENoaHUNCldhdGVyc2hlZCwgQmh1dGFuLg0KDQoxNi4gSm9obiBFbnJpcXVlejogIE1TIENoZW1pc3RyeSwgVVRFUCAoMjAxMCk6IFRoZXNpczogRW50aGFscGllcyBvZiBNaXhpbmcgV2F0ZXIgYW5kIEFsa294eXRoYW5vaXMuDQoNCjE3LiBEb21pbmljIExhbm51dHRpOiBQaEQgQ2FuZGlkYXRlLCBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgyMDA0LCBJbiBQcm9ncmVzcykuIFBoeWxvZ2VvZ3JhcGh5IG9mIHRoZSBNb2phdmUgUmF0dGxlc25ha2UsIENyb3RhbHVzIHNjdXR1bGF0dXMuDQoNCjE4LiBEYXZpZCBMaW5uOiAgUGhEIENhbmRpZGF0ZSwgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMjAwNSwgSW4gUHJvZ3Jlc3MpLiBRdWFudGlmaWNhdGlvbiBvZiBEYWNhZGUtVGltZSBTY2FsZSBDaGFuZ2UgaW4gTGFuZCBDb3ZlciBhbmQgUmFkaWF0aXZlIEZvcmNpbmcgUG90ZW50aWFsIGluIEJlcmluZ2lhLg0KDQoxOS4gUmViZWNhIE1hcmluOiAgUGhEIENhbmRpZGF0ZSwgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMjAwNSwgSW4gUHJvZ3Jlc3MpLiBEaXNzZXJ0YXRpb246IEFzc2Vzc2luZyBMYW5kIENvdmVyIENoYW5nZSBhdCB0aGUgSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24uDQoNCjIwLiBBbmdlbGEgQ2hhdmV6OiAgUGhEIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAgKDIwMDgsIExlYXZlIG9mIEFic2VuY2UgMjAxMCkuDQoNCjIxLiBTZXRoIFBhZ2U6IFBoRCBHZW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQICgyMDA5LCBJbiBQcm9ncmVzcykuIERpc3NlcnRhdGlvbjogVW5kZXJzdGFuZGluZyBhbmQgUmVjb25zdHJ1Y3Rpb24gb2YgRHVwbGV4IEZhdWx0aW5nIG9mIHRoZSBJbmRpbyBNb3VudGFpbnMgVXNpbmcgQmFsYW5jZWQgQ3Jvc3MgU2VjdGlvbnMuDQoNCjIyLiBQYXdhbiBCdWRoYXRob2tpOiBQaEQgR2VvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoMjAwOSwgSW4gUHJvZ3Jlc3MpLiBEaXNzZXJ0YXRpb246IFN5bnRlY3RvbmljIFNlZGltZW50YXRpb24gaW4gYW4gRXh0ZW5kZWQgQmFzaW4sIENyZXRhY2VvdXMgb2YgU291dGhlcm4gTm9ydGggQW1lcmljYS4NCg0KMjMuIEZlcm5hbmRhIERlIExhIENlcmRhOiBNUyBFbnZpcm9ubWVudGFsIFNjaWVuY2VzLCBVVEVQICgyMDA5LCBJbiBQcm9ncmVzcykuIFRoZXNpczogRWZmZWN0IG9mIFJhaW4gRXZlbnRzIG9uIHRoZSBTZWFzb25hbCBhbmQgUGVybWFuZW50IFdhdGVyIEJvZGllcyBvZiBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4NCg0KU0VOSU9SIEhPTk9SUyBUSEVTRVMgQ0hBSVJFRCwgQ09NTUlUVEVFIE1FTUJFUg0KDQpEYXZpZCBXLiBTd2VldGF5LiAgMjAwMS4gIFN1cnZleSBvZiB0aGUgUm9kZW50cyBvZiB0aGUgSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24sIEh1ZHNwZXRoIENvdW50eSwgVGV4YXMuICBCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQIChDaGFpcm1hbikuICBXaW5uZXIgb2YgdGhlIFVURVAgYmVzdCBob25vcnMgdGhlc2lzIGNvbXBldGl0aW9uIGZvciAyMDAyLg0KDQpOYXRhbGllIFdoaXRmaWVsZC4gIDIwMDIuICBTcG9yb3pvaXRlIFBlbmV0cmF0aW9uIGluIE11cyBtdWNzY3VsdXM6IEVpbWVyaWEgcGFwaWxsYXRhIGFuZCBFaW1lcmlhIGZhbGNpZm9ybWlzLiAgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCAoQ29tbWl0dGVlIE1lbWJlcikuDQoNCkplbm5pZmVyIFJhbW9zLUNoYXZlei4gMjAxMC4gR2VuZXRpYyBWYXJpYXRpb24gV2l0aGluIFBvcHVsYXRpb25zIG9mIHRoZSBCZGVsbG9pZCBSb3RpZmVyIFBoaWxvZGluYSBtZWdhbG90cm9jaGEuDQpCaW9sb2dpY2FsIFNjaWVuY2VzLCBVVEVQIChDb21taXR0ZWUgTWVtYmVyKS4NCg0KQ09MTEVHRSBDT1VSU0VTIEFORCBBQ1RJVklUSUVTIERFVkVMT1BFRA0KICANCkdFTkVUSUNTIEFORCBFVk9MVVRJT046IERldmVsb3BlZCBvbmUgc2VtZXN0ZXIgZ3JhZHVhdGUgY291cnNlIGZvciBNYXN0ZXJzIG9mIEFydCBpbiBUZWFjaGluZyBwcm9ncmFtLCBVVEVQICgyMDA5KS4NCg0KRUNPTE9HWSBPRiBERVNFUlQgT1JHQU5JU01TOiAgRGV2ZWxvcGVkIGEgb25lIHNlbWVzdGVyIGdyYWR1YXRlIGNvdXJzZSwgd2l0aCBsYWIgc2VjdGlvbiwgVVRFUCAoMjAwNSkuDQoNCkRFU0VSVCBFQ09MT0dZOiBEZXZlbG9wZWQgb25lIHNlbWVzdGVyIHVwcGVyIGRpdmlzaW9uIHVuZGVyZ3JhZHVhdGUgY291cnNlIHdpdGggYSBsYWJvcmF0b3J5IHNlY3Rpb24sIFVURVAgKDIwMDUpLg0KDQpFTlZJUk9OTUVOVEFMIEJJT0xPR1k6IERldmVsb3BlZCBhIG9uZSBzZW1lc3RlciBQaEQgbGV2ZWwgY291cnNlIGZvciBFbnZpcm9ubWVudGFsIFNjaWVuY2UgYW5kIEVuZ2luZWVyaW5nIFBoLkQuIHByb2dyYW0uIFVURVAgKDIwMDQpIA0KDQpGSUVMRCBCSU9MT0dZOiBEZXZlbG9wZWQgYSBvbmUgc2VtZXN0ZXIgdXBwZXIgZGl2aXNpb24gdW5kZXJncmFkdWF0ZSBjb3Vyc2UgdGhhdCBpbmNsdWRlcyBhIHdlZWtsb25nIGZpZWxkIHRyaXAgdG8gSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24sIFVURVAgKDIwMDApLg0KDQpJTlRFUkRJU0NJUExJTkFSWSBTQ0lFTkNFOiBDby1kZXZlbG9wZWQgYSB0d28gc2VtZXN0ZXIsIHRlYW0tdGF1Z2h0IHVuZGVyZ3JhZHVhdGUgY291cnNlIGNvdmVyaW5nIHRoZSBoaXN0b3J5LCBtYWpvciByZXZvbHV0aW9ucywgYW5kIGN1bHR1cmFsIGltcGxpY2F0aW9ucyBvZiBzY2llbmNlLCBVVEVQL0VQQ0MgKE5TRiBmdW5kZWQpLg0KICANClpPT0xPR1k6IERldmVsb3BlZCBsZWN0dXJlIGNvdXJzZXMgaW4gaW52ZXJ0ZWJyYXRlIChFUENDKSBhbmQgdmVydGVicmF0ZSB6b29sb2d5IChVVEVQIGFuZCBFUENDKSwgcGx1cyByZXNwZWN0aXZlIGxhYnMuDQoNCkJPVEFOWTogRGV2ZWxvcGVkIGEgY291cnNlIGluIEdlbmVyYWwgQm90YW55IHdpdGggcmVzcGVjdGl2ZSBsYWIgKEVQQ0MpLg0KDQpIT05PUlMgQklPTE9HWTogRGV2ZWxvcGVkIGEgc2NpZW50aWZpYyByZXNlYXJjaCBob25vcnMgY29tcG9uZW50IGZvciBHZW5lcmFsIEJpb2xvZ3ksIEh1bWFuIEVjb2xvZ3ksIGFuZCBJbnZlcnRlYnJhdGUgYW5kIFZlcnRlYnJhdGUgWm9vbG9neSBjb3Vyc2VzIChFUENDKS4gIFRoZSBob25vcnMgY29tcG9uZW50cyB3ZXJlIGZpZWxkIG9yaWVudGVkIHJlc2VhcmNoIHByb2plY3RzLg0KICANClNUVURFTlQgUkVTRUFSQ0g6IERldmVsb3BlZCBhbmQgaW5pdGlhdGVkIGV4dGVuc2l2ZSBmaWVsZCByZXNlYXJjaCBjb21wb25lbnRzIGludG8gR2VuZXJhbCBCaW9sb2d5LCBab29sb2d5LCBhbmQgSHVtYW4gRWNvbG9neSBjb3Vyc2VzIGF0IEVQQ0MgYW5kIEZpZWxkIEJpb2xvZ3kgYXQgVVRFUC4gU3R1ZGVudHMgcGFydGljaXBhdGVkIG9uIG9uZS13ZWVrIGZpZWxkIHRyaXBzIHRvIGVpdGhlciBUaGUgQ2VudGVyIGZvciB0aGUgU3R1ZHkgb2YgRGVzZXJ0cyBhbmQgT2NlYW5zLCBQdWVydG8gUGVuYXNjbywgTWV4aWNvIChmYWxsKSwgb3IgdG8gdGhlIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLCBIdWRzcGV0aCBDb3VudHksIFRleGFzIChmYWxsLCBzcHJpbmcsIHN1bW1lcikuDQogIA0KRU5WSVJPTk1FTlQgQU5EIE1BTjogRGV2ZWxvcGVkIGEgY291cnNlIGluIGh1bWFuIGVjb2xvZ3kgKEVQQ0MpLiAgDQogIA0KR0VORVJBTCBCSU9MT0dZIExBQlM6IERldmVsb3BlZCBhdXRvLXR1dG9yaWFsIGFuZCBvcGVuIGxhYnMgKEVQQ0MpLg0KICANCkdFTkVSQUwgQklPTE9HWSBMQUJTOiBBc3Npc3RlZCBpbiBwcmVwYXJpbmcgYXV0by10dXRvcmlhbCBhbmQgb3BlbiBsYWJzIChVVEVQKS4NCg0KQURNSU5JU1RSQVRJVkUgRVhQRVJJRU5DRQ0KDQoyMDAwIC0gUHJlc2VudDogRGlyZWN0b3IsIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLCBhIDQwLDAwMCBhY3JlIGZhY2lsaXR5IGxvY2F0ZWQgaW4gSHVkc3BldGggQ291bnR5LCBUZXhhcy4gKFVURVApLg0KICANCjE5OTEgLSAxOTkyOiBDb29yZGluYXRvciBvZiBCaW9sb2d5IERlcGFydG1lbnQgKEVQQ0MpLg0KICANCjE5NzcgLSAxOTc5OiBDb29yZGluYXRvciBvZiBCaW9sb2d5IERlcGFydG1lbnQgKEVQQ0MpLg0KICANCjE5NzQgLSAxOTc1OiBDb29yZGluYXRvciBmb3IgYWxsIGJpb2xvZ3kgbGFicyAoVVRFUCkuDQogIA0KICAgTk9OLVRFQUNISU5HIEJJT0xPR0lDQUwgRVhQRVJJRU5DRS9BQ1RJVklUSUVTDQogIA0KUHJlc2VudCBDb2xsZWN0aW5nIFBlcm1pdHMgaW4gRm9yY2U6ICBOZXcgTWV4aWNvIFBhcmtzIERlcHQuIEZpc2ggYW5kIEdhbWUuIFRleGFzIFBhcmtzIGFuZCBXaWxkbGlmZSBEZXBhcnQuICANCg0KRmllbGQgUmVzZWFyY2g6IFVURVAvRVBDQywgYmlvY2hlbWljYWwgYW5hbHlzaXMgb2YgcmF0dGxlc25ha2UgdmVub21zIHVzaW5nIGltbXVub2xvZ2ljYWwgdGVjaG5pcXVlcywgc25ha2UgYW5kIGxpemFyZCBlY29sb2d5LCBhbmQgQmlvZ2VvZ3JhcGh5IG9mIENoaWh1YWh1YW4gRGVzZXJ0IEhlcnBldG9mYXVuYS4gIEFsbCByZXNlYXJjaCBwcm9qZWN0cyBpbmNsdWRlIEVQQ0Mgb3IgVVRFUCB1bmRlcmdyYWR1YXRlIGFuZCBncmFkdWF0ZSBzdHVkZW50cy4NCiAgDQoxOTcwIC0gUHJlc2VudDogRmllbGQgUmVzZWFyY2ggaW4gTWV4aWNvLiAgQSB0b3RhbCBvZiBtb3JlIHRoYW4gMjAgbWFuLW1vbnRocyBoYXZlIGJlZW4gc3BlbnQgY29sbGVjdGluZyBhbmQgc3R1ZHlpbmcgYW1waGliaWFucyBhbmQgcmVwdGlsZXMgaW4gTWV4aWNvLCB3aGljaCBzdXBwb3J0ZWQgdHdvIGdyYWR1YXRlIGRlZ3JlZXMgYW5kIG9uZ29pbmcgcHJvZmVzc2lvbmFsIHJlc2VhcmNoLiBNZXhpY2FuIHN0YXRlcyB3aGVyZSBmaWVsZHdvcmsgdG9vayBwbGFjZSBpbmNsdWRlZDogQ2hpYXBhcywgUXVpbnRhbmEgUm9vLCBZdWNhdGFuLCBDYW1wZWNoZSwgDQpWZXJhY3J1eiwgT2F4YWNhLCBNaWNob2FjYW4sIFB1ZWJsYSwgR3VhbmFqdWF0bywgU2FuIEx1aXMgUG90b3NpLCBKYWxpc2NvLCBOYXlhcml0LCBTaW5hbG9hLCBEdXJhbmdvLCBaYWNhdGVjYXMsIFNvbm9yYSwgYW5kIENoaWh1YWh1YS4NCg0KMTk4MTogQ3VyYXRvcmlhbCBBc3Npc3RhbnQsIFRleGFzIENvb3BlcmF0aXZlIFdpbGRsaWZlIENvbGxlY3Rpb24sIFRleGFzIEEmTSBVbml2ZXJzaXR5IChoZXJwZXRvbG9neSBjb2xsZWN0aW9uKS4NCiAgDQoxOTc2OiBUZWNobmljYWwgQWR2aXNvciwgVVRFUCBmaWVsZCBzdHVkaWVzIGluIE1leGljby4NCiAgDQoxOTczOiBDdXJhdG9yaWFsIEFzc2lzdGFudCwgTXVzZXVtIG9mIHRoZSBIaWdoIFBsYWlucywgRm9ydCBIYXlzIFN0YXRlIFVuaXZlcnNpdHkgKGhlcnBldG9sb2d5IGNvbGxlY3Rpb24pLg0KICANCjE5NzI6IFJlc2VhcmNoIEFzc2lzdGFudCwgTXVzZXVtIG9mIHRoZSBIaWdoIFBsYWlucywgRm9ydCBIYXlzIFN0YXRlIFVuaXZlcnNpdHkgKHN1bW1lciBoZXJwZXRvbG9neSBmaWVsZCBzdXJ2ZXlzKS4NCiAgDQoxOTcwOiBIZXJiYXJpdW0gQXNzaXN0YW50LCBNdXNldW0gb2YgdGhlIEhpZ2ggUGxhaW5zLCBGb3J0IEhheXMgU3RhdGUgVW5pdmVyc2l0eSAoY29sbGVjdGVkICYgcHJlcGFyZWQgcGxhbnQgc3BlY2ltZW5zKS4NCiAgDQoxOTcwIC0gMTk3MjogUmVzZWFyY2ggQXNzaXN0YW50LCBEZXBhcnRtZW50IG9mIEJpb2xvZ3ksIEZvcnQgSGF5cyBTdGF0ZSBVbml2ZXJzaXR5IChjb2xsZWN0ZWQgYW5kIHByZXBhcmVkIG1hbW1hbCBhbmQgYmlyZCBzcGVjaW1lbnMgaW4gTWV4aWNvKS4NCiAgDQpSRVBPUlRTLCBQUkVTRU5UQVRJT05TLCBBTkQgUE9TVEVSUyAoUHJlc2VudGVyIGluIEJvbGQpLg0KKiA9IFVURVAgVW5kZXJncmFkdWF0ZSBTdHVkZW50czsgKiogPSBVVEVQIEdyYWR1YXRlIFN0dWRlbnRzLg0KDQoyMDExOiBQcmVzZW50YXRpb24uIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdCwgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBUeWxlcg0KVHlsZXIsIFRleGFzLiAyMyBBcHJpbC4gVGl0bGU6IE1pY3JvaGFiaXRhdCBVc2UgYnkgdGhlIFJvY2sgUmF0dGxlc25ha2UgKENyb3RhbHVzIGxlcGlkdXMpIGluIEZhciBXZXN0IFRleGFzLiBDby1hdXRob3JlZCB3aXRoIFZpY2VudGUgTWF0YS1TaWx2YSogYW5kIEFydHVybyBSb2NoYS4qDQoNCjIwMTE6IFByZXNlbnRhdGlvbi4gQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0LCBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IFR5bGVyLCBUeWxlciwgVGV4YXMuIDIzIEFwcmlsLiBUaXRsZTogQm9keSBUZW1wZXJhdHVyZSBvZiB0aGUgVHJhbnMtUGVjb3MgUmF0IFNuYWtlLCBCb2dlcnRvcGhpcyBzdWJvY3VsYXJpcywgRHVyaW5nIHRoZSBBY3RpdmUgU2Vhc29uIGluIEZhciBXZXN0IFRleGFzLiBDb2F1dGhvcmVkIHdpdGggQXJ0dXJvIFJvY2hhKiBhbmQgVmljZW50ZSBNYXRhLVNpbHZhLioNCg0KMjAxMTogUG9zdGVyOiBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IFR5bGVyLCBUeWxlciwgVGV4YXMuIDIzIEFwcmlsLiBUaXRsZTogQ29tcGFyaXNvbiBvZiBFY290b3BhcmFzaXRlIExvYWRzIEJldHdlZW4gdGhlIFN5bnRvcGljIFRlaWlkIExpemFyZHMsIEFzcGlkb3NjZWxpcyBtYXJtb3JhdGEgKEJpc2V4dWFsKSBhbmQgQXNwaWRvc2NlbGlzIHRlc3NlbGF0YSAoVW5pc2V4dWFsKSBmcm9tIHRoZSBOb3J0aGVybiBDaGlodWFodWFuIERlc2VydCBvZiBUcmFucy1QZWNvcywgVGV4YXMuIENvLWF1dGhvcmVkIHdpdGggV2lsbGlhbSBELiBMdWtlZmFociogYW5kIFJvc3MgTy4gQ291dmlsbG9uLioNCg0KMjAxMDogUG9zdGVyOiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgTGxhbm8gUml2ZXIgRmllbGQgU3RhdGlvbiwgSnVuY3Rpb24sIFRleGFzLCAyMyBBcHJpbC4gVGl0bGU6IFByZWxpbWluYXJ5IEluZm9ybWF0aW9uIG9uIHRoZSBNaWNyb2hhYml0YXQgVXNlIG9mIHRoZSBUcmFucy1QZWNvcyBSYXQgU25ha2UsIEJvZ2VydG9waGlzIHN1Ym9jdWxhcmlzIGZyb20gSHVkc3BldGggQ291bnR5LCBUZXhhcy4gQ28tYXV0aG9yZWQgd2l0aCBBcnR1cm8gUm9jaGEqIGFuZCBWLiBNYXRhLVNpbHZhLioqDQoNCjIwMTA6IFBvc3Rlci4gIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIExsYW5vIFJpdmVyIEZpZWxkIFN0YXRpb24sIEp1bmN0aW9uLCBUZXhhcywgMjMgQXByaWwuIFRpdGxlOiBUaGUgUGh5bG9nZW9ncmFwaHkgb2YgdGhlIFJvY2sgUmF0dGxlc25ha2UuIENvLWF1dGhvcmVkIHdpdGggSGVjdG9yIFJpdmVyb2xsLCBKci4qKg0KDQoyMDEwOiBQb3N0ZXIuIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIExsYW5vIFJpdmVyIEZpZWxkIFN0YXRpb24sIEp1bmN0aW9uLCBUZXhhcywgMjMgQXByaWwuIFRpdGxlOiBBY3Rpdml0eSBSYW5nZSBvZiB0aGUgUm9jayBSYXR0bGVzbmFrZSAoQ3JvdGFsdXMgbGVwaWR1cykgaW4gRmFyIFdlc3QgVGV4YXMuIENvLUF1dGhvcmVkIHdpdGggVi4gTWF0YS1TaWx2YSwgKiogYW5kIEEuIFJvY2hhLioNCg0KMjAwOTogUG9zdGVyLiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhLCBBbGJ1cXVlcnF1ZSwgTmV3IE1leGljbywgNiBBdWd1c3QuIFRpdGxlOiBQcmVsaW1pbmFyeSBEYXRhIG9uIEJvZHkgVGVtcGVyYXR1cmUgb2YgdGhlIFJvY2sgUmF0dGxlc25ha2UsIENyb3RhbHVzIGxlcGlkdXMsIGZyb20gRmFyIFdlc3QgVGV4YXMuIENvLWF1dGhvcmVkIHdpdGggVi4gTWF0YS1TaWx2YSwqKiBBLiBHYW5kYXJhLCAqKiBBLiBSb2NoYS4qIA0KDQoyMDA5OiBQb3N0ZXI6IEFubnVhbCBtZWV0aW5nIG9mIHRoZSBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYSwgQWxidXF1ZXJxdWUsIE5ldyBNZXhpY28sIDYgQXVndXN0LiBUaXRsZTogUHJlbGltaW5hcnkgSW5mb3JtYXRpb24gb2YgTWljcm9oYWJpdGF0IFVzZSBvZiB0aGUgUm9jayBSYXR0bGVzbmFrZSAoQ3JvdGFsdXMgbGVwaWR1cykgZnJvbSBIdWRzcGV0aCBDb3VudHksIFRleGFzLiBDby1hdXRob3JlZCB3aXRoIEEuIEdhbmRhcmEsICoqIEEuIFJvY2hhLCogVi4gTWF0YS1TaWx2YS4qKiANCg0KMjAwOTogUHJlc2VudGF0aW9uLiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgVW5pdmVyc2lkYWQgQXV0b25vbWEgZGUgTnVldm8gTGVvbiwgMjQgQXByaWwuIFRpdGxlOiBQcmVsaW1pbmFyeSBEYXRhIG9uIEJvZHkgVGVtcGVyYXR1cmUgb2YgdGhlIFJvY2sgUmF0dGxlc25ha2UsIENyb3RhbHVzIGxlcGlkdXMsIEZyb20gRmFyIFdlc3QgVGV4YXMuIENvLWF1dGhvcmVkIHdpdGggVi4gTWF0YS1TaWx2YSoqLCBBLiBHYW5kYXJhKiosIEEuIFJvY2hhKiwgYW5kIFMuIERpbGtzKi4NCg0KMjAwOTogUG9zdGVyLiBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBVbml2ZXJzaWRhZCBBdXRvbm9tYSBkZSBOdWV2byBMZW9uLCAyNCBBcHJpbC4gIFRpdGxlOiBQcmVsaW1pbmFyeSBpbmZvcm1hdGlvbiBvbiB0aGUgbWljcm9oYWJpdGF0IHVzZSBvZiB0aGUgcm9jayByYXR0bGVzbmFrZSwgQ3JvdGFsdXMgbGVwaWR1cyBmcm9tIEh1ZHNwZXRoIENvdW50eSwgVGV4YXMuIENvLWF1dGhvcmVkIHdpdGggQS4gUm9jaGEsKiBBLiBHYW5kYXJhLCAqKiBWLiBNYXRhLVNpbHZhLCoqIGFuZCBTLiBEaWxrcy4gKg0KDQoyMDA4LiBJbnZpdGVkIEtleW5vdGUgQWRkcmVzcy4gQW5udWFsIG1lZXRpbmcgb2YgTGEgU29jaWVkYWQgSGVycGV0b2xvZ2ljYSBNZXhpY2FuYSwgVW5pdmVyc2lkYWQgQXV0b25vbWEgZGVsIEVzdGFkbyBkZSBIaWRhbGdvLCBNZXhpY28sIDcgT2N0b2Jlci4gVGl0bGU6IFJlY2VudCBUYXhvbm9taWMgQ2hhbmdlcyBSZWxhdGluZyB0byB0aGUgTWV4aWNhbiBIZXJwZXRvZmF1bmEgYW5kIFN0YXR1cyBvZiBTcGVjaWVzIGFuZCBTdWJzcGVjaWVzIGluIE1vZGVybiBQaHlsb2dlbmV0aWMgU3lzdGVtYXRpY3MuDQoNCjIwMDg6IFBvc3Rlci4gIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBUZXhhcyBIZXJwZXRvbG9naWNhbCBTb2NpZXR5LCBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEF1c3RpbiwgT2N0b2Jlci4gIFRpdGxlOiBQcmVsaW1pbmFyeSBkYXRhIG9uIFdpbnRlciBCb2R5IFRlbXBlcmF0dXJlcyBvZiB0aGUgcm9jayByYXR0bGVzbmFrZSAoQ3JvdGFsdXMgbGVwaWR1cykgaW4gdGhlIENoaWh1YWh1YW4gRGVzZXJ0LiBDb2F1dGhvcmVkIHdpdGggUy4gRGlsa3MqIGFuZCBWaWNlbnRlIE1hdGEtU2lsdmEuKiogDQoNCjIwMDc6IFByZXNlbnRhdGlvbi4gQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgVGFybGV0b24gU3RhdGUgVW5pdmVyc2l0eSwgU3RlcGhlbnZpbGxlLCBUZXhhcywgMjEgQXByaWwuICBUaXRsZTogQW4gVXBkYXRlIG9uIEhlcnBldG9mYXVuYWwgRGl2ZXJzaXR5IGluIE1leGljbywgd2l0aCBFbXBoYXNpcyBvbiBEaXN0cmlidXRpb25hbCBQYXR0ZXJucyBBc3NvY2lhdGVkIHdpdGggRW5kZW1pc20gYW5kIERpdmVyc2l0eSBIb3RzcG90cy4gIENvIGF1dGhvcmVkIHdpdGggTGFycnkgRC4gV2lsc29uLg0KDQoyMDA3OiBQcmVzZW50YXRpb24uICBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBUYXJsZXRvbiBTdGF0ZSBVbml2ZXJzaXR5LCBTdGVwaGVudmlsbGUsIFRleGFzLCAyMSBBcHJpbC4gIFRpdGxlOiBTdG9tYWNoIFBhcmFzaXRlcyBvZiBUd28gU3ludG9waWMgU3BlY2llcyBvZiBXaGlwdGFpbCBMaXphcmRzIChBc3BpZG9zY2VsaXMgbWFybW9yYXRhIGFuZCBBc3BpZG9zY2VsaXMgdGVzc2VsYXRhKSBmcm9tIHRoZSBOb3J0aGVybiBDaGlodWFodWFuIERlc2VydC4gIENvLWF1dGhvcmVkIHdpdGggVi4gTWF0YS1TaWx2YSoqIGFuZCBDLiBSLiBCdXJzZXkuDQoNCjIwMDc6IFBvc3Rlci4gQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgVGFybGV0b24gU3RhdGUgVW5pdmVyc2l0eSwgU3RlcGhlbnZpbGxlLCBUZXhhcywgMjAgQXByaWwuIFRpdGxlOiBUaGUgUGh5bG9nZW9ncmFwaHkgb2YgdGhlIFJvY2sgUmF0dGxlc25ha2UgKENyb3RhbHVzIGxlcGlkdXMuKSAgQ28tYXV0aG9yZWQgd2l0aCBILiBSaXZlcm9sbCwgSnIuLCoqIEkuIERhdmlsYSwqIGFuZCBMLiBNaXJhbmRhLioqIA0KDQoyMDA3OiAgUG9zdGVyLiBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3QsIFRhcmxldG9uIFN0YXRlIFVuaXZlcnNpdHksIFN0ZXBoZW52aWxsZSwgVGV4YXMsIDIwIEFwcmlsLiAgVGl0bGU6ICBIYW5kZWRuZXNzLCBDaGVsaXBlZCBSZWdlbmVyYXRpb24sIGFuZCBTZXggUmF0aW9zIG9mIHRoZSBGaWRkbGVyIENyYWIsIFVjYSBjcmVudWxhdGEsIGF0IENob2xsYSBCYXksIFNvbm9yYSwgTWV4aWNvLiAgQ28tYXV0aG9yZWQgd2l0aCBHLiBXLiBKb2huc29uKiogYW5kIEwuIE4uIElyd2luLiANCiAgIA0KMjAwNjogIEludml0ZWQgS2V5bm90ZSBBZGRyZXNzLiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIEthbnNhcyBIZXJwZXRvbG9naWNhbCBTb2NpZXR5LCBGb3J0IEhheXMgU3RhdGUgVW5pdmVyc2l0eSwgSGF5cywgS2Fuc2FzLCA0IE5vdmVtYmVyLiAgVGl0bGU6ICBLYW5zYXMgSGVycGV0b2xvZ3kgYW5kIEJleW9uZDogQSBTYWxpbmEgYW5kIEZvcnQgSGF5cyBTdGF0ZSBDb25uZWN0aW9uLg0KDQoyMDA1OiAgUHJlc2VudGF0aW9uLiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgSHVudHN2aWxsZSwgVGV4YXMsIDE1IEFwcmlsLiAgVGl0bGU6ICBDb21tZW50cyBvbiB0aGUgVGF4b25vbWljIFZhbGlkaXR5IG9mIHRoZSBTdWJzcGVjaWVzIENhdGVnb3J5LiAgDQoNCjIwMDU6ICBQcmVzZW50YXRpb24uICBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBIdW50c3ZpbGxlLCBUZXhhcywgMTYgQXByaWwuICBUaXRsZTogRm9vZCBDb25zdW1wdGlvbiBvZiB0aGUgUGFsbGlkIEJhdCwgQW50cm96b3VzIFBhbGxpZHVzIChDaGlyb3B0ZXJhOiBWZXNwZXJ0aWxpb25pZGFlKSwgb24gSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24uICBDby1hdXRob3JlZCB3aXRoIFAuIEEuIExlbmhhcnQqIGFuZCBWLiBNYXRhLVNpbHZhLioqDQoNCjIwMDU6ICBQb3N0ZXIuIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIEh1bnRzdmlsbGUsIFRleGFzLCAxNiBBcHJpbC4gIFRpdGxlOiBFY29sb2dpY2FsIEFzcGVjdHMgb2YgTGl6YXJkIFBvcHVsYXRpb25zIFdpdGhpbiBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4gIENvYXV0aG9yZWQgd2l0aCBILiBSaXZlcm9sbC4qIA0KDQoyMDA1OiAgUG9zdGVyLiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgSHVudHN2aWxsZSwgVGV4YXMsIDE2IEFwcmlsLiAgIFByZWxpbWluYXJ5IE9ic2VydmF0aW9ucyBvbiB0aGUgRGlldCBvZiBUd28gTGl6YXJkcywgQXNwaWRvc2NlbGlzIG1hcm1vcmF0YSBhbmQgQXNwaWRvc2NlbGlzIHRlc3NlbGF0YS4gQ29hdXRob3Igd2l0aCBWLiBNYXRhLVNpbHZhKiogYW5kIFAuIEEuIExlbmhhcnQuKg0KDQoyMDA0OiBJbnZpdGVkIEtleW5vdGUgUHJlc2VudGF0aW9uLiBWSUlJIFJldW5pb24gTmFjaW9uYWwgZGUgSGVycGV0b2xvZ2lhLCBMYSBTb2NpZWRhZCBIZXJwZXRvbG9naWNhIE1leGljYW5hLCBWaWFoZXJtb3NhLCBUYWJhc2NvLCBNZXhpY28sIDEwIE5vdmVtYmVyLiAgVGl0bGU6IFRoZSBCaW9nZW9ncmFwaHkgb2YgdGhlIEhlcnBldG9mYXVuYSBvZiB0aGUgTWV4aWNhbiBQb3J0aW9uIG9mIE51Y2xlYXIgQ2VudHJhbCBBbWVyaWNhLCBBbiBVcGRhdGUuIA0KDQoyMDA0OiAgUG9zdGVyLiAgU2l4dGggU3ltcG9zaXVtIG9uIHRoZSBOYXR1cmFsIFJlc291cmNlcyBvZiB0aGUgQ2hpaHVhaHVhbiBEZXNlcnQgUmVnaW9uLCBDaGlodWFodWFuIERlc2VydCBSZXNlYXJjaCBJbnN0aXR1dGUgYW5kIFN1bCBSb3NzIFN0YXRlIFVuaXZlcnNpdHksIDE1IE9jdG9iZXIsIEFscGluZSwgVGV4YXMsIFRpdGxlOiBBIFByZWxpbWluYXJ5IFJlcG9ydCBvbiB0aGUgU3BhdGlhbCBFY29sb2d5IGFuZCBNb3ZlbWVudCBvZiBUd28gU3ltcGF0cmljIFJhdHRsZXNuYWtlIFNwZWNpZXMgaW4gdGhlIENoaWh1YWh1YW4gRGVzZXJ0LiAgQ29hdXRob3JlZCB3aXRoIEouIFAuIEhvYmVydC4qKg0KDQoyMDA0OiAgUG9zdGVyLiAgU2l4dGggU3ltcG9zaXVtIG9uIHRoZSBOYXR1cmFsIFJlc291cmNlcyBvZiB0aGUgQ2hpaHVhaHVhbiBEZXNlcnQgUmVnaW9uLCBDaGlodWFodWFuIERlc2VydCBSZXNlYXJjaCBJbnN0aXR1dGUgYW5kIFN1bCBSb3NzIFN0YXRlIFVuaXZlcnNpdHksIDE1IE9jdG9iZXIsIEFscGluZSwgVGV4YXMuICBUaXRsZTogIFJlc2VhcmNoIGFuZCBFZHVjYXRpb25hbCBPcHBvcnR1bml0aWVzIGF0IHRoZSBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbiwgQSBDaGlodWFodWFuIERlc2VydCBGYWNpbGl0eS4gIENvLWF1dGhvcmVkIHdpdGggVi4gTWF0YS1TaWx2YS4qKiANCg0KMjAwNDogIFBvc3Rlci4gIFNpeHRoIFN5bXBvc2l1bSBvbiB0aGUgTmF0dXJhbCBSZXNvdXJjZXMgb2YgdGhlIENoaWh1YWh1YW4gRGVzZXJ0IFJlZ2lvbiwgQ2hpaHVhaHVhbiBEZXNlcnQgUmVzZWFyY2ggSW5zdGl0dXRlIGFuZCBTdWwgUm9zcyBTdGF0ZSBVbml2ZXJzaXR5LCAxNSBPY3RvYmVyLCBBbHBpbmUsIFRleGFzLiAgVGl0bGU6ICBBIE1hY3JvaW52ZXJ0ZWJyYXRlIGFuZCBMaW1ub2xvZ3kgU3R1ZHkgb2YgU3F1YXcgU3ByaW5nIG9uIHRoZSBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbiwgSHVkc3BldGgsIENvdW50eSwgVGV4YXMuICBDby1hdXRob3Igd2l0aCBBLiBELiBTdGFtYXRpcyoqIGFuZCBKLiBILiBLZW5uZWR5Lg0KDQoyMDA0OiAgUHJlc2VudGF0aW9uLiBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBTYW4gQW50b25pbywgVGV4YXMsIDE2IEFwcmlsLiAgVGl0bGU6IENvbW1lbnRzIG9uIHRoZSBUYXhvbm9taWMgU3RhdHVzIG9mIHRoZSBOb3J0aGVybiBTdWJzcGVjaWVzIG9mIHRoZSBSb2NrIFJhdHRsZXNuYWtlLCBDcm90YWx1cyBsZXBpZHVzLg0KQ28tYXV0aG9yZWQgd2l0aCBILiBSaXZlcm9sbCwgSnIuKg0KDQoyMDA0OiAgUHJlc2VudGF0aW9uLiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgU2FuIEFudG9uaW8sIFRleGFzLCAxNiBBcHJpbC4gIFRpdGxlOiBBIFByZWxpbWluYXJ5IFJlcG9ydCBvbiB0aGUgU3BhdGlhbCBFY29sb2d5IGFuZCBNb3ZlbWVudCBvZiB0d28gU3ltcGF0cmljIFJhdHRsZXNuYWtlIFNwZWNpZXMgaW4gdGhlIENoaWh1YWh1YW4gRGVzZXJ0LiAgQ28tYXV0aG9yZWQgd2l0aCBKLlAuIEhvYmVydC4qKg0KMjAwNDogIFBvc3Rlci4gIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIFNhbiBBbnRvbmlvLCBUZXhhcywgMTYgQXByaWwuICBUaXRsZTogUmVzZWFyY2ggYW5kIEVkdWNhdGlvbiBPcHBvcnR1bml0aWVzIGF0IHRoZSBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbiwgQSBDaGlodWFodWFuIERlc2VydCBGYWNpbGl0eS4gIENvLWF1dGhvcmVkIHdpdGggVi4gTWF0YS1TaWx2YS4qKiANCg0KMjAwNDogIFBvc3Rlci4gIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIFNhbiBBbnRvbmlvLCBUZXhhcywgMTYgQXByaWwuICBUaXRsZTogIEhhYml0YXQgRGl2ZXJzaXR5IGFuZCBTZWFzb25hbCBDaGFuZ2VzIGluIE1hbW1hbGlhbiBGYXVuYXMgYXQgSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24uICBDby1hdXRob3JlZCB3aXRoIEguRS4gQnJld2VyKiogYW5kIEEuIEguIEhhcnJpcy4NCg0KMjAwMzogUG9zdGVyLiAgQW5udWFsIEJpb21lZGljYWwgUmVzZWFyY2ggQ29uZmVyZW5jZSBmb3IgTWlub3JpdHkgU3R1ZGVudHMuICBTYW4gRGllZ28sIENhbGlmb3JuaWEsIDE1LTE5IE9jdG9iZXIuICBUaXRsZTogUmFuZG9tIEdlbmV0aWMgVmFyaWF0aW9uIGluIFRocmVlIFN5bXBhdHJpYyBMaXphcmRzLiAgQ28tYXV0aG9yZWQgd2l0aCBHLlcuIEpvaG5zb24qIGFuZCBMLk4uIElyd2luLg0KDQoyMDAzOiAgUHJlc2VudGF0aW9uLiAgU2VwdGVtYmVyIG1lZXRpbmcgb2YgdGhlIEVsIFBhc28gQ2hhcHRlciBvZiB0aGUgQXVkdWJvbiBTb2NpZXR5LCBFbCBQYXNvLCBUZXhhcywgMTUgU2VwdGVtYmVyLiAgVGl0bGU6ICBGYWNpbGl0aWVzIGFuZCBSZXNlYXJjaCBhdCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4gDQoNCjIwMDM6IFByZXNlbnRhdGlvbi4gIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIFVuaXYuIE9rbGFob21hLCBOb3JtYW4sIE9rbGFob21hLCAxOCBBcHJpbC4gIFRpdGxlOiAgUmVzZWFyY2ggT3Bwb3J0dW5pdGllcyBhdCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbiwgQSBDaGlodWFodWFuIERlc2VydCBGYWNpbGl0eS4gDQoNCjIwMDM6IFBvc3Rlci4gIEFubnVhbCBtZWV0aW5nIG9mIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cy4gIFVuaXYuIE9rbGFob21hLCBOb3JtYW4sIE9rbGFob21hLCAxNyBBcHJpbC4gIFRpdGxlOiBSYW5kb20gR2Vub21pYyBWYXJpYXRpb24gaW4gU3ltcGF0cmljIExpemFyZHM6IEluZmx1ZW5jZSBvZiBSZXByb2R1Y3RpdmUgU3RydWN0dXJlIGFuZCBLYXJ5b3R5cGUuICBDby1BdXRob3JlZCB3aXRoIEcuVy4gSm9obnNvbiogYW5kIEwuTi4gSXJ3aW4uDQoNCjIwMDM6IFBvc3Rlci4gIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMuICBVbml2LiBPa2xhaG9tYSwgTm9ybWFuLCBPa2xhaG9tYSwgMTcgQXByaWwuICBUaXRsZTogIEVjb2xvZ2ljYWwgQXNwZWN0cyBvZiBMaXphcmQgUG9wdWxhdGlvbnMgV2l0aGluIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLCBIdWRzcGV0aCBDb3VudHksIFRleGFzLiAgQ28tYXV0aG9yZWQgd2l0aCBILiBSaXZlcm9sbCwgSnIuKiAgDQoNCjIwMDM6IFByZXNlbnRhdGlvbi4gRWwgUGFzbyBOYXRpdmUgUGxhbnQgU29jaWV0eSwgRWwgUGFzbywgVGV4YXMsIDEzIE1hcmNoLiBUaXRsZTogIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLg0KICANCjIwMDI6IEZpbmFsIFJlcG9ydC4gIEhlcnBldG9mYXVuYSBvZiBXaGl0ZSBTYW5kcyBOYXRpb25hbCBNb251bWVudDogUmV2aWV3IG9mIFNwZWNpZXMgTGlzdCwgMTcgcHAuICBOYXRpb25hbCBQYXJrIFNlcnZpY2UsIENoaWh1YWh1YSBEZXNlcnQgUGFya3MgTmV0d29yay4gU3VibWl0dGVkIDE4IE9jdG9iZXIuDQoNCjIwMDI6ICBQb3N0ZXIuIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb2NpZXR5IG9mIFNpZ21hIFhpLiBHYWx2ZXN0b24sIFRleGFzLCAxNiBOb3ZlbWJlci4gVGl0bGU6IEEgY29tcGFyaXNvbiBvZiBSYW5kb20gR2VuZXRpYyBWYXJpYXRpb24gaW4gVW5pc2V4dWFsIGFuZCBCaXNleHVhbCBMaXphcmRzLiAgQ29hdXRob3JlZCB3aXRoIEcuVy4gSm9obnNvbiogYW5kIEwuTi4gSXJ3aW4uDQoNCjIwMDI6IEludml0ZWQgU3BlYWtlci4gVGV4YXMgQXNzb2NpYXRpb24gb2YgQmlvbG9neSBUZWFjaGVycyBhbm51YWwgbWVldGluZy4gQ0FTVCBDb25mZXJlbmNlLCBFbCBQYXNvLCBUZXhhcywgOSBOb3ZlbWJlci4gIFRpdGxlOiBFdm9sdXRpb25hcnkgU3R1ZGllcyBhdCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4gDQoNCjIwMDI6IEludml0ZWQgU3BlYWtlcjogU291dGh3ZXN0IFNwZWFrZXIgU2VyaWVzLCBVVEVQLiBTY2llbmNlIFRlYWNoZXJzIEFzc29jaWF0aW9uIG9mIFRleGFzIENvbmZlcmVuY2UgZm9yIHRoZSBBZHZhbmNlbWVudCBvZiBTY2llbmNlIFRlYWNoaW5nIChDQVNUKS4gIEVsIFBhc28sIFRleGFzLCA4IE5vdmVtYmVyLiAgVGl0bGU6IFNjaWVudGlmaWMgUmVzZWFyY2ggYW5kIEVkdWNhdGlvbiBhdCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4NCg0KMjAwMjogIFBvc3Rlci4gIFNBQ05BUyBOYXRpb25hbCBDb25mZXJlbmNlLCBBbmFoZWltLCBDYWxpZm9ybmlhLCAyNi0yOSBTZXB0ZW1iZXIuICBUaXRsZTogQSBjb21wYXJpc29uIG9mIFJhbmRvbSBHZW5ldGljIFZhcmlhdGlvbiBCZXR3ZWVuIFVuaXNleHVhbCBhbmQgQmlzZXh1YWwgTGl6YXJkczogSW5mbHVlbmNlIG9mIFJlcHJvZHVjdGlvbiBhbmQgS2FyeW90eXBlLiBXaW5uZXIgb2YgU3R1ZGVudCBQcmVzZW50YXRpb24gQXdhcmQgZnJvbSB0aGUgRW5kb2NyaW5vbG9neSBTb2NpZXR5LiAgQ28tYXV0aG9yZWQgd2l0aCBHLiBXLiBKb2huc29uKiBhbmQgTC4gTi4gSXJ3aW4uDQoNCjIwMDI6IFByZXNlbnRhdGlvbi4gQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0LCBDdWVybmF2YWNhLCBNb3JlbG9zLCBNZXhpY28sIDI3IEFwcmlsLiAgVGl0bGU6ICBDb25zZXJ2YXRpb24gU3RhdHVzIG9mIHRoZSBDaGlodWFodWFuIERlc2VydCBMeXJlIFNuYWtlLCBUcmltb3JwaG9kb24gdmlsa2luc29uaWkuDQoNCjIwMDI6IFBvc3Rlci4gQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgQ3Vlcm5hdmFjYSwgTW9yZWxvcywgTWV4aWNvLCAyNyBBcHJpbC4gIFRpdGxlOiAgQSBDb21wYXJpc29uIG9mIFJhbmRvbSBHZW5ldGljIFZhcmlhdGlvbiBCZXR3ZWVuIFVuaXNleHVhbCBhbmQgQmlzZXh1YWwgTGl6YXJkczsgSW5mbHVlbmNlIG9mIFJlcHJkdWN0aW9uIGFuZCBLYXJ5b3R5cGUuIENvLWF1dGhvcmVkIHdpdGggRy5XLiBKb2huc29uKiBhbmQgTC5OLiBJcndpbi4NCiAgDQoyMDAyOiBQb3N0ZXIuIFJFVSBTdHVkZW50IFJlc2VhcmNoIEV4cG8sIFVURVAsIDE4IEFwcmlsLiAgVGl0bGU6ICBDb21wYXJpc29uIG9mIFJhbmRvbSBHZW5ldGljIFZhcmlhdGlvbiBpbiBCaXNleHVhbCBhbmQgVW5pc2V4dWFsIExpemFyZHMuICBDby1BdXRob3JlZCB3aXRoIEcuVy4gSm9obnNvbiogYW5kIEwuTi4gSXJ3aW4uDQoNCjIwMDI6IFBvc3Rlci4gIEFubnVhbCBSZXNlYXJjaCBEYXksIFRleGFzIFRlY2ggVW5pdmVyc2l0eSwgTHViYm9jaywgVGV4YXMsIDggTWFyY2guICBUaXRsZTogQ29tcGFyaXNvbiBvZiBSYW5kb20gR2VuZXRpYyBWYXJpYXRpb24gaW4gQmlzZXh1YWwgYW5kIFVuaXNleHVhbCBMaXphcmRzLiBXaW5uZXIgb2YgMjAwMiBzdHVkZW50IHByZXNlbnRhdGlvbiBhd2FyZC4gQ28tQXV0aG9yZWQgd2l0aCBHLiBXLiBKb2huc29uKiBhbmQgTC5OLiBJcndpbi4NCg0KMjAwMTogSW52aXRlZCBTcGVha2VyLiAgT3JnYW5pemF0aW9uIG9mIEJpb2xvZ2ljYWwgRmllbGQgU3RhdGlvbnMgQW5udWFsIE1lZXRpbmcsIFVuaXYuIE9rbGFob21hIEJpb2xvZ2ljYWwgU3RhdGlvbiwgTGFrZSBUZXhvbWEsIE9rbGFob21hLCAyMSBTZXB0ZW1iZXIuIFRpdGxlOiBNaW5vcml0eSBTdHVkZW50IFBhcnRpY2lwYXRpb24gaW4gRXh0ZW5kZWQgRmllbGQgU3R1ZGllcyBpbiBCaW9sb2d5IGF0IFRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEVsIFBhc28uDQoNCjIwMDE6ICBQcmVzZW50YXRpb24uIEVsIFBhc28gSW5zaWdodHMgU2NpZW5jZSBNdXNldW0gU2NpZW50aWZpYyBDYXJlZXIgRXhwbywgNCBNYXkuIFRpdGxlOiBPcHBvcnR1bml0aWVzIGluIEJpb2xvZ2ljYWwgU2NpZW5jZXMgYXQgVVRFUC4gV2l0aCBILiBSaXZlcm9sbCogYW5kIEMuIEhvbG1lcy4qDQoNCjIwMDE6ICBQcmVzZW50YXRpb24uIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIEZvcnQgSGF5cyBTdGF0ZSBVbml2ZXJzaXR5LCBIYXlzLCBLYW5zYXMsIDIwIEFwcmlsLiBUaXRsZTogVGF4b25vbWljIENvbXBhcmlzb24gQmV0d2VlbiB0aGUgVHdvIFNwZWNpZXMgb2YgU25ha2VzIENvbXByaXNpbmcgdGhlIEdlbnVzIFN0ZW5vcnJoaW5hIER1bWVyaWwuDQoNCjIwMDE6ICBQb3N0ZXIuICBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBGb3J0IEhheXMgU3RhdGUgVW5pdmVyc2l0eSwgMjAgQXByaWwuICBUaXRsZTogRWNvbG9naWNhbCBBc3BlY3RzIG9mIExpemFyZCBQb3B1bGF0aW9ucyB3aXRoaW4gSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb246IEEgRGVzY3JpcHRpdmUgU3R1ZHkuIENvLWF1dGhvcmVkIHdpdGggSC4gUml2ZXJvbGwuKiANCg0KMjAwMTogIFBvc3Rlci4gIEFubnVhbCBtZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIEZvcnQgSGF5cyBTdGF0ZSBVbml2ZXJzaXR5LCAyMCBBcHJpbC4gIFRpdGxlOiBBIENvbXBhcmlzb24gb2YgUmFuZG9tIEdlbmV0aWMgVmFyaWF0aW9uIGluIEJpc2V4dWFsIGFuZCBVbmlzZXh1YWwgTGl6YXJkcy4gIENvLWF1dGhvcmVkIHdpdGggRy5XLiBKb2huc29uKiBhbmQgTC4gTi4gSXJ3aW4uDQoNCiAyMDAxOiAgSW52aXRlZCBTZW1pbmFyOiAgRW52aXJvbm1lbnRhbCBTY2llbmNlcyBhbmQgRW5naW5lZXJpbmcgUGguRC4gUHJvZ3JhbSwgVVRFUCwgMzAgSmFudWFyeS4gIFRpdGxlOiBEZXNlcnQgRWNvbG9neSBhdCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4NCg0KMjAwMTogIFBvc3Rlci4gIFNvY2lldHkgZm9yIEludGVncmF0aXZlIGFuZCBDb21wYXJhdGl2ZSBCaW9sb2d5LCBDaGljYWdvLCBJbGxpbm9pcywgMy03IEphbnVhcnkuICBUaXRsZTogVGF4b25vbWljIFV0aWxpdHkgb2YgUmFuZG9tIEdlbmV0aWMgVmFyaWF0aW9uIGluIExpemFyZHMuICBDby1hdXRob3JlZCB3aXRoIFYuTC4gQ3VueXVzLCogQS5MLiBHb21leiwqIEcuVy4gSm9obnNvbiwqIGFuZCBMLk4uIElyd2luLiANCg0KMjAwMTogIFBvc3Rlci4gU29jaWV0eSBvZiBJbnRlZ3JhdGl2ZSBhbmQgQ29tcGFyYXRpdmUgQmlvbG9neSwgQ2hpY2FnbywgSWxsaW5vaXMsIDMtNyBKYW51YXJ5LiAgVGl0bGU6IEEgQ29tcGFyaXNvbiBvZiBSYW5kb20gR2VuZXRpYyBWYXJpYXRpb24gaW4gQmlzZXh1YWwgYW5kIFVuaXNleHVhbCBMaXphcmRzLiAgQ28tYXV0aG9yZWQgd2l0aCBHLlcuIEpvaG5zb24gYW5kIEwuTi4gSXJ3aW4uDQoNCjIwMDA6ICBGaW5hbCBSZXBvcnQuICBUZXhhcyBQYXJrcyBhbmQgV2lsZGxpZmUgRGVwYXJ0bWVudCBmb3IgZnVuZGVkIFByb2plY3Q6IEEgQ29tcHJlaGVuc2l2ZSBTdXJ2ZXkgYW5kIFJlcG9ydCBvZiB0aGUgQW1waGliaWFucywgUmVwdGlsZXMsIGFuZCBNYW1tYWxzIG9mIEh1ZWNvIFRhbmtzIFN0YXRlIEhpc3RvcmljYWwgUGFyayBhbmQgRnJhbmtsaW4gTW91bnRhaW5zIFN0YXRlIFBhcmssIGFuZCBSZWNvbW1lbmRhdGlvbnMgZm9yIEZ1cnRoZXIgUmVzZWFyY2gsIDE1NSBwcC4gIFN1Ym1pdHRlZCAxMiBBdWd1c3QuDQoNCjIwMDA6ICBJbnZpdGVkIFNlbWluYXIuICBEZXBhcnRtZW50IG9mIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIFVURVAsIDI4IEFwcmlsLiAgVGl0bGU6IEhlcnBzIGFuZCBIYWJpdGF0cyBvZiBTb3V0aGVhc3Rlcm4gTWV4aWNvIGFuZCBPdGhlciBJbnRlcmVzdGluZyBQbGFjZXMuDQoNCjIwMDA6ICBQcmVzZW50YXRpb24uICBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBVbml2LiBOb3J0aCBUZXhhcywgMTkgQXByaWwuICBUaXRsZTogIFJhbmRvbSBHZW5vbWljIFZhcmlhdGlvbiBpbiB0aGUgTGl6YXJkIFBvcHVsYXRpb25zIG9mIHRoZSBJbmRpbyBNb3VudGFpbnMuICBDby1hdXRob3JlZCB3aXRoIEcuVy4gSm9obnNvbiogYW5kIEwuTi4gSXJ3aW4uDQoNCjIwMDA6ICBQcmVzZW50YXRpb24uICBBbm51YWwgbWVldGluZyBvZiB0aGUgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEFtcGhpYmlhbnMgYW5kIFJlcHRpbGVzLCBMYSBQYXosIEJhamEgQ2FsaWZvcm5pYSBTdXIsIE1leGljbywgMTYgSnVuZS4gIFRpdGxlOiBSYW5kb20gR2Vub21pYyBWYXJpYXRpb24gaW4gdGhlIExpemFyZCBwb3B1bGF0aW9ucyBvZiB0aGUgSW5kaW8gTW91bnRhaW5zLiBDby1hdXRob3JlZCB3aXRoIEcuVy4gSm9obnNvbiogYW5kIEwuTi4gSXJ3aW4uDQoNCjE5OTk6ICBQcmVzZW50YXRpb24uICBDaGlodWFodWFuIERlc2VydCBSZXNlYXJjaCBJbnN0aXR1dGUgNXRoIFN5bXBvc2l1bSBvbiBSZXNvdXJjZXMgb2YgdGhlIENoaWh1YWh1YW4gRGVzZXJ0IFJlZ2lvbjogVS5TLiBhbmQgTWV4aWNvLCBTdWwgUm9zcyBTdGF0ZSBVbml2ZXJzaXR5LCBPY3RvYmVyIDctOC4gIFRpdGxlOiBUYXhvbm9taWMgUmVsYXRpb25zaGlwcyBCZXR3ZWVuIFRyaW1vcnBob2RvbiBiaXNjdXRhdHVzIENvbXBsZXggTWVtYmVycyBuZWFyIHRoZSBBcml6b25hLU5ldyBNZXhpY28gQm9yZGVyLiBDby1BdXRob3JlZCB3aXRoIFQuIEouIExhRHVjLioqDQogIA0KMTk5OTogIFByZXNlbnRhdGlvbi4gIENoaWh1YWh1YW4gRGVzZXJ0IFJlc2VhcmNoIEluc3RpdHV0ZSA1dGggU3ltcG9zaXVtIG9uIFJlc291cmNlcyBvZiB0aGUgQ2hpaHVhaHVhbiBEZXNlcnQgUmVnaW9uOiBVLlMuIGFuZCBNZXhpY28sIFN1bCBSb3NzIFN0YXRlIFVuaXZlcnNpdHksIDctOCBPY3RvYmVyLiAgVGl0bGU6ICBBbiBBbmFseXNpcyBPZiBSb2NrIFJhdHRsZXNuYWtlcyBGcm9tIFRoZSBOb3J0aGVybiBQb3J0aW9uIE9mIEl0cyBSYW5nZS4gQ28tYXV0aG9yZWQgd2l0aCBBLiBEb21pbmd1ZXoqKiBhbmQgRS5ELiBSYWVsLg0KICANCjE5OTk6ICBJbnZpdGVkIFNwZWFrZXIuICBGaWNoYSBUZWNuaWNhIFBhcmEgTGEgQ29uc2VydmFjaW9uIERlIEVsIFBvem8sIE11bmljaXBpbyBEZSBCZXJyaW96YWJhbCwgQ2hpYXBhcywgTWV4aWNvLiAgSW5zdC4gSGlzdG9yaWEgTmF0dXJhbCwgVHV4dGxhIEd1dGllcnJleiwgQ2hpYXBhcywgTWV4aWNvLCA5IEphbnVhcnkuIENvLWF1dGhvcmVkIHdpdGggTWFyY28gTGF6Y2Fuby1CYXJyZXJvLg0KICANCjE5OTc6ICBJbnZpdGVkIFN5bXBvc2l1bS4gIE1lc29hbWVyaWNhbiBBbXBoaWJpYW4gUG9wdWxhdGlvbiBEZWNsaW5lcy4gRmlyc3QgQ29uZ3Jlc3MgYW5kIFNlY29uZCBHZW5lcmFsIEFzc2VtYmx5IG9mIHRoZSBNZXNvYW1lcmljYW4gU29jaWV0eSBmb3IgQmlvbG9neSBhbmQgQ29uc2VydmF0aW9uLCBUZWd1Y2lnYWxwYSwgSG9uZHVyYXMsIDIzIEp1bmUuICBUaXRsZTogQSBQcmVsaW1pbmFyeSBEaXNjdXNzaW9uIG9mIHRoZSBWaXRhbGl0eSBvZiBBbXBoaWJpYW4gUG9wdWxhdGlvbnMgaW4gU291dGhlYXN0ZXJuIE1leGljby4NCiAgDQoxOTk3OiBJbnZpdGVkIFNlbWluYXIsIERlcGFydG1lbnQgb2YgQmlvbG9naWNhbCBTY2llbmNlcywgVVRFUCwgMzEgSmFudWFyeS4gIFRpdGxlOiAgSGVycHMgYW5kIEhhYml0YXRzIGluIFNvdXRoZXJuIE1leGljby4NCiAgDQoxOTk2OiBJbnZpdGVkIFNwZWFrZXIsIEFzY2FyYXRlIEVsZW1lbnRhcnkgU2Nob29sLCBFbCBQYXNvLCBUZXhhcywgMTMgSnVuZSwgb24gcmVwdGlsZXMgYW5kIGFtcGhpYmlhbnMuDQogIA0KMTk5NjogSW52aXRlZCBTcGVha2VyLCBFbCBQYXNvIEVsZGVyaG9zdGVsIGdyb3VwLCBFbCBQYXNvLCBUZXhhcywgNSBNYXJjaCwgDQpvbiByZXB0aWxlcyBhbmQgYW1waGliaWFucyBvZiB0aGUgRWwgUGFzbyBhcmVhLg0KICANCjE5OTY6IEludml0ZWQgU3BlYWtlciwgSGVicmV3IERheSBTY2hvb2wsIEVsIFBhc28sIFRleGFzLCAyOCBGZWJydWFyeSwgb24gcGxhbnRzIA0KYW5kIGFuaW1hbHMuDQogIA0KMTk5NTogSW52aXRlZCBTcGVha2VyLCBMZWUgRWxlbWVudGFyeSBTY2hvb2wsIEVsIFBhc28sIFRleGFzLCAxMiBEZWNlbWJlciwgb24gDQpkZXNlcnQgYW5pbWFscy4NCiAgDQoxOTk1OiBJbnZpdGVkIHN5bXBvc2l1bS4gMTl0aCBJbnRlcm5hdGlvbmFsIEhlcnBldG9sb2dpY2FsIFN5bXBvc2l1bSwgSGVycGV0b2xvZ3kgb2YgTWV4aWNvLCBEZW52ZXIgQ29sb3JhZG8sIEp1bmUgMTQtMTguIFRpdGxlczogSGVycHMgYW5kIFRoZWlyIEhhYml0YXRzIGluIFNvdXRoZWFzdGVybiBNZXhpY28gYW5kIFRheG9ub21pYyBSZWxhdGlvbnNoaXBzIEJldHdlZW4gVHJpbW9ycGhvZG9uIGJpc2N1dGF0dXMgQ29tcGxleCBNZW1iZXJzIE5lYXIgdGhlIEFyaXpvbmEtTmV3IE1leGljbyBCb3JkZXIuIExhdHRlciB0aXRsZSBDby1hdXRob3JlZCB3aXRoIFQuSi4gTGFEdWMuKioNCg0KMTk5NTogSW52aXRlZCBzcGVha2VyLCBDb2xkd2VsbCBNaWRkbGUgU2Nob29sLCBFbCBQYXNvLCBUZXhhcywgNSBNYXksIG9uIA0KcmVwdGlsZXMgYW5kIGFtcGhpYmlhbnMgKDZ0aCAmIDd0aCBncmFkZSBzdHVkZW50cykuDQogIA0KMTk5NTogUHJlc2VudGF0aW9uLiBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBTaHJldmVwb3J0LCBMb3Vpc2lhbmEsIEFwcmlsIDYtOC4gVGl0bGU6IFRheG9ub21pYyByZWxhdGlvbnNoaXBzIGJldHdlZW4gVHJpbW9ycGhvZG9uIGJpc2N1dGF0dXMgbWVtYmVycyBuZWFyIEFyaXpvbmEtTmV3IE1leGljbyBib3JkZXIuIENvLWF1dGhvcmVkIHdpdGggVC5KLiBMYUR1Yy4qKg0KICANCjE5OTU6ICBQcmVzZW50YXRpb24uICBBbm51YWwgbWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBTaHJldmVwb3J0LCBMb3Vpc2lhbmEsIEFwcmlsIDYtOC4gVGl0bGU6IFRoZSB0YXhvbm9taWMgc3RhdHVzIG9mIHRoZSBEdXN0eSBIb2dub3NlIFNuYWtlLCBIZXRlcm9kb24gbmFzaWN1cyBnbG95ZGkgKFNlcnBlbnRlczogQ29sdWJyaWRhZSkuIENvLWF1dGhvcmVkIHdpdGggQy5NLiBFY2tlcm1hbioqIGFuZCBELiBQbGF0dC4NCiAgDQoxOTk1OiBJbnZpdGVkIFNwZWFrZXIsIEZhY3VsdHkgRGV2ZWxvcG1lbnQgV29ya3Nob3BzLCBFUENDLCAxMiBKYW51YXJ5LiAgVGl0bGU6IEdsb2JhbCBJc3N1ZXMgaW4gdGhlIENsYXNzcm9vbSBhbmQgUmVzZWFyY2ggQWN0aXZpdGllcyBpbiB0aGUgQmlvbG9neSBEZXBhcnRtZW50Lg0KDQoxOTk0OiBJbnZpdGVkIFNwZWFrZXIsIFRleGFzIEhlcnBldG9sb2dpY2FsIFNvY2lldHkgbWVldGluZywgU3VsIFJvc3MgU3RhdGUgVW5pdmVyc2l0eSwgQWxwaW5lIFRleGFzLCAyMSBPY3RvYmVyLiBUaXRsZTogVGhlIFRleGFzIEx5cmUgU25ha2UsIFRyaW1vcnBob2RvbiBiaXNjdXRhdHVzIHZpbGtpbnNvbmlpLiBDb2F1dGhvcmVkIHdpdGggVC5KLiBMYUR1Yy4qKiANCg0KMTk5NDogUHJlc2VudGF0aW9uLiAgQW5udWFsIG1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgRW1wb3JpYSBTdGF0ZSBVbml2ZXJzaXR5LCAyMiBBcHJpbC4gVGl0bGU6IEdlb2dyYXBoaWMgVmFyaWF0aW9uIGluIHRoZSBXZXN0ZXJuIEhvZ25vc2UgU25ha2UsIEhldGVyb2RvbiBuYXNpY3VzLiBDby1hdXRob3JlZCB3aXRoIEMuTS4gRWNrZXJtYW4uKioNCiAgDQoxOTk0OiBJbnZpdGVkIHNwZWFrZXIuIFN5c3RlbWF0aWNzLCBCaW9nZW9ncmFwaHksIGFuZCBDb25zZXJ2YXRpb24gb2YgdGhlIEhlcnBldG9mYXVuYSBvZiBTb3V0aGVhc3Rlcm4gTWV4aWNvOyBJSUkgUmV1bmlvbiBOYWNpb25hbCBEZSBIZXJwZXRvbG9naWEsIFNhbiBDcmlzdG9iYWwgRGUgTGFzIENhc2FzLCBDaGlhcGFzLCBNZXhpY28sIDgtMTEgTm92ZW1iZXIuICBUaXRsZSAtIExhIEhlcnBldG9mYXVuYSBBZGFwdGFkYSBhIENsaW1hcyBTZWNvcyBkZWwgU3VyZXN0ZSBkZSBNZXhpY28sIEV4Y2x1eWVuZG8gbGEgUGVuaW5zdWxhIGRlIFl1Y2F0YW4sIHVuIExsYW1hZG8gcGFyYSBzdXMgQ29uc2VydmFjaW9uLg0KDQoxOTk0OiBJbnZpdGVkIFNwZWFrZXIuIE5JU09EIENvbmZlcmVuY2UsIEF1c3RpbiwgVGV4YXMsIDIzIE1heSwgQXVzdGluLCBUaXRsZTogVHdvIEN1bHR1cmVzOiBBIFRoaXJkIExvb2suIENvYXV0aG9yZWQgd2l0aCBHLiBNdWxsZXIsIFcuIFBlZXBsZXMsIEouIE1haG1vdWQsIGFuZCBELiBDYXNrZXkuDQogDQoxOTk0OiBJbnZpdGVkIFNwZWFrZXIuIFBoaSBUaGV0YSBLYXBwYSBIb25vcnMgU29jaWV0eSwgRmFjdWx0eSBEZXZlbG9wbWVudCBDb25mZXJlbmNlIG9uIFNjaWVuY2UsIEh1bWFuaXR5LCBhbmQgVGVjaG5vbG9neTogU2hhcGluZyBhIE5ldyBDcmVhdGlvbjsgRWFzdGVybiBNaWNoaWdhbiBVbml2ZXJzaXR5IFlwc2lsYW50aSwgSnVuZSA4LiBUaXRsZSAtIEN1bHR1cmFsIEltcGxpY2F0aW9ucyBvZiBTY2llbmNlIGFuZCBUZWNobm9sb2d5LiBDby1wcmVzZW50YXRpb24gd2l0aCBKLlIuIEJyaXN0b2wuDQogDQoxOTk0OiBQb3N0ZXIuIE5TRiBOYXRpb25hbCBDb25mZXJlbmNlIG9mIElubm92YXRvcnMgaW4gVW5kZXJncmFkdWF0ZSBFZHVjYXRpb24sIFdhc2hpbmd0b24sIEQuQy4sIDMxIE1heSAtIDMgSnVuZS4gVGl0bGU6IEFuIEludGVyZGlzY2lwbGluYXJ5IENvdXJzZSBpbiBTY2llbmNlLiBDby1hdXRob3JlZCB3aXRoIEouUi4gQnJpc3RvbC4NCiAgDQoxOTk0OiBGZWF0dXJlZCBTcGVha2VyLiBFbCBQYXNvIEhlcnBldG9sb2dpY2FsIFNvY2lldHksIEVsIFBhc28sIFRleGFzLCAyMiBBcHJpbC4gIFRpdGxlOiBUaGUgRWZmZWN0cyBvZiBDaXZpbCBVbnJlc3QgaW4gQ2hpYXBhcywgTWV4aWNvLCBvbiBOYXR1cmFsIEVjb3N5c3RlbXMuDQogIA0KMTk5MjogSW52aXRlZCBTcGVha2VyLiBDcm9ja2V0dCBFbGVtZW50YXJ5IFNjaG9vbCAoMXN0IEdyYWRlKSwgRWwgUGFzbywgVGV4YXMsIDMgTWFyY2guICBQcmVzZW50YXRpb24gb24gcmVwdGlsZXMgYW5kIHRoZWlyIGltcG9ydGFuY2UgdG8gZWNvc3lzdGVtcy4gDQogIA0KMTk5MjogSW52aXRlZCBTcGVha2VyLiBIb25vcnMgUHJvZ3JhbSwgRVBDQywgMjUgU2VwdGVtYmVyLiAgVGl0bGU6IEh1bWFuIFBvcHVsYXRpb24gYW5kIEVudmlyb25tZW50YWwgSW1wbGljYXRpb25zLg0KICANCjE5OTI6IEludml0ZWQgU3BlYWtlci4gTmV3IE1leGljbyBIZXJwZXRvbG9naWNhbCBTb2NpZXR5LCBOZXcgTWV4aWNvIFN0YXRlIFVuaXZlcnNpdHksIDE4IE1heS4gIFRpdGxlOiBUaGUgaGVycGV0b2ZhdW5hIG9mIHNvdXRoZXJuIE1leGljby4NCiAgDQoxOTkxOiBJbnZpdGVkIFNwZWFrZXIuIEVQQ0MgZmFjdWx0eSBkZXZlbG9wbWVudCBzZXNzaW9uLCAyNiBBdWd1c3QuICBUaXRsZTogcGh5bG9nZW5ldGljIHN5c3RlbWF0aWNzIGFuZCBpdHMgcmVsZXZhbmNlIHRvIHVuZGVyZ3JhZHVhdGUgYmlvbG9neS4NCiAgDQoxOTkxOiBJbnZpdGVkIFNwZWFrZXIsIDJuZCBncmFkZSBjbGFzc2VzLCBEb3VnbGFzcyBFbGVtZW50YXJ5ICBTY2hvb2wsIEVsIFBhc28sIDMgQXByaWwuICBUaXRsZTogV2ludGVyIGJlaGF2aW9yIG9mIGFuaW1hbHMuDQogIA0KMTk5MTogSW52aXRlZCBTcGVha2VyLiBFUENDIGZhY3VsdHkgZGV2ZWxvcG1lbnQgc2Vzc2lvbiwgNiBKYW51YXJ5LiBUaXRsZTogUHJvJ3MgYW5kIENvbidzIG9mIFN0YW5kYXJkaXplZCBFeGFtcy4NCg0KMTk5MDogSW52aXRlZCBTcGVha2VyLiBCdXJnZXNzIEhpZ2ggU2Nob29sLCBFbCBQYXNvLCAyMyBNYXJjaC4gIFRpdGxlOiBTY2llbnRpZmljIFJlc2VhcmNoIGF0IEVQQ0MgYW5kIFVURVAuDQogICAgIA0KMTk5MDogSW52aXRlZCBTcGVha2VyLiBGYWN1bHR5IGRldmVsb3BtZW50IHNlc3Npb24sIEVQQ0MsIDggSmFudWFyeS4gIFRpdGxlOiAgU3R1ZGVudCBCaW9sb2dpY2FsIFJlc2VhcmNoIGF0IFB1ZXJ0byBQZW5hc2NvLCBTb25vcmEsIE1leGljby4NCiAgDQoxOTg5OiBQb3N0ZXIuIFBpdCBWaXBlciBTeW1wb3NpdW0sIEFubnVhbCBNZWV0aW5nIG9mIHRoZSBUZXhhcyBIZXJwZXRvbG9naWNhbCBTb2NpZXR5LCBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEFybGluZ3RvbiwgMjIgT2N0LiBUaXRsZTogSXNvbGF0aW9uIG9mIGEgTW9qYXZlIHRveGluLWxpa2UgcHJvdGVpbiBpbiB0aGUgcm9jayByYXR0bGVzbmFrZSwgQ3JvdGFsdXMgbGVwaWR1cy4gQ29hdXRob3JlZCB3aXRoIEUuRC4gUmFlbCBhbmQgSC5LLiBNY0NyeXN0YWwuDQogIA0KMTk4OTogSW52aXRlZCBTcGVha2VyLiBGYWN1bHR5IGRldmVsb3BtZW50IHNlc3Npb24sIEVQQ0MsIDI2IEF1Z3VzdC4gIFRpdGxlOiBIZXJwZXRvbG9naWNhbCBSZXNlYXJjaCBpbiBNZXhpY28uDQogICAgICAgIA0KMTk4OTogRmVhdHVyZWQgU3BlYWtlci4gVHVjc29uIEhlcnBldG9sb2dpY2FsIFNvY2lldHksIDE0IEp1bHkuICBUaXRsZTogVGhlIEhlcnBldG9mYXVuYSBvZiBTb3V0aGVybiBNZXhpY28uDQogIA0KMTk4ODogSW52aXRlZCBTcGVha2VyLiBFbCBQYXNvIEhlcnBldG9sb2dpY2FsIFNvY2lldHksIDI2IEFwcmlsLiAgVGl0bGU6IFRoZSBIZXJwZXRvZmF1bmEgb2YgU291dGhlcm4gTWV4aWNvLg0KICANCjE5ODc6IEludml0ZWQgU3BlYWtlci4gSHVlY28gVGFua3MgU3RhdGUgUGFyayAoVGV4YXMpIHN0YWZmIGFuZCB2aXNpdG9ycy4gIFRpdGxlOiBUaGUgaGVycGV0b2ZhdW5hIG9mIEh1ZWNvIE1vdW50YWlucy4gDQogIA0KMTk4NjogUG9zdGVyLiBTZWNvbmQgQW1lcmljYW4gU3ltcG9zaXVtIG9uIEFuaW1hbCBhbmQgUGxhbnQgVG94aW5zLCBJbnRlcm4uIFNvYy4gVG94LiwgVGVtcGUsIEFyaXpvbmEgNyBNYXJjaC4gVGl0bGU6ICBQcm90ZWlucyBpbiBDcm90YWx1cyBsZXBpZHVzIFZlbm9tIFJlYWN0aXZlIHdpdGggTW9ub2Nsb25hbCBBbnRpYm9kaWVzIEFnYWluc3QgTW9qYXZlIFRveGluIGFuZCBMLUFtaW5vIEFjaWQgb3hpZGFzZS4gIENvYXV0aG9yZWQgd2l0aCBFLkQuIFJhZWwgYW5kIEguSy4gTWNDcnlzdGFsLg0KICAgICAgIA0KMTk4NjogSW52aXRlZCBTcGVha2VyLiBMYXRpbiBBbWVyaWNhbiBoZXJwZXRvbG9neSwgVGV4YXMgSGVycGV0b2xvZ2ljYWwgU29jaWV0eSwgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBBcmxpbmd0b24uICAxNyBPY3RvYmVyLiBUaXRsZTogSGVycGV0b2xvZ2ljYWwgQXNwZWN0cyBvZiBOb3J0aHdlc3Rlcm4gTnVjbGVhciBDZW50cmFsIEFtZXJpY2EuDQogIA0KMTk4NTogSW52aXRlZCBTcGVha2VyLiBUZXhhcyBIZXJwZXRvbG9neSwgVGV4YXMgSGVycGV0b2xvZ2ljYWwgU29jaWV0eSwgSG91c3RvbiwgVGV4YXMgTmF0dXJhbCBIaXN0b3J5IE11c2V1bS4gVGl0bGU6IEhlcnBldG9mYXVuYSBvZiB0aGUgSHVlY28gTW91bnRhaW5zLCBUZXhhcy4NCiAgDQoxOTgzOiBJbnZpdGVkIFNwZWFrZXIuIFN5bXBvc2l1bSBvbiBNZXhpY2FuIEhlcnBldG9sb2d5LCBBbm51YWwgbWVldGluZyBvZiB0aGUgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEFtcGhpYmlhbnMgYW5kIFJlcHRpbGVzL0hlcnBldG9sb2dpc3RzJyBMZWFndWUsIFVuaXZlcnNpdHkgb2YgVXRhaCwgMTIgSnVuZS4gVGl0bGU6IEEgQmlvZ2VvZ3JhcGhpYyBBbmFseXNpcyBvZiB0aGUgSGVycGV0b2ZhdW5hIG9mIE5vcnRod2VzdGVybiBOdWNsZWFyIENlbnRyYWwgQW1lcmljYS4NCg0KMTk4MjogSW52aXRlZCBTcGVha2VyLiBBbm51YWwgbWVldGluZyBvZiB0aGUgVGV4YXMgSGVycGV0b2xvZ2ljYWwgU29jaWV0eSwgVGV4YXMgQSZNIFVuaXZlcnNpdHksIDE5IFNlcHRlbWJlci4gVGl0bGU6IEhlcnBldG9sb2dpY2FsIFJlc2VhcmNoIGluIHRoZSBFbCBQYXNvIEFyZWEuDQogIA0KMTk3OCAtIDE5ODA6IE51bWVyb3VzIHByZXNlbnRhdGlvbnMgdG8gdGhlIEVsIFBhc28gWm9vIHBlcnNvbm5lbCBvbiB0aGUgYmlvbG9neSBvZiBhbXBoaWJpYW5zIGFuZCByZXB0aWxlcy4NCg0KQ09NTUlUVEVFUyBBTkQgU1BFQ0lBTCBQUk9KRUNUUw0KDQoyMDEwOiBBZHZvY2F0ZSwgTG9yZW5hIERlIExvcyBTYW50b3MsIFBoRCBEaXNzZXJ0YXRpb24gY29tbWl0dGVlLCBVVEVQLg0KDQoyMDEwLVByZXNlbnQ6IEFkdmlzb3J5IENvbW1pdHRlZSwgTmF0dXJhbCBIaXN0b3J5IENvbGxlY3Rpb25zLCBVVEVQLg0KDQoyMDEwOiBTZWFyY2ggQ29tbWl0dGVlLCBEaXJlY3RvciBvZiBDZW50ZW5uaWFsIE11c2V1bSwgVVRFUC4NCg0KMjAwOTogUGxhbm5pbmcgQ29tbWl0dGVlLCBDaGlodWFodWFuIERlc2VydCBFZHVjYXRpb25hbCBDb2FsaXRpb24gKEVsIFBhc28gWm9vKS4NCg0KMjAwMi1QcmVzZW50OiAgTWFzdGVycyBEZWdyZWUgUHJvZ3JhbSBBZHZpc29yLCBCaW9sb2d5LCBVVEVQLg0KDQoyMDAwLVByZXNlbnQ6IENoYWlybWFuLCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbiBBZHZpc29yeSBDb21taXR0ZWUsIENPUywgVVRFUC4NCg0KMjAwMS1QcmVzZW50OiAgR3JhZHVhdGUgU3R1ZGVudCBBZG1pc3Npb25zIENvbW1pdHRlZSwgQmlvbG9neSwgVVRFUC4NCg0KMjAwMS1QcmVzZW50OiAgQmlvbG9neSBTdHVkZW50IEF3YXJkcyBDb21taXR0ZWUsIEJpb2xvZ3ksIFVURVAuIA0KDQoyMDAwLVByZXNlbnQ6IE1hc3RlciBOYXR1cmFsaXN0IEN1cnJpY3VsdW0gQ29tbWl0dGVlLCBUZXhhcyBQYXJrcyBhbmQgV2lsZGxpZmUgRGVwYXJ0bWVudCwgRWwgUGFzbywgVGV4YXMuDQoNCjIwMDAtUHJlc2VudDogUHJvamVjdCBNYXN0ZXJtaW5kIENvbW1pdHRlZSwgQ2VudGVubmlhbCBNdXNldW0sIFVURVAuDQoNCjIwMDgtMjAwOTogU2VhcmNoIENvbW1pdHRlZSwgTmV1cm9iaW9sb2d5IHBvc2l0aW9uLCBCaW9sb2d5LCBVVEVQLg0KDQoyMDA3OiBBZCBIb2MgUmV2aWV3ZXIsIE5TRiBncmFudCBwcm9wb3NhbC4gIEJpb2xvZ2ljYWwgU2NpZW5jZXMgRGlyZWN0b3JhdGUsIEJpb2xvZ2ljYWwgSW5mcmFzdHJ1Y3R1cmUsIEZTTUwuIEVsIFZlcmRlIEZpZWxkIFN0YXRpb24sIFB1ZXJ0byBSaWNvLg0KDQoyMDA3OiBBZCBIb2MgUmV2aWV3ZXIsIE5TRiBncmFudCBwcm9wb3NhbCAoUGxhbm5pbmcgZ3JhbnQpLCBCaW9sb2dpY2FsIFNjaWVuY2VzIERpcmVjdG9yYXRlLCBCaW9sb2dpY2FsIEluZnJhc3RydWN0dXJlLCBGU01MLiBPcmR3YXktU3dpc2hlciBCaW9sb2dpY2FsIFN0YXRpb24sIEZsb3JpZGEuDQoNCjIwMDYtMjAwNzogIFNlYXJjaCBDb21taXR0ZWUsIEV2b2x1dGlvbmFyeSBHZW5ldGljaXN0LCBCaW9sb2d5LCBVVEVQLg0KDQoyMDA1OiAgQWQgSG9jIFJldmlld2VyLCBOU0YgZ3JhbnQgcHJvcG9zYWwsIEJpb2xvZ2ljYWwgU2NpZW5jZXMgRGlyZWN0b3JhdGUsIEJpb2RpdmVyc2l0eSBhbmQgSW52ZW50b3J5IHBhbmVsLiAgDQoNCjIwMDU6ICBQYXJ0aWNpcGFudCwgQWxhbW8gRWxlbWVudGFyeSBTY2hvb2wgQ2FyZWVyIGFuZCBKb2IgRXhwby4gNSBNYXkuDQoNCjIwMDU6ICBIb3N0ZWQgTWFzdGVyIE5hdHVyYWxpc3RzIGF0IEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLCA2LTggTWF5Lg0KDQoyMDA1OiAgTWVldGluZyBQYXJ0aWNpcGFudCwgVGV4YXMgUGFya3MgYW5kIFdpbGRsaWZlIERlcGFydG1lbnQsIFdJTEQgQWJvdXQgVGV4YXMgUHJvamVjdCwgMTkgQXByaWwsIEVsIFBhc28sIFRleGFzLg0KDQoyMDA1LTIwMDg6ICBQcm9tb3Rpb24gYW5kIFRlbnVyZSBDb21taXR0ZWUsIENvbGxlZ2Ugb2YgU2NpZW5jZSwgVVRFUC4NCg0KMjAwNS0yMDA2OiAgQ2hhaXJtYW4sIFNlYXJjaCBDb21taXR0ZWUgZm9yIEV2b2x1dGlvbmFyeSBHZW5ldGljaXN0LCBVVEVQLg0KDQoyMDA0OiAgTWFzdGVyIFNjaWVuY2UgVGVhY2hlciBBZHZpc29yeSBDb21taXR0ZWUsIFVURVANCg0KMjAwNDogIFJldmlldyBDb21taXR0ZWUsIEJpb2xvZ3kgUmVwcmVzZW50YXRpdmUsIHJlc2VhcmNoIGluIE1leGljbyByZXF1aXJlbWVudHMsIFVURVAuDQoNCjIwMDQ6ICBNUFMgRnJhbWV3b3JrcyBXb3Jrc2hvcCwgVVRFUC4NCg0KMjAwNDogIEludml0ZWQgUGFydGljaXBhbnQsIEJpb2JsaXR6IEhlcnBldG9sb2d5IFN1cnZleSwgQ2hpaHVhaHVhbiBEZXNlcnQgUmVzZWFyY2ggSW5zdGl0dXRlLCAxNS0xNiBKdWx5LCBGb3J0IERhdmlzLCBUZXhhcy4NCg0KMjAwNDogIFN1YmplY3Qgb2YgYW4gSW50ZXJ2aWV3IGFuZCBhcnRpY2xlIGZvciBVVEVQJ3MgTk9WQSBtYWdhemluZSAocHAuIDYtNyksIHN1bW1lciAyMDA0LCBieSBEYXZpZCBQZXJlZ3Jpbm8sIFN0YWZmIFdyaXRlci4gIFRpdGxlOiBMYWJvcmF0b3J5IFdpdGhvdXQgV2FsbHM6IFRoZSAzOCwwMDAgYWNyZSBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbiBpcyBSZXNlYXJjaCBUcmVhc3VyZS4gDQoNCjIwMDQ6ICBBZCBIb2MgUmV2aWV3ZXIsIE5TRiBHcmFudCBQcm9wb3NhbCwgT2ZmaWNlIG9mIEludGVybmF0aW9uYWwgUmVzZWFyY2gsIENvbGxhYm9yYXRpdmUgUmVzZWFyY2guIDggSnVuZSAtIDggSnVseS4NCg0KMjAwNDogIFN1YmplY3Qgb2YgVGVsZXZpc2lvbiBJbnRlcnZpZXcgZm9yIEtWSUEgQ2hhbm5lbCA3LCBTb3V0aHdlc3Rlcm4gVHJlYXN1cmVzIFNlcmllcywgYnkgUm9iZXJ0IEhvbGd1aW4gKE5ld3MgUmVwb3J0ZXIpLCA1IE1heS4gVGhlIHNlcmllcyBzZWdtZW50IHdhcyBvbiByZXNlYXJjaCBhdCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4NCg0KMjAwMzogIFJldmlld2VyIGFuZCBQYW5lbGlzdCwgTlNGIEdyYW50IFByb3Bvc2FscywgRGlyZWN0b3JhdGUgZm9yIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIERpdmlzaW9uIG9mIEJpb2xvZ2ljYWwgSW5mcmFzdHJ1Y3R1cmUuICBGaWVsZCBTdGF0aW9ucyBhbmQgTWFyaW5lIExhYnMuIEFybGluZ3RvbiwgVmlyZ2luaWEsIDExLTE0IEp1bmUuDQoNCjIwMDM6ICBDaGlodWFodWFuIERlc2VydCBOZXR3b3JrIFRlY2huaWNhbCBNZWV0aW5nLCBOYXRpb25hbCBQYXJrIFNlcnZpY2UsIEJpZyBCZW5kIE5hdGlvbmFsIFBhcmssIDMwIE1heS4NCiANCjIwMDI6ICBBZCBIb2MgUmV2aWV3ZXIsIE5TRiBHcmFudCBQcm9wb3NhbCwgRGlyZWN0b3JhdGUgZm9yIEJpb2xvZ2ljYWwgU2NpZW5jZXMsIERpdmlzaW9uIG9mIEJpb2xvZ2ljYWwgSW5mcmFzdHJ1Y3R1cmUuIEZpZWxkIFN0YXRpb25zIGFuZCBNYXJpbmUgTGFicy4NCg0KMjAwMTogIEZlYXR1cmVkIHN1YmplY3Qgb2YgUHVibGljIEJyb2FkY2FzdGluZyBTeXN0ZW0gRXZvbHV0aW9uIFNlcmllcywgV2h5IFNleCBzZWdtZW50LCBmaXJzdCBwcmVzZW50ZWQgMjYgU2VwdGVtYmVyLiAgU3ViamVjdCBhYm91dCB1bmlzZXh1YWwgbGl6YXJkcyBhdCBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbi4gV29ybGR3aWRlIHZpZXdlcnMuDQoNCjIwMDE6ICBQcmUtcmVxdWlzaXRlIENvdXJzZSBDb21taXR0ZWUsIEJpb2xvZ3ksIFVURVAuDQoNCjIwMDE6ICBDaGlodWFodWFuIERlc2VydCBQYXJrcyBJbnZlbnRvcnkgYW5kIE1vbml0b3JpbmcgTmV0d29yayBTY29waW5nIE1lZXRpbmcsIE9kZXNzYSwgVGV4YXMsIDMwIE1heS0xIEp1bmUuDQoNCjIwMDAtMjAwMyBEZXBhcnRtZW50IEFkdmlzb3J5IENvbW1pdHRlZSwgQmlvbG9neSwgVVRFUC4NCg0KMTk5OS0yMDAwOiBJbnN0aXR1dGlvbmFsIEVmZmVjdGl2ZW5lc3MgQ29tbWl0dGVlLCBFUENDLg0KICANCjE5OTg6ICBDYW5kaWRhdGUgRXZhbHVhdGlvbiBDb21taXR0ZWUsIEJpb2xvZ3ksIEVQQ0MuDQogIA0KMTk5ODogICBDYW5kaWRhdGUgRXZhbHVhdGlvbiBDb21taXR0ZWUsIENoZW1pc3RyeSwgRVBDQy4NCiAgDQoxOTk4OiAgQ2FuZGlkYXRlIEV2YWx1YXRpb24gQ29tbWl0dGVlLCBCaW9sb2d5LCBFUENDLg0KICAgDQoxOTk3OiAgQ2FuZGlkYXRlIEV2YWx1YXRpb24gQ29tbWl0dGVlLCBCaW9sb2d5LCBFUENDLg0KICAgDQoxOTk3OiAgQ2FuZGlkYXRlIEV2YWx1YXRpb24gQ29tbWl0dGVlLCBDYW1wdXMgUHJvdm9zdCwgRVBDQy4NCiAgIA0KMTk5NTogIFdvcmtzaG9wIFBhcnRpY2lwYW50LCBTY2llbmNlIEVkdWNhdGlvbiBhbmQgU2NpZW50aWZpYyBMaXRlcmFjeSBXb3Jrc2hvcCwgRGV2ZWxvcGluZyBQYXJ0bmVyc2hpcHMgVGhhdCBXb3JrLiAgU2NpZW5jZSBpbiB0aGUgTmF0aW9uYWwgSW50ZXJlc3QgUmVnaW9uYWwgQ29uZmVyZW5jZSwgVVRFUCwgNCBNYXkuDQogIA0KMTk5NTogIENvbW1pdHRlZSBNZW1iZXIsIEpvaW50IEFkbWlzc2lvbnMgVGFzayBGb3JjZSwgRWwgUGFzbyBDb2xsYWJvcmF0aXZlIGZvciBBY2FkZW1pYyBFeGNlbGxlbmNlLCBVVEVQL0VQQ0MuICBQcm9kdWNlZCBhIHJlcG9ydCBpZGVudGlmeWluZyBzY2llbmNlIHN0YW5kYXJkcyBmb3IgNHRoLCA4dGgsIGFuZCAxMnRoIGdyYWRlIHN0dWRlbnRzLiAgDQogIA0KMTk5MzogIENvbW1pdHRlZSBNZW1iZXIsIEpvaW50IEFkbWlzc2lvbnMgVGFzayBGb3JjZSwgRWwgUGFzbyBDb2xsYWJvcmF0aXZlIGZvciBBY2FkZW1pYyBFeGNlbGxlbmNlLCBVVEVQL0VQQ0MuICBQcm9kdWNlZCBhIHJlcG9ydCBpZGVudGlmeWluZyBzY2llbmNlIHN0YW5kYXJkcyBmb3IgaW5jb21pbmcgZnJlc2htZW4gY29sbGVnZSBzdHVkZW50cy4gU3VtbWVyLg0KICANCjE5OTM6ICBDYW5kaWRhdGUgRXZhbHVhdGlvbiBDb21taXR0ZWUsIEJpb2xvZ3ksIEVQQ0MuIA0KICANCjE5OTI6ICBXb3Jrc2hvcCBQYXJ0aWNpcGFudCAoRVBDQyksIE1pbm9yaXRpZXMgaW4gTWFyaW5lIFNjaWVuY2UgKFVuaXYuIFRleGFzIE1hcmluZSBTY2llbmNlIEluc3RpdHV0ZSkgdG8gbWFrZSBtaW5vcml0aWVzIHN0dWRlbnRzIGF3YXJlIG9mIG9wcG9ydHVuaXRpZXMgaW4gbWFyaW5lIHNjaWVuY2UsIFBvcnQgQXJhbnNhcywgVGV4YXMsIDE5IFNlcHRlbWJlci4gIE5pbmUgRVBDQyBzdHVkZW50cyBhbmQgbXlzZWxmIHBhcnRpY2lwYXRlZC4gTlNGIHN1cHBvcnRlZC4NCiAgDQoxOTkyOiAgV29ya3Nob3AgUGFydGljaXBhbnQsIFNvdXRoZXJuIEFzc29jaWF0aW9uIG9mIE1hcmluZSBsYWJvcmF0b3JpZXMsIFVuaXYuIFRleGFzIFBhbiBBbWVyaWNhbiBDb2FzdGFsIFN0dWRpZXMgTGFiLCBpbml0aWF0aXZlIHRvIG1ha2UgbWlub3JpdHkgc3R1ZGVudHMgYXdhcmUgb2Ygb3Bwb3J0dW5pdGllcyBpbiBtYXJpbmUgc2NpZW5jZXMsIFNvdXRoIFBhZHJlIElzbGFuZCwgVGV4YXMsIDMwIE1heS4gRWlnaHQgRVBDQyBzdHVkZW50cyBhbmQgSSBwYXJ0aWNpcGF0ZWQuICBOU0Ygc3VwcG9ydGVkLg0KICANCjE5OTI6ICBXb3Jrc2hvcCBQYXJ0aWNpcGFudCwgRWlzZW5ob3dlciBNYXRoZW1hdGljcyBhbmQgU2NpZW5jZSBDb25mZXJlbmNlIChUZXhhcyBIaWdoZXIgRWR1Y2F0aW9uIENvb3JkaW5hdGluZyBCb2FyZCksIEF1c3RpbiwgVGV4YXMsIEphbi4gMjYgLSAyOC4NCg0KMTk5MTogIFdvcmtzaG9wIFBhcnRpY2lwYW50IChFUENDKSwgU291dGhlcm4gQXNzb2NpYXRpb24gb2YgTWFyaW5lIExhYm9yYXRvcmllcyBIaXNwYW5pYyBJbml0aWF0aXZlIFdvcmtzaG9wIG9uIGhvdyB0byBnZXQgSGlzcGFuaWNzIGludGVyZXN0ZWQgaW4gbWFyaW5lIGJpb2xvZ3ksIEZlYnJ1YXJ5IDIzLTI1LCBQb3J0IEFyYW5zYXMsIFRleGFzLCAtIFVuaXZlcnNpdHkgb2YgVGV4YXMsIE1hcmluZSBTY2llbmNlcyBJbnN0aXR1dGUuIE5pbmUgc3R1ZGVudHMgYW5kIEkgcGFydGljaXBhdGVkLiBTdXBwb3J0ZWQgYnkgTlNGLg0KDQoxOTkwLTE5OTE6ICBDb2FsaXRpb24gUGFydGljaXBhbnQgKEVQQ0MpLCBDb2FsaXRpb24gdG8gSW5jcmVhc2UgTWlub3JpdHkgRG9jdG9yYXRlcywgZGlyZWN0ZWQgYnkgSGlzcGFuaWMgQ2VudGVyLCBBcml6b25hIFN0YXRlIFVuaXYuLCBOU0Ygc3VwcG9ydGVkLg0KDQoxOTkwLTE5OTI6IFByaW5jaXBsZSBDb21taXR0ZWUgTWVtYmVyLCBFUENDIFNlbGYtU3R1ZHkgQ29tbWl0dGVlLiBJIHJlY2VpdmVkIGEgbGV0dGVyIG9mIGV4Y2VwdGlvbmFsIGNvbnRyaWJ1dGlvbi4NCiAgDQoxOTkwOiAgRmFjdWx0eSBNZW50b3IsIFBhcnRuZXJzaGlwIGluIFRlYWNoaW5nIFByb2dyYW0sIEVQQ0MuICBNZW50b3JlZCBuZXcgZmFjdWx0eSBtZW1iZXJzIGluIEVQQ0MgcG9saWNpZXMgYW5kIHByb2NlZHVyZXMuDQogIA0KMTk5MDogIFNlbGVjdGVkIFBhcnRpY2lwYW50LCBXb3Jrc2hvcCBvbiBVbmRlcmdyYWR1YXRlIEVudHJ5LUxldmVsIENvdXJzZSBpbml0aWF0aXZlcyBpbiBzY2llbmNlLCBKdW5lIDIxIC0gMjQsIFdpbmdzcHJlYWQgQ29uZmVyZW5jZSBDZW50ZXIsIFJhY2luZSBXaXNjb25zaW4uICBTdXBwb3J0ZWQgYnkgTlNGLCBTaWdtYSBYaSwgYW5kIFRoZSBKb2huc29uIEZvdW5kYXRpb24uDQogIA0KMTk5MDogIENhbmRpZGF0ZSBFdmFsdWF0aW9uIENvbW1pdHRlZSwgQmlvbG9neSwgRVBDQy4NCiAgDQoxOTkwLTE5OTE6IFBhcnRpY2lwYW50LCBUaXRsZSBJSUksIFJlc291cmNlIERldmVsb3BtZW50IE1lbnRvcmluZyBQcm9qZWN0LCBzdXBwb3J0ZWQgYnkgVS5TLiBEZXB0LiBFZHVjYXRpb24uIFRoZSBwcm9ncmFtIHRlYWNoZXMgZ3JhbnQgd3JpdGluZywgbWVudG9yaW5nIGNvbGxlYWd1ZXMgaW4gZ3JhbnQgd3JpdGluZyBhbmQgZGV2ZWxvcGluZyBhIHNjaWVuY2UgcmVzb3VyY2UgbGlicmFyeSBhbmQNCmNvbXB1dGVyIGFzc2lzdGVkIHJlc291cmNlIGRhdGEgZmlsZXMgYXQgRVBDQy4NCg0KMTk5MDogIEludml0ZWQgUGFydGljaXBhbnQsIFNvdXRoZXJuIEFzc29jaWF0aW9uIG9mIE1hcmluZSBMYWJvcmF0b3JpZXMgSGlzcGFuaWMgSW5pdGlhdGl2ZSB3b3Jrc2hvcCBvbiBob3cgdG8gZ2V0IEhpc3BhbmljcyBpbnRlcmVzdGVkIGluIG1hcmluZSBiaW9sb2d5LCBGZWIuIDIzIC0gMjUsIFBvcnQgQXJhbnNhcywgVGV4YXMuICBOU0Ygc3VwcG9ydGVkLg0KICANCjE5OTA6ICBDcml0ZXJpYSBJViwgQWRtaW5pc3RyYXRpdmUgUHJvY2VzcyBDb21taXR0ZWUsIEVQQ0MuDQogIA0KMTk5MC0xOTkxOiBBY2FkZW1pYyBBZmZhaXJzIENvbW1pdHRlZSwgRVBDQy4NCiAgDQoxOTg5OiAgUmV2aWV3ZXIgYW5kIFBhbmVsaXN0IGZvciBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24sIERpcmVjdG9yYXRlIGZvciBTY2llbmNlIGFuZCBFbmdpbmVlcmluZyBFZHVjYXRpb24sIERpdmlzaW9uIG9mIFRlYWNoZXIgUHJlcGFyYXRpb24gYW5kIEVuaGFuY2VtZW50Lg0KICANCjE5ODk6ICBQYXJ0aWNpcGFudCwgQ2hpaHVhaHVhbiBEZXNlcnQgUmVzZWFyY2ggQ29uc29ydGl1bSBPcmdhbml6YXRpb25hbCBNZWV0aW5nLCBTb2wgUm9zcyBVbml2ZXJzaXR5LCAyMCAtIDIxIEFwcmlsLg0KICANCjE5ODgtMTk5MTogUmVzZWFyY2ggQ29tbWl0dGVlLCBCaW9sb2d5LCBFUENDLg0KICANCjE5ODgtMTk5MzogSG9ub3JzIFByb2dyYW0gQ29tbWl0dGVlLCBCaW9sb2d5LCBFUENDLg0KICANCjE5ODc6ICBQYXJ0aWNpcGFudCwgSW5zdHJ1Y3Rpb25hbCBDb21wdXRpbmcgQ2hhcnJldHRlLCBFUENDLg0KICANCjE5ODYtMTk4NzogIFRlbnVyZSBSZXZpZXcgQ29tbWl0dGVlLCBTY2llbmNlcywgRVBDQy4NCiAgDQoxOTg2OiAgTUlTSVAgR3JhbnQgUHJvcG9zYWwgVGVhbSwgRVBDQy4gDQogIA0KMTk4NjogIEVTT1AgR3JhbnQgUHJvcG9zYWwgVGVhbSwgRVBDQy4gDQogIA0KMTk4NjogR3Vlc3QgTGVjdHVyZXIsIEVuZ2xpc2ggYXMgYSBzZWNvbmQgbGFuZ3VhZ2UgcmVhZGluZyBjbGFzc2VzLCBFUENDLiANCiAgDQoxOTg1OiBUZW51cmUgUmV2aWV3IENvbW1pdHRlZSwgU2NpZW5jZSwgRVBDQy4NCiAgDQoxOTgzOiBUZW51cmUgUmV2aWV3IENvbW1pdHRlZSwgU2NpZW5jZSwgRVBDQy4NCiAgDQoxOTc2OiBQYXJ0aWNpcGFudCwgQ29tcHV0ZXIgQXBwbGljYXRpb25zIGluIEVkdWNhdGlvbi4gIE9uZS13ZWVrIHdvcmtzaG9wIGluIE5ldyBPcmxlYW5zLCBMb3Vpc2lhbmEuICBGdW5kZWQgYnkgTlNGLg0KUFJPRkVTU0lPTkFMIE9SR0FOSVpBVElPTlMNCiAgDQpBY3RhIFpvb2xvZ2ljYSBNZXhpY2FuYSwgMTk4NC0xOTkzLg0KICANCkFtZXJpY2FuIEFzc29jaWF0aW9uIGZvciB0aGUgQWR2YW5jZW1lbnQgb2YgU2NpZW5jZSwgMTk5MiAtIDIwMDAuDQogIA0KQW1lcmljYW4gU29jaWV0eSBvZiBJY2h0aHlvbG9naXN0cyBhbmQgSGVycGV0b2xvZ2lzdHMsIDE5NzcgLSBwcmVzZW50Lg0KDQpDaGlodWFodWFuIERlc2VydCBSZXNlYXJjaCBJbnN0aXR1dGUsIDE5ODQgLSBwcmVzZW50Lg0KICANCkVsIFBhc28gSGVycGV0b2xvZ2ljYWwgU29jaWV0eSwgMTk4MyAtIHByZXNlbnQuDQogIA0KSGVycGV0b2xvZ2lzdHMnIExlYWd1ZSwgMTk2MSAtIHByZXNlbnQuDQogIA0KSW50ZXJjdWx0dXJhbCBDZW50ZXIgZm9yIHRoZSBTdHVkeSBvZiBEZXNlcnRzIGFuZCBPY2VhbnMsIDE5ODkgLSAyMDA2Lg0KICANCkludGVybmF0aW9uYWwgSGVycGV0b2xvZ2ljYWwgU3ltcG9zaXVtLCAxOTk1IC0gMjAwMC4NCiAgDQpLYW5zYXMgSGVycGV0b2xvZ2ljYWwgU29jaWV0eSwgMTk3OCAtIHByZXNlbnQuDQoNCk1hcnlsYW5kIEhlcnBldG9sb2dpY2FsIFNvY2lldHksIDIwMDEgLSBwcmVzZW50Lg0KICANCk1lc29hbWVyaWNhbiBTb2NpZXR5IGZvciBCaW9sb2d5IGFuZCBDb25zZXJ2YXRpb24sIDE5OTcgLSAyMDAwLg0KDQpPaGlvIEhlcnBldG9sb2dpY2FsIFNvY2lldHksIDE5NjIgLSAxOTY4Lg0KDQpPcmdhbml6YXRpb24gb2YgQmlvbG9naWNhbCBGaWVsZCBTdGF0aW9ucywgMjAwMCAtIHByZXNlbnQuDQogDQpQaHlsbG9tZWR1c2EsIEpvdXJuYWwgb2YgTmVvdHJvcGljYWwgSGVycGV0b2xvZ3ksIDIwMDMgLSBwcmVzZW50Lg0KDQpTb2NpZWRhZCBIZXJwZXRvbG9naWNhIE1leGljYW5hLCAxOTg5IC0gcHJlc2VudC4NCiAgDQpTb2NpZXR5IGZvciB0aGUgU3R1ZHkgb2YgQW1waGliaWFucyBhbmQgUmVwdGlsZXMsIDE5NjkgLSBwcmVzZW50Lg0KDQpTeXN0ZW1hdGljIEJpb2xvZ3ksIDIwMDAgLSBwcmVzZW50Lg0KICANClRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIDE5NzUgLSBwcmVzZW50Lg0KICANClRleGFzIEhlcnBldG9sb2dpY2FsIFNvY2lldHksIDE5ODEgLSBwcmVzZW50Lg0KICANClRleGFzIEp1bmlvciBDb2xsZWdlIFRlYWNoZXJzIEFzc29jaWF0aW9uLCAxOTkzIC0gMjAwMC4NCiAgDQoNCg0KSE9OT1JBUlkgU09DSUVUSUVTDQogIA0KQmV0YSBCZXRhIEJldGEgKE5hdGlvbmFsIEJpb2xvZ2ljYWwgSG9ub3IgU29jaWV0eSkuDQogIA0KU2lnbWEgWGkgKFNjaWVudGlmaWMgUmVzZWFyY2ggU29jaWV0eSkuIEFzc29jaWF0ZSBNZW1iZXIgMTk3NjsgRnVsbCBNZW1iZXIgMTk3OS4gIA0KDQpHUkFOVFMgQU5EIFNVUFBPUlRFRCBSRVNFQVJDSA0KDQoyMDExLiAgTlNGLCBGU01MLiAgU3VwcGxlbWVudCB0byBOU0YgZ3JhbnQsIERldmVsb3BtZW50IG9mIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLCBQaGFzZSBJSUksDQpSZXNlYXJjaCBFeHBlcmllbmNlIGZvciBUZWFjaGVycyBhd2FyZCAoUkVUKS4gUEksICgkMTMsODgyKS4NCg0KMjAxMC0yMDExLiBVVEVQLCBPUlNQLCBSZXNlYXJjaCBJbmNlbnRpdmUgQXdhcmQgKCQ1NTApLg0KDQoyMDEwLiAgTlNGLCBGU01MLiAgU3VwcGxlbWVudCB0byBOU0YgZ3JhbnQsIERldmVsb3BtZW50IG9mIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uLCBQaGFzZSBJSUksDQpSZXNlYXJjaCBFeHBlcmllbmNlIGZvciBUZWFjaGVycyBhd2FyZCAoUkVUKS4gUEksIFVURVAgKCQyMywyODIpLg0KDQoyMDA5LTIwMTIuIE5TRiwgRlNNTCwgRGV2ZWxvcG1lbnQgb2YgSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24sIFBoYXNlIElJSS4gUEksIFVURVAgKCQxMDYsNjUxKS4NCg0KMjAwOS0yMDEwLiBVVEVQLCBPUlNQLCBSZXNlYXJjaCBJbmNlbnRpdmUgQXdhcmQgKCQxLDIwMCkuDQoNCjIwMDgtMjAxMi4gVGV4YXMgUGFya3MgJiBXaWxkbGlmZSAoc3ViY29udHJhY3QgZnJvbSBUZXhhcyBTdGF0ZSBVbml2ZXJzaXR5KS4gQXNzZXNzaW5nIFRleGFzJyBGcmVzaHdhdGVyIFR1cnRsZXMuICBQSSwgVVRFUCAoJDEwMiw1MDApLg0KDQoyMDA1LTIwMDkuIE5TRiwgVHJhY2sgMSwgR0stMTIgUGFydG5lcnNoaXAgZm9yIEV4cGxvcmluZyB0aGUgRW52aXJvbm1lbnQgb24gdGhlIFUuUy4gTWV4aWNvIEJvcmRlci4gIENvLVBJLCBVVEVQICgkMSw3ODAsMDAwKS4NCg0KMjAwOC4gIFQmRSwgSW5jLiBFY29sb2d5IG9mIHRoZSBSb2NrIFJhdHRsZXNuYWtlLCBDcm90YWx1cyBMZXBpZHVzLCBpbiB0aGUgTm9ydGhlcm4gQ2hpaHVhaHVhbiBEZXNlcnQuICBQSSwgVVRFUCAoJDIsNDUyKS4NCg0KMjAwNi4gIE5TRi4gU3VwcGxlbWVudCB0byBOU0YgZ3JhbnQsIERldmVsb3BtZW50IG9mIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uIEhlYWRxdWFydGVycywgUGhhc2UgSUksIFJlc2VhcmNoIE9wcG9ydHVuaXR5IEF3YXJkIChST0EpLiAgUEksIFVURVAgKCQxNSw5NjcpLg0KDQoyMDA0LTIwMDcuIE5TRiwgRlNNTCwgRGV2ZWxvcG1lbnQgb2YgSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIFN0YXRpb24gSGVhZHF1YXJ0ZXJzLCBQaGFzZSBJSS4gUEksIFVURVAgKCQxMjcsNDAwKS4gDQoNCjIwMDQtMjAwNS4gVVRFUCwgT1JTUCwgUEkgUmVzZWFyY2ggSW5jZW50aXZlIEF3YXJkICgkMSwwMDApLg0KDQogMjAwNC0yMDA4LiBOU0YsIFVNRUIsIEludGVncmF0aW5nIEVudmlyb25tZW50YWwgQmlvbG9neSBhbmQgTW9sZWN1bGFyIEFwcHJvYWNoZXMuIENvLVBJLCBVVEVQICgkNDk5LDk0OCkuDQoNCjIwMDMtMjAwNC4gVCZFLCBJbmMuIEdyYW50LiBDb21wYXJhdGl2ZSBhbmQgU3BhdGlhbCBFY29sb2d5IG9mIFRocmVlIFN5bXBhdHJpYyBTcGVjaWVzIG9mIFJhdHRsZXNuYWtlcy4gIFBJLCBVVEVQICgkMiw0NjApLg0KDQoyMDAzLTIwMDQuIE5TRiwgU3VwcGxlbWVudCB0byBOU0YgZ3JhbnQsIERldmVsb3BtZW50IG9mIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uIEhlYWRxdWFydGVycywgUmVzZWFyY2ggRXhwZXJpZW5jZSBmb3IgVGVhY2hlcnMgKFJFVCkuICBQSSwgVVRFUCAoJDIzLDM2MykuDQoNCjIwMDItMjAwMzogIE5TRiwgU3VwcGxlbWVudCB0byBOU0YgZ3JhbnQsIERldmVsb3BtZW50IG9mIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uIEhlYWRxdWFydGVycywgUmVzZWFyY2ggRXhwZXJpZW5jZSBmb3IgVGVhY2hlcnMgKFJFVCkuIFBJLCBVVEVQICgkMjMsNDk4KS4NCg0KMjAwMjogIE5hdGlvbmFsIFBhcmsgU2VydmljZSwgQ2hpaHVhaHVhbiBEZXNlcnQgUGFya3MuICBSZXZpZXcgb2Ygc3BlY2llcyBsaXN0IGZvciB0aGUgSGVycGV0b2ZhdW5hIG9mIFdoaXRlIFNhbmRzIE5hdGlvbmFsIE1vbnVtZW50ICgkMjAwKS4gDQoNCjIwMDEtMjAwNDogTlNGLCBGU01MLCBEZXZlbG9wbWVudCBvZiBJbmRpbyBNb3VudGFpbnMgUmVzZWFyY2ggU3RhdGlvbiBIZWFkcXVhcnRlcnMgKEZTTUwpLiAgUEksIFVURVAgKCQ5OSw4NzUpLg0KDQoyMDAxLTIwMDI6IFQmRSwgSW5jLiBHcmFudCwgQ29tcGFyYXRpdmUgRXNjYXBlIEJlaGF2aW9yIG9mIFN5bnRvcGljIFBhcnRoZW5vZ2VuZXRpYyBhbmQgR29ub2Nob3Jpc3RpYyBDbmVtaWRvcGhvcnVzIExpemFyZHMuIFBJLCBVVEVQICgkMiw0ODApLg0KICANCjE5OTgtMjAwMDogVGV4YXMgUGFya3MgYW5kIFdpbGRsaWZlIERlcGFydG1lbnQuIEEgQ29tcHJlaGVuc2l2ZSBTdXJ2ZXkgYW5kIFJlcG9ydCBvZiB0aGUgQW1waGliaWFucywgUmVwdGlsZXMsIGFuZCBNYW1tYWxzIG9mIEh1ZWNvIFRhbmtzIFN0YXRlIEhpc3RvcmljYWwgUGFyayBhbmQgRnJhbmtsaW4gTW91bnRhaW5zIFN0YXRlIFBhcmssIGFuZCBSZWNvbW1lbmRhdGlvbnMgZm9yIEZ1cnRoZXIgUmVzZWFyY2guIFBJLCBFUENDICgkMTMsMjAwKS4gDQogICAgDQoxOTk3LTIwMDA6IE5JSCwgTmF0aW9uYWwgSW5zdGl0dXRlIG9mIEdlbmVyYWwgTWVkaWNhbCBTY2llbmNlcy4gVGhyZWUteWVhciBleHRlbnNpb24gb2YgQnJpZGdlcyB0byBGdXR1cmUgR3JhbnQuIENvLVBJLCBFUENDICgkNDg0LDMzMykuDQogIA0KMTk5Ny0yMDAwOiBOU0YsIEJpb2xvZ2ljYWwgRXF1aXBtZW50IHRvIEltcHJvdmUgVW5kZXJncmFkdWF0ZSBSZXNlYXJjaCBhdCBFUENDLiBDby1QSSwgRVBDQyAoJDI0Miw0MDApLg0KICAgDQoxOTk0LTE5OTc6IE5JSCwgTmF0aW9uYWwgSW5zdGl0dXRlIG9mIEdlbmVyYWwgTWVkaWNhbCBTY2llbmNlcy4gVGhyZWUteWVhciBleHRlbnNpb24gb2YgQnJpZGdlcyB0byBGdXR1cmUgR3JhbnQuIENvLVBJLCBFUENDICgkNDY2LDQ0MSkuDQogIA0KMTk5Mi0xOTk0OiBOSUgsIE5hdGlvbmFsIEluc3RpdHV0ZSBvZiBHZW5lcmFsIE1lZGljYWwgU2NpZW5jZXMuICJCcmlkZ2VzIHRvIHRoZSBGdXR1cmUsIiBBIGpvaW50IHByb2plY3QgdG8gaGVscCBzdHVkZW50cyBzdWNjZXNzZnVsbHkgdHJhbnNmZXIgYmV0d2VlbiBzY2hvb2xzIGluIGNoZW1pc3RyeSBhbmQgYmlvbG9neSwgQ28tUEksIEVQQ0MvVVRFUCAoJDI4OCw4ODkpLg0KICANCjE5OTItMTk5NDogTlNGLCBQcm9qZWN0cyBpbiBTY2llbmNlcyBhbmQgSHVtYW5pdGllcy4gRGV2ZWxvcG1lbnQgb2YgRnJlc2htYW4gDQpMZXZlbCwgSW50ZXJkaXNjaXBsaW5hcnkgU2NpZW5jZSBDb3Vyc2UuIENvLVBJLCBFUENDL1VURVAgKCQyMDUsMDAwKS4NCiAgDQoxOTkyOiBOYXRpb25hbCBDZW50ZXIgZm9yIEFjYWRlbWljIEFjaGlldmVtZW50LiBTdXBwbGVtZW50YWwgcGFydG5lcnNoaXAgYmV0d2VlbiBFUENDIGFuZCBVVEVQIHRvIGRldmVsb3Agbm9uLW1ham9ycyBiaW9sb2d5IGxhYnMuIENPLVBJLCBVVEVQL0VQQ0MgKCQ0LDUwMCkuDQogIA0KMTk4OTogU2l4LW1vbnRoIHNhYmJhdGljYWwgdG8gcmVzZWFyY2ggdGhlIGhlcnBldG9mYXVuYSBvZiBzb3V0aGVybiBNZXhpY28gYW5kIHN1cHBvcnQgdGhlIEluc3RpdHV0byBOYWNpb25hbCBkZSBJbnZlc3RpZ2FjaW9uZXMgU29icmUgUmVjdXJzb3MgQmlvdGljb3MgLSBDaGlhcGFzLCBNZXhpY28uIEVQQ0MgKEZ1bGwgUGF5KQ0KICANCjE5ODA6IEV4bGluZSBCaW9sb2d5IEdyYW50LiBTdHVkeSBvZiB0aGUgaGVycGV0b2ZhdW5hIG9mIHNvdXRoZXJuIE1leGljby4gUEksIEVQQ0MgKCQxMDAwKS4NCiAgDQoxOTc5OiBUaGVvZG9yZSBSb29zZXZlbHQgRnVuZCwgQW1lcmljYW4gTXVzZXVtIG9mIE5hdHVyYWwgSGlzdG9yeSwgRWZmZWN0cyBvZiBIYWJpdGF0IERlc3RydWN0aW9uIG9uIHRoZSBIZXJwZXRvZmF1bmEgb2YgYSBNZXhpY2FuIHJhaW5mb3Jlc3QuIFBJLCBFUENDICgkMjUwKS4NCiAgDQoxOTc3OiBOU0YsIENvbXB1dGVyIEFwcGxpY2F0aW9ucyBpbiBFZHVjYXRpb24uICBBIG9uZS13ZWVrIHdvcmtzaG9wIGluIE5ldyBPcmxlYW5zIExvdWlzaWFuYSAoWGF2aWVyIFVuaXZlcnNpdHkgb2YgTG91aXNpYW5hKS4gDQogIA0KMTk3NDogR3JhbnQtSW4tQWlkLCBTb2NpZXR5IG9mIFNpZ21hIFhpLCBTdHVkeSBvZiB0aGUgSGVycGV0b2ZhdW5hIG9mIENoaWFwYXMsIE1leGljby4gUEksIFVURVAgKCQxNTApLg0KDQpQUk9GRVNTSU9OQUwgT1JHQU5JWkFUSU9OIFBST1NJVElPTlMvQUNUSVZJVElFUw0KDQoyMDEwIC0gUHJlc2VudDogRGV2ZWxvcG1lbnQgQ29tbWl0dGVlLCBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMuDQoNCjE5OTMgLSBQcmVzZW50OiAgU2VjdGlvbiBFZGl0b3IgZm9yIE1lc29hbWVyaWNhIGFuZCBDYXJpYmJlYW4sIEhlcnBldG9sb2dpY2FsIFJldmlldyAoR2VvZ3JhcGhpYyBEaXN0cmlidXRpb24pLCBTb2NpZXR5IGZvciB0aGUgU3R1ZHkgb2YgQW1waGliaWFucyBhbmQgUmVwdGlsZXMuDQoNCjIwMDMtMjAwNTogVmljZS1DaGFpcm1hbiwgQm9hcmQgb2YgU2NpZW50aXN0cywgQ2hpaHVhaHVhbiBEZXNlcnQgUmVzZWFyY2ggSW5zdGl0dXRlLg0KDQoxOTkxIC0gUHJlc2VudDogQm9hcmQgb2YgU2NpZW50aXN0cywgQ2hpaHVhaHVhbiBEZXNlcnQgUmVzZWFyY2ggSW5zdGl0dXRlLCBBbHBpbmUsIFRleGFzLg0KDQoyMDA3OiBTZXNzaW9uIE1vZGVyYXRvciwgQW5udWFsIE1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgVGFybGV0b24gU3RhdHVlIFVuaXZlcnNpdHksIFN0ZXBoZW52aWxsZSwgVGV4YXMsIDIwIEFwcmlsLg0KDQoyMDA1OiAgU2Vzc2lvbiBNb2RlcmF0b3IsIEFubnVhbCBNZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIFNhbSBIb3VzdG9uIFN0YXRlIFVuaXZlcnNpdHksIEh1bnRzdmlsbGUsIFRleGFzLCAxNiBBcHJpbC4NCg0KMjAwNDogIFNlc3Npb24gTW9kZXJhdG9yLCA2dGggU3ltcG9zaXVtIG9uIHRoZSBOYXR1cmFsIFJlc291cmNlcyBvZiB0aGUgQ2hpaHVhaHVhbiBEZXNlcnQgUmVnaW9uLCBDaGlodWFodWFuIERlc2VydCBSZXNlYXJjaCBJbnN0aXR1dGUsIFN1bCBSb3NzIFN0YXRlIFVuaXZlcnNpdHksIEFscGluZSBUZXhhcyAxNiBPY3RvYmVyLg0KDQoyMDA0OiBTZXNzaW9uIE1vZGVyYXRvciwgQW5udWFsIE1lZXRpbmcgb2YgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBTYW4gQW50b25pbywgVGV4YXMsIDE2IEFwcmlsLg0KICAgICAgDQoyMDAzOiAgSnVkZ2UsIEhvd2FyZCBNY0NhcmxleSBTdHVkZW50IFJlc2VhcmNoIEF3YXJkLCBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIFVuaXYuIE9rbGFob21hLCAxNiBBcHJpbC4NCg0KMjAwMzogU2Vzc2lvbiBNb2RlcmF0b3IsIEFubnVhbCBNZWV0aW5nIG9mIHRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMsIFVuaXYuIE9rbGFob21hLCBOb3JtYWwgT2tsYWhvbWEsIDE2IEFwcmlsLg0KDQoyMDAyOiBTZXNzaW9uIE1vZGVyYXRvciwgQW5udWFsIE1lZXRpbmcgb2YgdGhlIFNvdXRod2VzdGVybiBBc3NvY2lhdGlvbiBvZiBOYXR1cmFsaXN0cywgQ3Vlcm5hdmFjYSwgTW9yZWxvcywgTWV4aWNvLg0KDQoyMDAyLTIwMDM6ICBQcmVzaWRlbnQsIFVURVAgQ2hhcHRlciwgU29jaWV0eSBvZiBTaWdtYSBYaS4NCg0KMjAwMS0yMDAyOiAgVmljZSBQcmVzaWRlbnQsIFVURVAgQ2hhcHRlciwgU29jaWV0eSBvZiBTaWdtYSBYaS4NCiAgDQoxOTk3IC0gMTk5OTogUmUtZWxlY3RlZCBDb3VuY2lsb3IsIENoaWh1YWh1YW4gRGVzZXJ0IFJlc2VhcmNoIEluc3RpdHV0ZS4NCiAgDQoxOTk2IC0gMTk5NzogQ29tbWl0dGVlIENoYWlyLCBEZXZlbG9wbWVudCBDb21taXR0ZWUsIFRoZSBTb3V0aHdlc3QgQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMuDQogIA0KMTk5NSAtIDE5OTY6IFByZXNpZGVudCwgVGV4YXMgSGVycGV0b2xvZ2ljYWwgU29jaWV0eS4NCg0KMTk5NTogTG9jYWwgQ29tbWl0dGVlIENoYWlyLCBBbm51YWwgTWVldGluZyBvZiB0aGUgVGV4YXMgSGVycGV0b2xvZ2ljYWwgU29jaWV0eSwgd2l0aCBTeW1wb3NpdW0sIFRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEVsIFBhc28sIDE2LTE4IE5vdmVtYmVyLg0KICANCjE5OTQgLSAxOTk1OiBQcmVzaWRlbnQgRWxlY3QsIFRleGFzIEhlcnBldG9sb2dpY2FsIFNvY2lldHkuDQogIA0KMTk5NCAtIDE5OTY6IFJlLWVsZWN0ZWQgQ291bmNpbG9yIG9mIEJvYXJkIG9mIFNjaWVudGlzdHMsIENoaWh1YWh1YW4gRGVzZXJ0IFJlc2VhcmNoIEluc3RpdHV0ZS4NCiAgDQoxOTkzIC0gMTk5NDogVmljZSBQcmVzaWRlbnQsIFRleGFzIEhlcnBldG9sb2dpY2FsIFNvY2lldHkuDQogIA0KMTk5MyAtIDE5OTQ6IENvbW1pdHRlZSBNZW1iZXIsIERldmVsb3BtZW50IENvbW1pdHRlZSwgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLg0KICANCjE5OTIgLSAxOTkzOiBFbGVjdGVkIENvdW5jaWxvciBvZiBCb2FyZCBvZiBTY2llbnRpc3RzLCBDaGlodWFodWFuIERlc2VydCBSZXNlYXJjaCBJbnN0aXR1dGUuDQoNCjE5OTIgLSAxOTk0OiBQcmVzaWRlbnQsIEVsIFBhc28gSGVycGV0b2xvZ2ljYWwgU29jaWV0eS4NCiAgDQoxOTkyOiAgTG9jYWwgQ29tbWl0dGVlIENvLUNoYWlyLCBBbm51YWwgTWVldGluZyBvZiB0aGUgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEFtcGhpYmlhbnMgYW5kIFJlcHRpbGVzLCBVVEVQL0VQQ0MuDQogIA0KMTk5MTogTG9jYWwgQ29tbWl0dGVlIENvLUNoYWlyLCBBbm51YWwgTWVldGluZyBvZiB0aGUgU291dGh3ZXN0ZXJuIEFzc29jaWF0aW9uIG9mIE5hdHVyYWxpc3RzLCBVVEVQIGFuZCBFUENDLg0KICANCjE5ODkgLSAxOTkwOiBNZW1iZXIgb2YgR3JhbnRzIGluIEFpZCBDb21taXR0ZWUsIFNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBBbXBoaWJpYW5zIGFuZCBSZXB0aWxlcy4NCiAgDQoxOTg4IC0gMTk4OTogTWVtYmVyIG9mIE5vbWluYXRpb25zIENvbW1pdHRlZSwgVVRFUCBjaGFwdGVyIG9mIHRoZSBTb2NpZXR5IG9mIFNpZ21hIFhpLg0KICANCjE5ODUgLSAxOTg5OiBCb2FyZCBvZiBHb3Zlcm5vcnMsIFRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHMuDQogIA0KMTk4NTogQm9hcmQgb2YgRGlyZWN0b3JzLCBUZXJsaW5ndWEgWm9vbG9naWNhbCBQYXJrIGFuZCBSZXNlYXJjaCBDZW50ZXIsIFRlcmxpbmd1YSwgVGV4YXMuDQogIA0KMTk4MS0xOTg1OiBBc3NvY2lhdGUgRWRpdG9yIChoZXJwZXRvbG9neSksIFRoZSBTb3V0aHdlc3Rlcm4gTmF0dXJhbGlzdC4NCiAgDQoxOTgxOiBDaGFpcm1hbiBvZiBOb21pbmF0aW9ucyBDb21taXR0ZWUsIFNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBBbXBoaWJpYW5zLCBhbmQgUmVwdGlsZXMuDQoNCjE5ODA6IEVsZWN0b3IsIFNvY2lldHkgZm9yIHRoZSBTdHVkeSBvZiBBbXBoaWJpYW5zIGFuZCBSZXB0aWxlcy4NCiAgDQoxOTc4OiBNZW1iZXIgb2YgTm9taW5hdGlvbnMgQ29tbWl0dGVlLCBUaGUgU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEFtcGhpYmlhbnMgYW5kIFJlcHRpbGVzLg0KICANCjE5NzctMTk4MDogQXNzb2NpYXRlIEVkaXRvciAoTG93ZXIgdmVydGVicmF0ZXMpLCBUaGUgU291dGh3ZXN0ZXJuIE5hdHVyYWxpc3QuDQogIA0KMTk3NiAtIDIwMDA6IE1lbWJlciBSZXByZXNlbnRhdGl2ZSAoRVBDQyksIFRleGFzIFN5c3RlbXMgb2YgTmF0dXJhbCBMYWJvcmF0b3JpZXMuDQoNClBST0ZFU1NJT05BTCBNRUVUSU5HUyBBVFRFTkRFRA0KICANCkFtZXJpY2FuIFNvY2lldHkgb2YgSWNodGh5b2xvZ2lzdHMgYW5kIEhlcnBldG9sb2dpc3RzOiAxOTc3LCAxOTg0LCAxOTg5LCAxOTkzLCAxOTk3LCAyMDAyLg0KDQpDaGlodWFodWFuIERlc2VydCBSZXNlYXJjaCBJbnN0aXR1dGU6IDE5OTEsIDE5OTIsIDE5OTMsIDE5OTQsIDE5OTUsIDE5OTYsIDE5OTcsIDE5OTgsIDE5OTksIDIwMDAsIDIwMDMsIDIwMDQuDQogIA0KSGVycGV0b2xvZ2lzdHMnIExlYWd1ZTogMTk3NiwgMTk3NywgMTk3OSwgMTk4MCwgMTk4MSwgMTk4MiwgMTk4MywgMTk4NCwgMTk4NiwgMTk4NywgMTk5MCwgMTk5MywgMTk5NywgMjAwMi4NCg0KSW50ZXJuYXRpb25hbCBIZXJwZXRvbG9naWNhbCBTeW1wb3NpdW06IDE5OTUuDQogIA0KS2Fuc2FzIEhlcnBldG9sb2dpY2FsIFNvY2lldHkgLSAyMDA2Lg0KDQpNZXNvYW1lcmljYW4gU29jaWV0eSBmb3IgQmlvbG9neSBhbmQgQ29uc2VydmF0aW9uOiAxOTk3Lg0KDQpPcmdhbml6YXRpb24gb2YgQmlvbG9naWNhbCBGaWVsZCBTdGF0aW9uczogMjAwMSwgMjAwNy4NCg0KU29jaWV0eSBmb3IgdGhlIEFkdmFuY2VtZW50IG9mIENoaWNhbm9zIGFuZCBOYXRpdmUgQW1lcmljYW5zIGluIFNjaWVuY2U6IDIwMDIuICANCg0KU29jaWVkYWQgSGVycGV0b2xvZ2ljYSBNZXhpY2FuYTogIDE5OTQsIDIwMDQsIDIwMDguDQogIA0KU29jaWV0eSBvZiBTaWdtYSBYaTogMjAwMi4NCg0KU29jaWV0eSBmb3IgdGhlIFN0dWR5IG9mIEFtcGhpYmlhbnMgYW5kIFJlcHRpbGVzOiAxOTY5LCAxOTcyLCAxOTczLCAxOTc0LCAxOTc2LCAxOTc3LCAxOTc4LCAxOTc5LCAxOTgwLCAxOTgxLCAxOTgyLCAxOTgzLCAxOTg0LCAxOTg2LCAxOTg3LCAxOTkwLCAxOTkyLCAxOTk0LCAxOTk2LCAxOTk3LCAyMDAyLg0KICANClRoZSBTb3V0aHdlc3Rlcm4gQXNzb2NpYXRpb24gb2YgTmF0dXJhbGlzdHM6IDE5NzQsIDE5NzYsIDE5NzcsIDE5NzgsIDE5NzksIDE5ODAsIDE5ODEsIDE5ODIsIDE5ODMsIDE5ODQsIDE5ODUsIDE5ODYsIDE5ODcsIDE5ODgsIDE5ODksIDE5OTAsIDE5OTEsIDE5OTIsIDE5OTQsIDE5OTUsIDE5OTYsIDE5OTgsIDIwMDAsIDIwMDEsIDIwMDIsIDIwMDMsIDIwMDQsIDIwMDUsIDIwMDcsIDIwMDksIDIwMTAsIDIwMTEuDQogIA0KVGV4YXMgSGVycGV0b2xvZ2ljYWwgU29jaWV0eTogMTk4MSwgMTk4MywgMTk4NCwgMTk4NSwgMTk4NiwgMTk4OSwgMTk5MywgMTk5NCwgMTk5NSwgMTk5Ni4NCg0KU0NJRU5USUZJQyBKT1VSTkFMUy9QVUJMSUNBVElPTlMgUkVWSUVXRUQgRk9SDQoNCkJpYmxpb21hbmlhDQpCaW9sb2dpY2FsIENvbnNlcnZhdGlvbg0KQm9sZXRpbiwgU29jaWVkYWQgSGVycGV0b2xvZ2ljYSBNZXhpY2FuYQ0KQ2FyaWJiZWFuIEpvdXJuYWwgb2YgU2NpZW5jZQ0KQ2hpaHVhaHVhbiBEZXNlcnQgUmVzZWFyY2ggSW5zdGl0dXRlIFB1YmxpY2F0aW9ucw0KQ29wZWlhDQpFYWdsZSBNb3VudGFpbiBQcmVzcywgTExDDQpFdm9sdXRpb24NCkpvdXJuYWwgb2YgQXJpZCBMYW5kIEJpb2xvZ3kNCkpvdXJuYWwgb2YgSGVycGV0b2xvZ3kNCkpvdXJuYWwgb2YgTWV4aWNhbiBIZXJwZXRvbG9naWNhbCBTb2NpZXR5DQpIZXJwZXRvbG9naWNhDQpUaGUgU291dGh3ZXN0ZXJuIE5hdHVyYWxpc3QNClRleGFzIEpvdXJuYWwgb2YgU2NpZW5jZQ0KICANCiAgICAgIEhPTk9SUywgUkVDT0dOSVRJT04sIEFORCBDRVJUSUZJQ0FURVMvTEVUVEVSUyBPRiBBUFBSRUNJQVRJT04NCg0KV2hvJ3MgV2hvIGluIEFtZXJpY2FuIEVkdWNhdGlvbi4NCg0KV2hvJ3MgV2hvIEFtb25nIEFtZXJpY2EncyBUZWFjaGVycy4NCg0KV2hvJ3MgV2hvIGluIEFtZXJpY2ENCiAgDQpXaG8ncyBXaG8gaW4gU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcuDQogIA0KV2hvJ3MgV2hvIGluIHRoZSBTb3V0aCBhbmQgU291dGh3ZXN0Lg0KICANCldobydzIFdobyBpbiB0aGUgV29ybGQuDQogIA0KV2hvJ3MgV2hvIGluIE1lZGljaW5lIGFuZCBIZWFsdGhjYXJlLg0KDQoyMDA4OiAgTGV0dGVyIG9mIENvbW1lbmRhdGlvbiwgVVRFUCBTdHVkZW50IFN1cHBvcnQgU2VydmljZXMgVFJJTyBwcm9ncmFtLg0KDQoyMDA0OiAgRWwgUGFzbyBQdWJsaWMgTGlicmFyeSwgQ2VydGlmaWNhdGUgb2YgQXBwcmVjaWF0aW9uIGZvciBIZXJwZXRvbG9neSBwcm9ncmFtLg0KIA0KMjAwMTogRWwgUGFzbyBQYXJ0bmVyc2hpcCBmb3IgRXhjZWxsZW5jZSBpbiBUZWFjaGVyIEVkdWNhdGlvbiAoUEVURSksIExldHRlciBvZiBBcHByZWNpYXRpb24gZm9yIHByb2dyYW0gc3VwcG9ydC4NCg0KMjAwMTogSW5zaWdodHMgRWwgUGFzbyBTY2llbmNlIE11c2V1bS4gTGV0dGVyIG9mIEFwcHJlY2lhdGlvbiBmb3IgcHJlc2VudGluZyBhdCBTY2llbnRpZmljIENhcmVlciBFeHBvLiAgIA0KDQoxOTk5OiBFUENDIEhvbm9ycyBQcm9ncmFtIE91dHN0YW5kaW5nIEhvbm9ycyBGYWN1bHR5IEF3YXJkLiBSZWNpcGllbnRzIHNlbGVjdGVkIGZyb20gcGVlciBub21pbmF0aW9uLg0KICANCjE5OTk6IEhvbm9ycyBQcm9ncmFtIFJlY29nbml0aW9uIChFUENDKS4NCg0KMTk5OTogIEVQQ0MgUmVjb2duaXRpb24gZm9yIDIzIHllYXJzIG9mIGZhaXRoZnVsIHNlcnZpY2UuDQogIA0KMTk5NzogSG9ub3JzIFByb2dyYW0gUmVjb2duaXRpb24gKEVQQ0MpLg0KICANCjE5OTc6IENlcnRpZmljYXRlIG9mIFJlY29nbml0aW9uIGZvciBMZWFkZXJzaGlwIGluIEZhY3VsdHkgRGV2ZWxvcG1lbnQuDQogIA0KMTk5NTogTmF0aW9uYWwgSW5zdGl0dXRlIGZvciBTdGFmZiBhbmQgT3JnYW5pemF0aW9uYWwgRGV2ZWxvcG1lbnQgKE5JU09EKSBUZWFjaGluZyBFeGNlbGxlbmNlIEF3YXJkLiANCiAgIA0KMTk5NTogRWwgUGFzbyBOYXR1cmFsIEdhcyBGb3VuZGF0aW9uIEVQQ0MgRmFjdWx0eSBBY2hpZXZlbWVudCBBd2FyZCAoJDE1MDAgZm9yIHRlYWNoaW5nIGV4Y2VsbGVuY2UpLg0KDQoxOTk1OiBIb25vcnMgUHJvZ3JhbSBSZWNvZ25pdGlvbiAoRVBDQykuDQogIA0KMTk5NDogRWwgUGFzbyBIaWdoIFNjaG9vbCBQVEEgQ2VydGlmaWNhdGUgb2YgQXBwcmVjaWF0aW9uIGZvciBQYXJ0aWNpcGF0aW9uIGluIENhcmVlciBEYXkuDQoNCjE5OTM6IEhvbm9ycyBQcm9ncmFtIFJlY29nbml0aW9uIChFUENDKS4NCg0KMTk5MjogUmV0ZW50aW9uIEFjdGlvbiBQcm9ncmFtIFJlY29nbml0aW9uIChFUENDKS4NCiAgDQoxOTkyOiAiQXJpIEF3YXJkIiAtIENvbGxlYWd1ZSByZWNvZ25pdGlvbiwgcHJlc2VudGVkIGJ5IEVQQ0MgZm9yIGhvbm9ycyBxdWFsaXR5IHdvcmsgZGlyZWN0aW5nIHN0dWRlbnQgcmVzZWFyY2ggKE1heSAxOTkyKS4gQXdhcmQgcmVjaXBpZW50cyB3ZXJlIHNlbGVjdGVkIGZyb20gcGVlciBub21pbmF0aW9ucy4NCiAgDQoxOTkwOiBOb21pbmF0ZWQgYnkgRVBDQyBmb3IgVGhlIENvbW11bml0eSwgVGVjaG5pY2FsLCBhbmQgSnVuaW9yIENvbGxlZ2UgVGltZXMgVGVhY2hpbmcgRXhjZWxsZW5jZSBBd2FyZC4NCiAgDQoxOTkwOiBDZXJ0aWZpY2F0ZSBvZiBSZWNvZ25pdGlvbiwgRVBDQyBCb2FyZCBvZiBUcnVzdGVlcywgZm9yIG91dHN0YW5kaW5nIHNlcnZpY2UgdG8gdGhlIENvbGxlZ2UgZm9yIDE1IHllYXJzLg0KICANCjE5OTA6IENlcnRpZmljYXRlIG9mIEFwcHJlY2lhdGlvbiwgWW91bmcgU2Nob2xhcnMgQm93bCAoRVBDQyksIGZvciB3cml0aW5nIGJpb2xvZ3kgcXVlc3Rpb25zLCAyMSBBcHJpbCAxOTkwLg0KICANCjE5ODktMTk5MDogTm9taW5hdGVkIGZvciBNaW5uaWUgUGlwZXIgU3RlcGhlbnMgT3V0c3RhbmRpbmcgUHJvZmVzc29yIChFUENDKSBmb3IgVGV4YXMgYXdhcmQuDQogIA0KMTk4MzogQ2VydGlmaWNhdGUgb2YgQXBwcmVjaWF0aW9uLCBPZmZpY2Ugb2YgRGVhbiBvZiBTdHVkZW50IERldmVsb3BtZW50IChFUENDKSwgZm9yIG91dHN0YW5kaW5nIHNlcnZpY2UgdG8gc2Nob29sIGFuZCBzdHVkZW50cy4NClBVQkxJQ0FUSU9OIExJU1QNCiogPSBVVEVQIFVuZGVyZ3JhZHVhdGUgU3R1ZGVudHM7ICoqID0gVVRFUCBHcmFkdWF0ZSBTdHVkZW50cw0KICANCjEuIEtuaWdodCwgSi4gTC4sIEUuIEQuIEZsZWhhcnR5LCBhbmQgSi4gRC4gSm9obnNvbi4gIDE5NzMuIE5vdGV3b3J0aHkgcmVjb3JkcyBvZiBkaXN0cmlidXRpb24gYW5kIGhhYml0YXRzIG9mIHNvbWUgS2Fuc2FzIGhlcnB0aWxlcy4gIFRyYW5zLiBLYW5zYXMgQWNhZC4gU2NpLiA3NToyNzMtMjc1Lg0KICANCjIuIEpvaG5zb24sIEouIEQuICAxOTczLiAgR2VvZ3JhcGhpYyBkaXN0cmlidXRpb246IFN5bXBoaW11cyBsZXVjb3N0b211cy4gIEhJU1MgTmV3cy1KLiAxOjk5Lg0KICANCjMuIEpvaG5zb24sIEouIEQuICAxOTc0LiAgTmV3IHJlY29yZHMgb2YgcmVwdGlsZXMgYW5kIGFtcGhpYmlhbnMgZnJvbSBDaGlhcGFzLCBNZXhpY28uICBUcmFucy4gS2Fuc2FzIEFjYWQuIFNjaS4gNzY6MjIzLTIyNS4NCiAgDQo0LiBGbGVoYXJ0eSwgRS4gRC4gYW5kIEouIEQuIEpvaG5zb24uICAxOTc1LiAgRGlzdHJpYnV0aW9uYWwgcmVjb3JkcyBvZiBoZXJwdGlsZXMgZnJvbSB0aGUgQ2hhdXRhdXF1YSBIaWxscyBvZiBzb3V0aGVhc3Rlcm4gS2Fuc2FzLiAgVHJhbnMuIEthbnNhcyBBY2FkLiBTY2kuIDc3OjY1LTY3Lg0KDQo1LiBKb2huc29uLCBKLiBELiwgQy4gQS4gRWx5LCBhbmQgUi5HLiBXZWJiLiAgMTk3Ny4gQmlvZ2VvZ3JhcGhpY2FsIGFuZCB0YXhvbm9taWMgbm90ZXMgb24gc29tZSBoZXJwZXRvZmF1bmEgZnJvbSB0aGUgTm9ydGhlcm4gSGlnaGxhbmRzIG9mIENoaWFwYXMsIE1leGljby4gIFRyYW5zLiBLYW5zYXMgQWNhZC4gU2NpLiA3OToxMzEtMTM5Lg0KICANCjYuIEpvaG5zb24sIEouIEQuICAxOTc3LiAgVGF4b25vbXkgYW5kIGRpc3RyaWJ1dGlvbiBvZiB0aGUgTmVvdHJvcGljYWwgd2hpcHNuYWtlIE1hc3RpY29waGlzIG1lbnRvdmFyaXVzIChSZXB0aWxpYSwgU2VycGVudGVzLCBDb2x1YnJpZGFlKS4gSi4gSGVycGV0b2wuIDExOjI4Ny0zMDkuDQogIA0KNy4gSm9obnNvbiwgSi4gRC4gYW5kIEouIEwuIEtuaWdodC4gIDE5NzguICBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbjogU3ltcGhpbXVzIGxldWNvc3RvbXVzLiAgSElTUyBOZXctSi4gOTo2Mi4NCg0KOC4gIEpvaG5zb24sIEouIEQuICAxOTc4LiAgRmlyc3QgcmVjb3JkIG9mIE1hbm9sZXBpcyBwdXRuYW1pIChTZXJwZW50ZXM6IENvbHVicmlkYWUpIGZyb20gQ2hpYXBhcywgTWV4aWNvLiBTb3V0aHdlc3QuIE5hdC4gMjM6NTM4Lg0KICANCjkuICBKb2huc29uLCBKLiBELiAgMTk3OS4gIFRheG9ub21pYyBzdGF0dXMgYW5kIGRpc3RyaWJ1dGlvbiBvZiBHZW9waGlzIGxhdGljaW5jdHVzIChDb2x1YnJpZGFlKSBpbiBzb3V0aGVybiBNZXhpY28uIFNvdXRod2VzdC4gTmF0LiAyNDo2OTgtNzAxLg0KICANCjEwLiBCYWtlciwgUi4gTC4sIE0uIEsuIEJha2VyLCBKLiBELiBKb2huc29uLCBhbmQgUi5HLiBXZWJiLiAxOTgwLiAgTmV3IGFuZCBub3Rld29ydGh5IHJlY29yZHMgb2YgbWFtbWFscyBhbmQgcmVwdGlsZXMgZnJvbSBaYWNhdGVjYXMsIE1leGljby4gIFNvdXRod2VzdC4gTmF0LiAyNTo1NjgtNTY5Lg0KICANCjExLiBKb2huc29uLCBKLiBELiAgMTk4Mi4gIE1hc3RpY29waGlzIG1lbnRvdmFyaXVzLiAgQ2F0LiBBbWVyLiBBbXBoaWIuIFJlcHQuIDI5NS4xLTI5NS40Lg0KICANCjEyLiBUaG9tYXMsIFIuIEEuIGFuZCBKLiBELiBKb2huc29uLiAgMTk4NC4gIFBoaWxvZHJ5YXMgdmFyaXVzIChKYW4sIDE4NjMpLCBhIHNlbmlvciBzeW5vbnltIG9mIFBoaWxvZHJ5YXMgYm9yZWxsaWkgUGVyYWNjYSAoU2VycGVudGVzOiBDb2x1YnJpZGFlKS4gIEouIEhlcnBldG9sLiAxODo4MC4NCiAgDQoxMy4gSm9obnNvbiwgSi4gRC4gYW5kIEouIFIuIERpeG9uLiAgMTk4NC4gIFRheG9ub21pYyBzdGF0dXMgb2YgdGhlIFZlbmV6dWVsYW4gbWFjYXF1YSwgQm90aHJvcHMgY29sb21iaWVuc2lzLiBKLiBIZXJwZXRvbC4gMTg6MjI5LTIzMi4NCiAgDQoxNC4gUmFlbCwgRS4gRC4sIEouIEQuIEpvaG5zb24sIGFuZCBILiBLLiBNY0NyeXN0YWwuICAxOTg2LiBQcm90ZWlucyBpbiBDcm90YWx1cyBsZXBpZHVzIHZlbm9tIHJlYWN0aXZlIHdpdGggbW9ub2Nsb25hbCBhbnRpYm9kaWVzIGFnYWluc3QgbW9qYXZlIHRveGluIGFuZCBMLWFtaW5vIGFjaWQgb3hpZGFzZS4gIEFCU1RSQUNULiAgU2Vjb25kIEFtZXJpY2FuIHN5bXBvc2l1bSBvbiBhbmltYWwsIHBsYW50LCBhbmQgbWljcm9iaWFsIHRveGlucy4gSW50ZXIuIFNvYy4gVG94aW4uLCBUZW1wZSwgQXJpem9uYS4gIHAuIDM4Lg0KICANCjE1LiBKb2huc29uLCBKLiBELiAgMTk4Ny4gIFN5c3RlbWF0aWMgYW5hbHlzaXMgb2YgdGhlIGhlcnBldG9mYXVuYSBvZiBzb3V0aGVybiBNZXhpY28uICBBQlNUUkFDVC4gSW50ZXJuYXRpb25hbCBHdWlkZSB0byBSZXNlYXJjaCBvbiBNZXhpY28uICBDZW50ZXIgVS5TLiBNZXhpY28gU3R1ZC4gVUMtU2FuIERpZWdvLiBwLiA1NTkuDQogIA0KMTYuIEpvaG5zb24sIEouIEQuICAxOTg4LiAgQ29tbWVudHMgb24gdGhlIHJlcG9ydCBvZiBlbnZlbm9tYXRpb24gYnkgdGhlIGNvbHVicmlkIHNuYWtlLCBTdGVub3JyaGluYSBmcmVtaW52aWxsZWkuICBUb3hpY29uIDI2OjUxOS01MjEuDQoNCjE3LiBKb2huc29uLCBKLiBELiwgQy4gUy4gTGllYiwgYW5kIFIuRy4gV2ViYi4gIDE5ODguIEhlcnBldG9sb2d5IGF0IHRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEVsIFBhc28uIEthbnNhcyBIZXJwLiBTb2MuIE5ld3NsLiA3MToyLCBhbmQgVGV4YXMgSGVycC4gU29jLiBOZXdzbC4gMTk4ODoyLg0KICANCjE4LiBWaWxsYSwgSi4sIEwuIEQuIFdpbHNvbiwgYW5kIEouIEQuIEpvaG5zb24uICAxOTg4LiBNaWRkbGUgQW1lcmljYW4gSGVycGV0b2xvZ3k6IEEgQmlibGlvZ3JhcGhpYyBDaGVja2xpc3QuICBVbml2LiBNaXNzb3VyaSBQcmVzcy4gIDEzMiBwcC4NCiAgDQoxOS4gSm9obnNvbiwgSi4gRC4gIDE5ODkuICBBIGJpb2dlb2dyYXBoaWMgYW5hbHlzaXMgb2YgdGhlIGhlcnBldG9mYXVuYSBvZiBub3J0aHdlc3Rlcm4gTnVjbGVhciBDZW50cmFsIEFtZXJpY2EuIENvbnQuIEdlb2wuIEJpb2wuIE1pbHdhdWtlZSBQdWJsLiBNdXMuIDc2OjEtNjYuDQogIA0KMjAuIFdha2UsIEQuIEIuIGFuZCBKLiBELiBKb2huc29uLiAgMTk4OS4gIEEgbmV3IGdlbnVzIGFuZCBzcGVjaWVzIG9mIHBsZXRob2RvbnRpZCBzYWxhbWFuZGVyIGZyb20gQ2hpYXBhcywgTWV4aWNvLiAgQ29udC4gU2NpLiBOYXQuIEhpc3QuIE11cy4gTG9zIEFuZ2VsZXMgQ28uIDQxMToxLTEwLg0KDQoyMS4gSm9obnNvbiwgSi4gRC4gMTk5MC4gIEJpb2dlb2dyYXBoaWNhbCBhc3BlY3RzIG9mIHRoZSBoZXJwZXRvZmF1bmEgb2YgdGhlIENlbnRyYWwgRGVwcmVzc2lvbiBvZiBDaGlhcGFzLCBNZXhpY28sIHdpdGggY29tbWVudHMgb24gc3Vycm91bmRpbmcgYXJlYXMuICBTb3V0aHdlc3QuIE5hdC4gMzU6MjY4LTI3OC4NCiAgDQoyMi4gUmFlbCwgRS4sIEouIEQuIEpvaG5zb24sIE8uIE1vbGluYSwgYW5kIEguIEsuIE1jQ3J5c3RhbC4gMTk5Mi4gRGlzdHJpYnV0aW9uIG9mIG1vamF2ZSB0b3hpbi1saWtlIHByb3RlaW4gaW4gcm9jayByYXR0bGVzbmFrZSAoQ3JvdGFsdXMgbGVwaWR1cykuICBQcC4gMTYzLTE2OCwgaW4gSi5BLiBDYW1wYmVsbCBhbmQgUi5BLiBCcm9kaWUgKGVkcy4pLCBCaW9sb2d5IG9mIHRoZSBQaXR2aXBlcnMuICBTZWx2YSBQcmVzcywgVHlsZXIsIFRleGFzLg0KICANCjIzLiBKb2huc29uLCBKLiBELiAgMTk5My4gIEhlcnBldG9mYXVuYSBNZXhpY2FuYS4gTGlzdGEgYW5vdGFkYSBkZSBsYXMgZXNwZWNpZXMgZGUgYW5maWJpb3MgeSByZXB0aWxlcyBkZSBNZXhpY28sIGNhbWJpb3MgdGF4b25vbWljb3MgcmVjaWVudGVzLCB5IG51ZXZhIGVzcGVjaWVzLCBwb3IgTy4gRmxvcmVzIFZpbGxlbGEgKGJvb2sgcmV2aWV3KS4gIEJvbGV0aW4gU29jLiBIZXJwZXRvbC4gTWV4aWNhbmEgNToxMi0xNS4NCiAgDQoyNC4gSm9obnNvbiwgSi4gRC4gYW5kIFQuIEouIExhRHVjLioqICAxOTk0LiAgR2VvZ3JhcGhpYyBEaXN0cmlidXRpb24uIE9waGlzYXVydXMgYXR0ZW51YXR1cy4gIEhlcnBldG9sLiBSZXYuIDI1OjMzLg0KICANCjI1LiBKb2huc29uLCBKLiBELiBhbmQgVC4gSi4gTGFEdWMuKiogMTk5NC4gIEdlb2dyYXBoaWMgRGlzdHJpYnV0aW9uLiAgQnVmbyB3b29kaG91c2VpaS4gSGVycGV0b2wuIFJldi4gMjU6MTU5Lg0KICANCjI2LiBKb2huc29uLCBKLiBELiBhbmQgVC4gSi4gTGFEdWMuKiogIDE5OTQuICBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbi4gRGlhZG9waGlzIHB1bmN0YXR1cyBhcm55aS4gSGVycGV0b2wuIFJldi4gMjU6MTY2Lg0KDQoyNy4gKipMYUR1YywgVC4gSi4gYW5kIEouIEQuIEpvaG5zb24uICAxOTk0LiAgR2VvZ3JhcGhpYyBEaXN0cmlidXRpb24uIFNvbm9yYSBzZW1pYW5udWxhdGEuICBIZXJwZXRvbC4gUmV2LiAyNToxNjguDQogIA0KMjguICoqTGFEdWMsIFQuIEouIGFuZCBKLiBELiBKb2huc29uLiAgMTk5NC4gIEdlb2dyYXBoaWNhbCBEaXN0cmlidXRpb24uIFRhbnRpbGxhIG5pZ3JpY2Vwcy4gIEhlcnBldG9sLiBSZXYuIDI1OjE2OC4NCiAgDQoyOS4gIEpvaG5zb24sIEouIEQuICAxOTk1LiAgQ2xhdmUgcGFyYSBsYXMgZXNwZWNpZXMgZGUgTWFzdGljb3BoaXMuICBQcC4gMjE3LCBlbiBPLiBGbG9yZXMgViwgRi4gTWVuZG96YSBRLiB5IEcuIEdvbnphbGVzIFAuIChjb21wcy4pLiBSZWNvcGlsYWNpb24gZGUgY2xhdmVzIHBhcmEgbGEgZGV0ZXJtaW5hY2lvbiBkZSBhbmZpYmlvcyB5IHJlcHRpbGVzIGRlIE1leGljby4gIFB1YmwuIEVzcGVjLiBNdXMuIFpvb2wuIDEwLCBGYWN1bHRhZCBkZSBDaWVuY2lhcywgVU5BTS4gMjg0IHBwLg0KICANCjMwLiBKb2huc29uLCBKLiBELiBhbmQgSi4gTS4gU2F2YWdlLiAgMTk5NS4gIEEgbmV3IHNwZWNpZXMgb2YgdGhlIEVsZXV0aGVyb2RhY3R5bHVzIHJ1Z3Vsb3N1cyBncm91cCAoTGVwdG9kYWN0eWxpZGFlKSBmcm9tIENoaWFwYXMsIE1leGljby4gIEouIEhlcnBldG9sLiAyOTo1MDEtNTA2Lg0KICANCjMxLiBEZWx2aW5xdWllciwgQi4gTC4gSi4sIFMuIFMuIERyZXNzZXIsIGFuZCBKLiBELiBKb2huc29uLiAxOTk1LiBPcGFsaW5pZGFlIChTYWNyb21hc3RpZ29waG9yYSkgaW4gTm9ydGggQW1lcmljYW4gQW1waGliaWEuICBHZW51cyBQcm90b29wYWxpbmEgTWV0Y2FsZiwgMTkxOC4gIFN5c3RlbWF0aWMgUGFyYXNpdG9sb2d5IDMyOjE0MS0xNDcuDQogIA0KMzIuIExpZWIsIEMuIFMuLCBSLiBMYXphcm93aXR6LCBKLiBELiBKb2huc29uLCBhbmQgTC4gRS4gTWF5YmVycnkuIDE5OTYuICBMYWJvcmF0b3J5IE1hbnVhbCBmb3IgSW50cm9kdWN0b3J5IEJpb2xvZ3kuIEtlbmRhbGwgSHVudCBQdWJsLiBDby4sIER1YnVxdWUuIDE0MiBwcC4NCiAgICAgICANCjMzLiAqTGFubnV0dGksIEQuIEkuLCBULiBKLiBMYUR1YywqKiBhbmQgIEouIEQuIEpvaG5zb24uICAxOTk2LiBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbi4gIEVsYXBoZSBndXR0YXRhIGVtb3J5aS4gSGVycGV0b2wuIFJldi4gMjc6MjEyLg0KICANCjM0LiAqTGFubnV0dGksIEQuIEkuLCBULiBKLiBMYUR1YywqKiBhbmQgIEouIEQuIEpvaG5zb24uIDE5OTYuIEdlb2dyYXBoaWMgRGlzdHJpYnV0aW9uLiAgSHlwc2lnbGVuYSB0b3JxdWF0YSBqYW5pLiAgSGVycGV0b2wuIFJldi4gMjc6MjEzLiANCiAgDQozNS4gKkxhbm51dHRpLCBELiBJLiwgVC4gSi4gTGFEdWMsKiogYW5kICBKLiBELiBKb2huc29uLiAgMTk5Ni4gR2VvZ3JhcGhpYyBEaXN0cmlidXRpb24uICBNYXN0aWNvcGhpcyBmbGFnZWxsdW0gdGVzdGFjZXVzLiAgSGVycGV0b2wuIFJldi4gMjc6MjE0Lg0KICANCjM2LiAqTGFubnV0dGksIEQuIEkuLCBULiBKLiBMYUR1YywqKiBhbmQgIEouIEQuIEpvaG5zb24uICAxOTk2LiBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbi4gIFJoaW5vY2VpbHVzIGxlY29udGVpIHRlc3NlbGF0dXMuICBIZXJwZXRvbC4gUmV2LiAyNzoyMTQtMjE1Lg0KICANCjM3LiAqTGFubnV0dGksIEQuSS4sIFQuIEouIExhRHVjLCoqIGFuZCAgSi4gRC4gSm9obnNvbi4gIDE5OTYuIEdlb2dyYXBoaWMgRGlzdHJpYnV0aW9uLiAgVGFudGlsbGEgbmlncmljZXBzLiBIZXJwZXRvbC4gUmV2LiAyNzoyMTUuDQogIA0KMzguICpMYW5udXR0aSwgRC4gSS4sIFQuSi4gTGFEdWMsKiogYW5kICBKLkQuIEpvaG5zb24uICAxOTk2LiBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbi4gIFRoYW1ub3BoaXMgY3lydG9wc2lzIGN5cnRvcHNpcy4gSGVycGV0b2wuIFJldi4gMjc6MjE1Lg0KICANCjM5LiogTGFubnV0dGksIEQuIEkuLCBULiBKLiBMYUR1YywqKiBhbmQgIEouIEQuIEpvaG5zb24uICAxOTk2LiBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbi4gIFRoYW1ub3BoaXMgbWFyY2lhbnVzIG1hcmNpYW51cy4gIEhlcnBldG9sLiBSZXYuIDI3OjIxNS4NCiAgDQo0MC4gKkpvaG5zb24sIEcuVy4gYW5kIEouIEQuIEpvaG5zb24uIDE5OTkuIEdlb2dyYXBoaWMgRGlzdHJpYnV0aW9uLiAgRXVtZWNlcyB0ZXRyYWdyYW1tdXMgYnJldmlsaW5lYXR1cy4gSGVycGV0b2wuIFJldi4gMzA6MTEwLg0KICANCjQxLiBKb2huc29uLCBKLiBELiAgMjAwMC4gIEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uOiBBIFBsYWNlIG9mIExlYXJuaW5nIGluIHRoZSBEZXNlcnQuIENoaWh1YWh1YW4gRGVzZXJ0IERpc2NvdmVyeSAoNDUpOjQtNSwgMTEuDQoNCjQyLiBKb2huc29uLCBKLiBELiwgUi5HLiBXZWJiLCBhbmQgTy4gRmxvcmVzLVZpbGxlbGEgKEVkcy4pLiAyMDAxLiAgTWVzb2FtZXJpY2FuIEhlcnBldG9sb2d5LCBTeXN0ZW1hdGljcywgWm9vZ2VvZ3JhcGh5LCBhbmQgQ29uc2VydmF0aW9uLiBTcGVjLiBQdWJsLiBOby4gMSwgQ2VudGVubmlhbCBNdXNldW0sIFVuaXZlcnNpdHkgb2YgVGV4YXMgYXQgRWwgUGFzby4gaS1pdisyMDAgcHAuDQogIA0KNDMuIEpvaG5zb24sIEouIEQuIDIwMDEuIEEgYnJpZWYgaGlzdG9yeSBvZiBNZXNvYW1lcmljYW4gaGVycGV0b2xvZ3kuICBQcC4gMS05LCBpbiBKb2huc29uLCBXZWJiLCBhbmQgRmxvcmVzLVZpbGxlbGEgKEVkcy4pLCBNZXNvYW1lcmljYW4gSGVycGV0b2xvZ3ksIFN5c3RlbWF0aWNzLCBab29nZW9ncmFwaHksIGFuZCBDb25zZXJ2YXRpb24uIFNwZWMuIFB1YmwuIE5vLiAxLCBDZW50ZW5uaWFsIE11c2V1bSwgVW5pdmVyc2l0eSBvZiBUZXhhcyBhdCBFbCBQYXNvLiBpLWl2KzIwMCBwcC4NCg0KNDQuIEpvaG5zb24sIEouIEQuIGFuZCBSLkcuIFdlYmIuIDIwMDEuICBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbi4gU3Rlbm9ycmhpbmEgZnJlbWludmlsbGlpLiAgSGVycGV0b2wuIFJldi4gMzI6MjgwLg0KIA0KNDUuIExpZWIsIFMuIEYuLCBKLiBELiBKb2huc29uLCBMLiBGLiBNYXliZXJyeSwgYW5kIFIuIExhemFyb3dpdHouICAyMDAyLiBJbnRyb2R1Y3RvcnkgTWFudWFsIGZvciBJbnRyb2R1Y3RvcnkgQmlvbG9neSwgMm5kIEVkLiAgS2VuZGFsbC9IdW50IFB1YmwuIENvLiwgRHVidXF1ZS4gMTQyIHBwLg0KDQo0Ni4gKipMYUR1YywgVC4gSi4gYW5kIEouIEQuIEpvaG5zb24uIDIwMDMuIEEgdGF4b25vbWljIHJldmlzaW9uIG9mIFRyaW1vcnBob2RvbiBiaXNjdXRhdHVzIHZpbGtpbnNvbmlpIChTZXJwZW50ZXM6IENvbHVicmlkYWUpLiAgSGVycGV0b2xvZ2ljYSA1OTozNjQtMzc0Lg0KDQo0Ny4gSm9obnNvbiwgSi4gRC4sIEcuIFcuIEpvaG5zb24sKiBhbmQgSC4gUml2ZXJvbGwsIEpyLioqIDIwMDQuICBOYXR1cmFsIEhpc3RvcnkuIENvbGVvbnl4IGJyZXZpcy4gIFRhaWwgcmVnZW5lcmF0aW9uLiBSZXYuIDM1OjM4OC4NCg0KNDguICoqTWF0YS1TaWx2YSwgVi4sIEouIEQuIEpvaG5zb24sIGFuZCBBLiBKdWFyZXotUmVpbmEuKiAyMDA2LiBOYXR1cmFsIEhpc3RvcnkuIENvcGhvc2F1cnVzIHRleGFudXMuIEZhdGFsaXR5IGR1ZSB0byBIb25leWJlZSBJbmdlc3Rpb24uICBIZXJwZXRvbC4gUmV2LiAzNzo0NjQuIA0KDQo0OS4gSm9obnNvbiwgSi4gRC4sIEcuIFcuIEpvaG5zb24sKiogYW5kIEguIFJpdmVyb2xsLCBKci4qKiAgMjAwNy4gIE5hdHVyYWwgSGlzdG9yeS4gIFNvbm9yYSBzZW1pYW5udWxhdGEuIFByZWRhdGlvbiBieSBTY29sb3BlbmRyYSBoZXJvcy4gIEhlcnBldG9sLiBSZXYuIDM4OjkzLTk0Lg0KDQo1MC4gKipNYXRhLVNpbHZhLCBWLiwgQS4gUmFtaXJlei1CYXV0aXN0YSwgYW5kIEouIEQuIEpvaG5zb24uICAyMDA3LiAgR2VvZ3JhcGhpYyBEaXN0cmlidXRpb24uICBSYW1waG90eXBobG9wcyBicmFtaW51cy4gIEhlcnBldG9sLiBSZXYuIDM4OjM1Ni4NCg0KNTEuICoqTWlyYW5kYSwgTC4sIFYuIE1hdGEtU2lsdmEsKiogUy4gRGlsa3MsKiBILiBSaXZlcm9sbCwgSnIuLCoqIGFuZCBKLiBELiBKb2huc29uLiAyMDA4LiAgTmF0dXJhbCBIaXN0b3J5LiBDcm90YWx1cyBtb2xvc3N1cy4gTW9ycGhvbG9neTogUmF0dGxlbGVzcyBDb25kaXRpb24uIEhlcnBldG9sLiBSZXYuIDM5Ojk3Lg0KDQo1Mi4qKiBNYXRhLVNpbHZhLCBWLiwgQy4gUi4gQnVyc2V5LCBhbmQgSi4gRC4gSm9obnNvbi4gMjAwOC4gIFN0b21hY2ggcGFyYXNpdGVzIG9mIHR3byBzeW50b3BpYyBzcGVjaWVzIG9mIHdoaXB0YWlsIGxpemFyZHMgKEFzcGlkb3NjZWxpcyBtYXJtb3JhdGEgYW5kIEFzcGlkb3NjZWxpcyB0ZXNzZWxhdGEpIGZyb20gdGhlIG5vcnRoZXJuIENoaWh1YWh1YW4gRGVzZXJ0LiAgQmlvbC4gU29jLiBIZXJwZXRvbC4gTWV4aWNhbmEgMTY6MS00Lg0KDQo1My4gICpMZW5oYXJ0LCBQLiBBLiwgVi4gTWF0YS1TaWx2YSwqKiBhbmQgSi4gRC4gSm9obnNvbi4gIDIwMTAuICBEaWV0IG9mIHRoZSBQYWxsaWQgQmF0LCBBbnRyb3pvdXMgcGFsbGlkdXMgKFZlc3BlcnRpbGlvbmlkYWUpLCBpbiB0aGUgQ2hpaHVhaHVhbiBEZXNlcnQgb2YgVHJhbnMtUGVjb3MsIFRleGFzLiAgU291dGh3ZXN0LiBOYXQuIDU1OjExMC0xMTUuDQoNCjU0LiAgKipNYXRhLVNpbHZhLCBWLiwgQS4gUmFtaXJlei1CYXV0aXN0YSwgYW5kIEouIEQuIEpvaG5zb24uIDIwMTAuICBSZXByb2R1Y3RpdmUgY2hhcmFjdGVyaXN0aWNzIG9mIHR3byBzeW50b3BpYyB3aGlwdGFpbCBsaXphcmRzLCBBc3BpZG9zY2VsaXMgbWFybW9yYXRhIGFuZCBBc3BpZG9zY2VsaXMgdGVzc2VsYXRhLCBmcm9tIHRoZSBOb3J0aGVybiBDaGlodWFodWFuIERlc2VydC4gIFNvdXRod2VzdC4gTmF0LiA1NToxMjUtMTI5Lg0KDQo1NS4gICoqTWF0YS1TaWx2YSwgVi4sIEEuIFJhbWlyZXotQmF1dGlzdGEsIGFuZCBKLiBELiBKb2huc29uLiAyMDEwLiAgR2VvZ3JhcGhpYyBEaXN0cmlidXRpb246IExlcHRvZGFjdHlsdXMgZnJhZ2lsaXMuDQogSGVycGV0b2wuIFJldi4gNDE6MTA0Lg0KDQo1Ni4gICoqTWF0YS1TaWx2YSwgVi4sIFMuIERpbGtzLCogYW5kIEouIEQuIEpvaG5zb24uIDIwMTAuIE5hdHVyYWwgSGlzdG9yeS4gUHJleS4gQ3JvdGFsdXMgbGVwaWR1cyAoUm9jayBSYXR0bGVzbmFrZSkuIFByZWRhdGlvbiBvbiBIeXBzaWdsZW5hIGphbmkuICBIZXJlcHRvbC4gUmV2LiA0MToyMzUtMjM2Lg0KIA0KNTcuIFdpbHNvbiwgTC4gRC4sIEouIEguIFRvd25zZW5kLCBhbmQgSi4gRC4gSm9obnNvbiAoRWRzKS4gMjAxMC4gIENvbnNlcnZhdGlvbiBvZiBNZXNvYW1lcmljYW4gQW1waGliaWFucyBhbmQgUmVwdGlsZXMuICBFYWdsZSBNb3VudGFpbiBQdWJsLiwgTC4gQy4sIEVhZ2xlIE1vdW50YWluLCBVdGFoLiBpLXh2aWlpKzgxMiBwcC4NCg0KNTguIFdpbHNvbiwgTC4gRC4sIEouIEguIFRvd25zZW5kLCBhbmQgSi4gRC4gSm9obnNvbi4gMjAxMC4gUHJlZmFjZS4gUHAuIHhpdi14dmlpLCBpbiBXaWxzb24sIEwuIEQuLCBKLiBILiBUb3duc2VuZCwgYW5kIEouIEQuIEpvaG5zb24gKEVkcy4pLCBDb25zZXJ2YXRpb24gb2YgTWVzb2FtZXJpY2FuIEFtcGhpYmlhbnMgYW5kIFJlcHRpbGVzLiBFYWdsZSBNb3VudGFpbiBQdWJsLiwgTC4gQy4sIEVhZ2xlIE1vdW50YWluLCBVdGFoLiBpLXh2aWlpKzgxMiBwcC4NCg0KNTkuICBKb2huc29uLCBKLiBELiwgVi4gTWF0YS1TaWx2YSwqKiBhbmQgQS4gUmFtaXJlei1CYXV0aXN0YS4gIDIwMTAuICBUaGUgaGVycGV0b2ZhdW5hIG9mIHNvdXRoZWFzdGVybiBNZXhpY286IGJpb2dlb2dyYXBoeSBhbmQgY29uc2VydmF0aW9uLiAgUHAuIDMyMy0zNjksIGluIFdpbHNvbiwgTC5ELiwgSi4gSC4gVG93bnNlbmQsIGFuZCBKLiBELiBKb2huc29uIChFZHMuKSwgQ29uc2VydmF0aW9uIG9mIE1lc29hbWVyaWNhbiBBbXBoaWJpYW5zIGFuZCBSZXB0aWxlcy4gIEVhZ2xlIE1vdW50YWluIFB1YmwuLCBMLkMuLCBFYWdsZSBNb3VudGFpbiBVdGFoLiBpLXh2aWlpKzgxMiBwcC4NCg0KNjAuIEpvaG5zb24sIEouIEQuLCBMLiBELiBXaWxzb24sIGFuZCBKLiBILiBUb3duc2VuZC4gMjAxMC4gIFN1bW1hcnkgb2YgcmVjZW50IG1ham9yIGNoYW5nZXMgaW4gaGlnaGVyIHRheG9ub21pYyBjYXRlZ29yaWVzIG9mIE1lc29hbWVyaWNhbiBhbXBoaWJpYW5zIGFuZCByZXB0aWxlcy4gUHAuIDM3My0zODEsIGluIFdpbHNvbiwgTC4gRC4sIEouIEguIFRvd25zZW5kLCBhbmQgSi4gRC4gSm9obnNvbiAoRWRzLikuIENvbnNlcnZhdGlvbiBvZiBNZXNvYW1lcmljYW4gQW1waGliaWFucyBhbmQgUmVwdGlsZXMuICBFYWdsZSBNb3VudGFpbiBQdWJsLiwgTC4gQy4sIEVhZ2xlIE1vdW50YWluLCBVdGFoLiBpLXh2aWlpKzgxMiBwcC4NCg0KNjEuICBXaWxzb24sIEwuIEQsIGFuZCBKLiBELiBKb2huc29uLiAyMDEwLiAgRGlzdHJpYnV0aW9uYWwgcGF0dGVybnMgb2YgdGhlIGFtcGhpYmlhbnMgYW5kIHJlcHRpbGVzIG9mIE1lc29hbWVyaWNhOiBhIGJpb2RpdmVyc2l0eSBob3RzcG90LiAgUHAuIDMwLTIzNSwgaW4gV2lsc29uLCBMLiBELiwgSi4gSC4gVG93bnNlbmQsIGFuZCBKLiBELiBKb2huc29uIChFZHMuKS4gQ29uc2VydmF0aW9uIG9mIE1lc29hbWVyaWNhbiBBbXBoaWJpYW5zIGFuZCBSZXB0aWxlcy4gIEVhZ2xlIE1vdW50YWluIFB1YmwuLCBMLiBDLiwgRWFnbGUgTW91bnRhaW4sIFV0YWguIGkteHZpaWkrODEyIHBwLg0KDQo2Mi4gICoqTWF0YS1TaWx2YSwgVi4sIEEuIFJvY2hhLCoqIEEuIEdhbmRhcmEsKiogYW5kIEouIEQuIEpvaG5zb24uIDIwMTAuIE5hdHVyYWwgSGlzdG9yeS4gQ29waG9zYXVydXMgdGV4YW51cyAoR3JlYXRlciBFYXJsZXNzIExpemFyZCkuIE11bHRpcGxlIHRhaWxzLiAgSGVycGV0b2wuIFJldi4gNDE6MzUyLTM1My4NCg0KNjMuICoqTWF0YS1TaWx2YSwgVi4sIEEuIFJhbWlyZXotQmF1dGlzdGEsIGFuZCBKLiBELiBKb2huc29uLiAyMDEwLiBHZW9ncmFwaGljIERpc3RyaWJ1dGlvbi4gU2NpbmF4IHN0YXVmZmVyaSAoU3RhdWZmZXIncyBUcmVlIEZyb2cpLiBIZXJwZXRvbC4gUmV2LiA0MTo1MDguDQoNCjY0LiAqKk1hdGEtU2lsdmEsIFYuLCBBLiBSYW1pcmV6LUJhdXRpc3RhLCBhbmQgSi4gRC4gSm9obnNvbi4gMjAxMC4gR2VvZ3JhcGhpYyBEaXN0cmlidXRpb24uIEFtZWl2YSB1bmR1bGF0YSAoUmFpbmJvdyBBbWVpdmEpLiAgSGVycGV0b2wuIFJldi4gNDE6NTExLg0KDQo2NS4gKipNYXRhLVNpbHZhLCBWLiwgQS4gUmFtaXJlei1CYXV0aXN0YSwgYW5kIEouIEQuIEpvaG5zb24uIDIwMTAuIEdlb2dyYXBoaWMgRGlzdHJpYnV0aW9uLiBTY2Vsb3BvcnVzIG1lbGFub3JoaW51cyAoQmxhY2stbm9zZWQgTGl6YXJkKS4gIEhlcnBldG9sLiBSZXYuIDQxOjUxNC01MTUuDQoNCjY2LiAqKk1hdGEtU2lsdmEsIFYuLCBBLiBSYW1pcmV6LUJhdXRpc3RhLCBhbmQgSi4gRC4gSm9obnNvbi4gMjAxMC4gR2VvZ3JhcGhpYyBEaXN0cmlidXRpb24uIFNjZWxvcG9ydXMgc2luaWZlcnVzIChMb25nLXRhaWxlZCBTcGlueSBMaXphcmQpLiBIZXJwZXRvbC4gUmV2LiA0MTo1MTUuDQoNCjY3LiAqKk1hdGEtU2lsdmEsIFYuLCBhbmQgSi4gRC4gSm9obnNvbi4gMjAxMS4gTmF0dXJhbCBIaXN0b3J5LiBQaHJ5bm9zb21hIG1vZGVzdHVtIChSb3VuZC10YWlsZWQgSG9ybmVkIExpemFyZCkuIFByZWRhdGlvbiBieSBBbnRyb3pvdXMgcGFsbGlkdXMuIEhlcnBldG9sLiBSZXYuIDQyOjk1Lg0KDQo2OC4gKipNYXRhLVNpbHZhLCBWLiwgSi4gRC4gSm9obnNvbiwgYW5kIEEuIFJvY2hhKiouIEluIFByZXNzLiBOYXR1cmFsIEhpc3RvcnkuIENyb3RhbHVzIGxlcGlkdXMgKFJvY2sgUmF0dGxlc25ha2UpLiBQcmVkYXRpb24gb24gQ29waG9zYXVycyB0ZXhhbnVzLiBIZXJwZXRvbC4gUmV2Lg0KDQo2OS4gKipNYXRhLVNpbHZhLCBWLiwgYW5kIEouIEQuIEpvaG5zb24uIEluIFByZXNzLiBOYXR1cmFsIEhpc3RvcnkuIFJlbmEgaHVtaWxpcyAoV2VzdGVybiBCbGluZCBTbmFrZSkuIFByZWRhdGlvbiBieSBBbnRyb3pvdXMgcGFsbGlkdXMuIEhlcnBldG9sLiBSZXYuDQoNClJFU0VBUkNIIElOIFBST0dSRVNTDQogIA0KU3lzdGVtYXRpYyBTdHVkaWVzOiAgU3lzdGVtYXRpY3Mgb2YgVHJpbW9ycGhvZG9uIHZpbGtpbnNvbmlpIChwcm90ZWN0ZWQgQ2hpaHVhaHVhbiBEZXNlcnQgY29sdWJyaWQgc25ha2UpOyBzeXN0ZW1hdGljcyBvZiBDcm90YWx1cyBsZXBpZHVzIChDaGlodWFodWFuL1Nvbm9yYW4gRGVzZXJ0IHJhdHRsZXNuYWtlKTsgc3lzdGVtYXRpY3Mgb2YgU3Rlbm9ycmhpbmEgZnJlbWludmlsbGlpIGFuZCBTLiBkZWdlbmhhcmR0aWkgKE1lc29hbWVyaWNhbiBjb2x1YnJpZCBzbmFrZXMpLg0KICANCkVjb2xvZ2ljYWwgU3R1ZGllczogIFBvcHVsYXRpb24gc3RydWN0dXJlIGFuZCBkeW5hbWljcyBvZiBmaXZlIHNwZWNpZXMgb2YgdGVpaWQgbGl6YXJkcywgdGhyZWUgc3BlY2llcyBvZiBpcXVhbmlkIGxpemFyZHMsIHR3byBzcGVjaWVzIG9mIHNraW5rcywgb25lIGdlY2tvIHNwZWNpZXMsIGFuZCB0aHJlZSBzcGVjaWVzIG9mIHJhdHRsZXNuYWtlcy4gIFRoaXMgcmVzZWFyY2ggaXMgcHJpbWFyaWx5IGJlaW5nIGRvbmUgYXQgSW5kaW8gTW91bnRhaW5zIFJlc2VhcmNoIENlbnRlci4gIEJpb2dlb2dyYXBoeSBhbmQgY29uc2VydmF0aW9uIG9mIE1lc29hbWVyaWNhbiBlY29zeXN0ZW1zLCBlc3BlY2lhbGx5IHRyb3BpY2FsIHZlZ2V0YXRpb24gZm9ybWF0aW9ucyBhbmQgaW5jbHVzaXZlIGhlcnBldG9mYXVuYXMuICBCaW9jaGVtaWNhbCBTdHVkaWVzOiAgSW1tdW5vbG9naWNhbCBhbmFseXNpcyBvZiB0aGUgdmVub21zIGFuZCBETkEgYW5hbHlzaXMgb2YgcmVkIGJsb29kIGNlbGxzIG9mIHRocmVlIHNwZWNpZXMgb2YgcmF0dGxlc25ha2VzLiAgVGhlIG1ham9yaXR5IG9mIHRoaXMgcmVzZWFyY2ggaXMgYmVpbmcgY29uZHVjdGVkIGF0IEluZGlvIE1vdW50YWlucyBSZXNlYXJjaCBTdGF0aW9uIGFuZCBsYWJzIGF0IFVURVAuDQoNCkJpb2dlb2dyYXBoaWMgU3R1ZGllczogIEJpb2dlb2dyYXBoaWMgYW5hbHlzaXMgb2YgdGhlIGhlcnBldG9mYXVuYSBvZiB0aGUgQ2hpaHVhaHVhbiBEZXNlcnQgYW5kIGFkamFjZW50IGFyZWFzLiBCaW9nZW9ncmFwaGljIGFuYWx5c2lzIG9mIHRoZSBNZXNvYW1lcmljYW4gaGVycGV0b2ZhdW5hLg0KDQpBIGJvb2sgb24gdGhlIGhlcnBldG9mYXVuYSBvZiBUYWJhc2NvLCBNZXhpY28sIHdpdGggUm9zYXJpbyBCYXJyYWdhbiwgVW5pdi4gQXV0b25vbW91cyBkZSBUYWJhc2NvLiANCiAgDQogICAgICAgICBOT04tUFJPRkVTU0lPTkFMIEFORCBDSVZJQyBBQ1RJVklUSUVTDQoNClZpY2UgUHJlc2lkZW50IC0gRWwgUGFzbyBDb3VuY2lsIEZvciBJbnRlcm5hdGlvbmFsIFZpc2l0b3JzICgxOTk2LTE5OTcpLg0KDQpEaXJlY3RvciBvZiB0aGUgQm9hcmQgLSBNZW1vcmlhbCBQYXJrIEltcHJvdmVtZW50IEFzc29jaWF0aW9uLCBFbCBQYXNvLCBUZXhhcyAoMTk5My0xOTk0KS4gIA0KDQpCb2FyZCBvZiBEaXJlY3RvcnMgLSBFbCBQYXNvIFBhcmtzIGFuZCBSZWNyZWF0aW9uIERlcGFydG1lbnQuICgxOTkxLTE5OTQpLg0KICANCkEganVkZ2Ugb24gIkhpZ2ggUSIsIGFuIGVkdWNhdGlvbmFsIGdhbWUgc2hvdyBvbiBFbCBQYXNvLCBUZXhhcycgcHVibGljIHRlbGV2aXNpb24gc3RhdGlvbiAoS0NPUykuDQogIA0KSSByb3V0aW5lbHkgc2VydmUgYXMgYSBqdWRnZSBmb3IgRWwgUGFzbyBhcmVhIHB1YmxpYyBhbmQgcHJpdmF0ZSBzY2hvb2xzIHNjaWVuY2UgZmFpcnMuDQogIA0KQm9hcmQgbWVtYmVyIG9mIHRoZSBFbCBQYXNvIENvdW5jaWwgZm9yIEludGVybmF0aW9uYWwgVmlzaXRvcnMgKDE5OTAtMjAwOSkuDQoNCk1lbWJlciBFbCBQYXNvIENvdW5jaWwgZm9yIEludGVybmF0aW9uYWwgVmlzaXRvcnMgKDE5OTAtcHJlc2VudCkgIA0KDQpCb2FyZCBvZiBEaXJlY3RvcnMgZm9yIHRoZSBNZW1vcmlhbCBQYXJrIEltcHJvdmVtZW50IEFzc29jaWF0aW9uLCBFbCBQYXNvLCBUZXhhcyAoMTk4OC0xOTk5KS4NCiAgDQpDb21taXR0ZWUgbWVtYmVyIGZvciB0aGUgSW50ZXJuYXRpb25hbCBGYWlyIGF0IHRoZSAxOTg5IEVsIFBhc28gQW1pZ28gQWlyc2hvLg0KICANCkkgZW5qb3kgbGlzdGVuaW5nIHRvIG11c2ljLCBlc3BlY2lhbGx5IGphenogYW5kIE5ldyBBZ2UuICANCiAgDQpJIGVuam95IGNvbGxlZ2UgYXRobGV0aWNzLiAgSSBiZWxvbmcgdG8gdGhlIE1pbmVyIEZvdW5kYXRpb24sIHdoaWNoIGhlbHBzIHN1cHBvcnQgVVRFUCBhdGhsZXRpY3MuDQogIA0KSSBlbmpveSBjb2xsZWN0aW5nIGFudGlxdWVzIGFuZCBtb2Rlcm4gY29sbGVjdGFibGVzLCBlc3BlY2lhbGx5IGl0ZW1zIHdpdGggaGlzdG9yaWNhbCBpbnRlcmVzdC4NCiAgDQogICAgICAgR1JBRFVBVEUgQ09VUlNFUyBUQUtFTg0KICANCkZPUlQgSEFZUyBTVEFURSBVTklWRVJTSVRZIChLQU5TQVMpOiBHUEEgPSA0LjAwDQogIA0KUGFsZW9iaW9sb2d5LCBFdm9sdXRpb24sIEljaHRoeW9sb2d5LCBSZWFkaW5ncyBpbiBab29sb2d5IChOZW90cm9waWNhbCBoZXJwZXRvbG9neSksIFJlYWRpbmdzIGluIEdlb2dyYXBoeSAoTWV4aWNhbiBnZW9ncmFwaHkpLg0KICANClRIRSBVTklWRVJTSVRZIE9GIFRFWEFTIEFUIEVMIFBBU086IEdQQSA9IDMuODENCiAgDQpBbmltYWwgQmVoYXZpb3IsIE1hdGhlbWF0aWNhbCBNb2RlbGluZyBvZiBCaW9sb2dpY2FsIFN5c3RlbXMsDQpQbGFudCBFY29sb2d5LCBCaW9sb2d5IG9mIHRoZSBQbGVpc3RvY2VuZSwgTWFtbWFsb2d5LCBOdW1lcmljYWwgVGF4b25vbXksDQpQYWxlb3pvaWMgYW5kIE1lc296b2ljIFBhbGVvbnRvbG9neS4NCiAgDQpURVhBUyBBJk0gVU5JVkVSU0lUWTogR1BBID0gMy44MA0KICANCkFxdWF0aWMgRW50b21vbG9neSwgRWxlY3Ryb24gTWljcm9zY29weSwgVGhlIENvbGxlZ2UgU3R1ZGVudCAoRWR1Y2F0aW9uYWwgUHN5Y2hvbG9neSksIEZpZWxkIGFuZCBMYWIgTWV0aG9kcyBpbiBXaWxkbGlmZSBTY2llbmNlcywgRXZvbHV0aW9uYXJ5IEFudGhyb3BvbG9neSwgWm9vZ2VvZ3JhcGh5LCBWZXJ0ZWJyYXRlIFN5c3RlbWF0aWNzLCBTeXN0ZW1hdGljIEhlcnBldG9sb2d5LCBUZXJyZXN0cmlhbCBFY29zeXN0ZW1zLCBTdGF0aXN0aWNzIGluIFJlc2VhcmNoLCBDb21wdXRlciBBcHBsaWNhdGlvbnMgaW4gU2NpZW5jZS4NCg0KDQoNCg0KUEFHRSAgDQoNCg0KUEFHRSAgMg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912343306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

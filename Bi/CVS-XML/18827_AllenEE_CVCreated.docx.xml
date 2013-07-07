@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:55 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2912040306521"  usageLimitType="allocation" usageLimit="200" currentUsage="65" remainingUsage="135" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr Edward E. Allen</FormattedName>
+<GivenName>Edward</GivenName>
+<MiddleName>E.</MiddleName>
+<FamilyName>Allen</FamilyName>
+<Affix type="formOfAddress">Dr</Affix>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>126</PostalCode>
+<Municipality>Manchester</Municipality>
+<DeliveryAddress>
+<AddressLine>Allen Professor of Mathematics &amp; Department Chair Office</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (336) 758-4854</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>336</AreaCityCode>
+<SubscriberNumber>758-4854</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetWebAddress>http://www.math.wfu.edu/Faculty/allen.html</InternetWebAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeMajor>
+<Name>Degrees</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>BYU</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of California at San Diego</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>1991-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Cox</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeName>M.E</DegreeName>
+<DegreeMajor>
+<Name>E.E.</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<Associations>
+<Association>
+<Name>coefficients of reciprocals of formal power series with rapidly decreasing coefficients, &quot; Discrete Dynamics in Nature and Society</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIEVkd2FyZCBFLiBBbGxlbg0KDQpQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MNCg0KJiBEZXBhcnRtZW50IENoYWlyDQoNCg0KDQpPZmZpY2UNCg0KwqANCg0KTWFuY2hlc3RlciAxMjYNCg0KUGhvbmUNCg0KwqANCg0KKDMzNikgNzU4LTQ4NTQNCg0KSG9tZSBQYWdlDQoNCsKgDQoNCmh0dHA6Ly93d3cubWF0aC53ZnUuZWR1L0ZhY3VsdHkvYWxsZW4uaHRtbA0KDQpFbWFpbA0KDQrCoA0KDQphbGxlbmUgJ2F0JyB3ZnUuZWR1DQoNCkRlZ3JlZXMNCg0KwqANCg0KQi5TLiwgTWF0aGVtYXRpY3MsIEJZVSwgMTk4NQ0KDQpQaC5ELiwgTWF0aGVtYXRpY3MsIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSBhdCBTYW4gRGllZ28sIDE5OTENCg0KUmVzZWFyY2ggSW50ZXJlc3RzDQoNCg0KDQpDb21iaW5hdG9yaWNzLCBEaXNjcmV0ZSBNYXRoZW1hdGljcw0KDQpQYXBlcnMNCg0KwqANCg0KQWxsZW4sIEUuRS4sIEEgQ29uamVjdHVyZSBvZiBQcm9jZXNpIGFuZCB0aGUgU3RyYWlnaHRlbmluZyBBbGdvcml0aG0gb2YgUm90YSzCoFByb2MuIE5hdGwuIEFjYWQuIFNjaS4gVVNBLCBWb2wgODksIHBwLiAzOTgwLTM5ODQsIE1heSAxOTkyLg0KDQpBbGxlbiwgRS5FLiwgQcKgIENvbmplY3R1cmUgb2YgUHJvY2VzaSBhbmQgYSBOZXcgQmFzaXMgZm9yIHRoZSBEZWNvbXBvc2l0aW9uIG9mIHRoZSBHcmFkZWQgTGVmdCBSZWd1bGFyIFJlcHJlc2VudGF0aW9uIG9mIFNuLCBBZHZhbmNlcyBpbiBNYXRoZW1hdGljc8KgMTAwwqAoMTk5MyksIDI2Mi0yOTIuDQoNCkFsbGVuLCBFLkUuLCBUaGUgRGVzY2VudCBNb25vbWlhbHMgYW5kIGEgQmFzaXMgZm9yIHRoZSBEaWFnb25hbGx5IFN5bW1ldHJpYyBQb2x5bm9taWFscywgwqBKb3VybmFsIG9mIEFsZ2VicmFpYyBDb21iaW5hdG9yaWNzwqAzwqAoMTk5NCksIDUtMTYuDQoNCkFsbGVuLCBFLkUuLCBOZXcgQmFzZXMgZm9yIHRoZSBEZWNvbXBvc2l0aW9uIG9mIHRoZSBHcmFkZWQgTGVmdCBSZWd1bGFyIFJlcHJlc2VudGF0aW9uIG9mIHRoZSBSZWZsZWN0aW9uIEdyb3VwcyBvZiB0eXBlIEJuIGFuZCBEbizCoMKgSm91cm5hbCBvZiBBbGdlYnJhLMKgMTczwqAoMTk5NSksIDEyMi0xNDMuDQoNCkFsbGVuLCBFLkUuLCBUaGUgRGVjb21wb3NpdGlvbiBvZiBhIEJpZ3JhZGVkIExlZnQgUmVndWxhciBSZXByZXNlbnRhdGlvbiBvZiB0aGUgRGlhZ29uYWwgQWN0aW9uIG9mIFNuLMKgwqBKb3VybmFsIG9mIENvbWJpbmF0b3JpYWwgVGhlb3J5LCBTZXJpZXMgQSzCoDcxwqAoMTk5NSksIDk3LTExMS4NCg0KQWxsZW4sIEUuRS4sIEJpdGFibGVhdXggQmFzZXMgZm9yIHRoZSBEaWFnb25hbGx5IEludmFyaWFudCBQb2x5bm9taWFsIFF1b3RpZW50IFJpbmdzLMKgQWR2YW5jZXMgaW4gTWF0aGVtYXRpY3PCoDEzMMKgwqAoMTk5NyksIDI0Mi0yNjAuDQoNCkFsbGVuLCBFLkUuLCBBIENvbmplY3R1cmUgb2YgYSBCYXNpcyBmb3IgdGhlIERpYWdvbmFsIEhhcm1vbmljIEFsdGVybmFudHMswqDCoMKgRGlzY3JldGUgTWF0aGVtYXRpY3MxOTPCoCgxOTk4KSwgMzMtNDIuDQoNCkFsbGVuLCBFLkUuLCBTb21lIEdyYWRlZCBSZWd1bGFyIFJlcHJlc2VudGF0aW9ucyBvZiB0aGUgQ29tcGxleCBSZWZsZWN0aW9uIEdyb3VwcyzCoEpvdXJuYWwgb2YgQ29tYmluYXRvcmlhbCBUaGVvcnksIFNlcmllcyBBLMKgODfCoCgxOTk5KSwgMjg3LTMzMi4NCg0KQWxsZW4sIEUuRS4sIEJpdGFibGVhdXggQmFzZXMgZm9yIHNvbWUgR2Fyc2lhLUhhaW1hbiBNb2R1bGVzIGFuZCBPdGhlciBSZWxhdGVkIE1vZHVsZXMswqBUaGUgRWxlY3Ryb25pYyBKb3VybmFsIG9mIENvbWJpbmF0b3JpY3PCoDnCoCgyMDAyKSwgI1IzNiwgMS01OS4NCg0KQWxsZW4sIEUuRS4sIERlc2NlbnQgTW9ub21pYWxzLCBQLVBhcnRpdGlvbnMgYW5kIERlbnNlIEdhcnNpYS1IYWltYW4gTW9kdWxlcywgSm91cm5hbCBvZiBBbGdlYnJhaWMgQ29tYmluYXRvcmljcyzCoDIwwqAoMjAwNCksIDE3My0xOTMuDQoNCkFsbGVuLCBFLkUuLCwgRmV0cm93LMKgIEouUy4gLMKgIEpvaG4swqAgRC5KLiwgVGhvbWFzLCBTLkouLCBIZXVyaXN0aWNzIGZvciBEZXBlbmRlbmN5IENvbmplY3R1cmVzIGluIFByb3Rlb21pYyBTaWduYWxpbmcgUGF0aHdheXMsIFByb2NlZWRpbmdzIG9mIHRoZSA0M3JkIEFubnVhbMKgIEFzc29jaWF0aW9uIGZvciBDb21wdXRpbmcgTWFjaGluZXJ5IFNvdXRoZWFzdCBDb25mZXJlbmNlLCAyMDA1LMKgIDc1LTc5Lg0KDQpBbGxlbiwgRS5FLiwgRmV0cm93LCBKLiwgRGFuaWVsLCBMLiwgVGhvbWFzLCBTLiwgYW5kIEpvaG4sIEQuLCAiQWxnZWJyYWljIGRlcGVuZGVuY3kgbW9kZWxzIG9mIHByb3RlaW4gc2lnbmFsIHRyYW5zZHVjdGlvbiBuZXR3b3JrcyBmcm9tIHRpbWUtc2VyaWVzIGRhdGEiLCBKb3VybmFsIG9mIFRoZW9yZXRpY2FsIEJpb2xvZ3kgMjM4KDIpLDMxNy0zMzAsIEphbnVhcnksIDIwMDYgLg0KDQpBbGxlbiwgRS5FLi4sIEZldHJvdywgSi4sIEpvaG4sIEQuSi4sIFBlY29yZWxsYSwgQS4sIGFuZCBUdXJrZXR0LCBXLiwgIlJlY29uc3RydWN0aW5nIE5ldHdvcmtzIHVzaW5nIENvLXRlbXBvcmFsIEZ1bmN0aW9ucyIsIFByb2NlZWRpbmdzIG9mIHRoZSA0NHRoIEFubnVhbCBTb3V0aGVhc3QgQ29uZmVyZW5jZSBvZiB0aGUgQUNNLCA0MTctNDIyLCAyMDA2Lg0KDQpLZW5uZXRoIFMuIEJlcmVuaGF1dCzCoEVkd2FyZCBFLiBBbGxlbiwgYW5kIFNhbSBKLiBGcmFzZXIsICJCb3VuZHMgb24gY29lZmZpY2llbnRzIG9mIHJlY2lwcm9jYWxzIG9mIGZvcm1hbCBwb3dlciBzZXJpZXMgd2l0aCByYXBpZGx5IGRlY3JlYXNpbmcgY29lZmZpY2llbnRzLCLCoERpc2NyZXRlIER5bmFtaWNzIGluIE5hdHVyZSBhbmQgU29jaWV0eSwgdm9sLiAyMDA2LCBBcnRpY2xlIElEIDQwMjcwLCAxOCBwYWdlcywgMjAwNi4gZG9pOjEwLjExNTUvREROUy8yMDA2LzQwMjcwDQoNCkFsbGVuLCBFLkUuLiwgRGlhbywgTCwgRmV0cm93LCBKLiwgSm9obiwgRC5KLiwgTG9lc2VyLCBSLkYuLCBhbmQgUG9vbGUsIEwuQi4uLFRoZSBTaHVmZmxlIEluZGV4IGFuZCBFdmFsdWF0aW9uIG9mIE1vZGVscyBvZiBTaWduYWwgVHJhbnNkdWN0aW9uIFBhdGh3YXlzLCBQcm9jZWVkaW5ncyBvZiB0aGUgNDV0aCBBbm51YWwgU291dGhlYXN0IENvbmZlcmVuY2Ugb2YgdGhlIEFDTSAyMDA3LCBNYXJjaCAyMDA3LiDCoGh0dHA6Ly9kb2kuYWNtLm9yZy8xMC4xMTQ1LzEyMzMzNDEuMTIzMzM4Ng0KDQpBbGxlbiwgRS5FLizCoENveCwgTS5FLiBhbmQgV2FycmluZ3RvbiwgRy5TLiwgIkJpdGFibGVhdXggQmFzZXMgb2YgR2Fyc2lhLUhhaW1hbiBNb2R1bGVzIG9mIEhvbGxvdyBUeXBlIizCoEpvdXJuYWwgb2YgQ29tYmluYXRvcmlhbCBUaGVvcnksIFNlcmllcyBBLMKgVm9sdW1lIDExNSwgSXNzdWUgNywgT2N0b2JlciAyMDA4LCBQYWdlcyAxMTI3LTExNTU=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2912040306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:15:11 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910543306521"  usageLimitType="allocation" usageLimit="200" currentUsage="124" remainingUsage="76" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Linda Keen</FormattedName>
+<GivenName>Linda</GivenName>
+<FamilyName>Keen</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>1983-85</PostalCode>
+<Municipality>Grant</Municipality>
+<DeliveryAddress>
+<AddressLine>AWM Grant 1985-86 National Science Foundation SCREMS</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (70) 1973-74</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>70</AreaCityCode>
+<SubscriberNumber>1973-74</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>The City University of New York</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>* Hunter College
+</Description>
+<StartDate>
+<AnyDate>1965-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1967-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Lehman College</EmployerOrgName>
+<PositionHistory>
+<Title>Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1968-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1973-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1974-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Center Doctoral Faculty</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1966-01-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Computer Science</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Center Doctoral Faculty</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Visiting Positions
+</Description>
+<StartDate>
+<AnyDate>1987-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of California</EmployerOrgName>
+<PositionHistory>
+<Title>Berkeley Visiting Associate Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Institute for Advanced Study Visiting Member Berkeley Visiting Associate Professor
+</Description>
+<StartDate>
+<AnyDate>1964-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1965-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Mathematisches Instit ï¿½t Universit ï¿½t Bonn
+</Description>
+<StartDate>
+<AnyDate>1971-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1971-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Visiting Member</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>* Columbia University Visiting Professor
+</Description>
+<StartDate>
+<AnyDate>1973-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1974-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Instituto de Matematica Pura y Aplicada</EmployerOrgName>
+<PositionHistory>
+<Title>Research Associate</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>US</CountryCode>
+<Region>Brazil</Region>
+<Municipality>Rio de Janeiro</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>C.N.Pq.
+</Description>
+<StartDate>
+<AnyDate>1980-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1981-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Mathematical Sciences Research Institute</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Berkeley</Municipality>
+</PositionLocation>
+</OrgInfo>
+<Description>* Member
+</Description>
+<StartDate>
+<AnyDate>1985-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1985-10-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Boston University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1986-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>IBM</EmployerOrgName>
+<PositionHistory>
+<Title>Research Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1987-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-01-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Max Planck Instit ï¿½t Member
+</Description>
+<StartDate>
+<AnyDate>1993-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Princeton University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>u
+</Description>
+<StartDate>
+<AnyDate>1988-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Danish Technical University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1990-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>M. I. T.</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Lecturer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1991-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fudan University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1991-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>SUNY Stonybrook</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Professor</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Warwick University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>1988,1990,1992,1993,1996,1997
+</Description>
+<StartDate>
+<AnyDate>2001-05-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Polish Academy of Sciences</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2000-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Morningside Institute</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-03-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-03-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fields Institute</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Canada</Region>
+<Municipality>Toronto</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2006-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2006-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Morningside Institute</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2007-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2007-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Fudan University</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Shanghai</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2008-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2008-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Massey University, NZ</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-02-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Morningside Institute</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scientist</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>scientific</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2010-04-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-04-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Lehman College and</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Center City University of New York</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<PostalCode>10468</PostalCode>
+<Region>New York</Region>
+<Municipality>Bronx</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>The City College of New York</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+<DegreeDate>
+<AnyDate>1960-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>New York University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.S</DegreeName>
+<DegreeDate>
+<AnyDate>1962-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>New York University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1964-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Center City University of New York</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeDate>
+<AnyDate>2012-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Program Executive Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1983-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Coordinator Mathematics Colloquium</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1984-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Computer Policy</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1986-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Requirements Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Faculty Advisory Committee</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1985-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>President&apos;s Cabinet</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>1989-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Committees</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Non-campus based City University of New York</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Advisory Committee to the Research Foundation 2004-8</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Center for Mathematics</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2002-04-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Recent Invited Addresses and Conferences</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Newton Institute</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>UK</Region>
+<Municipality>Cambridge</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Kleinian Groups</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>St Thomas Univ.</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Math Camp for Girls</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>USC</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>CA</Region>
+<Municipality>Los Angeles</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Topology and Teichm ï¿½ller theory</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Swedish Royal Academy of Sciences Kovalevsky Days</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2007-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Speaker</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>CUNY Center</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2010-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Fred Gardiner&apos;s 70th Birthday</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>City College of New York</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2011-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Pucon, Chile</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Dynamics Seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>CUNY</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>England</Region>
+<Municipality>Warwick</Municipality>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Caroline Series</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>honor</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+<Comments>Fall Semester in Complex Dynamics, Morningside Center for Mathematics</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Recent Colloquium and Seminar Talks</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>China</Region>
+<Municipality>Beijing</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Polish Technical University Colloquium Polish Institute of Mathematics Dynamical systems seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>SUNY Stonybrook Complex Analysis seminar Polish Institute of Mathematics Dynamical systems seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>SUNY Stonybrook Dynamical Systems seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Osaka City University Colloquium SUNY Stonybrook Dynamical Systems seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>USC Colloquium USC Topology Seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>SUNY Stonybrook Dynamical Systems seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ of North Carolina Colloquium SUNY Stonybrook Dynamical Systems seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ of Toronto Dynamical Systems seminar Boston University Dynamical Systems seminar</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>St. John&apos;s University Colloquium</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Morningside Institute Beijing Dynamics Colloquium Bronx Community College Colloquium</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Salamanca University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Colloquium</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Dynamics Seminar</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Spain</Region>
+<Municipality>Salamanca</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ. of Barcelona</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>Spain</Region>
+<Municipality>Barcelona</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Morningside Institute Beijing Dynamics Colloquium</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>City University of Hong Kong Colloquium</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Michigan Colloquium</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<Region>MI</Region>
+<Municipality>Ann Arbor</Municipality>
+</PostalAddress>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>of Linda Keen 1</Title>
+<Name role="author">
+<FormattedName>Canonical Polygons</FormattedName>
+</Name>
+<JournalOrSerialName>for Finitely Generated Fuchsian Groups</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Geometric Moduli on Riemann Surfaces</Title>
+<PublicationDate>
+<StringDate>1966</StringDate>
+</PublicationDate>
+<JournalOrSerialName>in Proc</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Mappings</Title>
+<Name role="author">
+<FormattedName>Tulane</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>1965</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Intrinsic Moduli on Riemann Surfaces</JournalOrSerialName>
+</Article>
+<Article>
+<Title>on a Torus</Title>
+<Name role="author">
+<FormattedName>An Extremal Length</FormattedName>
+</Name>
+<JournalOrSerialName>Journal d&apos;Analyse Mathematique XIX 5</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Groups</Title>
+<Name role="author">
+<FormattedName>On Inï¬nitely Generated Fuchsian</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of the Indian Math</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Correction to &quot;On Fricke Moduli &quot; Proc</Title>
+<PublicationDate>
+<StringDate>July 1973</StringDate>
+</PublicationDate>
+<JournalOrSerialName>A.M.S</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Collars on Riemann Surfaces Proc</Title>
+<JournalOrSerialName>Conf</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Chaos and Fractals: The Mathematics Behind the Computer Graphics Proc</Title>
+<JournalOrSerialName>of Sonya Kovalevskaya Proceedings of a Symposium held at Radcliï¬e College and</JournalOrSerialName>
+<Volume>3</Volume>
+</Article>
+<Article>
+<Title>posia in Appl</Title>
+</Article>
+<Article>
+<Title>Lipa&apos;s Legacy</Title>
+<Name role="author">
+<FormattedName>J. Dodziuk, L. Keen, Con- temp</FormattedName>
+</Name>
+<JournalOrSerialName>Proceedings of the Bers Colloquium Ed</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Complex Dynamics</Title>
+<Volume>25</Volume>
+</Article>
+<Article>
+<Title>396 Amer</Title>
+<Name role="author">
+<FormattedName>Devaney, L. Keen, Contemp. Math</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Hyperbolic Geometry from a Local Viewpoint with N. Lakic</Title>
+<Name role="author">
+<FormattedName>Cambridge</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Univ. Press</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Historical Articles</Title>
+<JournalOrSerialName>Special Volume of Journal of Diï¬erence Equations and Applications in honor of Robert Devaney</JournalOrSerialName>
+</Article>
+<Article>
+<Title>On the Life and Work of Sonya Kowaleskaya</Title>
+<Name role="author">
+<FormattedName>AWM Newsletter</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>March 1977</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Reprinted in Complexities: Women in Mathematics p.52-53 Eds</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Ph.D</Title>
+<JournalOrSerialName>A.M. Leggett, Princeton Univ. Press</JournalOrSerialName>
+<Volume>1993</Volume>
+</Article>
+<Article>
+<Title>Yung-yen Chiang - Pleating Coordinates for the Teichm ï¿½ller space of a ï¬ve times u punctured sphere * Dragomir Saric - Complex Earthquakes are holomorphic * Reza Chamanara - Automorphism of ï¬at structures in Teichm ï¿½ller disks u</Title>
+<Name role="author">
+<FormattedName>Kourosh</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Shenglan Yuan - From the Tangent to the Exponential * Ross Flek - On the Dynamics of Quasi-Self-Matings of Generalized Star-like Quadrat- ics</Title>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>1964-01-01 - 1965-01-01</StringDate></Date>
+<Description>AAUW Postdoctoral Fellowship Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1964-01-01 - 1965-01-01</StringDate></Date>
+<Description>National Science Foundation Postdoctoral Fellow</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1974-01-01</StringDate></Date>
+<Description>AMS Invited hour lecture Wash DC</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1989-01-01</StringDate></Date>
+<Description>MAA Invited hour address Boulder CO</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1989-01-01 - 1990-01-01</StringDate></Date>
+<Description>National Science Foundation Visiting Professorship for Women</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1990-01-01</StringDate></Date>
+<Description>Edwin S. Webster-Abby Rockefeller Mauze Award M.I.T</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1993-01-01 - 1991-01-01</StringDate></Date>
+<Description>Finnish Mathematical Society Invited Foreign Speaker</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1998-01-01</StringDate></Date>
+<Description>Lehman College Foundation Faculty Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1998-01-01</StringDate></Date>
+<Description>Joint Irish and London Mathematical Societies Invited Speaker</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2000-01-01</StringDate></Date>
+<Description>&quot;LindaFest&quot; Conference to celebrate Linda Keen&apos;s 60th Birthday</Description>
+<IssuingAuthority>CUNY</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>2005-01-01</StringDate></Date>
+<Description>Lehman College Fellowship Award</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>Lehman College Award for Excellence in Research and Scholarship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01</StringDate></Date>
+<Description>Swedish Royal Main Speaker</Description>
+<IssuingAuthority>Academy of Sciences Kovalevsky Days</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Description>Honoree at Conference on Conformal Dynamics and Hyperbolic Geometry to Celebrate the Contributions of Linda Keen</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2010-01-01</StringDate></Date>
+<Description>CUNY</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1966-01-01 - 1970-01-01</StringDate></Date>
+<Description>Previous Grants National Science Foundation Research Grants</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1973-01-01 - 1974-01-01</StringDate></Date>
+<Description> 1977 - 80</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>AWM Emmy Noether Lecturer</Name>
+<Role><Name>Lecturer</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>TGluZGEgS2Vlbg0KDQogIExlaG1hbiBDb2xsZWdlIGFuZCBHcmFkdWF0ZSBDZW50ZXIsIENpdHkgVW5pdmVyc2l0eSBvZg0KDQogICAgICAgICAgICAgICAgICAgICAgIE5ldyBZb3JrDQoNCiAgICAgICAgICAgICAgICAgQnJvbngsIE5ldyBZb3JrIDEwNDY4DQoNCg0KDQpFZHVjYXRpb246DQoNCg0KDQogICAgQi5TLiwgVGhlIENpdHkgQ29sbGVnZSBvZiBOZXcgWW9yaywgMTk2MA0KDQogICAgTS5TLiwgTmV3IFlvcmsgVW5pdmVyc2l0eSAxOTYyDQoNCiAgICBQaC5ELiBOZXcgWW9yayBVbml2ZXJzaXR5IDE5NjQNCg0KDQoNClByb2Zlc3Npb25hbCBFeHBlcmllbmNlDQoNCg0KDQogICAgVGhlIENpdHkgVW5pdmVyc2l0eSBvZiBOZXcgWW9yaw0KDQogICAgKiBIdW50ZXIgQ29sbGVnZSwgQXNzaXN0YW50IFByb2Zlc3NvciwgMTk2NS0xOTY3DQoNCiAgICAqIExlaG1hbiBDb2xsZWdlLCBBc3NvY2lhdGUgUHJvZmVzc29yLCAxOTY4LTE5NzMNCg0KICAgICogTGVobWFuIENvbGxlZ2UsIFByb2Zlc3NvciwgMTk3NC1wcmVzZW50DQoNCiAgICAqIEdyYWR1YXRlIENlbnRlciBEb2N0b3JhbCBGYWN1bHR5IGluIE1hdGhlbWF0aWNzLCAxOTY2LXByZXNlbnQNCg0KICAgICogR3JhZHVhdGUgQ2VudGVyIERvY3RvcmFsIEZhY3VsdHkgaW4gQ29tcHV0ZXIgU2NpZW5jZSwgMTk4Ny0xOTkyDQoNCg0KDQogICAgVmlzaXRpbmcgUG9zaXRpb25zDQoNCiAgICAqIEluc3RpdHV0ZSBmb3IgQWR2YW5jZWQgU3R1ZHk6IFZpc2l0aW5nIE1lbWJlciwgMTk2NC0xOTY1DQoNCiAgICAqIFVuaXZlcnNpdHkgb2YgQ2FsaWZvcm5pYSwgQmVya2VsZXkgVmlzaXRpbmcgQXNzb2NpYXRlIFByb2Zlc3NvciwNCg0KICAgICAgICBTZXB0ZW1iZXItRGVjZW1iZXIgMTk3MQ0KDQogICAgKiBVbml2ZXJzaXTCqHQgQm9ubiwgTWF0aGVtYXRpc2NoZXMgSW5zdGl0wqh0LCBWaXNpdGluZyBNZW1iZXIsIDE5NzMtMTk3NA0KDQogICAgICAgICAgICAgICAgYSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdQ0KDQogICAgKiBDb2x1bWJpYSBVbml2ZXJzaXR5LCBWaXNpdGluZyBQcm9mZXNzb3IsIDE5ODAtMTk4MQ0KDQogICAgKiBSZXNlYXJjaCBBc3NvY2lhdGUsIEluc3RpdHV0byBkZSBNYXRlbWF0aWNhIFB1cmEgeSBBcGxpY2FkYSwgQy5OLlBxLiwNCg0KICAgICAgICBSaW8gZGUgSmFuZWlybywgQnJhemlsLCBBdWd1c3QtT2N0b2JlciAxOTg1LA0KDQogICAgKiBNZW1iZXIsIE1hdGhlbWF0aWNhbCBTY2llbmNlcyBSZXNlYXJjaCBJbnN0aXR1dGUsIEJlcmtlbGV5LCBNYXJjaCAxOTg2LA0KDQogICAgICAgIFNlcHQgMTk5MiwgSmFuIDE5OTUNCg0KICAgICogQm9zdG9uIFVuaXZlcnNpdHksIFZpc2l0aW5nIFByb2Zlc3NvciwgU2VwdGVtYmVyIDE5ODctSmFudWFyeSAxOTg4DQoNCiAgICAqIElCTSBSZXNlYXJjaCBWaXNpdGluZyBTY2llbnRpc3QsIEphbi1EZWMgMTk4OCwgQXVnLURlYyAxOTkzDQoNCiAgICAqIE1heCBQbGFuY2sgSW5zdGl0wqh0LCBNZW1iZXIsIE1heS1KdW5lIDE5ODgNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICB1DQoNCiAgICAqIFZpc2l0aW5nIFByb2Zlc3NvciwgUHJpbmNldG9uIFVuaXZlcnNpdHksIFNlcHRlbWJlciAxOTg5LUp1bmUgMTk5MA0KDQogICAgKiBWaXNpdGluZyBQcm9mZXNzb3IsIERhbmlzaCBUZWNobmljYWwgVW5pdmVyc2l0eSwgSnVuZSAxOTkwDQoNCiAgICAqIFZpc2l0aW5nIExlY3R1cmVyLCBNLiBJLiBULiwgQXByaWwgMTk5MQ0KDQogICAgKiBWaXNpdGluZyBQcm9mZXNzb3IsIEZ1ZGFuIFVuaXZlcnNpdHksIE1heSwgMTk5MQ0KDQogICAgKiBWaXNpdGluZyBQcm9mZXNzb3IsIFNVTlkgU3Rvbnlicm9vaywgU3ByaW5nIDE5OTMNCg0KICAgICogVmlzaXRpbmcgU2NpZW50aXN0LCBXYXJ3aWNrIFVuaXZlcnNpdHksIDE5ODgsMTk5MCwxOTkyLDE5OTMsMTk5NiwxOTk3DQoNCiAgICAqIFZpc2l0aW5nIFNjaWVudGlzdCwgUG9saXNoIEFjYWRlbXkgb2YgU2NpZW5jZXMsIE1hcmNoIDIwMDAsIE1heSAyMDAxDQoNCiAgICAqIFZpc2l0aW5nIFNjaWVudGlzdCwgTW9ybmluZ3NpZGUgSW5zdGl0dXRlLCBCZWlqaW5nLCBDaGluYSwgTWFyY2ggMjAwMg0KDQogICAgKiBWaXNpdGluZyBTY2llbnRpc3QsIEZpZWxkcyBJbnN0aXR1dGUsIFRvcm9udG8sIENhbmFkYSwgRmVicnVyYXJ5IDIwMDYNCg0KICAgICogVmlzaXRpbmcgU2NpZW50aXN0LCBNb3JuaW5nc2lkZSBJbnN0aXR1dGUsIEJlaWppbmcsIENoaW5hLCBBcHJpbCAyMDA3DQoNCiAgICAqIFZpc2l0aW5nIFNjaWVudGlzdCwgRnVkYW4gVW5pdmVyc2l0eSwgU2hhbmdoYWkgQ2hpbmEsIEFwcmlsIDIwMDgNCg0KKiBWaXNpdGluZyBTY2llbnRpc3QsIE1hc3NleSBVbml2ZXJzaXR5LCBOWiwgRmViIDIwMTANCg0KKiBWaXNpdGluZyBTY2llbnRpc3QsIE1vcm5pbmdzaWRlIEluc3RpdHV0ZSwgQmVpamluZywgQ2hpbmEsIEFwcmlsIDIwMTANCg0KSG9ub3JzIGFuZCBBd2FyZHM6DQoNCiAgICBBQVVXIFBvc3Rkb2N0b3JhbCBGZWxsb3dzaGlwIEF3YXJkLCAxOTY0LTY1DQoNCiAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gUG9zdGRvY3RvcmFsIEZlbGxvdywgMTk2NC02NQ0KDQogICAgQU1TIEludml0ZWQgaG91ciBsZWN0dXJlLCBXYXNoIERDLCAxOTc0DQoNCiAgICBNQUEgSW52aXRlZCBob3VyIGFkZHJlc3MsIEJvdWxkZXIgQ08sIDE5ODkNCg0KICAgIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiBWaXNpdGluZyBQcm9mZXNzb3JzaGlwIGZvciBXb21lbiAxOTg5LTkwDQoNCiAgICBFZHdpbiBTLiBXZWJzdGVyLUFiYnkgUm9ja2VmZWxsZXIgTWF1emUgQXdhcmQsIE0uSS5ULiAxOTkwDQoNCiAgICBBV00gRW1teSBOb2V0aGVyIExlY3R1cmVyLCAxOTkzDQoNCiAgICBGaW5uaXNoIE1hdGhlbWF0aWNhbCBTb2NpZXR5IEludml0ZWQgRm9yZWlnbiBTcGVha2VyLCBKYW4gMTk5MQ0KDQogICAgTGVobWFuIENvbGxlZ2UgRm91bmRhdGlvbiBGYWN1bHR5IEF3YXJkLCAxOTk4DQoNCiAgICBKb2ludCBJcmlzaCBhbmQgTG9uZG9uIE1hdGhlbWF0aWNhbCBTb2NpZXRpZXMgSW52aXRlZCBTcGVha2VyLCAxOTk4DQoNCiAgICAiTGluZGFGZXN0IiBDb25mZXJlbmNlIHRvIGNlbGVicmF0ZSBMaW5kYSBLZWVuJ3MgNjB0aCBCaXJ0aGRheSwgQ1VOWSwgMjAwMA0KDQogICAgTGVobWFuIENvbGxlZ2UgRmVsbG93c2hpcCBBd2FyZCwgMjAwNQ0KDQogICAgTGVobWFuIENvbGxlZ2UgQXdhcmQgZm9yIEV4Y2VsbGVuY2UgaW4gUmVzZWFyY2ggYW5kIFNjaG9sYXJzaGlwIDIwMDYNCg0KICAgIFN3ZWRpc2ggUm95YWwgQWNhZGVteSBvZiBTY2llbmNlcyBLb3ZhbGV2c2t5IERheXMNCg0KICAgICAgICBNYWluIFNwZWFrZXIsIDIwMDYNCg0KICAgIEhvbm9yZWUgYXQgQ29uZmVyZW5jZSBvbiBDb25mb3JtYWwgRHluYW1pY3MgYW5kIEh5cGVyYm9saWMgR2VvbWV0cnkgdG8NCg0KICAgICAgICBDZWxlYnJhdGUgdGhlIENvbnRyaWJ1dGlvbnMgb2YgTGluZGEgS2VlbiwgQ1VOWSwgMjAxMA0KDQoNCg0KUHJldmlvdXMgR3JhbnRzOg0KDQogICAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uICAgUmVzZWFyY2ggR3JhbnRzOiAxOTY2LTcwOyAxOTczLTc0OyAxOTc3LTgwOw0KDQogICAgICAgIDE5ODUtOTUsMTk5Ni05OQ0KDQogICAgQ2l0eSBVbml2ZXJzaXR5IG9mIE5ldyBZb3JrICAgRmFjdWx0eSBSZXNlYXJjaCBBd2FyZHM6IDE5NzEtNzI7IDE5NzctODM7DQoNCiAgICAgICAgMTk4NS04NiwgMTk5My0yMDAzDQoNCiAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gICBHcmFudCBmb3IgQmVycyBDb2xsb3F1aXVtLCAxOTk1DQoNCiAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gICAtIE5ldyBZb3JrIENpdHkgUmVzZWFyY2ggUHJvamVjdA0KDQogICAgICAgIENvbnN1bHRhbnQsIDE5ODgtOTENCg0KICAgIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiAgIEFXTSBHcmFudCAxOTg1LTg2DQoNCiAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gICBTQ1JFTVMgR3JhbnQgMTk4My04NQ0KDQpSZWNlbnQgYW5kIEN1cnJlbnQgR3JhbnRzOg0KDQogICAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIEF3YXJkIGZvciBWIEliZXJvLUFtZXJpY2FuIENvbmZlcmVuY2Ugb24NCg0KICAgICAgIEdlb21ldHJ5IDIwMTAtMTENCg0KICAgIFBTQy1DVU5ZIFJlc2VhcmNoIEF3YXJkIDIwMDMtMTENCg0KICAgIE5hdGlvbmFsIFNjaWVuY2UgRm91bmRhdGlvbiBTVEVNIExlaG1hbiBDb2xsZWdlIE1lbnRvcmluZw0KDQogICAgICAgYW5kIFNjaG9sYXJzaGlwIFByb2dyYW0gQXdhcmQgMjAwNy0xMQ0KDQogICAgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIEF3YXJkIGZvciBDb25mZXJlbmNlIG9uIER5bmFtaWNzIGFuZCBUb3BvbG9neQ0KDQogICAgICAgMjAwNy04DQoNCiAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gQ1NNRVMgTGVobWFuIENvbGxlZ2UgTWVudG9yaW5nDQoNCiAgICAgICBhbmQgU2Nob2xhcnNoaXAgUHJvZ3JhbSBBd2FyZCAyMDAxLTA3DQoNCiAgICBOYXRpb25hbCBTY2llbmNlIEZvdW5kYXRpb24gQXdhcmQgZm9yIHRoZSBTbm93YmlyZCBDb25mZXJlbmNlIG9uDQoNCiAgICAgICAyNSB5ZWFycyBvZiBDb21wbGV4IER5bmFtaWNzIDIwMDQNCg0KICAgIElCTS1MZWhtYW4gQ29sbGVnZSBJbnRlcm5zaGlwIFByb2dyYW0gMTk5OS0NCg0KUHJvZmVzc2lvbmFsIFNlcnZpY2U6IEVkaXRvcmlhbA0KDQogICAgIEZvdW5kaW5nIGFuZCBNYW5hZ2luZyBFZGl0b3IsIEFNUyBFbGVjdHJvbmljIEpvdXJuYWwgb2YgQ29uZm9ybWFsDQoNCiAgICAgICAgICAgIEdlb21ldHJ5IGFuZCBEeW5hbWljcywgMTk5Ny0yMDA1LCBFZGl0b3JpYWwgQm9hcmQgMjAwNS03DQoNCiAgICAgTWVtYmVyIEVkaXRvcmlhbCBCb2FyZCwgQW5uYWxlcyBvZiBGaW5uaXNoIEFjYWRlbXkgb2YgU2NpZW5jZSAxOTk2LQ0KDQogICAgIENvb3JkaW5hdGluZyBFZGl0b3IsIFByb2MuIEFNUyAxOTkzLTIwMDYNCg0KICAgICBNZW1iZXIgRWRpdG9yaWFsIEJvYXJkLCBKb3VybmFsIG9mIEdlb21ldHJpYyBBbmFseXNpcywgMTk5MS0yMDAxDQoNCiAgICAgQ29udHJpYnV0aW5nIEVkaXRvciwgTWF0aC4gSW50ZWxsaWdlbmNlciwgMTk5MC0NCg0KICAgICBNZW1iZXIgRWRpdG9yaWFsIEJvYXJkLCBVTUUgVHJlbmRzLCAxOTg5LTkxDQoNCg0KDQoNCg0KUHJvZmVzc2lvbmFsIFNlcnZpY2U6IEFkbWluaXN0cmF0aXZlDQoNCiAgICAgQW1lcmljYW4gTWF0aGVtYXRpY2FsIFNvY2lldHkNCg0KICAgICBFbGVjdGVkIE1lbWJlciBhdCBMYXJnZSBvZiB0aGUgQ291bmNpbCAxOTgxLTgzDQoNCiAgICAgRWxlY3RlZCB0byBOb21pbmF0aW5nIENvbW1pdHRlZSAxOTgzLTg0LCBDaGFpciAxOTg0DQoNCiAgICAgTWVtYmVyIENvbW1pdHRlZSBvbiBQcm9mZXNzaW9uYWwgRXRoaWNzIDE5ODYtODksIENoYWlyIDE5ODgtODkNCg0KICAgICBNZW1iZXIgQ29tbWl0dGVlIHRvIHNlbGVjdCBzcGVha2VycyBmb3IgTmF0aW9uYWwgTWVldGluZ3MgMTk4OC05MA0KDQogICAgIENoYWlyLCBwYW5lbCB0byBzZWxlY3Qgc3BlYWtlcnMgZm9yIEpvaW50IEFNUy1NQUEgbWVldGluZ3MsIDE5ODgNCg0KICAgICBFbGVjdGVkIHRvIEVkaXRvcmlhbCBCb2FyZHMgQ29tbWl0dGVlIDE5ODktMTk5MiwgQ2hhaXIgMTk5MQ0KDQogICAgIENoYWlyLCBTYXR0ZXIgUHJpemUgQ29tbWl0dGVlIDE5OTANCg0KICAgICBFbGVjdGVkIFZpY2UgUHJlc2lkZW50LCAxOTkyLTk1DQoNCiAgICAgTWVtYmVyIEpvaW50IFBvbGljeSBCb2FyZCBvbiBNYXRoZW1hdGljcyAxOTkyLTk1DQoNCiAgICAgTWVtYmVyIFNjaWVuY2UgUG9saWN5IENvbW1pdHRlZSAxOTkyLTk1DQoNCiAgICAgTWVtYmVyIE1lZXRpbmdzIFBvbGljeSBDb21taXR0ZWUgMTk5Mi05Ng0KDQogICAgIE1lbWJlciBBZCBIb2MgQ29tbWl0dGVlIG9uIEdvdmVybmFuY2UsIDE5OTQNCg0KICAgICBNZW1iZXIgQ29tbWl0dGVlIHRvIGRyYWZ0IGEgRmVkZXJhbCBTY2llbmNlIFBvbGljeSBTdGF0ZW1lbnQsIDE5OTQtOTUNCg0KICAgICBDaGFpciwgQ29tbWl0dGVlIHRvIHdyaXRlIEV0aGljYWwgR3VpZGVsaW5lcyBhbmQgUHJvY2VkdXJlcyBmb3IgdGhlIENvbW1pdC0NCg0KICAgICB0ZWUgb24gUHJvZmVzc2lvbmFsIEV0aGljcywgMTk5Mi05Ng0KDQogICAgIEVsZWN0ZWQgbWVtYmVyIEJvYXJkIG9mIFRydXN0ZWVzLCAxOTk5LTIwMDkNCg0KICAgICAgICAgQ2hhaXIsIEJvYXJkIG9mIFRydXN0ZWVzLCAyMDAzLCAyMDA3DQoNCiAgICAgRWxlY3RlZCBOb21pbmF0aW5nIENvbW1pdHRlZSwgMjAwNS03LCBDaGFpciAyMDA2DQoNCiAgICAgQm9hcmQgb2YgTWF0aCBSZXZpZXdzIDE5OTktMjAwOSwgUHJlc2lkZW50IDIwMDMsIDIwMDgNCg0KICAgICBFbGVjdGVkIEFzc29jaWF0ZSBUcmVhc3VyZXIgMjAwOS0yMDExDQoNCiAgICAgQXNzb2NpYXRpb24gZm9yIFdvbWVuIGluIE1hdGhlbWF0aWNzDQoNCiAgICAgRWxlY3RlZCBNZW1iZXIgb2YgQ291bmNpbCAxOTc4LTgxDQoNCiAgICAgUHJlc2lkZW50IDE5ODUtODYNCg0KICAgICBMb25nIFJhbmdlIFBsYW5uaW5nIENvbW1pdHRlZSAxOTkyLTkzDQoNCiAgICAgTm9taW5hdGluZyBDb21taXR0ZWUgMTk5Mw0KDQogICAgIENoYWlyLCBMb3Vpc2UgSGF5IFByaXplIENvbW1pdHRlZSAxOTk3DQoNCiAgICAgVHJhdmVsIGdyYW50cyBjb21taXR0ZWUsIDE5OTktMjAwMQ0KDQogICAgIENvbmZlcmVuY2UgQm9hcmQgb2YgdGhlIE1hdGhlbWF0aWNhbCBTY2llbmNlcw0KDQogICAgIEVsZWN0ZWQgTWVtYmVyIG9mIEV4ZWN1dGl2ZSBDb21taXR0ZWUgMTk4NC04Ng0KDQogICAgIE1hdGhlbWF0aWNzIEFzc29jaWF0aW9uIG9mIEFtZXJpY2ENCg0KICAgICBNZXJ0ZW4gSGFzc2UgUHJpemUgQ29tbWl0dGVlIDE5OTAtOTINCg0KTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uDQoNCk1lbWJlciBQYW5lbCB0byBzZWxlY3QgTlNGIFBvc3Rkb2N0b3JhbCBGZWxsb3dzLCAxOTgxLTgzDQoNCiAgQ2hhaXIgT3ZlcnNpZ2h0IENvbW1pdHRlZSwgMTk4Mw0KDQpNZW1iZXIgUGFuZWwgdG8gZXZhbHVhdGUgTlNGIFNDUkVNUyBwcm9wb3NhbHMsIDE5ODQtODUNCg0KTWVtYmVyIFBhbmVsIHRvIHNlbGVjdCBOU0YgR3JhZHVhdGUgUmVzZWFyY2ggRmVsbG93cywgMTk5MS05Mw0KDQpNZW1iZXIgUGFuZWwgdG8gc2VsZWN0IE5TRiBSZXNlYXJjaCBUcmFpbmluZyBHcmFudCBBd2FyZGVlcyAyMDAzDQoNCk1lbWJlciBQYW5lbCB0byBzZWxlY3QgTlNGIFJlc2VhcmNoIEdyYW50IEF3YXJkZWVzIDIwMDcNCg0KTWVtYmVyIFBhbmVsIHRvIHNlbGVjdCBOU0YgUmVzZWFyY2ggR3JhbnQgQXdhcmRlZXMgMjAxMQ0KDQpOYXRpb25hbCBSZXNlYXJjaCBDb3VuY2lsDQoNCk1lbWJlciBVLiBTLiBOYXRpb25hbCBDb21taXR0ZWUgZm9yIE1hdGhlbWF0aWNzIDE5OTAtOTMNCg0KICAgIENoYWlyLCAxOTkxLTkzDQoNClUuIFMuIERlbGVnYXRlIHRvIEludGVybmF0aW9uYWwgTWF0aGVtYXRpY2FsIFVuaW9uIDE5OTANCg0KT3RoZXINCg0KTWVtYmVyIFN0ZWVyaW5nIENvbW1pdHRlZSwgSW50ZXJuYXRpb25hbCBDb25ncmVzcyBvZiBNYXRoZW1hdGljaWFucyAxOTg2DQoNCkNoYXJ0ZXIgTWVtYmVyLCBNYXlvcidzIENvbW1pc3Npb24gZm9yIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kgb2YgdGhlDQoNCiAgICBDaXR5IG9mIE5ldyBZb3JrIDE5ODQtMTk4NQ0KDQpNZW1iZXIgUGFuZWwgdG8gc2VsZWN0IE5BVE8gUG9zdGRvY3RvcmFsIEZlbGxvd3MgMTk4Mg0KDQpNZW1iZXIgUGFuZWwgdG8gZXZhbHVhdGUgTWF0aGVtYXRpY3MgRGVwYXJ0bWVudCwgU1VOWSBQb3RzZGFtLCAxOTc5DQoNCk1lbWJlciBQYW5lbCB0byBldmFsdWF0ZSBNYXRoZW1hdGljcyBEZXB0LCBSdXRnZXJzLCBOZXdhcmssIE1hcmNoIDE5ODgNCg0KTWVtYmVyIFBhbmVsIHRvIHJldmlldyBtaW5vcml0eSBwcm9ncmFtIGF0IFVuaXYgTWlubiBBcHJpbCAxOTg4DQoNCkV4dGVybmFsIFJldmlldyBDb21taXR0ZSBmb3IgTWF0aGVtYXRpY3MsIFNVTlkgV2VzdGJ1cnksIEFwcmlsIDIwMDcNCg0KRXh0ZXJuYWwgUmV2aWV3IFZpc2l0b3IgZm9yIE1hdGggRGVwYXJ0bWVudCwgTkpDVSwgT2N0LiAyMDA4DQoNCkJvYXJkIG9mIFRydXN0ZWVzLCBJbnN0LiBmb3IgUHVyZSBhbmQgQXBwbGllZCBNYXRoZW1hdGljcywgVUNMQSAyMDA2LTIwMDkNCg0KQm9hcmQgb2YgVHJ1c3RlZXMsIElDTS04NiAoSW50J2wgQ29uZ3Jlc3Mgb2YgTWF0aGVtYXRpY2lhbnMpIDIwMDMtMjAxMw0KDQpTY2llbmNlIEFkdmlzb3J5IEJvYXJkLCBNYXRoLiBTY2llbmNlcyBSZXNlYXJjaCBJbnN0aXR1dGUsIDIwMDktMjAxMg0KDQpVbml2ZXJzaXR5IFNlcnZpY2U6IHNlbGVjdGVkDQoNCg0KDQogICAgIExlaG1hbiBDb2xsZWdlLCBDaXR5IFVuaXZlcnNpdHkgb2YgTmV3IFlvcmsNCg0KICAgICBEZXBhcnRtZW50YWwgUGVyc29ubmVsIGFuZCBCdWRnZXQgQ29tbWl0dGVlIDE5ODItODksOTYtMDUsMjAwNy0xMA0KDQogICAgIFBTQy1DVU5ZIEdyYW50cyBNYXRoZW1hdGljcyBQYW5lbCAxOTgxLTg0LDIwMDAtMDQNCg0KICAgICBEZXBhcnRtZW50YWwgRWR1Y2F0aW9uYWwgUG9saWN5IENvbW1pdHRlZSAxOTk2LTAyDQoNCiAgICAgQ2hhaXIsIFNlYXJjaCBDb21taXR0ZWUgZm9yIENoaWVmIExpYnJhcmlhbiwgMTk5OS0wMA0KDQogICAgIENoYWlyLCBTZWFyY2ggQ29tbWl0dGVlIGZvciBEZWFuIG9mIE5hdHVyYWwgYW5kIFNvY2lhbCBTY2llbmNlLCAxOTk1LTk2DQoNCiAgICAgQ28tQ2hhaXIsIExvbmcgUmFuZ2UgUGxhbm5pbmcgQ29tbWl0dGVlIDE5OTEtOTINCg0KICAgICBBY3RpbmcgQXNzb2NpYXRlIFByb3Zvc3QsIEphbnVhcnkgMTk4Ny1KdW5lIDg3DQoNCiAgICAgQ29vcmRpbmF0b3IgTWF0aGVtYXRpY3MgQ29sbG9xdWl1bSwgTGVobWFuIENvbGxlZ2UsIDE5ODItODcNCg0KICAgICBEZXB1dHkgQ2hhaXJtYW4gRGVwYXJ0bWVudCBvZiBNYXRoZW1hdGljcyBhbmQgQ29tcHV0ZXIgU2NpZW5jZSwgMTk4Mi04Ng0KDQogICAgIFBTQy1DVU5ZIEZSQVAgQXdhcmQgSW50ZXJkaXNjaXBsaW5hcnkgUGFuZWwsIDE5ODUtODYNCg0KICAgICBDb2xsZWdlIENvbW1pdHRlZSBvbiB0aGUgQnVkZ2V0IDE5ODItODUNCg0KICAgICBTZWFyY2ggQ29tbWl0dGVlIGZvciBDb2xsZWdlIExpYnJhcmlhbiwgMTk4My04NA0KDQogICAgIEdyYWR1YXRlIENlbnRlciwgQ2l0eSBVbml2ZXJzaXR5IG9mIE5ldyBZb3JrDQoNCiAgICAgTWF0aGVtYXRpY3MgUHJvZ3JhbSBFeGVjdXRpdmUgQ29tbWl0dGVlLCAxOTk3LTIwMTINCg0KICAgICBEb2N0b3JhbCBGYWN1bHR5IFBvbGljeSBDb21taXR0ZWUsIDIwMDAtMjAwMg0KDQogICAgIFByb3Zvc3QncyBBZHZpc29yeSBDb21taXR0ZWUsIDIwMDAtMjAwMw0KDQogICAgIENvb3JkaW5hdG9yIE1hdGhlbWF0aWNzIENvbGxvcXVpdW0gR3JhZHVhdGUgQ2VudGVyIDE5ODItODMNCg0KICAgICBDb21taXR0ZWUgb24gQ29tcHV0ZXIgUG9saWN5LCBHcmFkdWF0ZSBDZW50ZXIgMTk3OC04NA0KDQogICAgIEN1cnJpY3VsdW0gYW5kIERlZ3JlZSBSZXF1aXJlbWVudHMgQ29tbWl0dGVlIEdyYWR1YXRlIENlbnRlciAxOTg0LTg2DQoNCiAgICAgUHJlc2lkZW50J3MgRmFjdWx0eSBBZHZpc29yeSBDb21taXR0ZWUsIEdyYWR1YXRlIENlbnRlciAxOTgzLTg1DQoNCiAgICAgUHJlc2lkZW50J3MgQ2FiaW5ldCwgR3JhZHVhdGUgQ2VudGVyLCAxOTg0LTg1DQoNCiAgICAgQ29tbWl0dGVlIG9uIENvbW1pdHRlZXMsIEdyYWR1YXRlIENlbnRlciwgMTk4OC04OQ0KDQogICAgIE5vbi1jYW1wdXMgYmFzZWQgQ2l0eSBVbml2ZXJzaXR5IG9mIE5ldyBZb3JrDQoNCiAgICAgRmFjdWx0eSBBZHZpc29yeSBDb21taXR0ZWUgdG8gdGhlIFJlc2VhcmNoIEZvdW5kYXRpb24gMjAwNC04DQoNCiAgICAgQWQgaG9jIGNvbW1pdHRlZXMgdG8gc2V0dGxlIGZhY3VsdHkgZ3JpZXZhbmNlcyBiYXNlZCBvbiBhcmJpdHJhdGlvbiwNCg0KICAgICAgICAxOTk4LCAyMDAyIGFuZCAyMDA1DQoNCiAgICAgTWF0aGVtYXRpY3MgTGlhc29uIHRvIFVuaXZlcnNpdHkgQ29tbWl0dGVlIG9uIFJlc2VhcmNoLCAxOTg2LTg5LA0KDQogICAgIEV4ZWN1dGl2ZSBDb21taXR0ZWUsIFVuaXZlcnNpdHkgQ29tbWl0dGVlIG9uIFJlc2VhcmNoLCAxOTg4DQoNClNlbGVjdGVkIFJlY2VudCBJbnZpdGVkIEFkZHJlc3NlcyBhbmQgQ29uZmVyZW5jZXM6DQoNCiAgICAyMDAyDQoNCiAgICAgICBTcHJpbmcgU2VtZXN0ZXIgaW4gQ29tcGxleCBEeW5hbWljcywgTW9ybmluZ3NpZGUNCg0KICAgICAgICAgICBDZW50ZXIgZm9yIE1hdGhlbWF0aWNzIEJlaWppbmcsIENoaW5hDQoNCiAgICAyMDAzDQoNCiAgICAgICBBTVMgc3BlY2lhbCBzZXNzaW9uIG9uIENvbXBsZXggRHluYW1pY3MsIEJsb29taW5ndG9uLCBJbmQNCg0KICAgICAgIFdvcmtzaG9wIG9uIER5bmFtaWNhbCBTeXN0ZW1zLCBEZW50b24gVFgNCg0KICAgICAgIFdvcmtzaG9wIG9uIEtsZWluaWFuIEdyb3VwcywgTmV3dG9uIEluc3RpdHV0ZSwgQ2FtYnJpZGdlLCBVSw0KDQogICAgICAgSW52aXRlZCBzcGVha2VyIGF0IE1hdGggQ2FtcCBmb3IgR2lybHMsIFN0IFRob21hcyBVbml2Lg0KDQogICAgMjAwNA0KDQogICAgICAgQUlNIENvbmZlcmVuY2Ugb24gVGhvbXBzb24ncyBHcm91cCwgUGFsbyBBbHRvLCBDQQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1DQoNCiAgICAgICBBTVMgc3BlY2lhbCBzZXNzaW9uIG9uIFRvcG9sb2d5IGFuZCBUZWljaG3CqGxsZXIgdGhlb3J5LA0KDQogICAgICAgICAgIFVTQywgTG9zIEFuZ2VsZXMgQ0ENCg0KICAgICAgIENvbmZlcmVuY2Ugb24gMjUgeWVhcnMgb2YgQ29tcGxleCBEeW5hbWljcywgUGFyayBDaXR5IFV0YWgNCg0KICAgICAgIFdlc2xleWFuIENvbmZlcmVuY2Ugb24gS2xlaW5pYW4gR3JvdXBzLCBXZXNsZXlhbiBDVA0KDQogICAgICAgV29ya3Nob3Agb24gSG9sb21vcnBoaWMgRHluYW1pY3MsIFdhcndpY2sgRW5nbGFuZA0KDQogICAgMjAwNQ0KDQogICAgICAgQWhsZm9ycy1CZXJzIENvbmZlcmVuY2UsIEFubiBBcmJvciwgTUkNCg0KICAgICAgIENvbmZlcmVuY2Ugb24gSG9sb21vcnBoaWMgRHluYW1pY3MsIEx1bWlueSwgRnJhbmNlDQoNCiAgICAyMDA2DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUNCg0KICAgICAgIENvbmZlcmVuY2Ugb24gVGVpY2htwqhsbGVyIFRoZW9yeSwgQWxsYWhhYmFkIEluZGlhDQoNCiAgICAgICBXb3Jrc2hvcCBvbiBIb2xvbW9ycGhpYyBEeW5hbWljcywgVG9yb250bywgQ2FuYWRhDQoNCiAgICAgICBDb25mZXJlbmNlIG9uIEhvbG9tb3JwaGljIER5bmFtaWNzLCBQYXJpcywgRnJhbmNlDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUNCg0KICAgICAgIE9yZ2FuaXplciBBTVMgU3BlY2lhbCBTZXNzaW9uIG9uIFRlaWNobcKobGxlciBUaGVvcnksIFN0b3JycyBDVA0KDQogICAgICAgTWFpbiBTcGVha2VyLCBTd2VkaXNoIFJveWFsIEFjYWRlbXkgb2YgU2NpZW5jZXMgS292YWxldnNreSBEYXlzDQoNCiAgICAyMDA3DQoNCiAgICAgICBDb25mZXJlbmNlIG9uIEdlb21ldHJ5IG9mIFJpZW1hbm4gU3VyZmFjZXMsIEFub2dpYSwgQ3JldGUNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1DQoNCiAgICAgICBXb3Jrc2hvcCBvbiBUZWljaG3CqGxsZXIgVGhlb3J5LCBNU1JJLCBCZXJrZWxleSwgQ0ENCg0KICAgIDIwMDgNCg0KICAgICAgIFNwZWFrZXIgYW5kIE9yZ2FuaXplciwgQ29uZmVyZW5jZSBvbiBEeW5hbWljcyBhbmQgVG9wb2xvZ3ksDQoNCiAgICAgICAgICAgQmFyY2Vsb25hLCBTcGFpbg0KDQogICAgMjAwOQ0KDQogICAgICAgQU1TIFNwZWNpYWwgU2Vzc2lvbiBvbiBDb21wbGV4IER5bmFtaWNzIGFuZCBDb21wbGV4IEZ1bmN0aW9uIFRoZW9yeSwNCg0KICAgICAgICAgICBXYXNoaW5ndG9uLCBEQw0KDQogICAgICAgQ29uZmVyZW5jZSBpbiBIb25vciBvZiBGcmVkIEdhcmRpbmVyJ3MgNzB0aCBCaXJ0aGRheSwNCg0KICAgICAgICAgICBDVU5ZIEdyYWR1YXRlIENlbnRlcg0KDQogICAgMjAxMA0KDQogICAgICAgQUlNUyBDb25mZXJlbmNlIG9uIER5bmFtaWNzLCBEcmVzZGVuIEdlcm1hbnkNCg0KICAgICAgIENVTlkgQ29tcGxleCBBbmFseXNpcyBTZW1pbmFyDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdQ0KDQogICAgICAgQU1TIFNwZWNpYWwgU2Vzc2lvbiBvbiBUZWljaG3CqGxsZXIgdGhlb3J5IGluIGhvbm9yIG9mIENsae+sgCBFYXJsZQ0KDQogICAgICAgT3JnYW5pemVyLCBWIEliZXJvQW1lcmljYW4gQ29uZ3Jlc3Mgb24gR2VvbWV0cnksDQoNCiAgICAgICAgICAgUHVjb24sIENoaWxlDQoNCiAgICAyMDExDQoNCiAgICAgICBDaXR5IENvbGxlZ2Ugb2YgTmV3IFlvcmssIER5bmFtaWNzIFNlbWluYXINCg0KICAgICAgIENvbXBsZXggQW5hbHlzaXMgU2VtaW5hciwgQ1VOWQ0KDQogICAgICAgT3JnYW5pemVyLCBLbGVpbmlhbiBHcm91cHMsIENvbmZlcmVuY2UgaW4gaG9ub3Igb2YNCg0KICAgICAgICAgICBDYXJvbGluZSBTZXJpZXMsIFdhcndpY2ssIEVuZ2xhbmQNCg0KICAgICAgIEFXTSA0MHRoIEFubml2ZXJzYXJ5IENlbGVicmF0aW9uIENvbmZlcmVuY2UsIFByb3ZpZGVuY2UsIFJJDQoNCiAgICAgICBGYWxsIFNlbWVzdGVyIGluIENvbXBsZXggRHluYW1pY3MsIE1vcm5pbmdzaWRlDQoNCiAgICAgICAgICAgQ2VudGVyIGZvciBNYXRoZW1hdGljcyBCZWlqaW5nLCBDaGluYQ0KDQpTZWxlY3RlZCBSZWNlbnQgQ29sbG9xdWl1bSBhbmQgU2VtaW5hciBUYWxrczoNCg0KDQoNCg0KDQogICAgMjAwMA0KDQogICAgICAgVUNvbm4gQ29tcGxleCBBbmFseXNpcyBzZW1pbmFyDQoNCiAgICAgICBQb2xpc2ggVGVjaG5pY2FsIFVuaXZlcnNpdHkgQ29sbG9xdWl1bQ0KDQogICAgICAgUG9saXNoIEluc3RpdHV0ZSBvZiBNYXRoZW1hdGljcyBEeW5hbWljYWwgc3lzdGVtcyBzZW1pbmFyDQoNCiAgICAgICBDVU5ZIENvbXBsZXggQW5hbHlzaXMgc2VtaW5hcg0KDQogICAgMjAwMQ0KDQogICAgICAgU1VOWSBTdG9ueWJyb29rIENvbXBsZXggQW5hbHlzaXMgc2VtaW5hcg0KDQogICAgICAgUG9saXNoIEluc3RpdHV0ZSBvZiBNYXRoZW1hdGljcyBEeW5hbWljYWwgc3lzdGVtcyBzZW1pbmFyDQoNCiAgICAgICBTVU5ZIFN0b255YnJvb2sgRHluYW1pY2FsIFN5c3RlbXMgc2VtaW5hcg0KDQogICAgMjAwMg0KDQogICAgICAgT3Nha2EgQ2l0eSBVbml2ZXJzaXR5IENvbGxvcXVpdW0NCg0KICAgICAgIFNVTlkgU3Rvbnlicm9vayBEeW5hbWljYWwgU3lzdGVtcyBzZW1pbmFyDQoNCiAgICAgICBVU0MgQ29sbG9xdWl1bQ0KDQogICAgICAgVVNDIFRvcG9sb2d5IFNlbWluYXINCg0KICAgIDIwMDMNCg0KICAgICAgIFNVTlkgU3Rvbnlicm9vayBEeW5hbWljYWwgU3lzdGVtcyBzZW1pbmFyDQoNCiAgICAyMDA0DQoNCiAgICAgICBVbml2IG9mIE5vcnRoIENhcm9saW5hIENvbGxvcXVpdW0NCg0KICAgICAgIFNVTlkgU3Rvbnlicm9vayBEeW5hbWljYWwgU3lzdGVtcyBzZW1pbmFyDQoNCiAgICAyMDA1DQoNCiAgICAgICBVbml2IG9mIFRvcm9udG8gRHluYW1pY2FsIFN5c3RlbXMgc2VtaW5hcg0KDQogICAgICAgQm9zdG9uIFVuaXZlcnNpdHkgRHluYW1pY2FsIFN5c3RlbXMgc2VtaW5hcg0KDQogICAgMjAwNg0KDQogICAgICAgU3QuIEpvaG4ncyBVbml2ZXJzaXR5IENvbGxvcXVpdW0NCg0KICAgIDIwMDcNCg0KICAgICAgIE1vcm5pbmdzaWRlIEluc3RpdHV0ZSBCZWlqaW5nIER5bmFtaWNzIENvbGxvcXVpdW0NCg0KICAgICAgIEJyb254IENvbW11bml0eSBDb2xsZWdlIENvbGxvcXVpdW0NCg0KICAgIDIwMDgNCg0KICAgICAgIENvbXBsZXggQW5hbHlzaXMgU2VtaW5hciwgRnVkYW4gVW5pdmVyc2l0eSwgU2hhbmdoYWksIENoaW5hDQoNCiAgICAgICBDb21wbGV4IEFuYWx5c2lzIFNlbWluYXIsIE5hbmppbmcgVW5pdmVyc2l0eSwgTmFuamluZywgQ2hpbmENCg0KICAgIDIwMDkNCg0KICAgICAgIE1hdGhlbWF0aWNzIENvbGxvcXVpdW0sIFNhbGFtYW5jYSBVbml2ZXJzaXR5LCBTYWxhbWFuY2EsIFNwYWluDQoNCiAgICAgICBEeW5hbWljcyBTZW1pbmFyLCBVbml2LiBvZiBCYXJjZWxvbmEsIEJhcmNlbG9uYSwgU3BhaW4NCg0KICAgIDIwMTANCg0KICAgICAgIE1vcm5pbmdzaWRlIEluc3RpdHV0ZSBCZWlqaW5nIER5bmFtaWNzIENvbGxvcXVpdW0NCg0KICAgICAgIENpdHkgVW5pdmVyc2l0eSBvZiBIb25nIEtvbmcgQ29sbG9xdWl1bQ0KDQogICAgMjAxMQ0KDQogICAgICAgVW5pdmVyc2l0eSBvZiBNaWNoaWdhbiBDb2xsb3F1aXVtLCBBbm4gQXJib3IsIE1JDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgIFB1YmxpY2F0aW9ucyBvZiBMaW5kYSBLZWVuDQoNCg0KDQogMS4gQ2Fub25pY2FsIFBvbHlnb25zIGZvciBGaW5pdGVseSBHZW5lcmF0ZWQgRnVjaHNpYW4gR3JvdXBzLiBBY3RhIE1hdGhlbWF0aWNhIDExNQ0KDQogICAgKDE5NjYpLg0KDQogMi4gR2VvbWV0cmljIE1vZHVsaSBvbiBSaWVtYW5uIFN1cmZhY2VzLiBpbiBQcm9jLiBvZiBDb25mLiBvbiBRdWFzaS0gQ29uZm9ybWFsDQoNCiAgICBNYXBwaW5ncywgVHVsYW5lLCAxOTY1Lg0KDQogMy4gSW50cmluc2ljIE1vZHVsaSBvbiBSaWVtYW5uIFN1cmZhY2VzLiBBbm5hbHMgb2YgTWF0aGVtYXRpY3MgODQgIzMgKDE5NjYpLCA0MDQtDQoNCiAgICA0MjAuDQoNCiA0LiBBbiBFeHRyZW1hbCBMZW5ndGggb24gYSBUb3J1cy4gSm91cm5hbCBkJ0FuYWx5c2UgTWF0aGVtYXRpcXVlIFhJWCAoMTk2NykuDQoNCiA1LiBPbiBGcmlja2UgTW9kdWxpLiBBZHZhbmNlcyBpbiB0aGUgVGhlb3J5IG9mIFJpZW1hbm4gU3VyZmFjZXMsIFByaW5jZXRvbiwgMTk3MS4NCg0KIDYuIE9uIElu76yBbml0ZWx5IEdlbmVyYXRlZCBGdWNoc2lhbiBHcm91cHMuIEpvdXJuYWwgb2YgdGhlIEluZGlhbiBNYXRoLiBTb2MuIDM1ICgxOTcxKS4NCg0KIDcuIENvcnJlY3Rpb24gdG8gIk9uIEZyaWNrZSBNb2R1bGksIiBQcm9jLiBBLk0uUy4gSnVseSAxOTczLg0KDQogOC4gQ29sbGFycyBvbiBSaWVtYW5uIFN1cmZhY2VzLCBQcm9jLiBDb25mLiBvbiBSaWVtYW5uIFN1cmZhY2VzLCBVbml2LiBvZiBNYXJ5bGFuZCwNCg0KICAgIFByaW5jZXRvbiwgMTk3My4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1DQoNCiA5LiBPbiBGdW5kYW1lbnRhbCBEb21haW5zIGFuZCB0aGUgVGVpY2htwqhsbGVyIE1vZHVsYXIgR3JvdXAuIEluIENvbnRyaWJ1dGlvbnMgdG8NCg0KICAgIEFuYWx5c2lzLCBBY2FkZW1pYyBQcmVzcywgMTk3NC4NCg0KMTAuIEEgTW9kdWxhciBHcm91cCBhbmQgUmllbWFubiBTdXJmYWNlcyBvZiBHZW51cyAyLCBNYXRoLiBaZWl0c2NocmlmdCAxNDIgKDE5NzUpLg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUNCg0KMTEuIEEgUm91Z2ggRnVuZGFtZW50YWwgRG9tYWluIGZvciBUZWljaG3CqGxsZXIgU3BhY2VzLCBCdWxsIEEuTS5TLiBOb3ZlbWJlciAxOTc3Lg0KDQoxMi4gT24gSHlwZXJlbGxpcHRpYyBTY2hvdHRreSBHcm91cHMsIEFubmFsZXMgQWNhZGVtaWFlIFNjaWVudGlhcnVtIEZlbm5pY2FlIDUgKDE5ODApLA0KDQogICAgMTY1LTE3NC4NCg0KMTMuIEFjY2Vzc29yeSBQYXJhbWV0ZXJzIGFuZCB0aGUgVW5pZm9ybWl6YXRpb24gb2YgUHVuY3R1cmVkIFRvcmksIFByb2MuIG9mIENvbmYuIG9uDQoNCiAgICBBdXRvbW9ycGhpYyBGb3JtcyBQaXR0c2J1cmdoLCBQZW5uc3lsdmFuaWEsIDE5NzguDQoNCjE0LiAoV2l0aCBILkUuIFJhdWNoIGFuZCBBLlQsIFZhc3F1ZXopIE1vZHVsaSBvZiBQdW5jdHVyZWQgVG9yaSBhbmQgdGhlIEFjY2Vzc29yeQ0KDQogICAgICAgICAgICAgICAgICAgIGUNCg0KICAgIFBhcmFtZXRlciBvZiBMYW0nJ3MgRXF1YXRpb24uIFRyYW5zLiBBLk0uUy4gMjI1IChOb3ZlbWJlciAxOTc5KSwgMjAxLTIzMC4NCg0KICAgICAgICAgIHUNCg0KMTUuIFRlaWNobcKobGxlciBTcGFjZXMgb2YgUHVuY3R1cmVkIFRvcmkgSSwgQ29tcGxleCBBbmFseXNpcywgMTk4My4NCg0KICAgICAgICAgIHUNCg0KMTYuIFRlaWNobcKobGxlciBTcGFjZXMgb2YgUHVuY3R1cmVkIFRvcmkgSUksIENvbXBsZXggQW5hbHlzaXMsIDE5ODMuDQoNCjE3LiBUcmFjZSBNb2R1bGkgZm9yIFF1YXNpZnVjaHNpYW4gR3JvdXBzLCBKLiBNYXRoLiBLeW90byBVbml2LiAyNiAjMSAoMTk4NikuDQoNCjE4LiAod2l0aCBMLiBHb2xkYmVyZykgQSBGaW5pdGVuZXNzIFRoZW9yZW0gZm9yIGEgRHluYW1pY2FsIENsYXNzIG9mIEVudGlyZSBGdW5jdGlvbnMsDQoNCiAgICBKLiBFcmdvZGljIFRoZW9yeSBhbmQgRHluLiBTeXMuLCB2b2wgNiwgMTk4Ni4NCg0KMTkuIFRoZSBEeW5hbWljcyBvZiBIb2xvbW9ycGhpYyBTZWxmLW1hcHMgb2YgQ+KIlyAsIGluIEhvbG9tb3JwaGljIEZ1bmN0aW9ucyBhbmQgTW9kLQ0KDQogICAgdWxpLCBTcHJpbmdlciAxOTg4LCBFZC4gRC4gRHJhc2luIGV0IGFsLg0KDQoyMC4gVG9wb2xvZ3kgYW5kIEdyb3d0aCBvZiBhIFNwZWNpYWwgQ2xhc3Mgb2YgSG9sb21vcnBoaWMgU2VsZi1tYXBzIG9mIEPiiJcgLiBKLiBFcmdvZGljDQoNCiAgICBUaGVvcnkgYW5kIER5bi4gU3lzLiwgdm9sIDksIDE5ODkuDQoNCjIxLiAod2l0aCBSLiBEZXZhbmV5KSBEeW5hbWljcyBvZiBUYW5nZW50LCBQcm9jLiBNYXJ5bGFuZCBTcGVjaWFsIFllYXIgaW4gRHluYW1pY3MsDQoNCiAgICAxMzQyLCBTcHJpbmdlciAxOTg3DQoNCjIyLiAod2l0aCBSLiBEZXZhbmV5KSBEeW5hbWljcyBvZiBNYXBzIHdpdGggQ29uc3RhbnQgU2Nod2FyemlhbiwgUHJvYy4gTmV2YW5saW5uYQ0KDQogICAgQ29sbG9xdWl1bSwgSm9lbnN1dSwgMTM1MSwgU3ByaW5nZXIsIDE5ODcNCg0KDQoNCjIzLiAod2l0aCBSLiBEZXZhbmV5KSBEeW5hbWljcyBvZiBNZXJvbW9ycGhpYyBGdW5jdGlvbnM6IEZ1bmN0aW9ucyB3aXRoIFBvbHlub21pYWwNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnDQoNCiAgICBTY2h3YXJ6aWFuIERlcml2YXRpdmUsIEFubi4gRWNvbGUgTm9ybWFsZSBTdXBlcmlldXJlLCA0ZSBzJ3JpZSwgdC4yMiwgMTk4OSwgNTUtNzkNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlDQoNCg0KDQoyNC4gSnVsaWEgU2V0cywgSW4gQ2hhb3MgYW5kIEZyYWN0YWxzOiBUaGUgTWF0aGVtYXRpY3MgQmVoaW5kIHRoZSBDb21wdXRlciBHcmFwaGljcw0KDQogICAgUHJvYy4gU3ltcG9zaWEgaW4gQXBwbC4gTWF0aCwgMzksIEFNUywxOTg5LCBFZC4gUi4gRGV2YW5leSBhbmQgTC4gS2Vlbg0KDQoNCg0KMjUuICh3aXRoIEwuIEdvbGRiZXJnKSBUaGUgTWFwcGluZyBDbGFzcyBHcm91cCBvZiBhIEdlbmVyaWMgUXVhZHJhdGljIFJhdGlvbmFsIE1hcHMNCg0KICAgIGFuZCBBdXRvbW9ycGhpc21zIG9mIHRoZSAyLVNoaWZ0LCBJbnZlbnQuIE1hdGgsMTk5MCwgMTAxLCAzMzUtMzcyDQoNCg0KDQoyNi4gKHdpdGggUi4gRGV2YW5leSBhbmQgUC4gQmxhbmNoYXJkKSBUaGUgRHluYW1pY3Mgb2YgQ29tcGxleCBQb2x5bm9taWFscyBhbmQNCg0KICAgIEF1dG9tb3JwaGlzbXMgb2YgdGhlIFNoaWZ0LCBJbnZlbnQuIE1hdGgsIDE5OTEsIDEwNC4NCg0KDQoNCjI3LiBEeW5hbWljcyBvZiBRdWFkcmF0aWMgUG9seW5vbWlhbHMsIEFya2hpbWVkZXMsMTk5MSwgMiwgMjAtMzMNCg0KDQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1DQoNCjI4LiAod2l0aCBDLiBTZXJpZXMpIFBsZWF0aW5nIENvb3JkaW5hdGVzIGZvciBUZWljaG3CqGxsZXIgU3BhY2UsIEJ1bGwuIEFNUyx2b2wuIDI2LCAxLA0KDQogICAgMTk5MiwgMTQxLTE0Ng0KDQoNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUNCg0KMjkuICh3aXRoIEMuIFNlcmllcykgUGxlYXRpbmcgQ29vcmRpbmF0ZXMgZm9yIHRoZSBNYXNraXQgRW1iZWRkaW5nIG9mIFRlaWNobcKobGxlciBzcGFjZQ0KDQogICAgZm9yIGEgcHVuY3R1cmVkIHRvcnVzLCBUb3BvbG9neSwgVm9sLiAzMiwgTm8uIDQsIHBwLiA3MTktNzQ5LCAxOTkzLg0KDQoNCg0KMzAuICh3aXRoIEIuIE1hc2tpdCBhbmQgQy4gU2VyaWVzKSBHZW9tZXRyaWMg76yBbml0ZW5lc3MgYW5kIHVuaXF1ZW5lc3MgZm9yIEtsZWluaWFuDQoNCiAgICBncm91cHMgd2l0aCBjaXJjbGUgcGFja2luZyBsaW1pdCBzZXRzLCBKb3VybmFsIHZvbiBSZWluZSB1bmQgQW5nZXdhbmR0ZSBNYXRoLiwgNDM2LA0KDQogICAgMTk5MywgMjA5LTIxOS4NCg0KDQoNCjMxLiAod2l0aCBDLiBTZXJpZXMpIFBsZWF0aW5nIENvb3JkaW5hdGVzIGZvciB0aGUgUmlsZXkgU2xpY2Ugb2YgU2Nob3R0a3kgU3BhY2UsIFByb2MuDQoNCiAgICBMLk0uUy4sIHZvbC42OSwgcGFydCAxIDE5OTQsIDcyLTkwLg0KDQoNCg0KMzIuIEh5cGVyYm9saWMgZ2VvbWV0cnkgYW5kIHNwYWNlcyBvZiBSaWVtYW5uIHN1cmZhY2VzLCBNYXRoZW1hdGljYWwgSW50ZWxsaWdlbmNlciwNCg0KICAgIHZvbC4xNiwgMywgMTk5NCwgMTEtMTkuDQoNCg0KDQozMy4gKHdpdGggQy4gU2VyaWVzKSBDb250aW51aXR5IG9mIENvbnZleCBIdWxsIEJvdW5kYXJpZXMsIFBhYy4gSi4gTWF0aCwgdm9sLiAxNjgsIDEsDQoNCiAgICAxODMtMjA2LCAxOTk1Lg0KDQoNCg0KMzQuIEp1bGlhIFNldHMgb2YgUmF0aW9uYWwgTWFwcywgaW4gQ29tcGxleCBEeW5hbWljYWwgU3lzdGVtcywgUHJvYy4gU3ltcG9zaWEgaW4gQXBwbC4NCg0KICAgIE1hdGgsIDQ5LCBBTVMsMTk5NSwgRWQuIFIuIERldmFuZXksIDcxLTg5Lg0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYg0KDQozNS4gKHdpdGggQS4gRXBzdGVpbiBhbmQgQy4gVHJlc3NlcikgVGhlIHNldCBvZiBtYXBzIEZhLGIgOiB4IOKGkiB4ICsgYSArIDLPgCBzaW4oMs+AeCkgd2l0aA0KDQogICAgYW55IGdpdmVuIHJvdGF0aW9uIGludGVydmFsIGlzIGNvbnRyYWN0aWJsZSwgQ29tbS4gTWF0aC4gUGh5cy4sIDE5OTUuDQoNCg0KDQozNi4gKHdpdGggSi4gS290dXMpIER5bmFtaWNzIG9mIHRoZSBmYW1pbHkgzrsgdGFuIHosIEouIENvbmYuIEdlb20uIGFuZCBEeW4uLCAxOTk3LA0KDQogICAgMjgtNTcoZWxlY3Ryb25pYykNCg0KDQoNCjM3LiAod2l0aCBKLiBLb3R1cykgRXJnb2RpY2l0eSBvZiBzb21lIGNsYXNzZXMgb2YgbWVyb21vcnBoaWMgZnVuY3Rpb25zLiBBbm4uIEFjYWQuDQoNCiAgICBTY2kuIEZlbm4uIE1hdGguIDI0ICgxOTk5KSwgbm8uIDEsIDEzMy0xNDUuDQoNCjM4LiAod2l0aCBDLiBTZXJpZXMpIEhvdyB0byBCZW5kIFBhaXJzIG9mIFB1bmN0dXJlZCBUb3JpLCBpbiBKLiBEb2R6aXVrIGFuZCBMLiBLZWVuDQoNCiAgICBlZGl0b3JzLCBMaXBhJ3MgTGVnYWN5LCBQcm9jZWVkaW5ncyBvZiB0aGUgQmVycyBDb2xsb3F1aXVtLCAxOTk1LCBDb250ZW1wLiBNYXRoLg0KDQogICAgMjExLCAzNTktMzg4LiBBTVMgMTk5Ny4NCg0KMzkuICh3aXRoIEYuIEdhcmRpbmVyKSBIb2xvbW9ycGhpYyBNb3Rpb25zLCBMaXBtYW4gQmVycywgc2VsZWN0ZWQgd29ya3MgcGFydHMgSSBhbmQgSUkNCg0KICAgIEVkLiBJLiBLcmEsIEIuIE1hc2tpdCwgQU1TIDE5OTkNCg0KNDAuICh3aXRoIEYuIEdhcmRpbmVyKSBIb2xvbW9ycGhpYyBtb3Rpb25zIGFuZCBxdWFzaS1GdWNoc2lhbiBtYW5pZm9sZHMuIENvbXBsZXgNCg0KICAgIGdlb21ldHJ5IG9mIGdyb3VwcyAoT2xtdSwgMTk5OCksIDE1OS0xNzQsIENvbnRlbXAuIE1hdGguLCAyNDAsIEFtZXIuIE1hdGguDQoNCiAgICBTb2MuLCBQcm92aWRlbmNlLCBSSSwgMTk5OQ0KDQo0MS4gKHdpdGggSi4gUGFya2VyIGFuZCBDLiBTZXJpZXMpIENvbWJpbmF0b3JpY3Mgb2Ygc2ltcGxlIGNsb3NlZCBjdXJ2ZXMgb24gdGhlIHR3aWNlDQoNCiAgICBwdW5jdHVyZWQgdG9ydXMuIElzcmFlbCBKLiBNYXRoLiAxMTIgKDE5OTkpLCAyOS02MA0KDQo0Mi4gKHdpdGggRi4gR2FyZGluZXIpIENvdmVyaW5ncyBvZiBDYW50b3Igc2V0cy4gSW4gdGhlIHRyYWRpdGlvbiBvZiBBaGxmb3JzIGFuZCBCZXJzDQoNCiAgICAoU3RvbnkgQnJvb2ssIE5ZLCAxOTk4KSwgMTE1LTEzMCwgQ29udGVtcC4gTWF0aC4sIDI1NiwgQW1lci4gTWF0aC4gU29jLiwgUHJvdmktDQoNCiAgICBkZW5jZSwgUkksIDIwMDAuDQoNCjQzLiAod2l0aCBKLiBLb3R1cykgT24gcGVyaW9kIGRvdWJsaW5nIHBoZW5vbWVuYSBhbmQgU2hhcmtvdnNraWkgdHlwZSBvcmRlcmluZyBmb3INCg0KICAgIHRoZSBmYW1pbHkgzrsgdGFuKHopLiBWYWx1ZSBkaXN0cmlidXRpb24gdGhlb3J5IGFuZCBjb21wbGV4IGR5bmFtaWNzIChIb25nIEtvbmcsDQoNCiAgICAyMDAwKSwgNTEtNzgsIENvbnRlbXAuIE1hdGguLCAzMDMsIEFtZXIuIE1hdGguIFNvYy4sIFByb3ZpZGVuY2UsIFJJLCAyMDAyLg0KDQo0NC4gKHdpdGggSi4gR2lsbWFuKSBXb3JkIHNlcXVlbmNlcyBhbmQgaW50ZXJzZWN0aW9uIG51bWJlcnMuIENvbXBsZXggbWFuaWZvbGRzIGFuZA0KDQogICAgaHlwZXJib2xpYyBnZW9tZXRyeSAoR3VhbmFqdWF0bywgMjAwMSksIDIzMS0yNDksIENvbnRlbXAuIE1hdGguLCAzMTEsIEFtZXIuDQoNCiAgICBNYXRoLiBTb2MuLCBQcm92aWRlbmNlLCBSSSwgMjAwMg0KDQo0NS4gKHdpdGggQy4gU2VyaWVzKSBQbGVhdGluZyBpbnZhcmlhbnRzIGZvciBxdWFzaWZ1Y2hzaWFuIGdyb3VwczogcHVuY3R1cmVkIHRvcmksIFRvcG9sLQ0KDQogICAgb2d5LCB2b2wgNDMsIG5vIDIsIDQ0Ny00OTEgMjAwNC4NCg0KNDYuICh3aXRoIFIuTC4gRGV2YW5leSBhbmQgUC4gQmxhbmNoYXJkKSBDb21wbGV4IER5bmFtaWNzIGFuZCBTeW1ib2xpYyBEeW5hbWljcywNCg0KICAgIFN5bXBvc2lhIGluIEFwcGwuLCA2MCBNYXRoLCBBTVMgKDIwMDIpIDM3LTYwDQoNCjQ3LiBDb21wbGV4IGFuZCBSZWFsIER5bmFtaWNzIGZvciB0aGUgZmFtaWx5IM67IHRhbih6KSwgUHJvY2VlZGluZ3Mgb2YgdGhlIENvbmZlcmVuY2UNCg0KICAgIG9uIENvbXBsZXggRHluYW1pY3MsIFJJTVMgS3lvdG8gVW5pdi4gT2N0LiAyMDAxLCBQdWJsLiBObyAxMjY5ICgyMDAyKSwgOTMtMTAyDQoNCjQ4LiAod2l0aCBOLiBMYWtpYyksIEZvcndhcmQgSXRlcmF0ZWQgRnVuY3Rpb24gU3lzdGVtcywgQ29tcGxleCBEeW5hbWljcyBhbmQgUmVsYXRlZA0KDQogICAgVG9waWNzLCBsZWN0dXJlcyBhdCB0aGUgTW9ybmluZ3NpZGUgQ2VudGVyIG9mIE1hdGhlbWF0aWNzLCBOZXcgU3R1ZGllcyBpbiBBZHZhbmNlZA0KDQogICAgTWF0aGVtYXRpY3MsIElQIFZvbCA1IDIwMDMuDQoNCjQ5LiBGZWF0dXJlZCBSZXZpZXcgb2YgSHlwZXJib2xpY2l0eSBvZiByZW5vcm1hbGl6YXRpb24gb2YgY3JpdGljYWwgY2lyY2xlIG1hcHMgYnkgTWljaGFlbA0KDQogICAgWWFtcG9sc2t5LCBQdWJsLiBJSEVTIDk2LCAoMjAwMyksIE1SMTk4NTAzMCAoMjAwNGo6MzcwNzEpDQoNCjUwLiAod2l0aCBKLiBHaWxtYW4pIFR3byBnZW5lcmF0b3IgZGlzY3JldGUgZ3JvdXBzOiBoeXBlcmJvbGljIGhhbmRsZWJvZGllcywgR2VvbWV0cmlhDQoNCiAgICBEZWRpY2F0YSwgMTEwICgyMDA1KSAxNTktMTkwLg0KDQo1MS4gKHdpdGggTi4gTGFraWMpLCBSYW5kb20gaG9sb21vcnBoaWMgaXRlcmF0aW9ucyBhbmQgZGVnZW5lcmF0ZSBzdWJkb21haW5zLCBQcm9jLg0KDQogICAgQU1TLCAxMzQsIG5vLiAyLCAoMjAwNikgMzcxLTM3OA0KDQo1Mi4gKHdpdGggUy4gWXVhbikgUGFyYWJvbGljIHBlcnR1cmJhdGlvbiBvZiB0aGUgZmFtaWx5IM67IHRhbiB6LiBDb21wbGV4IGR5bmFtaWNzLCBFZC4NCg0KICAgIFIuIERldmFuZXksIEwuIEtlZW4sIDExNS0xMjgsIENvbnRlbXAuIE1hdGguLCAzOTYsIEFtZXIuIE1hdGguIFNvYy4sIFByb3ZpZGVuY2UsDQoNCiAgICBSSSwgMjAwNi4NCg0KNTMuICh3aXRoIE4uIExha2ljKSBBY2N1bXVsYXRpb24gcG9pbnRzIG9mIGl0ZXJhdGVkIGZ1bmN0aW9uIHN5c3RlbXMuIENvbXBsZXggZHluYW1pY3MsDQoNCiAgICBFZC4gUi4gRGV2YW5leSwgTC4gS2VlbiwgMTAxLTExMywgQ29udGVtcC4gTWF0aC4sIDM5NiwgQW1lci4gTWF0aC4gU29jLiwNCg0KICAgIFByb3ZpZGVuY2UsIFJJLCAyMDA2Lg0KDQo1NC4gUHJvYmxlbXMgZnJvbSB0aGUgc2Vzc2lvbnMgYXQgdGhlIFNub3diaXJkIENvbmZlcmVuY2UsIENvbXBsZXggZHluYW1pY3MsIEVkLg0KDQogICAgUi4gRGV2YW5leSwgTC4gS2VlbiAxMDEtMTEzLCBDb250ZW1wLiBNYXRoLiwgMzk2LCBBbWVyLiBNYXRoLiBTb2MuLCBQcm92aWRlbmNlLA0KDQogICAgUkksIDIwMDYuDQoNCjU1LiBCb29rIFJldmlldyBvZiBJbmRyYSdzIFBlYXJscywgYnkgRC4gTXVtZm9yZCwgQy4gU2VyaWVzIGFuZCBELiBXcmlnaHQsIENhbWIuDQoNCiAgICBQcmVzcywgTWF0aC4gSW50ZWxsaWdlbmNlciwgMjAwNQ0KDQo1Ni4gKHdpdGggSi4gR2lsbWFuKSBQbGFuYXIgZmFtaWxpZXMgb2YgZGlzY3JldGUgZ3JvdXBzLiBUaGUgZ2VvbWV0cnkgb2YgUmllbWFubiBzdXItDQoNCiAgICBmYWNlcyBhbmQgYWJlbGlhbiB2YXJpZXRpZXMsIDc5LTg4LCBDb250ZW1wLiBNYXRoLiwgMzk3LCBBbWVyLiBNYXRoLiBTb2MuLCBQcm92aS0NCg0KICAgIGRlbmNlLCBSSSwgMjAwNi4NCg0KNTcuICh3aXRoIE4uIExha2ljKSBBY2N1bXVsYXRpb24gY29uc3RhbnRzIG9mIGl0ZXJhdGVkIGZ1bmN0aW9uIHN5c3RlbXMgd2l0aCBCbG9jaCBUYXItDQoNCiAgICBnZXQgZG9tYWlucywgQW5uYWxzIG9mIEZpbm5pc2ggQWNhZC4gU2NpLiwgVm9sLiAzMiwgRmFzYy4gMSwgNzMtODIsIDIwMDcNCg0KNTguICh3aXRoIE4uIExha2ljKSBBIGdlbmVyYWxpemVkIGh5cGVyYm9saWMgbWV0cmljIGZvciBwbGFuZSBkb21haW5zLiBJbiB0aGUgVHJhZGl0aW9uDQoNCiAgICBvZiBBaGxmb3JzLUJlcnMgSVYsIDEwNy0xMTgsIENvbnRlbXAuIE1hdGguIDQzMiwgQW1lci4gTWF0aC4gU29jLiAyMDA3DQoNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdQ0KDQo1OS4gKHdpdGggTi4gTGFraWMpTGltaXQgcG9pbnRzIG9mIGl0ZXJhdGVkIGZ1bmN0aW9uIHN5c3RlbXMsIEluIFRlaWNobcKobGxlciB0aGVvcnkgYW5kDQoNCiAgICBNb2R1bGkgUHJvYmxlbXMsIExlY3R1cmUgTm90ZXMgb2YgdGhlIFJhbWFudWphbiBNYXRoLiBTb2MuIEVkcy4gQmlzd2FzLCBLdWxrYXJuaQ0KDQogICAgYW5kIE1pdHJhLCAyMDEwLCA0NTEtNDYzLg0KDQo2MC4gKHdpdGggRy4gWmhhbmcpLCBCb3VuZGVkIHR5cGUgU2llZ2VsIGRpc2tzIG9mIGEgb25lIGRpbWVuc2lvbmFsIGZhbWlseSBvZiBlbnRpcmUNCg0KICAgIGZ1bmN0aW9ucywgSi4gRXJnb2RpYyBUaC4gYW5kIER5bi4gU3lzdGVtcywgMjkgKDIwMDkpLCBuby4gMSwgMTM3LTE2NC4NCg0KNjEuICh3aXRoIEouIEdpbG1hbikgQ3V0dGluZyBTZXF1ZW5jZXMgYW5kIFBhbGluZHJvbWVzLEdlb21ldHJ5IG9mIFJpZW1hbm4gU3VyLQ0KDQogICAgZmFjZXMgU2VyaWVzOiBMb25kb24gTWF0aGVtYXRpY2FsIFNvY2lldHkgTGVjdHVyZSBOb3RlIFNlcmllcyAoTm8uIDM2OCksIDE5NC0yMTYNCg0KICAgIGFyWGl2OjA4MDMuMDIzNA0KDQo2Mi4gKHdpdGggSi4gR2lsbWFuKSBEaXNjcmV0ZW5lc3MgRGlzY3JldGVuZXNzIENyaXRlcmlhIGFuZCB0aGUgSHlwZXJib2xpYyBHZW9tZXRyeSBvZg0KDQogICAgUGFsaW5kcm9tZXMsIGFyWGl2OjA4MDguMzQ4OCwgQ29uZm9ybWFsIEdlb21ldHJ5IGFuZCBEeW5hbWljcywgMTMgKDIwMDkpLCA3Ni05MA0KDQo2My4gKHdpdGggSi4gR2lsbWFuKSBFbnVtZXJhdGluZyBnZW5lcmF0b3JzIGluIHJhbmsgdHdvIGZyZWUgZ3JvdXBzLCBhclhpdjowODAyLjI3MzEsDQoNCiAgICBKb3VybmFsIG9mIEFsZ2VicmEgMzMyICgyMDExKSwgcHAuIDEtMTMNCg0KNjQuICh3aXRoIFIuIEZsZWspIEJvdW5kYXJpZXMgb2YgQm91bmRlZCBGYXRvdSBDb21wb25lbnRzIG9mIFF1YWRyYXRpYyBNYXBzLCBKb3VyDQoNCiAgICBEae+sgCBFcW5zIGFuZCBBcHBsaWNhdGlvbnMsIFZvbC4xNiwgSXNzdWVzIDUtNiwgMjAxMCwgNTU1LTU3Mi4NCg0KNjUuIEludHJvZHVjdGlvbiB0byB0aGUgU3BlY2lhbCBJc3N1ZSBvZiBKb3VyLiBEae+sgC4gRXFucy4gYW5kIEFwcGxpYy4gaW4gaG9ub3Igb2YgUm9iZXJ0Lg0KDQogICAgTC4gRGV2YW5leSwgSm91ciBEae+sgCBFcW5zIGFuZCBBcHBsaWNhdGlvbnMsIFZvbC4xNiwgSXNzdWVzIDUtNiwgMjAxMCw0MDctNDA5DQoNCjY2LiAod2l0aCBHLiBNYXJ0aW4gYW5kIFEuIFpoYW5nKSBBcHByb2FjaGluZyB0aGUgUmlsZXkgc2xpY2UgYm91bmRhcnkgZnJvbSB0aGUgaW5zaWRlLA0KDQogICAgSW4gcHJlcGFyYXRpb24uDQoNCjY3LiAod2l0aCBULiBDaGVuIGFuZCBZLiBKaWFuZykgQm91bmRlZCBHZW9tZXRyeSBhbmQgdGhlIGNoYXJhY3Rlcml6YXRpb24gb2YgbWVyby0NCg0KICAgIG1vcnBoaWMgbWFwcyB3aXRoIHR3byBhc3ltcHRvdGljIHZhbHVlcywgc3VibWl0dGVkLg0KDQo2OC4gKHdpdGggVC4gQ2hlbiBhbmQgWS4gSmlhbmcpIEJvdW5kZWQgR2VvbWV0cnkgYW5kIHRoZSBjaGFyYWN0ZXJpemF0aW9uIG9mIG1lcm8tDQoNCiAgICBtb3JwaGljIG1hcHMgd2l0aCBwb2x5bm9taWFsIFNjaHdhcnppYW4sIGluIHByZXBhcmF0aW9uLg0KDQo2OS4gKHdpdGggVC4gQ2hlbiBhbmQgWS4gSmlhbmcpIEJvdW5kZWQgR2VvbWV0cnkgYW5kIHRoZSBjaGFyYWN0ZXJpemF0aW9uIG9mIHBvc3QtDQoNCiAgICBzaW5ndWxhcmx5IO+sgW5pdGUgKHAsIHEpIGV4cG9uZW50aWFsIG1hcHMsIGluIHByZXBhcmF0aW9uLg0KDQo3MC4gKHdpdGggSi4gR2lsbWFuKSBMaWZ0aW5nIGZyZWUgc3ViZ3JvdXBzIG9mIFAgU0woMiwgUikgdG8gZnJlZSBncm91cHMsIHN1Ym1pdHRlZA0KDQpCb29rczoNCg0KDQoNCiAgICogVGhlIExlZ2FjeSBvZiBTb255YSBLb3ZhbGV2c2theWE7IFByb2NlZWRpbmdzIG9mIGEgU3ltcG9zaXVtIGhlbGQgYXQgUmFkY2xp76yAZQ0KDQogICAgIENvbGxlZ2UgYW5kIDMgQU1TIHNwZWNpYWwgc2Vzc2lvbnMuIEVkLiBMLiBLZWVuLCBDb250ZW1wLiBNYXRoLiA2NCwgQU1TIDE5ODcuDQoNCiAgICogQ2hhb3MgYW5kIEZyYWN0YWxzOiBUaGUgTWF0aGVtYXRpY3MgQmVoaW5kIHRoZSBDb21wdXRlciBHcmFwaGljcyBQcm9jLiBTeW0tDQoNCiAgICAgcG9zaWEgaW4gQXBwbC4gTWF0aCwgMzksIEFNUywxOTg5LCBFZHMuIFIuIERldmFuZXkgYW5kIEwuIEtlZW4uDQoNCiAgICogTGlwYSdzIExlZ2FjeSwgUHJvY2VlZGluZ3Mgb2YgdGhlIEJlcnMgQ29sbG9xdWl1bSwgRWQuIEouIERvZHppdWssIEwuIEtlZW4sIENvbi0NCg0KICAgICB0ZW1wLiBNYXRoLiAyMTEsIEFNUyAxOTk3DQoNCiAgICogQ29tcGxleCBEeW5hbWljczogMjUgeWVhcnMgYWZ0ZXIgdGhlIGFwcGVhcmFuY2Ugb2YgdGhlIE1hbmRlbGJyb3Qgc2V0LCBFZHMuIFIuDQoNCiAgICAgRGV2YW5leSwgTC4gS2VlbiwgQ29udGVtcC4gTWF0aC4sIDM5NiwgQW1lci4gTWF0aC4gU29jLiwgUHJvdmlkZW5jZSwgUkksIDIwMDYuDQoNCiAgICogSHlwZXJib2xpYyBHZW9tZXRyeSBmcm9tIGEgTG9jYWwgVmlld3BvaW50ICwgd2l0aCBOLiBMYWtpYywgQ2FtYnJpZGdlIFVuaXYuIFByZXNzLA0KDQogICAgIDIwMDcNCg0KICAgKiBTcGVjaWFsIFZvbHVtZSBvZiBKb3VybmFsIG9mIERp76yAZXJlbmNlIEVxdWF0aW9ucyBhbmQgQXBwbGljYXRpb25zIGluIGhvbm9yIG9mIFJvYmVydA0KDQogICAgIERldmFuZXksIEd1ZXN0IEVkaXRvciwgTC4gS2VlbiwgVm9sLjE2LCBJc3N1ZXMgNS02LCAyMDEwDQoNCg0KDQpIaXN0b3JpY2FsIEFydGljbGVzDQoNCg0KDQogICAqIE9uIHRoZSBMaWZlIGFuZCBXb3JrIG9mIFNvbnlhIEtvd2FsZXNrYXlhLCBBV00gTmV3c2xldHRlciwgTWFyY2ggMTk3Ny4NCg0KICAgICBSZXByaW50ZWQgaW4gQ29tcGxleGl0aWVzOiBXb21lbiBpbiBNYXRoZW1hdGljcywgcC41Mi01MywgRWRzLiBCLkEuIENhc2UgYW5kDQoNCiAgICAgQS5NLiBMZWdnZXR0LCBQcmluY2V0b24gVW5pdi4gUHJlc3MsIDIwMDUNCg0KICAgKiBMaXBtYW4gQmVyczogQSBNYXRoZW1hdGljYWwgTWVudG9yLCBBV00gTmV3c2xldHRlciwgSnVseSAxOTg0Lg0KDQogICAqIExpcG1hbiBCZXJzOiAxOTA3LTE5OTMsIEFXTSBOZXdzbGV0dGVyLCBNYXkgMTk5NC4NCg0KDQoNCg0KDQpQaC5ELiBTVFVERU5UUw0KDQogICAqIE0uIFBldGVyIEhvZWZlciAtIEEgTnVtZXJpY2FsIEFwcHJvYWNoIHRvIHRoZSBLb3J0ZXZlZy1EZVZyaWVzIEVxdWF0aW9uICgxOTgxKQ0KDQogICAqIFdlaSBIdWEgSmlhbmcgLSBUaGUgUGFyYW1ldGVyIFNwYWNlIG9mIM67IHRhbiB6ICgxOTkxKQ0KDQogICAqIFl1bmcteWVuIENoaWFuZyAtIFBsZWF0aW5nIENvb3JkaW5hdGVzIGZvciB0aGUgVGVpY2htwqhsbGVyIHNwYWNlIG9mIGEg76yBdmUgdGltZXMNCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUNCg0KICAgICBwdW5jdHVyZWQgc3BoZXJlICgxOTk1KQ0KDQogICAqIERyYWdvbWlyIFNhcmljIC0gQ29tcGxleCBFYXJ0aHF1YWtlcyBhcmUgaG9sb21vcnBoaWMsICgyMDAxKQ0KDQogICAqIFJlemEgQ2hhbWFuYXJhIC0gQXV0b21vcnBoaXNtIG9mIO+sgmF0IHN0cnVjdHVyZXMgaW4gVGVpY2htwqhsbGVyIGRpc2tzLCgyMDAyKQ0KDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHUNCg0KICAgKiBLb3Vyb3NoIFRhdmFrb2xpIC0gTGltaXRzIG9mIEl0ZXJhdGVkIEZ1bmN0aW9uIFN5c3RlbXMsICgyMDA2KQ0KDQogICAqIFNoZW5nbGFuIFl1YW4gLSBGcm9tIHRoZSBUYW5nZW50IHRvIHRoZSBFeHBvbmVudGlhbCwgKDIwMDcpDQoNCiAgICogUm9zcyBGbGVrIC0gT24gdGhlIER5bmFtaWNzIG9mIFF1YXNpLVNlbGYtTWF0aW5ncyBvZiBHZW5lcmFsaXplZCBTdGFyLWxpa2UgUXVhZHJhdC0NCg0KICAgICBpY3MgKDIwMDkp</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910543306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

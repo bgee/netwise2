@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:05:19 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2914521306521"  usageLimitType="allocation" usageLimit="200" currentUsage="114" remainingUsage="86" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Erica B. Young</FormattedName>
+<GivenName>Erica</GivenName>
+<MiddleName>B.</MiddleName>
+<FamilyName>Young</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>53211</PostalCode>
+<Region>WI</Region>
+<Municipality>Milwaukee</Municipality>
+<DeliveryAddress>
+<AddressLine>3209 N Maryland Ave</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (414) 229-3257</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>414</AreaCityCode>
+<SubscriberNumber>229-3257</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>ebyoung@uwm.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>University of Wisconsin</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor, Dept. Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Milwaukee</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-10-01</AnyDate>
+</StartDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Postdoctoral Research Fellow Queen&apos;s University</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Northern Ireland</Region>
+<Municipality>Belfast</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Environmental regulation of nitrate reductase in brown macroalgae.
+</Description>
+<StartDate>
+<AnyDate>1999-10-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-09-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>January</EmployerOrgName>
+<PositionHistory>
+<Title>Postdoctoral Researcher, Dept Biological Sciences</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Region>Northern Ireland</Region>
+<Municipality>Belfast</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Role of trace metals in inorganic carbon acquisition by microalgae.
+</Description>
+<StartDate>
+<AnyDate>1999-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+<PositionHistory>
+<Title>Teaching Assistant</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>UN</CountryCode>
+<Municipality>Monash University</Municipality>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Teaching all levels of biology and plant sciences.
+</Description>
+<StartDate>
+<AnyDate>1994-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1998-12-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Western Australia</EmployerOrgName>
+<PositionHistory>
+<Title>Field Research Assistant, Dept. Botany</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Ecology of seagrass and epiphyte communities under eutrophication. Research Assistant, Dept Soil Science and Plant Nutrition, School Agriculture, University of Western Australia, 1993. CHN analytical techniques for crop plants.
+</Description>
+<StartDate>
+<AnyDate>1993-11-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1994-02-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Thalassa AB</EmployerOrgName>
+<PositionHistory>
+<Title>Research Assistant volunteer</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>algal biotechnology company. Uppsala, Sweden, September - November 1992. B.O.D. analysis and algal photosynthesis for ecotoxicological testing. Research Assistant, Institute for Physiological Botany, Uppsala University, Sweden Establishing techniques for in situ RNA hybridization in cyanobacteria and mouse tissue.
+</Description>
+<StartDate>
+<AnyDate>1990-06-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Western Australia</EmployerOrgName>
+<PositionHistory>
+<Title>Research Assistant, Dept. Botany</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>administrative</IndustryDescription></OrgIndustry>
+<Description>Biochemistry and molecular regulation of legume-rhizobium symbioses.
+</Description>
+<StartDate>
+<AnyDate>1989-01-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1990-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Western Australia</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Botany</Municipality>
+</PostalAddress>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>1987-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Distinction</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>(Distinction)</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Western Australia</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>BS</DegreeName>
+<DegreeDate>
+<AnyDate>1988-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Plant Biochemistry</Name>
+</DegreeMajor>
+<DegreeMeasure>
+<EducationalMeasure>
+<MeasureSystem>GPA</MeasureSystem>
+<MeasureValue>
+<StringValue>Honours (First Class</StringValue>
+</MeasureValue>
+<LowestPossibleValue>
+<StringValue>0</StringValue>
+</LowestPossibleValue>
+</EducationalMeasure>
+</DegreeMeasure>
+<Comments>Thesis: An Immunological Approach to the Study of Gene Expression in the Nodules of Cowpea, Vigna unguiculata L. Walp.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Western Australia</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Monash University</Municipality>
+</PostalAddress>
+<Degree degreeType="doctoral">
+<DegreeName>PhD</DegreeName>
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Biological Sciences</Name>
+</DegreeMajor>
+<Comments>Thesis: Interactions between Photosynthetic Carbon and Nitrogen Acquisition in the Marine Microalga Dunaliella tertiolecta Butcher.</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Queen&apos;s University of Belfast.</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>2002-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Research</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Graduate</DegreeName>
+<DegreeMajor>
+<Name>Outreach and Synergistic Activities</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Grace Jennings Queen&apos;s Univ</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Students and researchers mentored</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UWM, Jason Mills postdoctoral</SchoolName>
+</School>
+<Degree>
+<DegreeName>associate</DegreeName>
+<DegreeMajor>
+<Name>Graduate Students</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>UWM, Jason Mills postdoctoral</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Undergraduate</DegreeName>
+<DegreeMajor>
+<Name>Students mentored</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Queen&apos;s Univ of Belfast</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>1999-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Sarah McCullaugh</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>National Science Foundation Funded REU program</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeDate>
+<AnyDate>2004-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>(UWM</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="highschool">
+<School>
+<SchoolName>iv Mentored 2 high school students</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Sciences 1</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Public forum</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Panel</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>JA</DegreeName>
+<DegreeMajor>
+<Name>GA. Meyer</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>JA</DegreeName>
+<DegreeDate>
+<AnyDate>2009-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>A, Young EB, Berges</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>JA</DegreeName>
+<DegreeMajor>
+<Name>Choi CJ, Berges</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>Penn State</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeDate>
+<AnyDate>2007-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Great Lakes Research 50th anniversary meeting</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Wisconsin-Milwaukee Linda Graham Univ Wisconsin</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Sandra McLellan</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Bowling State Univ</SchoolName>
+</School>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Region>OH</Region>
+</PostalAddress>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Madison, R. Michael McKay and George Bullerjahn</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ Tennessee</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Steven</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Univ South Carolina</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Claudia Benitez-Nelson, Tammi Richardson</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Queen&apos;s Univ Belfast, UK</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeMajor>
+<Name>Matthew Dring</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Edith Cowan Univ</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>PhD</DegreeName>
+<DegreeMajor>
+<Name>Paul Lavery</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>John Beardall Monash University.</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeMajor>
+<Name>Advisor</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Alkaline phosphatase in freshwater Cladophora- epiphyte assemblages: regulation in response to phosphorus supply and localization</Title>
+<Name role="author">
+<FormattedName>Young EB, Tucker RC, Pansch L</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Phycology 46: 93-101</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Physiological responses of intertidal marine algae to nitrogen deprivation and resupply of nitrate and ammonium</Title>
+<Name role="author">
+<FormattedName>Young EB, Berges JA and Dring MJ</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Physiologia Plantarum 135: 400-411</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Consequences of glossy buckthorn</Title>
+<Name role="author">
+<FormattedName>Mills JE, Reinartz J, Meyer GA and Young EB</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(Rhamnus frangula)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Ecological Processes across the salinity divide: Contrasts and comparisons in marine and Great Lakes ecosystems</Title>
+<Name role="author">
+<FormattedName>Young EB and Janssen J</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2009</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Invited Review for Bulletin of the Ecological Society of America</JournalOrSerialName>
+<Volume>90:</Volume>
+<PageNumber>115-133.</PageNumber>
+</Article>
+<Article>
+<Title>Nutrient limitation and morphological plasticity of the carnivorous pitcher plant Sarracenia purpurea in contrasting wetland environments</Title>
+<Name role="author">
+<FormattedName>Bott T, Meyer G.A. and Young E.B</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>New Phytologist 180:631-641</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Intertidal Fucus species show novel patterns of nitrate reductase activity unaffected by irradiance and ammonium</Title>
+<Name role="author">
+<FormattedName>Young, E.B., Dring, M.J. and Berges, J.A</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Phycology 43:1200 - 1208</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Seasonal variations in nitrate reductase activity and internal N pools in intertidal brown algae are correlated with ambient nitrate concentrations</Title>
+<Name role="author">
+<FormattedName>Young E.B., Dring M.J., Savidge G., Birkett D.A. and John A. Berges</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>Inorganic nitrogen profiles in seagrass meadows and spatial patterns of nitrate reductase activity in macroalgal epiphytes</Title>
+<Name role="author">
+<FormattedName>Young, E., van Elven, B., Lavery, P., Berges, J. and Dring, M</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2005</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Journal of Botany CCM Issue</JournalOrSerialName>
+<Volume>83(7):</Volume>
+<PageNumber>917-928.</PageNumber>
+</Article>
+<Article>
+<Title>UWM</Title>
+<Name role="author">
+<FormattedName>Young, E, Bootsma, H and Berges J</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Can Activity of Enzymes Involved in Nutrient Assimilation be Useful as Indices of Nutrient Status in Cladophora* &apos;Cladophora Research and Management in the Great Lakes&apos; A Workshop at the Great Lakes WATER Institute</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Cladophora biomass and nutrient stoichiometry in</Title>
+<Name role="author">
+<FormattedName>Lake Michigan</FormattedName>
+</Name>
+<JournalOrSerialName>http://www.uwm.edu/Dept/GLWI/cladophora/page_report.html Bootsma H</JournalOrSerialName>
+</Article>
+</PublicationHistory>
+<SpeakingEventsHistory>
+<SpeakingEvent>
+<Title>Great Lakes</Title>
+<StartDate><StringDate>2006-01-01</StringDate></StartDate>
+<EventName>Recent Conference Presentations</EventName>
+<EventType>conference</EventType>
+<Location>Cleveland Wisconsin</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Sources Support Nearshore Productivity in Freshwater Ecosystems. American Soc</Title>
+<StartDate><StringDate>2011-02-01</StringDate></StartDate>
+<EventName>Limnology and Oceanography Conference Puerto Rico</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>and Microalgal Diversity in American Soc Limnology and</Title>
+<StartDate><StringDate>2011-02-01</StringDate></StartDate>
+<EventName>Oceanography Conference Puerto Rico</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Young EB Lowes CI Onorevole K. Alkaline phosphatase activity and use</Title>
+<StartDate><StringDate>2010-07-01</StringDate></StartDate>
+<EventName>of alternative phosphorus sources by phytoplankton in P-limited freshwater ecosystems. Phycological Society of America Annual meeting 2010.</EventName>
+<EventType>conference</EventType>
+<Location>East Lansing MI.</Location>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>E.B. Young A world in your teacup: Ecophysiology across diverse ecosystems.</Title>
+<EventName>Departmental colloquium. Dept Biological Sciences University of Wisconsin</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<Title>Young EB Interactions of carbon dioxide availability in the sea and nutrient supply</Title>
+<EventName>on algal physiology. Invited Presentation for Special Symposium &quot;Climate Change</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<EventName>The role of Marine Algae in the carbonate cycle&quot;. Botanical Society of America</EventName>
+<EventType>conference</EventType>
+</SpeakingEvent>
+<SpeakingEvent>
+<StartDate><StringDate>2009-07-01</StringDate></StartDate>
+<EventName>Annual meeting</EventName>
+<EventType>conference</EventType>
+<Location>Salt Lake City UT.</Location>
+</SpeakingEvent>
+</SpeakingEventsHistory>
+<Qualifications>
+<Competency name = "Research">
+<CompetencyEvidence name ="Research" lastUsed="1994-01-01">
+<NumericValue description="Range in years of experience">3</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>1986-01-01</StringDate></Date>
+<Description>Maurice Buchan Prize in Botany</Description>
+<IssuingAuthority>University of Western Australia.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1987-01-01</StringDate></Date>
+<Description>W.E. Blackall prize for Botany</Description>
+<IssuingAuthority>University of Western Australia.</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1996-01-01</StringDate></Date>
+<Description>1994-7 Monash University post-graduate scholarship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1996-01-01</StringDate></Date>
+<Description>Monash University Travel Scholarship</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2004-01-01</StringDate></Date>
+<Description>Elected to Sigma Xi The Scientific Research Society</Description>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>ix Ecological Society of America</Name>
+</Association>
+<Association>
+<Name>Society of America</Name>
+</Association>
+<Association>
+<Name>Society of Wetlands Scientists meeting</Name>
+</Association>
+<Association>
+<Name>Society of Environmental Toxicology and Chemistry</Name>
+</Association>
+<Association>
+<Name>American Society of Limnology and Oceanography Meeting</Name>
+</Association>
+<Association>
+<Name>American Society of</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QmlvZ3JhcGhpY2FsIFNrZXRjaA0KDQoNCg0KDQoNCkVyaWNhIEIuIFlvdW5nDQoNCkFzc29jaWF0ZSBQcm9mZXNzb3INCg0KRGVwYXJ0bWVudCBvZiBCaW9sb2dpY2FsIFNjaWVuY2VzLA0KDQpVbml2ZXJzaXR5IG9mIFdpc2NvbnNpbi1NaWx3YXVrZWUNCg0KMzIwOSBOIE1hcnlsYW5kIEF2ZSwNCg0KTWlsd2F1a2VlIFdJIDUzMjExDQoNClBoLiAoNDE0KSAyMjktMzI1NzsgZWJ5b3VuZ0B1d20uZWR1DQoNCg0KDQoNCg0KUHJvZmVzc2lvbmFsIFByZXBhcmF0aW9uDQoNCg0KDQpCUyBCb3RhbnkgTWFqb3IgKERpc3RpbmN0aW9uKSwgVW5pdmVyc2l0eSBvZiBXZXN0ZXJuIEF1c3RyYWxpYSwgMTk4Ny4NCg0KQlMgSG9ub3VycyAoRmlyc3QgQ2xhc3MpLCBQbGFudCBCaW9jaGVtaXN0cnksIFVuaXZlcnNpdHkgb2YgV2VzdGVybiBBdXN0cmFsaWEgMTk4OC4NCg0KICAgVGhlc2lzOiBBbiBJbW11bm9sb2dpY2FsIEFwcHJvYWNoIHRvIHRoZSBTdHVkeSBvZiBHZW5lIEV4cHJlc3Npb24gaW4gdGhlIE5vZHVsZXMNCg0KICAgb2YgQ293cGVhLCBWaWduYSB1bmd1aWN1bGF0YSBMLiBXYWxwLg0KDQpQaEQgQmlvbG9naWNhbCBTY2llbmNlcywgTW9uYXNoIFVuaXZlcnNpdHkuIDE5OTkuIFRoZXNpczogSW50ZXJhY3Rpb25zIGJldHdlZW4NCg0KICBQaG90b3N5bnRoZXRpYyBDYXJib24gYW5kIE5pdHJvZ2VuIEFjcXVpc2l0aW9uIGluIHRoZSBNYXJpbmUgTWljcm9hbGdhIER1bmFsaWVsbGENCg0KICB0ZXJ0aW9sZWN0YSBCdXRjaGVyLg0KDQpQb3N0ZG9jdG9yYWwgUmVzZWFyY2gsIFF1ZWVuJ3MgVW5pdmVyc2l0eSBvZiBCZWxmYXN0LiAxOTk5LTIwMDIuIE5pdHJvZ2VuIHBoeXNpb2xvZ3kNCg0KICAgb2YgbWFyaW5lIGludGVydGlkYWwgbWFjcm9hbGdhZS4NCg0KDQoNCg0KDQpBcHBvaW50bWVudHMNCg0KQXNzaXN0YW50IFByb2Zlc3NvciwgRGVwdC4gQmlvbG9naWNhbCBTY2llbmNlcywgVW5pdmVyc2l0eSBvZiBXaXNjb25zaW4sIE1pbHdhdWtlZSwNCg0KICAgIE9jdG9iZXIgMjAwMiAtIHByZXNlbnQuDQoNClBvc3Rkb2N0b3JhbCBSZXNlYXJjaCBGZWxsb3cgUXVlZW4ncyBVbml2ZXJzaXR5LCBCZWxmYXN0LCBOb3J0aGVybiBJcmVsYW5kLCBPY3RvYmVyDQoNCiAgICAxOTk5LSBTZXB0ZW1iZXIgMjAwMi4gRW52aXJvbm1lbnRhbCByZWd1bGF0aW9uIG9mIG5pdHJhdGUgcmVkdWN0YXNlIGluIGJyb3duDQoNCiAgICBtYWNyb2FsZ2FlLg0KDQpQb3N0ZG9jdG9yYWwgUmVzZWFyY2hlciwgRGVwdCBCaW9sb2dpY2FsIFNjaWVuY2VzLCBNb25hc2ggVW5pdmVyc2l0eSwgSmFudWFyeSAtDQoNCiAgICBBdWd1c3QgMTk5OS4gUm9sZSBvZiB0cmFjZSBtZXRhbHMgaW4gaW5vcmdhbmljIGNhcmJvbiBhY3F1aXNpdGlvbiBieSBtaWNyb2FsZ2FlLg0KDQpUZWFjaGluZyBBc3Npc3RhbnQsIE1vbmFzaCBVbml2ZXJzaXR5IEF1Z3VzdCAxOTk0IC0gRGVjZW1iZXIgMTk5OC4gVGVhY2hpbmcgYWxsDQoNCiAgICBsZXZlbHMgb2YgYmlvbG9neSBhbmQgcGxhbnQgc2NpZW5jZXMuDQoNCkZpZWxkIFJlc2VhcmNoIEFzc2lzdGFudCwgRGVwdC4gQm90YW55LCBVbml2ZXJzaXR5IG9mIFdlc3Rlcm4gQXVzdHJhbGlhLCBOb3ZlbWJlcg0KDQogICAgMTk5MyAtIEZlYnJ1YXJ5IDE5OTQuIEVjb2xvZ3kgb2Ygc2VhZ3Jhc3MgYW5kIGVwaXBoeXRlIGNvbW11bml0aWVzIHVuZGVyDQoNCiAgICBldXRyb3BoaWNhdGlvbi4NCg0KUmVzZWFyY2ggQXNzaXN0YW50LCBEZXB0IFNvaWwgU2NpZW5jZSBhbmQgUGxhbnQgTnV0cml0aW9uLCBTY2hvb2wgQWdyaWN1bHR1cmUsDQoNCiAgICBVbml2ZXJzaXR5IG9mIFdlc3Rlcm4gQXVzdHJhbGlhLCAxOTkzLiBDSE4gYW5hbHl0aWNhbCB0ZWNobmlxdWVzIGZvciBjcm9wIHBsYW50cy4NCg0KUmVzZWFyY2ggQXNzaXN0YW50IHZvbHVudGVlciwgVGhhbGFzc2EgQUIsIGFsZ2FsIGJpb3RlY2hub2xvZ3kgY29tcGFueS4gVXBwc2FsYSwNCg0KICAgIFN3ZWRlbiwgU2VwdGVtYmVyIC0gTm92ZW1iZXIgMTk5Mi4gQi5PLkQuIGFuYWx5c2lzIGFuZCBhbGdhbCBwaG90b3N5bnRoZXNpcyBmb3INCg0KICAgIGVjb3RveGljb2xvZ2ljYWwgdGVzdGluZy4NCg0KUmVzZWFyY2ggQXNzaXN0YW50LCBJbnN0aXR1dGUgZm9yIFBoeXNpb2xvZ2ljYWwgQm90YW55LCBVcHBzYWxhIFVuaXZlcnNpdHksIFN3ZWRlbiwNCg0KICAgIEp1bmUgMTk5MCAtIEp1bHkgMTk5Mi4gRXN0YWJsaXNoaW5nIHRlY2huaXF1ZXMgZm9yIGluIHNpdHUgUk5BIGh5YnJpZGl6YXRpb24gaW4NCg0KICAgIGN5YW5vYmFjdGVyaWEgYW5kIG1vdXNlIHRpc3N1ZS4NCg0KUmVzZWFyY2ggQXNzaXN0YW50LCBEZXB0LiBCb3RhbnksIFVuaXZlcnNpdHkgb2YgV2VzdGVybiBBdXN0cmFsaWEsIEphbnVhcnkgMTk4OSAtIE1heQ0KDQogICAgMTk5MC4gQmlvY2hlbWlzdHJ5IGFuZCBtb2xlY3VsYXIgcmVndWxhdGlvbiBvZiBsZWd1bWUtcmhpem9iaXVtIHN5bWJpb3Nlcy4NCg0KSG9ub3JzIGFuZCBBd2FyZHMNCg0KMTk4NiBNYXVyaWNlIEJ1Y2hhbiBQcml6ZSBpbiBCb3RhbnksIFVuaXZlcnNpdHkgb2YgV2VzdGVybiBBdXN0cmFsaWEuDQoNCjE5ODcgVy5FLiBCbGFja2FsbCBwcml6ZSBmb3IgQm90YW55LCBVbml2ZXJzaXR5IG9mIFdlc3Rlcm4gQXVzdHJhbGlhLg0KDQoxOTk0LTcgTW9uYXNoIFVuaXZlcnNpdHkgcG9zdC1ncmFkdWF0ZSBzY2hvbGFyc2hpcA0KDQoxOTk2IE1vbmFzaCBVbml2ZXJzaXR5IFRyYXZlbCBTY2hvbGFyc2hpcA0KDQoyMDA0IEVsZWN0ZWQgdG8gU2lnbWEgWGksIFRoZSBTY2llbnRpZmljIFJlc2VhcmNoIFNvY2lldHkNCg0KDQoNClNlbGVjdGVkIFB1YmxpY2F0aW9ucw0KDQpZb3VuZyBFQiwgVHVja2VyIFJDLCBQYW5zY2ggTC4gMjAxMC4gQWxrYWxpbmUgcGhvc3BoYXRhc2UgaW4gZnJlc2h3YXRlciBDbGFkb3Bob3JhLQ0KDQogICAgZXBpcGh5dGUgYXNzZW1ibGFnZXM6IHJlZ3VsYXRpb24gaW4gcmVzcG9uc2UgdG8gcGhvc3Bob3J1cyBzdXBwbHkgYW5kIGxvY2FsaXphdGlvbi4NCg0KICAgIEpvdXJuYWwgb2YgUGh5Y29sb2d5IDQ2OiA5My0xMDEuDQoNCllvdW5nIEVCLCBCZXJnZXMgSkEgYW5kIERyaW5nIE1KLiAyMDA5LiBQaHlzaW9sb2dpY2FsIHJlc3BvbnNlcyBvZiBpbnRlcnRpZGFsIG1hcmluZQ0KDQogICAgYWxnYWUgdG8gbml0cm9nZW4gZGVwcml2YXRpb24gYW5kIHJlc3VwcGx5IG9mIG5pdHJhdGUgYW5kIGFtbW9uaXVtLiBQaHlzaW9sb2dpYQ0KDQogICAgUGxhbnRhcnVtIDEzNTogNDAwLTQxMS4NCg0KTWlsbHMgSkUsIFJlaW5hcnR6IEosIE1leWVyIEdBIGFuZCBZb3VuZyBFQi4gMjAwOS4gQ29uc2VxdWVuY2VzIG9mIGdsb3NzeSBidWNrdGhvcm4NCg0KICAgIChSaGFtbnVzIGZyYW5ndWxhKSBpbnZhc2lvbiBvZiBhIGxhcmdlIHdldGxhbmQgY29tcGxleC4gQmlvbG9naWNhbCBJbnZhc2lvbnMgMTE6DQoNCiAgICAxODAzLTE4MjAuDQoNCllvdW5nIEVCIGFuZCBKYW5zc2VuIEouIDIwMDkuIEVjb2xvZ2ljYWwgUHJvY2Vzc2VzIGFjcm9zcyB0aGUgc2FsaW5pdHkgZGl2aWRlOg0KDQogICBDb250cmFzdHMgYW5kIGNvbXBhcmlzb25zIGluIG1hcmluZSBhbmQgR3JlYXQgTGFrZXMgZWNvc3lzdGVtcy4gSW52aXRlZCBSZXZpZXcNCg0KICBmb3IgQnVsbGV0aW4gb2YgdGhlIEVjb2xvZ2ljYWwgU29jaWV0eSBvZiBBbWVyaWNhLiA5MDogMTE1LTEzMy4NCg0KIEJvdHQgVCwgTWV5ZXIgRy5BLiBhbmQgWW91bmcgRS5CLiAyMDA4LiBOdXRyaWVudCBsaW1pdGF0aW9uIGFuZCBtb3JwaG9sb2dpY2FsDQoNCiAgICBwbGFzdGljaXR5IG9mIHRoZSBjYXJuaXZvcm91cyBwaXRjaGVyIHBsYW50IFNhcnJhY2VuaWEgcHVycHVyZWEgaW4gY29udHJhc3RpbmcNCg0KICAgIHdldGxhbmQgZW52aXJvbm1lbnRzLiBOZXcgUGh5dG9sb2dpc3QgMTgwOjYzMS02NDEuDQoNCiBZb3VuZywgRS5CLiwgRHJpbmcsIE0uSi4gYW5kIEJlcmdlcywgSi5BLiAyMDA3LiBJbnRlcnRpZGFsIEZ1Y3VzIHNwZWNpZXMgc2hvdyBub3ZlbA0KDQogICAgcGF0dGVybnMgb2Ygbml0cmF0ZSByZWR1Y3Rhc2UgYWN0aXZpdHksIHVuYWZmZWN0ZWQgYnkgaXJyYWRpYW5jZSBhbmQgYW1tb25pdW0uDQoNCiAgICBKb3VybmFsIG9mIFBoeWNvbG9neSA0MzoxMjAwIC0gMTIwOC4NCg0KIFlvdW5nIEUuQi4sIERyaW5nIE0uSi4sIFNhdmlkZ2UgRy4sIEJpcmtldHQgRC5BLiBhbmQgSm9obiBBLiBCZXJnZXMuIDIwMDcuIFNlYXNvbmFsDQoNCiAgICB2YXJpYXRpb25zIGluIG5pdHJhdGUgcmVkdWN0YXNlIGFjdGl2aXR5IGFuZCBpbnRlcm5hbCBOIHBvb2xzIGluIGludGVydGlkYWwgYnJvd24gYWxnYWUNCg0KICAgIGFyZSBjb3JyZWxhdGVkIHdpdGggYW1iaWVudCBuaXRyYXRlIGNvbmNlbnRyYXRpb25zLiBQbGFudCBDZWxsIGFuZCBFbnZpcm9ubWVudCAzMDoNCg0KICAgIDc2NC03NzQuDQoNCiBZb3VuZywgRS5CLiBhbmQgQmVhcmRhbGwgSi4gMjAwNS4gTW9kdWxhdGlvbiBvZiBwaG90b3N5bnRoZXNpcyBhbmQgaW5vcmdhbmljIGNhcmJvbg0KDQogICAgYWNxdWlzaXRpb24gaW4gYSBtYXJpbmUgbWljcm9hbGdhIGJ5IG5pdHJvZ2VuLCBpcm9uIGFuZCBsaWdodCBhdmFpbGFiaWxpdHkuIENhbmFkaWFuDQoNCiAgICBKb3VybmFsIG9mIEJvdGFueSBDQ00gSXNzdWUuIDgzICg3KTogOTE3LTkyOC4NCg0KIFlvdW5nLCBFLiwgdmFuIEVsdmVuLCBCLiwgTGF2ZXJ5LCBQLiwgQmVyZ2VzLCBKLiBhbmQgRHJpbmcsIE0uIDIwMDUuIElub3JnYW5pYyBuaXRyb2dlbg0KDQogICAgcHJvZmlsZXMgaW4gc2VhZ3Jhc3MgbWVhZG93cyBhbmQgc3BhdGlhbCBwYXR0ZXJucyBvZiBuaXRyYXRlIHJlZHVjdGFzZSBhY3Rpdml0eSBpbg0KDQogICAgbWFjcm9hbGdhbCBlcGlwaHl0ZXMuIE1hcmluZSBFY29sb2d5IFByb2dyZXNzIFNlcmllcyAyODg6IDEwMy0xMTQuDQoNCiBZb3VuZywgRSwgQm9vdHNtYSwgSCBhbmQgQmVyZ2VzIEouIDIwMDQuIENhbiBBY3Rpdml0eSBvZiBFbnp5bWVzIEludm9sdmVkIGluDQoNCiAgICBOdXRyaWVudCBBc3NpbWlsYXRpb24gYmUgVXNlZnVsIGFzIEluZGljZXMgb2YgTnV0cmllbnQgU3RhdHVzIGluIENsYWRvcGhvcmE/DQoNCiAgICAnQ2xhZG9waG9yYSBSZXNlYXJjaCBhbmQgTWFuYWdlbWVudCBpbiB0aGUgR3JlYXQgTGFrZXMnIEEgV29ya3Nob3AgYXQgdGhlDQoNCiAgICBHcmVhdCBMYWtlcyBXQVRFUiBJbnN0aXR1dGUsIFVXTSwgRGVjIDgsIDIwMDQuDQoNCiAgICBodHRwOi8vd3d3LnV3bS5lZHUvRGVwdC9HTFdJL2NsYWRvcGhvcmEvcGFnZV9yZXBvcnQuaHRtbA0KDQogQm9vdHNtYSwgSCwgWW91bmcsIEUuQi4gYW5kIEJlcmdlcywgSi5BLiAyMDA0LiBUZW1wb3JhbCBhbmQgc3BhdGlhbCBwYXR0ZXJucyBvZg0KDQogICAgQ2xhZG9waG9yYSBiaW9tYXNzIGFuZCBudXRyaWVudCBzdG9pY2hpb21ldHJ5IGluIExha2UgTWljaGlnYW4uIENsYWRvcGhvcmENCg0KICAgIFJlc2VhcmNoIGFuZCBNYW5hZ2VtZW50IGluIHRoZSBHcmVhdCBMYWtlcycgQSBXb3Jrc2hvcCBhdCB0aGUgR3JlYXQgTGFrZXMNCg0KICAgIFdBVEVSIEluc3RpdHV0ZSwgVVdNLCBEZWNlbWJlciA4LCAyMDA0Lg0KDQogICAgaHR0cDovL3d3dy51d20uZWR1L0RlcHQvR0xXSS9jbGFkb3Bob3JhL3BhZ2VfcmVwb3J0Lmh0bWwNCg0KIFlvdW5nLCBFLiBhbmQgQmVhcmRhbGwsIEouICgyMDAzKSBQaG90b3N5bnRoZXRpYyBmdW5jdGlvbiBpbiBEdW5hbGllbGxhIHRlcnRpb2xlY3RhDQoNCiAgICAgZHVyaW5nIGEgbml0cm9nZW4gc3RhcnZhdGlvbiBhbmQgcmVjb3ZlcnkgY3ljbGUuIEpvdXJuYWwgb2YgUGh5Y29sb2d5IDM5OiA4OTctOTA1Lg0KDQogWW91bmcsIEUuIGFuZCBCZWFyZGFsbCwgSi4gMjAwMy4gVHJhbnNpZW50IHBlcnR1cmJhdGlvbnMgaW4gY2hsb3JvcGh5bGwgYSBmbHVvcmVzY2VuY2UNCg0KICAgICBlbGljaXRlZCBieSBuaXRyb2dlbiByZS1zdXBwbHkgdG8gbml0cm9nZW4tc3RyZXNzZWQgbWljcm9hbGdhZTogZGlzdGluY3QgcmVzcG9uc2VzIHRvDQoNCiAgICAgTk8zLSB2ZXJzdXMgTkg0Ky4gSm91cm5hbCBvZiBQaHljb2xvZ3kgMzk6IDMzMi0zNDIuDQoNCiBZb3VuZywgRS4sIEdpb3JkYW5vLCBNLiBhbmQgQmVhcmRhbGwsIEouIDIwMDEuIElub3JnYW5pYyBjYXJib24gYWNxdWlzaXRpb24gYnkNCg0KICAgICBEdW5hbGllbGxhIHRlcnRpb2xlY3RhIChDaGxvcm9waHl0YSkgaW52b2x2ZXMgZXh0ZXJuYWwgY2FyYm9uaWMgYW5oeWRyYXNlIGFuZCBkaXJlY3QNCg0KICAgICBIQ08zLSB1dGlsaXNhdGlvbiAoaW5zZW5zaXRpdmUgdG8gdGhlIGFuaW9uIGV4Y2hhbmdlIGluaGliaXRvciBESURTKS4gRXVyb3BlYW4NCg0KICAgICBKb3VybmFsIG9mIFBoeWNvbG9neSAzNjogODEtODguDQoNCiBCZWFyZGFsbCwgSi4gWW91bmcsIEUuIGFuZCBSb2JlcnRzLCBTLiAyMDAxLiBJbnRlcmFjdGlvbnMgYmV0d2VlbiBudXRyaWVudCB1cHRha2UgYW5kDQoNCiAgICAgY2VsbHVsYXIgbWV0YWJvbGlzbTogYXBwcm9hY2hlcyBmb3IgZGV0ZXJtaW5pbmcgYWxnYWwgbnV0cmllbnQgc3RhdHVzLiBBcXVhdGljDQoNCiAgICAgU2NpZW5jZXMuIDYzICgxKSA0NC02OS4NCg0KIE1jTWFob24sIEssIFlvdW5nLCBFLCBNb250Z29tZXJ5LCBTLCBDb3Nncm92ZSwgSiwgV2lsc2hhdywgSiBhbmQgV2Fsa2VyLCBESSAuDQoNCiAgICAgMTk5OC4gU3RhdHVzIG9mIGEgc2hhbGxvdyBzZWFncmFzcyBzeXN0ZW0sIEdlb2dyYXBoZSBCYXksIHNvdXRod2VzdGVybg0KDQogICAgIEF1c3RyYWxpYS4gSm91cm5hbCBvZiB0aGUgUm95YWwgU29jaWV0eSBvZiBXLkEuIDgwOiAyNTUtMjYyLg0KDQogR2lvcmRhbm8sIE0uLFlvdW5nLCBFLiBhbmQgQmVhcmRhbGwsIEouIDE5OTcuIEV2aWRlbmNlIGZvciB0aGUgYWJzZW5jZSBvZiBhIERJRFMtDQoNCiAgICAgc2Vuc2l0aXZlIEFuaW9uLUV4Y2hhbmdlIHR5cGUgSENPMy0gdHJhbnNwb3J0ZXIgaW4gRHVuYWxpZWxsYSB0ZXJ0aW9sZWN0YS4gUGxhbnQNCg0KICAgICBQaHlzaW9sb2d5IDExNDogMTEwMyBTdXBwbC4gUyBKdWwgMTk5Ny4NCg0KIEJlYXJkYWxsLCBKLiBZb3VuZywgRS4gYW5kIFJvYmVydHMsIFMuIDE5OTUuIEludGVyYWN0aW9ucyBiZXR3ZWVuIHBob3Rvc3ludGhlc2lzIGFuZA0KDQogICAgIHRoZSBhY3F1aXNpdGlvbiBvZiBOIGFuZCBQIGluIER1bmFsaWVsbGEuIEluIFAuTWF0aGlzIChFZCkgJ1Bob3Rvc3ludGhlc2lzIDogZnJvbQ0KDQogICAgIExpZ2h0IHRvIEJpb3NwaGVyZSIgVm9sLiBWIHBwNDM1LTQzOC4gS2x1d2VyIEFjYWRlbWljIFB1Ymxpc2hlcnMuDQoNCiBKb2hhbnNzb24sIFMuIFdpZGUsIE0uLCBZb3VuZywgRS4gYW5kIExpbmRibGFkLCBQLiAxOTkzLiBFeHByZXNzaW9uIG9mIGFsa2FsaW5lDQoNCiAgICAgcGhvc3BoYXRhc2UgaW4gbWF0dXJlIG1vdXNlIHBsYWNlbnRhIHZpc3VhbGlzZWQgYnkgaW4gc2l0dSBoeWJyaWRpemF0aW9uIGFuZA0KDQogICAgIGVuenltZSBoaXN0b2NoZW1pc3RyeS4gQW5hdG9teSBhbmQgRW1icnlvbG9neSAxODc6IDQwOS00MTQuDQoNCiBBdGtpbnMsIEMuQS4sIFN0b3JlciwgUC5KLiBhbmQgWW91bmcsIEUuQi4gMTk5MS4gVHJhbnNsb2NhdGlvbiBvZiBuaXRyb2dlbiBhbmQNCg0KICAgICBleHByZXNzaW9uIG9mIG5vZHVsZS1zcGVjaWZpYyB1cmljYXNlIChub2R1bGluLTM1KSBpbiBSb2JpbmlhIHBzZXVkb2FjYWNpYS4NCg0KICAgICBQaHlzaW9sb2dpYSBQbGFudGFydW0gODM6IDQ4My00OTEuDQoNCg0KDQpSZXNlYXJjaCBGdW5kaW5nDQoNCiBXaXNjb25zaW4gRE5SIC0gU3RhdGUgV2lsZGxpZmUgR3JhbnQuIEouIFJlaW5hcnR6LCBBLiBSZWlzLCBFLiBZb3VuZywgSi4gTWlsbHMgYW5kIEouDQoNCiAgICAgUGVsdGllci4gQ29uc2VydmF0aW9uLCBtYW5hZ2VtZW50LCBhbmQgcmVzdG9yYXRpb24gb2YgdGFtYXJhY2sgaW4gdGhlIFNvdXRoZXJuDQoNCiAgICAgVGFtYXJhY2sgU3dhbXBzIG9mIFdpc2NvbnNpbi4gJDc0LDgyMCBmdW5kZWQuIEFwcmlsIDIwMDcuDQoNCiBVV00gUmVzZWFyY2ggR3Jvd3RoIEluaXRpYXRpdmUuIEUuIFlvdW5nIChMZWFkIFBJKSBhbmQgSi4gQmVyZ2VzLiBQaG9zcGhvcnVzDQoNCiAgICAgQWNxdWlzaXRpb24gOiBFeHBsb3JpbmcgTmV3IFBhcmFkaWdtcyBpbiBGcmVzaHdhdGVyIFBoeXRvcGxhbmt0b24uIFN1Ym1pdHRlZA0KDQogICAgIE9jdG9iZXIgMjAwNi4gJDYxLDY3My4gSnVseSAyMDA3IC0gRGVjIDIwMDguDQoNClVXTSBSZXNlYXJjaCBHcm93dGggSW5pdGlhdGl2ZS4gRS4gWW91bmcgKExlYWQgUEkpLCBHLiBNZXllciwgSi4gUmVpbmFydHouIExvbmcgVGVybQ0KDQogICBFY29sb2dpY2FsIENoYW5nZSBpbiBhIFZ1bG5lcmFibGUgV2lzY29uc2luIFdldGxhbmQuIFN1Ym1pdHRlZCBKYW4gMjAwNi4NCg0KICAgJDgwLDE1NiBKdWx5IDEsIDIwMDYgLSBKdW5lIDMwLCAyMDA3Lg0KDQpNaWx3YXVrZWUgTWV0cm9wb2xpdGFuIFNld2FnZSBEaXN0cmljdDogSC5BLiBCb290c21hIGFuZCBFLkIuIFlvdW5nLiBXYXRlciBRdWFsaXR5DQoNCiAgIE1hbmFnZW1lbnQgT3B0aW9ucyB0byBDb250cm9sIENsYWRvcGhvcmEgR3Jvd3RoIGluIHRoZSBNaWx3YXVrZWUgUmVnaW9uIG9mDQoNCiAgIExha2UgTWljaGlnYW4sIFBoYXNlIElJLiAkMTIwLDAyMC45NSBmdW5kZWQgKEp1bHkgMDUgLSBEZWMgMDYpDQoNCk1pbHdhdWtlZSBNZXRyb3BvbGl0YW4gU2V3YWdlIERpc3RyaWN0LiBILiBCb290c21hIGFuZCBFLiBCLiBZb3VuZy4gV2F0ZXIgcXVhbGl0eQ0KDQogICBtYW5hZ2VtZW50IG9wdGlvbnMgdG8gY29udHJvbCBDbGFkb3Bob3JhIGdyb3d0aCBpbiB0aGUgTWlsd2F1a2VlIFJlZ2lvbiBvZiBMYWtlDQoNCiAgIE1pY2hpZ2FuLiAkODMsNDkzIGZ1bmRlZCAoSnVseSAwMyAtIE9jdCAwNCkuDQoNClVXTSBDZW50ZXIgZm9yIFdhdGVyIFNlY3VyaXR5LiBFLiBZb3VuZyAoTGVhZCBQSSkgYW5kIEouIEJlcmdlcy4gUGlsb3QgU3R1ZHkNCg0KICAgUHJvcG9zYWwuIEZsdW9yb21ldHJpYyBtb25pdG9yaW5nIG9mIGFxdWF0aWMgdG94aW5zIHVzaW5nIG1pY3JvYWxnYWUuICQyNCw1NzQgKERlYw0KDQogICAwNCAtIERlYyAwNSkuDQoNClVXTSBHcmFkdWF0ZSBTY2hvb2wgUmVzZWFyY2ggQ29tbWl0dGVlOiBFLkIuIFlvdW5nLiBOdXRyaWVudCBpbmR1Y2VkIGNobG9yb3BoeWxsDQoNCiAgIGEgZmx1b3Jlc2NlbmNlIHRyYW5zaWVudHMgYXMgYSBkaWFnbm9zdGljIG9mIG51dHJpZW50IGxpbWl0YXRpb24gaW4gZnJlc2h3YXRlcg0KDQogICBtaWNyb2FsZ2FlLiAkMTQsOTk1IChKdW5lIDAzIC0gSnVuZSAwNCkuDQoNCkF1c3RyYWxpYW4gUmVzZWFyY2ggQ291bmNpbC4gSi4gQmVhcmRhbGwgYW5kIEUuIFlvdW5nLiBQdXJjaGFzZSBvZiBQdWxzZSBBbXBsaXR1ZGUNCg0KICAgTW9kdWxhdGVkIEZsdW9yb21ldGVyLiB+VVMkMTksMDAwLiBEZWMgMTk5NCAoYXQgTW9uYXNoIFVuaXZlcnNpdHkpLg0KDQoNCg0KDQoNCiAgICAgT3V0cmVhY2ggYW5kIFN5bmVyZ2lzdGljIEFjdGl2aXRpZXMNCg0KaSkgICAgR3JhZHVhdGUgU3R1ZGVudHMgYW5kIHJlc2VhcmNoZXJzIG1lbnRvcmVkIDogR3JhY2UgSmVubmluZ3MgKFF1ZWVuJ3MgVW5pdiwNCg0KICAgICBCZWxmYXN0IDIwMDEtMiksIFRlcnJ5IEJvdHQsIENoZWxzZWEgTG93ZXMsIEFsaWNpYSBIYW5zb24gKEdyYWR1YXRlIFN0dWRlbnRzLA0KDQogICAgIFVXTSksIEphc29uIE1pbGxzIChwb3N0ZG9jdG9yYWwgYXNzb2NpYXRlKQ0KDQppaSkgVW5kZXJncmFkdWF0ZSBTdHVkZW50cyBtZW50b3JlZCA6IElhaW4gU3Rld2FydCwgQWFyb24gRHVuY2FuLCBTYXJhaCBNY0N1bGxhdWdoDQoNCiAgICAgKFF1ZWVuJ3MgVW5pdiBvZiBCZWxmYXN0IDE5OTkgLSAyMDAyKS4gVmFuZXNzYSBBc2gsIEJyZXR0IEZsb3lkLCBUZXJlc2EgUm90aCwNCg0KICAgICBNYXJpZSBCYXJhYmFzLCBSZWJlY2NhIFR1Y2tlciwgSmFtaWUgU21pdGgsIERhbmllbGxlIFNpcHBlbCwgSmFzb24gU2Nocm9lZGVyLA0KDQogICAgIExlYWggS2xhdHQsIExpenogV2FyaW5nLCBNYXJ5IE1jUXVpZ2dpbiwgQW15IFJ5bWFzemV3c2tpIChVV00gMjAwNCAtIDIwMDgpLg0KDQppaWkpIE1lbnRvcmVkIDUgc3R1ZGVudHMgaW4gTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uIEZ1bmRlZCBSRVUgcHJvZ3JhbSBpbg0KDQogICAgIEFxdWF0aWMgU2NpZW5jZXMgKDEgbWlub3JpdHkgc3R1ZGVudCkuDQoNCml2KSBNZW50b3JlZCAyIGhpZ2ggc2Nob29sIHN0dWRlbnRzLCAyIG1pZGRsZSBzY2hvb2wgc3R1ZGVudHMgZm9yIHNjaWVuY2UgcHJvamVjdHMgaW4NCg0KICAgICAyMDA1IC0gMjAwOC4NCg0KdikgRWRpdG9yaWFsIEJvYXJkLCBKb3VybmFsIG9mIFBoeWNvbG9neSAyMDA4IC0gMjAxMA0KDQp2aSkgTWFudXNjcmlwdCByZXZpZXdlciBmb3IgSm91cm5hbHM6IEFxdWFjdWx0dXJlLCBBcXVhdGljIEJvdGFueSwgQm90YW5pY2EgTWFyaW5hLA0KDQogICAgIENvbnNlcnZhdGlvbiBCaW9sb2d5LCBFbnZpcm9ubWVudGFsIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3ksIEV1cm9wZWFuIEpvdXJuYWwgb2YNCg0KICAgICBQaHljb2xvZ3ksIEpvdXJuYWwgb2YgRXhwZXJpbWVudGFsIEJvdGFueSwgSm91cm5hbCBvZiBQaHljb2xvZ3ksIExpbW5vbG9neSBhbmQNCg0KICAgICBPY2Vhbm9ncmFwaHksIE1hcmluZSBhbmQgRnJlc2h3YXRlciBSZXNlYXJjaCwgTWFyaW5lIEJpb2xvZ3ksIE1hcmluZSBFY29sb2d5DQoNCiAgICAgUHJvZ3Jlc3MgU2VyaWVzLCBOZXcgUGh5dG9sb2dpc3QsIFBob3Rvc3ludGhlc2lzIFJlc2VhcmNoLCBQaHljb2xvZ2lhLCBDaGFwdGVyDQoNCiAgICAgcmV2aWV3IGZvciBlZGl0ZWQgdm9sdW1lIG9uIER1bmFsaWVsbGEgcGhvdG9zeW50aGVzaXMNCg0KdmlpKSBQcm9wb3NhbCByZXZpZXdlciBmb3IgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBJc3JhZWwgU2NpZW5jZSBGb3VuZGF0aW9uLCBVUw0KDQogICAgIENpdmlsaWFuIFJlc2VhcmNoICYgRGV2ZWxvcG1lbnQgRm91bmRhdGlvbiwgTmV3IFlvcmsgU2VhIEdyYW50Lg0KDQp2aWlpKSBDby1vcmdhbml6ZXIgYW5kIENoYWlyIGZvciBzZXNzaW9ucyBhdCBFdXJvcGVhbiBQaHljb2xvZ2ljYWwgQ29uZ3Jlc3MsIEJlbGZhc3QsDQoNCiAgICAgVUsgMjAwMywgSW50ZXJuYXRpb25hbCBBc3NvY2lhdGlvbiBmb3IgR3JlYXQgTGFrZXMgUmVzZWFyY2ggKElBR0xSKSAyMDA1LA0KDQppeCkgRWNvbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EgMjAwOCBtZWV0aW5nLCBTcGVjaWFsIEFxdWF0aWMgU2Vzc2lvbi4gQ28tb3JnYW5pemVyDQoNCiAgICAgLSAnQ2xhZG9waG9yYSBSZXNlYXJjaCBhbmQgTWFuYWdlbWVudCBpbiB0aGUgR3JlYXQgTGFrZXMnIFdvcmtzaG9wIGF0IFVuaXYNCg0KICAgICBXaXNjb25zaW4tTWlsd2F1a2VlLCAyMDA0LiBTZXNzaW9uIFJldmlld2VyIGZvciBFY29sb2dpY2FsIFNvY2lldHkgb2YgQW1lcmljYQ0KDQogICAgIDIwMDggbWVldGluZyAtIE9jdG9iZXIgMjAwNy4NCg0KeCkgQ29tbXVuaXR5IE91dHJlYWNoOg0KDQogICAgIE1pbHdhdWtlZSdzICJMYWtlIFN0dXJnZW9uIEJvd2wiIChwYXJ0IG9mIHRoZSBOYXRpb25hbCBPY2VhbiBTY2llbmNlIEJvd2wpDQoNCiAgICAgU2NpZW5jZSBKdWRnZSwgMjAwMywgY29udHJpYnV0ZWQgdGVhbSBjaGFsbGVuZ2UgcXVlc3Rpb25zIHRvIHRoZSBOYXRpb25hbCBPY2Vhbg0KDQogICAgIFNjaWVuY2VzIEJvd2wgY29tcGV0aXRpb24sIEZhbGwgMjAwNS4NCg0KICAgICBQYW5lbCBtZW1iZXIsIFB1YmxpYyBmb3J1bSBvbiBDbGFkb3Bob3JhIElzc3VlcyBvbiBMYWtlIE1pY2hpZ2FuIHNob3JlbGluZS4NCg0KICAgICAgICAgTGFrZSBQYXJrIFBhdmlsaW9uLCBNaWx3YXVrZWUgSnVseSAyMDA0Lg0KDQogICAgIEludml0ZWQgbGVjdHVyZXMgdG8gUHVibGljIEZvcnVtICdOdWlzYW5jZSBBbGdhZSBpbiBMYWtlIE1pY2hpZ2FuJywgTGFrZXNob3JlDQoNCiAgICAgICAgIFRlY2huaWNhbCBDb2xsZWdlLCBDbGV2ZWxhbmQsIFdpc2NvbnNpbiBGZWJydWFyeSAxOCwgMjAwNSA6IEVyaWNhIFlvdW5nLA0KDQogICAgICAgICBIYXJ2ZXkgQm9vdHNtYSBhbmQgSm9obiBCZXJnZXMuIENsYWRvcGhvcmEgQmlvbWFzcyBhbmQgTnV0cmllbnQgU3RhdHVzIGluDQoNCiAgICAgICAgIExha2UgTWljaGlnYW4sIGFuZCBDb250cmlidXRlZCB0byBwYW5lbCBkaXNjdXNzaW9uIGNvLW9yZGluYXRlZCBieSBXSSBETlIuDQoNCiAgICAgWW91bmcsIEUuQi4sIGFuZCBKLiBBLiBCZXJnZXMuIDIwMDUuIENsYWRvcGhvcmEgaW4gdGhlIEdyZWF0IExha2VzOiBDdXJyZW50DQoNCiAgICAgICAgIHBlcnNwZWN0aXZlcyBmcm9tIHRoZSByZXNlYXJjaCBjb21tdW5pdHkuIE51aXNhbmNlIEFsZ2FlIGluIExha2UgTWljaGlnYW4NCg0KICAgICAgICAgUHVibGljIEZvcnVtLCBMYWtlc2hvcmUgVGVjaG5pY2FsIENvbGxlZ2UsIENsZXZlbGFuZCwgV2lzY29uc2luLiBGZWJydWFyeSAxOC4NCg0KICAgICAgICAgaHR0cDovL2Ruci53aS5nb3Yvb3JnL3dhdGVyL2dyZWF0bGFrZXMvY2xhZG9waG9yYS9Gb3J1bS5odG1sIEEgdHJhaW5pbmcgdmlkZW8NCg0KICAgICAgICAgd2FzIGRldmVsb3BlZCBmcm9tIHRoaXMgdGFsayBmb3IgdXNlIGJ5IFdJIEROUi4NCg0KICAgICBQcmVzZW50YXRpb24gOiBCb290c21hLCBILCBZb3VuZywgRS5CLiBhbmQgQmVyZ2VzLCBKLkEuIFByZXNlbnRhdGlvbiB0byBNTVNEDQoNCiAgICAgICAgIG1hbmFnZW1lbnQgc3RhZmYgKEtldmluIFNoYWZlcikuIFRlbXBvcmFsIGFuZCBzcGF0aWFsIHBhdHRlcm5zIG9mIENsYWRvcGhvcmENCg0KICAgICAgICAgYmlvbWFzcyBhbmQgbnV0cmllbnQgc3RvaWNoaW9tZXRyeSBpbiBMYWtlIE1pY2hpZ2FuLiBNTVNEIE1pbHdhdWtlZSBPZmZpY2UuDQoNCiAgICAgICAgIEZlYiAxMCwgMjAwNS4NCg0KICAgICBJbnZpdGVkIGxlY3R1cmVzIHRvIFB1YmxpYyBGb3J1bSAnTnVpc2FuY2UgQWxnYWUgaW4gTGFrZSBNaWNoaWdhbicsIExha2VzaG9yZQ0KDQogICAgICBUZWNobmljYWwgQ29sbGVnZSwgQ2xldmVsYW5kLCBXaXNjb25zaW4gRmVicnVhcnkgMTgsIDIwMDUgOiBFcmljYSBZb3VuZywNCg0KICAgICAgSGFydmV5IEJvb3RzbWEgYW5kIEpvaG4gQmVyZ2VzLiBDbGFkb3Bob3JhIEJpb21hc3MgYW5kIE51dHJpZW50IFN0YXR1cyBpbg0KDQogICAgICBMYWtlIE1pY2hpZ2FuLCBhbmQgQ29udHJpYnV0ZWQgdG8gcGFuZWwgZGlzY3Vzc2lvbiBjby1vcmRpbmF0ZWQgYnkgV0kgRE5SLg0KDQogICBDb250cmlidXRlZCBwaG90b2dyYXBocyBhbmQgZ2F2ZSAyIGhvdXIgaW50ZXJ2aWV3IHRvIFBldGVyIFNwb3R0cywgU2NpZW5jZSB3cml0ZXINCg0KICAgICAgZm9yIENocmlzdGlhbiBTY2llbmNlIE1vbml0b3IuIEV4dGVuc2l2ZSBhcnRpY2xlIG9uIENsYWRvcGhvcmEgaW4gdGhlIEdyZWF0IExha2VzDQoNCiAgICAgIGFwcGVhcmVkIGluIFRoZSBDaHJpc3RpYW4gU2NpZW5jZSBNb25pdG9yLCAzMCBNYXJjaCwgMjAwNi4NCg0KICAgVGVsZXZpc2lvbiBpbnRlcnZpZXcgZm9yIEZveCA2IE5ld3MgLSBSR0kgcmVzZWFyY2ggcHJvamVjdCAiTG9uZyB0ZXJtIGVjb2xvZ2ljYWwNCg0KICAgICAgY2hhbmdlIGluIGEgcHJvdGVjdGVkIHdldGxhbmQiLiBTdG9yeSBhaXJlZCBvbiBGb3ggNiBOZXdzIFNhdHVyZGF5IDI5IEp1bHksDQoNCiAgICAgIDIwMDYuDQoNCiAgIENvbnRyaWJ1dGVkIHRvIGFuZCBpbnRlcnZpZXdlZCBmb3IgV0kgRE5SIGluZm9ybWF0aW9uYWwgdmlkZW8gb24gQ2xhZG9waG9yYSBpbiB0aGUNCg0KICAgICAgR3JlYXQgTGFrZXMuIE9jdCAyMDA3Lg0KDQoNCg0KUmVjZW50IENvbmZlcmVuY2UgUHJlc2VudGF0aW9ucyAoMjAwNiAtIDIwMTEpDQoNCg0KDQpZb3VuZyBFQiwgTG93ZXMgQ0ksIEhhbnNvbiBBTSwgVHVja2VyIFJDLCBPbm9yZXZvbGUgSy4gMjAxMSBPcmdhbmljIFBob3NwaG9ydXMNCg0KICAgU291cmNlcyBTdXBwb3J0IE5lYXJzaG9yZSBQcm9kdWN0aXZpdHkgaW4gRnJlc2h3YXRlciBFY29zeXN0ZW1zLiBBbWVyaWNhbiBTb2MNCg0KICAgTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkgQ29uZmVyZW5jZSwgUHVlcnRvIFJpY28sIEZlYiAyMDExLg0KDQpMZWUgUE8sIE1jTGVsbGFuIFNMLCBZb3VuZyBFQi4gQVNMTyAyMDExIC4gRXhhbWluaW5nIE5lYXJzaG9yZSBCZW50aGljIEJhY3RlcmlhbA0KDQogICBhbmQgTWljcm9hbGdhbCBEaXZlcnNpdHkgaW4gTGFrZSBNaWNoaWdhbi4gQW1lcmljYW4gU29jIExpbW5vbG9neSBhbmQNCg0KICAgT2NlYW5vZ3JhcGh5IENvbmZlcmVuY2UsIFB1ZXJ0byBSaWNvLCBGZWIgMjAxMS4NCg0KWW91bmcgRUIuIFBob3NwaG9ydXMgYWNxdWlzaXRpb24gYnkgZnJlc2h3YXRlciBhbGdhZTogc291cmNlcywgc3RyYXRlZ2llcyBhbmQNCg0KICAgc2VsZWN0aW9uLiBJbnZpdGVkIHNlbWluYXIgdG8gVW5pdiBXaXNjb25zaW4tTWFkaXNvbiBEZXB0IEJvdGFueS4gT2N0b2JlciA3LCAyMDEwLg0KDQpZb3VuZyBFQi4gQWx0ZXJuYXRpdmUgTGlmZXN0eWxlczogcGxhbnRzIHRoYXQgZWF0IGFuaW1hbHMgLi4uIHRoZSB3aHksIHdoYXQgYW5kIHdoZXJlIG9mDQoNCiAgIGNhcm5pdm9yb3VzIHBsYW50cy4gSW52aXRlZCBwdWJsaWMgbGVjdHVyZSBmb3IgRGVwdCBOYXR1cmFsIFJlc291cmNlcyBLZXR0bGUgTW9yYWluZQ0KDQogICBOb3J0aGVybiBVbml0LCAzMSBKdWx5LCAyMDEwLg0KDQpZb3VuZyBFQiwgTG93ZXMsIENJLCBIYW5zb24gQU0sIE9ub3Jldm9sZSBLLiBBbGthbGluZSBwaG9zcGhhdGFzZSBhY3Rpdml0eSBhbmQgdXNlDQoNCiAgIG9mIGFsdGVybmF0aXZlIHBob3NwaG9ydXMgc291cmNlcyBieSBwaHl0b3BsYW5rdG9uIGluIFAtbGltaXRlZCBmcmVzaHdhdGVyDQoNCiAgIGVjb3N5c3RlbXMuIFBoeWNvbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EgQW5udWFsIG1lZXRpbmcsIEVhc3QgTGFuc2luZywgTUkuIEp1bHkNCg0KICAgMTAgLSAxNCwgMjAxMC4NCg0KWW91bmcgRUIuIEFsdGVybmF0aXZlIExpZmVzdHlsZXM6IHBsYW50cyB0aGF0IGVhdCBhbmltYWxzIC4uLiB0aGUgd2h5LCB3aGF0IGFuZCB3aGVyZSBvZg0KDQogICBjYXJuaXZvcm91cyBwbGFudHMuIEludml0ZWQgcHVibGljIGxlY3R1cmUgZm9yIFJpdmVyZWRnZSBOYXR1cmUgQ2VudGVyLCAyMCBBcHJpbCAyMDEwDQoNCiAgIENlZGFyYnVyZywgV0kuDQoNCkhhbnNvbiBBLCBZb3VuZyBFQiwgQmVyZ2VzIEpBLiAyMDEwLiBWaXJ1c2VzIGluIExha2UgTWljaGlnYW4gYW5kIGEgZXV0cm9waGljIHBvbmQ6DQoNCiAgIEEgc2Vhc29uYWwgc3R1ZHkgb2YgdGhlIGZhY3RvcnMgY29udHJvbGxpbmcgdmlyYWwgYWJ1bmRhbmNlIGFjcm9zcyB0aHJlZSBmcmVzaHdhdGVyDQoNCiAgIGxvY2F0aW9ucy4gSW50ZXJuYXRpb25hbCBBc3NvY2lhdGlvbiBmb3IgR3JlYXQgTGFrZXMgUmVzZWFyY2guIFRvbGVkbyBPSCwgTWF5DQoNCiAgIDIwMDkuDQoNCk9ub3Jldm9sZSwgSywgQmVyZ21hbm4sIEEsIEJlcmdlcywgSiBBLCBZb3VuZywgRSBCLiAyMDEwIFJlc3BvbnNlcyBPZg0KDQogICBQaHl0b3BsYW5rdG9uIEFsa2FsaW5lIFBob3NwaGF0YXNlIEFjdGl2aXR5IEluIExha2UgTWljaGlnYW4gQW5kIEEgRXV0cm9waGljDQoNCiAgIFVyYmFuIFBvbmQgVG8gTnV0cmllbnQgRW5yaWNobWVudC4gQW1lcmljYWwgU29jIExpbW5vbG9neSBhbmQgT2NlYW5vZ3JhcGh5DQoNCiAgIG1lZXRpbmcsIFBvcnRsYW5kIE9SLCBGZWJydWFyeSAyMDEwLg0KDQpCZXJnZXMsIEogQSwgT25vcmV2b2xlLCBLLCBCZXJnbWFubiwgQSwgR3Vpbm4sIEUsIEhhbnNvbiwgQSwgTHVrYSwgQSwgWW91bmcsIEUgQi4NCg0KICAgMjAxMC4gTnV0cmllbnQgZWNvcGh5c2lvbG9neSBvZiBmcmVzaHdhdGVyIGRpYXRvbXM6IGluc2lnaHRzIGZyb20gYmlvY2hlbWljYWwNCg0KICAgbWVhc3VyZW1lbnRzIG9mIG5pdHJvZ2VuLCBzaWxpY2EgYW5kIHBob3NwaG9ydXMgbWV0YWJvbGlzbS4gQW1lcmljYWwgU29jDQoNCiAgIExpbW5vbG9neSBhbmQgT2NlYW5vZ3JhcGh5IG1lZXRpbmcsIFBvcnRsYW5kIE9SLCBGZWJydWFyeSAyMDEwLg0KDQpFLkIuIFlvdW5nIDIwMDkuIEEgd29ybGQgaW4geW91ciB0ZWFjdXA6IEVjb3BoeXNpb2xvZ3kgYWNyb3NzIGRpdmVyc2UgZWNvc3lzdGVtcy4NCg0KICAgRGVwYXJ0bWVudGFsIGNvbGxvcXVpdW0uIERlcHQgQmlvbG9naWNhbCBTY2llbmNlcywgVW5pdmVyc2l0eSBvZiBXaXNjb25zaW4tDQoNCiAgIE1pbHdhdWtlZS4gMiBPY3RvYmVyLCAyMDA5Lg0KDQpZb3VuZyBFQi4gMjAwOS4gSW50ZXJhY3Rpb25zIG9mIGNhcmJvbiBkaW94aWRlIGF2YWlsYWJpbGl0eSBpbiB0aGUgc2VhIGFuZCBudXRyaWVudCBzdXBwbHkNCg0KICAgb24gYWxnYWwgcGh5c2lvbG9neS4gSW52aXRlZCBQcmVzZW50YXRpb24gZm9yIFNwZWNpYWwgU3ltcG9zaXVtICJDbGltYXRlIENoYW5nZToNCg0KICAgVGhlIHJvbGUgb2YgTWFyaW5lIEFsZ2FlIGluIHRoZSBjYXJib25hdGUgY3ljbGUiLiBCb3RhbmljYWwgU29jaWV0eSBvZiBBbWVyaWNhLA0KDQogICAgQW5udWFsIG1lZXRpbmcsIFNhbHQgTGFrZSBDaXR5LCBVVC4gSnVseSAyMDA5Lg0KDQpNaWxscyBKRSwgR0EuIE1leWVyLCBKQS4gUmVpbmFydHosIEVCLiBZb3VuZy4gMjAwOS4gSW52YXNpdmUgZ2xvc3N5IGJ1Y2t0aG9ybiBzaG93cw0KDQogICAgaGlnaGVyIHJlY3J1aXRtZW50IGFuZCBicm9hZGVyIGVudmlyb25tZW50YWwgdG9sZXJhbmNlIHRoYW4gY28tb2NjdXJyaW5nIG5hdGl2ZQ0KDQogICAgc2hydWIgc3BlY2llcy4gU29jaWV0eSBvZiBXZXRsYW5kcyBTY2llbnRpc3RzIG1lZXRpbmcsIE1hZGlzb24gV0ksIEp1bmUgMjAwOS4NCg0KTG93ZXMgQ0ksIERhc3NleSBUVywgWW91bmcgRUIuIDIwMDkuIEFzc2Vzc2luZyBFZmZlY3RzIG9mIEdseXBob3NhdGUgYXMgYSBUb3hpbg0KDQogICAgYW5kIFBvdGVudGlhbCBQaG9zcGhvcnVzIFNvdXJjZSBmb3IgR3JlYXQgTGFrZXMgUGh5dG9wbGFua3Rvbi4gSW50ZXJuYXRpb25hbA0KDQogICAgQXNzb2NpYXRpb24gZm9yIEdyZWF0IExha2VzIFJlc2VhcmNoLiBUb2xlZG8gT0gsIE1heSAyMDA5Lg0KDQpIYW5zb24gQSwgWW91bmcgRUIsIEJlcmdlcyBKQS4gMjAwOS4gVmlydXNlcyBpbiBMYWtlIE1pY2hpZ2FuIGFuZCBhIGV1dHJvcGhpYyBwb25kOg0KDQogICAgQSBzZWFzb25hbCBzdHVkeSBvZiB0aGUgZmFjdG9ycyBjb250cm9sbGluZyB2aXJhbCBhYnVuZGFuY2UgYWNyb3NzIHRocmVlIGZyZXNod2F0ZXINCg0KICAgIGxvY2F0aW9ucy4gSW50ZXJuYXRpb25hbCBBc3NvY2lhdGlvbiBmb3IgR3JlYXQgTGFrZXMgUmVzZWFyY2guIFRvbGVkbyBPSCwgTWF5DQoNCiAgICAyMDA5Lg0KDQpBLiBIYW5zb24sIEouIEJlcmdlcywgRS4gWW91bmcuIFZpcnVzZXMgaW4gTGFrZSBNaWNoaWdhbjogRXhhbWluaW5nIHRoZSB2aXJ1cw0KDQogICAgY29tbXVuaXR5IGFuZCB0aGUgcm9sZSBvZiB2aXJ1c2VzIGluIHRoZSBwaG9zcGhvcnVzIGN5Y2xlLiBBU0xPIHN1bW1lciBtZWV0aW5nLA0KDQogICAgTmV3Zm91bmRsYW5kLCBDYW5hZGEsIEp1bmUgMjAwOC4NCg0KQy4gTG93ZXMsIEUuIFlvdW5nLiBBbHRlcm5hdGl2ZSBzb3VyY2VzIG9mIHBob3NwaG9ydXMgZm9yIGZyZXNod2F0ZXIgY3lhbm9iYWN0ZXJpYQ0KDQogICAgYW5kIExha2UgTWljaGlnYW4gcGh5dG9wbGFua3Rvbi4gSW50ZXJuYXRpb25hbCBBc3NvY2lhdGlvbiBvZiBHcmVhdCBMYWtlcw0KDQogICAgUmVzZWFyY2gsIGFubnVhbCBtZWV0aW5nLCBQZXRlcmJvcm91Z2gsIENhbmFkYSwgTWF5IDE5LTIzLCAyMDA4Lg0KDQpKLiBCZXJnZXMsIEUuIEd1aW5uLCBCLiBWb24gS29yZmYsIEUuIFlvdW5nLiBBcmUgbnVpc2FuY2UgYmxvb21zIG9mIGJlbnRoaWMgYWxnYWUNCg0KICAgIHJlc2hhcGluZyBuZWFyc2hvcmUgc2lsaWNhIGN5Y2xpbmcgaW4gTGFrZSBNaWNoaWdhbj8gSW50ZXJuYXRpb25hbCBBc3NvY2lhdGlvbiBvZg0KDQogICAgR3JlYXQgTGFrZXMgUmVzZWFyY2gsIGFubnVhbCBtZWV0aW5nLCBQZXRlcmJvcm91Z2gsIENhbmFkYSwgTWF5IDE5LTIzLCAyMDA4Lg0KDQpBLiBIYW5zb24sIEouIEJlcmdlcywgRS4gWW91bmcuIFZpcnVzZXMgaW4gTGFrZSBNaWNoaWdhbjogRXhhbWluaW5nIHRoZSB2aXJ1cw0KDQogICAgY29tbXVuaXR5IGFuZCB0aGUgcm9sZSBvZiB2aXJ1c2VzIGluIHRoZSBwaG9zcGhvcnVzIGN5Y2xlLiBJbnRlcm5hdGlvbmFsIEFzc29jaWF0aW9uDQoNCiAgICBvZiBHcmVhdCBMYWtlcyBSZXNlYXJjaCwgYW5udWFsIG1lZXRpbmcsIFBldGVyYm9yb3VnaCwgQ2FuYWRhLCBNYXkgMTktMjMsIDIwMDguDQoNCkouIE1pbGxzLCBKLiBSZWluYXJ0eiwgRy4gTWV5ZXIsIEUuIFlvdW5nLiBMb25nIHRlcm0gQ2hhbmdlIGluIFZlZ2V0YXRpb24gb2YgYQ0KDQogICAgV2lzY29uc2luIHdldGxhbmQ6IEFuIEVmZmVjdCBvZiBDbGltYXRlIENoYW5nZT8gR2xvYmFsIENsaW1hdGUgQ2hhbmdlDQoNCiAgICBTdXN0YWluYWJsZSBEZXZlbG9wbWVudCBJbml0aWF0aXZlIGNvbmZlcmVuY2UsIEFwcmlsIDI0LTI1LCAyMDA4LCBNaWx3YXVrZWUgV0kuDQoNCkouIE1pbGxzLCBKLiBSZWluYXJ0eiwgRy4gTWV5ZXIsIEUuIFlvdW5nLiBHbG9zc3kgYnVja3Rob3JuIChSaGFtbnVzIGZyYW5ndWxhKSBpbnZhc2lvbg0KDQogICAgYXQgQ2VkYXJidXJnIEJvZzogMTk5MSB0byAyMDA2LiBXaXNjb25zaW4gV2V0bGFuZHMgQXNzb2NpYXRpb24gYW5udWFsDQoNCiAgICBjb25mZXJlbmNlLCBXSSwgSmFuIDIwMDguDQoNCkouIFJlaW5hcnR6LCBELiBTaXBwZWwsIEouIE1pbGxzLCBFLllvdW5nLCBHLiBNZXllci4gR3Jvd3RoIHBhdHRlcm5zIG9mIGdsb3NzeSBidWNrdGhvcm4NCg0KICAgIChSaGFtbnVzIGZyYW5ndWxhKSBhbmQgdGFtYXJhY2sgKExhcml4IGxhcmljaW5hKSBpbiBDZWRhcmJ1cmcgQm9nLiBXaXNjb25zaW4NCg0KICAgIFdldGxhbmRzIEFzc29jaWF0aW9uIGFubnVhbCBjb25mZXJlbmNlLCBXSSwgSmFuIDIwMDguDQoNCkUuIFlvdW5nLCBULiBCb3R0LCBHLiBNZXllci4gTW9ycGhvbG9naWNhbCBkaXZlcnNpdHkgb2YgdGhlIE5vcnRoZXJuIFBpdGNoZXIgUGxhbnQuDQoNCiAgICBXaXNjb25zaW4gV2V0bGFuZHMgQXNzb2NpYXRpb24gYW5udWFsIGNvbmZlcmVuY2UsIFdJLCBKYW4gMjAwOC4NCg0KSi4gU2Nocm9lZGVyLCBFLllvdW5nLCBKLiBNaWxscywgSi4gUmVpbmFydHouIExhbmQgY292ZXIgY2hhbmdlIG92ZXIgNjAgeWVhcnMgb24NCg0KICAgIGxhbmRzY2FwZSBzdXJyb3VuZGluZyBDZWRhcmJ1cmcgQm9nLiBXaXNjb25zaW4gV2V0bGFuZHMgQXNzb2NpYXRpb24gYW5udWFsDQoNCiAgICBjb25mZXJlbmNlLCBXSSwgSmFuIDIwMDguDQoNCkNob2kgQ0osIEJlcmdlcyBKQSBhbmQgWW91bmcgRUIuIFJhcGlkIGRldGVjdGlvbiBvZiBhcXVhdGljIHRveGlucyB1c2luZyBjaGxvcm9waHlsbA0KDQogICAgZmx1b3Jlc2NlbmNlIGluIG1pY3JvYWxnYWUuIFNvY2lldHkgb2YgRW52aXJvbm1lbnRhbCBUb3hpY29sb2d5IGFuZCBDaGVtaXN0cnkNCg0KICAgIENvbmZlcmVuY2UsIE1pbHdhdWtlZSwgTm92ZW1iZXIgMjAwNy4NCg0KWW91bmcsIEVCLCBQYW5zY2ggTC4gYW5kIFR1Y2tlciBSLiBPcmdhbmljIFAgVXNlIFN1cHBvcnRzIEJsb29tcyBvZiBUaGUgTnVpc2FuY2UNCg0KICAgIEFsZ2EgQ2xhZG9waG9yYSBJbiBOZWFyc2hvcmUgTGFrZSBNaWNoaWdhbi4gSW50ZXJuYXRpb25hbCBBc3NvY2lhdGlvbiBvZiBHcmVhdA0KDQogICAgTGFrZXMgUmVzZWFyY2ggNTB0aCBhbm5pdmVyc2FyeSBtZWV0aW5nLCBQZW5uIFN0YXRlLCBNYXkgMjAwNy4gW0ludml0ZWRdDQoNCk1pbGxzIEpFLCBZb3VuZyBFQiwgTWV5ZXIgRywgUmVpbmFydHogSi4gVmVnZXRhdGlvbiBDaGFuZ2UgaW4gYSBTZW5zaXRpdmUgRm9yZXN0ZWQNCg0KICAgIFdldGxhbmQgaW4gdGhlIFVwcGVyIE1pZHdlc3QgRWNvbG9naWNhbCBTb2NpZXR5IG9mIEFtZXJpY2EgQW5udWFsIENvbmZlcmVuY2UNCg0KICAgIFNhbiBKb3PDqSwgQ0EsIEF1Z3VzdCAyMDA3Lg0KDQpZb3VuZywgRSwgUGFuc2NoIEwuIGFuZCBUdWNrZXIgUi4gTmVhcnNob3JlIG51dHJpZW50IGZsdXhlcyBhbmQgb3JnYW5pYyBQIHVzZSBieQ0KDQogICAgYmVudGhpYyBhbGdhZS4gQW1lcmljYW4gU29jaWV0eSBvZiBMaW1ub2xvZ3kgYW5kIE9jZWFub2dyYXBoeSBNZWV0aW5nLCBTYW50YQ0KDQogICAgRmUsIEZlYnJ1YXJ5IDIwMDcuDQoNCllvdW5nLCBFLCBCb290c21hLCBILCBSb3RoLCBULCB2b24gS29yZmYsIEIgYW5kIEJlcmdlcyBKLiBSb2xlIG9mIG1hY3JvYWxnYS8gZXBpcGh5dGUNCg0KICAgIGFzc2VtYmxhZ2VzIGluIG51dHJpZW50IGN5Y2xpbmcgaW4gbmVhcnNob3JlIExha2UgTWljaGlnYW4uIEFtZXJpY2FuIFNvY2lldHkgb2YNCg0KICAgTGltbm9sb2d5IGFuZCBPY2Vhbm9ncmFwaHkuIFZpY3RvcmlhLCBDYW5hZGEuIEp1bmUgMjAwNi4NCg0KDQoNCg0KDQpDb2xsYWJvcmF0b3JzIChsYXN0IDUgeWVhcnMpOg0KDQoNCg0KSm9obiBCZXJnZXMsIEhhcnZleSBCb290c21hLCBKb2huIEphbnNzZW4sIEdyZXRjaGVuIE1leWVyLCBKYW1lcyBSZWluYXJ0eiwNCg0KU2FuZHJhIE1jTGVsbGFuIChVbml2ZXJzaXR5IG9mIFdpc2NvbnNpbi1NaWx3YXVrZWUpLCBMaW5kYSBHcmFoYW0gKFVuaXYgV2lzY29uc2luLQ0KDQpNYWRpc29uKSwgUi4gTWljaGFlbCBNY0theSBhbmQgR2VvcmdlIEJ1bGxlcmphaG4gKEJvd2xpbmcgU3RhdGUgVW5pdiwgT0gpLCBTdGV2ZW4NCg0KV2lsaGVsbSAoVW5pdiBUZW5uZXNzZWUpLCBDbGF1ZGlhIEJlbml0ZXotTmVsc29uLCBUYW1taSBSaWNoYXJkc29uIChVbml2IFNvdXRoDQoNCkNhcm9saW5hKSwgTWF0dGhldyBEcmluZyAoUXVlZW4ncyBVbml2IEJlbGZhc3QsIFVLKSwgUGF1bCBMYXZlcnkgKEVkaXRoIENvd2FuIFVuaXYsDQoNCkF1c3RyYWxpYSksIFBoRCBBZHZpc29yIC0gSm9obiBCZWFyZGFsbCAoTW9uYXNoIFVuaXZlcnNpdHkpLg0KDQoNCg0KR3JhZHVhdGUgc3R1ZGVudCBhZHZpc2VlczogQ2hlbHNlYSBMb3dlcywgQWxpY2lhIEhhbnNvbiwgVGVycnkgQm90dCwgSmFzb24gQmVyZywNCg0KICAgUGhpbGlwIExlZS4gUG9zdGRvY3RvcmFsIGFkdmlzZWU6IEphc29uIE1pbGxzLg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2914521306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

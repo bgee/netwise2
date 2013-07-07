@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:03:30 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2910060306521"  usageLimitType="allocation" usageLimit="200" currentUsage="87" remainingUsage="113" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Andrew D. Jones</FormattedName>
+<GivenName>Andrew</GivenName>
+<MiddleName>D.</MiddleName>
+<FamilyName>Jones</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>32301</PostalCode>
+<Region>Florida</Region>
+<Municipality>Tallahassee</Municipality>
+<DeliveryAddress>
+<AddressLine>1441 Country Club Drive Florida A&amp;M University</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (850) 412-7421</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>850</AreaCityCode>
+<SubscriberNumber>412-7421</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>onPerson</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Mobile>
+<FormattedNumber>+1 (850) 942-MATH</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>850</AreaCityCode>
+<SubscriberNumber>942-MATH</SubscriberNumber>
+</Mobile>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>Andrew.Jones@FAMU.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EmploymentHistory>
+<EmployerOrg>
+<EmployerOrgName>Associate Professor of Mathematics</EmployerOrgName>
+<PositionHistory>
+<Title>Adjunct Associate Professor of Industrial Engineering</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Adjunct Associate Professor of Industrial Engineering, FAMU-FSU
+</Description>
+<StartDate>
+<AnyDate>2000-08-01</AnyDate>
+</StartDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Chairman, Department of Mathematics</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2002-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2003-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Morehouse College</EmployerOrgName>
+<PositionHistory>
+<Title>Assistant Professor of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Assistant Professor of Mathematics
+</Description>
+<StartDate>
+<AnyDate>1999-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-06-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Brown University Topic</EmployerOrgName>
+<PositionHistory>
+<Title>Doctoral Candidate</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>medical</IndustryDescription></OrgIndustry>
+<Description>Division of Applied Mathematics Mathematical and Numerical Modeling of Materials Processing
+</Description>
+<StartDate>
+<AnyDate>1997-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1999-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Brown University</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Fellow, Division of Applied Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>engineering</IndustryDescription></OrgIndustry>
+<Description>Concentration in Scientific Computing and Materials Engineering
+</Description>
+<StartDate>
+<AnyDate>1995-09-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1997-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Morehouse College</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>1993-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1995-08-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>The University of North Carolina</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Lecturer of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>at Chapel Hill
+</Description>
+<StartDate>
+<AnyDate>1992-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1993-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Duke University</EmployerOrgName>
+<PositionHistory>
+<Title>Graduate Student of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>Concentration in Differential Equations with Graduate study in Physics
+</Description>
+<StartDate>
+<AnyDate>1988-08-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1992-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Microgravity Research</EmployerOrgName>
+<PositionHistory>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<Description>NASA-Glenn Materials Processing Laboratory Mathematical and Numerical modeling of experiments
+</Description>
+<StartDate>
+<AnyDate>1987-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1988-05-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>National Institute of Standards &amp; Technology</EmployerOrgName>
+<PositionHistory>
+<Title>Summer Faculty Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Simulation of Reactive Gas Flow for Atomic Layer Deposition
+</Description>
+<StartDate>
+<AnyDate>2010-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2010-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Analysis of Fault Tolerant Algorithms</EmployerOrgName>
+<PositionHistory>
+<Title>Summer Faculty Fellow, Oak Ridge National Laboratory</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Ultra Scale Computing
+</Description>
+<StartDate>
+<AnyDate>2009-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2009-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>High Temperature Reaction Kinetics and Gas Transport</EmployerOrgName>
+<PositionHistory>
+<Title>Summer Faculty Fellow, Oak Ridge National Laboratory</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Numerical simulation of broad area lasers
+</Description>
+<StartDate>
+<AnyDate>2004-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2004-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>University of Karlsruhe</EmployerOrgName>
+<PositionHistory>
+<Title>Visiting Scholar</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgInfo>
+<PositionLocation>
+<CountryCode>DE</CountryCode>
+</PositionLocation>
+</OrgInfo>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>chemical</IndustryDescription></OrgIndustry>
+<Description>Research in Chemical Vapor Infiltration
+</Description>
+<StartDate>
+<AnyDate>2002-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2002-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>NASA-Glenn Basic Materials Laboratory</EmployerOrgName>
+<PositionHistory>
+<Title>Summer Faculty Fellow</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>
+</Description>
+<StartDate>
+<AnyDate>2001-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2001-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Research in Composite Materials Engineering</EmployerOrgName>
+<PositionHistory>
+<Title>Summer Faculty Fellow, Oak Ridge National Laboratory</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Testing and revision of programs for the Radiation Safety Information Computational Center
+</Description>
+<StartDate>
+<AnyDate>2000-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>2000-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Morehouse College Upward Bound Program</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor of Physics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>Director of the Computer Science Laboratory and Instructor of Mathematics, North Carolina Central University
+</Description>
+<StartDate>
+<AnyDate>1995-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1991-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+<EmployerOrg>
+<EmployerOrgName>Duke Preview Program</EmployerOrgName>
+<PositionHistory>
+<Title>Instructor of Mathematics</Title>
+<OrgName>
+<OrganizationName></OrganizationName>
+</OrgName>
+<OrgIndustry primaryIndicator="true"><IndustryDescription>academia</IndustryDescription></OrgIndustry>
+<Description>A preparatory program for rising minority freshmen
+</Description>
+<StartDate>
+<AnyDate>1990-07-01</AnyDate>
+</StartDate>
+<EndDate>
+<AnyDate>1989-07-01</AnyDate>
+</EndDate>
+</PositionHistory>
+</EmployerOrg>
+</EmploymentHistory>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Brown University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Doctor of Philosophy</DegreeName>
+<DegreeDate>
+<AnyDate>1999-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Applied Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Brown University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Master of Science</DegreeName>
+<DegreeDate>
+<AnyDate>1998-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Mechanical Engineering</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Duke University</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>Master of Arts</DegreeName>
+<DegreeDate>
+<AnyDate>1991-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Pure Mathematics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Duke University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Arts</DegreeName>
+<DegreeDate>
+<AnyDate>1992-05-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Requirements for the</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Duke University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>Bachelor of Science</DegreeName>
+<DegreeDate>
+<AnyDate>1987-06-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Physics</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Cleveland State University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Mathematics</Name>
+</DegreeMajor>
+<DegreeMinor>
+<Name>Chemistry and Philosophy</Name>
+</DegreeMinor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Cleveland State University</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>&quot;Visualization for the Simulation of the Chemical Vapor Infiltration Process&quot;</Title>
+<Name role="author">
+<FormattedName>A. D. Jones, S. Dutta</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>A. D. Jones &quot;Mathematical Model of the ICVI Process&quot;</Title>
+<Name role="author">
+<FormattedName>Joint Mathematics Meetings</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2010</StringDate>
+</PublicationDate>
+</Article>
+<Article>
+<Title>in the Sciences</Title>
+<Name role="author">
+<FormattedName>A. Jones, Opening Opportunities</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>PRESENT</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Minority Student</JournalOrSerialName>
+<Volume>August1991</Volume>
+</Article>
+<Article>
+<Title>Invited Talks A. Jones &quot;Numerical Simulation the Gas Transport&quot;</Title>
+<PublicationDate>
+<StringDate>November 2008</StringDate>
+</PublicationDate>
+<JournalOrSerialName>University of Wisconsin - Madison</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Chemical Vapor Infiltration Process&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+<JournalOrSerialName>&quot;Achieving Excellence in College &quot; University of Evansville</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Chemical Vapor Infiltration Process &quot; Department of Materials Engineering</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Getting Into and Out of Graduate School Successfully&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones, Panel</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Benefits and Properties of Composite Materials &quot; Department of Mathematics</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Numerical techniques used to solve coupled systems of PDE&apos;s that resulted from transport process and continuity assuming general reaction kinetics&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>&quot;Improvement of Aircraft Brake Processing&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>March 2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>The Boeing Corporation</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Numerical Models of the Chemical Vapor Infiltration Process&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+<JournalOrSerialName>Department of Chemical Engineering University of Karlsruhe</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Analysis of the Chemical Vapor Infiltration Process &quot; Department of Industrial Engineering</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>March 2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>FAMU-FSU College of Engineering</JournalOrSerialName>
+</Article>
+<Article>
+<Title>&quot;Impact of the Process on Properties of Composite Materials&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+</Article>
+<ConferencePaper>
+<Title>&quot;Inverse Problem for the Chemical Vapor Infiltration&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones, Pierre Ngnepieba</FormattedName>
+</Name>
+<EventName>Process 12th WSEAS International Conference on Applied Mathematics</EventName>
+<ConferenceDate>
+<StringDate>2007</StringDate>
+</ConferenceDate>
+</ConferencePaper>
+<ConferencePaper>
+<Title>&quot;Upper and Lower Bounds for the Void Fraction for the Chemical Vapor Infiltration Process&quot;</Title>
+<Name role="author">
+<FormattedName>A. Jones</FormattedName>
+</Name>
+<EventName>5th WSEAS International Conference on System Science and Simulation in Engineering</EventName>
+<ConferenceDate>
+<StringDate>2006</StringDate>
+</ConferenceDate>
+</ConferencePaper>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Engineering">
+<CompetencyEvidence name ="Engineering" lastUsed="1997-01-01">
+<NumericValue description="Range in years of experience">2</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Industrial Engineering">
+<CompetencyEvidence name ="Industrial Engineering" lastUsed="2013-01-01">
+<NumericValue description="Range in years of experience">13</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Lasers">
+<CompetencyEvidence name ="Lasers" lastUsed="2004-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Layer">
+<CompetencyEvidence name ="Layer" lastUsed="2010-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "National Security">
+<CompetencyEvidence name ="National Security">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Radiation">
+<CompetencyEvidence name ="Radiation" lastUsed="2000-01-01">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Date><StringDate>2009-01-01</StringDate></Date>
+<Description>/ Activities</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01 - 2011-01-01</StringDate></Date>
+<Description>Principle Investigator Nuclear Regulatory Commission Research Grant</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2009-01-01 - 2010-01-01</StringDate></Date>
+<Description>Investigator National Nuclear Safety Administration Research Grant</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2006-01-01 - 2007-01-01</StringDate></Date>
+<Description> 2007 Principle Investigator Army Research Laboratory Research Contract</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2003-01-01 - 2007-01-01</StringDate></Date>
+<Description> 2002 Principle Investigator Defense Adv. Res. Projects Agency Research Grant</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>2000-01-01 - 2003-01-01</StringDate></Date>
+<Description>Principle Investigator Department of Energy Research Grant</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1999-01-01</StringDate></Date>
+<Description>Delivered Graduation address to the class of 1999</Description>
+<IssuingAuthority>Brown University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1999-01-01 - 1998-01-01</StringDate></Date>
+<Description> Faculty Fellowship UNCF / IBM / Mellon</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1994-01-01 - 1995-01-01</StringDate></Date>
+<Description> 1990 Member of the President&apos;s Council on Black Affairs Duke University</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1988-01-01</StringDate></Date>
+<Description>Honorable Mention National Science Foundation</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1985-01-01 - 1987-01-01</StringDate></Date>
+<Description>Dean&apos;s Honor Roll</Description>
+<IssuingAuthority>Cleveland State University</IssuingAuthority>
+</Achievement>
+<Achievement>
+<Date><StringDate>1981-01-01 - PRESENT</StringDate></Date>
+<Description>Volunteer Tutor Mathematics / Physics / Chemistry</Description>
+</Achievement>
+<Achievement>
+<Date><StringDate>1980-01-01</StringDate></Date>
+<Description>Poetry Award on Magnolia Drive</Description>
+<IssuingAuthority>The School</IssuingAuthority>
+</Achievement>
+</Achievements>
+<Associations>
+<Association>
+<Name>Chairman of the Mathematics Curriculum Committee FAMU</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Member Honors Program Committee FAMU  University</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Elected Member Sigma Xi Scientific Research Society</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Chairman of the Committee on Faculty Development Morehouse College</Name>
+<Role><Name>Chair</Name></Role>
+</Association>
+<Association>
+<Name>Society of Industrial and Applied Mathematicians</Name>
+</Association>
+<Association>
+<Name>National Association of Mathematicians</Name>
+</Association>
+<Association>
+<Name>Sigma Xi Scientific Honor Society</Name>
+</Association>
+<Association>
+<Name>American Ceramics Society</Name>
+</Association>
+<Association>
+<Name>Academic Service</Name>
+</Association>
+<Association>
+<Name>Alliance Grant Writing Committee</Name>
+</Association>
+<Association>
+<Name>Change of Grade Committee</Name>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>QW5kcmV3IEQuIEpvbmVzLCBKci5QUklWQVRFIA0KDQpEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzICAgICAgMTQ0MSBDb3VudHJ5IENsdWIgRHJpdmUNCkZsb3JpZGEgQSZNIFVuaXZlcnNpdHkgICAgICBUYWxsYWhhc3NlZSwgRmxvcmlkYSAzMjMwMQ0KVGFsbGFoYXNzZWUsIEZsb3JpZGEgIDMyMzA3ICAgICAgQW5kcmV3LkpvbmVzQEZBTVUuZWR1ICAoODUwKSA0MTItNzQyMSAgICAgICAoODUwKSA5NDItTUFUSA0KDQpFZHVjYXRpb24NCg0KTWF5IDE5OTkgRG9jdG9yIG9mIFBoaWxvc29waHkgaW4gQXBwbGllZCBNYXRoZW1hdGljcywgQnJvd24gVW5pdmVyc2l0eQ0KDQpNYXkgMTk5OCBNYXN0ZXIgb2YgU2NpZW5jZSBpbiBNZWNoYW5pY2FsIEVuZ2luZWVyaW5nLCBCcm93biBVbml2ZXJzaXR5DQoNCk1heSAxOTkxIE1hc3RlciBvZiBBcnRzIGluIFB1cmUgTWF0aGVtYXRpY3MsIER1a2UgVW5pdmVyc2l0eQ0KDQpNYXkgMTk5MiBDb21wbGV0ZWQgUmVxdWlyZW1lbnRzIGZvciB0aGUgQmFjaGVsb3Igb2YgQXJ0cyBpbiBQaHlzaWNzLCBEdWtlIFVuaXZlcnNpdHkNCg0KSnVuZSAxOTg3IEJhY2hlbG9yIG9mIFNjaWVuY2UgaW4gTWF0aGVtYXRpY3MsIENsZXZlbGFuZCBTdGF0ZSBVbml2ZXJzaXR5ICAgIA0KICBNaW5vciBpbiBDaGVtaXN0cnkgYW5kIFBoaWxvc29waHksIENsZXZlbGFuZCBTdGF0ZSBVbml2ZXJzaXR5DQoNClByb2Zlc3Npb25hbCBFeHBlcmllbmNlDQoNCjgvMDAgLSBQcmVzZW50ICBBc3NvY2lhdGUgUHJvZmVzc29yIG9mIE1hdGhlbWF0aWNzLCBGbG9yaWRhIEEmTSBVbml2ZXJzaXR5DQoNCjgvMDUgLSBQcmVzZW50IEFkanVuY3QgQXNzb2NpYXRlIFByb2Zlc3NvciBvZiBJbmR1c3RyaWFsIEVuZ2luZWVyaW5nLCBGQU1VLUZTVQ0KDQo4LzAyLTgvMDMgQ2hhaXJtYW4sIERlcGFydG1lbnQgb2YgTWF0aGVtYXRpY3MsIEZsb3JpZGEgQSZNIFVuaXZlcnNpdHkNCg0KOC85OS02LzAwIEFzc2lzdGFudCBQcm9mZXNzb3Igb2YgTWF0aGVtYXRpY3MsIE1vcmVob3VzZSBDb2xsZWdlDQoNCjgvOTctNS85OSBEb2N0b3JhbCBDYW5kaWRhdGUsIERpdmlzaW9uIG9mIEFwcGxpZWQgTWF0aGVtYXRpY3MsIEJyb3duIFVuaXZlcnNpdHkNCiAgVG9waWM6IE1hdGhlbWF0aWNhbCBhbmQgTnVtZXJpY2FsIE1vZGVsaW5nIG9mIE1hdGVyaWFscyBQcm9jZXNzaW5nDQoNCjkvOTUtOC85NyBHcmFkdWF0ZSBGZWxsb3csIERpdmlzaW9uIG9mIEFwcGxpZWQgTWF0aGVtYXRpY3MsIEJyb3duIFVuaXZlcnNpdHkNCiAgIENvbmNlbnRyYXRpb24gaW4gU2NpZW50aWZpYyBDb21wdXRpbmcgYW5kIE1hdGVyaWFscyBFbmdpbmVlcmluZw0KDQo4LzkzLTgvOTUgSW5zdHJ1Y3RvciBvZiBNYXRoZW1hdGljcywgTW9yZWhvdXNlIENvbGxlZ2UNCg0KOC85Mi01LzkzIFZpc2l0aW5nIExlY3R1cmVyIG9mIE1hdGhlbWF0aWNzLCBUaGUgVW5pdmVyc2l0eSBvZiBOb3J0aCBDYXJvbGluYSBhdCBDaGFwZWwgSGlsbA0KDQo4Lzg4LTUvOTIgR3JhZHVhdGUgU3R1ZGVudCBvZiBNYXRoZW1hdGljcywgRHVrZSBVbml2ZXJzaXR5DQogICBDb25jZW50cmF0aW9uIGluIERpZmZlcmVudGlhbCBFcXVhdGlvbnMgd2l0aCBHcmFkdWF0ZSBzdHVkeSBpbiBQaHlzaWNzICANCg0KNy84Ny01Lzg4IE1pY3JvZ3Jhdml0eSBSZXNlYXJjaCwgTkFTQS1HbGVubiBNYXRlcmlhbHMgUHJvY2Vzc2luZyBMYWJvcmF0b3J5DQogIE1hdGhlbWF0aWNhbCBhbmQgTnVtZXJpY2FsIG1vZGVsaW5nIG9mIGV4cGVyaW1lbnRzIA0KDQpTdW1tZXIgMTAgU3VtbWVyIEZhY3VsdHkgRmVsbG93LCBOYXRpb25hbCBJbnN0aXR1dGUgb2YgU3RhbmRhcmRzICYgVGVjaG5vbG9neQ0KICBTaW11bGF0aW9uIG9mIFJlYWN0aXZlIEdhcyBGbG93IGZvciBBdG9taWMgTGF5ZXIgRGVwb3NpdGlvbg0KDQpTdW1tZXIgMDkgU3VtbWVyIEZhY3VsdHkgRmVsbG93LCBPYWsgUmlkZ2UgTmF0aW9uYWwgTGFib3JhdG9yeQ0KICBBbmFseXNpcyBvZiBGYXVsdCBUb2xlcmFudCBBbGdvcml0aG1zIGZvciBVbHRyYSBTY2FsZSBDb21wdXRpbmcNCg0KU3VtbWVyIDA4IFN1bW1lciBGYWN1bHR5IEZlbGxvdywgT2FrIFJpZGdlIE5hdGlvbmFsIExhYm9yYXRvcnkNCiAgSGlnaCBUZW1wZXJhdHVyZSBSZWFjdGlvbiBLaW5ldGljcyBhbmQgR2FzIFRyYW5zcG9ydA0KDQpTdW1tZXIgMDQgU3VtbWVyIEZhY3VsdHkgRmVsbG93LCBPYWsgUmlkZ2UgTmF0aW9uYWwgTGFib3JhdG9yeQ0KICBOdW1lcmljYWwgc2ltdWxhdGlvbiBvZiBicm9hZCBhcmVhIGxhc2Vycw0KDQpTdW1tZXIgMDIgVmlzaXRpbmcgU2Nob2xhciwgVW5pdmVyc2l0eSBvZiBLYXJsc3J1aGUsIEdlcm1hbnkNCiAgUmVzZWFyY2ggaW4gQ2hlbWljYWwgVmFwb3IgSW5maWx0cmF0aW9uDQoNClN1bW1lciAwMSBTdW1tZXIgRmFjdWx0eSBGZWxsb3csIE5BU0EtR2xlbm4gQmFzaWMgTWF0ZXJpYWxzIExhYm9yYXRvcnkNClN1bW1lciAwMCBSZXNlYXJjaCBpbiBDb21wb3NpdGUgTWF0ZXJpYWxzIEVuZ2luZWVyaW5nDQoNClN1bW1lciA5OSBTdW1tZXIgRmFjdWx0eSBGZWxsb3csIE9hayBSaWRnZSBOYXRpb25hbCBMYWJvcmF0b3J5DQogIFRlc3RpbmcgYW5kIHJldmlzaW9uIG9mIHByb2dyYW1zIGZvciB0aGUgDQogIFJhZGlhdGlvbiBTYWZldHkgSW5mb3JtYXRpb24gQ29tcHV0YXRpb25hbCBDZW50ZXINCg0KU3VtbWVyIDk1IEluc3RydWN0b3Igb2YgUGh5c2ljcywgTW9yZWhvdXNlIENvbGxlZ2UgVXB3YXJkIEJvdW5kIFByb2dyYW0NCg0KU3VtbWVyIDkxIERpcmVjdG9yIG9mIHRoZSBDb21wdXRlciBTY2llbmNlIExhYm9yYXRvcnkgYW5kIEluc3RydWN0b3Igb2YgTWF0aGVtYXRpY3MsIA0KICBOb3J0aCBDYXJvbGluYSBDZW50cmFsIFVuaXZlcnNpdHkNCg0KU3VtbWVyIDkwIEluc3RydWN0b3Igb2YgTWF0aGVtYXRpY3MsIER1a2UgUHJldmlldyBQcm9ncmFtDQpTdW1tZXIgODkgQSBwcmVwYXJhdG9yeSBwcm9ncmFtIGZvciByaXNpbmcgbWlub3JpdHkgZnJlc2htZW4gDQoNCkFyZWFzIG9mIFJlc2VhcmNoIFNwZWNpYWxpemF0aW9uDQpDb21wb3NpdGUgTWF0ZXJpYWxzIFByb2Nlc3NpbmcgaW5jbHVkaW5nOiBDaGVtaWNhbCBWYXBvciBJbmZpbHRyYXRpb24vIERlcG9zaXRpb24gZm9yIHRoZXJtYWwgc2hpZWxkaW5nLCBudWNsZWFyIHJhZGlhdGlvbiBzaGllbGRpbmcsIGFybW9yLCBhbmQgYnJlYWstcGFkczsgVmFjdXVtIEFzc2lzdGVkIFJlc2luIFRyYW5zZmVyIE1vbGRpbmcgZm9yIGxhcmdlIHNjYWxlZCBjb21wb3NpdGUnczsgU2VtaS1Db25kdWN0b3IgUHJvZHVjdGlvbiBDcnlzdGFsIFB1cmlmaWNhdGlvbi4gTXVsdGktc2NhbGUgTWF0aGVtYXRpY2FsIE1vZGVsaW5nIGFuZCBNYXRoZW1hdGljYWwgUGh5c2ljcw0KDQpBd2FyZHMgLyBBY3Rpdml0aWVzDQoyMDA5LTIwMTEgIFByaW5jaXBsZSBJbnZlc3RpZ2F0b3IsIE51Y2xlYXIgUmVndWxhdG9yeSBDb21taXNzaW9uLCBSZXNlYXJjaCBHcmFudA0KMjAwOS0yMDEwICBJbnZlc3RpZ2F0b3IsIE5hdGlvbmFsIE51Y2xlYXIgU2FmZXR5IEFkbWluaXN0cmF0aW9uLCBSZXNlYXJjaCBHcmFudA0KMjAwNi0yMDA3ICBDaGFpcm1hbiBvZiB0aGUgTWF0aGVtYXRpY3MgQ3VycmljdWx1bSBDb21taXR0ZWUsIEZBTVUNCjIwMDYtMjAwNyAgUHJpbmNpcGxlIEludmVzdGlnYXRvciwgQXJteSBSZXNlYXJjaCBMYWJvcmF0b3J5LCBSZXNlYXJjaCBDb250cmFjdA0KMjAwMy0yMDA3ICBNZW1iZXIsIFVuaXZlcnNpdHkgSG9ub3JzIFByb2dyYW0gQ29tbWl0dGVlLCBGQU1VDQoyMDAxLTIwMDIgIFByaW5jaXBsZSBJbnZlc3RpZ2F0b3IsIERlZmVuc2UgQWR2LiBSZXMuIFByb2plY3RzIEFnZW5jeSwgUmVzZWFyY2ggR3JhbnQNCjIwMDAtMjAwMyAgUHJpbmNpcGxlIEludmVzdGlnYXRvciwgRGVwYXJ0bWVudCBvZiBFbmVyZ3ksIFJlc2VhcmNoIEdyYW50DQoxOTk5ICAgRGVsaXZlcmVkIEdyYWR1YXRpb24gYWRkcmVzcyB0byB0aGUgY2xhc3Mgb2YgMTk5OSwgQnJvd24gVW5pdmVyc2l0eQ0KMTk5OSAgIEVsZWN0ZWQgTWVtYmVyLCBTaWdtYSBYaSwgU2NpZW50aWZpYyBSZXNlYXJjaCBTb2NpZXR5DQoxOTk1LTE5OTggIEZhY3VsdHkgRmVsbG93c2hpcCwgVU5DRiAvIElCTSAvIE1lbGxvbg0KMTk5NC0xOTk1ICBDaGFpcm1hbiBvZiB0aGUgQ29tbWl0dGVlIG9uIEZhY3VsdHkgRGV2ZWxvcG1lbnQsIE1vcmVob3VzZSBDb2xsZWdlDQoxOTg5LTE5OTAgIE1lbWJlciBvZiB0aGUgUHJlc2lkZW50J3MgQ291bmNpbCBvbiBCbGFjayBBZmZhaXJzLCBEdWtlIFVuaXZlcnNpdHkNCjE5ODggICBIb25vcmFibGUgTWVudGlvbiwgTmF0aW9uYWwgU2NpZW5jZSBGb3VuZGF0aW9uDQoxOTg1LTE5ODcgIERlYW4ncyBIb25vciBSb2xsLCBDbGV2ZWxhbmQgU3RhdGUgVW5pdmVyc2l0eQ0KMTk4MS1QcmVzZW50ICAgVm9sdW50ZWVyIFR1dG9yLCBNYXRoZW1hdGljcyAvIFBoeXNpY3MgLyBDaGVtaXN0cnkNCjE5ODAgICBQb2V0cnkgQXdhcmQsIFRoZSBTY2hvb2wgb24gTWFnbm9saWEgRHJpdmUNCg0KUHJvZmVzc2lvbmFsIEFmZmlsaWF0aW9ucw0KDQpTb2NpZXR5IG9mIEluZHVzdHJpYWwgYW5kIEFwcGxpZWQgTWF0aGVtYXRpY2lhbnMNCk5hdGlvbmFsIEFzc29jaWF0aW9uIG9mIE1hdGhlbWF0aWNpYW5zDQpTaWdtYSBYaSBTY2llbnRpZmljIEhvbm9yIFNvY2lldHkNCkFtZXJpY2FuIENlcmFtaWNzIFNvY2lldHkNCg0KQWNhZGVtaWMgU2VydmljZQ0KDQpBbGxpYW5jZSBHcmFudCBXcml0aW5nIENvbW1pdHRlZQ0KQ2hhbmdlIG9mIEdyYWRlIENvbW1pdHRlZQ0KU3R1ZHkgb2YgdGhlIFVwcGVyIGFuZCBMb3dlciBEaXZpc2lvbiBDb3Vyc2UgT2ZmZXJpbmcgaW4gTWF0aGVtYXRpY3MgQ3VycmljdWx1bSBDb21taXR0ZWUNCkVuZ2luZWVyaW5nIE1hdGhlbWF0aWNzIEN1cnJpY3VsdW0gQ29tbWl0dGVlDQpOYXRpb25hbCBTZWN1cml0eSBJbml0aWF0aXZlcw0KTWF0aGVtYXRpY3MgRmFjdWx0eSBTZWFyY2gsIFNjcmVlbiBhbmQgU2VsZWN0aW9uIENvbW1pdHRlZQ0KVW5pdmVyc2l0eSBIb25vcnMgQWR2aXNvciBhbmQgUGxhbm5pbmcgQ29tbWl0dGVlDQoNCg0KSm91cm5hbCBBcnRpY2xlcywgKFBlZXIgUmV2aWV3ZWQpIA0KDQpELiBLLiBSb2xsaW5zLCBELiBKLiBSb2xsaW5zLCBBLiwgQS4gRC4gSm9uZXMsICJLaW5ldGljIE1vZGVsaW5nIG9mIFB5cm9jYXJib24gUmVhY3Rpb24gRGF0YSBmcm9tIEVsZW1lbnRhcnkgUmVhY3Rpb24gTmV0d29ya3MiLCBJbiBwcmVwYXJhdGlvbiBmb3Igc3VibWlzc2lvbiB0byBDb21wb3NpdGUgU2NpZW5jZSBhbmQgVGVjaG5vbG9neQ0KDQpBLiBKb25lcywgQS4gSm9uZXMsIElJSSwgIk51bWVyaWNhbCBTaW11bGF0aW9uIGFuZCBWZXJpZmljYXRpb24gb2YgR2FzIFRyYW5zcG9ydCBkdXJpbmcgdGhlIEF0b21pYyBMYXllciBEZXBvc2l0aW9uIFByb2Nlc3MiLCBTdWJtaXR0ZWQgdG8gVGhlIEpvdXJuYWwgb2YgRmx1aWQgTWVjaGFuaWNzLCBPY3RvYmVyIDIwMTANCg0KUGllcnJlIE5nbmVwaWViYSwgQS4gRC4gSm9uZXMsICJPbiBOZXd0b24ncyBBbGdvcml0aG0gZm9yIHRoZSBEYXRhIEFzc2ltaWxhdGlvbiBQcm9ibGVtIiwgSW50ZXJuYXRpb25hbCBKb3VybmFsIG9mIFB1cmUgYW5kIEFwcGxpZWQgTWF0aGVtYXRpY3MsIFZvbHVtZSA1MiwgTnVtYmVyIDEsIDIwMDkNCg0KQS4gSm9uZXMsICJFc3RpbWF0ZXMgZm9yIHRoZSBWb2lkIEZyYWN0aW9uIGR1cmluZyB0aGUgQ2hlbWljYWwgVmFwb3IgSW5maWx0cmF0aW9uIFByb2Nlc3MiLCBXU0VBUyBUcmFuc2FjdGlvbnMgb24gTWF0aGVtYXRpY3MsIFZvbHVtZSA2LCBJc3N1ZSA0LCBBcHJpbCAyMDA3DQoNCkQuIEsuIFJvbGxpbnMsIEQuIEouIFJvbGxpbnMsIEEuIEQuIEpvbmVzLCAiU3BhdGlhbC1UZW1wb3JhbCBTZW1pLWVtcGlyaWNhbCBEeW5hbWljIE1vZGVsaW5nIG9mIFRoZXJtYWwgR3JhZGllbnQgQ1ZJIFByb2Nlc3MiLCBDaGVtaWNhbCBFbmdpbmVlcmluZyBSZXNlYXJjaCBhbmQgRGVzaWduLCBWb2x1bWUgODUsIElzc3VlIDEwIDIwMDcNCg0KQS4gSm9uZXMsICJBbmFseXNpcyBvZiB0aGUgQ2hlbWljYWwgVmFwb3IgSW5maWx0cmF0aW9uIFByb2Nlc3MsIENvbXB1dGF0aW9uYWwgRXhwZXJpbWVudHMiIENvbXB1dGVycyBhbmQgTWF0aGVtYXRpY3Mgd2l0aCBBcHBsaWNhdGlvbnMsIFZvbC4gNTQsIElzc3VlIDksIDIwMDcNCg0KQS4gSm9uZXMsICJQcm9maWxlIG9mIGFuIFVuc3VjY2Vzc2Z1bCBQcm9jZXNzIGFuZCB0aGUgQ3JpdGVyaWEgZm9yIGEgU3VjY2Vzc2Z1bCBQcm9jZXNzIGZvciB0aGUgQ2hlbWljYWwgVmFwb3IgSW5maWx0cmF0aW9uIFByb2Nlc3MiLCBKb3VybmFsIEFwcGxpZWQgTWF0aGVtYXRpY2FsIE1vZGVsbGluZywgVm9sLiAzMCwgSXNzdWUgMywgMjAwNg0KDQpDb25mZXJlbmNlIFBhcGVycw0KDQpBLiBELiBKb25lcywgUy4gRHV0dGEsICJWaXN1YWxpemF0aW9uIGZvciB0aGUgU2ltdWxhdGlvbiBvZiB0aGUgQ2hlbWljYWwgVmFwb3IgSW5maWx0cmF0aW9uIFByb2Nlc3MiLCANCkpvaW50IE1hdGhlbWF0aWNzIE1lZXRpbmdzLCAyMDEwDQoNCkEuIEQuIEpvbmVzLCAiTWF0aGVtYXRpY2FsIE1vZGVsIG9mIHRoZSBJQ1ZJIFByb2Nlc3MiLCBDYXJib24gMjAwNyBDb25mZXJlbmNlDQoNCkEuIEpvbmVzLCBQaWVycmUgTmduZXBpZWJhICJJbnZlcnNlIFByb2JsZW0gZm9yIHRoZSBDaGVtaWNhbCBWYXBvciBJbmZpbHRyYXRpb24iIFByb2Nlc3MsIDEydGggV1NFQVMgSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIEFwcGxpZWQgTWF0aGVtYXRpY3MsIDIwMDcNCg0KQS4gSm9uZXMsICJVcHBlciBhbmQgTG93ZXIgQm91bmRzIGZvciB0aGUgVm9pZCBGcmFjdGlvbiBmb3IgdGhlIENoZW1pY2FsIFZhcG9yIEluZmlsdHJhdGlvbiBQcm9jZXNzIiwgNXRoIFdTRUFTIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBTeXN0ZW0gU2NpZW5jZSBhbmQgU2ltdWxhdGlvbiBpbiBFbmdpbmVlcmluZywgMjAwNiANCg0KQS4gSm9uZXMsIE9wZW5pbmcgT3Bwb3J0dW5pdGllcyBpbiB0aGUgU2NpZW5jZXMsIE1pbm9yaXR5IFN0dWRlbnQgVG9kYXksIEF1Z3VzdDE5OTENCg0KSW52aXRlZCBUYWxrcw0KDQpBLiBKb25lcywgICJOdW1lcmljYWwgU2ltdWxhdGlvbiB0aGUgR2FzIFRyYW5zcG9ydCIsIFVuaXZlcnNpdHkgb2YgV2lzY29uc2luIC0gTWFkaXNvbiANCk5vdmVtYmVyIDIwMDgNCg0KQS4gSm9uZXMsICJBY2hpZXZpbmcgRXhjZWxsZW5jZSBpbiBDb2xsZWdlLCIgVW5pdmVyc2l0eSBvZiBFdmFuc3ZpbGxlLCBBdWd1c3QgMjAwNw0KDQpBLiBKb25lcywgIkNoZW1pY2FsIFZhcG9yIEluZmlsdHJhdGlvbiBQcm9jZXNzIiwgQXBwbGllZCBNYXRoZW1hdGljcyBEZXBhcnRtZW50LCBVbml2ZXJzaXR5IG9mIFdhc2hpbmd0b24sIEp1bHkgMjAwNw0KDQpBLiBKb25lcywgIkNoZW1pY2FsIFZhcG9yIEluZmlsdHJhdGlvbiBQcm9jZXNzLCIgRGVwYXJ0bWVudCBvZiBNYXRlcmlhbHMgRW5naW5lZXJpbmcsIFJpY2UgVW5pdmVyc2l0eSwgRmVicnVhcnkgMjAwNw0KDQpBLiBKb25lcywgUGFuZWwsICJHZXR0aW5nIEludG8gYW5kIE91dCBvZiBHcmFkdWF0ZSBTY2hvb2wgU3VjY2Vzc2Z1bGx5IiwgTm9ydGggQ2Fyb2xpbmEgQSZUIFVuaXZlcnNpdHksIE9jdG9iZXIgMjAwNg0KDQpBLiBKb25lcywgIkJlbmVmaXRzIGFuZCBQcm9wZXJ0aWVzIG9mIENvbXBvc2l0ZSBNYXRlcmlhbHMsIiBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzLCBSb2NoZXN0ZXIgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3ksIE9jdG9iZXIgMjAwNA0KDQpBLiBKb25lcywgIk51bWVyaWNhbCB0ZWNobmlxdWVzIHVzZWQgdG8gc29sdmUgY291cGxlZCBzeXN0ZW1zIG9mIFBERSdzIHRoYXQgcmVzdWx0ZWQgZnJvbSB0cmFuc3BvcnQgcHJvY2VzcyBhbmQgY29udGludWl0eSBhc3N1bWluZyBnZW5lcmFsIHJlYWN0aW9uIGtpbmV0aWNzIiwgQnJvd24gVW5pdmVyc2l0eSwgSnVuZSAyMDA0IA0KDQpBLiBKb25lcywgIkltcHJvdmVtZW50IG9mIEFpcmNyYWZ0IEJyYWtlIFByb2Nlc3NpbmciLCBUaGUgQm9laW5nIENvcnBvcmF0aW9uLCBNYXJjaCAyMDA0DQoNCkEuIEpvbmVzLCAiTnVtZXJpY2FsIE1vZGVscyBvZiB0aGUgQ2hlbWljYWwgVmFwb3IgSW5maWx0cmF0aW9uIFByb2Nlc3MiLCBEZXBhcnRtZW50IG9mIENoZW1pY2FsIEVuZ2luZWVyaW5nLCBVbml2ZXJzaXR5IG9mIEthcmxzcnVoZSwgSnVuZSAyMDAyDQoNCkEuIEpvbmVzLCAiQW5hbHlzaXMgb2YgdGhlIENoZW1pY2FsIFZhcG9yIEluZmlsdHJhdGlvbiBQcm9jZXNzLCIgRGVwYXJ0bWVudCBvZiBJbmR1c3RyaWFsIEVuZ2luZWVyaW5nLCBGQU1VLUZTVSBDb2xsZWdlIG9mIEVuZ2luZWVyaW5nLCBNYXJjaCAyMDAyDQoNCkEuIEpvbmVzLCAiSW1wYWN0IG9mIHRoZSBQcm9jZXNzIG9uIFByb3BlcnRpZXMgb2YgQ29tcG9zaXRlIE1hdGVyaWFscyIsIE1hdGggRmVzdCBYLCBOYXRpb25hbCBBc3NvY2lhdGlvbiBvZiBNYXRoZW1hdGljaWFucywgT2N0b2JlciAyMDAwDQoNCkEuIEpvbmVzLCAiSG93IHRvIEV4Y2VsIGluIFVuZGVyZ3JhZHVhdGUgU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcgU3R1ZHksIiBCZW5lZGljdCBDb2xsZWdlLCANCg0KQS4gSm9uZXMsICJNb2RlbGluZyBvZiB0aGUgQ2hlbWljYWwgVmFwb3IgSW5maWx0cmF0aW9uIFByb2Nlc3MsIiBVbml2ZXJzaXR5IG9mIHRoZSBXZXN0ZXJuIENhcGUsIEp1bmUgMjAwMA==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2910060306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

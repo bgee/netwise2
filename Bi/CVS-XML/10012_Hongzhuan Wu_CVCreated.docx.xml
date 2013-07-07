@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:37 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916406206521"  usageLimitType="allocation" usageLimit="200" currentUsage="26" remainingUsage="174" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>Dr. Main Wu</FormattedName>
+<GivenName>Main</GivenName>
+<FamilyName>Wu</FamilyName>
+<Affix type="formOfAddress">Dr.</Affix>
+</PersonName>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (334) 229-4498</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>334</AreaCityCode>
+<SubscriberNumber>229-4498</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>hwu@alasu.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<Qualifications>
+<Competency name = "Immunology">
+<CompetencyEvidence name ="Immunology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Infectious Diseases">
+<CompetencyEvidence name ="Infectious Diseases">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pathology">
+<CompetencyEvidence name ="Pathology">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Pharmaceutical Industry">
+<CompetencyEvidence name ="Pharmaceutical Industry">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>RHIuIEhvbmd6aHVhbiBXdSANCg0KTWFpbiBDb250ZW50DQoNCkRyLkhvbmd6aHVhbiBXdQ0KDQpBc3Npc3RhbnQgUHJvZmVzc29yIG9mIEJpb2xvZ3kNCg0KRGVwdC4gb2YgQmlvbG9naWNhbCBTY2llbmNlcw0KDQpFLW1haWw6aHd1QGFsYXN1LmVkdQ0KDQpQaG9uZTogMzM0LTIyOS00NDk4DQoNCg0KDQoNCg0KRHIuIEhvbmd6aHVhbiBXdSByZWNlaXZlZCBoaXMgRFZNIGFuZCBNUyBkZWdyZWVzIGZyb20gWWFuZ3pob3UgVW5pdmVyc2l0eS4gRHIuV3UgcmVjZWl2ZWQgaGlzIFBoLkQuIGluIEltbXVub2xvZ3kgYW5kIFBhdGhvbG9neSBhdCBTb3V0aCBDaGluYSBBZ3JpY3VsdHVyYWwgVW5pdmVyc2l0eSAvQ29sbGVnZSBvZiBWZXRlcmluYXJ5IE1lZGljaW5lOyBIZSB3YXMgdGhlbiBhIHBvc3Rkb2N0b3JhbCBmZWxsb3cgd2l0aCBEci5GcmVkZXJpYyBDIExldW5nIGluIHRoZSBVbml2ZXJzaXR5IG9mIEhvbmcgS29uZyBEZXBhcnRtZW50IG9mIFpvb2xvZ3ksIGFuZCBCcml0aXNoIEhvdWdodG9uIHRydXN0IGdyYW50IHNjaG9sYXIsIENhbmFkYSB2aXNpdGluZyBzY2hvbGFyLCBhbmQgYSByZXNlYXJjaCBzY2llbnRpc3Qgd2l0aCBEci4gSm9zZXBoIEogR2lhbWJyb25lIGF0IEF1YnVybiBVbml2ZXJzaXR5LiBIZSB3YXMgYSB0ZW51cmVkIGFzc29jaWF0ZSBwcm9mZXNzb3IgYXQgQ2hpbmEgaW4gMTk5OS4gSGUgam9pbmVkIEFsYWJhbWEgU3RhdGUgVW5pdmVyc2l0eSBpbiAyMDA0IGFzIGEgcG9zdGRvY3RvcmFsIHJlc2VhcmNoIGFzc29jaWF0ZS4gSGUgc2VydmVzIGFzIGFuIEFzc2lzdGFudCBQcm9mZXNzb3Igb2YgQmlvbG9neSBmcm9tIDIwMDcuDQoNCsKgDQoNCkRyLld1J3MgcmVzZWFyY2ggZm9jdXNlcyBvbjogDQoNCiogVmV0ZXJpbmFyeSBpbmZlY3Rpb3VzIGRpc2Vhc2VzIGFuZCB2YWNjaW5lIHRlY2hub2xvZ3kgZGV2ZWxvcG1lbnQgKEJpcmQgZmx1KS4NCg0KKiBETkEgYmFzZWQgZGlhZ25vc3RpYyBwbGF0Zm9ybSBmb3IgcGF0aG9nZW5pYyBtaWNyb29yZ2FuaXNtcy4NCg0KKiBHZW5lIHRyYW5zZmVyIGluIHZpdHJvIGFuZCBpbiB2aXZvIGluIGNoaWNrZW4sIHRyYW5zZ2VuaWMgdGVjaG5vbG9neS4NCg0KKiBVc2luZyB0cmFuc2dlbmljIHBsYW50IGFzIGEgYmlvcmVhY3RvciB0byBwcm9kdWNlIHBoYXJtYWNldXRpY2Fscy4NCg0KKiBVc2luZyBwaHl0by0gcmVtZWRpYXRpb24gdG8gZGVhbCB3aXRoIGhlYXZ5IG1ldGFsIGNvbnRhbWluYXRpb24uDQoNCsKgDQoNCsKgU29tZSBvZiB0aGUgcmVjZW50IHJlc2VhcmNoIHB1YmxpY2F0aW9ucyBhbmQgcGF0ZW50czoNCg0KKiBILiBXdSwgTi4gSy4gU2luZ2gsIEsuIFMuIEd1bm4gYW5kIEouIEouIEdpYW1icm9uZS4gMjAwOS4gUmVzZWFyY2ggdG93YXJkcyBkZXZlbG9wbWVudCBvZiBhbiBlZGlibGXCoHZhY2NpbmUgZm9yIGF2aWFuIHJlb3ZpcnVzLiBBdmlhbiBEaXMoc3VibWl0dGVkKS4NCg0KwqANCg0KKiBILiBXdSwgSyBXaWxsaWFtcywgUy5SLlNpbmdoIEsuUy5HdW5uIE4uIEsuIFNpbmdoLCBULiBEb3JtaXRvcmlvIGFuZCBKLiBKLiBHaWFtYnJvbmUuIDIwMDkuIFN0cnVjdHVyYWwgSW50ZWdyaXR5IG9mIGEgWWVhc3QtRGVyaXZlZCBIZW1hZ2dsdXRpbmluIFByb3RlaW4gb2YgYW4gQXZpYW4gSW5mbHVlbnphIFZpcnVzIChIMTBONykgVXNpbmcgQXRvbWljIEZvcmNlIE1pY3Jvc2NvcHkuIEJpb3RlY2hub2xvZ3kgTGV0dGVycyAoc3VibWl0dGVkKS4NCg0KKiBILld1LCBWLkEuIERlbm5pcywgUy5SLiBQaWxsYWkgYW5kIFMuIFIuU2luZ2guIDIwMDkuIFJTViBGdXNpb24gKEYpIHByb3RlaW4gRE5BIHZhY2NpbmVwcm92aWRlcyBwYXJ0aWFsIHByb3RlY3Rpb24gYWdhaW5zdCB2aXJhbCBpbmZlY3Rpb24uIFZpcnVzIFJlc2VhcmNoIChzdWJtaXR0ZWQpLg0KDQoqIEguV3UsIFQuIFYuIERvcm1pdG9yaW8sIEouIEouR2lhbWJyb25lLCBOLiBLLiBTaW5naC4gMjAwOS4gRGV2ZWxvcG1lbnQgb2YgYSByZWNvbWJpbmFudCBhdmlhbiBpbmZsdWVuemEgdmFjY2luZSBpbiB5ZWFzdC4gQXVidXJuIFVuaXZlcnNpdHkgVGVjaG5vbG9neSBEaXNjbG9zdXJlIzA4LTAwNi4NCg0KKiBHaWFtYnJvbmUgSkouLCBEb3JtaXRvcmlvIFQuLCBXdSBILiwgU2luZ2ggTksuIDIwMDguIERldmVsb3BtZW50IG9mIGEgUmVjb21iaW5hbnQgQXZpYW4gSW5mbHVlbnphIFZhY2NpbmUgaW4gWWVhc3QuIEZlZWRpbmZvIE5ld3MgU2VydmljZSBTY2llbnRpZmljIFJldmlld3MuDQoNCiogWS5TYW5nLCBKLk0uIEJhcmJvc2EsIEguV3UsIFIuRC4gTG9jeSwgTi5LLlNpbmdoLjIwMDcuIElkZW50aWZpY2F0aW9uIG9mIGEgcHlyaWRveGluZSAocHlyaWRveGFtaW5lKSA1Jy1waG9zcGhhdGUgb3hpZGFzZSBmcm9tIEFyYWJpZG9wc2lzIHRoYWxpYW5hLiBGRUJTIExldHRlcnMgNTg3OiAzNDQtMzQ4Lg0KDQoqIEguIFd1LCBXaWxsaWFtcyBZLCBHdW5uIEtTLCBTaW5naCBOSywgTG9jeSBSRCwgR2lhbWJyb25lIEpKLiAyMDA1LiBZZWFzdC1kZXJpdmVkIHNpZ21hIEMgcHJvdGVpbi1pbmR1Y2VkIGltbXVuaXR5IGFnYWluc3QgYXZpYW4gcmVvdmlydXMuIEF2aWFuIERpcy4gNDkoMik6MjgxLTQuDQoNCiogSC4gV3UsIE4uIEsuIFNpbmdoLCBKLkouIEdpYW1icm9uZSwgUi5ELiBMb2N5LCBLLlMuIEd1bm4sIFkuIFdpbGxpYW1zLiAyMDA0LiBFZGlibGUgdmFjY2luZSBhZ2FpbnN0IGF2aWFuIHJlb3ZpcnVzIFUuUy4gUHJvdmlvbmFsIFBhdGVudCM2MC82ODgsNjc4Lg==</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916406206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

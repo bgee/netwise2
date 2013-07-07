@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 16:02:54 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2916630306521"  usageLimitType="allocation" usageLimit="200" currentUsage="64" remainingUsage="136" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>US</CountryCode>
+<PostalCode>89154-4020</PostalCode>
+<Region>Nevada</Region>
+<Municipality>Las Vegas</Municipality>
+<DeliveryAddress>
+<AddressLine>4505 Maryland Parkway</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>unknown</WhenAvailable>
+<Telephone>
+<FormattedNumber>+1 (702) 895-5175</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>702</AreaCityCode>
+<SubscriberNumber>895-5175</SubscriberNumber>
+</Telephone>
+</ContactMethod>
+<ContactMethod>
+<Use>personal</Use>
+<Location>home</Location>
+<WhenAvailable>anytime</WhenAvailable>
+<Fax>
+<FormattedNumber>+1 (702) 895-4343</FormattedNumber>
+<InternationalCountryCode>1</InternationalCountryCode>
+<AreaCityCode>702</AreaCityCode>
+<SubscriberNumber>895-4343</SubscriberNumber>
+</Fax>
+</ContactMethod>
+<ContactMethod>
+<InternetEmailAddress>pengtao.sun@unlv.edu</InternetEmailAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Hong Kong Polytechnic University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<Comments>Research Assistant</Comments>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="college">
+<School>
+<SchoolName>Institute of Mathematics Chinese Academy of Sciences</SchoolName>
+</School>
+<Degree degreeType="masters">
+<DegreeName>M.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1997-01-01</AnyDate>
+</DegreeDate>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Shandong University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.Sc</DegreeName>
+<DegreeDate>
+<AnyDate>1994-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Guest professor</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>College of Automotive Engineering Tongji University</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeMajor>
+<Name>Program of Introducing Talents of Discipline</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Nevada Las Vegas</SchoolName>
+</School>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>University of Nevada Las Vegas</SchoolName>
+</School>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Experimental study and numerical simulation of bimolecular reactive transport in porous media</Title>
+<Name role="author">
+<FormattedName>Jia-zhong Qian, Ya-nan Wu, Yong Zhang, Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Papers Published/Accepted By Journals 1 Journal of University of Science and Technology of China</JournalOrSerialName>
+<Volume>2013(accepted).</Volume>
+</Article>
+<Article>
+<Title>An effective combined finite element-upwind finite volume method for a transient multiphysics two-phase transport model of proton exchange membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Su Zhou, Qiya Hu</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Fuel Cell Science and Technology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>numerical studies for a 3D two-phase mixed-domain model of PEM fuel cell</Title>
+<Name role="author">
+<FormattedName>Modeling and</FormattedName>
+</Name>
+<JournalOrSerialName>Mingyan He</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A domain decomposition method for a two-phase transport model of polymer electrolyte fuel cell containing micro-porous layer</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>International Journal for Numerical Methods in Engineering</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of Anode Water Flooding and Gas Purge for PEMFCs</Title>
+<Name role="author">
+<FormattedName>Modeling Study</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Efficient numerical methods for an anisotropic nonisothermal two-phase transport model of proton exchange membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Acta Applicandae Mathematicae</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Advanced study of non-uniform cell voltage distribution for a PEMFC stack</Title>
+<Name role="author">
+<FormattedName>Shuang Zhai, Su Zhou, Pengtao Sun, Fengxiang Chen and Kai</FormattedName>
+</Name>
+<JournalOrSerialName>Sundmacher Journal of Fuel Cell Science and Technology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Numerical study of a 3D two-phase PEM fuel cell model via a novel automated finite element/finite volume program</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Su Zhou, Qiya Hu and Guoping Liang</FormattedName>
+</Name>
+<JournalOrSerialName>Communications in Computational Physics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>An efficient two-grid method for a two-phase mixed-domain model of polymer exchange membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Mingyan He, Ziping Huang, Cheng Wang, Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Procedia Computer Science</JournalOrSerialName>
+<Volume>9(2012</Volume>
+<PageNumber>689-698.</PageNumber>
+</Article>
+<Article>
+<Title>Modeling studies and efficient numerical methods for proton exchange membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Computer Methods in Applied Mechanics and Engineering</JournalOrSerialName>
+</Article>
+<Article>
+<Title>simulation study on the complex seepage mechanism of porous electrode for a proton exchange membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Modeling and</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Numerical studies of thermal transport and mechanical effects due to thermal-inertia loading in PEMFC stack in sub-freezing environment</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Su Zhou</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Fuel Cell Science and Technology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>based collaborative simulation for PEM fuel cells</Title>
+<Name role="author">
+<FormattedName>SIMULINK/FLUENT</FormattedName>
+</Name>
+<JournalOrSerialName>Mingyan He</JournalOrSerialName>
+</Article>
+<Article>
+<Title>An overlapping domain decomposition method for a polymer exchange membrane fuel cell model</Title>
+<Name role="author">
+<FormattedName>Mingyan He, Ziping Huang, Cheng Wang, Pengtao Sun and Shuang Zhai</FormattedName>
+</Name>
+<JournalOrSerialName>Procedia Computer Science</JournalOrSerialName>
+<Volume>4(2011</Volume>
+<PageNumber>1343-1352.</PageNumber>
+</Article>
+<Article>
+<Title>Collaborative simulation for dynamical PEMFC power systems</Title>
+<Name role="author">
+<FormattedName>Shuang Zhai, Pengtao Sun, Fengxiang Chen, Su Zhou and Chuansheng Zhang</FormattedName>
+</Name>
+<JournalOrSerialName>International Journal of Hydrogen Energy</JournalOrSerialName>
+</Article>
+<Article>
+<Title>for Liquid-Feed Direct Methanol Fuel Cell Simulations</Title>
+<Name role="author">
+<FormattedName>A Combined Finite Element-Upwind Finite Volume Method</FormattedName>
+</Name>
+<JournalOrSerialName>Pengtao Sun</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Numerical studies of adaptive finite element methods for two dimensional convection-dominated problems</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Long Chen and Jinchao Xu</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Scientific Computing</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of thermo-induced Marangoni effects in the mixtures and its numerical simulations with mixed finite element method</Title>
+<Name role="author">
+<FormattedName>Phase field model</FormattedName>
+</Name>
+<JournalOrSerialName>Pengtao Sun</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A domain decomposition method for two-phase transport model in the cathode of a polymer electrolyte fuel cell</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Guangri Xue, Chaoyang Wang and Jinchao Xu, Journal</FormattedName>
+</Name>
+<JournalOrSerialName>of Computational Physics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>New numerical techniques for a liquid feed 3D full direct methanol fuel cell model</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Guangri Xue, Chaoyang Wang and Jinchao Xu, SIAM</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>A new adaptive local mesh refinement algorithm and its application on fourth order thin film flow problem</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Robert Russell and Jinchao Xu</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Computational Physics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Optimal anisotropic meshes for minimizing interpolation errors in Lp-norm</Title>
+<Name role="author">
+<FormattedName>Long Chen, Pengtao Sun and Jinchao Xu</FormattedName>
+</Name>
+<JournalOrSerialName>Mathematics of Computation</JournalOrSerialName>
+</Article>
+<Article>
+<Title>for testing finite element methods to simulate extreme-mass-ratio binary systems</Title>
+<Name role="author">
+<FormattedName>A toy model</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Multilevel homotopic adaptive finite element methods for convection dominated problems</Title>
+<Name role="author">
+<FormattedName>Long Chen, Pengtao Sun and Jinchao Xu</FormattedName>
+</Name>
+<JournalOrSerialName>Lecture Notes in Computational Science and Engineering</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Technical analysis of pressure vessel analytical design software VAS2.0</Title>
+<Name role="author">
+<FormattedName>Hong Wei, Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Process Equipment &amp; Piping</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Thermal stress finite element analysis of pipe-plate heat exchanger based on the criterion of JB4732-95 ï¿½- The application of pressure vessel analysis &amp; design software VAS2.0</Title>
+<Name role="author">
+<FormattedName>Hong Wei, Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Process Equipment &amp; Piping</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Solving parabolic problem by domain decomposition methods with Lagrangian multipliers</Title>
+<Name role="author">
+<FormattedName>Qiya Hu, Pengtao Sun and Guoping Liang</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Computational Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>for Parabolic Integro-Differential Equations</Title>
+<Name role="author">
+<FormattedName>Mixed Finite Elements</FormattedName>
+</Name>
+<JournalOrSerialName>Pengtao Sun Acta Mathematica Scientia</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The non-conforming Wilson finite element method for parabolic integro-differential equations</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Acta Mathematica Scientia</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The F.E.M</Title>
+<JournalOrSerialName>for hyperbolic integro-differential equation and the application of Interpolated postprocessing technique</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The interpolated postprocessing technique of the F.E.M</Title>
+<JournalOrSerialName>for nonlinear parabolic integro-differential equations</JournalOrSerialName>
+</Article>
+<Article>
+<Title>projection and the H1-Galerkin methods for the integro- differential equations of evolution</Title>
+<Name role="author">
+<FormattedName>Elliptic H2-Volterra</FormattedName>
+</Name>
+<JournalOrSerialName>Pengtao Sun Journal of Applied Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Finite element method with moving mesh for nonlinear parabolic integro-differential equations</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Shandong University of Science and Technology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Effects of quadrature errors in finite element methods for nonlinear hyperbolic integro-differential equations</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Shandong University of Science and Technology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>The analysis of approximation for F.E.M</Title>
+<JournalOrSerialName>for nonlinear hyperbolic integro- differential equations</JournalOrSerialName>
+</Article>
+<Article>
+<Title>iteration-by-subdomain method for an anisotropic nonisothermal two-phase transport model of PEM fuel cell with micro-porous layer</Title>
+<Name role="author">
+<FormattedName>A Dirichlet/Robin</FormattedName>
+</Name>
+<JournalOrSerialName>Pengtao Sun</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of Gas Purge and Voltage Undershoot for An Air-Breathing PEMFC</Title>
+<Name role="author">
+<FormattedName>Experimental Investigation</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>for PEMFC Stack in the Applications of Vehicle</Title>
+<Name role="author">
+<FormattedName>Multiple-Model Adaptive Control</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>simulation of solid oxide fuel cell performance</Title>
+<Name role="author">
+<FormattedName>Lattice Boltzmann</FormattedName>
+</Name>
+<JournalOrSerialName>Yousheng Xu</JournalOrSerialName>
+</Article>
+<Article>
+<Title>An overlapping domain decomposition method for a polymer exchange membrane fuel cell model</Title>
+<Name role="author">
+<FormattedName>Mingyan He, Ziping Huang, Cheng Wang and Pengtao Sun</FormattedName>
+</Name>
+<JournalOrSerialName>Abstract #251 219th ECS Meeting</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of Thermal Management for Li-Ion Battery Module</Title>
+<Name role="author">
+<FormattedName>Modeling Study</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Modeling studies and efficient numerical methods for proton exchange membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2011 Spring</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Abstract of AMS</JournalOrSerialName>
+</Article>
+<Article>
+<Title>of Polymer Flooding Model for Multiphase Flows in Porous Media</Title>
+<Name role="author">
+<FormattedName>A New Formulation</FormattedName>
+</Name>
+<JournalOrSerialName>Pengtao Sun</JournalOrSerialName>
+</Article>
+<Article>
+<Title>A new formulation and an efficient numerical technique for a nonisothermal anisotropic two-phase transport model of PEMFC</Title>
+<JournalOrSerialName>Pennsylvania State University</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Lagrangian multiplier based domain decomposition method with non-matching grids for time-dependent equations</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Hong Wei, High</FormattedName>
+</Name>
+<JournalOrSerialName>Performance Computing in the Asia-Pacific Region 2000</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Trans-basinal fluid migration between fault-bound basins on the south China margin</Title>
+<Name role="author">
+<FormattedName>Wang, C. Y., M. J. Wang, Pengtao Sun, G. P. Liang, and H</FormattedName>
+</Name>
+</Article>
+<Article>
+<Title>Interpolated post-processing technique for convection and diffusion equation</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, The</FormattedName>
+</Name>
+<JournalOrSerialName>Proceedings of the Sixth National Symposium on Numerical Methods for Fluid Dynamics</JournalOrSerialName>
+<Volume>1993.</Volume>
+</Article>
+<Article>
+<Title>Advanced modeling and numerical studies for polymer electrolyte membrane fuel cell power system</Title>
+<JournalOrSerialName>Technical Report ofProgram of Introducing Talents of Discipline</JournalOrSerialName>
+</Article>
+<Article>
+<Title>numerical simulation studies and self-innovated software development for polymer electrolyte membrane fuel cell power system</Title>
+<Name role="author">
+<FormattedName>Modeling and</FormattedName>
+</Name>
+<JournalOrSerialName>Technical Report of Program of Introducing Talents of Discipline</JournalOrSerialName>
+</Article>
+<Article>
+<Title>numerical studies for polymer electrolyte membrane fuel cell power system</Title>
+<Name role="author">
+<FormattedName>Modeling and</FormattedName>
+</Name>
+<JournalOrSerialName>Technical Report of Program of Introducing Talents of Discipline</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Numerical simulations for polymer electrolyte membrane fuel cells</Title>
+<Name role="author">
+<FormattedName>(PEMFCs)</FormattedName>
+</Name>
+<JournalOrSerialName>(PEMFCs)</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Models research on the cathode of fuel cell</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun and Jinchao Xu</FormattedName>
+</Name>
+<JournalOrSerialName>Technical Report of Department of Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Research notes of numerical simulation on two-phase steady-state transport model in PEFC cathode</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun and Jinchao Xu</FormattedName>
+</Name>
+<JournalOrSerialName>Technical Report of Department of Mathematics</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Papers Submitted 1</Title>
+<JournalOrSerialName>Numerical analysis of finite element method for a two-phase transport model in the cathode of polymer electrolyte fuel cell</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Quantifying kinetics of diffusion-controlled bimolecular reactions</Title>
+<Name role="author">
+<FormattedName>Yong Zhang</FormattedName>
+</Name>
+<JournalOrSerialName>Charalambos Papelis</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Numerical simulation and experimental study of bimolecular reactive transport in porous media</Title>
+<Name role="author">
+<FormattedName>Jiazhong Qian, Hongbin Zhan, Pengtao Sun</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2012</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Environmental Science &amp; Technology</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Papers In Progress</Title>
+</Article>
+<ConferencePaper>
+<Title>Error estimates of finite element method with Kirchhoff transformation for a two-phase transport model of proton exchange membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Yuzhou Sun, Mingyan He, Pengtao Sun</FormattedName>
+</Name>
+<EventName>Papers Published/Accepted By Conference Proceedings 1</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>The efficient numerical techniques for a transient two-phase transport model of polymer electrolyte membrane fuel cell</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Su Zhou</FormattedName>
+</Name>
+<EventName>Proceeding of ASME Tenth International Conference on Fuel Cell Science</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>An overlapping domain decomposition method for a 3D PEMFC model</Title>
+<Name role="author">
+<FormattedName>Cheng Wang, Mingyan He, Ziping Huang, Pengtao Sun</FormattedName>
+</Name>
+<EventName>Proceeding of Twentieth International Conference on Domain Decomposition Methods</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>A mixed finite element method with time relaxation for recirculating flows: the slip with friction boundary condition</Title>
+<Name role="author">
+<FormattedName>Monika Neda and Pengtao Sun, AIP</FormattedName>
+</Name>
+<EventName>Conference Proceedings-American Institute of Physics</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Analysis of non-uniform cell voltages distribution in PEM fuel cell stack</Title>
+<Name role="author">
+<FormattedName>Shuang Zhai, Pengtao Sun, Fengxiang Chen, Chuansheng Zhang and Su Zhou</FormattedName>
+</Name>
+<EventName>Proceeding of ASME Eighth International Conference on Fuel Cell Science</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>of PEM Fuel Cell Transient Yun Wang and Pengtao Sun</Title>
+<Name role="author">
+<FormattedName>Modeling and Numerical Simulation</FormattedName>
+</Name>
+<EventName>Proceeding of ASME Eighth International Conference on Fuel Cell Science</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>A new formulation and an efficient numerical technique for a nonisothermal anisotropic two-phase transport model of PEMFC</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun and Yun Wang</FormattedName>
+</Name>
+<EventName>Proceeding of ASME Eighth International Conference on Fuel Cell Science</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>Numerical studies of heat transport for polymer electrolyte fuel cell stack in sub-freezing environment</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Su Zhou and Ziping Huang</FormattedName>
+</Name>
+<EventName>Proceeding of ASME Seventh International Conference on Fuel Cell Science</EventName>
+</ConferencePaper>
+<ConferencePaper>
+<Title>A combined finite element-upwind finite volume-Newton&apos;s method for liquid-feed direct methanol fuel cell simulations</Title>
+<Name role="author">
+<FormattedName>Pengtao Sun, Guangri Xue, Chaoyang Wang and Jinchao Xu</FormattedName>
+</Name>
+<EventName>Proceeding of ASME Sixth International Conference on Fuel Cell Science</EventName>
+</ConferencePaper>
+</PublicationHistory>
+<Associations>
+<Association>
+<Name>Member, SIAM</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+<Association>
+<Name>Member, ASME</Name>
+<Role><Name>Member</Name></Role>
+</Association>
+</Associations>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>UGVuZ3RhbyBTdW4NCg0KQXNzaXN0YW50IFByb2Zlc3Nvcg0KDQpEZXB0LiBvZiBNYXRoZW1hdGljYWwgU2NpZW5jZXMNCg0KVW5pdmVyc2l0eSBvZiBOZXZhZGEgTGFzIFZlZ2FzDQoNCjQ1MDUgTWFyeWxhbmQgUGFya3dheQ0KDQpMYXMgVmVnYXMsIE5ldmFkYSA4OTE1NC00MDIwDQoNCsKgDQoNCk9mZmljZToNCg0KU2NpZW5jZSBhbmQgRW5naW5lZXJpbmcgQnVpbGRpbmcgKFNFQiktMjEyOQ0KDQpQaG9uZToNCg0KKDcwMikgODk1LTUxNzUNCg0KRmF4Og0KDQooNzAyKSA4OTUtNDM0Mw0KDQpFbWFpbDoNCg0KcGVuZ3Rhby5zdW5AdW5sdi5lZHUNCg0KDQoNClBlbmd0YW8gU3VuJ3PCoHByaW1hcnkgcmVzZWFyY2ggZmllbGRzIGFyZSBOdW1lcmljYWwgQW5hbHlzaXMgYW5kIFNjaWVudGlmaWMgYW5kIEVuZ2luZWVyaW5nIENvbXB1dGluZy7CoEhpc8KgcmVjZW50IHJlc2VhcmNoIGludGVyZXN0cyBmb2N1cyBvbiBhbmlzb3Ryb3BpYyBhZGFwdGl2ZSBmaW5pdGUgZWxlbWVudCBtZXRob2RzIGZvciBkZWFsaW5nIHdpdGggbGFyZ2Utc2NhbGUgYW5kIG11bHRpLXNjYWxlIHBoZW5vbWVuYSwgZS5nLiwgYSBjb21wbGV4IHBoeXNpY2FsIHN5c3RlbSBiZWFyaW5nIGJvdW5kYXJ5IGxheWVycyBvciBzaGFycCBpbnRlcmZhY2VzIGluIGFuIGlycmVndWxhciBtdWx0aWRpbWVuc2lvbmFsIGRvbWFpbiB3aXRoIGNvbXBsZXggYm91bmRhcnkgY29uZGl0aW9ucy4gU29tZSBpbnZvbHZlZCBwcm9qZWN0cyB3aGljaCBhcmUgdHlwaWNhbGx5IHJlbGF0ZWQgdG8gdGhpcyBkaXJlY3Rpb24gYXJlIGFzdHJvbm9teS1ibGFjayBob2xlIGJpbmFyeSBzeXN0ZW0sIHJlbmV3YWJsZSBlbmVyZ3ktZnVlbCBjZWxsIGR5bmFtaWNzLCBmbHVpZCBkeW5hbWljcy10aGluIGZpbG0gZmxvdywgTmF2aWVyLVN0b2tlcy1EYXJjeSBjb3VwbGluZyBmbG93LCBhbmQgZXRjLiBDdXJyZW50bHksIG1vZGVsaW5nIGFuZCBudW1lcmljYWwgc3R1ZGllcyBmb3IgZnVlbCBjZWxsIGR5bmFtaWNzIGFyZSBoaXMgbWFpbiByZXNlYXJjaCBpbnRlcmVzdCwgZm9yIHdoaWNoIGhlIGlzIGRlZGljYXRlZCBpbiBkZXZlbG9waW5nIGFuIGludGVncmF0ZWQgbXVsdGlwaHlzaWNzIGZ1ZWwgY2VsbCBtb2RlbCBpbiB0aGUgbnVtZXJpY2FsIGVmZmljaWVuY3kncyBwb2ludCBvZiB2aWV3LCBhbmQgZGVzaWduaW5nIHRoZSBlZmZpY2llbnQgYW5kIHJvYnVzdCBudW1lcmljYWwgbWV0aG9kcyBhbmQgc29mdHdhcmUuDQoNCg0KDQoNCg0KQnJpZWYgQ1YNCg0KwqBBc3Npc3RhbnQgUHJvZmVzc29yLA0KDQoyMDA3IC0gcHJlc2VudCwNCg0KVW5pdmVyc2l0eSBvZiBOZXZhZGEgTGFzIFZlZ2FzDQoNCsKgQXNzaXN0YW50IFByb2Zlc3NvciwNCg0KwqDCoMKgIChmaXhlZCB0ZXJtKQ0KDQoyMDA1IC0gMjAwNywNCg0KUGVubnN5bHZhbmlhIFN0YXRlIFVuaXZlcnNpdHkNCg0KwqBSZXNlYXJjaCBBc3NvY2lhdGUsDQoNCjIwMDQgLSAyMDA1LA0KDQpTaW1vbiBGcmFzZXIgVW5pdmVyc2l0eQ0KDQrCoFBvc3Rkb2N0b3JhbCBGZWxsb3csDQoNCjIwMDEgLSAyMDA0LA0KDQpQZW5uc3lsdmFuaWEgU3RhdGUgVW5pdmVyc2l0eQ0KDQrCoFImRCBTY2llbnRpc3Q7wqDCoMKgwqANCg0KMTk5OCAtIDIwMDEsDQoNCkluc3RpdHV0ZSBvZiBNYXRoZW1hdGljcywgQ2hpbmVzZSBBY2FkZW15IG9mIFNjaWVuY2VzwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgDQoNCsKgUmVzZWFyY2ggQXNzaXN0YW50LA0KDQoxOTk3wqAtIDE5OTgsDQoNCkhvbmcgS29uZyBQb2x5dGVjaG5pYyBVbml2ZXJzaXR5DQoNCsKgUGguRC4sDQoNCjE5OTQgLSAxOTk3LA0KDQpJbnN0aXR1dGUgb2YgTWF0aGVtYXRpY3MswqBDaGluZXNlIEFjYWRlbXkgb2YgU2NpZW5jZXMNCg0KwqBNLlNjLA0KDQoxOTkxIC0gMTk5NCwNCg0KU2hhbmRvbmcgVW5pdmVyc2l0eQ0KDQrCoMKgQi5TYywNCg0KMTk4NyAtIDE5OTEsDQoNClNoYW5kb25nIFVuaXZlcnNpdHkNCg0KwqANCg0KwqANCg0KwqANCg0KwqANCg0KwqANCg0KwqANCg0KwqANCg0KwqANCg0KwqANCg0KwqBHdWVzdCBwcm9mZXNzb3IsDQoNCjIwMDjCoC0gcHJlc2VudCwNCg0KQ29sbGVnZSBvZiBBdXRvbW90aXZlIEVuZ2luZWVyaW5nLCBUb25namkgVW5pdmVyc2l0eSAoUHJvZ3JhbSBvZiBJbnRyb2R1Y2luZyBUYWxlbnRzIG9mIERpc2NpcGxpbmUpDQoNCsKgTWVtYmVyLCBTSUFNLA0KDQoyMDA5wqAtIHByZXNlbnQsDQoNClVuaXZlcnNpdHkgb2YgTmV2YWRhIExhcyBWZWdhcw0KDQrCoE1lbWJlcizCoEFTTUUsDQoNCjIwMDnCoC0gcHJlc2VudCwNCg0KVW5pdmVyc2l0eSBvZiBOZXZhZGEgTGFzIFZlZ2FzDQoNCg0KDQrCoA0KDQrCoA0KDQoNCg0KDQoNClB1YmxpY2F0aW9ucw0KDQrCoMKgwqDCoMKgwqDCoMKgUGFwZXJzIFB1Ymxpc2hlZC9BY2NlcHRlZCBCeSBKb3VybmFscw0KDQoxLiBFeHBlcmltZW50YWwgc3R1ZHkgYW5kIG51bWVyaWNhbCBzaW11bGF0aW9uIG9mIGJpbW9sZWN1bGFyIHJlYWN0aXZlIHRyYW5zcG9ydCBpbiBwb3JvdXMgbWVkaWEswqBKaWEtemhvbmcgUWlhbiwgWWEtbmFuIFd1LCBZb25nIFpoYW5nLCBQZW5ndGFvIFN1biwgSm91cm5hbCBvZiBVbml2ZXJzaXR5IG9mIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kgb2YgQ2hpbmEsIDIwMTMgKGFjY2VwdGVkKS4NCg0KMi4gQW4gZWZmZWN0aXZlIGNvbWJpbmVkIGZpbml0ZSBlbGVtZW50LXVwd2luZCBmaW5pdGUgdm9sdW1lIG1ldGhvZCBmb3IgYSB0cmFuc2llbnQgbXVsdGlwaHlzaWNzIHR3by1waGFzZSB0cmFuc3BvcnQgbW9kZWwgb2YgcHJvdG9uIGV4Y2hhbmdlIG1lbWJyYW5lIGZ1ZWwgY2VsbCzCoFBlbmd0YW8gU3VuLCBTdSBaaG91LCBRaXlhIEh1LCBKb3VybmFsIG9mIEZ1ZWwgQ2VsbCBTY2llbmNlIGFuZCBUZWNobm9sb2d5IChKLiBGdWVsIENlbGwgU2NpLiBUZWNoLiksIDIwMTMgKGluIHByZXNzKS4NCg0KMy4gRnVsbCBFdWxlcmlhbiBtb2RlbGluZyBhbmQgZWZmZWN0aXZlIG51bWVyaWNhbCBzdHVkaWVzIGZvciB0aGUgZHluYW1pYyBmbHVpZC1zdHJ1Y3R1cmUgaW50ZXJhY3Rpb24gcHJvYmxlbSzCoFBlbmd0YW8gU3VuLCBMaXhpYW5nIFpoYW5nLCBDaHVuIExpdSBhbmQgSmluY2hhbyBYdSwgQ29udGVtcG9yYXJ5IE1hdGhlbWF0aWNzLCA1ODYgKDIwMTMpwqAgKGluIHByZXNzKS4NCg0KNC4gTW9kZWxpbmcgYW5kIG51bWVyaWNhbCBzdHVkaWVzIGZvciBhIDNEIHR3by1waGFzZSBtaXhlZC1kb21haW4gbW9kZWwgb2YgUEVNIGZ1ZWwgY2VsbCzCoE1pbmd5YW4gSGUsIFppcGluZyBIdWFuZywgUGVuZ3RhbyBTdW4sIENoZW5nIFdhbmcsIEpvdXJuYWwgb2YgVGhlIEVsZWN0cm9jaGVtaWNhbCBTb2NpZXR5IChKLiBFbGVjdHJvY2hlbS4gU29jLiksIDE2MCAoMjAxMykswqBGMzI0LUYzMzYuDQoNCjUuIEEgZG9tYWluIGRlY29tcG9zaXRpb24gbWV0aG9kIGZvciBhIHR3by1waGFzZSB0cmFuc3BvcnQgbW9kZWwgb2YgcG9seW1lciBlbGVjdHJvbHl0ZSBmdWVsIGNlbGwgY29udGFpbmluZyBtaWNyby1wb3JvdXMgbGF5ZXIsUGVuZ3RhbyBTdW4sIEludGVybmF0aW9uYWwgSm91cm5hbCBmb3IgTnVtZXJpY2FsIE1ldGhvZHMgaW4gRW5naW5lZXJpbmcgKEludC4gSi4gTnVtZXIuIE1ldGguIEVuZy4pLCA5MSgyMDEyKSwgMTExNS0xMTM2Lg0KDQo2LiBNb2RlbGluZyBTdHVkeSBvZiBBbm9kZSBXYXRlciBGbG9vZGluZyBhbmQgR2FzIFB1cmdlIGZvciBQRU1GQ3MswqBTaHVhbmcgWmhhaSwgU3UgWmhvdSwgUGVuZ3RhbyBTdW4sIEZlbmd4aWFuZyBDaGVuIGFuZCBKaWdhbyBOaXUsIEpvdXJuYWwgb2YgRnVlbCBDZWxsIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kgKEouIEZ1ZWwgQ2VsbCBTY2kuIFRlY2guKSwgOSAoMjAxMikswqAwMzEwMDctMSAtIDAzMTAwNy05Lg0KDQo3LiBFZmZpY2llbnQgbnVtZXJpY2FsIG1ldGhvZHMgZm9yIGFuIGFuaXNvdHJvcGljLCBub25pc290aGVybWFsLCB0d28tcGhhc2UgdHJhbnNwb3J0IG1vZGVsIG9mIHByb3RvbiBleGNoYW5nZSBtZW1icmFuZSBmdWVsIGNlbGwsIFBlbmd0YW8gU3VuLCBBY3RhIEFwcGxpY2FuZGFlwqBNYXRoZW1hdGljYWUgKEFjdGEgQXBwbC4gTWF0aC4pLCAxMTggKDIwMTIpLCAyNTEtMjc5Lg0KDQo4LiBBZHZhbmNlZCBzdHVkeSBvZiBub24tdW5pZm9ybSBjZWxsIHZvbHRhZ2UgZGlzdHJpYnV0aW9uIGZvciBhIFBFTUZDIHN0YWNrLMKgU2h1YW5nIFpoYWksIFN1IFpob3UsIFBlbmd0YW8gU3VuLCBGZW5neGlhbmcgQ2hlbiBhbmQgS2FpIFN1bmRtYWNoZXIsIEpvdXJuYWwgb2YgRnVlbCBDZWxswqBTY2llbmNlIGFuZCBUZWNobm9sb2d5IChKLiBGdWVsIENlbGwgU2NpLiBUZWNoLiksIDkgKDIwMTIpLCAwMTEwMTQtMSAtIDAxMTAxNC04Lg0KDQo5LiBOdW1lcmljYWwgc3R1ZHkgb2YgYSAzRCB0d28tcGhhc2UgUEVNIGZ1ZWwgY2VsbCBtb2RlbCB2aWEgYSBub3ZlbCBhdXRvbWF0ZWQgZmluaXRlIGVsZW1lbnQvZmluaXRlIHZvbHVtZSBwcm9ncmFtLMKgUGVuZ3RhbyBTdW4sIFN1IFpob3UsIFFpeWEgSHUgYW5kIEd1b3BpbmcgTGlhbmcsIENvbW11bmljYXRpb25zIGluIENvbXB1dGF0aW9uYWwgUGh5c2ljcyAoQ29tbXVuLiBDb21wdXQuIFBoeXMuKSzCoDExICgyMDEyKSwgNjUtOTguDQoNCjEwLiBBbiBlZmZpY2llbnQgdHdvLWdyaWQgbWV0aG9kIGZvciBhIHR3by1waGFzZSBtaXhlZC1kb21haW4gbW9kZWwgb2YgcG9seW1lciBleGNoYW5nZSBtZW1icmFuZSBmdWVsIGNlbGwsIE1pbmd5YW4gSGUsIFppcGluZyBIdWFuZywgQ2hlbmcgV2FuZywgUGVuZ3RhbyBTdW4sIFByb2NlZGlhIENvbXB1dGVyIFNjaWVuY2UsIDkgKDIwMTIpLCA2ODktNjk4Lg0KDQoxMS4gTW9kZWxpbmcgc3R1ZGllcyBhbmQgZWZmaWNpZW50IG51bWVyaWNhbCBtZXRob2RzIGZvciBwcm90b24gZXhjaGFuZ2UgbWVtYnJhbmUgZnVlbCBjZWxsLMKgUGVuZ3RhbyBTdW4sIENvbXB1dGVyIE1ldGhvZHMgaW4gQXBwbGllZCBNZWNoYW5pY3MgYW5kIEVuZ2luZWVyaW5nIChDb21wdXQuIE1ldGhvZHMgQXBwbC4gTWVjaC4gRW5ncmcuKSwgMjAwICgyMDExKSwgMzMyNC0zMzQwLg0KDQoxMi4gTW9kZWxpbmcgYW5kIHNpbXVsYXRpb24gc3R1ZHkgb24gdGhlIGNvbXBsZXggc2VlcGFnZSBtZWNoYW5pc20gb2YgcG9yb3VzIGVsZWN0cm9kZSBmb3IgYSBwcm90b24gZXhjaGFuZ2UgbWVtYnJhbmUgZnVlbCBjZWxsLEh1aSBIZSwgUGVuZ3RhbyBTdW4gYW5kIFlvdXNoZW5nIFh1LCBBZHZhbmNlZCBNYXRlcmlhbHMgUmVzZWFyY2ggKEFkdi4gTWF0ZXIuIFJlcy4pLCBWb2xzLiAyOTUgLSAyOTcgKDIwMTEpLCAxOTcyLTE5NzcuDQoNCjEzLiBOdW1lcmljYWwgc3R1ZGllcyBvZiB0aGVybWFsIHRyYW5zcG9ydCBhbmQgbWVjaGFuaWNhbCBlZmZlY3RzIGR1ZSB0byB0aGVybWFsLWluZXJ0aWEgbG9hZGluZyBpbiBQRU1GQyBzdGFjayBpbiBzdWItZnJlZXppbmcgZW52aXJvbm1lbnQswqBQZW5ndGFvIFN1biwgU3UgWmhvdSwgSm91cm5hbCBvZiBGdWVsIENlbGwgU2NpZW5jZSBhbmQgVGVjaG5vbG9neSAoSi4gRnVlbCBDZWxsIFNjaS4gVGVjaC4pLCA4ICgyMDExKSwgMDExMDEwLTEgLSAwMTEwMTAtMjQuDQoNCjE0LiBTSU1VTElOSy9GTFVFTlQgYmFzZWQgY29sbGFib3JhdGl2ZSBzaW11bGF0aW9uIGZvciBQRU0gZnVlbCBjZWxscyzCoE1pbmd5YW4gSGUsIFN1IFpob3UsIFppcGluZyBIdWFuZyBhbmQgUGVuZ3RhbyBTdW4sIEpvdXJuYWwgb2YgU3lzdGVtIFNpbXVsYXRpb24gKEouIFN5c3QuIFNpbXVsYXQuKSwgMjMgKDIwMTEpLCBOby4xLMKgIDM4LTQzLg0KDQoxNS4gQW4gb3ZlcmxhcHBpbmcgZG9tYWluIGRlY29tcG9zaXRpb24gbWV0aG9kIGZvciBhIHBvbHltZXIgZXhjaGFuZ2UgbWVtYnJhbmUgZnVlbCBjZWxsIG1vZGVsLMKgTWluZ3lhbiBIZSwgWmlwaW5nIEh1YW5nLCBDaGVuZyBXYW5nLCBQZW5ndGFvIFN1biBhbmQgU2h1YW5nIFpoYWksIFByb2NlZGlhIENvbXB1dGVyIFNjaWVuY2UsIDQgKDIwMTEpLCAxMzQzLTEzNTIuDQoNCjE2LiBDb2xsYWJvcmF0aXZlIHNpbXVsYXRpb24gZm9yIGR5bmFtaWNhbCBQRU1GQyBwb3dlciBzeXN0ZW1zLMKgU2h1YW5nIFpoYWksIFBlbmd0YW8gU3VuLCBGZW5neGlhbmcgQ2hlbiwgU3UgWmhvdSBhbmQgQ2h1YW5zaGVuZyBaaGFuZywgSW50ZXJuYXRpb25hbCBKb3VybmFsIG9mIEh5ZHJvZ2VuIEVuZXJneSAoSW50LiBKLiBIeWRyb2dlbiBFbmVyZy4pLCAzNSAoMjAxMCksIDg3NzItODc4Mi4NCg0KMTcuIEEgQ29tYmluZWQgRmluaXRlIEVsZW1lbnQtVXB3aW5kIEZpbml0ZSBWb2x1bWUgTWV0aG9kIGZvciBMaXF1aWQtRmVlZCBEaXJlY3QgTWV0aGFub2wgRnVlbCBDZWxsIFNpbXVsYXRpb25zLMKgUGVuZ3RhbyBTdW4sIENoYW95YW5nIFdhbmcsIEppbmNoYW8gWHUsIEpvdXJuYWwgb2YgRnVlbCBDZWxsIFNjaWVuY2UgYW5kIFRlY2hub2xvZ3kgKEouIEZ1ZWwgQ2VsbCBTY2kuIFRlY2guKSwgNyAoMjAxMCksIDA0MTAxMC0xIC0gMDQxMDEwLTE0Lg0KDQoxOC4gTnVtZXJpY2FsIHN0dWRpZXMgb2YgYWRhcHRpdmUgZmluaXRlIGVsZW1lbnQgbWV0aG9kcyBmb3IgdHdvIGRpbWVuc2lvbmFsIGNvbnZlY3Rpb24tZG9taW5hdGVkIHByb2JsZW1zLMKgUGVuZ3RhbyBTdW4sIExvbmcgQ2hlbiBhbmQgSmluY2hhbyBYdSwgSm91cm5hbCBvZiBTY2llbnRpZmljIENvbXB1dGluZyAoSi4gU2NpLiBDb21wdXQuKSwgNDMgKDIwMTApLCAyNC00My4NCg0KMTkuIFBoYXNlIGZpZWxkIG1vZGVsIG9mIHRoZXJtby1pbmR1Y2VkIE1hcmFuZ29uaSBlZmZlY3RzIGluIHRoZSBtaXh0dXJlcyBhbmQgaXRzIG51bWVyaWNhbCBzaW11bGF0aW9ucyB3aXRoIG1peGVkIGZpbml0ZSBlbGVtZW50IG1ldGhvZCzCoFBlbmd0YW8gU3VuLCBDaHVuIExpdSBhbmQgSmluY2hhbyBYdSwgQ29tbXVuaWNhdGlvbnMgaW4gQ29tcHV0YXRpb25hbCBQaHlzaWNzIChDb21tdW4uIENvbXB1dC4gUGh5cy4pLCA2ICgyMDA5KSwgMTA5NS0xMTE3Lg0KDQoyMC4gRmFzdCBudW1lcmljYWwgc2ltdWxhdGlvbiBvZiB0d28tcGhhc2UgdHJhbnNwb3J0IG1vZGVsIGluIHRoZSBjYXRob2RlIG9mIGEgcG9seW1lciBlbGVjdHJvbHl0ZSBmdWVsIGNlbGwsIFBlbmd0YW8gU3VuLCBHdWFuZ3JpIFh1ZSwgQ2hhb3lhbmcgV2FuZyBhbmQgSmluY2hhbyBYdSwgQ29tbXVuaWNhdGlvbnMgaW4gQ29tcHV0YXRpb25hbCBQaHlzaWNzIChDb21tdW4uIENvbXB1dC4gUGh5cy4pLCA2ICgyMDA5KSwgNDktNzEuDQoNCjIxLiBBIGRvbWFpbiBkZWNvbXBvc2l0aW9uIG1ldGhvZCBmb3IgdHdvLXBoYXNlIHRyYW5zcG9ydCBtb2RlbCBpbiB0aGUgY2F0aG9kZSBvZiBhIHBvbHltZXIgZWxlY3Ryb2x5dGUgZnVlbCBjZWxsLiBQZW5ndGFvIFN1biwgR3VhbmdyaSBYdWUsIENoYW95YW5nIFdhbmcgYW5kIEppbmNoYW8gWHUsIEpvdXJuYWwgb2YgQ29tcHV0YXRpb25hbCBQaHlzaWNzIChKLiBDb21wdXQuIFBoeXMuKSwgMjI4ICgyMDA5KSwgNjAxNi02MDM2Lg0KDQoyMi4gTmV3IG51bWVyaWNhbCB0ZWNobmlxdWVzIGZvciBhIGxpcXVpZCBmZWVkIDNEIGZ1bGwgZGlyZWN0IG1ldGhhbm9sIGZ1ZWwgY2VsbCBtb2RlbCwgUGVuZ3RhbyBTdW4sIEd1YW5ncmkgWHVlLCBDaGFveWFuZyBXYW5nIGFuZCBKaW5jaGFvIFh1LMKgU0lBTTrCoFNJQU0gSm91cm5hbCBvbiBBcHBsaWVkIE1hdGhlbWF0aWNzIChTSUFNIEouIEFwcGwuIE1hdGguKSwgNzAgKDIwMDkpLCA2MDAtNjIwLg0KDQoyMy4gQSBuZXcgYWRhcHRpdmUgbG9jYWwgbWVzaCByZWZpbmVtZW50IGFsZ29yaXRobSBhbmQgaXRzIGFwcGxpY2F0aW9uIG9uIGZvdXJ0aCBvcmRlciB0aGluIGZpbG0gZmxvdyBwcm9ibGVtLMKgUGVuZ3RhbyBTdW4sIFJvYmVydCBSdXNzZWxsIGFuZCBKaW5jaGFvIFh1LCBKb3VybmFsIG9mIENvbXB1dGF0aW9uYWwgUGh5c2ljcyAoSi4gQ29tcHV0LiBQaHlzLiksIDIyNCAoMjAwNyksIDEwMjEtMTA0OC4NCg0KMjQuIE9wdGltYWwgYW5pc290cm9waWMgbWVzaGVzIGZvciBtaW5pbWl6aW5nIGludGVycG9sYXRpb24gZXJyb3JzIGluIExwLW5vcm0sIExvbmcgQ2hlbiwgUGVuZ3RhbyBTdW4gYW5kwqBKaW5jaGFvIFh1LCBNYXRoZW1hdGljcyBvZiBDb21wdXRhdGlvbiAoTWF0aC4gQ29tcC4pLCA3NiAoMjAwNyksIDE3OS0yMDQuDQoNCjI1LiBBIHRveSBtb2RlbCBmb3IgdGVzdGluZyBmaW5pdGUgZWxlbWVudCBtZXRob2RzIHRvIHNpbXVsYXRlIGV4dHJlbWUtbWFzcy1yYXRpbyBiaW5hcnkgc3lzdGVtcywgQ2FybG9zIEYuwqBTb3B1ZXJ0YSwgUGVuZ3RhbyBTdW4sIFBhYmxvIExhZ3VuYSBhbmQgSmluY2hhbyBYdSwgQ2xhc3NpY2FsIGFuZCBRdWFudHVtIEdyYXZpdHkgKENsYXNzaWNhbCBRdWFudC4gR3Jhdi4pLCAyMyAoMjAwNiksIDI1MS0yODUuDQoNCjI2LiBNdWx0aWxldmVsIGhvbW90b3BpYyBhZGFwdGl2ZSBmaW5pdGUgZWxlbWVudCBtZXRob2RzIGZvciBjb252ZWN0aW9uIGRvbWluYXRlZCBwcm9ibGVtcyzCoExvbmcgQ2hlbizCoFBlbmd0YW8gU3VuIGFuZCBKaW5jaGFvIFh1LMKgTGVjdHVyZSBOb3RlcyBpbiBDb21wdXRhdGlvbmFsIFNjaWVuY2UgYW5kIEVuZ2luZWVyaW5nIChMZWN0LiBOb3RlcyBDb21wdXQuIFNjaS4gRW5nLiksIFNwcmluZ2VyIEJlcmxpbiBIZWlkZWxiZXJnLMKgNDAgKDIwMDUpLCA0NTktNDY4Lg0KDQoyNy4gVGVjaG5pY2FsIGFuYWx5c2lzIG9mIHByZXNzdXJlIHZlc3NlbCBhbmFseXRpY2FsIGRlc2lnbiBzb2Z0d2FyZSBWQVMyLjAswqBIb25nIFdlaSwgUGVuZ3RhbyBTdW4sIFByb2Nlc3MgRXF1aXBtZW50ICbCoFBpcGluZyAoUHJvYy4gRXF1aXAuIFBpcGluZyksIDM4ICgyMDAxKSwgTm8uMywgNTQtNTcuDQoNCjI4LiBUaGVybWFsIHN0cmVzcyBmaW5pdGUgZWxlbWVudCBhbmFseXNpcyBvZiBwaXBlLXBsYXRlIGhlYXQgZXhjaGFuZ2VyIGJhc2VkIG9uIHRoZSBjcml0ZXJpb24gb2YgSkI0NzMyLTk1IOKAlSBUaGUgYXBwbGljYXRpb24gb2YgcHJlc3N1cmUgdmVzc2VsIGFuYWx5c2lzICYgZGVzaWduIHNvZnR3YXJlIFZBUzIuMCzCoEhvbmcgV2VpLCBQZW5ndGFvIFN1biwgUHJvY2VzcyBFcXVpcG1lbnQgJsKgUGlwaW5nIChQcm9jLiBFcXVpcC4gUGlwaW5nKSwgMzggKDIwMDEpLCBOby42LCA1Ni01OQ0KDQoyOS4gU29sdmluZyBwYXJhYm9saWMgcHJvYmxlbSBieSBkb21haW4gZGVjb21wb3NpdGlvbiBtZXRob2RzIHdpdGggTGFncmFuZ2lhbiBtdWx0aXBsaWVycywgUWl5YSBIdSwgUGVuZ3Rhb8KgU3VuIGFuZCBHdW9waW5nIExpYW5nLCBKb3VybmFsIG9mIENvbXB1dGF0aW9uYWwgTWF0aGVtYXRpY3MgKEouIENvbXB1dC4gTWF0aC4pLCAyMiAoMjAwMCksIDI0MS0yNTYuDQoNCjMwLiBNaXhlZCBGaW5pdGUgRWxlbWVudHMgZm9yIFBhcmFib2xpYyBJbnRlZ3JvLURpZmZlcmVudGlhbCBFcXVhdGlvbnMsIFBlbmd0YW8gU3VuICwgQWN0YSBNYXRoZW1hdGljYSBTY2llbnRpYSAoQWN0YSBNYXRoLiBTY2kuKSzCoDE3ICgxOTk3KSwgMzE5LTMyOS4NCg0KMzEuIFRoZSBub24tY29uZm9ybWluZyBXaWxzb24gZmluaXRlIGVsZW1lbnQgbWV0aG9kIGZvciBwYXJhYm9saWMgaW50ZWdyby1kaWZmZXJlbnRpYWwgZXF1YXRpb25zLCBQZW5ndGFvIFN1bizCoEFjdGEgTWF0aGVtYXRpY2EgU2NpZW50aWHCoChBY3RhIE1hdGguIFNjaS4pLCBWb2wuIDE2LCBOby4gUzEgKDE5OTYpLCA1Ny02NS4NCg0KMzIuIFRoZSBGLkUuTS4gZm9yIGh5cGVyYm9saWMgaW50ZWdyby1kaWZmZXJlbnRpYWwgZXF1YXRpb24gYW5kIHRoZSBhcHBsaWNhdGlvbiBvZiBJbnRlcnBvbGF0ZWQgcG9zdHByb2Nlc3NpbmfCoHRlY2huaXF1ZSwgUGVuZ3RhbyBTdW4sIE1hdGhlbWF0aWNhIEFwcGxpY2F0YSAoTWF0aC4gQXBwbC4pLCA5ICgxOTk2KSwgNDMzLTQ0MC4NCg0KMzMuIFRoZSBpbnRlcnBvbGF0ZWQgcG9zdHByb2Nlc3NpbmcgdGVjaG5pcXVlIG9mIHRoZSBGLkUuTS4gZm9yIG5vbmxpbmVhciBwYXJhYm9saWMgaW50ZWdyby1kaWZmZXJlbnRpYWzCoGVxdWF0aW9ucywgUGVuZ3RhbyBTdW4sIEpvdXJuYWwgb2YgU3lzdGVtcyBTY2llbmNlIGFuZCBNYXRoZW1hdGljYWwgU2NpZW5jZXMgKEouIFN5cy4gU2NpLiBNYXRoLiBTY2kuKSwgMTYgKDE5OTYpLCAxNTktMTcxLg0KDQozNC4gRWxsaXB0aWMgSDItVm9sdGVycmEgcHJvamVjdGlvbiBhbmQgdGhlIEgxLUdhbGVya2luIG1ldGhvZHMgZm9yIHRoZSBpbnRlZ3JvLSBkaWZmZXJlbnRpYWwgZXF1YXRpb25zIG9mIGV2b2x1dGlvbizCoFBlbmd0YW8gU3VuLCBKb3VybmFsIG9mIEFwcGxpZWQgTWF0aGVtYXRpY3MgKEouIEFwcGwuIE1hdGguKSwgMTAgKDE5OTUpLCAxMS0yNC4NCg0KMzUuIEZpbml0ZSBlbGVtZW50IG1ldGhvZCB3aXRoIG1vdmluZyBtZXNoIGZvciBub25saW5lYXIgcGFyYWJvbGljIGludGVncm8tZGlmZmVyZW50aWFsIGVxdWF0aW9ucywgUGVuZ3RhbyBTdW4swqBKb3VybmFsIG9mIFNoYW5kb25nIFVuaXZlcnNpdHkgb2YgU2NpZW5jZSBhbmQgVGVjaG5vbG9neSAoTmF0dXJhbCBTY2llbmNlKSAoSi4gU2hhbmRvbmcgVW5pdi4gTmF0LiBTY2kuIEVkLiksIDMwICgxOTk1KSwgMjI3LTIzNS4NCg0KMzYuIEVmZmVjdHMgb2YgcXVhZHJhdHVyZSBlcnJvcnMgaW4gZmluaXRlIGVsZW1lbnQgbWV0aG9kcyBmb3Igbm9ubGluZWFyIGh5cGVyYm9saWMgaW50ZWdyby1kaWZmZXJlbnRpYWzCoGVxdWF0aW9ucywgUGVuZ3RhbyBTdW4sIEpvdXJuYWwgb2YgU2hhbmRvbmcgVW5pdmVyc2l0eSBvZiBTY2llbmNlIGFuZCBUZWNobm9sb2d5IChOYXR1cmFsIFNjaWVuY2UpIChKLiBTaGFuZG9uZyBVbml2LiBOYXQuIFNjaS4gRWQuKSwgMzAgKDE5OTUpLCA0My01MS4NCg0KMzcuIFRoZSBhbmFseXNpcyBvZiBhcHByb3hpbWF0aW9uIGZvciBGLkUuTS4gZm9yIG5vbmxpbmVhciBoeXBlcmJvbGljIGludGVncm8tIGRpZmZlcmVudGlhbCBlcXVhdGlvbnMsIFBlbmd0YW/CoFN1biwgSm91cm5hbCBvZiBFbmdpbmVlcmluZyBNYXRoZW1hdGljcyAoSi4gRW5nLiBNYXRoLiksIDExICgxOTk0KSwgNzYtODIuDQoNCsKgwqDCoMKgwqDCoMKgwqBQYXBlcnMgUHVibGlzaGVkL0FjY2VwdGVkIEJ5wqBDb25mZXJlbmNlIFByb2NlZWRpbmdzDQoNCjEuIEVycm9yIGVzdGltYXRlcyBvZiBmaW5pdGUgZWxlbWVudCBtZXRob2Qgd2l0aCBLaXJjaGhvZmYgdHJhbnNmb3JtYXRpb24gZm9yIGEgdHdvLXBoYXNlIHRyYW5zcG9ydCBtb2RlbCBvZiBwcm90b24gZXhjaGFuZ2UgbWVtYnJhbmUgZnVlbCBjZWxsLMKgWXV6aG91IFN1biwgTWluZ3lhbiBIZSwgUGVuZ3RhbyBTdW4sIEFic3RyYWN0ICMxMTgsIDR0aCBJbnRlcm5hdGlvbmFsIENvbmdyZXNzIG9uIENvbXB1dGF0aW9uYWwgRW5naW5lZXJpbmcgYW5kIFNjaWVuY2VzLCBMYXMgVmVnYXMsIE5ldmFkYSwgTWF5IDE5IC0gMjQsIDIwMTMuDQoNCjIuIEEgRGlyaWNobGV0L1JvYmluIGl0ZXJhdGlvbi1ieS1zdWJkb21haW4gbWV0aG9kIGZvciBhbiBhbmlzb3Ryb3BpYywgbm9uaXNvdGhlcm1hbCB0d28tcGhhc2UgdHJhbnNwb3J0IG1vZGVsIG9mIFBFTSBmdWVsIGNlbGwgd2l0aCBtaWNyby1wb3JvdXMgbGF5ZXIsIFBlbmd0YW8gU3VuLCBBYnN0cmFjdCAjMTE0LCA0dGggSW50ZXJuYXRpb25hbCBDb25ncmVzcyBvbiBDb21wdXRhdGlvbmFsIEVuZ2luZWVyaW5nIGFuZCBTY2llbmNlcywgTGFzIFZlZ2FzLCBOZXZhZGEsIE1heSAxOSAtIDI0LCAyMDEzLg0KDQozLiBUaGUgZWZmaWNpZW50IG51bWVyaWNhbCB0ZWNobmlxdWVzIGZvciBhIHRyYW5zaWVudCB0d28tcGhhc2UgdHJhbnNwb3J0IG1vZGVsIG9mIHBvbHltZXIgZWxlY3Ryb2x5dGUgbWVtYnJhbmUgZnVlbCBjZWxsLMKgUGVuZ3RhbyBTdW4swqBTdSBaaG91LCBQcm9jZWVkaW5nIG9mIEFTTUUgVGVudGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIEZ1ZWwgQ2VsbCBTY2llbmNlLCBFbmdpbmVlcmluZyAmIFRlY2hub2xvZ3ksIFNhbiBEaWVnbywgQ2FsaWZvcm5pYSwgSnVseSAyMy0yNiwgMjAxMi4NCg0KNC4gQW4gb3ZlcmxhcHBpbmcgZG9tYWluIGRlY29tcG9zaXRpb24gbWV0aG9kIGZvciBhIDNEIFBFTUZDIG1vZGVsLMKgQ2hlbmcgV2FuZywgTWluZ3lhbiBIZSwgWmlwaW5nIEh1YW5nLCBQZW5ndGFvIFN1biwgUHJvY2VlZGluZyBvZiBUd2VudGlldGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIERvbWFpbiBEZWNvbXBvc2l0aW9uIE1ldGhvZHMsIFNhbiBEaWVnbywgRmVicnVhcnkgNy0xMSwyMDExLCA0MTctNDI0Lg0KDQo1LiBBIG1peGVkIGZpbml0ZSBlbGVtZW50IG1ldGhvZCB3aXRoIHRpbWUgcmVsYXhhdGlvbiBmb3IgcmVjaXJjdWxhdGluZyBmbG93czogdGhlIHNsaXAgd2l0aCBmcmljdGlvbiBib3VuZGFyeSBjb25kaXRpb24swqBNb25pa2EgTmVkYSBhbmQgUGVuZ3RhbyBTdW4swqBBSVAgQ29uZmVyZW5jZSBQcm9jZWVkaW5ncy1BbWVyaWNhbiBJbnN0aXR1dGUgb2YgUGh5c2ljcywgQWR2YW5jZXMgaW4gTWF0aGVtYXRpY2FsIGFuZCBDb21wdXRhdGlvbmFsIE1ldGhvZHM6IEFkZHJlc3NpbmcgTW9kZXJuIENoYWxsZW5nZXMgb2YgU2NpZW5jZSwgVGVjaG5vbG9neSwgYW5kIFNvY2lldHksIEp1bHkgMjUtMjksIDIwMTEsIFdhdGVybG9vLCBDYW5hZGEuIFZvbC4gMTM2OCwgNS04Lg0KDQo2LiBFeHBlcmltZW50YWwgSW52ZXN0aWdhdGlvbiBvZiBHYXMgUHVyZ2UgYW5kIFZvbHRhZ2UgVW5kZXJzaG9vdCBmb3IgQW4gQWlyLUJyZWF0aGluZyBQRU1GQyzCoFNodWFuZyBaaGFpLCBKaWdhbyBOaXUsIFBlbmd0YW8gU3VuLCBGZW5neGlhbmcgQ2hlbiBhbmQgU3UgWmhvdSzCoFByb2NlZWRpbmcgb2YgQVNNRSBOaW50aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gRnVlbCBDZWxsIFNjaWVuY2UsIEVuZ2luZWVyaW5nICYgVGVjaG5vbG9neSxXYXNoaW5ndG9uIERDLCBBdWd1c3QgNy0xMCwgMjAxMSwgMTg3LTE5NC4NCg0KNy4gTXVsdGlwbGUtTW9kZWwgQWRhcHRpdmUgQ29udHJvbCBmb3IgUEVNRkMgU3RhY2sgaW4gdGhlIEFwcGxpY2F0aW9ucyBvZiBWZWhpY2xlLMKgU3UgWmhvdSwgQ2h1YW5zaGVuZyBaaGFuZywgRmVuZ3hpYW5nIENoZW4sIFNodWFuZyBaaGFpLCBQZW5ndGFvIFN1bizCoFByb2NlZWRpbmcgb2YgQVNNRSBOaW50aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gRnVlbCBDZWxsIFNjaWVuY2UsIEVuZ2luZWVyaW5nICYgVGVjaG5vbG9neSwgV2FzaGluZ3RvbiBEQywgQXVndXN0IDctMTAsIDIwMTEuDQoNCjguIExhdHRpY2UgQm9sdHptYW5uIHNpbXVsYXRpb24gb2Ygc29saWQgb3hpZGUgZnVlbCBjZWxsIHBlcmZvcm1hbmNlLMKgWW91c2hlbmcgWHUsIFBlbmd0YW8gU3VuLCBIdWkgSGUsIFlhbmcgTGl1IGFuZCBNZWl5aW5nIFllLCBQcm9jZWVkaW5nIG9mIEFTTUUgTmludGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIEZ1ZWwgQ2VsbCBTY2llbmNlLCBFbmdpbmVlcmluZyAmIFRlY2hub2xvZ3ksIFdhc2hpbmd0b24gREMsIEF1Z3VzdCA3LTEwLCAyMDExLCA1MjUtNTM1Lg0KDQo5LiBBbiBvdmVybGFwcGluZyBkb21haW4gZGVjb21wb3NpdGlvbiBtZXRob2QgZm9yIGEgcG9seW1lciBleGNoYW5nZSBtZW1icmFuZSBmdWVsIGNlbGwgbW9kZWwswqBNaW5neWFuIEhlLCBaaXBpbmcgSHVhbmcsIENoZW5nIFdhbmcgYW5kIFBlbmd0YW8gU3VuLCBBYnN0cmFjdCAjMjUxLCAyMTl0aCBFQ1MgTWVldGluZywgVGhlIEVsZWN0cm9jaGVtaWNhbCBTb2NpZXR5LCBNb250cmVhbCwgUUMsIENhbmFkYSwgTWF5IDEtNiwgMjAxMS4NCg0KMTAuIE1vZGVsaW5nIFN0dWR5IG9mIFRoZXJtYWwgTWFuYWdlbWVudCBmb3IgTGktSW9uIEJhdHRlcnkgTW9kdWxlLMKgU2h1YW5nIFpoYWksIFBlbmd0YW8gU3VuLCBGZW5neGlhbmcgQ2hlbiBhbmQgU3UgWmhvdSwgQWJzdHJhY3QgIzI0NCwgMjE5dGggRUNTIE1lZXRpbmcsIFRoZSBFbGVjdHJvY2hlbWljYWwgU29jaWV0eSwgTW9udHJlYWwsIFFDLCBDYW5hZGEsIE1heSAxLTYsIDIwMTEuDQoNCjExLiBNb2RlbGluZyBzdHVkaWVzIGFuZCBlZmZpY2llbnQgbnVtZXJpY2FsIG1ldGhvZHMgZm9yIHByb3RvbiBleGNoYW5nZSBtZW1icmFuZSBmdWVsIGNlbGwswqBQZW5ndGFvIFN1biwgQWJzdHJhY3Qgb2YgQU1TIDIwMTEgU3ByaW5nIFdlc3Rlcm4gU2VjdGlvbiBNZWV0aW5nLCBMYXMgVmVnYXMsIE5WLCBBcHJpbCAzMCAtIE1heSAxLCAyMDExLg0KDQoxMi4gQW5hbHlzaXMgb2Ygbm9uLXVuaWZvcm0gY2VsbCB2b2x0YWdlcyBkaXN0cmlidXRpb24gaW4gUEVNIGZ1ZWwgY2VsbCBzdGFjayzCoFNodWFuZyBaaGFpLCBQZW5ndGFvIFN1biwgRmVuZ3hpYW5nIENoZW4sIENodWFuc2hlbmcgWmhhbmcgYW5kIFN1IFpob3UsIFByb2NlZWRpbmcgb2YgQVNNRSBFaWdodGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIEZ1ZWwgQ2VsbCBTY2llbmNlLCBFbmdpbmVlcmluZyBhbmQgVGVjaG5vbG9neSwgQnJvb2tseW4sIE5ldyBZb3JrLCBKdW5lIDE0LTE2LCAyMDEwLCBWb2wuIDEsIDQ4MS00ODguDQoNCjEzLiBNb2RlbGluZyBhbmQgTnVtZXJpY2FsIFNpbXVsYXRpb24gb2YgUEVNIEZ1ZWwgQ2VsbCBUcmFuc2llbnTCoCxZdW4gV2FuZyBhbmQgUGVuZ3RhbyBTdW4swqAgUHJvY2VlZGluZyBvZiBBU01FIEVpZ2h0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2Ugb24gRnVlbCBDZWxsIFNjaWVuY2UsIEVuZ2luZWVyaW5nIGFuZCBUZWNobm9sb2d5LCBCcm9va2x5biwgTmV3IFlvcmssIEp1bmUgMTQtMTYsIDIwMTAsIFZvbC4gMSwgNTU1LTU2MC4NCg0KMTQuIEEgbmV3IGZvcm11bGF0aW9uIGFuZCBhbiBlZmZpY2llbnQgbnVtZXJpY2FsIHRlY2huaXF1ZSBmb3IgYSBub25pc290aGVybWFsLCBhbmlzb3Ryb3BpYywgdHdvLXBoYXNlIHRyYW5zcG9ydCBtb2RlbCBvZiBQRU1GQyxQZW5ndGFvIFN1biBhbmQgWXVuIFdhbmcswqBQcm9jZWVkaW5nIG9mIEFTTUUgRWlnaHRoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBGdWVsIENlbGwgU2NpZW5jZSwgRW5naW5lZXJpbmcgYW5kIFRlY2hub2xvZ3ksIEJyb29rbHluLCBOZXcgWW9yaywgSnVuZSAxNC0xNiwgMjAxMCwgVm9sLiAxLCA1NjEtNTcyLg0KDQoxNS4gQSBOZXcgRm9ybXVsYXRpb24gb2YgUG9seW1lciBGbG9vZGluZyBNb2RlbCBmb3IgTXVsdGlwaGFzZSBGbG93cyBpbiBQb3JvdXMgTWVkaWEswqBQZW5ndGFvIFN1biwgUG9zdGVyIG9mIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBDb21wdXRhdGlvbmFsIFNjaWVuY2UgKElDQ1MpLMKgQW1zdGVyZGFtLCBOZXRoZXJsYW5kcywgTWF5IDMxIC0gSnVuZSAyLCAyMDEwLg0KDQoxNi4gQSBuZXcgZm9ybXVsYXRpb24gYW5kIGFuIGVmZmljaWVudCBudW1lcmljYWwgdGVjaG5pcXVlIGZvciBhIG5vbmlzb3RoZXJtYWwsIGFuaXNvdHJvcGljLCB0d28tcGhhc2UgdHJhbnNwb3J0IG1vZGVsIG9mIFBFTUZDLFByZXNlbnRhdGlvbiBvZiBJTUEgUEkgV29ya3Nob3Agb24gTnVtZXJpY2FsIFNpbXVsYXRpb24gb2YgQ29tcGxleCBGbHVpZHMgYW5kIE1IRCzCoFBlbm5zeWx2YW5pYSBTdGF0ZSBVbml2ZXJzaXR5LMKgTWFyY2ggMS0zLCAyMDEwLg0KDQoxNy4gTnVtZXJpY2FsIHN0dWRpZXMgb2YgaGVhdCB0cmFuc3BvcnQgZm9yIHBvbHltZXIgZWxlY3Ryb2x5dGUgZnVlbCBjZWxsIHN0YWNrIGluIHN1Yi1mcmVlemluZyBlbnZpcm9ubWVudCzCoFBlbmd0YW8gU3VuLCBTdSBaaG91IGFuZCBaaXBpbmcgSHVhbmcsIFByb2NlZWRpbmcgb2YgQVNNRSBTZXZlbnRoIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBGdWVsIENlbGwgU2NpZW5jZSwgRW5naW5lZXJpbmcgYW5kIFRlY2hub2xvZ3ksIEp1bmUgOC0xMCwgMjAwOSwgMjk5LTMxMy4NCg0KMTguIEEgY29tYmluZWQgZmluaXRlIGVsZW1lbnQtdXB3aW5kIGZpbml0ZSB2b2x1bWUtTmV3dG9uJ3MgbWV0aG9kIGZvcsKgbGlxdWlkLWZlZWQgZGlyZWN0IG1ldGhhbm9sIGZ1ZWwgY2VsbCBzaW11bGF0aW9ucywgUGVuZ3RhbyBTdW4sIEd1YW5ncmkgWHVlLCBDaGFveWFuZyBXYW5nIGFuZCBKaW5jaGFvIFh1LCBQcm9jZWVkaW5nIG9mIEFTTUUgU2l4dGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIEZ1ZWwgQ2VsbCBTY2llbmNlLCBFbmdpbmVlcmluZyBhbmQgVGVjaG5vbG9neSwgSnVuZSAxNi0xOCwgMjAwOCwgODUxLTg2NCAuDQoNCjE5LiBMYWdyYW5naWFuIG11bHRpcGxpZXIgYmFzZWQgZG9tYWluIGRlY29tcG9zaXRpb24gbWV0aG9kIHdpdGggbm9uLW1hdGNoaW5nIGdyaWRzIGZvciB0aW1lLWRlcGVuZGVudCBlcXVhdGlvbnMsIFBlbmd0YW8gU3VuLCBIb25nIFdlaSwgSGlnaCBQZXJmb3JtYW5jZSBDb21wdXRpbmcgaW4gdGhlIEFzaWEtUGFjaWZpYyBSZWdpb24sIDIwMDAuIFByb2NlZWRpbmdzLsKgVGhlIEZvdXJ0aCBJbnRlcm5hdGlvbmFsIENvbmZlcmVuY2UvRXhoaWJpdGlvbiBvbiBWb2x1bWUgMiAoMjAwMCksIDk5OCAtIDEwMDAuDQoNCjIwLiBUcmFucy1iYXNpbmFsIGZsdWlkIG1pZ3JhdGlvbiBiZXR3ZWVuIGZhdWx0LWJvdW5kIGJhc2lucyBvbiB0aGUgc291dGggQ2hpbmEgbWFyZ2luLMKgV2FuZywgQy4gWS4sIE0uIEouIFdhbmcsIFBlbmd0YW8gU3VuLCBHLiBQLiBMaWFuZywgYW5kIEguIEN1aSzCoGluIExpdSBCYW9qdW4gZXQgYWwuLCBlZHMuLCBQcm9jZWVkaW5ncyBvZiB0aGUgMzB0aCBJbnRlcm5hdGlvbmFswqBHZW9sb2dpY2FsIENvbmdyZXNzLCBOZXcgWW9yaywgU3ByaW5nZXItVmVybGFnLCBWb2wuIDggKDE5OTcpLCAxLTE2Lg0KDQoyMS4gSW50ZXJwb2xhdGVkIHBvc3QtcHJvY2Vzc2luZyB0ZWNobmlxdWUgZm9yIGNvbnZlY3Rpb24gYW5kIGRpZmZ1c2lvbiBlcXVhdGlvbiwgUGVuZ3RhbyBTdW4sIFRoZSBQcm9jZWVkaW5nc8Kgb2YgdGhlIFNpeHRoIE5hdGlvbmFsIFN5bXBvc2l1bSBvbiBOdW1lcmljYWwgTWV0aG9kcyBmb3IgRmx1aWQgRHluYW1pY3MsIEppbmFuLCBDaGluYSwgMTk5My4NCg0KwqDCoMKgwqDCoMKgwqDCoFRlY2huaWNhbCBSZXBvcnRzDQoNCjEuIEFkdmFuY2VkIG1vZGVsaW5nIGFuZCBudW1lcmljYWwgc3R1ZGllcyBmb3IgcG9seW1lciBlbGVjdHJvbHl0ZSBtZW1icmFuZSBmdWVsIGNlbGwgKFBFTUZDKSBwb3dlciBzeXN0ZW0sIFRlY2huaWNhbCBSZXBvcnQgb2ZQcm9ncmFtIG9mIEludHJvZHVjaW5nIFRhbGVudHMgb2YgRGlzY2lwbGluZSzCoENvbGxlZ2Ugb2YgQXV0b21vdGl2ZSBFbmdpbmVlcmluZywgVG9uZ2ppIFVuaXZlcnNpdHksIEp1bmUgNSAtIEF1Z3VzdCAyNSwgMjAxMS4NCg0KMi4gTW9kZWxpbmcgYW5kIG51bWVyaWNhbCBzaW11bGF0aW9uIHN0dWRpZXMgYW5kIHNlbGYtaW5ub3ZhdGVkIHNvZnR3YXJlIGRldmVsb3BtZW50IGZvciBwb2x5bWVyIGVsZWN0cm9seXRlIG1lbWJyYW5lIGZ1ZWwgY2VsbCAoUEVNRkMpIHBvd2VyIHN5c3RlbSzCoFRlY2huaWNhbCBSZXBvcnQgb2bCoFByb2dyYW0gb2YgSW50cm9kdWNpbmcgVGFsZW50cyBvZiBEaXNjaXBsaW5lLMKgQ29sbGVnZSBvZiBBdXRvbW90aXZlIEVuZ2luZWVyaW5nLCBUb25namkgVW5pdmVyc2l0eSwgTWF5IDMwIC0gQXVndXN0IDE5LCAyMDEwLg0KDQozLiBNb2RlbGluZyBhbmQgbnVtZXJpY2FsIHN0dWRpZXMgZm9yIHBvbHltZXIgZWxlY3Ryb2x5dGUgbWVtYnJhbmUgZnVlbCBjZWxsIChQRU1GQykgcG93ZXIgc3lzdGVtLMKgVGVjaG5pY2FsIFJlcG9ydCBvZsKgUHJvZ3JhbSBvZiBJbnRyb2R1Y2luZyBUYWxlbnRzIG9mIERpc2NpcGxpbmUswqBDb2xsZWdlIG9mIEF1dG9tb3RpdmUgRW5naW5lZXJpbmcsIFRvbmdqaSBVbml2ZXJzaXR5LCBNYXkgMTEgLSBKdW5lIDI4LCAyMDA5Lg0KDQo0LiBOdW1lcmljYWwgc2ltdWxhdGlvbnMgZm9yIHBvbHltZXIgZWxlY3Ryb2x5dGUgbWVtYnJhbmUgZnVlbCBjZWxscyAoUEVNRkNzKSzCoFRlY2huaWNhbCBSZXBvcnQgb2bCoFByb2dyYW0gb2YgSW50cm9kdWNpbmcgVGFsZW50cyBvZiBEaXNjaXBsaW5lLMKgQ29sbGVnZSBvZiBBdXRvbW90aXZlIEVuZ2luZWVyaW5nLCBUb25namkgVW5pdmVyc2l0eSwgTWF5IDIwIC0gSnVseSAxMSwgMjAwOC4NCg0KNS4gTW9kZWxzIHJlc2VhcmNoIG9uIHRoZSBjYXRob2RlIG9mIGZ1ZWwgY2VsbCzCoFBlbmd0YW/CoFN1biBhbmQgSmluY2hhbyBYdSwgVGVjaG5pY2FsIFJlcG9ydCBvZiBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzLCBQZW5uc3lsdmFuaWEgU3RhdGUgVW5pdmVyc2l0eSwgQU0zMTcsIDIwMDcuDQoNCjYuIFJlc2VhcmNoIG5vdGVzIG9mIG51bWVyaWNhbCBzaW11bGF0aW9uIG9uIHR3by1waGFzZSBzdGVhZHktc3RhdGUgdHJhbnNwb3J0IG1vZGVsIGluIFBFRkMgY2F0aG9kZSzCoFBlbmd0YW/CoFN1biBhbmQgSmluY2hhbyBYdSwgVGVjaG5pY2FsIFJlcG9ydCBvZiBEZXBhcnRtZW50IG9mIE1hdGhlbWF0aWNzLCBQZW5uc3lsdmFuaWEgU3RhdGUgVW5pdmVyc2l0eSwgQU0zMTgsIDIwMDcuDQoNCsKgwqDCoMKgwqDCoMKgwqBQYXBlcnPCoFN1Ym1pdHRlZA0KDQoxLiBOdW1lcmljYWwgYW5hbHlzaXMgb2YgZmluaXRlIGVsZW1lbnQgbWV0aG9kIGZvciBhIHR3by1waGFzZSB0cmFuc3BvcnQgbW9kZWwgaW4gdGhlIGNhdGhvZGUgb2YgcG9seW1lciBlbGVjdHJvbHl0ZSBmdWVsIGNlbGwsWXV6aG91IFN1biwgTWluZ3lhbiBIZSwgUGVuZ3RhbyBTdW4sIEludGVybmF0aW9uYWwgQ29uZmVyZW5jZSBvbiBDb21wdXRhdGlvbmFsIFNjaWVuY2UgKElDQ1MpLCBCYXJjZWxvbmEsIFNwYWluLCBKdW5lIDUtNywgMjAxMyAoc3VibWl0dGVkKS4NCg0KMi4gUXVhbnRpZnlpbmcga2luZXRpY3Mgb2YgZGlmZnVzaW9uLWNvbnRyb2xsZWQgYmltb2xlY3VsYXIgcmVhY3Rpb25zLCBZb25nIFpoYW5nLCBDaGFyYWxhbWJvcyBQYXBlbGlzLCBQZW5ndGFvIFN1biwgWmhvbmdibyBZdSxXYXRlciBSZXNvdXJjZXMgUmVzZWFyY2gsIDIwMTIgKHN1Ym1pdHRlZCkuDQoNCjMuIE51bWVyaWNhbCBzaW11bGF0aW9uIGFuZCBleHBlcmltZW50YWwgc3R1ZHkgb2YgYmltb2xlY3VsYXIgcmVhY3RpdmUgdHJhbnNwb3J0IGluIHBvcm91cyBtZWRpYSwgSmlhemhvbmcgUWlhbizCoEhvbmdiaW4gWmhhbiwgUGVuZ3RhbyBTdW4sIEVudmlyb25tZW50YWwgU2NpZW5jZSAmIFRlY2hub2xvZ3ksIDIwMTIgKHN1Ym1pdHRlZCkuDQoNCsKgwqAgwqDCoMKgwqBQYXBlcnMgSW4gUHJvZ3Jlc3M=</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2916630306521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>

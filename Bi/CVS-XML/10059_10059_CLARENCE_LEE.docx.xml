@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  [xml content created: 3-12-2013 @ 15:55:39 EDT] -->
+<Results>
+<HireAbilityXMLResults id="2915506206521"  usageLimitType="allocation" usageLimit="200" currentUsage="28" remainingUsage="172" accountValidThrough="03-18-2013">
+<Resume xml:lang="EN" xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
+<ResumeId>
+<IdValue></IdValue>
+</ResumeId>
+<StructuredXMLResume>
+<ContactInfo>
+<PersonName>
+<FormattedName>CLARENCE M. LEE</FormattedName>
+<GivenName>CLARENCE</GivenName>
+<MiddleName>M.</MiddleName>
+<FamilyName>LEE</FamilyName>
+</PersonName>
+<ContactMethod>
+<PostalAddress>
+<CountryCode>UN</CountryCode>
+<Municipality>Georgetown</Municipality>
+<DeliveryAddress>
+<AddressLine>1983</AddressLine>
+</DeliveryAddress>
+</PostalAddress>
+</ContactMethod>
+</ContactInfo>
+<EducationHistory>
+<SchoolOrInstitution schoolType="">
+<School>
+<SchoolName>not provided</SchoolName>
+</School>
+<Degree degreeType="bachelors">
+<DegreeName>B.S</DegreeName>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Howard University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeName>Ph.D</DegreeName>
+<DegreeDate>
+<AnyDate>1969-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Credentials</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Previous Dean of COAS at Howard University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>1998-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Executive director for Washington-Baltimore Hamptons Roads Aliance</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+<SchoolOrInstitution schoolType="university">
+<School>
+<SchoolName>Howard University</SchoolName>
+</School>
+<Degree degreeType="doctoral">
+<DegreeDate>
+<AnyDate>1995-01-01</AnyDate>
+</DegreeDate>
+<DegreeMajor>
+<Name>Outstanding Visionary Award, COAS</Name>
+</DegreeMajor>
+</Degree>
+</SchoolOrInstitution>
+</EducationHistory>
+<PublicationHistory>
+<Article>
+<Title>Use of Differential Display Polymerase Chain Reaction to Search for Host Response Gene Products during the Intramolluscan Phase of Schistosoma mansoni Infection</Title>
+<Name role="author">
+<FormattedName>On&apos;gele, E.A., Lee, C.M., and Knight, M</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2002</StringDate>
+</PublicationDate>
+<JournalOrSerialName>International Journal for Parasitology</JournalOrSerialName>
+<Volume>412011.</Volume>
+<PageNumber>783-789</PageNumber>
+</Article>
+<Article>
+<Title>Molecular Malarial Antigen Responsible for Activation of B Lymphocytes</Title>
+<Name role="author">
+<FormattedName>Toran, E.J., Lee, C.M., Thomas, L., and Rolle, R</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>(GenBank) http://www.ncbi.nlm.nih.gov Accession number: AY180902</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Characterization and Function of the Multifaceted Peripheral Blood Basophil</Title>
+<Name role="author">
+<FormattedName>Uston, P.I. and Lee, C.M</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2003</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Cellular and Molecular Biology</JournalOrSerialName>
+<Volume>49(7</Volume>
+<PageNumber>1125-1135.</PageNumber>
+</Article>
+<Article>
+<Title>F. W</Title>
+<Name role="author">
+<FormattedName>R A. Nesbitt, R. A., Mosha</FormattedName>
+</Name>
+<JournalOrSerialName>Katki H. A</JournalOrSerialName>
+</Article>
+<Article>
+<Title>Trypanosomes</Title>
+<Name role="author">
+<FormattedName>C, M, Lee and E. Armstrong</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2004</StringDate>
+</PublicationDate>
+<JournalOrSerialName>Encyclopedia of Entomology 3:2362-2366 C.M.Lee and E.Armstrong 2004</JournalOrSerialName>
+</Article>
+<Article>
+<Title>B. Baccetti and W. Anderson</Title>
+<Name role="author">
+<FormattedName>A. Gugssa, S. Gebru, C.M. Lee</FormattedName>
+</Name>
+<JournalOrSerialName>2005.Apoptosis of Trypanosoma musculi co-cultured with LPS activated macrophages: enhanced expression of nitric oxide synthase INF-gamma and caspase Journal of Submicrosc</JournalOrSerialName>
+</Article>
+<Article>
+<Title>B. Baccetti and W. Anderson 2005.Co-culture of Trypanosoma musculi with spleen-derived adherent fibroblasts: possible transfer of small molecules via connexons</Title>
+<Name role="author">
+<FormattedName>A. Gugssa, C.M. Lee, S. Gebru, D.Desta, S. Murray</FormattedName>
+</Name>
+<JournalOrSerialName>Journal of Submicrosc</JournalOrSerialName>
+</Article>
+<Article>
+<Title>L3L4ES antigen and secretagogues induce histamine release from porcine peripheral blood basophils after Ascaris suum infection Parasitology Research</Title>
+<Name role="author">
+<FormattedName>P.I. Uston, J.F. Urban, M. Ashraf, C.M. Lee and F.R. Ampy</FormattedName>
+</Name>
+<PublicationDate>
+<StringDate>2007</StringDate>
+</PublicationDate>
+<PageNumber>603-611.</PageNumber>
+</Article>
+</PublicationHistory>
+<Qualifications>
+<Competency name = "Cellular">
+<CompetencyEvidence name ="Cellular">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "ELISA">
+<CompetencyEvidence name ="ELISA">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Publications">
+<CompetencyEvidence name ="Publications">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+<Competency name = "Western blot">
+<CompetencyEvidence name ="Western blot">
+<NumericValue description="Range in years of experience">1</NumericValue>
+</CompetencyEvidence>
+</Competency>
+</Qualifications>
+<Achievements>
+<Achievement>
+<Description>and Funding Awards </Description>
+</Achievement>
+<Achievement>
+<Description>Research Detailed Immunoparasitology: The study of immuno-modulation in animals due to protozoan and helminthic infections</Description>
+</Achievement>
+</Achievements>
+</StructuredXMLResume>
+<NonXMLResume>
+<TextResume>LSBDTEFSRU5DRSBNLiBMRUUgLSANCg0KICANCg0KDQoNCkVkdWNhdGlvbg0KDQpCLlMuLA0KDQpQaC5ELiwgSG93YXJkIFVuaXZlcnNpdHkgKDE5NjkpDQoNCg0KDQpDcmVkZW50aWFscw0KDQpQcmV2aW91cyBEZWFuIG9mIENPQVMgYXQgSG93YXJkIFVuaXZlcnNpdHkNCg0KRXhlY3V0aXZlIGRpcmVjdG9yIGZvciBXYXNoaW5ndG9uLUJhbHRpbW9yZSBIYW1wdG9ucyBSb2FkcyBBbGlhbmNlDQoNCjE5OTggLSBPdXRzdGFuZGluZyBWaXNpb25hcnkgQXdhcmQsIENPQVMgYXQgSG93YXJkIFVuaXZlcnNpdHkNCg0KMTk5OCAtIENPQVMgQWx1bW5pIENvYWxpdGlvbnMgTWVudG9yaW5nIEF3YXJkDQoNCjE5OTUgLSBWYW50YWdlIEF3YXJkIGZvciBBY2FkZW1pYyBFeGNlbGxlbmNlDQoNCjE5OTIgLSBIb3dhcmQgVW5pdmVyc2l0eSBMZWFkZXJzaGlwIEF3YXJkDQoNCjE5ODQgLSBCZXJnZW4tUGFzc2FpYyBBbHVtbmkgQXdhcmQgZm9yIE91dHN0YW5kaW5nIFNlcnZpY2UNCg0KMTk4MyAtIEdlb3JnZXRvd24gVW5pdi4gRGlzdGluZ3Vpc2hlZCBTZXJ2aWNlIEF3YXJkDQoNCg0KDQpDb3Vyc2VzDQoNCkV4cGVyaW1lbnRhbCBQYXJhc2l0b2xvZ3kgKDQwNikNCg0KDQoNClJlc2VhcmNoIEludGVyZXN0cw0KDQpJbW11bm9wYXRob2xvZ3kgYW5kIFBhcmFzaXRvbG9neQ0KDQpEZXRlcm1pbmF0aW9uIG9mIGluaGVyaXRhbmNlIHBhdHRlcm5zIGluIHRlbGVvc3RlYW4gZmlzaGVzDQoNCkdlbmV0aWNzIG9mIFNjZWxvcG9ydXMgamFycm92aSBwb3B1bGF0aW9ucw0KDQoNCg0KR3JhbnRzIGFuZCBGdW5kaW5nIEF3YXJkcw0KDQotDQoNCg0KDQpSZXNlYXJjaCBEZXRhaWxlZDoNCg0KDQoNCkltbXVub3BhcmFzaXRvbG9neTogVGhlIHN0dWR5IG9mIGltbXVuby1tb2R1bGF0aW9uIGluIGFuaW1hbHMgZHVlIHRvIHByb3Rvem9hbiBhbmQgaGVsbWludGhpYyBpbmZlY3Rpb25zOyBleGFtaW5hdGlvbiBvZiBtZWNoYW5pc21zIG9mIHByb3RlY3RpdmUgaW1tdW5pdHkgdG8gZmxhZ2VsbGF0ZWQgcHJvdG96b2FuOyB0aGUgcm9sZSBvZiBudXRyaWVudHMgYW5kIHRyYWNlIGVsZW1lbnRzIGluIHRoZSBpbW11bmUgcHJvY2VzczsgaWRlbnRpZnlpbmcgYW5kIHZhbGlkYXRpbmcgZHJ1ZyB0YXJnZXRzIGluIHRyeXBhbm9zb21lcy4gVHdvIHN0dWRpZXMgdGhhdCB3ZXJlIHJlY2VudGx5IGNvbXBsZXRlZCBhcmUgc3VtbWFyaXplZCBiZWxvdzoNCg0KDQoNCkwzTDRFUyBhbnRpZ2VuIGFuZCBzZWNyZXRhZ29ndWVzIGluZHVjZSBoaXN0YW1pbmUgcmVsZWFzZSBmcm9tIHBvcmNpbmUgcGVyaXBoZXJhbCBibG9vZCBiYXNvcGhpbHMgd2VyZSBzdHVkaWVkIGZvbGxvd2luZyBBc2NhcmlzIHN1dW0gaW5mZWN0aW9uDQoNCg0KDQpFeHBlcmltZW50YWwgcGlncyB3ZXJlIGluZmVjdGVkIHdpdGggMTAzIEFzY2FyaXMgc3V1bSBlZ2dzIGRhaWx5IGZvciAyMSBkYXlzLiBDb250cm9sIHBpZ3Mgd2VyZSBtYWludGFpbmVkIGhlbG1pbnRoLWZyZWUuIENpcmN1bGF0aW5nIHBvcmNpbmUgYmFzb3BoaWxzIHdlcmUgaXNvbGF0ZWQgZnJvbSB0aGUgYW50aWNvYWd1bGF0ZWQgd2hvbGUgYmxvb2Qgb2YgQS4gc3V1bS1pbmZlY3RlZCBhbmQgbm9uLWluZmVjdGVkIHBpZ3MgYnkgZGV4dHJhbiAoNC41JSkgc2VkaW1lbsKtdGF0aW9uIG9mIGVyeXRocm9jeXRlcyBvciBieSB0aGUgY2VudHJpZnVnYXRpb24gb2YgZGV4dHJhbi1pc29sYXRlZCBsZXVrb2N5dGVzIHRocm91Z2ggZGlzY29udGludW91cyBQZXJjb2xsIGdyYWRpZW50cyB3aXRoIHZhcnlpbmcgZGVuc2l0aWVzLiBSZXN1bHRzIHNob3dlZCB0aGF0IDIuMiUgb2YgdGhlIGlzb2xhdGVkIGxldWtvY3l0ZXMsIHN0YWluZWQgd2l0aCBNYXktR3J1bndhbGQgR2llbXNhLCB3YXMgYmFzb3BoaWxzLiBFYWNoIGJhc29waGlsIGlzb2xhdGVkIGZyb20gaW5mZWN0ZWQgcGlncyBjb250YWluZWQgMS4zMCB4IDEwLTIgdG8gMS4yMCB4IDEwLTEgcGljb2dyYW0gKDEwLTEyIGcpIG9mIGhpc3RhbWluZS4gUGVyaXBoZXJhbCBibG9vZCBiYXNvcGhpbHMgKFBCQikgaXNvbGF0ZWQgZnJvbSBpbmZlY3RlZCBzd2luZSByZWxlYXNlZCBhcyBtdWNoIGFzIDQ5JSBzcGVjaWZpYyBoaXN0YW1pbmUgd2hlbiBpbmR1Y2VkIHdpdGggQS5zdXVtLWRlcml2ZWQgYW50aWdlbiAoTDMsTDQgRVMpOyB1cCB0byA1NSUgd2l0aCBhbnRpLUlnRzsgYW5kIHVwIHRvIDYyJSB3aXRoIHRoZSBjYWxjaXVtIGlvbm9waG9yZSBBMjNsODcuIER1cmluZyBBLiBzdXVtIGluZmVjdGlvbiwgdGhlIG51bWJlciBvZiBpc29sYXRlZCBiYXNvcGhpbHMgYW5kIGhpc3RhbWluZSBsZXZlbHMgcGVha2VkIGF0IDE0IHRvIDIxIGRheXMgcG9zdCBpbmZlY3Rpb24gYW5kIHRoZW4gc2hvd2VkIGEgc2lnbmlmaWNhbnQgZGVjcmVhc2UuIFRoZSBwZXJjZW50IHNwZWNpZmljIGhpc3RhbWluZSByZWxlYXNlZCBmcm9tIFBCQiBieSB0aGUgaW5mZWN0ZWQgc3dpbmUgd2FzIHNpZ25pZmljYW50bHkgZ3JlYXRlciB0aGFuIHRoYXQgcmVsZWFzZWQgYnkgY29udHJvbCBwaWdzLiBUaGUgTDNMNCBFUyBhbnRpZ2VuIGFuZCBzZWNyZXRhZ29ndWVzIGVmZmVjdGl2ZWx5IGluZHVjZWQgc3BlY2lmaWMgaGlzdGFtaW5lIHJlbGVhc2UgZnJvbSBQQkIgYW5kIHNob3VsZCBmYWNpbGl0YXRlIGZ1dHVyZSBpbnZlc3RpZ2F0aW9ucyBvZiBwb3JjaW5lIGJhc29waGlscy4NCg0KDQoNCkFwb3B0b3NpcyBvZiBUcnlwYW5vc29tYSBtdXNjdWxpIGNvLWN1bHR1cmVkIHdpdGggTFBTIGFjdGl2YXRlZCBtYWNyb3BoYWdlcyBieSBlbmhhbmNlZCBleHByZXNzaW9uIG9mIE5pdHJpYyBPeGlkZSBTeW50aGFzZSBhbmQgSU5GLWdhbW1hLg0KDQoNCg0KVHJ5cGFub3NvbWEgbXVzY3VsaS1tYWNyb3BoYWdlIGNlbGxzIGNvLWN1bHR1cmUgd2FzIHN0dWRpZWQgdG8gZGVtb25zdHJhdGUgdGhlIGJpb2xvZ2ljYWwgcm9sZSBvZiBsaXBvcG9seXNhY2NoYXJpZGUgKExQUykgaW5kdWNlZCBjeXRva2luZXMgYW5kIHJlYWN0aXZlIHNwZWNpZXMgaW4gY29udHJvbGxpbmcgdGhlIGRldmVsb3BtZW50IG9mIHBhcmFzaXRlcyBpbiB2aXRyby4gTWFjcm9waGFnZXMgd2VyZSBhY3RpdmF0ZWQgd2l0aCAwLjXCtWcvbWwgTFBTIGluIFJQTUkgbWVkaWEgMTY0MC4gVGhlIGFjdGl2YXRpb24gb2YgbWFjcm9waGFnZXMgd2FzIGRlbW9uc3RyYXRlZCBieSBwaGFnb2N5dG9zaXMgb2YgYmx1ZSBmbHVvcmVzY2VuY2UgbGF0ZXggc3BoZXJlcy4gVGhlIGRldGVjdGlvbiBvZiBnYW1tYSBpbnRlcmZlcm9uDQoNCg0KDQooSU5GLWdhbW1hKSBhbmQgaW5kdWNpYmxlIG5pdHJpYyBveGlkZSBzeW50aGFzZSAoaU5PUykgdXNpbmcgd2VzdGVybiBibG90IGFuYWx5c2lzIGFuZCBpbW11bm9mbHVvcmVzZW5jZSBmdXJ0aGVyIGluZGljYXRlcyB0aGUgYWN0aXZhdGlvbiBvZiBtYWNyb3BoYWdlcy4gQWN0aXZhdGVkIG1hY3JvcGhhZ2VzIHNob3dlZCBtYXJrZWQgaW5oaWJpdGlvbiBvZiBhc3NvY2lhdGlvbiBhbmQgZGV2ZWxvcG1lbnQgb2YgcGFyYXNpdGVzLiBUaGUgZGVhZCByb3NldHRlIGZvcm0gZmxvYXRpbmcgcGFyYXNpdGVzIHRlc3RlZCBmb3IgY2FzcGFjZSAzIGFuZCA4IHVzaW5nIHdlc3Rlcm4gYmxvdCBhbmFseXNpcyB0aGF0IGNvbmZpcm1lZCB0aGUgcGFyYXNpdGVzIGRpZWQgdGhyb3VnaCBhcG9wdG9zaXMuIEFwb3B0b3NpcyB3YXMgZnVydGhlciBjb25maXJtZWQgYnkgQXBvcHRhZyBnZWwgZnJhZ21lbnRhdGlvbiBhc3NheS4gVGhlIGRhdGEgd291bGQgc3VnZ2VzdCB0aGF0IElORi1nYW1tYSBhbmQgTk8gcG9zc2libHkgZnVuY3Rpb25pbmcgdGhyb3VnaCB0aGUgSU5GYVIxLCBGYXMgbGlnYW5kLCBDRDk1IG9yIG90aGVyIGRlYXRoIGxpZ2FuZHMgaW4gdGhlIHRyeXBhbm9zb21lIHBsYXNtYSBtZW1icmFuZSBpbml0aWF0ZXMgdGhlIGFwb3B0b3NpcyBjYXNjYWRlIGluIHRyeXBhbm9zb21lLg0KDQoNCg0KU2VsZWN0ZWQgUHVibGljYXRpb25zDQoNCiAgICANCg0KDQoNCkF5dWssIE0uLCBTdXR0aXBycHBhIFMuLCBSaW5hbGRpIEcuLCBNYW5uIFYuLCBMZWUgQy5NLiwgYW5kIEJyaW5kbGV5LCBQLiwgSW50ZXJuYXRpb25hbCBKb3VybmFsIGZvciBQYXJhc2l0b2xvZ3kgNDEsIDIwMTEuIDc4My03ODkNCg0KICAgIA0KDQoNCg0KT24nZ2VsZSwgRS5BLiwgTGVlLCBDLk0uLCBhbmQgS25pZ2h0LCBNLiAyMDAyLiAgVXNlIG9mIERpZmZlcmVudGlhbCBEaXNwbGF5IFBvbHltZXJhc2UgQ2hhaW4gUmVhY3Rpb24gdG8gU2VhcmNoIGZvciBIb3N0IFJlc3BvbnNlIEdlbmUgUHJvZHVjdHMgZHVyaW5nIHRoZSBJbnRyYW1vbGx1c2NhbiBQaGFzZSBvZiBTY2hpc3Rvc29tYSBtYW5zb25pIEluZmVjdGlvbi4gIFRyYW5zYWN0aW9ucyBvZiB0aGUgTmF0aW9uYWwgSW5zdGl0dXRlIG9mIFNjaWVuY2UsIDM4LCAxNS0xOS4NCg0KICAgIA0KDQoNCg0KVG9yYW4sIEUuSi4sIExlZSwgQy5NLiwgVGhvbWFzLCBMLiwgYW5kIFJvbGxlLCBSLiAyMDAzLiBNb2xlY3VsYXIgTWFsYXJpYWwgQW50aWdlbiBSZXNwb25zaWJsZSBmb3IgQWN0aXZhdGlvbiBvZiBCIEx5bXBob2N5dGVzLihHZW5CYW5rKWh0dHA6Ly93d3cubmNiaS5ubG0ubmloLmdvdiBBY2Nlc3Npb24gbnVtYmVyOiBBWTE4MDkwMi4NCg0KICAgIA0KDQoNCg0KVXN0b24sIFAuSS4gYW5kIExlZSwgQy5NLiAyMDAzLiBDaGFyYWN0ZXJpemF0aW9uIGFuZCBGdW5jdGlvbiBvZiB0aGUgTXVsdGlmYWNldGVkIFBlcmlwaGVyYWwgQmxvb2QgQmFzb3BoaWwuIENlbGx1bGFyIGFuZCBNb2xlY3VsYXIgQmlvbG9neSwgNDkoNyksIDExMjUtMTEzNS4gDQoNCiAgICANCg0KDQoNClIgQS4gTmVzYml0dCwgUi4gQS4sIE1vc2hhLiBGLiBXLiwgS2F0a2ksIEguIEEuLEFzaHJhZiwgTS4sIExlZSwgQy4gTS4gMjAwNC4gQW1lYmlhc2lzIGluIEtpbGltYW5qYXJvIFRhbnphbmlhIGFuZCBjb21wYXJpc29uIG9mIHRoZSBtaWNyb3Njb3B5IHRvIEVMSVNBIHRlY2huaXF1ZSBpbiB0aGUgZGV0ZWN0aW9uIG9mIEVudGFtb2ViYSBoaXN0b2x5dGljYSBhbmQgRW50YW1vZWJhIGRpc3Bhci4gSm91cm5hbCBvZiB0aGUgTmF0aW9uYWwgTWVkaWNhbCBBc3NvY2lhdGlvbiwgOTYsNjcxLTY3Ny4gDQoNCiAgICANCg0KDQoNCkMsTSxMZWUgYW5kIEUuIEFybXN0cm9uZyAyMDA0LiBUcnlwYW5vc29tZXMuIEVuY3ljbG9wZWRpYSBvZiBFbnRvbW9sb2d5LCAzOjIzNjItMjM2NiANCg0KICAgIA0KDQoNCg0KQy5NLkxlZSBhbmQgRS5Bcm1zdHJvbmcsIDIwMDQuIFJvZGVudCBUcnlwYW5vc29taWFzaXM6IEEgQ29tcGFyaXNvbiBiZXR3ZWVuIFRyeXBhbm9zb21hIGxld2lzaSBhbmQgVHJ5cGFub3NvbWEgbXVzY3VsaSBFbmN5Y2xvcGVkaWEgb2YgRW50b21vbG9neS4zOjE5MTctMTkxOQ0KDQogICAgDQoNCg0KDQpBLiBHdWdzc2EsIFMuIEdlYnJ1LCBDLk0uIExlZS4gQi4gQmFjY2V0dGkgYW5kIFcuIEFuZGVyc29uLiAyMDA1LkFwb3B0b3NpcyBvZiBUcnlwYW5vc29tYSBtdXNjdWxpIGNvLWN1bHR1cmVkIHdpdGggTFBTIGFjdGl2YXRlZCBtYWNyb3BoYWdlczogZW5oYW5jZWQgZXhwcmVzc2lvbiBvZiBuaXRyaWMgb3hpZGUgc3ludGhhc2UgSU5GLWdhbW1hIGFuZCBjYXNwYXNlLiBKb3VybmFsIG9mIFN1Ym1pY3Jvc2MuIEN5dG9sLiBQYXRob2wuLCAzNyAoMiksIDk5LTEwNw0KDQogICAgDQoNCg0KDQpBLiBHdWdzc2EsIEMuTS4gTGVlLCBTLiBHZWJydSwgRC5EZXN0YSwgUy4gTXVycmF5LiBCLiBCYWNjZXR0aSBhbmQgVy4gQW5kZXJzb24gMjAwNS5Dby1jdWx0dXJlIG9mIFRyeXBhbm9zb21hIG11c2N1bGkgd2l0aCBzcGxlZW4tZGVyaXZlZCBhZGhlcmVudCBmaWJyb2JsYXN0czogcG9zc2libGUgdHJhbnNmZXIgb2Ygc21hbGwgbW9sZWN1bGVzIHZpYSBjb25uZXhvbnMuIEpvdXJuYWwgb2YgU3VibWljcm9zYy4gQ3l0b2wuIFBhdGhvbCAzNygzLTQpLCAyMjMtMjI5Lg0KDQogICAgDQoNCg0KDQpQLkkuIFVzdG9uLCBKLkYuIFVyYmFuLCBNLiBBc2hyYWYsIEMuTS4gTGVlIGFuZCBGLlIuIEFtcHkgMjAwNy4gTDNMNEVTIGFudGlnZW4gYW5kIHNlY3JldGFnb2d1ZXMgaW5kdWNlIGhpc3RhbWluZSByZWxlYXNlIGZyb20gcG9yY2luZSBwZXJpcGhlcmFsIGJsb29kIGJhc29waGlscyBhZnRlciBBc2NhcmlzIHN1dW0gaW5mZWN0aW9uIFBhcmFzaXRvbG9neSBSZXNlYXJjaCAxMDAsIDYwMy02MTEu</TextResume>
+</NonXMLResume>
+</Resume>
+<processingErrors>
+<Error id="2915506206521">
+<ErrorCode></ErrorCode>
+<ErrorMessage></ErrorMessage>
+</Error>
+</processingErrors>
+</HireAbilityXMLResults>
+</Results>
