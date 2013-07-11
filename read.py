@@ -79,7 +79,7 @@ if __name__ == "__main__":
     sheet = work_book.worksheets[0]
     for row in sheet.range('H2:H3'):
         for cell in row:
-            ss = cell.value
+            string_text = cell.value
 
     tmp_name = os.walk(cv_dir)
     for root, sub_dir, files_list in tmp_name:
@@ -93,17 +93,24 @@ if __name__ == "__main__":
                 parsed_text = ''
                 for c in unparsed_text:
                     parsed_text += c.encode("utf-8")
-                    parsed_text = clean_parse(parsed_text)
-                    #print parsed_text
-                    #print type(parsed_text)
-                    #exit(0)
-                    print (parsed_text[:2])
-                    ss = str(ss)
-                    cv_len = len(ss)
-                    parsed_len = len(parsed_text)
-                    ld = levenshtein(ss, parsed_text)
-                    print (ld-(parsed_len-cv_len))/float(cv_len)
-            
+                    
+                #print parsed_text
+                parsed_cv_text = clean_parse(parsed_text)
+                #print parsed_text
+                #print type(parsed_text)
+                #exit(0)
+                #print (parsed_cv_text[:2])
+                string_text = str(string_text)
+                string_len = len(string_text)
+                cv_len = len(parsed_cv_text)
+                print "string length %d" % string_len
+                print "cv length %d" % cv_len
+                
+                
+                ld = levenshtein(parsed_cv_text, string_text)
+                print "ld length %d" % ld
+                print (ld-(cv_len-string_len))/float(string_len)
+                exit(0)
     
 
 
