@@ -85,8 +85,13 @@ if __name__ == "__main__":
     for root, sub_dir, files_list in tmp_name:
         for file in files_list:
             if file[-4:] == 'docx':
-                #print file
+                
                 file = os.path.join(root,file)
+
+                # the root is in format of /blah/blah/CVs/10007
+                # and cv_id will be '10007
+                cv_id =  root.rsplit("/",1)[1]
+                
                 # TODO: add exception handler and log file support
                 document = opendocx(file)
                 unparsed_text = getdocumenttext(document)
