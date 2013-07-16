@@ -63,12 +63,14 @@ def clean_parse(s):
     return s
 
 
-if __name__ == "__main__":
+
+
+def main():
     # obtin the current dirtory
     current_dir = os.path.dirname(__file__)
 
 
-# obtain the current directory name
+    # obtain the current directory name
     # __file__ is the inner representation of this file
     current_dir = os.path.dirname(os.path.abspath(__file__))
     # join the path to go into the subfolder
@@ -77,10 +79,7 @@ if __name__ == "__main__":
     work_list = os.path.join(current_dir, 'wos_new.xlsx')
     work_book = load_workbook(work_list)
     sheet = work_book.worksheets[0]
-    for row in sheet.range('H2:H3'):
-        for cell in row:
-            string_text = cell.value
-
+    
     tmp_name = os.walk(cv_dir)
     for root, sub_dir, files_list in tmp_name:
         for file in files_list:
@@ -89,9 +88,10 @@ if __name__ == "__main__":
                 file = os.path.join(root,file)
 
                 # the root is in format of /blah/blah/CVs/10007
-                # and cv_id will be '10007
+                # and cv_id will be '10007'
                 cv_id =  root.rsplit("/",1)[1]
-                
+                cv_id = str(int(cv_id) + 20000)
+
                 # TODO: add exception handler and log file support
                 document = opendocx(file)
                 unparsed_text = getdocumenttext(document)
@@ -99,24 +99,42 @@ if __name__ == "__main__":
                 for c in unparsed_text:
                     parsed_text += c.encode("utf-8")
                     
-                #print parsed_text
                 parsed_cv_text = clean_parse(parsed_text)
-                #print parsed_text
-                #print type(parsed_text)
-                #exit(0)
-                #print (parsed_cv_text[:2])
-                string_text = str(string_text)
-                string_len = len(string_text)
+                
+                        
+                #string_len = len(string_text)
                 cv_len = len(parsed_cv_text)
-                print "string length %d" % string_len
-                print "cv length %d" % cv_len
+                #print "string length %d" % string_len
+                #print "cv length %d" % cv_len
+                author_row = sheet.rows
                 
+                #print len(author_row)
+                for i in range(len(author_row)):
+                    #print str(author_row[i][6].value)
+                    if str(author_row[i][6].value) == cv_id:
+                        print "author %s, cv %s" % (str(author_row[i][6].value), cv_id)
+                    
+                #print (author_row[7883])[7].value
+                    #for author_cell in author_row:
+                     #   author_id = str(author.cell)
+                        
+                '''
+                for row in sheet.range('H2:H100'):
+                    for cell in row:
+                        string_text = str(cell.value)
+                        
+                        #if cv_id 
                 
-                ld = levenshtein(parsed_cv_text, string_text)
-                print "ld length %d" % ld
-                print (ld-(cv_len-string_len))/float(string_len)
-                exit(0)
-    
+                        ld = levenshtein(parsed_cv_text, string_text)
+                        print "ld length %d" % ld
+                        print (ld-(cv_len-string_len))/float(string_len)
+                        exit(0)
+                '''
+
+
+if __name__ == "__main__":
+    main()
+
 
 
 '''
