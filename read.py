@@ -1,4 +1,5 @@
 from openpyxl import load_workbook
+from openpyxl.writer.excel import ExcelWriter
 import xml.etree.ElementTree as ET
 import os
 from docx import *
@@ -67,7 +68,7 @@ def clean_parse(s):
 
 def main():
     # obtin the current dirtory
-    current_dir = os.path.dirname(__file__)
+    #current_dir = os.path.dirname(__file__)
 
 
     # obtain the current directory name
@@ -76,9 +77,16 @@ def main():
     # join the path to go into the subfolder
     cv_dir = os.path.join(current_dir, 'Bi/CVs/')
 
-    work_list = os.path.join(current_dir, 'wos_new.xlsx')
-    work_book = load_workbook(work_list)
+    work_path = os.path.join(current_dir, 'wos_new.xlsx')
+    result_path = os.path.join(current_dir, 'new.xlsx')
+    
+    work_book = load_workbook(work_path)
     sheet = work_book.worksheets[0]
+
+    result_book = load_workbook(result_path)
+    result_sheet = result_book.worksheets[0]
+    result_rows = result_sheet.rows
+    count = 2
     
     tmp_name = os.walk(cv_dir)
     for root, sub_dir, files_list in tmp_name:
@@ -112,13 +120,23 @@ def main():
                 for i in range(len(author_row)):
                     #print str(author_row[i][6].value)
                     if str(author_row[i][6].value) == cv_id:
+                        ld = levenshtein(parsed_cv_text, str(author_row[i][7].value))
                         print "author %s, cv %s" % (str(author_row[i][6].value), cv_id)
-                    
-                #print (author_row[7883])[7].value
-                    #for author_cell in author_row:
-                     #   author_id = str(author.cell)
+                        print ld
+                        #result_rows[count][0].value = parsed_cv_text
+                        #i = str(count) + get_column_letter(0)
+                        result_sheet.cell(row = count, column = 0).value = parsed_cv_text
+                        count += 1
+                        f = 'new.xlsx'
+                        ff = ExcelWriter(workbook = result_book)
+                        ff.save(filename = f)
+                        exit(0)
+
+    result_book.save()
+    work_book.save()
                         
-                '''
+                        
+'''
                 for row in sheet.range('H2:H100'):
                     for cell in row:
                         string_text = str(cell.value)
@@ -129,11 +147,14 @@ def main():
                         print "ld length %d" % ld
                         print (ld-(cv_len-string_len))/float(string_len)
                         exit(0)
-                '''
+'''
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        exit(0)
 
 
 
