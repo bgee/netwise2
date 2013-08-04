@@ -86,7 +86,7 @@ def main():
     result_book = load_workbook(result_path)
     result_sheet = result_book.worksheets[0]
     result_rows = result_sheet.rows
-    count = 2
+    count = 1
     
     tmp_name = os.walk(cv_dir)
     for root, sub_dir, files_list in tmp_name:
@@ -118,22 +118,27 @@ def main():
                 
                 #print len(author_row)
                 for i in range(len(author_row)):
-                    #print str(author_row[i][6].value)
+
                     if str(author_row[i][6].value) == cv_id:
-                        ld = levenshtein(parsed_cv_text, str(author_row[i][7].value))
+                        wos_string = str(author_row[i][7].value)
+                        ld = levenshtein(parsed_cv_text, wos_string)
                         print "author %s, cv %s" % (str(author_row[i][6].value), cv_id)
                         print ld
-                        #result_rows[count][0].value = parsed_cv_text
-                        #i = str(count) + get_column_letter(0)
+                        
                         result_sheet.cell(row = count, column = 0).value = parsed_cv_text
+                        result_sheet.cell(row = count, column = 1).value = wos_string
+                        result_sheet.cell(row = count, column = 2).value = ld
+                        wos_len = len(wos_string)
+                        prob = (ld-(cv_len-wos_len))/float(wos_len)
+                        result_sheet.cell(row = count, column = 3).value = prob
                         count += 1
-                        f = 'new.xlsx'
-                        ff = ExcelWriter(workbook = result_book)
-                        ff.save(filename = f)
-                        exit(0)
+                        
+                        updated_result = ExcelWriter(workbook = result_book)
+                        updated_result.save(filename = 'new.xlsx')
+                        #exit(0)
 
-    result_book.save()
-    work_book.save()
+    #result_book.save()
+    #work_book.save()
                         
                         
 '''
