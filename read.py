@@ -4,15 +4,15 @@ import xml.etree.ElementTree as ET
 import os
 from docx import *
 from levenshtein import levenshtein
+import re
 
-replace_ = [' ', '-', '_', '.', ',', '(', ')'];
+
 
 
 
 def clean_parse(s):
-    for char in replace_:
-        if char in s:
-            s = s.replace(char, '')
+    s = s.upper()
+    s = re.sub('[^0-9A-Z]+', '', s)
     return s
 
 
@@ -72,36 +72,87 @@ def main():
                 for i in range(len(author_row)):
                     wos_id = str(author_row[i][6].value)
                     if wos_id == added_cv_id:
+
+                        # title match
                         title_string = str(author_row[i][7].value)
                         title_string = clean_parse(title_string)
                         ld = levenshtein(parsed_cv_text, title_string)
-                        print "author %s, cv %s" % (str(author_row[i][6].value), cv_id)
-                        print ld
+                        #print "author %s, cv %s" % (str(author_row[i][6].value), cv_id)
+                        #print ld
                         
-                        result_sheet.cell(row = count, column = 0).value = cv_id
-                        result_sheet.cell(row = count, column = 1).value = wos_id
+                        result_sheet.cell(row = count, column = 0).value = added_cv_id
+                        result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                         result_sheet.cell(row = count, column = 2).value = 'cv-title'
                         wos_len = len(title_string)
-                        prob = (ld-(cv_len-wos_len))/float(wos_len)
+                        
+                        if (ld<(abs(cv_len-wos_len))):
+                            prob = (ld/float(abs(cv_len-wos_len)))
+                        else:
+                            prob = float(abs(cv_len-wos_len))/ld
+                        print prob
                         result_sheet.cell(row = count, column = 3).value = prob
-                        result_sheet.cell(row = count, column = 4).value = parsed_cv_text
-                        result_sheet.cell(row = count, column = 5).value = title_string
+                        if prob != 0:
+                            result_sheet.cell(row = count, column = 4).value = 'OK'
+                        else:
+                            result_sheet.cell(row = count, column = 4).value = 'Prob is zero'
+                        result_sheet.cell(row = count, column = 5).value = parsed_cv_text
+                        result_sheet.cell(row = count, column = 6).value = title_string
+                        count += 1
 
+                        # co-author match
+                        if len(author_row[i]) >= 9:
+                            co_author_str = str(author_row[i][2].value)+str(author_row[i][9].value)
+                        else:
+                            co_author_str = str(author_row[i][2].value)
+                        author_list = co_author_str.split(';')
+                        for co_author in author_list:
+                            co_author = clean_parse(co_author)
+                            ld = levenshtein(parsed_cv_text, co_author)
+                            #print 'co-author'+str(ld)
+                            author_len = len(co_author)
+                            if (ld<(abs(cv_len-author_len))):
+                                prob = (ld/float(abs(cv_len-author_len)))
+                            else:
+                                prob = float(abs(cv_len-author_len))/ld
+                            result_sheet.cell(row = count, column = 0).value = added_cv_id
+                            result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
+                            result_sheet.cell(row = count, column = 2).value = 'cv-co_author'
+                            result_sheet.cell(row = count, column = 3).value = prob
+                            if prob != 0:
+                                result_sheet.cell(row = count, column = 4).value = 'OK'
+                            else:
+                                result_sheet.cell(row = count, column = 4).value = 'Prob is zero'
+                            result_sheet.cell(row = count, column = 5).value = parsed_cv_text
+                            result_sheet.cell(row = count, column = 6).value = co_author
+                            count += 1
 
-
-
-                        co_author = str(author_row[i][2])+str(author_row[i][9])
-                        co_autorr = clean_parse(co_author)
-                        ld = levenshtein(parsed_cv_text, co_author)
-                        author_len = len(co_author)
-                        prob = (ld-(cv_len-author_len))/float(author_len)
-                        result_sheet.cell(row = count, column = 6).value = 'cv-co_author'
-                        result_sheet.cell(row = count, column = 7).value = prob
-                        result_sheet.cell(row = count, column = 8).value = parsed_cv_text
-                        result_sheet.cell(row = count, column = 9).value = co_author
+                        # institution match
+                        institution = str(author_row[i][4].value)
+                        insti_list = institution.split(';')
+                        for institution in insti_list:
+                            institution = clean_parse(institution)
+                            insti_len = len(institution)
+                            ld = levenshtein(parsed_cv_text, institution)
+                            if (ld<abs(cv_len-insti_len)):
+                                prob = (ld/float(abs(cv_len-insti_len)))
+                            else:
+                                prob = float(abs(cv_len-insti_len))/ld
+                            prob = (ld-(cv_len-insti_len))/float(insti_len)
+                            result_sheet.cell(row = count, column = 0).value = added_cv_id
+                            result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
+                            result_sheet.cell(row = count, column = 2).value = 'cv-institution'
+                            result_sheet.cell(row = count, column = 3).value = prob
+                            if prob != 0:
+                                result_sheet.cell(row = count, column = 4).value = 'OK'
+                            else:
+                                result_sheet.cell(row = count, column = 4).value = 'Prob is zero'
+                            result_sheet.cell(row = count, column = 5).value = parsed_cv_text
+                            result_sheet.cell(row = count, column = 6).value = institution
+                            count += 1
+                        
                         updated_result = ExcelWriter(workbook = result_book)
                         updated_result.save(filename = 'new.xlsx')
-                        count += 1
+                        print 'another one'
                         
                         
 '''
