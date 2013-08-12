@@ -17,15 +17,11 @@ def clean_parse(s):
     return s
 
 def auto_match(str1, str2):
-    pass
-    '''
-    exit(0)
     location = find_match(str1, str2)
-    exit(0)
-    #print location
+    print "location = %s" % location
     matched = str1[location:location+len(str2)]
-    ld = levenshtein(str2, str2)
-    return matched, ld'''
+    ld = levenshtein(str1, str2)
+    return matched, ld
 
 def main():
     # obtin the current dirtory
@@ -87,12 +83,12 @@ def main():
                         title_string = clean_parse(title_string)
                         
                         wos_len = len(title_string)
-                        print "before auto_match"
-                        print parsed_cv_text
-                        print title_string
+                        #print "before auto_match"
+                        #print parsed_cv_text
+                        #print title_string
                         result = auto_match(parsed_cv_text, title_string)
-                        ld = result[0]
-                        match_string = result[1]
+                        ld = result[1]
+                        match_string = result[0]
                         
                         #print "author %s, cv %s" % (str(author_row[i][6].value), cv_id)
                         #print ld
