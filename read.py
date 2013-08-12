@@ -48,6 +48,7 @@ def main():
     count = 1
     
     tmp_name = os.walk(cv_dir)
+
     for root, sub_dir, files_list in tmp_name:
         for file in files_list:
             if file[-4:] == 'docx':
@@ -100,10 +101,11 @@ def main():
                         result_sheet.cell(row = count, column = 2).value = 'cv-title'
                        
                         match_len = len(match_string)
+                        print "matched len = %s" % match_len
                         if match_len < ld:
                             print "no way"
                             exit(0)
-                        prob = float(ld/match_len)
+                        prob = float(ld)/match_len
                         print prob
                         result_sheet.cell(row = count, column = 3).value = prob
                         if prob != 0:
