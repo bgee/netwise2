@@ -18,9 +18,11 @@ def clean_parse(s):
 
 def auto_match(str1, str2):
     location = find_match(str1, str2)
-    print "location = %s" % location
+    
     matched = str1[location:location+len(str2)]
-    ld = levenshtein(str1, str2)
+    ld = levenshtein(matched, str2)
+    print "ld = %s" % ld
+    print "length = %s" % len(matched)
     return matched, ld
 
 def main():
@@ -97,11 +99,11 @@ def main():
                         result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                         result_sheet.cell(row = count, column = 2).value = 'cv-title'
                        
-                        
-                        if (ld<(abs(cv_len-wos_len))):
-                            prob = (ld/float(abs(cv_len-wos_len)))
-                        else:
-                            prob = float(abs(cv_len-wos_len))/ld
+                        match_len = len(match_string)
+                        if match_len < ld:
+                            print "no way"
+                            exit(0)
+                        prob = float(ld/match_len)
                         print prob
                         result_sheet.cell(row = count, column = 3).value = prob
                         if prob != 0:
