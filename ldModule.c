@@ -81,7 +81,7 @@ static PyObject* find_match(PyObject* self, PyObject* args)
   int i;
   for(i=0; i<matrix_size; i++){
     char *match;
-    strncpy(match, str2+i, (size_t)len_str2);
+    //strncpy(match, str2+i, (size_t)len_str2);
     matrix[i] = levenshtein(match, len_str2, str2, len_str2);
   }
   int min_ld = len_str2;
@@ -93,7 +93,7 @@ static PyObject* find_match(PyObject* self, PyObject* args)
     }
   }
   char *test;
-  strncpy(test, str2+location, len_str2);
+  //strncpy(test, str2+location, len_str2);
   return Py_BuildValue("i", min_ld);
 }
 
