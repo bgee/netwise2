@@ -3,20 +3,29 @@ from openpyxl.writer.excel import ExcelWriter
 import xml.etree.ElementTree as ET
 import os
 from docx import *
-from levenshtein import levenshtein
+from ldModule import *
 import re
 
 
 
-
+def auto_match1(str1, str2):
+    pass
 
 def clean_parse(s):
     s = s.upper()
     s = re.sub('[^0-9A-Z]+', '', s)
     return s
 
-
-
+def auto_match(str1, str2):
+    pass
+    '''
+    exit(0)
+    location = find_match(str1, str2)
+    exit(0)
+    #print location
+    matched = str1[location:location+len(str2)]
+    ld = levenshtein(str2, str2)
+    return matched, ld'''
 
 def main():
     # obtin the current dirtory
@@ -76,14 +85,22 @@ def main():
                         # title match
                         title_string = str(author_row[i][7].value)
                         title_string = clean_parse(title_string)
-                        ld = levenshtein(parsed_cv_text, title_string)
+                        
+                        wos_len = len(title_string)
+                        print "before auto_match"
+                        print parsed_cv_text
+                        print title_string
+                        result = auto_match(parsed_cv_text, title_string)
+                        ld = result[0]
+                        match_string = result[1]
+                        
                         #print "author %s, cv %s" % (str(author_row[i][6].value), cv_id)
                         #print ld
                         
                         result_sheet.cell(row = count, column = 0).value = added_cv_id
                         result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                         result_sheet.cell(row = count, column = 2).value = 'cv-title'
-                        wos_len = len(title_string)
+                       
                         
                         if (ld<(abs(cv_len-wos_len))):
                             prob = (ld/float(abs(cv_len-wos_len)))
@@ -95,7 +112,7 @@ def main():
                             result_sheet.cell(row = count, column = 4).value = 'OK'
                         else:
                             result_sheet.cell(row = count, column = 4).value = 'Prob is zero'
-                        result_sheet.cell(row = count, column = 5).value = parsed_cv_text
+                        result_sheet.cell(row = count, column = 5).value = match_string
                         result_sheet.cell(row = count, column = 6).value = title_string
                         count += 1
 
@@ -132,6 +149,7 @@ def main():
                         for institution in insti_list:
                             institution = clean_parse(institution)
                             insti_len = len(institution)
+                            
                             ld = levenshtein(parsed_cv_text, institution)
                             if (ld<abs(cv_len-insti_len)):
                                 prob = (ld/float(abs(cv_len-insti_len)))
