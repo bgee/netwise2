@@ -1,3 +1,5 @@
 from ldModule import *
 STUFF = "Hi"
-print ld()
+str1 = 'aaabcabb'
+str2 = 'aaa'
+print find_match(str1, str2)
