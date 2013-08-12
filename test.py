@@ -1,5 +1,5 @@
 from ldModule import *
 STUFF = "Hi"
-str1 = 'aaabcabb'
+str1 = 'ababcabbaaa'
 str2 = 'aaa'
 print find_match(str1, str2)

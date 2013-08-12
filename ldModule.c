@@ -77,11 +77,13 @@ static PyObject* find_match(PyObject* self, PyObject* args)
   // the size of matrix indicates the possible ways to map
   // the shorter string onto the longer string
   int matrix_size = len_str1+1-len_str2;
+  
   int matrix[matrix_size];
   int i;
   for(i=0; i<matrix_size; i++){
     char *match;
-    //strncpy(match, str2+i, (size_t)len_str2);
+    //strncpy(match, str1+i, (size_t)len_str2);
+    sprintf(match, "%.*s", len_str2, str1);
     matrix[i] = levenshtein(match, len_str2, str2, len_str2);
   }
   int min_ld = len_str2;
