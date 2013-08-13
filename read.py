@@ -102,9 +102,6 @@ def main():
                        
                         match_len = len(match_string)
                         print "matched len = %s" % match_len
-                        if match_len < ld:
-                            print "no way"
-                            exit(0)
                         prob = float(ld)/match_len
                         print prob
                         result_sheet.cell(row = count, column = 3).value = prob
@@ -124,13 +121,12 @@ def main():
                         author_list = co_author_str.split(';')
                         for co_author in author_list:
                             co_author = clean_parse(co_author)
-                            ld = levenshtein(parsed_cv_text, co_author)
+                            result = auto_match(parsed_cv_text, co_author)
+                            ld = result[1]
+                            match_string = result[0]
                             #print 'co-author'+str(ld)
                             author_len = len(co_author)
-                            if (ld<(abs(cv_len-author_len))):
-                                prob = (ld/float(abs(cv_len-author_len)))
-                            else:
-                                prob = float(abs(cv_len-author_len))/ld
+                            prob = float(ld)/match_string
                             result_sheet.cell(row = count, column = 0).value = added_cv_id
                             result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                             result_sheet.cell(row = count, column = 2).value = 'cv-co_author'
@@ -139,7 +135,7 @@ def main():
                                 result_sheet.cell(row = count, column = 4).value = 'OK'
                             else:
                                 result_sheet.cell(row = count, column = 4).value = 'Prob is zero'
-                            result_sheet.cell(row = count, column = 5).value = parsed_cv_text
+                            result_sheet.cell(row = count, column = 5).value = match_string
                             result_sheet.cell(row = count, column = 6).value = co_author
                             count += 1
 
@@ -149,13 +145,10 @@ def main():
                         for institution in insti_list:
                             institution = clean_parse(institution)
                             insti_len = len(institution)
-                            
-                            ld = levenshtein(parsed_cv_text, institution)
-                            if (ld<abs(cv_len-insti_len)):
-                                prob = (ld/float(abs(cv_len-insti_len)))
-                            else:
-                                prob = float(abs(cv_len-insti_len))/ld
-                            prob = (ld-(cv_len-insti_len))/float(insti_len)
+                            result = auto_match(parsed_cv_text, institution)
+                            ld = result[1]
+                            match_string = result[0]
+                            prob = float(ld)/insti_len
                             result_sheet.cell(row = count, column = 0).value = added_cv_id
                             result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                             result_sheet.cell(row = count, column = 2).value = 'cv-institution'
@@ -164,7 +157,7 @@ def main():
                                 result_sheet.cell(row = count, column = 4).value = 'OK'
                             else:
                                 result_sheet.cell(row = count, column = 4).value = 'Prob is zero'
-                            result_sheet.cell(row = count, column = 5).value = parsed_cv_text
+                            result_sheet.cell(row = count, column = 5).value = match_string
                             result_sheet.cell(row = count, column = 6).value = institution
                             count += 1
                         
