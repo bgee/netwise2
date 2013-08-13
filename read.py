@@ -5,7 +5,7 @@ import os
 from docx import *
 from ldModule import *
 import re
-
+import signal
 
 
 def auto_match1(str1, str2):
@@ -126,7 +126,7 @@ def main():
                             match_string = result[0]
                             #print 'co-author'+str(ld)
                             author_len = len(co_author)
-                            prob = float(ld)/match_string
+                            prob = float(ld)/author_len
                             result_sheet.cell(row = count, column = 0).value = added_cv_id
                             result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                             result_sheet.cell(row = count, column = 2).value = 'cv-co_author'
