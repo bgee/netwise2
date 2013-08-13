@@ -80,7 +80,11 @@ def main():
                 for i in range(len(author_row)):
                     wos_id = str(author_row[i][6].value)
                     if wos_id == added_cv_id:
-
+                        '''if count == 90:
+                            updated_result = ExcelWriter(workbook = result_book)
+                            updated_result.save(filename = 'new.xlsx')
+                            return'''
+                        
                         # title match
                         title_string = str(author_row[i][7].value)
                         title_string = clean_parse(title_string)
@@ -102,7 +106,7 @@ def main():
                        
                         match_len = len(match_string)
                         print "matched len = %s" % match_len
-                        prob = float(ld)/match_len
+                        prob = float(abs(match_len-ld))/match_len
                         print prob
                         result_sheet.cell(row = count, column = 3).value = prob
                         if prob != 0:
@@ -128,7 +132,7 @@ def main():
                             match_string = result[0]
                             #print 'co-author'+str(ld)
                             author_len = len(co_author)
-                            prob = float(ld)/author_len
+                            prob = float(abs(author_len-ld))/author_len
                             result_sheet.cell(row = count, column = 0).value = added_cv_id
                             result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                             result_sheet.cell(row = count, column = 2).value = 'cv-co_author'
@@ -152,7 +156,7 @@ def main():
                             result = auto_match(parsed_cv_text, institution)
                             ld = result[1]
                             match_string = result[0]
-                            prob = float(ld)/insti_len
+                            prob = float(abs(insti_len-ld))/insti_len
                             result_sheet.cell(row = count, column = 0).value = added_cv_id
                             result_sheet.cell(row = count, column = 1).value = str(author_row[i][3].value)
                             result_sheet.cell(row = count, column = 2).value = 'cv-institution'
