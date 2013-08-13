@@ -73,28 +73,29 @@ static PyObject* find_match(PyObject* self, PyObject* args)
   //int matrix[matrix_size];
   int *matrix = malloc(matrix_size * sizeof(int));
   int i;
-  for(i=0; i<matrix_size; i++){
-    //char *match;
-    //strncpy(match, str1+i, (size_t)len_str2);
-    //sprintf(match, "%.*s", len_str2, str1+i);
-    char *match = (char*) malloc(len_str2);
-    strncpy(match, str1+i, len_str2);
-    // return Py_BuildValue("s", match);
-    matrix[i] = levenshtein(match, str2);
-    free(match);
-  }
   int min_ld = len_str2;
   int location = 0;
-  for (i=0; i<matrix_size; i++){
-    if (matrix[i] < min_ld){
-      min_ld = matrix[i];
+  for(i=0; i<matrix_size; i++){
+    
+    char *match = (char*) malloc(len_str2);
+    // copy part of the longer string
+    strncpy(match, str1+i, len_str2);
+    
+    int ld = levenshtein(match, str2);
+    if (0 == ld){
+      return Py_BuildValue("i", i);
+    }
+    matrix[i] = ld;
+    /*
+     * Find the location with smallest ld
+     */
+    if (ld < min_ld){
+      min_ld = ld;
       location = i;
     }
-    /*if (i==8){
-       return Py_BuildValue("s", match);}*/
+    free(match);
   }
-  char *test;
-  //strncpy(test, str2+location, len_str2);
+    
   return Py_BuildValue("i", location);
 }
 
