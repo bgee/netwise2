@@ -112,6 +112,8 @@ def main():
                         result_sheet.cell(row = count, column = 5).value = match_string
                         result_sheet.cell(row = count, column = 6).value = title_string
                         count += 1
+                        updated_result = ExcelWriter(workbook = result_book)
+                        updated_result.save(filename = 'new.xlsx')
 
                         # co-author match
                         if len(author_row[i]) >= 9:
@@ -138,6 +140,8 @@ def main():
                             result_sheet.cell(row = count, column = 5).value = match_string
                             result_sheet.cell(row = count, column = 6).value = co_author
                             count += 1
+                            updated_result = ExcelWriter(workbook = result_book)
+                            updated_result.save(filename = 'new.xlsx')
 
                         # institution match
                         institution = str(author_row[i][4].value)
