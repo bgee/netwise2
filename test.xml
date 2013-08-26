@@ -1,0 +1,301 @@
+<db>
+
+<REC inst_id="5" recid="181575454" hot="yes" sortkey="3068591063" timescited="0" sharedrefs="0" inpi="false">
+<item issue="181575446" recid="181575454" coverdate="200900" sortkey="3068591063" refkey="4082728" dbyear="2009">
+<ut>000267074100003</ut>
+<i_ckey>LEI 0517090088AJ</i_ckey>
+<i_cid>0129046139</i_cid>
+<source_title>APPLICABLE ANALYSIS</source_title>
+<source_abbrev>APPL ANAL</source_abbrev>
+<item_title>Approximation of Hopkins equation in Hilbert space and its application in polarized illumination modelling</item_title>
+<sq>03567J0</sq>
+<bib_id>88 (4): 517-528 2009</bib_id>
+<article_nos count="2">
+<article_no>DOI 10.1080/00036810902889575</article_no>
+<article_no>PII 912453107</article_no>
+</article_nos>
+<bib_pages begin="517" end="528" pages="12">517-528</bib_pages>
+<bib_issue year="2009" vol="88"/>
+<doctype code="@">Article</doctype>
+<editions full="SCI"/>
+<languages count="1">
+<primarylang code="EN">English</primarylang>
+</languages>
+<authors count="4">
+<primaryauthor>Lei, JJ</primaryauthor>
+<fullauthorname>
+<AuRole>Author</AuRole>
+<AuLastName>Lei</AuLastName>
+<AuFirstName>Junjiang</AuFirstName>
+<address number="2">Synopsys Inc, Mountain View, CA 94043 USA</address>
+<AuCollectiveName>Lei, Junjiang</AuCollectiveName>
+</fullauthorname>
+<author key="7471998">Wen, JC</author>
+<fullauthorname>
+<AuRole>Author</AuRole>
+<AuLastName>Wen</AuLastName>
+<AuFirstName>Jie-Chang</AuFirstName>
+<address number="3">GuangDong Univ Technol, Fac Appl Math, Guangzhou, Guangdong, Peoples R China</address>
+<AuCollectiveName>Wen, Jie-Chang</AuCollectiveName>
+</fullauthorname>
+<author key="229">A, M</author>
+<fullauthorname>
+<AuRole>Author</AuRole>
+<AuLastName>A</AuLastName>
+<AuFirstName>Min</AuFirstName>
+<address number="4">So Illinois Univ, Dept Math, Carbondale, IL 62901 USA</address>
+<AuCollectiveName>A, Min</AuCollectiveName>
+</fullauthorname>
+<author key="7666126">Xiao, MQ</author>
+<fullauthorname>
+<AuRole>Author, Reprint Author</AuRole>
+<AuLastName>Xiao</AuLastName>
+<AuFirstName>Mingqing</AuFirstName>
+<address number="1">Coppin State Univ, Dept Math &amp; Comp Sci, Baltimore, MD 21216 USA</address>
+<AuCollectiveName>Xiao, Mingqing</AuCollectiveName>
+</fullauthorname>
+</authors>
+<emails count="1">
+<email>
+<name>Xiao, MQ</name>
+<email_addr>mxiao@siu.edu</email_addr>
+</email>
+</emails>
+<keywords count="3">
+<keyword>polarized illumination source</keyword>
+<keyword>Hopkins equation</keyword>
+<keyword>Hermitian integral kernel</keyword>
+</keywords>
+<keywords_plus count="2">
+<keyword>PROXIMITY CORRECTION</keyword>
+<keyword>LITHOGRAPHY</keyword>
+</keywords_plus>
+<reprint>
+<rp_author>Xiao, MQ</rp_author>
+<rp_address>Coppin State Univ, Dept Math &amp; Comp Sci, Baltimore, MD 21216 USA</rp_address>
+<rp_organization>Coppin State Univ</rp_organization>
+<rp_suborganizations count="1">
+<rp_suborganization>Dept Math &amp; Comp Sci</rp_suborganization>
+</rp_suborganizations>
+<rp_city>Baltimore</rp_city>
+<rp_state>MD</rp_state>
+<rp_country>USA</rp_country>
+<rp_zips count="1">
+<rp_zip location="AP">21216</rp_zip>
+</rp_zips>
+</reprint>
+<research_addrs count="4">
+<research>
+<rs_address number="1">Coppin State Univ, Dept Math &amp; Comp Sci, Baltimore, MD 21216 USA</rs_address>
+<rs_organization>Coppin State Univ</rs_organization>
+<rs_suborganizations count="1">
+<rs_suborganization>Dept Math &amp; Comp Sci</rs_suborganization>
+</rs_suborganizations>
+<rs_city>Baltimore</rs_city>
+<rs_state>MD</rs_state>
+<rs_country>USA</rs_country>
+<rs_zips count="1">
+<rs_zip location="AP">21216</rs_zip>
+</rs_zips>
+</research>
+<research>
+<rs_address number="2">Synopsys Inc, Mountain View, CA 94043 USA</rs_address>
+<rs_organization>Synopsys Inc</rs_organization>
+<rs_city>Mountain View</rs_city>
+<rs_state>CA</rs_state>
+<rs_country>USA</rs_country>
+<rs_zips count="1">
+<rs_zip location="AP">94043</rs_zip>
+</rs_zips>
+</research>
+<research>
+<rs_address number="3">GuangDong Univ Technol, Fac Appl Math, Guangzhou, Guangdong, Peoples R China</rs_address>
+<rs_organization>GuangDong Univ Technol</rs_organization>
+<rs_suborganizations count="1">
+<rs_suborganization>Fac Appl Math</rs_suborganization>
+</rs_suborganizations>
+<rs_city>Guangzhou</rs_city>
+<rs_state>Guangdong</rs_state>
+<rs_country>Peoples R China</rs_country>
+</research>
+<research>
+<rs_address number="4">So Illinois Univ, Dept Math, Carbondale, IL 62901 USA</rs_address>
+<rs_organization>So Illinois Univ</rs_organization>
+<rs_suborganizations count="1">
+<rs_suborganization>Dept Math</rs_suborganization>
+</rs_suborganizations>
+<rs_city>Carbondale</rs_city>
+<rs_state>IL</rs_state>
+<rs_country>USA</rs_country>
+<rs_zips count="1">
+<rs_zip location="AP">62901</rs_zip>
+</rs_zips>
+</research>
+</research_addrs>
+<fund_ack count="1">
+<fund_text>
+<p>This research is supported in part by NSF DMS-0605181.</p>
+</fund_text>
+<grant>
+<fund_org>NSF</fund_org>
+<fund_grants count="1">
+<fund_grant>DMS-0605181</fund_grant>
+</fund_grants>
+</grant>
+</fund_ack>
+<abstract avail="Y" count="1">
+<p>In this article, we derive an analytical approximation to compute the aerial images on general geometric domains. Under the framework in Hilbert space, we develop a general approximation model for aerial image intensity, which is particularly valid for the computation of the aerial image with polarized illumination source. Our mathematical result is a generalization of classical Mercer's theorem provided that the integral kernel is Hilbert-Schmidt. By applying Synopsys's simulation tool Progen, we demonstrate the effectiveness of our proposed approximation with polarized illumination sources (65 nm and below). Since our approach setting is quite general, the proposed approximation in this article is suitable for modification in various applications.</p>
+</abstract>
+<refs count="17">
+<ref>158894796</ref>
+<ref>112163491</ref>
+<ref>103281477</ref>
+<ref>129975421</ref>
+<ref>172629395</ref>
+<ref>110639900</ref>
+<ref>104990755</ref>
+<ref>94132502</ref>
+<ref>146315985</ref>
+<ref>77969259</ref>
+<ref>134151</ref>
+<ref>99488287</ref>
+<ref>168307277</ref>
+<ref>168307280</ref>
+<ref>61092596</ref>
+<ref>130545392</ref>
+<ref>73084101</ref>
+</refs>
+</item>
+
+<cite>
+<SP>S</SP><CK>BAI 0961055754PM</CK><AU>BAI M</AU><J2>P SOC PHOTO-OPT  1-3</J2><VL>5754</VL><BP>961</BP><PY>2005</PY><AN> </AN><LOC>158894796</LOC><REF>106989231</REF><RECID>158894796</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>U</SP><CK></CK><AU>BORN M</AU><J2>PRINCIPLES OPTICS</J2><VL> </VL><BP> </BP><PY>1999</PY><AN> </AN><LOC></LOC><REF></REF><RECID>112163491</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>BRUN0198962726PT</CK><AU>BRUNNER TA</AU><J2>P SOC PHOTO-OPT INS</J2><VL>2726</VL><BP>198</BP><PY>1996</PY><AN> </AN><LOC>103281477</LOC><REF>28957991</REF><RECID>103281477</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>BUTZ019300    DP</CK><AU>BUTZER PL</AU><J2>DEV MATH 1950 2000</J2><VL> </VL><BP>193</BP><PY>2000</PY><AN> </AN><LOC></LOC><REF>91346928</REF><RECID>129975421</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>CARM0377060004AC</CK><AU>CARMELI C</AU><J2>ANAL APPL</J2><VL>4</VL><BP>377</BP><PY>2006</PY><AN> </AN><LOC>172629395</LOC><REF>123855877</REF><RECID>172629395</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>COBB0458973051PN</CK><AU>COBB N</AU><J2>P SOC PHOTO-OPT INS</J2><VL>3051</VL><BP>458</BP><PY>1997</PY><AN> </AN><LOC>110639900</LOC><REF>42893355</REF><RECID>110639900</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>COBB0208962726PN</CK><AU>COBB N</AU><J2>P SOC PHOTO-OPT INS</J2><VL>2726</VL><BP>208</BP><PY>1996</PY><AN> </AN><LOC>104990755</LOC><REF>28957992</REF><RECID>104990755</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>FLAG0053960013JD</CK><AU>FLAGELLO DG</AU><J2>J OPT SOC AM A</J2><VL>13</VL><BP>53</BP><PY>1996</PY><AN> </AN><LOC>94132502</LOC><REF>8303333</REF><RECID>94132502</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>GRAN0377024691PY</CK><AU>GRANIK Y</AU><J2>P SOC PHOTO-OPT  1&amp;2</J2><VL>4691</VL><BP>377</BP><PY>2002</PY><AN> </AN><LOC>146315985</LOC><REF>91795445</REF><RECID>146315985</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>U</SP><CK></CK><AU>HOCHSTADT H</AU><J2>INTEGRAL EQUATIONS</J2><VL> </VL><BP> </BP><PY>1989</PY><AN> </AN><LOC></LOC><REF></REF><RECID>77969259</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>HOPK0263510208PH</CK><AU>HOPKINS HH</AU><J2>P ROY SOC LOND A MAT</J2><VL>208</VL><BP>263</BP><PY>1951</PY><AN> </AN><LOC>134151</LOC><REF>11786696</REF><RECID>134151</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>LEI 0481970028SJ</CK><AU>LEI JJ</AU><J2>SIAM J MATH ANAL</J2><VL>28</VL><BP>481</BP><PY>1997</PY><AN> </AN><LOC>99488287</LOC><REF>32337338</REF><RECID>99488287</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>LEI 0953055754PJ</CK><AU>LEI JJ</AU><J2>P SOC PHOTO-OPT  1-3</J2><VL>5754</VL><BP>953</BP><PY>2005</PY><AN> </AN><LOC>168307277</LOC><REF>106989229</REF><RECID>168307277</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>LEI 0245000004CJ</CK><AU>LEI J</AU><J2>COMMUN APPL ANAL</J2><VL>4</VL><BP>245</BP><PY>2000</PY><AN> </AN><LOC></LOC><REF>106989230</REF><RECID>168307280</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>MANS2086860003JM</CK><AU>MANSURIPUR M</AU><J2>J OPT SOC AM A</J2><VL>3</VL><BP>2086</BP><PY>1986</PY><AN> </AN><LOC>61092596</LOC><REF>2716748</REF><RECID>61092596</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>RAND0176993679PJ</CK><AU>RANDALL J</AU><J2>P SOC PHOTO-OPT INS</J2><VL>3679</VL><BP>176</BP><PY>1999</PY><AN> </AN><LOC>130545392</LOC><REF>70505212</REF><RECID>130545392</RECID><NR>0</NR>
+</cite>
+
+<cite>
+<SP>S</SP><CK>YEUN0149880922SM</CK><AU>YEUNG M</AU><J2>SPIE P</J2><VL>922</VL><BP>149</BP><PY>1988</PY><AN> </AN><LOC></LOC><REF>334217</REF><RECID>73084101</RECID><NR>0</NR>
+</cite>
+
+</REC>
+
+<REC inst_id="24" recid="129052262" hot="yes" sortkey="3169893745" timescited="62" sharedrefs="0" inpi="false">
+<item issue="129052261" recid="129052262" coverdate="200304" sortkey="3169893745" refkey="4390714" dbyear="2003">
+<ut>000182090000001</ut>
+<i_ckey>MAHM0028030005NS</i_ckey>
+<i_cid>0093993421</i_cid>
+<source_title>NEW JOURNAL OF PHYSICS</source_title>
+<source_abbrev>NEW J PHYS</source_abbrev>
+<item_title>Ion acoustic solitary wave in homogeneous magnetized electron-positron-ion plasmas</item_title>
+<bib_id>5: - APR 2 2003</bib_id>
+<article_nos count="2">
+<article_no>ARTN 28</article_no>
+<article_no>PII S1367-2630(03)58544-5</article_no>
+</article_nos>
+<bib_pages begin="" end="" pages="10">-</bib_pages>
+<bib_issue year="2003" vol="5"/>
+<doctype code="@">Article</doctype>
+<editions full="SCI"/>
+<languages count="1">
+<primarylang code="EN">English</primarylang>
+</languages>
+<authors count="3">
+<primaryauthor>Mahmood, S</primaryauthor>
+<author key="229">A, M</author>
+<author key="6077799">Saleem, H</author>
+</authors>
+<keywords_plus count="2">
+<keyword>PROPAGATION</keyword>
+<keyword>TEMPERATURE</keyword>
+</keywords_plus>
+<reprint>
+<rp_author>Mahmood, S</rp_author>
+<rp_address>CIIT, Dept Phys, Sector H-8, Islamabad, Pakistan</rp_address>
+<rp_organization>CIIT</rp_organization>
+<rp_suborganizations count="1">
+<rp_suborganization>Dept Phys</rp_suborganization>
+</rp_suborganizations>
+<rp_street>Sector H-8</rp_street>
+<rp_city>Islamabad</rp_city>
+<rp_country>Pakistan</rp_country>
+</reprint>
+<research_addrs count="2">
+<research>
+<rs_address>CIIT, Dept Phys, Islamabad, Pakistan</rs_address>
+<rs_organization>CIIT</rs_organization>
+<rs_suborganizations count="1">
+<rs_suborganization>Dept Phys</rs_suborganization>
+</rs_suborganizations>
+<rs_city>Islamabad</rs_city>
+<rs_country>Pakistan</rs_country>
+</research>
+<research>
+<rs_address>PINSTECH NPD, Islamabad, Pakistan</rs_address>
+<rs_organization>PINSTECH NPD</rs_organization>
+<rs_city>Islamabad</rs_city>
+<rs_country>Pakistan</rs_country>
+</research>
+</research_addrs>
+<abstract avail="Y" count="1">
+<p>The nonlinear ion acoustic wave propagating obliquely with respect to an external magnetic field is studied in a homogeneous magnetized electron positron-ion plasma. It is found that the amplitude of the solitary structure increases with the percentage presence of positrons, which is opposite behaviour to the previous study of these waves in an unmagnetized plasma. The speed of the obliquely propagating soliton in a magnetized plasma turns out to be subsonic, while it is supersonic in the unmagnetized case already studied.</p>
+</abstract>
+<refs count="27">
+
