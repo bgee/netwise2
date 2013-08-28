@@ -9,8 +9,8 @@
 #define MIN3(a, b, c) ((a) < (b) ? ((a) < (c) ? (a) : (c)) : ((b) < (c) ? (b) : (c)))
 int levenshtein(char *s1, char *s2) {
     unsigned int x, y, s1len, s2len;
-    s1len = strlen(s1);
-    s2len = strlen(s2);
+    s1len = (int) strlen(s1);
+    s2len = (int) strlen(s2);
     unsigned int matrix[s2len+1][s1len+1];
     matrix[0][0] = 0;
     for (x = 1; x <= s2len; x++)
@@ -33,7 +33,6 @@ int levenshtein(char *s1, char *s2) {
  */
 static PyObject* py_myFunction(PyObject* self, PyObject* args)
 {
-  char *s = "Hello from C!";
   //return Py_BuildValue("s", s);
   char *str1, *str2;
   int len_str1, len_str2;
@@ -41,8 +40,8 @@ static PyObject* py_myFunction(PyObject* self, PyObject* args)
   if (!PyArg_ParseTuple(args, "ss", &str1, &str2)){
     exit(5);
   }
-  len_str1 = strlen(str1);
-  len_str2 = strlen(str2);
+  len_str1 = (int) strlen(str1);
+  len_str2 = (int) strlen(str2);
   //printf("%s", x);
   //int ld = levenshtein(str1, len_str1, str2, len_str2);
   int ld = levenshtein(str1, str2);
@@ -61,8 +60,8 @@ static PyObject* find_match(PyObject* self, PyObject* args)
   if (!PyArg_ParseTuple(args, "ss", &str1, &str2)){
     exit(5);
   }
-  len_str1 = strlen(str1);
-  len_str2 = strlen(str2);
+  len_str1 = (int) strlen(str1);
+  len_str2 = (int) strlen(str2);
   if (len_str1 <= len_str2){
     return Py_BuildValue("i", 0);
   }
@@ -111,7 +110,7 @@ static PyMethodDef ldModule_methods[] = {
 /*
  * Python calls this to let us initialize our module
  */
-void initldModule()
+void initldModule(void)
 {
   (void) Py_InitModule("ldModule", ldModule_methods);
 }
