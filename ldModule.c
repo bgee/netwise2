@@ -82,6 +82,9 @@ static PyObject* find_match(PyObject* self, PyObject* args)
     
     int ld = levenshtein(match, str2);
     if (0 == ld){
+      // @free
+      free(match);
+      free(matrix);
       return Py_BuildValue("i", i);
     }
     matrix[i] = ld;
@@ -92,7 +95,9 @@ static PyObject* find_match(PyObject* self, PyObject* args)
       min_ld = ld;
       location = i;
     }
+    // @free
     free(match);
+    free(matrix);
   }
     
   return Py_BuildValue("i", location);
