@@ -9,7 +9,7 @@ def process_record(record):
         for grandchild in child:
             print grandchild.tag, grandchild.attrib'''
     root = BeautifulSoup(record)
-    print root.i_ckey.string
+    print root.recid.string
     exit(0)
 
 def main():
