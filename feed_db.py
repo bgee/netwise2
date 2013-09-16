@@ -7,15 +7,15 @@ def get_tag_attr(element,attr): return '' if element is None else element.get(at
 
 
 def insert_article(db, xml):
-    ARTICLE_recid = get_tag_attr(REC,"recid")
-    ARTICLE_ut=get_tag_text(REC.find("./item/ut"))
+    ARTICLE_recid = get_tag_attr(xml,"recid")
+    ARTICLE_ut=get_tag_text(xml.find("./item/ut"))
     ARTICLE_journal_id=0
-    ARTICLE_title=get_tag_text(REC.find("./item/item_title"))
-    ARTICLE_times_cited = get_tag_attr(REC,"timescited")
-    ARTICLE_year=get_tag_attr(REC.find("./item/bib_issue"),"year")
-    ARTICLE_doctype=get_tag_text(REC.find("./item/doctype"))
-    ARTICLE_primary_author=get_tag_text(REC.find("./item/authors/primaryauthor"))
-    ARTICLE_abstract=get_tag_text(REC.find("./item/abstract/p"))
+    ARTICLE_title=get_tag_text(xml.find("./item/item_title"))
+    ARTICLE_times_cited = get_tag_attr(xml,"timescited")
+    ARTICLE_year=get_tag_attr(xml.find("./item/bib_issue"),"year")
+    ARTICLE_doctype=get_tag_text(xml.find("./item/doctype"))
+    ARTICLE_primary_author=get_tag_text(xml.find("./item/authors/primaryauthor"))
+    ARTICLE_abstract=get_tag_text(xml.find("./item/abstract/p"))
     
     sqlQ='INSERT INTO article (recid, ut, journal_id, title, times_cited, year, doctype, primary_author, abstract)  VALUES ("{0}", "{1}", {2}, "{3}", {4}, {5}, "{6}", "{7}", "{8}");'.format(ARTICLE_recid, ARTICLE_ut, ARTICLE_journal_id, ARTICLE_title, ARTICLE_times_cited, ARTICLE_year, ARTICLE_doctype, ARTICLE_primary_author, ARTICLE_abstract)                                                                                                
     
