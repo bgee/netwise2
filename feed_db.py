@@ -38,8 +38,8 @@ def main():
     currentRec=1    
     record = []    # http://www.skymind.com/~ocrow/python_string/  method 4
 
-    nw2db=MySQLdb.connect(host='localhost', named_pipe=1, user='nw2admin', passwd='netwise2root', db='dbkbe')
-    #nw2db=MySQLdb.connect(host='127.0.0.1', port=3306, user='nw2admin', passwd='netwise2root', db='dbkbe')
+    #nw2db=MySQLdb.connect(host='localhost', named_pipe=1, user='nw2admin', passwd='netwise2root', db='dbkbe')
+    nw2db=MySQLdb.connect(host='127.0.0.1', port=3306, user='nw2admin', passwd='netwise2root', db='dbkbe')
                           
     with open('C:\TR_DATA\TR source data\TR_'+str(tr)+'00k.xml','r') as f:        
         
